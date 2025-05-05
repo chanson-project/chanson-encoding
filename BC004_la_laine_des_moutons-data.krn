@@ -5,8 +5,8 @@
 !!!PDT: 2011
 !!!YEM: On ne peut reproduire, enregistrer ou diffuser en tout ou en partie le présent ouvrage, sous quelque procédé que ce soit, électronique, mécanique, photographique, sonore, magnétique ou autre, sans avoir obtenu au préalable l'autorisation écrite de l'éditrice.
 !!!SMA: 2012 Bibliothèque nationale du Québec; Biblothèque nationale du Canada
-!!!AGN-type:Chanson de travail
-!!!AGN-Laforte:Chanson énumérative, 4:12(6+6),10(4+6)
+!!!AGN-type: Chanson de travail
+!!!AGN-Laforte: Chanson énumérative, 4:12(6+6),10(4+6)
 !!!AGN-rhyme: croisées en troncs
 **kern	**text	**text	**text	**text	**text	**text
 *clefG2	*	*	*	*	*	*
@@ -31,6 +31,7 @@
 16cc	qui	qui	qui	qui	qui	qui
 8dd	la	la	la	la	la	la
 8b	ton-	la-	car-	fi-	ven-	chan-
+!!LO:PB:g=original
 =4	=4	=4	=4	=4	=4	=4
 8cc	-dai-	-vai-	-dai-	-lai-	-dai-	-tai-
 8a}}	-nes,}	-nes,}	-nes,}	-nes,}	-nes,}	-nes,}
@@ -55,6 +56,7 @@
 16dd	qui	qui	qui	qui	qui	qui
 8cc	la	la	la	la	la	la
 8b	ton-	la-	car-	fi-	ven-	chan-
+!!LO:PB:g=original
 =8	=8	=8	=8	=8	=8	=8
 4a}}	-dons,}	-vons,}	-dons,}	-lons,}	-dons,}	-tons,}
 *	*rp:õ	*rp:õ	*rp:õ	*rp:õ	*rp:õ	*rp:õ
@@ -76,6 +78,7 @@
 16dd	-ne	-ne	-ne	ne	ne	ne
 8cc	des	des	des	des	des	des
 8b	mou-	mou-	mou-	mou-	mou-	mou-
+!!LO:PB:g=original
 =12	=12	=12	=12	=12	=12	=12
 8cc	-tai-	-tai-	-tai-	tai-	tai-	tai-
 8a}}	-nes,}	-nes,}	-nes,}	-nes,}	-nes,}	-nes,}
@@ -105,3 +108,5 @@
 *	*rs:a	*rs:a	*rs:a	*rs:a	*rs:a	*rs:a
 ==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-
+!!!EED: Ève Poudrier
+!!!EEV: 2025/May/05
