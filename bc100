@@ -1,14 +1,15 @@
 General encoding:
 1. Each song is preceded by record comments; here is the record comments for “O Canada!” (note that there is a space between the colon and the entry):
     - Composer: !!!COM: Lavallée, Calixa
-    - Author:	!!!LYR: Routhier, juge A.-B.
+    - Author: !!!LYR: Routhier, juge A.-B.
     - Collection title:	!!!PTL@@FR: Les 100 plus belles chansons
     - Song title: !!!OTL@@FR: O Canada, Terre de nos aïeux
     - Publisher: !!!PUB: La Bonne Chanson, inc.
     - Copyright notice:	!!!YEM: On ne peut reproduire, enregistrer ou diffuser en tout ou en partie le présent ouvrage, sous quelque procédé que ce soit, électronique, mécanique, photographique, sonore, magnétique ou autre, sans avoir obtenu au préalable l'autorisation 	écrite de l'éditrice.
     - Year published: !!!PDT: 2011
     - Legal deposit: !!!SMA:2012 Bibliothèque nationale du Québec; Biblothèque nationale du Canada
-    - Song type: !!!AGN-Laforte: Chanson strophique (sans refrain), 8:10(4+6)
+    - Song type (Laforte): !!!AGN-Laforte: Chanson strophique (sans refrain), 8:10(4+6)
+    - Song type (general)!!!AGN-type: hymne national 
     - Rhyming scheme: !!!AGN-rime: mixte (suivies = 2, croisées = 6)
 2. Each element (melody and textual lines) is encoded in a kern spine:
 	  Spine 1: melody = * (necessary in kern syntax if the next spine is filled)
