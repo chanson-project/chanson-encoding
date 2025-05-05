@@ -19,6 +19,8 @@ General encoding:
 4. To keep the layout the same as in original use !!LO:PB:g=original placed above the measure that appears on the next system. 
     This can be activated by clicking the alignment button (same icon as middle alignment). Note that for songs that are more than four or five systems, 
     you may set the view as “continuous” rather than “page” view on the far right of the toolbar.
+5. To add a comment (e.g., pitch variant) add a line above the relevant entry and use an exclamation mark followed by the comment (e.g., !pitch variant:b). 
+    NOTE: Once a comment is entered, an exclamation mark needs to be added to each spine in the corresponding row.
 
 	
 Text encoding:
