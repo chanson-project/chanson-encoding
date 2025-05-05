@@ -11,7 +11,7 @@ General encoding:
     - Song type (Laforte): !!!AGN-Laforte: Chanson strophique (sans refrain), 8:10(4+6)
     - Song type (general)!!!AGN-type: hymne national 
     - Rhyming scheme: !!!AGN-rime: mixte (suivies = 2, croisées = 6)
-2. Each element (melody and textual lines) is encoded in a kern spine:
+2. Each element (melody and textual lines) is encoded in a kern spine; each spine is identified as **kern or **text
 	  Spine 1: melody = * (necessary in kern syntax if the next spine is filled)
 	  Spine 2: verse 1 (“strophe” 1) = *v:1
 	  Spine 3: verse 2 (“strophe” 2) = *v:2
@@ -21,7 +21,9 @@ General encoding:
     you may set the view as “continuous” rather than “page” view on the far right of the toolbar.
 5. To add a comment (e.g., pitch variant) add a line above the relevant entry and use an exclamation mark followed by the comment (e.g., !pitch variant:b). 
     NOTE: Once a comment is entered, an exclamation mark needs to be added to each spine in the corresponding row.
-
+6. Record your name and completion date (year/month/day) of encoding at the end of the page:
+	- Name of encoder: !!!EED: Ève Poudrier
+	- Completion date: !!!EEV: 2025/May/06
 	
 Text encoding:
 1. Each middle and end syllables of a word need to be preceded by a dash.
@@ -51,6 +53,7 @@ Music Encoding:
     - Segments are often delimited by rests; they do not form a full thought.
     - Phrases can be determined by rests and/or melodic contour (e.g., arch) and end with a melodic cadence; they may correspond with the end of a textual line.
     - Periods are comprised of at least two phrases that are often related (e.g., parallel) and each of which ends with a cadence.
+3. Add tempo expression below the first measure where it applies, e.g., !!LO:TX:a:t=Majestueux et résolu (see "O, Canada").
 
 Text analysis:
 1. Rhymes: Mark the assonance, full rhyme, and structure label after the last word of each line. Refrain lines are also labeled using the same system, 
