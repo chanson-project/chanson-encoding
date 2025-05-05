@@ -1,0 +1,107 @@
+!!!COM: Chanson d'Auvergne (traditionelle)
+!!!PTL@@FR: Les 100 plus belles chansons
+!!!OTL@@FR: La laine des moutons
+!!!PUB: La Bonne Chanson, inc.
+!!!PDT: 2011
+!!!YEM: On ne peut reproduire, enregistrer ou diffuser en tout ou en partie le présent ouvrage, sous quelque procédé que ce soit, électronique, mécanique, photographique, sonore, magnétique ou autre, sans avoir obtenu au préalable l'autorisation écrite de l'éditrice.
+!!!SMA: 2012 Bibliothèque nationale du Québec; Biblothèque nationale du Canada
+!!!AGN-type:Chanson de travail
+!!!AGN-Laforte:Chanson énumérative, 4:12(6+6),10(4+6)
+!!!AGN-rhyme: croisées en troncs
+**kern	**text	**text	**text	**text	**text	**text
+*clefG2	*	*	*	*	*	*
+*a:	*	*	*	*	*	*
+*M3/8	*	*	*	*	*	*
+*	*v:1	*v:2	*v:3	*v:4	*v:5	*v:6
+*	*pline:1	*pline:5	*pline:9	*pline:13	*pline:17	*pline:21
+{{8e	{La	{La	{La	{La	{La	{La
+=1	=1	=1	=1	=1	=1	=1
+16a	lai-	lai-	lai-	lai-	lai-	la-
+16g	-ne	-ne	-ne	-ne	-ne	-ne
+8a	des	des	des	des	des	des
+8b	mou-	mou-	mou-	mou-	mou-	mou-
+=2	=2	=2	=2	=2	=2	=2
+4cc}	-tons,}	-tons,}	-tons,}	-tons,}	-tons,}	-tons,}
+*	*rp:õ	*rp:õ	*rp:õ	*rp:õ	*rp:õ	*rp:õ
+*	*rf:tõ	*rf:tõ	*rf:tõ	*rf:tõ	*rf:tõ	*rf:tõ
+*	*rs:a	*rs:a	*rs:a	*rs:a	*rs:a	*rs:a
+{8cc	{C'est	{C'est	{C'est	{C'est	{C'est	{C'est
+=3	=3	=3	=3	=3	=3	=3
+16b	nous	nous	nous	nous	nous	nous
+16cc	qui	qui	qui	qui	qui	qui
+8dd	la	la	la	la	la	la
+8b	ton-	la-	car-	fi-	ven-	chan-
+=4	=4	=4	=4	=4	=4	=4
+8cc	-dai-	-vai-	-dai-	-lai-	-dai-	-tai-
+8a}}	-nes,}	-nes,}	-nes,}	-nes,}	-nes,}	-nes,}
+*	*rp:ɛ	*rp:ɛ	*rp:ɛ	*rp:ɛ	*rp:ɛ	*rp:ɛ
+*	*rf:dɛn	*rf:ɛn	*rf:ɛn	*rf:ɛn	*rf:ɛn	*rf:tɛn
+*	*rs:b	*rs:b	*rs:b	*rs:b	*rs:b	*rs:
+*	*pline:2	*pline:6	*pline:10	*pline:14	*pline:18	*pline:22
+{{8e	{La	{La	{La	{La	{La	{La
+=5	=5	=5	=5	=5	=5	=5
+16a	lai-	lai	lai-	lai-	lai-	lai-
+16g	-ne	-ne	-ne	ne	ne	ne
+8a	des	des	des	des	des	des
+8b	mou-	mou-	mou-	mou-	mou-	mou-
+=6	=6	=6	=6	=6	=6	=6
+4cc}	-tons,}	-tons,}	-tons,}	-tons,}	-tons,}	-tons,}
+*	*rp:õ	*rp:õ	*rp:õ	*rp:õ	*rp:õ	*rp:õ
+*	*rf:tõ	*rf:tõ	*rf:tõ	*rf:tõ	*rf:tõ	*rf:tõ
+*	*rs:a	*rs:a	*rs:a	*rs:a	*rs:a	*rs:a
+{8ee	{C'est	{C'est	{C'est	{C'est	{C'est	{C'est
+=7	=7	=7	=7	=7	=7	=7
+16ee	nous	nous	nous	nous	nous	nous
+16dd	qui	qui	qui	qui	qui	qui
+8cc	la	la	la	la	la	la
+8b	ton-	la-	car-	fi-	ven-	chan-
+=8	=8	=8	=8	=8	=8	=8
+4a}}	-dons,}	-vons,}	-dons,}	-lons,}	-dons,}	-tons,}
+*	*rp:õ	*rp:õ	*rp:õ	*rp:õ	*rp:õ	*rp:õ
+*	*rf:dõ	*rf:võ	*rf:dõ	*rf:lõ	*rf:dõ	*rf:tõ
+*	*rs:c	*rs:d	*rs:c	*rs:e	*rs:c	*rs:a
+*	*pline:3	*pline:7	*pline:11	*pline:15	*pline:19	*pline:23
+{{8ee	{Ton-	{La-	{Car-	{Fi-	{Ven-	{Chan-
+=9	=9	=9	=9	=9	=9	=9
+4b	-dons,	-vons,	-dons,	-lons,	-dons,	-tons,
+8ee}	ton-	la-	car-	fi-	ven-	chan-
+=10	=10	=10	=10	=10	=10	=10
+{4cc	-dons,}	-vons,}	-dons,}	-lons,}	-dons,}	-tons,}
+*	*rp:õ	*rp:õ	*rp:õ	*rp:õ	*rp:õ	*rp:õ
+*	*rf:dõ	*rf:võ	*rf:dõ	*rf:lõ	*	*rf:tõ
+*	*rs:c	*rs:d	*rs:c	*rs:e	*rs:a	*rs:a
+8ee	{La	{La	{La	{La	{La	{La
+=11	=11	=11	=11	=11	=11	=11
+16ee	lai-	lai-	lai-	lai-	lai-	lai-
+16dd	-ne	-ne	-ne	ne	ne	ne
+8cc	des	des	des	des	des	des
+8b	mou-	mou-	mou-	mou-	mou-	mou-
+=12	=12	=12	=12	=12	=12	=12
+8cc	-tai-	-tai-	-tai-	tai-	tai-	tai-
+8a}}	-nes,}	-nes,}	-nes,}	-nes,}	-nes,}	-nes,}
+*	*rp:ɛ	*rp:ɛ	*rp:ɛ	*rp:ɛ	*rp:ɛ	*rp:ɛ
+*	*rf:ɛn	*rf:ɛn	*rf:ɛn	*rf:ɛn	*rf:ɛn	*rf:ɛn
+*	*rs:b	*rs:b	*rs:b	*rs:b	*rs:b	*rs:b
+*	*pline:4	*pline:8	*pline:12	*pline:16	*pline:20	*pline:24
+{{8ee	{Ton-	{La-	{Car-	{Fi-	{Ven-	{Chan-
+=13	=13	=13	=13	=13	=13	=13
+4b	-dons,	-vons,	-dons,	-lons,	-dons,	-tons,
+8ee	ton-	la-	car-	fi-	ven-	chan-
+=14	=14	=14	=14	=14	=14	=14
+4cc}	-dons,}	-vons,}	-dons,}	-lons,}	-dons,}	-tons,}
+*	*rp:õ	*rp:õ	*rp:õ	*rp:õ	*rp:õ	*rp:õ
+*	*rf:dõ	*rf:võ	*rf:dõ	*rf:lõ	*rf:dõ	*rf:tõ
+*	*rs:c	*rs:d	*rs:c	*rs:e	*rs:c	*rs:a
+{8ee	{La	{La	{La	{La	{La	{La
+=15	=15	=15	=15	=15	=15	=15
+16ee	lai-	lai-	lai-	lai-	lai-	lai-
+16dd	-ne	-ne	-ne	-ne	-ne	-ne
+8cc	des	des	des	des	des	des
+8b	mou-	mou-	mou-	mou-	mou-	mou-
+=16	=16	=16	=16	=16	=16	=16
+4a}}	-tons.}	-tons.}	-tons.}	-tons.}	-tons.}	-tons.}
+*	*rp:õ	*rp:õ	*rp:õ	*rp:õ	*rp:õ	*rp:õ
+*	*rf:tõ	*rp:tõ	*rp:tõ	*rp:tõ	*rp:tõ	*rp:tõ
+*	*rs:a	*rs:a	*rs:a	*rs:a	*rs:a	*rs:a
+==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-

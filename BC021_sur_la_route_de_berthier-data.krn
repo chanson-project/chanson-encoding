@@ -1,0 +1,204 @@
+!!!COM:Folklore canadien; arr. Charles-Émile Gadbois
+!!!OPR@FR:Les 100 plus belles chansons
+!!!OTL@FR:Sur la route de Berthier
+!!!AGN-type:Chanson de route
+!!!PUB:La Bonne Chanson
+!!!YEC:2012 Bibliothèque nationale du Québec; Biblothèque nationale du Canada
+!!!AGN-form:Chanson à répondre with refrain
+!!!AGN-rhyme:v,suivies
+!!!AGN-metre:irregular
+**kern		**text	**text	**text	**text
+*clefG2		*	*	*	*
+*k[f#,c#]		*	*	*	*
+*D:		*	*	*	*
+*M2/4		*	*	*	*
+*		*v:1	*v:2	*v:3	*v:4
+*		*pline:1	*pline:5	*pline:9	*pline:13
+{8d		Sur	{Un'	{Le	Cett'
+8e		la	grand'	can-	ré-
+=1		=1	=1	=1	=1
+4.f#		rou-	dam'	-ton-	-pons'
+8a		-te	vient	-nier	fut
+=2		=2	=2	=2	=2
+4.e		de	à	lui	re-
+8f#		Ber-	pas-	ré-	-mar-
+=3		=3	=3	=3	=3
+[2d		-thier,	-ser,}	-pond:}	-qué'}
+=4		=4	=4	=4	=4
+8d]		.	.	.	.
+8r}		.	.	.	.
+*		*bis	*bis	*bis	*bis
+{8f#		Sur	Un'	Le	Cett'
+8g		la	grand'	can-	ré-
+!!LO:LB:g=original
+=5		=5	=5	=5	=5
+4.a		rou-	dam'	-ton-	-pons'
+8dd		-te	vient	-nier	fut
+=6		=6	=6	=6	=6
+4.b		de	à	lui	re-
+!pitch variant:dd		!	!	!	!
+8cc#		Ber-	pas-	ré-	-mar-
+=7		=7	=7	=7	=7
+[2a		-thier,	-ser	-pond:	-qué'
+=8		=8	=8	=8	=8
+8a]		.	.	.	.
+8r}		.	.	.	.
+*		*Xbis	*Xbis	*Xbis	*Xbis
+*		*pline:2	*pline:6	*pline:10	*pline:14
+{8d		Il	{Dans	"Faut	Par
+8e		y a-	un	que	sa
+=9		=9	=9	=9	=9
+4.f#		-vait	beau	j'nour-	grand'
+8a		un	car-	-riss'	sim-
+!!LO:LB:g=original
+=10		=10	=10	=10	=10
+4.e		can-	ross'	mes	-pli-
+8f#		-ton-	do-	gar-	-ci-
+=11		=11	=11	=11	=11
+[2d		-nier,	ré,}	-çons,}	-té:
+=12		=12	=12	=12	=12
+8d]		.	.	.	.
+8r}		.	.	.	.
+*		*bis	*bis	*bis	*bis
+{8f#		Il	Dans	"Faut	Par
+8g		y a-	un	que	sa
+=13		=13	=13	=13	=13
+4.a		-vait	beau	j'nour-	grand'
+8dd		un	car-	riss'	sim-
+=14		=14	=14	=14	=14
+4.b		can-	ross'	mes	-pli-
+!pitch variant:dd		!	!	!	!
+8cc#		-ton-	do-	gar-	-ci-
+!!LO:LB:g=original
+=15		=15	=15	=15	=15
+[2a		-nier	ré,	-çons,	-té:
+=16		=16	=16	=16	=16
+8a]		.	.	.	.
+16r}		.	.	.	.
+*		*Xbis	*Xbis	*Xbis	*Xbis
+*		*pline:3	*pline:7	*pline:11	*pline:15
+{{16a		{Et	{{Et	{{Car	{{C'est
+8a		qui	qui	si	s'qui
+8b		cas-	lui	j'rou-	prouv'
+=17		=17	=17	=17	=17
+*^		*	*	*	*
+*	*cue	*	*	*	*
+[<2a\	8.rdd	-sait}	dit:}	-lions}	que}
+*	*	*bis	*bis	*bis	*bis
+*	*response	*response	*response	*response	*response
+.	16a/	Et	Et	Car	C'est
+.	8a/	qui	qui	si	s'qui
+.	8b/	cas-	lui	j'rou-	prouv'
+=18	=18	=18	=18	=18	=18
+8a]\}	8a/	-sait	dit:	-lions	que
+*	*Xcue	*	*	*	*
+*	*Xresponse	*Xreponse	*Xreponse	*Xreponse	*Xreponse
+*	*	*Xbis	*Xbis	*Xbis	*Xbis
+*v	*v	*	*	*	*
+{16r		.	.	.	.
+16a		{des	{"Pauvr'	{car-	{les
+8a		tas	can-	-ross'	mal-
+8b		d'cail-	-ton-	comm'	-heu-
+!!LO:LB:g=original
+=19		=19	=19	=19	=19
+*^		*	*	*	*
+*	*response	*response	*response	*response	*response
+*	*	*bis	*bis	*bis	*bis
+*	*cue	*	*	*	*
+[<2a\	8.rdd	-loux}	-nier",}}	vous,}}	-reux,}}
+.	16a/	des	"Pauvr'	car-	les
+.	8a/	tas	can-	-ross'	mal-
+.	8b/	d'cail-	-ton-	comm'	-heu-
+=20	=20	=20	=20	=20	=20
+8a]\}}	8a/	-loux	nier",	vous,	-reux,
+*	*Xcue	*	*	*	*
+*	*	*Xbis	*Xbis	*Xbis	*Xbis
+*	*Xresponse	*Xreponse	*Xreponse	*Xreponse	*Xreponse
+*v	*v	*	*	*	*
+*		*bis	*bis	*bis	*bis
+{8g		Et	Et	Car	C'est
+8f#		qui	qui	si	s'qui
+8a		cas-	lui	j'rou-	prouv'
+=21		=21	=21	=21	=21
+4dd		-sait	dit:	-lions	que
+4a		des	"Pauvr'	car-	les
+=22		=22	=22	=22	=22
+4f#		tas	can-	-ross'	mal-
+4dd		d'cail-	ton-	comm'	-heu-
+!!LO:LB:g=original
+=23		=23	=23	=23	=23
+!additional pitch:ee		!	!	!	!
+*^		*	*	*	*
+*join	*join	*	*	*	*
+*	*cue	*	*	*	*
+[2ee	[2cc#	-loux	nier,	vous,	-reux,
+*	*	*Xbis	*Xbis	*Xbis	*Xbis
+=24	=23	=24	=24	=24	=24
+8ee]	8cc#]	.	.	.	.
+*	*Xcue	*	*	*	*
+*Xjoin	*Xjoin	*	*	*	*
+*v	*v	*	*	*	*
+8r}		.	.	.	.
+*		*pline:4	*pline:8	*pline:12	*pline:16
+{8e		{Pour	{Tu	{Je	{S'ils
+8f#		mettre	fais	n'cas-	le
+=25		=25	=25	=25	=25
+4.g		sous	un	-se-	sont,
+!pitch variant:a		!	!	!	!
+8b		l'pas-	fi-	-rions	c'est
+=26		=26	=26	=26	=26
+4.e		-sage	chu	point	mal-
+8f#		des	mé-	d'cail-	gré
+!!LO:LB:g=original
+=27		=27	=27	=27	=27
+4d		roues,}	tier,}	-loux,}	z'eux,}
+!additional pitch:f#		!	!	!	!
+!		!	!	!capital "i" in source	!capital "z" in source
+*^		*	*	*	*
+*join	*join	*	*	*	*
+*	*cue	*	*	*	*
+*	*	*bis	*bis	*bis	*bis
+8f#	8d	roues,	tier,	iou,	z'eux,
+8a	8d	roues,	tier,	iou,	z'eux,
+=28	=27	=28	=28	=28	=28
+2dd;}	2d;	roues.	tier.	iou".	z'eux.
+*	*	*Xbis	*Xbis	*Xbis	*Xbis
+*	*Xcue	*	*	*	*
+*Xjoin	*Xjoin	*	*	*	*
+*v	*v	*	*	*	*
+=||29		=||29	=||29	=||29	=||29
+*>Refrain		*>Refrain	*>Refrain	*>Refrain	*>Refrain
+!!LO:TX:a:B:t=Refrain
+{{2a		{Ah!	.	.	.
+=30		=30	=30	=30	=30
+8f#		que	.	.	.
+8a		la	.	.	.
+8f#		rout e	.	.	.
+8a		est	.	.	.
+=31		=31	=31	=31	=31
+8.b		bel-	.	.	.
+16b		-le,	.	.	.
+8b		bel-	.	.	.
+8b}		-le,	.	.	.
+!!LO:PB:g=original
+=32		=32	=32	=32	=32
+*		*bis	*	*	*
+{8g		que	.	.	.
+8b		la	.	.	.
+8g		rout e	.	.	.
+8b		est	.	.	.
+=33		=33	=33	=33	=33
+8.cc#		bel-	.	.	.
+16cc#		-le,	.	.	.
+8cc#		bel-	.	.	.
+8cc#		-le	.	.	.
+=34		=34	=34	=34	=34
+*		*Xbis	*	*	*
+4b^		à	.	.	.
+4a^>		Ber-	.	.	.
+=35		=35	=35	=35	=35
+4dd;}}		-thier!}	.	.	.
+==		==	==	==	==
+*-		*-	*-	*-	*-
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
