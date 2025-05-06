@@ -10,7 +10,7 @@ General encoding:
     - Legal deposit: !!!SMA:2012 Bibliothèque nationale du Québec; Biblothèque nationale du Canada
     - Song type (Laforte): !!!AGN-Laforte: Chanson strophique (sans refrain), 8:10(4+6)
     - Song type (general)!!!AGN-type: hymne national 
-    - Rhyming scheme: !!!AGN-rime: mixte (suivies = 2, croisées = 6)
+    - Rhyming scheme: !!!AGN-rime: mixte, aabcbcbc
 2. Each element (melody and textual lines) is encoded in a kern spine; each spine is identified as **kern or **text
 	  Spine 1: melody = * (necessary in kern syntax if the next spine is filled)
 	  Spine 2: verse 1 (“strophe” 1) = *v:1
