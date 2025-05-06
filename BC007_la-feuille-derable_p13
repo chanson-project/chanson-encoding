@@ -1,0 +1,131 @@
+!!!COM: Larrieu, Albert
+!!!LYR: Larrieu, Albert
+!!!PTR@@FR: Les 100 plus belles chansons
+!!!OTL@@FR: La feuille d'érable
+!!!PUB: La Bonne Chanson, inc.
+!!!PDT: 2011
+!!!YEM: On ne peut reproduire, enregistrer ou diffuser en tout ou en partie le présent ouvrage, sous quelque procédé que ce soit, électronique, mécanique, photographique, sonore, magnétique ou autre, sans avoir obtenu au préalable l'autorisation écrite de l'éditrice.
+!!!SMA: 2012 Bibliothèque nationale du Québec; Biblothèque nationale du Canada
+!!!AGN-type: Hymne
+!!!AGN-Laforte: Strophique (sans refrain), 4:8(8)
+!!!AGN-rhyme: ababcddc
+**kern
+*clefG2
+*k[b-]
+*F:
+*M2/4
+*
+*
+=1
+!!LO:TX:a:t=Allegretto
+{{8r
+8c
+8f
+8g
+=2
+8a
+8a
+8g
+8a
+=3
+8f}
+{8c
+8f
+8g
+!!LO:PB:g=original
+=4
+8a
+8cc
+8cc
+8a
+=5
+[4b-
+4b-]}}
+=6
+!segment mark not showing
+{8r
+8d
+8g
+8a
+=7
+8b-
+8b-
+8a
+8b-
+!!LO:PB:g=original
+=8
+{8g
+8a
+8b-
+8dd
+=9
+8a
+8a
+8g
+8c
+=10
+[4f
+4f]}
+=11
+{{8r
+8a
+8a
+8a
+!!LO:PB:g=original
+=12
+8b
+8b
+8e
+8b
+=13
+8a}
+{8cc
+8cc
+8cc
+=14
+8b
+8b
+8a
+8g
+!!LO:PB:g=original
+=15
+[2cc
+!collision of tie with time signature
+=||16
+*M6/8
+4cc]
+8r}}
+{4cc
+8cc
+=||17
+*M9/8
+[4.ff
+4ff]
+8cc
+8cc
+8b-
+8a
+!!LO:PB:g=original
+=18
+(4d
+8dd)
+4dd}
+{8r
+8f
+8g
+8a
+=||19
+*M6/8
+8c
+8f
+8b-
+4a
+8g
+=20
+[4.f
+4f]
+8r}
+==
+*-
+!!!EED: Ève Poudrier
+!!!EEV: 2025/May/06
