@@ -20,95 +20,95 @@
 *	*pline:1	*pline:2b	*pline:3b
 {{8d	Les	C'est	Lors-
 =1	=1	=1	=1
-4g 4b	clo-	l'heu-	que
-8g 8b	ches	re	dans
+4g 4b	clo-	l'heu-	-que
+8g 8b	-ches	-re	dans
 8g 8b	du	du-	le
 8f# 8a	-	-	-
 8g 8b	ha-	re-	ro-
 =2	=2	=2	=2
-[4.g	meau	tour,	cher
+[4.g	-meau	-tour,	-cher
 4g]}	-	-	-
 {8d	Chan-	Et	La
 =3	=3	=3	=3
-4g 4b	tent	la	tem-
-8g 8b	dans	jeu-	pê-
-8g 8b	la	ne	te
+4g 4b	-tent	la	tem-
+8g 8b	dans	jeu-	-pê-
+8g 8b	la	-ne	-te
 8f# 8a	-	-	-
 8g 8b	cam-	ber-	tour-
 =4	=4	=4	=4
-4.b 4.dd	pa-	gè-	men-
-4a 4cc}	gne	re	te
+4.b 4.dd	-pa-	-gè-	-men-
+4a 4cc}	-gne	-re	-te
 {8d	Le	Voy-	Au-
 =5	=5	=5	=5
-4a 4cc	son	ant	tour
+4a 4cc	son	-ant	-tour
 8a 8cc	du	la	du
 8a 8cc	cha-	fin	vieux
 8g 8b	-	-	-
-8a 8cc	lu-	du	fo-
+8a 8cc	-lu-	du	fo-
 =6	=6	=6	=6
-[4.f# [4.a	meau	jour,	yer,
+[4.f# [4.a	-meau	jour,	-yer,
 4f#] 4a]}	-	-	-
 {8b 8dd	E-	Re-	Jo-
 =7	=7	=7	=7
-4b 4dd	gay-	gag-	yeu-
-8a# 8cc#	e	ne	se-
-4cc 4ee	la	sa	ment
+4b 4dd	-gay-	-gag-	-yeu-
+8a# 8cc#	-e	-ne	-se-
+4cc 4ee	la	sa	-ment
 8b 8dd	mon-	chau-	l'on
 =8	=8	=8	=8
-4g 4b	ta-	miè-	chan-
-8g 8b}}	gne.	re.	te.
+4g 4b	-ta-	-miè-	chan-
+8g 8b}}	-gne.	-re.	-te.
 *^		*	*	*
 *join	*join	*	*	*
 {4b	{4r	On	.	.
 8cc	8r	en-	.	.
 =9	=9	=9	=9	=9
-4.dd	4.r	tend,	.	.
+4.dd	4.r	-tend,	.	.
 4r	8b	On	.	.
 .	8a	-	.	.
 8r	8g	en-	.	.
 =10	=10	=10	=10	=10
-4.r	4.d}	tend,	.	.
+4.r	4.d}	-tend,	.	.
 {4b	4r	les	.	.
 8cc	8r	ber-	.	.
 =11	=11	=11	=11	=11
-4.dd	4.r	gers,	.	.
-4r	8cc	les	.	.
-.	8b	-	.	.
+4.dd	4.r	-gers,	.	.
+4r	(8cc	les	.	.
+.	8b)	-	.	.
 8r	8cc	ber-	.	.
 =12	=12	=12	=12	=12
-[4.a	[4.r	gers,	.	.
+[4.a	[4.r	-gers,	.	.
 4a]	4r]}	-	.	.
 *Xjoin	*Xjoin	*	*	*
 *v	*v	*	*	*
 .	.	.	.
 {8d	Chan-	.	.
 =13	=13	=13	=13
-4g 4b	ter	.	.
+4g 4b	-ter	.	.
 8g 8b	dans	.	.
 8g 8b	les	.	.
 8f# 8a	-	.	.
 8g 8b	prai-	.	.
 =14	=14	=14	=14
-4.b 4.dd	ri-	.	.
-4a 4cc}	es	.	.
+4.b 4.dd	-ri-	.	.
+4a 4cc}	-es	.	.
 {8d	Ces	.	.
 =15	=15	=15	=15
 4a 4cc	ref-	.	.
-8a 8cc	rains	.	.
+8a 8cc	-rains	.	.
 8a 8cc	si	.	.
 8g 8b	-	.	.
 8a 8cc	lé-	.	.
 =16	=16	=16	=16
-[4.f# [4.a	gers	.	.
+[4.f# [4.a	-gers	.	.
 4f#] 4a]}	-	.	.
 {8b 8dd	Qui	.	.
 =17	=17	=17	=17
 4b 4dd	char-	.	.
-8a# 8cc#	ment	.	.
+8a# 8cc#	-ment	.	.
 4cc 4ee	leurs	.	.
 8b 8dd	a-	.	.
 =18	=18	=18	=18
-[4.g [4.b	mies:	.	.
+[4.g [4.b	-mies:	.	.
 4g] 4b]}}	-	.	.
 {{16b 16dd	Tra	.	.
 16b 16dd	la	.	.
