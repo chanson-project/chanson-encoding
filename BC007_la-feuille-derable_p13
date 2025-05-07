@@ -8,132 +8,161 @@
 !!!SMA: 2012 Bibliothèque nationale du Québec; Biblothèque nationale du Canada
 !!!AGN-type: Hymne
 !!!AGN-Laforte: Strophique (sans refrain), 4:8(8)
-!!!AGN-rhyme: ababcddc
-**kern	**text
-*clefG2	*
-*k[b-]	*
-*F:	*
-*M2/4	*
-*	*v:1
-*	*pline:1
-=1	=1
+!!!AGN-rhyme: mixtes, croisées/embrassées (ababcddc)
+**kern	**text	**text	**text	**text
+*clefG2	*	*	*	*
+*k[b-]	*	*	*	*
+*F:	*	*	*	*
+*M2/4	*	*	*	*
+*	*v:1	*v:2	*v:3	*v:4
+*	*pline:1	*pline:9	*pline:17	*pline:25
+=1	=1	=1	=1	=1
 !!LO:TX:a:t=Allegretto
-{{8r	.
-8c	Cer-
-8f	-tain
-8g	jour,
-=2	=2
-8a	le
-8a	bon
-8g	Cré-
-8a	-a-
-=3	=3
-8f}	-teur
-*	*pline:2
-{8c	Fit
-!	!unmarked elision dir'
-8f	dire
-8g	aux
+{{8r	.	.	.	.
+8c	Cer-	Le	Quand	Mais
+8f	-tain	jour	ar-	Jé-
+8g	jour,	dit,	-ri-	-sus,
+=2	=2	=2	=2	=2
+8a	le	dans	-va	qu'on
+8a	bon	le	le	ne
+8g	Cré-	Pa-	Ca-	vo-
+8a	-a-	-ra-	-na-	-yait
+=3	=3	=3	=3	=3
+8f}	-teur	-dis,	-dien,	pas,
+*	*rp:œ	*rp:i	*rp:ẽ	*rp:a
+*	*rf:œr	*rf:i	*rf:jẽ	*rf:a
+*	*rs:a	*rs:e	*rs:h	*rs:l
+*	*pline:2	*pline:10	*pline:18	*pline:26
+{8c	Fit	Les	Em-	In-
+!	!unmarked elision in source: dir'	!	!	!
+8f	dire	en-	-mi-	-ter-
+8g	aux	-voy-	-tou-	-vint
 !!LO:PB:g=original
-=4	=4
-8a	peu-
-!	!dash missing in source
-8cc	-ples
-8cc	de
-8a	la
-=5	=5
-[4b-	ter-
-4b-]}}	-re:
-=6	=6
-!segment mark not showing	!
-{{8r	.
-*	*pline:3
-8d	"Que
-8g	cha-
-8a	-cun
-=7	=7
-8b-	choi-
-!	!missing dash in source; unmarked elision siss'
-8b-	-sisse
-8a	u-
-8b-	-ne
+=4	=4	=4	=4	=4
+8a	peu-	-és	-flé	d'un
+!	!missing dash in source	!	!	!
+8cc	-ples	se	dans	cœur
+8cc	de	re-	ses	se-
+8a	la	-con-	four-	-cou-
+=5	=5	=5	=5	=5
+[4b-	ter-	-trè-	-ru-	-ra-
+4b-]}}	-re :	-rent.	-res,	-ble,
+*	*rp:ɛ	*rp:ɛ	*rp:y	*rp:a
+*	*rf:ɛr,ə	*rf:ɛr,ə	*rf:yʁ,ə	*rf:ʁabl,ə
+*	*rs:b	*rs:b	*rs:i	*rs:m
+=6	=6	=6	=6	=6
+{{8r	.	.	.	.
+*	*pline:3	*pline:11	*pline:19	*pline:27
+8d	"Que	La	Hé-	S'en
+8g	cha-	Fran-	-las!	al-
+8a	-cun	-ce	il	-la
+=7	=7	=7	=7	=7
+8b-	choi-	vint	ne	choi-
+!	!missing dash in source; unmarked elision in source: choi-siss'	!	!	!
+8b-	-sisse	choi-	res-	-sir
+8a	u-	-sir	-tait	dans
+8b-	-ne	un	plus	le
 !!LO:PB:g=original
-=8	=8
-8g}	fleur,
-*	*pline:4
-{8a	Et
-8b-	qu'on
-8dd	m'en-
-=9	=9
-8a	-voie
-8a	un
-8g	é-
-8c	-mi-
-=10	=10
-[4f	-sai-
-4f]}}	-re!
-=11	=11
-{{8r	.
-*	*pline:5
-8a	Qu'on
-8a	soit
-8a	ex-
+=8	=8	=8	=8	=8
+8g}	fleur,	lys,	rien,	tas,
+*	*rp:œ	*rp:i	*rp:ẽ	*rp:a
+*	*rf:œr	*rf:i	*rf:jẽ	*rf:a
+*	*rs:a	*rs:e	*rs:h	*rs:l
+*	*pline:4	*pline:12	*pline:20	*pline:28
+!	!	!missing dash in source	!	!
+{8a	Et	L'œil-	Que	Of-
+8b-	qu'on	-let	des	-frit
+8dd	m'en-	fut	feu-	u-
+=9	=9	=9	=9	=9
+8a	-voie	pris	-il-	-ne
+8a	un	par	-lages,	feuil-
+8g	é-	l'An	des	-le
+8c	-mis-	-gle-	ra-	d'é-
+=10	=10	=10	=10	=10
+[4f	-sai-	-ter-	-mu-	-ra-
+4f]}}	-re !	-re,	res!	-ble ;
+*	*rp:ɛ	*rp:ɛ	*rs:y	*rp:a
+*	*rf:ɛr,ə	*rf:ɛr,ə	*rf:yʁ,ə	*rf:ʁabl,ə
+*	*rs:b	*rs:b	*rs:i	*rs:m
+=11	=11	=11	=11	=11
+{{8r	.	.	.	.
+*	*pline:5	*pline:13	*pline:21	*pline:29
+!	!	!capitalization error in source: espagnol	!	!
+8a	Qu'on	L'Es-	Saint	Et
+!	!	!	!unmarked elision in source: Pierr'	!
+8a	soit	-pa-	Pierre	c'est
+8a	ex-	-gnol	é-	de-
 !!LO:PB:g=original
-=12	=12
-8b	-act
-8b	au
-8e	ren-
-8b	-dez-
-=13	=13
-8a}	-vous,
-*	*pline:16
-{8cc	Cha-
-8cc	-cun
-8cc	pren-
-=14	=14
-8b	-dra
-8b	la
-8a	fleur
-8g	qu'il
+=12	=12	=12	=12	=12
+8b	-act	eut	-tait	-puis
+8b	au	un	plein	ce
+8e	ren-	frais	de	beau
+8b	-dez-	lise-	re-	jour-
+=13	=13	=13	=13	=13
+8a}	-vous,	ron,	-gret,	-là
+*	*rp:u	*rp:ɔ	*rp:ɛ	*rp:a
+*	*rf:vu	*rf:ɔ̃	*rf:ʁɛ	*rf:a
+*	*rs:c	*rs:f	*rs:j	*rs:l
+*	*pline:6	*pline:14	*pline:22	*pline:30
+{8cc	Cha-	L'A-	Il	Qu'un
+8cc	-cun	-mé-	ca-	peu
+8cc	pren-	-ri-	-res-	par-
+=14	=14	=14	=14	=14
+8b	-dra	-cain	-sait	-tout
+8b	la	un	sa	dans
+8a	fleur	dah-	bar-	la
+8g	qu'il	lia	-be	cam-
 !!LO:PB:g=original
-=15	=15
-[2cc	ai-
-!collision of tie with time signature
-=||16	=||16
-*M6/8	*
-4cc]	-me!
-8r}}	.
-{4cc	Cet-
-8cc	-te
-=||17	=||17
-*M9/8	*
-[4.ff	fleur
-4ff]	.
-8cc	res-
-8cc	-te-
-8b-	-ra
-8a	l'em-
+=15	=15	=15	=15	=15
+[2cc	ai-	ro-	blan-	-pa-
+!	!collision of tie with time signature	!	!	!
+=||16	=||16	=||16	=||16	=||16
+*M6/8	*	*	*	*
+4cc]	-me !	se,	-che :	-gne,
+*	*rp:ɛ	*rp:o	*rp:ɑ̃	*rp:a
+*	*rf:ɛm,ə	*rf:ʁoz,ə	*rf:ɑ̃ʃ,ə	*rf:aɲ,ə
+*	*rs:d	*rs:g	*rs:k	*rs:n
+8r}}	.	.	.	.
+*	*pline:7	*pline:15	*pline:23	*pline:31
+{{4cc	Cet-	L'I-	"Je	Dans
+8cc	-te	-ta-	n'ai	la
+=||17	=||17	=||17	=||17	=||17
+*M9/8	*	*	*	*
+!	!	!	!	!unmarked elision in source: plain'
+[4.ff	fleur	lien	plus,	plaine
+4ff]	.	.	.	.
+8cc	res-	choi-	dit-	et
+8cc	-te-	-sit	-il,	sur
+8b-	-ra	u-	que	la
+8a	l'em-	-ne	ces	mon-
 !!LO:PB:g=original
-=18	=18
-(4d	-blè-
-8dd)	.
-4dd}	-me
-{8r	.
-8f	Du
-8g	grand
-8a	a-
-=||19	=||19
-*M6/8	*
-8c	-mour
-8f	.
-8b-	que
-4a	j'ai
-8g	pour
-=20	=20
-[4.f	vous!"
-4f]	.
-8r}	.
-==	==
-*-	*-
+=18	=18	=18	=18	=18
+(4d	-blè-	ro-	bran-	-ta-
+8dd)	.	.	.	.
+4dd}	-me	-se,	-ches,	gne,
+*	*rp:ɛ	*rp:o	*rp:ɑ	*rp:a
+*	*rf:ɛm,ə	*rf:ʁoz,ə	*rf:ɑ̃ʃ,ə	*rf::aɲ,ə
+*	*rs:d	*rs:g	*rs:k	*rs:n
+{8r	.	.	.	.
+*	*pline:8	*pline:16	*pline:24	*pline:32
+8f	Du	Et	Tu	L'é-
+8g	grand	l'Al-	peux	-ra-
+8a	a-	-le-	re-	-ble
+=||19	=||19	=||19	=||19	=||19
+*M6/8	*	*	*	*
+8c	-mour	-mand	-ga-	croît
+8f	.	.	.	.
+8b-	que	un	gner	au
+4a	j'ai	vieux	ta	Ca-
+8g	pour	char-	fo-	-na-
+=20	=20	=20	=20	=20
+[4.f	vous !"	don !	rêt !	-da !
+*	*rp:u	*rs:ɔ̃	*rp:ɛ	*rp:a
+*	*rf:vu	*rf:ɔ̃	*rf:ʁɛ	*rf:a
+*	*rs:c	*rs:f	*rs:j	*rs:l
+4f]	.	.	.	.
+8r}}	.	.	.	.
+==	==	==	==	==
+*-	*-	*-	*-	*-
 !!!EED: Ève Poudrier
 !!!EEV: 2025/May/06
