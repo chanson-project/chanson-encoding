@@ -9,123 +9,131 @@
 !!!AGN-type: Hymne
 !!!AGN-Laforte: Strophique (sans refrain), 4:8(8)
 !!!AGN-rhyme: ababcddc
-**kern
-*clefG2
-*k[b-]
-*F:
-*M2/4
-*
-*
-=1
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M2/4	*
+*	*v:1
+*	*pline:1
+=1	=1
 !!LO:TX:a:t=Allegretto
-{{8r
-8c
-8f
-8g
-=2
-8a
-8a
-8g
-8a
-=3
-8f}
-{8c
-8f
-8g
+{{8r	.
+8c	Cer-
+8f	-tain
+8g	jour,
+=2	=2
+8a	le
+8a	bon
+8g	Cré-
+8a	-a-
+=3	=3
+8f}	-teur
+*	*pline:2
+{8c	Fit
+!	!unmarked elision dir'
+8f	dire
+8g	aux
 !!LO:PB:g=original
-=4
-8a
-8cc
-8cc
-8a
-=5
-[4b-
-4b-]}}
-=6
-!segment mark not showing
-{8r
-8d
-8g
-8a
-=7
-8b-
-8b-
-8a
-8b-
+=4	=4
+8a	peu-
+!	!dash missing in source
+8cc	-ples
+8cc	de
+8a	la
+=5	=5
+[4b-	ter-
+4b-]}}	-re:
+=6	=6
+!segment mark not showing	!
+{{8r	.
+*	*pline:3
+8d	"Que
+8g	cha-
+8a	-cun
+=7	=7
+8b-	choi-
+!	!missing dash in source; unmarked elision siss'
+8b-	-sisse
+8a	u-
+8b-	-ne
 !!LO:PB:g=original
-=8
-{8g
-8a
-8b-
-8dd
-=9
-8a
-8a
-8g
-8c
-=10
-[4f
-4f]}
-=11
-{{8r
-8a
-8a
-8a
+=8	=8
+8g}	fleur,
+*	*pline:4
+{8a	Et
+8b-	qu'on
+8dd	m'en-
+=9	=9
+8a	-voie
+8a	un
+8g	é-
+8c	-mi-
+=10	=10
+[4f	-sai-
+4f]}}	-re!
+=11	=11
+{{8r	.
+*	*pline:5
+8a	Qu'on
+8a	soit
+8a	ex-
 !!LO:PB:g=original
-=12
-8b
-8b
-8e
-8b
-=13
-8a}
-{8cc
-8cc
-8cc
-=14
-8b
-8b
-8a
-8g
+=12	=12
+8b	-act
+8b	au
+8e	ren-
+8b	-dez-
+=13	=13
+8a}	-vous,
+*	*pline:16
+{8cc	Cha-
+8cc	-cun
+8cc	pren-
+=14	=14
+8b	-dra
+8b	la
+8a	fleur
+8g	qu'il
 !!LO:PB:g=original
-=15
-[2cc
+=15	=15
+[2cc	ai-
 !collision of tie with time signature
-=||16
-*M6/8
-4cc]
-8r}}
-{4cc
-8cc
-=||17
-*M9/8
-[4.ff
-4ff]
-8cc
-8cc
-8b-
-8a
+=||16	=||16
+*M6/8	*
+4cc]	-me!
+8r}}	.
+{4cc	Cet-
+8cc	-te
+=||17	=||17
+*M9/8	*
+[4.ff	fleur
+4ff]	.
+8cc	res-
+8cc	-te-
+8b-	-ra
+8a	l'em-
 !!LO:PB:g=original
-=18
-(4d
-8dd)
-4dd}
-{8r
-8f
-8g
-8a
-=||19
-*M6/8
-8c
-8f
-8b-
-4a
-8g
-=20
-[4.f
-4f]
-8r}
-==
-*-
+=18	=18
+(4d	-blè-
+8dd)	.
+4dd}	-me
+{8r	.
+8f	Du
+8g	grand
+8a	a-
+=||19	=||19
+*M6/8	*
+8c	-mour
+8f	.
+8b-	que
+4a	j'ai
+8g	pour
+=20	=20
+[4.f	vous!"
+4f]	.
+8r}	.
+==	==
+*-	*-
 !!!EED: Ève Poudrier
 !!!EEV: 2025/May/06
