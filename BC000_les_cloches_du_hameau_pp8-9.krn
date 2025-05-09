@@ -22,8 +22,9 @@
 =1	=1	=1	=1
 4g 4b	clo-	l'heu-	-que
 8g 8b	-ches	-re	dans
-8g 8b	du	du-	le
-8f# 8a	-	-	-
+!!!Should the beam be connected? 
+(8g (8b	du	du-	le
+8f#) 8a)	-	-	-
 8g 8b	ha-	re-	ro-
 =2	=2	=2	=2
 [4.g	-meau	-tour,	-cher
@@ -32,9 +33,10 @@
 =3	=3	=3	=3
 4g 4b	-tent	la	tem-
 8g 8b	dans	jeu-	-pê-
-8g 8b	la	-ne	-te
-8f# 8a	-	-	-
+(8g (8b	la	-ne	-te
+8f#) 8a)	-	-	-
 8g 8b	cam-	ber-	tour-
+!!LO:PB:g=original
 =4	=4	=4	=4
 4.b 4.dd	-pa-	-gè-	-men-
 4a 4cc}	-gne	-re	-te
@@ -42,8 +44,8 @@
 =5	=5	=5	=5
 4a 4cc	son	-ant	-tour
 8a 8cc	du	la	du
-8a 8cc	cha-	fin	vieux
-8g 8b	-	-	-
+(8a (8cc	cha-	fin	vieux
+8g) 8b)	-	-	-
 8a 8cc	-lu-	du	fo-
 =6	=6	=6	=6
 [4.f# [4.a	-meau	jour,	-yer,
@@ -54,6 +56,7 @@
 8a# 8cc#	-e	-ne	-se-
 4cc 4ee	la	sa	-ment
 8b 8dd	mon-	chau-	l'on
+!!LO:PB:g=original
 =8	=8	=8	=8
 4g 4b	-ta-	-miè-	chan-
 8g 8b}}	-gne.	-re.	-te.
@@ -75,6 +78,7 @@
 4r	(8cc	les	.	.
 .	8b)	-	.	.
 8r	8cc	ber-	.	.
+!!LO:PB:g=original
 =12	=12	=12	=12	=12
 [4.a	[4.r	-gers,	.	.
 4a]	4r]}	-	.	.
@@ -85,8 +89,8 @@
 =13	=13	=13	=13
 4g 4b	-ter	.	.
 8g 8b	dans	.	.
-8g 8b	les	.	.
-8f# 8a	-	.	.
+(8g (8b	les	.	.
+8f#) 8a)	-	.	.
 8g 8b	prai-	.	.
 =14	=14	=14	=14
 4.b 4.dd	-ri-	.	.
@@ -95,9 +99,10 @@
 =15	=15	=15	=15
 4a 4cc	ref-	.	.
 8a 8cc	-rains	.	.
-8a 8cc	si	.	.
-8g 8b	-	.	.
+(8a (8cc	si	.	.
+8g) 8b)	-	.	.
 8a 8cc	lé-	.	.
+!!LO:PB:g=original
 =16	=16	=16	=16
 [4.f# [4.a	-gers	.	.
 4f#] 4a]}	-	.	.
@@ -112,6 +117,7 @@
 4g] 4b]}}	-	.	.
 {{16b 16dd	Tra	.	.
 16b 16dd	la	.	.
+!!LO:PB:g=original
 =19	=19	=19	=19
 4b 4dd}	la,	.	.
 {16b 16dd	tra	.	.
@@ -126,6 +132,7 @@
 8g 8b	la	.	.
 8f# 8a	la	.	.
 8g 8b	la	.	.
+!!LO:PB:g=original
 =21	=21	=21	=21
 8a 8cc	la	.	.
 8g 8b	la	.	.
@@ -144,6 +151,7 @@
 8b 8dd	la	.	.
 8a# 8cc#	la	.	.
 8b 8dd	la	.	.
+!!LO:PB:g=original
 =24	=24	=24	=24
 4g 4b}	la,	.	.
 {16g 16b	Tra	.	.
