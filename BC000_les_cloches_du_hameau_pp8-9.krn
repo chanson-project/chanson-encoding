@@ -6,9 +6,9 @@
 !!!YEM: On ne peut reproduire, enregistrer ou diffuser en tout ou en partie le présent ouvrage, sous quelque procédé que ce soit, électronique, mécanique, photographique, sonore, magnétique ou autre, sans avoir obtenu au préalable l'autorisation écrite de l'éditrice.
 !!!PDT: 2011
 !!!SMA:2012 Bibliothèque nationale du Québec; Biblothèque nationale du Canada
-!!!AGN-Laforte: Chanson strophique (avec refrain), 3:10(5+5)
+!!!AGN-Laforte: Chanson strophique (avec refrain), 3:4(6)
 !!!AGN-type: Chanson pastorale
-!!!AGN-rime: croisée (abab)
+!!!AGN-rime: croisée (abab); refrain, croisée (RaRbRaRb); turlute
 !!!EED: Isaac Howie
 !!!EEV: 2025/May/06
 **kern	**text	**text	**text
@@ -28,6 +28,9 @@
 8g 8b	ha-	re-	ro-
 =2	=2	=2	=2
 [4.g	-meau	-tour,	-cher
+*	*rp:o	*rp:u	*rp:e
+*	*rf:mo	*rf:uʁ	*rf:e
+*	*rs:a	*rs:c	*rs:e
 4g]}	.	.	.
 {8d	Chan-	Et	La
 =3	=3	=3	=3
@@ -40,6 +43,9 @@
 =4	=4	=4	=4
 4.b 4.dd	-pa-	-gè-	-men-
 4a 4cc}	-gne	-re	-te
+*	*rp:a	*rp:ɛ	*rp:ɑ̃
+*	*rf:aɲ,ə	*rf:ɛʁ	*rf:ɑ̃t,ə
+*	*rs:b	*rs:d	*rs:f
 {8d	Le	Voy-	Au-
 =5	=5	=5	=5
 4a 4cc	son	-ant	-tour
@@ -49,6 +55,9 @@
 8a 8cc	-lu-	du	fo-
 =6	=6	=6	=6
 [4.f# [4.a	-meau	jour,	-yer,
+*	*rp:o	*rp:u	*rp:e
+*	*rf:mo	*rf:uʁ	*rf:e
+*	*rs:a	*rs:c	*rs:e
 4f#] 4a]}	.	.	.
 {8b 8dd	E-	Re-	Jo-
 =7	=7	=7	=7
@@ -60,6 +69,9 @@
 =8	=8	=8	=8
 4g 4b	-ta-	-miè-	chan-
 8g 8b}}	-gne.	-re.	-te.
+*	*rp:a	*rp:ɛ	*rp:ɑ̃
+*	*rf:aɲ,ə	*rf:ɛʁ	*rf:ɑ̃t,ə
+*	*rs:b	*rs:d	*rs:f
 *^		*	*	*
 *join	*join	*	*	*
 *>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain
@@ -68,22 +80,29 @@
 8cc	8r	en-	.	.
 =9	=9	=9	=9	=9
 4.dd	4.r	-tend,	.	.
+*	*	*bis	*	*
 4r	(8bL	On	.	.
 !!!How would we change the direction of the slur?
 .	8a)J	.	.	.
 8r	8g	en-	.	.
 =10	=10	=10	=10	=10
 4.r	4.d}	-tend,	.	.
+*	*	*Xbis	*	*
 {4b	4r	les	.	.
 8cc	8r	ber-	.	.
 =11	=11	=11	=11	=11
 4.dd	4.r	-gers,	.	.
+*	*	*bis	*	*
 4r	(8ccL	les	.	.
 .	8b)J	.	.	.
 8r	8cc	ber-	.	.
 !!LO:PB:g=original
 =12	=12	=12	=12	=12
 [4.a	[4.r	-gers,	.	.
+*	*	*Xbis	*	*
+*	*	*rp:e	*	*
+*	*	*rf:ʒe	*	*
+*	*	*rs:Ra	*	*
 4a]	4r]}	.	.	.
 *Xjoin	*Xjoin	*	*	*
 *v	*v	*	*	*
@@ -98,6 +117,9 @@
 =14	=14	=14	=14
 4.b 4.dd	-ri-	.	.
 4a 4cc}	-es	.	.
+*	*rp:i	*	*
+*	*rf:i,ə	*	*
+*	*rs:Rb	*	*
 {8d	Ces	.	.
 =15	=15	=15	=15
 4a 4cc	re-	.	.
@@ -108,6 +130,9 @@
 !!LO:PB:g=original
 =16	=16	=16	=16
 [4.f# [4.a	-gers	.	.
+*	*rp:e	*	*
+*	*rf:ʒe	*	*
+*	*rs:Ra	*	*
 4f#] 4a]}	.	.	.
 {8b 8dd	Qui	.	.
 =17	=17	=17	=17
@@ -117,12 +142,16 @@
 8b 8dd	a-	.	.
 =18	=18	=18	=18
 [4.g [4.b	-mies:	.	.
+*	*rp:i	*	*
+*	*rf:i,ə	*	*
+*	*rs:Rb	*	*
 4g] 4b]}}	.	.	.
 {{16b 16dd	Tra	.	.
 16b 16dd	la	.	.
 !!LO:PB:g=original
 =19	=19	=19	=19
 4b 4dd}	la,	.	.
+*	*bis	*	*
 {16b 16dd	tra	.	.
 16b 16dd	la	.	.
 8b 8dd	la	.	.
@@ -170,6 +199,7 @@
 8b 8dd	la	.	.
 =26	=26	=26	=26
 [4.g	la.	.	.
+*	*Xbis	*	*
 4g]}}	.	.	.
 ==	==	==	==
 *-	*-	*-	*-
