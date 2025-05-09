@@ -23,8 +23,8 @@
 4g 4b	clo-	l'heu-	-que
 8g 8b	-ches	-re	dans
 !!!Should the beam be connected? 
-(8g (8b	du	du-	le
-8f#) 8a)	.	.	.
+(8g (8bL	du	du-	le
+8f#) 8aJ)	.	.	.
 8g 8b	ha-	re-	ro-
 =2	=2	=2	=2
 [4.g	-meau	-tour,	-cher
@@ -33,8 +33,8 @@
 =3	=3	=3	=3
 4g 4b	-tent	la	tem-
 8g 8b	dans	jeu-	-pê-
-(8g (8b	la	-ne	-te
-8f#) 8a)	.	.	.
+(8g (8bL	la	-ne	-te
+8f#) 8aJ)	.	.	.
 8g 8b	cam-	ber-	tour-
 !!LO:PB:g=original
 =4	=4	=4	=4
@@ -44,8 +44,8 @@
 =5	=5	=5	=5
 4a 4cc	son	-ant	-tour
 8a 8cc	du	la	du
-(8a (8cc	cha-	fin	vieux
-8g) 8b)	.	.	.
+(8a (8ccL	cha-	fin	vieux
+8g) 8bJ)	.	.	.
 8a 8cc	-lu-	du	fo-
 =6	=6	=6	=6
 [4.f# [4.a	-meau	jour,	-yer,
@@ -62,12 +62,15 @@
 8g 8b}}	-gne.	-re.	-te.
 *^		*	*	*
 *join	*join	*	*	*
+*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain
+!!LO:TX:a:B:t=Refrain
 {4b	{4r	On	.	.
 8cc	8r	en-	.	.
 =9	=9	=9	=9	=9
 4.dd	4.r	-tend,	.	.
-4r	(8b	On	.	.
-.	8a)	.	.	.
+4r	(8bL	On	.	.
+!!!How would we change the direction of the slur?
+.	8a)J	.	.	.
 8r	8g	en-	.	.
 =10	=10	=10	=10	=10
 4.r	4.d}	-tend,	.	.
@@ -75,13 +78,13 @@
 8cc	8r	ber-	.	.
 =11	=11	=11	=11	=11
 4.dd	4.r	-gers,	.	.
-4r	(8cc	les	.	.
-.	8b)	.	.	.
+4r	(8ccL	les	.	.
+.	8b)J	.	.	.
 8r	8cc	ber-	.	.
 !!LO:PB:g=original
 =12	=12	=12	=12	=12
 [4.a	[4.r	-gers,	.	.
-4a]	4r]}	-	.	.
+4a]	4r]}	.	.	.
 *Xjoin	*Xjoin	*	*	*
 *v	*v	*	*	*
 .	.	.	.
