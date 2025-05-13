@@ -16,6 +16,7 @@
 *	*v:1	*v:2	*v:3	*v:4	*v:5	*v:6	*v:7	*v:8
 *	*pline:1	*pline:2	*pline:3	*pline:4	*pline:5	*pline:6	*pline:7	*pline:8
 =1	=1	=1	=1	=1	=1	=1	=1	=1
+!!LO:TX:a:t=Allegro non troppo
 {{8a	Par	Le	Il	Il	Il	Il	Que	Je
 8a	der-	ros-	chat-	ne	n'est	est	don-	don-
 8a	-rièr'	-si-	-te	chant'	point	dans	-ne-	-ne-
@@ -25,6 +26,9 @@
 =3	=3	=3	=3	=3	=3	=3	=3	=3
 (4a	tan-	chan-	bel-	moi,	dan-	-lan-	bel-	-sail-
 8f#)}	-te,	-te	-les	.	-se,	-de,	-le,	-les,
+*	*rp:ã	*rp:ã	*rp:ɛ	*rp:a	*rp:ã	*rp:ã	*rp:ɛ	*rp:a
+*	*rf:ãt,ə	*rf:ãt,ə	*rf:ɛl,ə	*rf:mwa	*rf:ãs	*rf:ãd	*rf:ɛl	*rf:aj
+*	*rs:a	*rs:a	*rs:c	*rs:d	*rs:a	*rs:a	*rs:c	*rs:e
 =4	=4	=4	=4	=4	=4	=4	=4	=4
 {8a	Lui	Et	Qui	Car	Il	Les	Qui	Pa-
 8a	ya-t-	le	n'ont	j'en	est	Hol-	l'a-	-ris
@@ -36,16 +40,22 @@
 =6	=6	=6	=6	=6	=6	=6	=6	=6
 4a	-li;	nuit.	-ri.	-li.	-ci;	pris.	-ci?	-nis.
 8r}	.	.	.	.	.	.	.	.
+*	*rp:i	*rp:ɥ	*rp:i	*rp:i	*rp:i	*rp:i	*rp:i	*rp:i
+*	*rf:li	*rf:ɥi	*rf:ʁi	*rf:li	*rf:si	*rf:ʁi	*rf:si	*rf:ni
+*	*rs:b	*rs:b	*rs:b	*rs:b	*rs:b	*rs:b	*rs:b	*rs:b
 =7	=7	=7	=7	=7	=7	=7	=7	=7
 {8a	Le	Il	Il	Il	Il	Que	Je	Et
 8a	ros-	chat-	ne	n'est	est	don-	don-	la
 8a	-si-	-te	chant'	point	dans	-ne-	-ne-	clai-
 =8	=8	=8	=8	=8	=8	=8	=8	=8
 4dd	-gnol	pour	pas	dans	la	-riez-	-rais	-re
-8a	y	ces	pour	la	Hol-	-vous,	Ver-	font-
+8a	y	ces	pour	la	Hol-	-vous,	Ver-	fon-
 =9	=9	=9	=9	=9	=9	=9	=9	=9
-(4a	chan-	bel-	moi,	dan-	-lan-	bel-	-sail-	-aine
-8f#)	-te	-les	.	se,	-de:	-le,	-les,	.
+(4a	chan-	bel-	moi,	dan-	-lan-	bel-	-sail-	-tai-
+8f#)	-te	-les	.	se,	-de:	-le,	-les,	-ne
+*	*rp:ã	*rp:ɛ	*rp:a	*rp:ã	*rp:ã	*rp:ɛ	*rp:a	*rp:ɛ
+*	*rf:ãt,ə	*rf:ɛl	*rf:mwa	*rf:ãs	*rf:ãd	*rf:ɛl	*rf:aj	*rf:ɛn
+*	*rs:a	*rs:c	*rs:d	*rs:a	*rs:a	*rs:c	*rs:e	*rs:f
 !!LO:PB:g=original
 =10	=10	=10	=10	=10	=10	=10	=10	=10
 8f#	Et	Qui	Car	Il	Les	Qui	Pa-	De
@@ -56,6 +66,9 @@
 8f#	la	ma-	jo-	d'i-	l'ont	i-	De-	jo-
 =12	=12	=12	=12	=12	=12	=12	=12	=12
 4.e}}	nuit.	-ri	-li.	-ci	pris.	-ci?	-nis.	li.
+*	*rp:ɥ	*rp:i	*rp:i	*rp:i	*rp:i	*rp:i	*rp:i	*rp:i
+*	*rf:ɥi	*rf:ʁi	*rf:li	*rf:si	*rf:ʁi	*rf:si	*rf:ni	*rf:li
+*	*rs:b	*rs:b	*rs:b	*rs:b	*rs:b	*rs:b	*rs:b	*rs:b
 =||13	=||13	=||13	=||13	=||13	=||13	=||13	=||13	=||13
 *>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain
 !!LO:TX:a:B:t=Refrain
@@ -85,4 +98,4 @@
 ==	==	==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-	*-	*-
 !!!EED: Jason Lau
-!!!EEV: 2025/May/06
+!!!EEV: 2025/May/13
