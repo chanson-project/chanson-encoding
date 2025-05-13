@@ -18,9 +18,9 @@ General encoding:
     - Song type (general)!!!AGN-type: hymne national 
     - Rhyming scheme: !!!AGN-rime: mixte, aabcbcbc
 2. Each element (melody and textual lines) is encoded in a kern spine; encoding is done one spine at a time; each spine is identified as **kern or **text
-	  Spine 1: melody = * (necessary in kern syntax if the next spine is filled)
-	  Spine 2: verse 1 (“strophe” 1) = *v:1
-	  Spine 3: verse 2 (“strophe” 2) = *v:2
+	- Spine 1: melody = * (necessary in kern syntax if the next spine is filled)
+	- Spine 2: verse 1 (“strophe” 1) = *v:1
+	- Spine 3: verse 2 (“strophe” 2) = *v:2
 3. To add an empty spine after the first spine is completed, use: extract -s 1-$,0\
 4. To keep the layout the same as in original use !!LO:PB:g=original placed above the measure that appears on the next system. 
     This can be activated by clicking the alignment button (same icon as middle alignment). Note that for songs that are more than four or five systems, 
