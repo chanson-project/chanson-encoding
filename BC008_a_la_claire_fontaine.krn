@@ -1,0 +1,87 @@
+!!!COM: Anonymous
+!!!LYR: Anonymous
+!!!PTL@@FR: Les 100 plus belles chansons
+!!!OTL@@FR:À la claire fontaine
+!!!PUB:La Bonne Chanson, inc.
+!!!YEM: On ne peut reproduire, enregistrer ou diffuser en tout ou en partie le présent ouvrage, sous quelque procédé que ce soit, électronique, mécanique, photographique, sonore, magnétique ou autre, sans avoir obtenu au préalable l'autorisation écrite de l'éditrice.
+!!!PDT: 2011
+!!!SMA:2012 Bibliothèque nationale du Québec; Biblothèque nationale du Canada
+!!!AGN-Laforte: Chanson en laisse (avec refrain), 9:2(7+6)
+!!!AGN-type: Enumerative?
+!!!AGN-rime: monorime (aa); refrain, monorime (Ra)
+!!!EED: Isaac Howie
+!!!EEV: 2025/May/13
+**kern	**text	**text	**text	**text	**text	**text	**text	**text	**text
+*clefG2	*	*	*	*	*	*	*	*	*
+*k[f#]	*	*	*	*	*	*	*	*	*
+*D:	*	*	*	*	*	*	*	*	*
+*M4/4	*	*	*	*	*	*	*	*	*
+*	*v:1	*v:2	*v:3	*v:4	*v:5	*v:6	*v:7	*v:8	*v:9
+*	*pline:1	*pline:2	*pline:3	*pline:4	*pline:5	*pline:6	*pline:7	*pline:8	*pline:9
+*	*	*bis	*bis	*bis	*bis	*bis	*bis	*bis	*bis
+{{4g	À	J'ai	Sous	Sur	Chan-	Tu	J'ai	Pour	Je
+8g	la	trou-	les	la	-te,	as	per-	un	vou-
+8b	clai-	-vé	feuil-	plus	ros-	le	-du	bou-	drais
+8b	-re	l'eau	-les	hau-	-si-	coeur	ma	-quet	que
+8a	fon-	si	d'un	-te	-gnol,	à	maî-	de	la
+=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+8b	-tai-	bel-	chê-	bran-	chan-	ri-	-tres-	ro-	ro-
+8a}	-ne,	-le	-ne,	-che,	-te,	-re,	-se	-ses	-se
+{4g	m'en	que	je	un	toi	moi,	sans	que	fût
+8g	al-	je	me	ros-	qui	je	l'a-	je	en-
+8b	-lant	m'y	suis	-si-	as	l'ai-	voir	lui	-core
+8b	pro-	suis	fait	-gnol	le	-t-à	mé-	re-	au
+8a	-me-	bai-	sé-	chan-	coeur	pleu-	-ri-	-fu-	ro-
+!!LO:PB:g=original
+=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+4b}}	-ner,	-gné;	-cher;	-tait.	gai:	-rer:	-té,	-sai.	-sier,
+*	*rp:e	*rp:e	*rp:e	*rp:ɛ	*rp:e	*rp:e	*rp:e	*rp:e	*rp:e
+*	*rf:e	*rf:e	*rf:e	*rf:ɛ	*rf:e	*rf:e	*rf:e	*rf:e	*rf:je
+*	*rs:a	*rs:a	*rs:a	*rs:x	*rs:a	*rs:a	*rs:a	*rs:a	*rs:a
+*	*	*Xbis	*Xbis	*Xbis	*Xbis	*Xbis	*Xbis	*Xbis	*Xbis
+=:||	=:||	=:||	=:||	=:||	=:||	=:||	=:||	=:||	=:||
+{{4b	J'ai	Sous	Sur	Chan-	Tu	J'ai	Pour	Je	Et
+8b	trou-	les	la	-te,	as	per-	un	vou-	moi
+8a	-vé	feuil-	plus	ros-	le	-du	bou-	-drais	et
+8g	l'eau	les	hau-	-si-	coeur	ma	quet	que	ma
+8b	si	d'un	te	-gnol,	à	maî-	de	la	maî-
+=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+8dd	bel-	chê-	bran-	chan-	ri-	-tres-	ro-	ro-	-tres-
+8b}	-le	-ne,	che,	-te,	-re,	-se	-ses	se	-se
+{4dd	que	je	un	toit	moi,	sans	que	fût	dans
+8dd	je	me	ros-	qui	je	l'a-	je	en-	les
+8b	m'y	suis	-si-	as	l'ai-	-voir	lui	-core	mêm's
+8g	suis	fait	-gnol	le	-t-à	mé-	re-	au	a-
+8b	bai-	sé-	chan-	coeur	pleu-	-ri-	-fu-	ro-	-mi-
+!!LO:PB:g=original
+=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
+4a}}	gné.	-cher.	-tait.	gai.	-rer.	-té.	-sai.	-sier.	-tiés.
+*	*rp:e	*rp:e	*rp:ɛ	*rp:e	*rp:e	*rp:e	*rp:e	*rp:e	*rp:e
+*	*rf:e	*rf:e	*rf:ɛ	*rf:e	*rf:e	*rf:e	*rf:e	*rf:e	*rf:je
+*	*rs:a	*rs:a	*rs:x	*rs:a	*rs:a	*rs:a	*rs:a	*rs:a	*rs:a
+=||:	=||:	=||:	=||:	=||:	=||:	=||:	=||:	=||:	=||:
+*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain
+!!LO:TX:a:B:t=Refrain
+{{4g	Il	.	.	.	.	.	.	.	.
+8g	y a	.	.	.	.	.	.	.	.
+8b	long-	.	.	.	.	.	.	.	.
+8b	-temps	.	.	.	.	.	.	.	.
+16a	que	.	.	.	.	.	.	.	.
+16g	je	.	.	.	.	.	.	.	.
+=5	=5	.	.	.	.	.	.	.	.
+8b	t'ai-	.	.	.	.	.	.	.	.
+8g}	-me,	.	.	.	.	.	.	.	.
+{4b	ja-	.	.	.	.	.	.	.	.
+8b	-mais	.	.	.	.	.	.	.	.
+16a	je	.	.	.	.	.	.	.	.
+16g	ne	.	.	.	.	.	.	.	.
+8b	t'ou-	.	.	.	.	.	.	.	.
+8a	-blie-	.	.	.	.	.	.	.	.
+=6	=6	.	.	.	.	.	.	.	.
+4g}}	-rai.	.	.	.	.	.	.	.	.
+*	*rp:e	*	*	*	*	*	*	*	*
+*	*rf:e	*	*	*	*	*	*	*	*
+*	*rs:Ra	*	*	*	*	*	*	*	*
+=:||	=:||	.	.	.	.	.	.	.	.
+==	==	==	==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
