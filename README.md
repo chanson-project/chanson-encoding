@@ -43,9 +43,9 @@ Text encoding:
     and is followed by a word that starts with a vowel.
 6. Repetition of lines are marked with *bis before the first word of the line, and *Xbis, after the last word of the line.
 7. Partial repetitions are marked with an added letter, i.e.:
-  - Beginning of the line = *pline:1a
-  - Ending of the line = *pline:1b
-  - Middle of the line = *pline:1c
+  	- Beginning of the line = *pline:1a
+  	- Ending of the line = *pline:1b
+  	- Middle of the line = *pline:1c
 
 Music Encoding:
 1. Melodic segments, phrases, and periods are marked with curly brackets placed directly before and after last note or rest:
