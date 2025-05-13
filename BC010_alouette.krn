@@ -1,0 +1,158 @@
+!!!COM: (Folklore canadien)
+!!!LYR: Anonymous
+!!!PTL@@FR: Les 100 plus belles chansons
+!!!OTL@@FR:Alouette
+!!!PUB:La Bonne Chanson, inc.
+!!!YEM: On ne peut reproduire, enregistrer ou diffuser en tout ou en partie le présent ouvrage, sous quelque procédé que ce soit, électronique, mécanique, photographique, sonore, magnétique ou autre, sans avoir obtenu au préalable l'autorisation écrite de l'éditrice.
+!!!PDT: 2011
+!!!SMA:2012 Bibliothèque nationale du Québec; Biblothèque nationale du Canada
+!!!AGN-Laforte: énumératif (avec refrain), ???
+!!!AGN-type: enfants?
+!!!AGN-rime: monorime (a); refrain, n/a (RaRb)
+!!!EED: Isaac Howie
+!!!EEV: 2025/May/13
+**kern		**text
+*>[A,R,V,E,F,R]	*>[A,R,V,E,F,R]
+*>A		*>A
+*clefG2		*
+*k[f#]		*
+*D:		*
+*M2/4		*
+!LO:TX:a:t=Solo	!
+8.g		A-
+16a		-lou-
+=||1		=||1
+*>R		*>R
+!!!Is there a better way to encode the structure?
+!LO:TX:a:t=[segno]	!
+8b		-et-
+8b		-te,
+16a		gen-
+16g		-tille
+16a		a-
+16b		-lou-
+=2		=2
+8g		-et-
+8d		-te,
+8.g		A-
+16a		-lou-
+!!LO:PB:g=original
+=3		=3
+8b		-et-
+8b		-te,
+16a		je
+16g		t'y
+16a		plu-
+16b		-me-
+=4		=4
+8g		-rai.
+8r		.
+!LO:TX:a:t=Choeur	!
+8.g		A-
+16a		-lou-
+!!LO:PB:g=original
+=5		=5
+8b		-et-
+8b		-te,
+16a		gen-
+16g		-tille
+16a		a-
+16b		-lou-
+=6		=6
+8g		-et-
+8d		-te,
+8.g		A-
+16a		-lou-
+!!LO:PB:g=original
+=7		=7
+8b		-et-
+8b		-te
+16a		je
+16g		t'y
+16a		plu-
+16b		-mer-
+=8		=8
+8g		-ai.
+!LO:TX:a:t=Solo	!
+=||		=||
+*>V		*>V
+*		*^
+*		*^	*
+*		*^	*	*
+*		*^	*	*	*
+*		*^	*	*	*	*
+*		*^	*	*	*	*	*
+*		*^	*	*	*	*	*	*
+*		*join	*join	*join	*join	*join	*join	*join	*join
+*		*v:1	*v:2	*v:3	*v:4	*v:5	*v:6	*v:7	*v:8
+*		*pline:1	*pline:2	*pline:3	*pline:4	*pline:5	*pline:6	*pline:7	*pline:8
+16g		Je	Je	Je	Je	Je	Je	Je	Je
+16g		t'y	t'y	t'y	t'y	t'y	t'y	t'y	t'y
+16g		plu-	plu-	plu-	plu-	plu-	plu-	plu-	plu-
+16g		-mer-	-mer-	-mer-	-mer-	-mer-	-mer-	-mer-	-mer-
+16g		-ai	-ai	-ai	-ai	-ai	-ai	-ai	-ai
+16b		la	les	le	le	les	les	le	la
+!!LO:PB:g=original
+=9		=	=	=	=	=	=	=	=
+8dd		têt',	yeux,	bec,	cou,	ail's,	patt's,	dos,	queue,
+16dd		Je	Je	Je	Je	Je	Je	Je	Je
+16ee		t'y	t'y	t'y	t'y	t'y	t'y	t'y	t'y
+16dd		plu-	plu-	plu-	plu-	plu-	plu-	plu-	plu-
+16cc		-mer-	-mer-	-mer-	-mer-	-mer-	-mer-	-mer-	-mer-
+16b		-ai	-ai	-ai	-ai	-ai	-ai	-ai	-ai
+16a		la	les	le	le	les	les	le	la
+=10		=10	=10	=	=	=	=	=	=
+8g		têt',	yeux,	bec,	cou,	ail's,	patt's,	dos,	queue,
+!!LO:TX:a:t=Choeur
+16g		Je	Je	Je	Je	Je	Je	Je	Je
+16g		t'y	t'y	t'y	t'y	t'y	t'y	t'y	t'y
+16g		plu-	plu-	plu-	plu-	plu-	plu-	plu-	plu-
+16g		-mer-	-mer-	-mer-	-mer-	-mer-	-mer-	-mer-	-mer-
+16g		-ai	-ai	-ai	-ai	-ai	-ai	-ai	-ai
+16b		la	les	le	le	les	les	le	la
+!!LO:PB:g=original
+=11		=11	=11	=	=	=	=	=	=
+8dd		têt',	yeux,	bec,	cou,	ail's,	patt's,	dos,	queue,
+16dd		Je	Je	Je	Je	Je	Je	Je	Je
+16ee		t'y	t'y	t'y	t'y	t'y	t'y	t'y	t'y
+16dd		plu-	plu-	plu-	plu-	plu-	plu-	plu-	plu-
+16cc		-mer-	-mer-	-mer-	-mer-	-mer-	-mer-	-mer-	-mer-
+16b		-ai	-ai	-ai	-ai	-ai	-ai	-ai	-ai
+16a		la	les	le	le	les	les	le	la
+=12		=12	=13	=	=	=	=	=	=
+8g		têt',	yeux,	bec,	cou,	ail's,	patt's,	dos,	queue,
+=||:		=||:	=||:	=	=	=	=	=	=
+*>E		*>E	*>E	*>E	*>E	*>E	*>E	*>E	*>E
+!!LO:TX:a:t=Solo
+16dd		Et	Et	Et	Et	Et	Et	Et	Et
+16dd		la	les	le	le	les	les	le	la
+8dd		têt',	yeux,	bec,	cou,	ail's,	patt's,	dos,	queue,
+!!LO:TX:a:t=Choeur
+16dd		Et	Et	Et	Et	Et	Et	Et	Et
+16dd		la	les	le	le	les	les	le	la
+!!LO:PB:g=original
+=13		=13	=13	=	=	=	=	=	=
+8dd		têt',	yeux,	bec,	cou,	ail's,	patt's,	dos,	queue,
+*		*Xjoin	*Xjoin	*Xjoin	*Xjoin	*Xjoin	*Xjoin	*Xjoin	*Xjoin
+*		*v	*v	*v	*v	*v	*v	*v	*v
+=:||		=:||
+*>F		*>F
+!LO:TX:a:t=Solo	!
+16dd		A-
+16dd		-lou-
+8dd		-ett',
+!LO:TX:a:t=Choeur	!
+16dd		A-
+16dd		-lou-
+=14		=14
+8dd		-ett',
+8r		.
+[4dd^		Ah!
+=15		=15
+4dd];		.
+8.g		A-
+16a		-lou-
+!!!actually a D.S. but this preserves the original score
+!LO:TX:a:t=[segno]	!
+==		==
+*-		*-
