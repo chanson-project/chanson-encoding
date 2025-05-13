@@ -1,0 +1,99 @@
+!!!COM: Folklore canadien
+!!!PTR@@FR: Les 100 plus belles chansons
+!!!OTL@@FR: C'est l'aviron qui nous mène en haut
+!!!PUB: La Bonne Chanson, inc.
+!!!PDT: 2011
+!!!YEM: On ne peut reproduire, enregistrer ou diffuser en tout ou en partie le présent ouvrage, sous quelque procédé que ce soit, électronique, mécanique, photographique, sonore, magnétique ou autre, sans avoir obtenu au préalable l'autorisation écrite de l'éditrice.
+!!!SMA: 2012 Bibliothèque nationale du Québec; Biblothèque nationale du Canada
+!!!AGN-type: Chanson de voyageur
+!!!AGN-Laforte: Strophique (avec refrain), 12:10(4+6)
+!!!AGN-rhyme: mixtes: v:1-4,9-11, suivies; v:5-8,12, à cheval
+**kern	**text	**text	**text	**text	**text	**text	**text	**text	**text	**text	**text	**text
+*clefG2	*	*	*	*	*	*	*	*	*	*	*	*
+*k[f#c#]	*	*	*	*	*	*	*	*	*	*	*	*
+*D:	*	*	*	*	*	*	*	*	*	*	*	*
+*M2/4	*	*	*	*	*	*	*	*	*	*	*	*
+*	*v:1	*v:2	*v:3	*v:4	*v:5	*v:6	*v:7	*v:8	*v:9	*v:10	*v:11	*v:12
+*	*pline:1	*pline:2b	*pline:3b	*pline:4b	*pline:5b	*pline:6b	*pline:7b	*pline:8b	*pline:9b	*pline:10b	*pline:11b	*pline:12b
+=||:1	=||:1	=||:1	=||:1	=||:1	=||:1	=||:1	=||:1	=||:1	=||:1	=||:1	=||:1	=||:1
+{{4f#	M'en	J'ai	J'ai	J'l'y	J'y	Au	Je	Quand	Je	Quand	À	À
+8f#	re-	ren-	point	fis	fis	bout	l'ai	ell'	l'ai	ell'	la	la
+8e	-ve-	con-	choi-	mon-	cent	d'cent	me-	fut	me-	fut	san-	san-
+=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+4.d}	-nant	tré	si,	ter	lieues	lieues,	née	là,	née	là,	té	té
+{8a	de	trois	mais	der-	sans	ell'	au-	ell'	au	ell'	de	de
+=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+8a	la	jo-	j'ai	rièr'	par-	me	près	ne	lo-	bu-	son	ses
+8a	jo-	lies	pris	moi	ler	d'man-	d'u-	vou-	gis	vait	père	soeurs
+8a	-lie	de-	la	sur	a-	dit	ne	lut	de	à	et	et
+8a	Ro-	moi-	plus	ma	vec	à	fon-	point	son	pleins	sa	ses
+!!LO:PB:g=original
+=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
+4b/	-chel-	sel-	bel-	sel-	el-	boi-	tai-	boi-	pè-	ver-	mè-	frè-
+8a/	-le,	les;	le;	le;	le;	re;	ne;	re;	re;	res;	re;	res;
+*	*rp:ɛ	*rp:ɛ	*rp:ɛ	*rp:ɛ	*rp:ɛ	*rp:a	*rp:ɛ	*rp:a	*rp:ɛ	*rp:ɛ	*rp:ɛ	*rp:ɛ
+*	*rf:ɛl,ə	*rf:ɛl,ə	*rf:ɛl,ə	*rf:ɛl,ə	*rf:ɛl,ə	*rf:bwaʁ,ə	*rf:tɛn,ə	*rf:bwaʁ,ə	*rf:ɛʁ,ə	*rf:ɛʁ,ə	*rf:ɛʁ,ə	*rf:ɛʁ,ə
+*	*rs:a	*rs:a	*rs:a	*rs:a	*rs:a	*rs:b	*rs:c	*rs:b	*rs:d	*rs:d	*rs:d	*rs:d
+8r}}	.	.	.	.	.	.	.	.	.	.	.	.
+=:||	=:||	=:||	=:||	=:||	=:||	=:||	=:||	=:||	=:||	=:||	=:||	=:||
+*	*pline:2a	*pline:3a	*pline:4a	*pline:5a	*pline:6a	*pline7a	*pline:8a	*pline:9a	*pline:10a	*pline: 11a	*pline:12a	*pline:13
+=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9
+{{4a	J'ai	J'ai	J'l'y	J'y	Au	Je	Quand	Je	Quand	À	À	À
+8a	ren-	point	fis	fis	bout	l'ai	ell'	l'ai	ell'	la	la	la
+8a	-con-	choi-	mon-	cent	d'cent	me-	fut	me-	fut	san-	san-	san-
+=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10
+4.dd}	-tré	si,	ter	lieues	lieues,	née	là,	née	là,	té	té	té
+{8a	trois	mais	der-	sans	ell'	au-	ell'	au	ell'	de	de	d'ce-
+=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11
+8a	jo-	j'ai	rièr'	par-	me	près	ne	lo-	bu-	son	ses	lui
+!pitch variant:b	!	!	!	!	!	!	!	!	!	!	!	!
+8a	-lies	pris	moi	ler	d'man-	d'u-	vou-	gis	vait	père	soeurs	que
+8a	de-	la	sur	a-	dit	ne	lut	de	à	et	et	son
+8g	-moi-	plus	ma	vec	à	fon-	point	son	pleins	sa	ses	coeur
+!!LO:PB:g=original
+=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12
+4f#	-sel-	bel-	sel-	el-	boi-	tai-	boi-	pè-	ver-	mè-	frè-	ai-
+8e	-les.	le.	le.	le.	re.	ne.	re.	re.	res.	re.	res.	me.
+*	*rp:ɛ	*rp:ɛ	*rp:ɛ	*rp:ɛ	*rp:ɑ	*rp:ɛ	*rp:a	*rp:ɛ	*rp:ɛ	*rp:ɛ	*rp:ɛ	*rp:ɛ
+*	*rf:ɛl,ə	*rf:ɛl,ə	*rf:ɛl,ə	*rf:ɛl,ə	*rf:bwaʁ,ə	*rf:tɛn,ə	*rf:bwaʁ,ə	*rf:ɛʁ,ə	*rf:ɛʁ,ə	*rf:ɛʁ,ə	*rf:ɛʁ,ə	*rf:ɛm,ə
+*	*rs:a	*rs:a	*rs:a	*rs:a	*rs:b	*rs:c	*rs:b	*rs:d	*rs:d	*rs:d	*rs:d	*rs:e
+=||:13	=||:13	=||:13	=||:13	=||:13	=||:13	=||:13	=||:13	=||:13	=||:13	=||:13	=||:13	=||:13
+*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain
+!!LO:TX:a:B:t=Refrain
+{{4d	C'est	.	.	.	.	.	.	.	.	.	.	.
+8d	l'a-	.	.	.	.	.	.	.	.	.	.	.
+8e	-vi-	.	.	.	.	.	.	.	.	.	.	.
+=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14
+4f#	-ron	.	.	.	.	.	.	.	.	.	.	.
+8e	qui	.	.	.	.	.	.	.	.	.	.	.
+8d	nous	.	.	.	.	.	.	.	.	.	.	.
+=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15
+8c#	mè-	.	.	.	.	.	.	.	.	.	.	.
+8d	-ne,	.	.	.	.	.	.	.	.	.	.	.
+*	*bis	*	*	*	*	*	*	*	*	*	*	*
+8e	qui	.	.	.	.	.	.	.	.	.	.	.
+8f#	nous	.	.	.	.	.	.	.	.	.	.	.
+!!LO:PB:g=original
+=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16
+4g	mè-	.	.	.	.	.	.	.	.	.	.	.
+8e	-ne,	.	.	.	.	.	.	.	.	.	.	.
+8r}	.	.	.	.	.	.	.	.	.	.	.	.
+=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17
+{4d	C'est	.	.	.	.	.	.	.	.	.	.	.
+8d	l'a-	.	.	.	.	.	.	.	.	.	.	.
+8e	-vi-	.	.	.	.	.	.	.	.	.	.	.
+=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18
+4f#	-ron	.	.	.	.	.	.	.	.	.	.	.
+8e	qui	.	.	.	.	.	.	.	.	.	.	.
+8d	nous	.	.	.	.	.	.	.	.	.	.	.
+=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19
+!	!unmarked elision:mèn'	!	!	!	!	!	!	!	!	!	!	!
+4c#	mène	.	.	.	.	.	.	.	.	.	.	.
+*	*Xbis	*	*	*	*	*	*	*	*	*	*	*
+4e	en	.	.	.	.	.	.	.	.	.	.	.
+=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20
+2d}}	haut!	.	.	.	.	.	.	.	.	.	.	.
+=:||	=:||	=:||	=:||	=:||	=:||	=:||	=:||	=:||	=:||	=:||	=:||	=:||
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!EED: Ève Poudrier
+!!!EEV: 2025/May/06
