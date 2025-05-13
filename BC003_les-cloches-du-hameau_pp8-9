@@ -1,0 +1,205 @@
+!!!COM: Anonymous
+!!!LYR: Anonymous
+!!!PTL@@FR: Les 100 plus belles chansons
+!!!OTL@@FR:Les cloches du hameau
+!!!PUB:La Bonne Chanson, inc.
+!!!YEM: On ne peut reproduire, enregistrer ou diffuser en tout ou en partie le présent ouvrage, sous quelque procédé que ce soit, électronique, mécanique, photographique, sonore, magnétique ou autre, sans avoir obtenu au préalable l'autorisation écrite de l'éditrice.
+!!!PDT: 2011
+!!!SMA:2012 Bibliothèque nationale du Québec; Biblothèque nationale du Canada
+!!!AGN-Laforte: Chanson strophique (avec refrain), 3:4(6)
+!!!AGN-type: Chanson pastorale
+!!!AGN-rime: croisée (abab); refrain, croisée (RaRbRaRb); turlute
+!!!EED: Isaac Howie
+!!!EEV: 2025/May/06
+**kern	**text	**text	**text
+*clefG2	*	*	*
+*k[f#]	*	*	*
+*D:	*	*	*
+*M6/8	*	*	*
+*	*v:1	*v:2	*v:3
+*	*pline:1	*pline:2b	*pline:3b
+{{8d	Les	C'est	Lors-
+=1	=1	=1	=1
+4g 4b	clo-	l'heu-	-que
+8g 8b	-ches	-re	dans
+!!!Should the beam be connected? 
+(8g (8bL	du	du-	le
+8f#) 8aJ)	.	.	.
+8g 8b	ha-	re-	ro-
+=2	=2	=2	=2
+[4.g	-meau	-tour,	-cher
+*	*rp:o	*rp:u	*rp:e
+*	*rf:mo	*rf:uʁ	*rf:e
+*	*rs:a	*rs:c	*rs:e
+4g]}	.	.	.
+{8d	Chan-	Et	La
+=3	=3	=3	=3
+4g 4b	-tent	la	tem-
+8g 8b	dans	jeu-	-pê-
+(8g (8bL	la	-ne	-te
+8f#) 8aJ)	.	.	.
+8g 8b	cam-	ber-	tour-
+!!LO:PB:g=original
+=4	=4	=4	=4
+4.b 4.dd	-pa-	-gè-	-men-
+4a 4cc}	-gne	-re	-te
+*	*rp:a	*rp:ɛ	*rp:ɑ̃
+*	*rf:aɲ,ə	*rf:ɛʁ	*rf:ɑ̃t,ə
+*	*rs:b	*rs:d	*rs:f
+{8d	Le	Voy-	Au-
+=5	=5	=5	=5
+4a 4cc	son	-ant	-tour
+8a 8cc	du	la	du
+(8a (8ccL	cha-	fin	vieux
+8g) 8bJ)	.	.	.
+8a 8cc	-lu-	du	fo-
+=6	=6	=6	=6
+[4.f# [4.a	-meau	jour,	-yer,
+*	*rp:o	*rp:u	*rp:e
+*	*rf:mo	*rf:uʁ	*rf:e
+*	*rs:a	*rs:c	*rs:e
+4f#] 4a]}	.	.	.
+{8b 8dd	E-	Re-	Jo-
+=7	=7	=7	=7
+4b 4dd	-gay-	-ga-	-yeu-
+8a# 8cc#	-e	-gne	-se-
+4cc 4ee	la	sa	-ment
+8b 8dd	mon-	chau-	l'on
+!!LO:PB:g=original
+=8	=8	=8	=8
+4g 4b	-ta-	-miè-	chan-
+8g 8b}}	-gne.	-re.	-te.
+*	*rp:a	*rp:ɛ	*rp:ɑ̃
+*	*rf:aɲ,ə	*rf:ɛʁ	*rf:ɑ̃t,ə
+*	*rs:b	*rs:d	*rs:f
+*^		*	*	*
+*join	*join	*	*	*
+*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain
+!!LO:TX:a:B:t=Refrain
+{4b	{4r	On	.	.
+8cc	8r	en-	.	.
+=9	=9	=9	=9	=9
+4.dd	4.r	-tend,	.	.
+*	*	*bis	*	*
+4r	(8bL	On	.	.
+!!!How would we change the direction of the slur?
+.	8a)J	.	.	.
+8r	8g	en-	.	.
+=10	=10	=10	=10	=10
+4.r	4.d}	-tend,	.	.
+*	*	*Xbis	*	*
+{4b	4r	les	.	.
+8cc	8r	ber-	.	.
+=11	=11	=11	=11	=11
+4.dd	4.r	-gers,	.	.
+*	*	*bis	*	*
+4r	(8ccL	les	.	.
+.	8b)J	.	.	.
+8r	8cc	ber-	.	.
+!!LO:PB:g=original
+=12	=12	=12	=12	=12
+[4.a	[4.r	-gers,	.	.
+*	*	*Xbis	*	*
+*	*	*rp:e	*	*
+*	*	*rf:ʒe	*	*
+*	*	*rs:Ra	*	*
+4a]	4r]}	.	.	.
+*Xjoin	*Xjoin	*	*	*
+*v	*v	*	*	*
+.	.	.	.
+{8d	Chan-	.	.
+=13	=13	=13	=13
+4g 4b	-ter	.	.
+8g 8b	dans	.	.
+(8g (8b	les	.	.
+8f#) 8a)	.	.	.
+8g 8b	prai-	.	.
+=14	=14	=14	=14
+4.b 4.dd	-ri-	.	.
+4a 4cc}	-es	.	.
+*	*rp:i	*	*
+*	*rf:i,ə	*	*
+*	*rs:Rb	*	*
+{8d	Ces	.	.
+=15	=15	=15	=15
+4a 4cc	re-	.	.
+8a 8cc	-frains	.	.
+(8a (8cc	si	.	.
+8g) 8b)	.	.	.
+8a 8cc	lé-	.	.
+!!LO:PB:g=original
+=16	=16	=16	=16
+[4.f# [4.a	-gers	.	.
+*	*rp:e	*	*
+*	*rf:ʒe	*	*
+*	*rs:Ra	*	*
+4f#] 4a]}	.	.	.
+{8b 8dd	Qui	.	.
+=17	=17	=17	=17
+4b 4dd	char-	.	.
+8a# 8cc#	-ment	.	.
+4cc 4ee	leurs	.	.
+8b 8dd	a-	.	.
+=18	=18	=18	=18
+[4.g [4.b	-mies:	.	.
+*	*rp:i	*	*
+*	*rf:i,ə	*	*
+*	*rs:Rb	*	*
+4g] 4b]}}	.	.	.
+{{16b 16dd	Tra	.	.
+16b 16dd	la	.	.
+!!LO:PB:g=original
+=19	=19	=19	=19
+4b 4dd}	la,	.	.
+*	*bis	*	*
+{16b 16dd	tra	.	.
+16b 16dd	la	.	.
+8b 8dd	la	.	.
+8a# 8cc#	la	.	.
+8b 8dd	la	.	.
+=20	=20	=20	=20
+4g 4b}	la,	.	.
+{16g 16b	Tra	.	.
+16g 16b	la	.	.
+8g 8b	la	.	.
+8f# 8a	la	.	.
+8g 8b	la	.	.
+!!LO:PB:g=original
+=21	=21	=21	=21
+8a 8cc	la	.	.
+8g 8b	la	.	.
+8a 8cc	la	.	.
+4cc 4ee	la	.	.
+8b 8dd	la	.	.
+=22	=22	=22	=22
+[4.g [4.b	la,	.	.
+4g] 4b]}	-	.	.
+{16b 16dd	Tra	.	.
+16b 16dd	la	.	.
+=23	=23	=23	=23
+4b 4dd}	la,	.	.
+{16b 16dd	tra	.	.
+16b 16dd	la	.	.
+8b 8dd	la	.	.
+8a# 8cc#	la	.	.
+8b 8dd	la	.	.
+!!LO:PB:g=original
+=24	=24	=24	=24
+4g 4b}	la,	.	.
+{16g 16b	Tra	.	.
+16g 16b	la	.	.
+8g 8b	la	.	.
+8f# 8a	la	.	.
+8g 8b	la	.	.
+=25	=25	=25	=25
+8a 8cc	la	.	.
+8g 8b	la	.	.
+8a 8cc	la	.	.
+4cc 4ee	la	.	.
+8b 8dd	la	.	.
+=26	=26	=26	=26
+[4.g	la.	.	.
+*	*Xbis	*	*
+4g]}}	.	.	.
+==	==	==	==
+*-	*-	*-	*-
