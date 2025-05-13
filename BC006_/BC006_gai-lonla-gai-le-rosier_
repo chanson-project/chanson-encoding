@@ -8,79 +8,81 @@
 !!!AGN-type: Chanson démour
 !!!AGN-Laforte: Strophique (avec refrain), 8:4(6)
 !!!AGN-rhyme: abcb
-**kern
-*clefG2
-*k[f#c#]
-*D:
-*M3/8
-*
-*
-=1
-{{8a
-8a
-8a
-=2 
-4b
-8a
-=3 
-(4a
-8f#)}
-=4
-{8a
-8a
-8a
+**kern	**text	**text	**text	**text	**text	**text	**text	**text
+*clefG2	*	*	*	*	*	*	*	*
+*k[f#c#]	*	*	*	*	*	*	*	*
+*D:	*	*	*	*	*	*	*	*
+*M3/8	*	*	*	*	*	*	*	*
+*	*v:1	*v:2	*v:3	*v:4	*v:5	*v:6	*v:7	*v:8
+*	*pline:1	*pline:2	*pline:3	*pline:4	*pline:5	*pline:6	*pline:7	*pline:8
+=1	=1	=1	=1	=1	=1	=1	=1	=1
+{{8a	Par	Le	Il	Il	Il	Il	Que	Je
+8a	der-	ros-	chat-	ne	n'est	est	don-	don-
+8a	-rièr'	-si-	-te	chant'	point	dans	-ne-	-ne-
+=2	=2	=2	=2	=2	=2	=2	=2	=2
+4b	chez	-gnol	pour	pas	dans	la	-riez-	-rais
+8a	ma	y	ces	pour	la	Hol-	-vous,	Ver-
+=3	=3	=3	=3	=3	=3	=3	=3	=3
+(4a	tan-	chan-	bel-	moi,	dan-	-lan-	bel-	-sail-
+8f#)}	-te,	-te	-les	.	-se,	-de,	-le,	-les,
+=4	=4	=4	=4	=4	=4	=4	=4	=4
+{8a	Lui	Et	Qui	Car	Il	Les	Qui	Pa-
+8a	ya-t-	le	n'ont	j'en	est	Hol-	l'a-	-ris
+8a	-un	jour	pas	ai-	bien	-lan-	-mèn-	et
 !!LO:PB:g=original
-=5
-4b
-8a
-=6
-4a
-8r}
-=7
-{8a
-8a
-8a
-=8
-4dd
-8a
-=9
-(4a
-8f#)
+=5	=5	=5	=5	=5	=5	=5	=5	=5
+4b	bois	et	de	-t-un	loin	-dais	-'rait	Saint-
+8a	jo-	la	ma-	jo-	d'i-	l'ont	i-	De-
+=6	=6	=6	=6	=6	=6	=6	=6	=6
+4a	-li;	nuit.	-ri.	-li.	-ci;	pris.	-ci?	-nis.
+8r}	.	.	.	.	.	.	.	.
+=7	=7	=7	=7	=7	=7	=7	=7	=7
+{8a	Le	Il	Il	Il	Il	Que	Je	Et
+8a	ros-	chat-	ne	n'est	est	don-	don-	la
+8a	-si-	-te	chant'	point	dans	-ne-	-ne-	clai-
+=8	=8	=8	=8	=8	=8	=8	=8	=8
+4dd	-gnol	pour	pas	dans	la	-riez-	-rais	-re
+8a	y	ces	pour	la	Hol-	-vous,	Ver-	font-
+=9	=9	=9	=9	=9	=9	=9	=9	=9
+(4a	chan-	bel-	moi,	dan-	-lan-	bel-	-sail-	-aine
+8f#)	-te	-les	.	se,	-de:	-le,	-les,	.
 !!LO:PB:g=original
-=10
-8f#
-8f#
-8f#
-=11
-4a
-8f#
-=12
-4.e}}
-=||13
-{4d
-8f#
-=14
-4.a
-=15
-8b
-8b
-8b
+=10	=10	=10	=10	=10	=10	=10	=10	=10
+8f#	Et	Qui	Car	Il	Les	Qui	Pa-	De
+8f#	le	n'ont	j'en	est	Hol-	l'a-	-ris	mon
+8f#	jour	pas	ai-	bien	-lan-	-mèn-	et	jar-
+=11	=11	=11	=11	=11	=11	=11	=11	=11
+4a	et	de	-t-un	loin	-dais	-'rait	Saint-	din
+8f#	la	ma-	jo-	d'i-	l'ont	i-	De-	jo-
+=12	=12	=12	=12	=12	=12	=12	=12	=12
+4.e}}	nuit.	-ri	-li.	-ci	pris.	-ci?	-nis.	li.
+=||13	=||13	=||13	=||13	=||13	=||13	=||13	=||13	=||13
+*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain
+!!LO:TX:a:B:t=Refrain
+{4d	Gai	.	.	.	.	.	.	.
+8f#	lon	.	.	.	.	.	.	.
+=14	=14	=14	=14	=14	=14	=14	=14	=14
+4.a	la	.	.	.	.	.	.	.
+=15	=15	=15	=15	=15	=15	=15	=15	=15
+8b	gai	.	.	.	.	.	.	.
+8b	le	.	.	.	.	.	.	.
+8b	ro-	.	.	.	.	.	.	.
 !!LO:PB:g=original
-=16
-4.a
-=17
-8g
-8g
-8g
-=18
-4f#
-8e
-=19
-[4.d
-=20
-4d]
-8r}
-==
-*-
+=16	=16	=16	=16	=16	=16	=16	=16	=16
+4.a	-sier,	.	.	.	.	.	.	.
+=17	=17	=17	=17	=17	=17	=17	=17	=17
+8g	Du	.	.	.	.	.	.	.
+8g	jo-	.	.	.	.	.	.	.
+8g	-li	.	.	.	.	.	.	.
+=18	=18	=18	=18	=18	=18	=18	=18	=18
+4f#	mois	.	.	.	.	.	.	.
+8e	de	.	.	.	.	.	.	.
+=19	=19	=19	=19	=19	=19	=19	=19	=19
+[4.d	mai.	.	.	.	.	.	.	.
+=20	=20	=20	=20	=20	=20	=20	=20	=20
+4d]	.	.	.	.	.	.	.	.
+8r}	.	.	.	.	.	.	.	.
+==	==	==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-	*-	*-
 !!!EED: Jason Lau
 !!!EEV: 2025/May/06
