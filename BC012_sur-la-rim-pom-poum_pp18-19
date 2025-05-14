@@ -1,0 +1,112 @@
+!!!COM:Folklore canadien; arr. Charles-Émile Gadbois
+!!!OPR@FR:Les 100 plus belles chansons
+!!!OTL@FR:Sur la rim, pom, poum
+!!!AGN-type:Chanson de paysan
+!!!PUB:La Bonne Chanson, inc.
+!!!YEC:2012 Bibliothèque nationale du Québec; Biblothèque nationale du Canada
+!!!AGN-Laforte:Chanson en laisse (with refrain), 13:2(6+6)
+!!!AGN-rime: monorhyme (aa)
+**kern	**text	**text	**text	**text	**text	**text	**text	**text	**text
+*clefG2	*	*	*	*	*	*	*	*	*
+*k[f#]	*	*	*	*	*	*	*	*	*
+*G:	*	*	*	*	*	*	*	*	*
+*M2/4	*	*	*	*	*	*	*	*	*
+*	*v:1	*v:2	*v:3	*v:4	*v:5	*v:6	*v:7	*v:8	*v:9
+*	*pline:1	*bis	*bis	*bis	*bis	*bis	*bis	*bis	*bis
+=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+!"avec entrain" follows "Solo" in original	!	!	!	!	!	!	!	!	!
+!!LO:TX:a:i:t=avec entrain
+!!LO:TX:a:t=Solo
+8d	Der-	J'ai	Ma	Les	J'ai	J'ai	Je	Dans	Qu'a-
+16b	-riè-	d'man-	tant'	pomm's	pris	'té	m'en	mon	-vez-
+16b	-re	-dé	me	sont	mon	cueil-	al-	che-	-vous-
+16b	chez	à	fit	dé-	p'tit	-lir	-lai	-min	-donc,
+16a	ma	ma	ré-	-jà	pa-	des	les	ren-	la
+=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+!	!	!`	!	!	!	!	!elision not in original	!	!
+8g	tant',	tant'	-pons':	mûr's	-nier,	pomm's	vendr'	contr'	bell',
+8g	des	quand	quand	et	le	sans	au	le	dans
+16a	pom-	on	ton	mon	mis	mon	pè-	fils	ce
+16a	-mes	en	a-	a-	des-	a-	-re	d'un	p'tit
+16a	il	man-	-mi	-mi	-sous	-mi	Ni-	a-	pa-
+16a	y	-ge-	vien-	n'vient	mon	Tho-	-co-	-vo-	-nier-
+!!LO:PB:g=original
+=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+8b	a,	-ra.	-dra.	pas.	bras.	-mas.	-las.	-cat.	-là?
+=||	=||	=||	=||	=||	=||	=||	=||	=||	=||
+*	*bis	*	*	*	*	*	*	*	*
+!!LO:TX:a:t=Chœur
+8d	Der-	J'ai	Ma	Les	J'ai	J'ai	Je	Dans	Qu'a-
+16b	-riè-	d'man-	tant'	pomm's	pris	'té	m'en	mon	-vez-
+16b	-re	-dé	me	sont	mon	cueil-	al-	che-	-vous-
+16b	chez	à	fit	dé-	p'tit	-lir	-lai	-min	-donc,
+16a	ma	ma	ré-	-jà	pa-	des	les	ren-	la
+=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
+!	!	!	!	!	!	!	!elision not in original	!	!
+8g	tant',	tant'	-pons':	mûr's	-nier,	pomm's	vendr'	-contr'	bell',
+8g	des	quand	quand	et	le	sans	au	le	dans
+16a	pom-	on	ton	mon	mis	mon	pè-	fils	ce
+16a	-mes	en	a-	a-	des-	a-	-re	d'un	p'tit
+16a	il	man-	-mi	-mi	-sous	-mi	Ni-	a-	pa-
+16a	y	-ge-	vien-	n'vient	mon	Tho-	-co-	-vo-	-nier-
+!!LO:PB:g=original
+=5	=5	=5	=5	=5	=5	=5	=5	=5	=5
+8b	a;	-ra.	-dra.	pas	bras.	-mas.	-las.	-cat.	-là?
+*	*Xbis	*Xbis	*Xbis	*Xbis	*Xbis	*	*	*	*
+=||	=||	=||	=||	=||	=||	=||	=||	=||	=||
+*	*pline:2	*pline:3	*pline:4	*pline:5	*pline:6	*pline:7	*pline:8	*pline:9	*pline:10
+!!LO:TX:a:t=Solo
+8b	J'ai	Ma	Les	J'ai	J'ai	Je	Dans	Qu'a-	Mon-
+16b	d'man-	tant'	pomm's	pris	'té	m'en	mon	-vez-	-sieur,
+16a	-dé	me	sont	mon	cueil-	al-	che-	-vous-	ce
+16g	à	fit	dé-	p'tit	-lir	-lai	-min	-donc.	sont
+16b	ma	ré-	-jà	pa-	des	les	ren-	la	des
+=6	=6	=6	=6	=6	=6	=6	=6	=6	=6
+!	!	!	!	!	!	!elision not in original	!	!	!
+8dd	tant'	-pons':	mûr's	-nier,	pomm's	vendr'	contr'	bell',	pomm's,
+8dd	quand	quand	et	le	sans	au	le	dans	n'en
+16ee	on	ton	mon	mis	mon	pè-	fils	ce	vou-
+16dd	en	a-	a-	des-	a-	-re	d'un	p'tit	-dri-
+16dd	man-	-mi	-mi	-sous	-mi	Ni-	a-	pa-	-ez-
+16cc	-ge-	vien-	n'vient	mon	Tho-	-co-	-vo-	-nier-	-vous
+!!LO:PB:g=original
+=7	=7	=7	=7	=7	=7	=7	=7	=7	=7
+8b	-ra.	-dra.	pas.	bras.	-mas.	-las.	-cat.	-là?	pas?
+*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain
+=||:	=||:	=||:	=||:	=||:	=||:	=||:	=||:	=||:	=||:
+!!LO:TX:a:i:t=Reprise par le Chœur
+!!LO:TX:a:B:t=Refrain
+16d	Sur	.	.	.	.	.	.	.	.
+16d	la	.	.	.	.	.	.	.	.
+8g	rim,	.	.	.	.	.	.	.	.
+8b^	pom,	.	.	.	.	.	.	.	.
+=8	=8	=8	=8	=8	=8	=8	=8	=8	=8
+8d	poum,	.	.	.	.	.	.	.	.
+8b^	pom,	.	.	.	.	.	.	.	.
+16a	pou-	.	.	.	.	.	.	.	.
+16a	m(e)	.	.	.	.	.	.	.	.
+16a	la	.	.	.	.	.	.	.	.
+16g	rou-	.	.	.	.	.	.	.	.
+!!LO:PB:g=original
+=9	=9	=9	=9	=9	=9	=9	=9	=9	=9
+8b	-lett',	.	.	.	.	.	.	.	.
+*	*bis	*	*	*	*	*	*	*	*
+16d	Sur	.	.	.	.	.	.	.	.
+16d	la	.	.	.	.	.	.	.	.
+8g	rim,	.	.	.	.	.	.	.	.
+8b^	pom,	.	.	.	.	.	.	.	.
+=10	=10	=10	=10	=10	=10	=10	=10	=10	=10
+8d	poum,	.	.	.	.	.	.	.	.
+8b^	pom,	.	.	.	.	.	.	.	.
+16a	pou-	.	.	.	.	.	.	.	.
+!	!no division in original	!	!	!	!	!	!	!	!
+16a	m(e)	.	.	.	.	.	.	.	.
+16a	la	.	.	.	.	.	.	.	.
+*	*Xbis	*	*	*	*	*	*	*	*
+16f#	rou-	.	.	.	.	.	.	.	.
+=11	=11	=11	=11	=11	=11	=11	=11	=11	=11
+8g	-lé!	.	.	.	.	.	.	.	.
+=:||	=:||	=:||	=:||	=:||	=:||	=:||	=:||	=:||	=:||
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!EED: Ève Poudrier
+!!!EEV: 2025/May/13
