@@ -14,9 +14,9 @@
 *D:	*	*	*	*	*	*	*	*	*	*	*	*
 *M2/4	*	*	*	*	*	*	*	*	*	*	*	*
 *	*v:1	*v:2	*v:3	*v:4	*v:5	*v:6	*v:7	*v:8	*v:9	*v:10	*v:11	*v:12
-*	*pline:1	*pline:2b	*pline:3b	*pline:4b	*pline:5b	*pline:6b	*pline:7b	*pline:8b	*pline:9b	*pline:10b	*pline:11b	*pline:12b
+*	*pline:1	*	*	*	*	*	*	*	*	*	*	*
 =||:1	=||:1	=||:1	=||:1	=||:1	=||:1	=||:1	=||:1	=||:1	=||:1	=||:1	=||:1	=||:1
-*	*	*bis			*	*	*bis	*bis	*bis	*bis	*bis	*bis	*bis	*bis
+*	*	*bis	*bis	*bis	*bis	*bis	*bis	*bis	*bis	*bis	*bis	*bis
 {{4f#	M'en	J'ai	J'ai	J'l'y	J'y	Au	Je	Quand	Je	Quand	À	À
 8f#	re-	ren-	point	fis	fis	bout	l'ai	ell'	l'ai	ell'	la	la
 8e	-ve-	con-	choi-	mon-	cent	d'cent	me-	fut	me-	fut	san-	san-
@@ -36,10 +36,10 @@
 *	*rf:ɛl,ə	*rf:ɛl,ə	*rf:ɛl,ə	*rf:ɛl,ə	*rf:ɛl,ə	*rf:bwaʁ,ə	*rf:tɛn,ə	*rf:bwaʁ,ə	*rf:ɛʁ,ə	*rf:ɛʁ,ə	*rf:ɛʁ,ə	*rf:ɛʁ,ə
 *	*rs:a	*rs:a	*rs:a	*rs:a	*rs:a	*rs:b	*rs:c	*rs:b	*rs:d	*rs:d	*rs:d	*rs:d
 8r}}	.	.	.	.	.	.	.	.	.	.	.	.
-*	*	*Xbis	*Xbis	*Xbis	*Xbis	*Xbis	*Xbis	*Xbis	*Xbis	*Xbis	*Xbis		*Xbis
-=:||	=:||	=:||	=:||	=:||	=:||	=:||	=:||	=:||	=:||	=:||	=:||	=:||
-*	*pline:2a	*pline:3a	*pline:4a	*pline:5a	*pline:6a	*pline7a	*pline:8a	*pline:9a	*pline:10a	*pline: 11a	*pline:12a	*pline:13
-=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9
+*	*	*Xbis	*Xbis	*Xbis	*Xbis	*Xbis	*Xbis	*Xbis	*Xbis	*Xbis	*Xbis	*Xbis
+=:||9	=:||9	=:||	=:||9	=:||9	=:||9	=:||9	=:||9	=:||9	=:||9	=:||9	=:||9	=:||9
+*	*v:1	*v:2	*v:3	*v:4	*v:5	*v:6	*v:7	*v:8	*v:9	*v:10	*v:11	*v:12
+*	*pline:2	*pline:3	*pline:4	*pline:5	*pline:6	*pline7	*pline:8	*pline:9	*pline:10	*pline: 11	*pline:12	*pline:13
 {{4a	J'ai	J'ai	J'l'y	J'y	Au	Je	Quand	Je	Quand	À	À	À
 8a	ren-	point	fis	fis	bout	l'ai	ell'	l'ai	ell'	la	la	la
 8a	-con-	choi-	mon-	cent	d'cent	me-	fut	me-	fut	san-	san-	san-
@@ -98,4 +98,4 @@
 =:||	=:||	=:||	=:||	=:||	=:||	=:||	=:||	=:||	=:||	=:||	=:||	=:||
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
 !!!EED: Ève Poudrier
-!!!EEV: 2025/May/13
+!!!EEV: 2025/May/14
