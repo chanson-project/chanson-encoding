@@ -13,7 +13,7 @@
 *k[b-,e-,a-]	*	*	*	*	*	*	*	*	*
 *E-:	*	*	*	*	*	*	*	*	*
 *M6/8	*	*	*	*	*	*	*	*	*
-*	*v:1	*	*	*	*	*	*	*	*
+*	*v:1	*v:2	*v:3	*v:4	*v:5	*v:6	*v:7	*v:8	*v:9
 *	*pline:1	*	*	*	*	*	*	*	*
 !!LO:TX:a:t=Allegro
 4e-	En	.	.	.	.	.	.	.	.
@@ -32,7 +32,7 @@
 *	*rf:ɛn,ə	*rf:ɛn,ə	*rf:ɛn,ə	*rf:ɛn,ə	*rf:ɛm,ə	*rf:ɛn,ə	*rf:ɛn,ə	*rf:ɛn,ə	*rf:ɛn,ə
 *	*rs:a	*rs:a	*rs:a	*rs:a	*rs:x	*rs:a	*rs:a	*rs:a	*rs:a
 *	*refrain	*	*	*	*	*	*	*	*
-!	!italics	!	!	!	!	!	!	!	!
+*	*italic	*	*	*	*	*	*	*	*
 4b-	A-	.	.	.	.	.	.	.	.
 8b-	-vec	.	.	.	.	.	.	.	.
 4cc	mes	.	.	.	.	.	.	.	.
@@ -40,10 +40,11 @@
 !!LO:PB:g=original
 =3	=3	=3	=3	=3	=3	=3	=3	=3	=3
 [4.b-	-bots,	.	.	.	.	.	.	.	.
-!	!end italics	!	!	!	!	!	!	!	!
+*	*Xitalic	*	*	*	*	*	*	*	*
 4b-]	.	.	.	.	.	.	.	.	.
 8r	.	.	.	.	.	.	.	.	.
 *	*Xrefrain	*	*	*	*	*	*	*	*
+*	*v:1	*v:2	*v:3	*v:4	*v:5	*v:6	*v:7	*v:8	*v:9
 *	*bis	*	*	*bis	*	*	*	*	*
 4e-	En	Ren-	Ils	Je	Puis-	Il	Un	Je	S'il
 8e-	-pas-	-con-	m'ont	ne	-que	m'a	bou-	l'ai	fleu-
@@ -58,7 +59,7 @@
 4cc	-rai-	-tai-	-lai-	-lai-	m'ai-	-tren-	-lai-	plai-	rei-
 8a-	-ne,	-nes,	-ne,	ne,	-me,	ne,	-ne,	-ne,	-ne,
 *	*refrain	*	*	*	*	*	*	*	*
-!	!italics	!	!	!	!	!	!	!	!
+*	*italic	*	*	*	*	*	*	*	*
 4b-	A-	.	.	.	.	.	.	.	.
 8b-	-vec	.	.	.	.	.	.	.	.
 4cc	mes	.	.	.	.	.	.	.	.
@@ -66,11 +67,13 @@
 !!LO:PB:g=original
 =6	=6	=6	=6	=6	=6	=6	=6	=6	=6
 [4.b-	-bots,	.	.	.	.	.	.	.	.
-!	!end italics	!	!	!	!	!	!	!	!
+*	*Xitalic	*	*	*	*	*	*	*	*
 4b-]	.	.	.	.	.	.	.	.	.
 8r	.	.	.	.	.	.	.	.	.
 *	*Xrefrain	*	*	*	*	*	*	*	*
 *	*Xbis	*Xbis	*Xbis	*Xbis	*Xbis	*Xbis	*Xbis	*Xbis	*Vbis
+*	*v:1	*v:2	*v:3	*v:4	*v:5	*v:6	*v:7	*v:8	*v:9
+
 *	*pline:2	*pline:3	*pline:4	*pline:5	*pline:6	*pline:7	*pline:8	*pline:9	*pline:10
 4b-	Ren-	Ils	Je	Puis-	Il	Un	Je	S'il	S'il
 8b-	-con-	m'ont	ne	-que	m'a	bou-	l'ai	fleu-	y
@@ -89,6 +92,7 @@
 *	*refrain	*	*	*	*	*	*	*	*
 *	*bis	*	*	*	*	*	*	*	*
 !!LO:TX:a:B:t=Refrain
+*	*italic	*	*	*	*	*	*	*	*
 4g	A-	.	.	.	.	.	.	.	.
 8g	-vec	.	.	.	.	.	.	.	.
 =9	=9	=9	=9	=9	=9	=9	=9	=9	=9
@@ -116,12 +120,14 @@
 =||13	=||13	=||13	=||13	=||13	=||13	=||13	=||13	=||13	=||13
 *9/8	*	*	*	*	*	*	*	*	*
 [4.e-	-bots.	.	.	.	.	.	.	.	.
+*	*Xitalic	*	*	*	*	*	*	*	*
 !!LO:TX:a:B:t=FIN
 4e-]	.	.	.	.	.	.	.	.	.
 8r	.	.	.	.	.	.	.	.	.
 *	*Xbis	*	*	*	*	*	*	*	*
 *	*Xrefrain	*	*	*	*	*	*	*	*
 !end lines on fourth line here	!	!	!	!	!	!	!	!	!
+*	*v:2	*v:3	*v:4	*v:5	*v:6	*v:7	*v:8	*v:9	*
 *	*bis	*bis	*bis	*bis	*bis	*bis	*bis	*bis	*
 4e-	Ren-	Ils	Je	Puis-	Il	Un	Je	S'il	.
 8e-	-con-	m'ont	ne	-que	m'a	bou-	l'ai	fleu-	.
@@ -131,4 +137,4 @@
 *M6/8	*	*	*	*	*	*	*	*	*
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-
 !!!EED: Ève Poudrier
-!!!EEV: 2025/May/13
+!!!EEV: 2025/May/14
