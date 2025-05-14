@@ -1,0 +1,104 @@
+!!!COM: Musique de Do-Mi-Sol
+!!!PTL@@FR: Les 100 plus belles chansons
+!!!OTL@@FR: Dans la  Garde nationale
+!!!PUB:La Bonne Chanson, inc.
+!!!YEM: On ne peut reproduire, enregistrer ou diffuser en tout ou en partie le présent ouvrage, sous quelque procédé que ce soit, électronique, mécanique, photographique, sonore, magnétique ou autre, sans avoir obtenu au préalable l'autorisation écrite de l'éditrice.
+!!!PDT: 2011
+!!!SMA:2012 Bibliothèque nationale du Québec; Biblothèque nationale du Canada
+!!!AGN-Laforte: Chanson d'enfants, 3:2(7)
+!!!AGN-type: Canon à trois parties
+!!!AGN-rime: suivies (aa,aa,bb)
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M6/8	*
+*	*pline:1
+!!LO:TX:a:B:t=A
+4g	Dans
+8f#	la
+=1	=1
+4g	gar-
+8a	-de
+4b	na-
+8cc	-tio-
+=2	=2
+4b	-na-
+8a	-le,
+*	*rp:a
+*	*rf:al,ə
+*	*rs:a
+*	*pline:2
+4g	C'est
+8f#^>	pa-
+!!LO:PB:g=original
+=3	=3
+4g^>	-pa
+8d	qui
+4B	joue
+8d	cym-
+=4	=4
+[4g	ba-
+8g]	le;
+*	*rp:a
+*	*rf:al,ə
+*	*rs:a
+=||	=||
+*	*bis
+!!LO:TX:a:B:t=B
+4b/	Dans
+8a	la
+=5	=5
+4b	gar-
+8cc	-de
+4dd	na-
+8ee	-tio-
+!!LO:PB:g=original
+=6	=6
+4dd	-na-
+8cc	-le,
+4b	C'est
+8a^>	pa-
+=7	=7
+4b^>/	-pa
+8a	qui
+4g	joue
+8a	cym-
+=8	=8
+[4b/	-ba-
+8b/]	-le;
+*	*Xbis
+=||	=||
+*	*pline:3
+!!LO:TX:a:B:t=C
+4dd	Comm'
+8dd^>	pa-
+!!LO:PB:g=original
+=9	=9
+4dd^>	-pa,
+8dd	je
+4d	veux
+8d	un
+=10	=10
+4.dd	jour
+*	*rp:u
+*	*rf:uʁ
+*	*rs:b
+*	*pline:4
+4dd	me
+8dd	te-
+=11	=11
+4dd	-nir
+8dd	près
+4dd	du
+8dd	tam-
+=12	=12
+4.g	-bour.
+*	*rp:u
+*	*rf:uʁ
+*	*rs:b
+==	==
+*-	*-
+!!!RDF**kern: > = above
+!!!EED: Ève Poudrier
+!!!EEV: 2025/May/13
