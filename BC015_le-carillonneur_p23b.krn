@@ -1,0 +1,109 @@
+!!!COM: Anonymous
+!!!LYR: Anonymous
+!!!PTL@@FR: Les 100 plus belles chansons
+!!!OTL@@FR:Le Carillonneur
+!!!PUB:La Bonne Chanson, inc.
+!!!YEM: On ne peut reproduire, enregistrer ou diffuser en tout ou en partie le présent ouvrage, sous quelque procédé que ce soit, électronique, mécanique, photographique, sonore, magnétique ou autre, sans avoir obtenu au préalable l'autorisation écrite de l'éditrice.
+!!!PDT: 2011
+!!!SMA:2012 Bibliothèque nationale du Québec; Biblothèque nationale du Canada
+!!!AGN-Laforte: Chanson d'enfants, 1:1(8+8+12+11+10)
+!!!AGN-type: Canon à cinq parties
+!!!AGN-rime: irregular (aaxxa)
+!!!EED: Isaac Howie
+!!!EEV: 2025/May/20
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*D:	*
+!!!Is there a way to get the common-time symbol?
+*M4/4	*
+*	*pline:1
+*>A	*>A
+!!LO:TX:a:B:t=A
+{{4f	Lou-
+8f	-é
+8g	sois-
+=1	=1
+4a	-tu,
+4f	ca-
+4g	-ril-
+4e	-lon-
+=2	=2
+2f}	-neur,
+*	*rp:œ
+*	*rf:œʁ
+*	*rs:a
+=||	=||
+*>B	*>B
+!!LO:TX:a:B:t=B
+{4a	Que
+8a	Dieu
+8b-	bé-
+=3	=3
+4cc	-nis-
+4a	-se
+4b-	ton
+4cc	la-
+=4	=4
+2a}}	-beur!
+*	*rp:œ
+*	*rf:œʁ
+*	*rs:a
+=||	=||
+*>C	*>C
+!!LO:TX:a:B:t=C
+{{8cc	Dès
+8cc	le
+8cc	point
+8cc	du
+=5	=5
+4cc	jour
+8dd	à
+8cc	la
+4b-	cloche
+8cc	il
+8b-	s'ac-
+=6	=6
+4a	-cro-
+4a}	-che
+*	*rp:ɔ
+*	*rf:ɔʃ,ə
+*	*rs:x
+=||	=||
+*>D	*>D
+!!LO:TX:a:B:t=D
+{8a	Et
+8a	la
+8a	soir
+8a	en-
+=7	=7
+4a	-cor
+8b-	ca-
+8a	-ril-
+4a	-on-
+8a	-ne
+8g	plus
+=8	=8
+2f}	fort.
+*	*rp:ɔ
+*	*rf:ɔʁ
+*	*rs:x
+=||	=||
+*>E	*>E
+!!LO:TX:a:B:t=E
+{8f	Chan-
+8f	-tons
+8f	tous
+8f	en
+=9	=9
+4f	choeur:
+8f	Vi-
+8f	-ve
+4c	le
+4c	son-
+=10	=10
+2f}}	-neur!
+*	*rp:œ
+*	*rf:œʁ
+*	*rs:a
+==	==
