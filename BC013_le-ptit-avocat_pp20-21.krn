@@ -32,6 +32,7 @@
 *	*rf:ɑ	*rf:ɑ	*rf:ɑ	*rf:ɑ	*rf:ɑ	*rf:ɑ	*rf:ɑ	*rf:ɑ	*rf:ɑ	*rf:ɑ
 *	*rs:a	*rs:a	*rs:a	*rs:a	*rs:a	*rs:a	*rs:a	*rs:a	*rs:a	*rs:a
 *	*italic	*	*	*	*	*	*	*	*	*
+*	*refrain	*	*	*	*	*	*	*	*	*
 {16b-	Tour-	.	.	.	.	.	.	.	.	.
 16b-	ne	.	.	.	.	.	.	.	.	.
 16b-	ma	.	.	.	.	.	.	.	.	.
@@ -51,6 +52,7 @@
 *	*rf:iʁ,ə	*	*	*	*	*	*	*	*	*
 *	*rs:b	*	*	*	*	*	*	*	*	*
 *	*Xitalic	*	*	*	*	*	*	*	*	*
+*	*Xrefrain	*	*	*	*	*	*	*	*	*
 *	*v:1	*v:2	*v:3	*v:4	*v:5	*v:6	*v:7	*v:8	*v:9	*v:10
 *	*bis	*bis	*bis	*bis	*bis	*bis	*bis	*bis	*bis	*bis
 {{8f	C'é-	Dans	A	Du	Un	Par	A	Un	Dans	Sur
@@ -65,6 +67,7 @@
 4cc}	-cat,	-tra,	-da,	-na,	-la,	-va,	-ta,	-ta,	-sa,	-va":
 *	*Xbis	*Xbis	*Xbis	*Xbis	*Xbis	*Xbis	*Xbis	*Xbis	*Xbis	*Xbis
 *	*italic	*	*	*	*	*	*	*	*	*
+*	*refrain	*	*	*	*	*	*	*	*	*
 {16b-	Tour-	.	.	.	.	.	.	.	.	.
 16b-	-ne	.	.	.	.	.	.	.	.	.
 16b-	ma	.	.	.	.	.	.	.	.	.
@@ -81,8 +84,10 @@
 *	*rs:a	*	*	*	*	*	*	*	*	*
 !!LO:PB:g=original
 =:|:	=:|:	=:|:	=:|:	=:|:	=:|:	=:|:	=:|:	=:|:	=:|:	=:|:
+*	*Xrefrain	*	*	*	*	*	*	*	*	*
 *	*Xitalic	*	*	*	*	*	*	*	*	*
 !!LO:TX:a:B:t=Refrain
+*	*refrain	*	*	*	*	*	*	*	*	*
 {{8f'	Son	.	.	.	.	.	.	.	.	.
 8a'	p'tit	.	.	.	.	.	.	.	.	.
 =9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9
@@ -139,6 +144,7 @@
 *	*rp:ɑ	*	*	*	*	*	*	*	*	*
 *	*rf:ɑ	*	*	*	*	*	*	*	*	*
 *	*rs:a	*	*	*	*	*	*	*	*	*
+*	*Xrefrain	*	*	*	*	*	*	*	*	*
 !!LO:PB:g=original
 =:|	=:|	=:|	=:|	=:|	=:|	=:|	=:|	=:|	=:|	=:|
 *k[b-e-a-d-]	*	*	*	*	*	*	*	*	*	*
@@ -205,6 +211,7 @@
 *	*rs:a	*	*	*	*	*	*	*	*	*
 =||	=||	=||	=||	=||	=||	=||	=||	=||	=||	=||
 !!LO:TX:a:B:t=Refrain final
+*	*refrain	*	*	*	*	*	*	*	*	*
 {{8f'	Son	.	.	.	.	.	.	.	.	.
 8a'	p'tit	.	.	.	.	.	.	.	.	.
 =25	=25	=25	=25	=25	=25	=25	=25	=25	=25	=25
@@ -261,6 +268,7 @@
 *	*rp:ɑ	*	*	*	*	*	*	*	*	*
 *	*rf:ɑ	*	*	*	*	*	*	*	*	*
 *	*rs:a	*	*	*	*	*	*	*	*	*
+*	*Xrefrain	*	*	*	*	*	*	*	*	*
 !!LO:TX:a:B:t=FIN
 ==	==	==	==	==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
