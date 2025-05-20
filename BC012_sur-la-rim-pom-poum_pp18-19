@@ -37,7 +37,7 @@
 *	*rf:a	*	*	*	*	*	*	*	*	*	*	*	*
 *	*rs:a0	*	*	*	*	*	*	*	*	*	*	*	*
 =||	=||	=||	=||	=||	=||	=||	=||	=||	=||	=||	=||	=||	=||
-*	*bis	*bis	*bis	*bis	*bis	*bis	*bis	*bis	*bis	*bis	*bis	*bis	*bis
+*	*bis	*	*	*	*	*	*	*	*	*	*	*	*
 *	*v:1	*v:2	*v:3	*v:4	*v:5	*v:6	*v:7	*v:8	*v:9	*v:10	*v:11	*v:12	*v:13
 !!LO:TX:a:t=Chœur
 8d	Der-	J'ai	Ma	Les	J'ai	J'ai	Je	Dans	Qu'a-	Mon-	Il	Al-	J'al-
@@ -58,7 +58,7 @@
 8b	a;	-ra.	-dra.	pas.	bras.	-mas.	-las.	-cat.	-là?	pas?	pas.	-ra.	pas.
 *	*Xbis	*Xbis	*Xbis	*Xbis	*Xbis	*Xbis	*Xbis	*Xbis	*Xbis	*Xbis	*Xbis	*Xbis	*Xbis
 =||	=||	=||	=||	=||	=||	=||	=||	=||	=||	=||	=||	=||	=||
-*	*pline:2	*pline:3	*pline:4	*pline:5	*pline:6	*pline:7	*pline:8	*pline:9	*pline:10	*pline:11	*pline:12	*pline:13	*pline 14:
+*	*pline:2	*pline:3	*pline:4	*pline:5	*pline:6	*pline:7	*pline:8	*pline:9	*pline:10	*pline:11	*pline:12	*pline:13	*pline: 14
 *	*v:1	*v:2	*v:3	*v:4	*v:5	*v:6	*v:7	*v:8	*v:9	*v:10	*v:11	*v:12	*v:13
 !!LO:TX:a:t=Solo
 8b	J'ai	Ma	Les	J'ai	J'ai	Je	Dans	Qu'a-	Mon-	Il	Al-	J'al-	Au
