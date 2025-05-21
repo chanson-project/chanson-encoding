@@ -1,6 +1,6 @@
 !!!COM: Folklore canadien
 !!!PTR@@FR: Les 100 plus belles chansons
-!!!OTL@@FR: Le petit mousse
+!!!OTL@@FR: Le Petit Mousse
 !!!PUB: La Bonne Chanson, inc.
 !!!PDT: 2011
 !!!YEM: On ne peut reproduire, enregistrer ou diffuser en tout ou en partie le présent ouvrage, sous quelque procédé que ce soit, électronique, mécanique, photographique, sonore, magnétique ou autre, sans avoir obtenu au préalable l'autorisation écrite de l'éditrice.
@@ -8,72 +8,132 @@
 !!!AGN-type: Chanson de maraine
 !!!AGN-Laforte: Strophique (avec refrain), 4:6(4+4)
 !!!AGN-rhyme: mixtes: v:1-4: croesees; v:5-6: other ABABCD
-**kern	**blank
-*clefG2	*
-*k[b-]	*
-*D:	*
-*M9/8	*
-{{8c	.
-4c	.
-8f	.
-=1	=1
-[4.a	.
-4a]	.
-8g	.
-4f	.
-8a	.
-=2	=2
-[4.c	.
-4c]	.
-8f	.
-4f	.
-8e	.
-=3	=3
-[4.g	.
-4g]	.
-8f	.
-4e	.
-8g	.
-=4	=4
-[4.f	.
-4f]	.
-8c	.
-4c	.
-8f	.
-=5	=5
-[4.a	.
-4a]	.
-8g	.
-4f	.
-8a	.
-=6	=6
-[4.c	.
-4c]	.
-8f	.
-4f	.
-8e	.
-=7	=7
-[4.g	.
-4g]	.
-8f	.
-4e	.
-8g	.
-=8	=8
-[4.f	.
-4f]	.
-8a	.
-4a	.
-8a	.
-=9	=9
-[4.a	.
-4a]	.
-8g	.
-4f	.
-8e	.
-=10	=10
-4.e	.
-4d	.
-8g	.
-4g	.
-8a	.
-=11	=11
+**kern		**text
+*clefG2		*
+*k[b-]		*
+*D:		*
+*M9/8		*
+*		*v:1
+*		*pline:1
+{{8c		Sur
+4c		Le
+8f		Grand
+=1		=1
+[4.a		mat
+4a]		.
+8g		.d'u-
+4f		-ne
+8a		cor-
+=2		=2
+[4.c		-vet-
+4c]		-te,
+8f		Un
+4f		pe-
+8e		-tit
+=3		=3
+[4.g		mousse
+4g]		.
+8f		un
+4e		soir
+8g		chantait;
+=4		=4
+[4.f		.
+4f]		.
+8c		Il
+4c		re-
+8f		-di-
+=5		=5
+[4.a		-sait,
+4a]		.
+8g		l'ame
+4f		in-
+8a		-qui-
+=6		=6
+[4.c		-e-
+4c]		-te,
+8f		Ces
+4f		mots
+8e		qu'au
+=7		=7
+[4.g		loin
+4g]		.
+8f		le
+4e		vent
+8g		por-
+=8		=8
+[4.f		-tait:
+4f]		.
+8a		Qui
+4a		me
+8a		ren-
+=9		=9
+[4.a		-dra
+4a]		.
+8g		ton
+4f		doux
+8e		sou-
+=10		=10
+4.e		-ri-
+4d		-re.
+8g		Heureu-
+4g		.
+8a		-se
+=11		=11
+[4.g		mere,
+4g]		.
+8f		ouvrant
+4e		.
+8d		tes
+=12		=12
+[4.c		bras?"
+4c]		.
+==13		==13
+8a + f		Fi-
+4a + f		-lez,
+8g + -b		fi-
+=14		=14
+[4a. + [cc.		-lez
+4a] + cc]		.
+8f +8a		o
+4g + 4b-		mon
+8a + 8cc		na-
+=15		=15
+4b-. + 4dd.		-vi-
+4b- + 4dd		-re,
+8b- + 8dd		Car
+4b- + 4dd		le
+8b- + 8dd		bon-
+= 16		=16
+[4a. + [4cc.	-heur
+4a] +4cc]		.
+8f +8a		m'attend
+4g + 4b-		.
+8a + 8cc		la-
+=17		=17
+[4f. + [4a.		-bas;
+4f] +4a]		.
+8f + 8a		Fi-
+4f + 4a		-lez,
+8g + 8b-		fi-
+=18		=18
+[4a. + [4cc.	-lez
+4a] +4cc]		.
+8f + 8a		o
+4g +4b-		mon
+8a + 8cc		na-
+=19		=19
+4b-. + 4dd.		-vi-
+4b- + 4dd		-re,
+8b- + 8dd		Car
+4dd + 4ff		le
+8b- + 8dd		bon-
+=20		=20
+[4a. + [4cc.	-heur
+4a] + 4cc]		.
+8f + 8f		m'attend
+4c + 4a		.
+8B- + 8g		la-
+=21		=21
+[4A. + [4f.		-bas!
+4A] + 4f]		.
+==		==
