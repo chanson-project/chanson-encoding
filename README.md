@@ -1,75 +1,146 @@
-# chanson
-This repository contains francophone folk songs encoded as kern files.
-Encoding is diplomatic and includes musical score and poetic text with phonemes and rimes.
+# Chanson Repository
 
-ENCODING PROCEDURE
+This repository contains Francophone folk songs encoded as **Humdrum `**kern`** files.  
+Encoding is *diplomatic* and includes the musical score, poetic text, phonemes, and rhyme analysis.
 
-General encoding:
-1. Each song is preceded by record comments; here is the record comments for “O Canada!” (note that there is a space between the colon and the entry):
-    - Composer: !!!COM: Lavallée, Calixa
-    - Author: !!!LYR: Routhier, juge A.-B.
-    - Collection title:	!!!PTL@@FR: Les 100 plus belles chansons
-    - Song title: !!!OTL@@FR: O Canada, terre de nos aïeux
-    - Publisher: !!!PUB: La Bonne Chanson, inc.
-    - Copyright notice:	!!!YEM: On ne peut reproduire, enregistrer ou diffuser en tout ou en partie le présent ouvrage, sous quelque procédé que ce soit, électronique, mécanique, photographique, sonore, magnétique ou autre, sans avoir obtenu au préalable l'autorisation 	écrite de l'éditrice.
-    - Year published: !!!PDT: 2011
-    - Legal deposit: !!!SMA:2012 Bibliothèque nationale du Québec; Biblothèque nationale du Canada
-    - Song type (Laforte): !!!AGN-Laforte: Chanson strophique (sans refrain), 8:10(4+6)
-    - Song type (general)!!!AGN-type: hymne national 
-    - Rhyming scheme: !!!AGN-rime: mixte, aabcbcbc
-2. Each element (melody and textual lines) is encoded in a kern spine; encoding is done one spine at a time; each spine is identified as **kern or **text
-	- Spine 1: melody = * (necessary in kern syntax if the next spine is filled)
-	- Spine 2: verse 1 (“strophe” 1) = *v:1
-	- Spine 3: verse 2 (“strophe” 2) = *v:2
-3. To add an empty spine after the first spine is completed, use: extract -s 1-$,0\
-4. To keep the layout the same as in original use !!LO:PB:g=original placed above the measure that appears on the next system. 
-    This can be activated by clicking the alignment button (same icon as middle alignment). Note that for songs that are more than four or five systems, 
-    you may set the view as “continuous” rather than “page” view on the far right of the toolbar.
-5. To add a comment (e.g., pitch variant) add a line above the relevant entry and use an exclamation mark followed by the comment (e.g., !pitch variant:b). 
-    NOTE: Once a comment is entered, an exclamation mark needs to be added to each spine in the corresponding row.
-6. Record your name and completion date (year/month/day) of encoding at the end of the page:
-	- Name of encoder: !!!EED: Ève Poudrier
-	- Completion date: !!!EEV: 2025/May/06
-	
-Text encoding:
-1. Each middle and end syllables of a word need to be preceded by a dash.
-2. Lines of text are numbered through the text and across strophe with the code *pline (e.g., *pline:1); these are placed directly before the first syllable of each line. 
-    Refrains that are comprised of more than one line are counted separately using the same system, with the letter “R” placed before the Arabic numeral.
-3. Use italics for refrain lines inserted between strophe text:
-	 - Beginning of refrain text: *italic is placed directly above 
-	 - End of refrain text: *Xitalic is placed directly below 
-4. Syllables need to be preceded by a space, except in the case of a mute e (i.e., word set to one note that ends with “e” and is followed by a words that starts with a vowel.
-5. Elided syllables need to be preceded by a space, except in the case of a mute e, i.e., syllable or word is set to one note that ends with “e” 
-    and is followed by a word that starts with a vowel.
-6. Repetition of lines are marked with *bis before the first word of the line, and *Xbis, after the last word of the line.
-7. Partial repetitions are marked with an added letter, i.e.:
-  	- Beginning of the line = *pline:1a
-  	- Ending of the line = *pline:1b
-  	- Middle of the line = *pline:1c
+---
 
-Music Encoding:
-1. Melodic segments, phrases, and periods are marked with curly brackets placed directly before and after last note or rest:
-    - first-level segmentation = {}
-    - second-level segmentation = {{}}
-    - third-level segmentation = {{{}}}
-2. Criteria for identification of melodic segment vs. phrase vs. period:
-    - Segments are cumulative: first-level segmentation may apply to a melodic segment or a phrase, which ever is first identified; 
-      second-level may be added if the first-level segment is followed by a melodic segment that relates to the first.
-    - Pay attention to repeated segments, melodic sequences, and rests.
-    - Segments are often delimited by rests; they do not form a full thought.
-    - Phrases can be determined by rests and/or melodic contour (e.g., arch) and end with a melodic cadence; they may correspond with the end of a textual line.
-    - Periods are comprised of at least two phrases that are often related (e.g., parallel) and each of which ends with a cadence.
-3. Add tempo expression below the first measure where it applies, e.g., !!LO:TX:a:t=Majestueux et résolu (see "O, Canada").
+## Table of Contents
 
-Text analysis:
-1. Rhymes: Mark the assonance, full rhyme, and structure label after the last word of each line. Refrain lines are also labeled using the same system, 
-    but with structure labels (i.e., *rs:) within the refrain (e.g., if one of the full rhyme in the refrain if the same as a full rhyme in the strophe, 
-    do not use the same structure label). For reference use the Dictionnaire de rimes: https://www.rimessolides.com/. 
-    If you put a given word in the search, it will provide all the phonemes of the word; you can then copy and paste the symbol needed for the assonance 
-    and other sounds.
-    - *rp: indicates the phoneme (assonance) of the rime (e.g.,  *rp:ø)
-    - *rf: indicate rhyming letter group, including the phoneme (e.g.., *rf: yø); the full rhythm may include a consonant or semi-vowel before and/or after the assonance
-    - *rs: indicates rhyme structural label; these are given starting with “a”, then following the alphabet order.
-  ISSUE: The two types of “a” are not differentiated in kern, i.e., /a/ vs. /a/ as in “orage” and “naufrage” as well as “voiles” et “étoile” in “Partons, la mer est belle!”
-  Enter a comment above so these can be easily identified for later encoding.
-2. Repetition of a single word is marked with *bis before the first repetition and *Xbis after the last repetition
+- [Encoding Procedure](#encoding-procedure)
+  - [General Encoding](#general-encoding)
+  - [Text Encoding](#text-encoding)
+  - [Music Encoding](#music-encoding)
+  - [Text Analysis](#text-analysis)
+- [Additional Notes](#additional-notes)
+
+---
+
+## Encoding Procedure
+
+### General Encoding
+
+1. **Record comments** (preceding each song):  
+   Example from “O Canada!” (note the space after each colon):
+
+   ```
+   !!!COM: Lavallée, Calixa
+   !!!LYR: Routhier, juge A.-B.
+   !!!PTL@@FR: Les 100 plus belles chansons
+   !!!OTL@@FR: O Canada, terre de nos aïeux
+   !!!PUB: La Bonne Chanson, inc.
+   !!!YEM: On ne peut reproduire, enregistrer ou diffuser en tout ou en partie le présent ouvrage, sous quelque procédé que ce soit, électronique, mécanique, photographique, sonore, magnétique ou autre, sans avoir obtenu au préalable l'autorisation écrite de l'éditrice.
+   !!!PDT: 2011
+   !!!SMA: 2012 Bibliothèque nationale du Québec; Biblothèque nationale du Canada
+   !!!AGN-Laforte: Chanson strophique (sans refrain), 8:10(4+6)
+   !!!AGN-type: hymne national
+   !!!AGN-rime: mixte, aabcbcbc
+   ```
+
+2. **Spine structure**:
+   - Melody (Spine 1): `*`
+   - Verse 1 (Spine 2): `*v:1`
+   - Verse 2 (Spine 3): `*v:2`
+
+3. **To add an empty spine** after the first is completed:
+   ```
+   extract -s 1-$,0
+   ```
+
+4. **Preserve visual layout** of original:
+   - Insert `!!LO:PB:g=original` above the measure that appears on the next system.
+   - Use the alignment button to preserve layout.
+   - For longer songs (>4 systems), switch to “continuous” view on the toolbar.
+
+5. **Add editorial comments** (e.g., pitch variants):
+   - Place above the relevant line with a `!`:
+     ```
+     !pitch variant:b
+     ```
+   - Ensure each spine on the same row includes an exclamation mark.
+
+6. **Encoding completion info**:
+   ```
+   !!!EED: Ève Poudrier
+   !!!EEV: 2025/May/06
+   ```
+
+---
+
+### Text Encoding
+
+1. **Syllabification**:
+   - Prefix all middle and end syllables with a hyphen (`-`).
+
+2. **Line numbering** (across all verses):
+   - Use `*pline:n` (e.g., `*pline:1`)
+   - Refrains use `*pline:R1`, `*pline:R2`, etc.
+
+3. **Refrain formatting** (italics):
+   - Begin: `*italic`
+   - End: `*Xitalic`
+
+4. **Syllable spacing**:
+   - Prefix with a space.
+   - Exception: Mute “e” at the end of a word before a vowel-initial word.
+
+5. **Elisions**:
+   - Same spacing rules as above.
+   - Exception: mute “e” elision requires no leading space.
+
+6. **Repetitions**:
+   - Full: `*bis` and `*Xbis` around the repeated line.
+   - Partial: Use suffixes:
+     ```
+     *pline:1a    ← start
+     *pline:1c    ← middle
+     *pline:1b    ← end
+     ```
+
+---
+
+### Music Encoding
+
+1. **Melodic grouping** (segmentation levels):
+   - First: `{...}`
+   - Second: `{{...}}`
+   - Third: `{{{...}}}`
+
+2. **Segmentation guidance**:
+   - Segments = short units, often bounded by rests.
+   - Phrases = melodic contour or textual line ends.
+   - Periods = ≥2 phrases with cadences and structural relation.
+
+3. **Tempo marking**:
+   - Insert under first measure:
+     ```
+     !!LO:TX:a:t=Majestueux et résolu
+     ```
+
+---
+
+### Text Analysis
+
+1. **Rhyme Marking** (after final word of each line):
+   - Phoneme (assonance): `*rp:ø`
+   - Full rhyme group: `*rf:yø`
+   - Structure label: `*rs:a`, `*rs:b`, ...
+
+   > Note: Kern does not differentiate /a/ sounds (e.g., “orage” vs. “naufrage”).  
+   > Add editorial comment for clarity.
+
+   - Use [Dictionnaire de rimes](https://www.rimessolides.com) for guidance.
+
+2. **Repeated words**:
+   - Surround with `*bis` ... `*Xbis`
+
+---
+
+## Additional Notes
+
+- Ensure consistent use of tabs and columns in spines.
+- Avoid use of trailing whitespace unless intentional.
+- All metadata records (`!!!key: value`) should have a single space after the colon.
+
+
+
