@@ -5,17 +5,6 @@ Encoding is *diplomatic* and includes the musical score, poetic text, phonemes, 
 
 ---
 
-## Table of Contents
-
-- [Encoding Procedure](#encoding-procedure)
-  - [General Encoding](#general-encoding)
-  - [Text Encoding](#text-encoding)
-  - [Music Encoding](#music-encoding)
-  - [Text Analysis](#text-analysis)
-- [Additional Notes](#additional-notes)
-
----
-
 ## Encoding Procedure
 
 <details>
@@ -69,7 +58,9 @@ Encoding is *diplomatic* and includes the musical score, poetic text, phonemes, 
 </details>
 
 
-### Text Encoding
+
+<details>
+<summary><h3>Text Encoding</h3></summary>
 
 1. **Syllabification**:
    - Prefix all middle and end syllables with a hyphen (`-`).
@@ -99,9 +90,12 @@ Encoding is *diplomatic* and includes the musical score, poetic text, phonemes, 
      *pline:1b    ← end
      ```
 
----
+</details>
 
-### Music Encoding
+
+
+<details>
+<summary><h3>Music Encoding</h3></summary>
 
 1. **Melodic grouping** (segmentation levels):
    - First: `{...}`
@@ -119,9 +113,12 @@ Encoding is *diplomatic* and includes the musical score, poetic text, phonemes, 
      !!LO:TX:a:t=Majestueux et résolu
      ```
 
----
+</details>
 
-### Text Analysis
+
+
+<details>
+<summary><h3>Text Analysis</h3></summary>
 
 1. **Rhyme Marking** (after final word of each line):
    - Phoneme (assonance): `*rp:ø`
@@ -136,7 +133,9 @@ Encoding is *diplomatic* and includes the musical score, poetic text, phonemes, 
 2. **Repeated words**:
    - Surround with `*bis` ... `*Xbis`
 
----
+
+</details>
+
 
 ## Additional Notes
 
