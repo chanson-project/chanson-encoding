@@ -3,7 +3,6 @@
 This repository contains Francophone folk songs encoded as **Humdrum `**kern`** files.  
 Encoding is *diplomatic* and includes the musical score, poetic text, phonemes, and rhyme analysis.
 
----
 
 ## Encoding Procedure
 
