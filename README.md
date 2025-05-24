@@ -18,7 +18,8 @@ Encoding is *diplomatic* and includes the musical score, poetic text, phonemes, 
 
 ## Encoding Procedure
 
-### General Encoding
+<details>
+<summary><h3>General Encoding</h3></summary>
 
 1. **Record comments** (preceding each song):  
    Example from “O Canada!” (note the space after each colon):
@@ -65,7 +66,8 @@ Encoding is *diplomatic* and includes the musical score, poetic text, phonemes, 
    !!!EEV: 2025/May/06
    ```
 
----
+</details>
+
 
 ### Text Encoding
 
