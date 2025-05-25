@@ -78,7 +78,8 @@ Encoding is *diplomatic* and includes the musical score, poetic text, phonemes, 
 
 5. **Elisions**:
    - Same spacing rules as above.
-   - Exception: mute “e” elision requires no leading space.
+   - Exception: mute “e” is replaces by apostrophe when the following word begins with a vowel;
+   - Add the comment '!elision not in original' above the elided "e"
 
 6. **Repetitions**:
    - Full: `*bis` and `*Xbis` around the repeated line.
