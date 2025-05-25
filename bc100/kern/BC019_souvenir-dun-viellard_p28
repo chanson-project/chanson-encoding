@@ -1,0 +1,182 @@
+!!!id: BC019
+!!!page: 28
+!!!COM: Anonymous
+!!!PTL@@FR: Les 100 plus belles chansons
+!!!OTL@@FR: Souvenir d'un vieillard
+!!!PUB: La Bonne Chanson, inc.
+!!!YEM: On ne peut reproduire, enregistrer ou diffuser en tout ou en partie le présent ouvrage, sous quelque procédé que ce soit, électronique, mécanique, photographique, sonore, magnétique ou autre, sans avoir obtenu au préalable l'autorisation écrite de l'éditrice.
+!!!PDT: 2011
+!!!SMA: 2012 Bibliothèque nationale du Québec; Biblothèque nationale du Canada
+!!!AGN-Laforte: Strophique (avec refrain), 6:4(4+6)
+!!!AGN-type: Chanson de viellesse
+!!!AGN-rime: croisées (abab)
+**kern	**text	**text	**text	**text	**text	**text
+*clefG2	*	*	*	*	*	*
+*k[b-]	*	*	*	*	*	*
+*F:	*	*	*	*	*	*
+*M4/4	*	*	*	*	*	*
+*met(c)	*	*	*	*	*	*
+*	*v:1	*v:2	*v:3	*v:4	*v:5	*v:6
+*	*pline:1	*pline:5	*pline:9	*pline:13	*pline:17	*pline:21
+!!LO:TX:a:t=Moderato
+{8a	Pe-	Quel-	Pe-	En	Pe-	En
+8b-	-tits	-que	-tits	viel-	-tits	viel-
+8b	en-	bien	en-	-lis-	en-	-lis-
+=1	=1	=1	=1	=1	=1	=1
+4.cc	-fants,	vieux,	-fants,	-sant,	-fants,	-sant,
+8f	jou-	j'ai	vous	so-	quand	j'ai
+8g	-ez	le	a-	-yez	j'é-	con-
+8a	dans	cœur	-vez	bons,	-tais	-nu
+8.f	la	plein	u-	cha-	à	la
+!	!	!	!	!	!elision not in original	!
+16g	prai-	de	-ne	-ri-	votr'	tris-
+=2	=2	=2	=2	=2	=2	=2
+4f	-ri-	char-	mè-	-ta-	â-	-tes-
+4e	-e,	-mes;	-re,	-bles;	-ge,	-se;
+8r}	.	.	.	.	.	.
+*	*rp:i	*rp:a	*rp:ɛ	*rp:a	*rp:a	*rp:ɛ
+*	*rf:i,ə	*rf:aʁm,ə	*rf:ɛʁ,ə	*rf:abl,ə	*rf:aʒ,ə	*rf:ɛs,ə
+*	*rs:a	*rs:c	*rs:e	*rs:g	*rs:i	*rs:k
+*	*pline:2	*pline:6	*pline:10	*pline:14	*pline:18	*pline:22
+{8g	Chan-	Per-	Et	Aux	Je	Ceux
+8a	-tez,	-met-	tous	mal-	pos-	que
+*	*bis	*	*	*	*	*
+8b-/	chan-	-tez-	les	-heu-	-sé-	j'ai-
+!!LO:PB:g=original
+=3	=3	=3	=3	=3	=3	=3
+4.dd	-tez	-moi	soirs,	-reux,	-dais	-mais
+*	*Xbis	*	*	*	*	*
+8cc	le	d'as-	près	prê-	la	je
+8b	doux	-sis-	de	-tez	dou-	les
+8cc	par-	-ter	vo-	vo-	-ce	ai
+8.g	-fum	à	-tre	-tre	paix	vus
+16g#	des	vos	ber-	se-	du	par-
+=4	=4	=4	=4	=4	=4	=4
+2a	fleurs;	jeux.	-ceau,	-cours,	cœur:	-tir...
+*	*rp:œ	*rp:ø	*rp:o	*rp:u	*rp:œ	*rp:i
+*	*rf:lœʁ	*rf:ø	*rf:o	*rf:uʁ	*rf:œ	*rf:iʁ
+*	*rs:b	*rs:d	*rs:f	*rs:h	*rs:j	*rs:l
+8r}	.	.	.	.	.	.
+*	*pline:3	*pline:7	*pline:11	*pline:15	*pline:19	*pline:23
+{8a	Pro-	Pour	Pour	Il	Que	Oh!
+!	!	!	!elision not in original	!	!	!
+8b-	-fi-	un	ell',	est	de	lais-
+8b	-tez	viel-	au	si	beaux	-sez-
+=5	=5	=5	=5	=5	=5	=5
+4.cc	bien	-lard	ciel	beau	jours	moi
+8ff	du	ou-	of-	d'as-	ont	vous
+8cc	prin-	-tra-	-frez	-sis-	pas-	prou-
+8a	-temps	-gé,	vo-	-ter	-sé	-ver
+8.f	de	plein	-tre	ses	sans	ma
+16g	la	de	pri-	sem-	nu-	ten-
+!!LO:PB:g=original
+=6	=6	=6	=6	=6	=6	=6
+4f	vi-	lar-	-è-	-bla-	-a-	-dres-
+4e	-e,	-mes,	-re;	bles:	-ge;	-se;
+*	*rp:i	*rp:a	*rp:ɛ	*rp:a	*rp:a	*rp:ɛ
+*	*rf:i,ə	*rf:aʁm,ə	*rf:ɛʁ,ə	*rf:abl,ə	*rf:aʒ,ə	*rf:ɛs,ə
+*	*rs:a	*rs:c	*rs:e	*rs:g	*rs:i	*rs:k
+8r}	.	.	.	.	.	.
+*	*pline:4	*pline:8	*pline:12	*pline:16	*pline:20	*pline:24
+{8dd	Trop	Au-	Ai-	Un	Je	C'est
+8.ee	tôt,	-près	-mez-	peu	ne	en
+16dd	hé-	de	la	de	vo-	ai-
+=7	=7	=7	=7	=7	=7	=7
+4.cc	-las!	vous,	bien	bien	-yais	-mant
+8g	vous	je	jus-	em-	que	que
+8a	ver-	me	-qu'au	-bel-	des	je
+8b-	-se-	sens	jour	-lit	jours	vou-
+8.a	-rez	plus	du	nos	de	-drais
+16g	des	heu-	tom-	vieux	bon-	mou-
+=8	=8	=8	=8	=8	=8	=8
+2f	pleurs.	-reux.	-beau.	jours.	-heur.	-rir.
+*	*rp:œ	*rp:ø	*rp:o	*rp:u	*rp:œ	*rp:i
+*	*rf:lœʁ	*rf:ø	*rf:o	*rf:uʁ	*rf:œ	*rf:iʁ
+*	*rs:b	*rs:d	*rs:f	*rs:h	*rs:j	*rs:l
+8r}	.	.	.	.	.	.
+=||	=||	=||	=||	=||	=||	=||
+*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain
+*	*refrain	*	*	*	*	*
+!!LO:TX:a:B:t=Refrain
+*	*pline:R1	*	*	*	*	*
+{{8c	Der-	.	.	.	.	.
+8f	-nier	.	.	.	.	.
+8a	a-	.	.	.	.	.
+!!LO:PB:g=original
+=9	=9	=9	=9	=9	=9	=9
+2cc	-mour	.	.	.	.	.
+8r}	.	.	.	.	.	.
+{8a	de	.	.	.	.	.
+8f	ma	.	.	.	.	.
+8a	viel-	.	.	.	.	.
+=10	=10	=10	=10	=10	=10	=10
+4cc	-les-	.	.	.	.	.
+4b-	-se,	.	.	.	.	.
+*	*rp:ɛ	*	*	*	*	*
+*	*rf:ɛs,ə	*	*	*	*	*
+*	*rs:Ra	*	*	*	*	*
+8r}}	.	.	.	.	.	.
+*	*pline:R2	*	*	*	*	*
+{8c	Ve-	.	.	.	.	.
+8e	-nez	.	.	.	.	.
+8g	à	.	.	.	.	.
+=11	=11	=11	=11	=11	=11	=11
+[2dd	moi,	.	.	.	.	.
+8dd]	.	.	.	.	.	.
+8cc	pe-	.	.	.	.	.
+8.g	-tits	.	.	.	.	.
+16g#	en-	.	.	.	.	.
+!!LO:PB:g=original
+=12	=12	=12	=12	=12	=12	=12
+2a	-fants;	.	.	.	.	.
+*	*rp:ɑ̃	*	*	*	*	*
+*	*rf:ɑ̃	*	*	*	*	*
+*	*rs:Rb	*	*	*	*	*
+8r}	.	.	.	.	.	.
+*	*pline:R3	*	*	*	*	*
+{8cc	Je	.	.	.	.	.
+8cc	veux	.	.	.	.	.
+8cc	de	.	.	.	.	.
+=13	=13	=13	=13	=13	=13	=13
+[2ee	vous	.	.	.	.	.
+8ee]	.	.	.	.	.	.
+8dd	u-	.	.	.	.	.
+8cc	-ne	.	.	.	.	.
+8b	ca-	.	.	.	.	.
+=14	=14	=14	=14	=14	=14	=14
+4dd	-res-	.	.	.	.	.
+4cc	-se,	.	.	.	.	.
+*	*rp:ɛ	*	*	*	*	*
+*	*rf:ɛs,ə	*	*	*	*	*
+*	*rs:Ra	*	*	*	*	*
+8r}	.	.	.	.	.	.
+*	*pline:R4	*	*	*	*	*
+{{8a	Pour	.	.	.	.	.
+8.f	ou-	.	.	.	.	.
+16d	-bli-	.	.	.	.	.
+!!LO:PB:g=original
+=15	=15	=15	=15	=15	=15	=15
+2c	-er	.	.	.	.	.
+8r}	.	.	.	.	.	.
+*	*bis	*	*	*	*	*
+{8a	Pour	.	.	.	.	.
+!!LO:TX:a:i:t=rall.
+8.cc	ou-	.	.	.	.	.
+16ff	-bli-	.	.	.	.	.
+=16	=16	=16	=16	=16	=16	=16
+[2ee	-er	.	.	.	.	.
+8ee]	.	.	.	.	.	.
+*	*Xbis	*	*	*	*	*
+8dd	mes	.	.	.	.	.
+8b-	che-	.	.	.	.	.
+8g	-veux	.	.	.	.	.
+=17	=17	=17	=17	=17	=17	=17
+2f	blancs.	.	.	.	.	.
+*	*rp:ɑ̃	*	*	*	*	*
+*	*rf:ɑ̃	*	*	*	*	*
+*	*rs:Rb	*	*	*	*	*
+8r}}	.	.	.	.	.	.
+==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-
+!!!EED: Ève Poudrier
+!!!EEV: 2025/May/24
