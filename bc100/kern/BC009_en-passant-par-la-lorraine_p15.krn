@@ -1,6 +1,8 @@
 !!!COM: (Vieille chanson française)
 !!!PTL@@FR: Les 100 plus belles chansons
 !!!OTL@@FR: En passant par la Lorraine
+!!!ID: BC009
+!!!page: 15
 !!!PUB:La Bonne Chanson, inc.
 !!!YEM: On ne peut reproduire, enregistrer ou diffuser en tout ou en partie le présent ouvrage, sous quelque procédé que ce soit, électronique, mécanique, photographique, sonore, magnétique ou autre, sans avoir obtenu au préalable l'autorisation écrite de l'éditrice.
 !!!PDT: 2011
@@ -16,10 +18,10 @@
 *	*v:1	*v:2	*v:3	*v:4	*v:5	*v:6	*v:7	*v:8	*v:9
 *	*pline:1	*	*	*	*	*	*	*	*
 !!LO:TX:a:t=Allegro
-4e-	En	.	.	.	.	.	.	.	.
+{4e-	En	.	.	.	.	.	.	.	.
 8e-	pas-	.	.	.	.	.	.	.	.
-!segno symbol	!	!	!	!	!	!	!	!	!
-=||:1	=||1	=||1	=||1	=||1	=||1	=||1	=||1	=||1	=||:1
+!!LO:TX:t=[segno]:cj:fs=small
+=||1	=||1	=||1	=||1	=||1	=||1	=||1	=||1	=||1	=||:1
 4b-	-sant	-trai	ap-	suis	le	don-	-quet	plan-	rit,
 8b-	par	trois	-pe-	pas	fils	-né	de	-té	je
 4b-	la	ca-	-lée	si	du	pour	mar-	sur	se-
@@ -32,7 +34,6 @@
 *	*rf:ɛn,ə	*rf:ɛn,ə	*rf:ɛn,ə	*rf:ɛn,ə	*rf:ɛm,ə	*rf:ɛn,ə	*rf:ɛn,ə	*rf:ɛn,ə	*rf:ɛn,ə
 *	*rs:a	*rs:a	*rs:a	*rs:a	*rs:x	*rs:a	*rs:a	*rs:a	*rs:a
 *	*refrain	*	*	*	*	*	*	*	*
-*	*italic	*	*	*	*	*	*	*	*
 4b-	A-	.	.	.	.	.	.	.	.
 8b-	-vec	.	.	.	.	.	.	.	.
 4cc	mes	.	.	.	.	.	.	.	.
@@ -40,13 +41,12 @@
 !!LO:PB:g=original
 =3	=3	=3	=3	=3	=3	=3	=3	=3	=3
 [4.b-	-bots,	.	.	.	.	.	.	.	.
-*	*Xitalic	*	*	*	*	*	*	*	*
 4b-]	.	.	.	.	.	.	.	.	.
-8r	.	.	.	.	.	.	.	.	.
+8r}	.	.	.	.	.	.	.	.	.
 *	*Xrefrain	*	*	*	*	*	*	*	*
 *	*v:1	*v:2	*v:3	*v:4	*v:5	*v:6	*v:7	*v:8	*v:9
 *	*bis	*	*	*bis	*	*	*	*	*
-4e-	En	Ren-	Ils	Je	Puis-	Il	Un	Je	S'il
+{4e-	En	Ren-	Ils	Je	Puis-	Il	Un	Je	S'il
 8e-	-pas-	-con-	m'ont	ne	-que	m'a	bou-	l'ai	fleu-
 =||4	=||4	=||4	=||4	=||4	=||4	=||4	=||4	=||4	=||4
 *M6/8	*	*	*	*	*	*	*	*	*
@@ -59,7 +59,6 @@
 4cc	-rai-	-tai-	-lai-	-lai-	m'ai-	-tren-	-lai-	plai-	rei-
 8a-	-ne,	-nes,	-ne,	ne,	-me,	ne,	-ne,	-ne,	-ne,
 *	*refrain	*	*	*	*	*	*	*	*
-*	*italic	*	*	*	*	*	*	*	*
 4b-	A-	.	.	.	.	.	.	.	.
 8b-	-vec	.	.	.	.	.	.	.	.
 4cc	mes	.	.	.	.	.	.	.	.
@@ -67,15 +66,14 @@
 !!LO:PB:g=original
 =6	=6	=6	=6	=6	=6	=6	=6	=6	=6
 [4.b-	-bots,	.	.	.	.	.	.	.	.
-*	*Xitalic	*	*	*	*	*	*	*	*
 4b-]	.	.	.	.	.	.	.	.	.
-8r	.	.	.	.	.	.	.	.	.
+8r}	.	.	.	.	.	.	.	.	.
 *	*Xrefrain	*	*	*	*	*	*	*	*
 *	*Xbis	*Xbis	*Xbis	*Xbis	*Xbis	*Xbis	*Xbis	*Xbis	*Vbis
 *	*v:1	*v:2	*v:3	*v:4	*v:5	*v:6	*v:7	*v:8	*v:9
 
 *	*pline:2	*pline:3	*pline:4	*pline:5	*pline:6	*pline:7	*pline:8	*pline:9	*pline:10
-4b-	Ren-	Ils	Je	Puis-	Il	Un	Je	S'il	S'il
+{{4b-	Ren-	Ils	Je	Puis-	Il	Un	Je	S'il	S'il
 8b-	-con-	m'ont	ne	-que	m'a	bou-	l'ai	fleu-	y
 =||7	=||7	=||7	=||7	=||7	=||7	=||7	=||7	=||7	=||7
 *M6/8	*	*	*	*	*	*	*	*	*
@@ -85,15 +83,14 @@
 8a-	-pi-	vi-	vi-	roi	é-	-jo-	la	-rai	ma
 =8	=8	=8	=8	=8	=8	=8	=8	=8	=8
 4g	-tai-	-lai-	-lai-	m'ai-	-tren-	-lai-	plai-	rei-	pei-
-8f	-nes,	-ne,	ne,	-me,	-ne,	-ne,	ne,	-ne,	-ne.
+8f}	-nes,	-ne,	ne,	-me,	-ne,	-ne,	ne,	-ne,	-ne.
 *	*rp:ɛ	*rp:ɛ	*rp:ɛ	*rp:ɛ	*rp:ɛ	*rp:ɛ	*rp:ɛ	*rp:ɛ	*rp:ɛ
 *	*rf:ɛn,ə	*rf:ɛn,ə	*rf:ɛn,ə	*rf:ɛm,ə	*rf:ɛn,ə	*rf:ɛn,ə	*rf:ɛn,ə	*rf:ɛn,ə	*rf:ɛn,ə
 *	*rs:a	*rs:a	*rs:a	*rs:x	*rs:a	*rs:a	*rs:a	*rs:a	*rs:a
-*	*refrain	*	*	*	*	*	*	*	*
 *	*bis	*	*	*	*	*	*	*	*
+*	*refrain	*	*	*	*	*	*	*	*
 !!LO:TX:a:B:t=Refrain
-*	*italic	*	*	*	*	*	*	*	*
-4g	A-	.	.	.	.	.	.	.	.
+{4g	A-	.	.	.	.	.	.	.	.
 8g	-vec	.	.	.	.	.	.	.	.
 =9	=9	=9	=9	=9	=9	=9	=9	=9	=9
 4g	mes	.	.	.	.	.	.	.	.
@@ -104,8 +101,8 @@
 !!LO:PB:g=original
 =10	=10	=10	=10	=10	=10	=10	=10	=10	=10
 4g	-dai-	.	.	.	.	.	.	.	.
-8f	-ne,	.	.	.	.	.	.	.	.
-4e-^^	Oh!	.	.	.	.	.	.	.	.
+8f}	-ne,	.	.	.	.	.	.	.	.
+{4e-^^	Oh!	.	.	.	.	.	.	.	.
 8g^^	oh!	.	.	.	.	.	.	.	.
 =11	=11	=11	=11	=11	=11	=11	=11	=11	=11
 [4.b-^^	oh!	.	.	.	.	.	.	.	.
@@ -120,21 +117,21 @@
 =||13	=||13	=||13	=||13	=||13	=||13	=||13	=||13	=||13	=||13
 *9/8	*	*	*	*	*	*	*	*	*
 [4.e-	-bots.	.	.	.	.	.	.	.	.
-*	*Xitalic	*	*	*	*	*	*	*	*
 !!LO:TX:a:B:t=FIN
 4e-]	.	.	.	.	.	.	.	.	.
-8r	.	.	.	.	.	.	.	.	.
+8r}}	.	.	.	.	.	.	.	.	.
 *	*Xbis	*	*	*	*	*	*	*	*
 *	*Xrefrain	*	*	*	*	*	*	*	*
 !end lines on fourth line here	!	!	!	!	!	!	!	!	!
 *	*v:2	*v:3	*v:4	*v:5	*v:6	*v:7	*v:8	*v:9	*
 *	*bis	*bis	*bis	*bis	*bis	*bis	*bis	*bis	*
-4e-	Ren-	Ils	Je	Puis-	Il	Un	Je	S'il	.
+!no closing bracket	!	!	!	!	!	!	!	!	!
+{4e-	Ren-	Ils	Je	Puis-	Il	Un	Je	S'il	.
 8e-	-con-	m'ont	ne	-que	m'a	bou-	l'ai	fleu-	.
-!segno here	!	!	!	!	!	!	!	!	!
-=:||	=||	=||	=||	=||	=||	=||	=||	=||	=:||
+!!LO:TX:t=[segno]:cj:fs=small
+=||	=||	=||	=||	=||	=||	=||	=||	=||	=:||
 !does not show	!	!	!	!	!	!	!	!	!
 *M6/8	*	*	*	*	*	*	*	*	*
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-
 !!!EED: Ève Poudrier
-!!!EEV: 2025/May/14
+!!!EEV: 2025/May/24
