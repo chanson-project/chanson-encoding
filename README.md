@@ -68,7 +68,7 @@ Encoding is *diplomatic* and includes the musical score, poetic text, phonemes, 
    - Use `*pline:n` (e.g., `*pline:1`)
    - Refrains use `*pline:R1`, `*pline:R2`, etc.
 
-3. **Refrain formatting** (italics):
+3. **Refrain formatting** (italics): NOTE: Implementation of automatic italics with *refrain to be added.
    - Begin: `*italic`
    - End: `*Xitalic`
 
