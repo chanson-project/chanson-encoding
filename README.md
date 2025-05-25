@@ -10,9 +10,11 @@ Encoding is *diplomatic* and includes the musical score, poetic text, phonemes, 
 <summary><h3>General Encoding</h3></summary>
 
 1. **Record comments** (preceding each song):  
-   Example from “O Canada!” (note the space after each colon):
+   Example from “O Canada!” (note the space after each colon); for page numbers, add "t" for songs that end on a second page and are followed by another song on the same page; add "b" for songs that are preceded by the end of a song on the same page.
 
    ```
+   !!!id: BC001
+   !!!page: 4-5
    !!!COM: Lavallée, Calixa
    !!!LYR: Routhier, juge A.-B.
    !!!PTL@@FR: Les 100 plus belles chansons
