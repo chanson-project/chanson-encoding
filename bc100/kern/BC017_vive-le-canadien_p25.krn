@@ -10,7 +10,7 @@
 !!!SMA:2012 Bibliothèque nationale du Québec; Biblothèque nationale du Canada
 !!!AGN-Laforte: Chanson en laisse (avec refrain), 8:2(8+8)
 !!!AGN-type: hymne nationale?
-!!!AGN-rime: monorime (aa)
+!!!AGN-rime: monorime (aa), Refrain: no rhyme
 !!!EED: Isaac Howie
 !!!EEV: 2025/May/20
 **kern	**text	**text	**text	**text	**text	**text	**text	**text
@@ -31,6 +31,9 @@
 8g	vail-	chan-	fer-	et	en-	con-	pour-	-cte-
 =2	=2	=2	=2	=2	=2	=2	=2	=2
 4.f	-lant,	-tant,	-vent,	franc,	-fants,	-stant,	-tant,	-ment,
+*	*rp:ɑ̃	*rp:ɑ̃	*rp:ɑ̃	*rp:ɑ̃	*rp:ɑ̃	*rp:ɑ̃	*rp:ɑ̃	*rp:ɑ̃
+*	*rf:ɑ̃	*rf:ɑ̃	*rf:vɑ̃	*rf:ɑ̃	*rf:ɑ̃	*rf:tɑ̃	*rf:ɑ̃	*rf:mɑ̃
+*	*rs:a	*rs:a	*rs:a	*rs:a	*rs:a	*rs:a	*rs:a	*rs:a
 *	*refrain	*	*	*	*	*	*	*
 *	*italic	*	*	*	*	*	*	*
 4b-	En	.	.	.	.	.	.	.
@@ -45,18 +48,21 @@
 *	*Xrefrain	*	*	*	*	*	*	*
 *	*Xitalic	*	*	*	*	*	*	*
 =:|	=:|	=:|	=:|	=:|	=:|	=:|	=:|	=:|
-*	*v:1	*v:2	*v:3	*v:4	*v:5	*v:6	*v:7	*
+*	*v:1	*v:2	*v:3	*v:4	*v:5	*v:6	*v:7	*v:8
 8f	Est	Re-	A	Ho-	Il	En	Quit-	Il
 4b-	tou-	-vient	son	-spi-	vit	a-	-ter	mon-
 8b-	-jours	le	é-	-ta-	heu-	-mi-	ses	-te-
 =5	=5	=5	=5	=5	=5	=5	=5	=5
-4cc	gai,	soir	-glise	-lier,	-reux,	-tié,	a-	.-ra
+4cc	gai,	soir	-glise	-lier,	-reux,	-tié,	a-	-ra
 8b-	tou-	en	il	po-	bien	l'est	mies,	cer-
 4dd	-jours	tur-	va	-li,	sim-	tout	ses	-tai-
 8b-	con-	-lu-	sou-	ga-	-ple-	au-	pa-	-ne-
 !!LO:PB:g=original
 =6	=6	=6	=6	=6	=6	=6	=6	=6
 4cc	-tent,	-tant,	-vent,	-lant,	-ment,	-tant,	-rents,	-ment,
+*	*rp:ɑ̃	*rp:ɑ̃	*rp:ɑ̃	*rp:ɑ̃	*rp:ɑ̃	*rp:ɑ̃	*rp:ɑ̃	*rp:ɑ̃
+*	*rf:ɑ̃	*rf:ɑ̃	*rf:vɑ̃	*rf:ɑ̃	*rf:ɑ̃	*rf:tɑ̃	*rf:ɑ̃	*rf:mɑ̃
+*	*rs:a	*rs:a	*rs:a	*rs:a	*rs:a	*rs:a	*rs:a	*rs:a
 *	*refrain	*	*	*	*	*	*	*
 *	*italic	*	*	*	*	*	*	*
 8b-	Rou-	.	.	.	.	.	.	.
@@ -64,6 +70,7 @@
 4b-	rou-	.	.	.	.	.	.	.
 =7	=7	=7	=7	=7	=7	=7	=7	=7
 4cc	-lant,	.	.	.	.	.	.	.
+*	*bis	*bis	*bis	*bis	*bis	*bis	*bis	*bis
 8b-	ma	.	.	.	.	.	.	.
 8dd	bou-	.	.	.	.	.	.	.
 8cc	-le	.	.	.	.	.	.	.
@@ -90,6 +97,7 @@
 8a)	.	.	.	.	.	.	.	.
 =12	=12	=12	=12	=12	=12	=12	=12	=12
 4b-	-le.	.	.	.	.	.	.	.
+*	*Xbis	*Xbis	*Xbis	*Xbis	*Xbis	*Xbis	*Xbis	*Xbis
 *	*Xitalic	*	*	*	*	*	*	*
 *	*Xrefrain	*	*	*	*	*	*	*
 ==	==	==	==	==	==	==	==	==
