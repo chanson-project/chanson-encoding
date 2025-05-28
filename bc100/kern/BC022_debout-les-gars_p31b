@@ -7,9 +7,9 @@
 !!!YEM: On ne peut reproduire, enregistrer ou diffuser en tout ou en partie le présent ouvrage, sous quelque procédé que ce soit, électronique, mécanique, photographique, sonore, magnétique ou autre, sans avoir obtenu au préalable l'autorisation écrite de l'éditrice.
 !!!PDT: 2011
 !!!SMA: 2012 Bibliothèque nationale du Québec; Biblothèque nationale du Canada
-!!!AGN-Laforte: Canon (à trois parties), 3:4(6)
+!!!AGN-Laforte: Canon (à trois parties), 3:4/2(6), v:1-2=4, v:3=2
 !!!AGN-type: Chanson de guerre
-!!!AGN-rime: croisées (abab)
+!!!AGN-rime: mixtes, v:1-2 = croisées, with partial repetition (abab), v:3 = suivies/repetition (aa)
 **kern	**text
 *clefG2	*
 *k[b-]	*
@@ -18,7 +18,7 @@
 *	*v:1
 *	*pline:1
 !!LO:TX:a:B:t=A
-8c	De-
+{{{8c	De-
 =1	=1
 8f	-bout,
 8a	les
@@ -26,13 +26,13 @@
 8a	en
 =2	=2
 4f	rou-
-8f	te!
-*	*rp:
-*	*rf:
-*	*rs:
+8f,}	te!
+*	*rp:u
+*	*rf:ut,ə
+*	*rs:a
 !breath mark here (bold comma)	!
 *	*pline:2
-8a	Le
+{8a	Le
 =3	=3
 8g	so-
 8f	-leil
@@ -41,12 +41,12 @@
 !!LO:PB:g=original
 =4	=4
 4f	vé...
-*	*rp:
-*	*rf:
-*	*rs:
-8r	.
+*	*rp:e
+*	*rf:e
+*	*rs:b
+8r}}	.
 *	*pline:3
-8c	Al-
+{{8c	Al-
 =5	=5
 8f	-lons,
 8a	mau-
@@ -54,13 +54,13 @@
 8a	-se
 =6	=6
 4f	trou-
-8f	-pe,
-*	*rp:
-*	*rf:
-*	*rs:
+8f,}	-pe,
+*	*rp:u
+*	*rf:up,ə
+*	*rs:a'
 !breath mark here (bold comma)	!
 *	*pline:4
-8a	Il
+{8a	Il
 =7	=7
 8g	faut
 8f	le
@@ -69,14 +69,14 @@
 !!LO:PB:g=original
 =8	=8
 4f	per.
-*	*rp:
-*	*rf:
-*	*rs:
-8r	.
+*	*rp:e
+*	*rf:e
+*	*rs:b
+8r}}}	.
 *	*v:2
 *	*pline:5
 !!LO:TX:a:B:t=B
-8cc	En
+{{8cc	En
 =9	=9
 4cc	rou-
 8a	-te!
@@ -84,11 +84,11 @@
 8ff	En
 =10	=10
 4ff	rou-
-8cc	-te
+8cc	-te!
 *	*Xbis
-*	*rp:
-*	*rf:
-*	*rs:
+*	*rp:u
+*	*rf:ut,ə
+*	*rs:a
 *	*pline:6=2
 *	*bis
 8cc	Le
@@ -98,13 +98,13 @@
 8b-	est
 8cc	le-
 =12	=12
-4.a	vé,
-*	*rp:
-*	*rf:
-*	*rs:
+4.a,}	vé,
+*	*rp:e
+*	*rf:e
+*	*rs:b
 !breath mark here (bold comma)	!
 *	*pline:6=5
-8cc	En
+{8cc	En
 !!LO:PB:g=original
 =13	=13
 4cc	rou-
@@ -113,10 +113,10 @@
 =14	=14
 4ff	rou-
 8cc	-te!
-*	*rp:
-*	*rf:
-*	*rs:
-*	*pline:7=5
+*	*rp:u
+*	*rf:ut,ə
+*	*rs:a
+*	*pline:7=4
 8cc	Il
 =15	=15
 8b-	faut
@@ -125,48 +125,58 @@
 8cc	tra-
 =16	=16
 4a	-per.
-*	*bis
-8r	.
+*	*rp:e
+*	*rf:e
+*	*rs:b
+*	*Xbis
+8r}}	.
+*	*pline:8
 !!LO:TX:a:B:t=C
-8cc	.
+{{8cc	Au
 =17	=17
-8a	.
+8a	pas,
 8r	.
 8r	.
-8cc	.
+*	*bis
+8cc	au
 !!LO:PB:g=original
 =18	=18
-8a	.
+8a	pas,
 8r	.
 8r	.
-8cc	.
+8cc	en
 =19	=19
-2cc	.
+2cc	rou-
 =20	=20
-4cc	.
-8r	.
-8cc	.
+4cc	-te,
+*	*rp:u
+*	*rf:ut,ə
+*	*rs:a
+8r}	.
+*	*pline:9=8
+{8cc	Au
 =21	=21
-8a	.
+8a	pas,
 8r	.
 8r	.
-8cc	.
+8cc	au
 =22	=22
-8a	.
+8a	pas,
 8r	.
 8r	.
-8cc	.
+8cc	en
 =23	=23
-2cc	.
+2cc	rou-
 =24	=24
 *^	*
-*join	*join	*
 *	*cue	*
-4cc	4ff/	.
+4cc\	4ff/	-te!
+*	*	*rp:u
+*	*	*rf:ut,ə
+*	*	*rs:a
 *	*cue	*
-*Xjoin	*Xjoin	*
 *v	*v	*
-4r	.
+4r}}	.
 ==	==
 *-	*-
 !!!EED: Ève Poudrier
