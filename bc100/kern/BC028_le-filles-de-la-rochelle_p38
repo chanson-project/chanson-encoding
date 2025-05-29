@@ -1,0 +1,133 @@
+!!!id: BC028
+!!!page: 38
+!!!COM:  Vieille chanson française
+!!!PTL@@FR: Les 100 plus belles chansons
+!!!OTL@@FR: Les filles de la Rochelle
+!!!PUB: La Bonne Chanson, inc.
+!!!YEM: On ne peut reproduire, enregistrer ou diffuser en tout ou en partie le présent ouvrage, sous quelque procédé que ce soit, électronique, mécanique, photographique, sonore, magnétique ou autre, sans avoir obtenu au préalable l'autorisation écrite de l'éditrice.
+!!!PDT: 2011
+!!!SMA: 2012 Bibliothèque nationale du Québec; Biblothèque nationale du Canada
+!!!AGN-Laforte: Chanson en laisse (avec refrain intégreé), 7:3(7+7)
+!!!AGN-type: Chanson de marin
+!!!AGN-rime: monorhyme (aaa...)
+**kern	**dynam	**text	**text	**text	**text	**text	**text	**text
+*clefG2	*	*	*	*	*	*	*	*
+*k[b-]	*	*	*	*	*	*	*	*
+*F:	*	*	*	*	*	*	*	*
+*6/8	*	*	*	*	*	*	*	*
+*	*	*v:1	*v:2	*v:3	*v:4	*v:5	*v:6	*v:7
+*	*	*pline:1a	*pline:3a	*pline:5a	*pline:7a	*pline:9a	*pline:11a	*pline:13a
+!!LO:TX:a:t=Alerte et pimpant
+4cc	p	Sont	La	.	.	.	.	.
+8dd	.	les	grand'	.	.	.	.	.
+=1	=1	=1	=1	=1	=1	=1	=1	=1
+4.b-	.	fill's	vergu[e]	.	.	.	.	.
+8g	.	de	est	.	.	.	.	.
+8a	.	la	en	.	.	.	.	.
+8b-	.	Ro-	i-	.	.	.	.	.
+=2	=2	=2	=2	=2	=2	=2	=2	=2
+4a	.	chel-	-voi-	.	.	.	.	.
+8a	.	-le,	-re,	.	.	.	.	.
+*	*	*pline:1b	*pline:3b	*	*	*	*	*
+4cc	.	Ont	Les	.	.	.	.	.
+8dd	.	ar-	pou-	.	.	.	.	.
+!!LO:PB:g=original
+=3	=3	=3	=3	=3	=3	=3	=3	=3
+4.b-	.	-mé	-lies	.	.	.	.	.
+8g	.	un	en	.	.	.	.	.
+8a	.	bâ-	di-	.	.	.	.	.
+8b-	.	-ti-	-a-	.	.	.	.	.
+=4	=4	=4	=4	=4	=4	=4	=4	=4
+4a	.	-ment,	-ment;	.	.	.	.	.
+8r	.	.	.	.	.	.	.	.
+*	*	*rp:ɑ̃	*rp:ɑ̃	*rp:ɑ̃	*rp:ɑ̃	*rp:ɑ̃	*rp:ɑ̃	*rp:ɑ̃
+*	*	*rf:ɑ̃	*rf:ɑ̃	*rf:ɑ̃	*rf:ɑ̃	*rf:ɑ̃	*rf:ɑ̃	*rf:ɑ̃
+*	*	*rs:a	*rs:a	*rs:a	*rs:a	*rs:a	*rs:a	*rs:a
+*	*	*bis	*bis	*bis	*bis	*bis	*bis	*bis
+4cc	.	Sont	La	.	.	.	.	.
+8dd	.	les	grand'	.	.	.	.	.
+=5	=5	=5	=5	=5	=5	=5	=5	=5
+4.b-	.	fill's	vergu[e]	.	.	.	.	.
+8g	.	de	est	.	.	.	.	.
+8a	.	la	en	.	.	.	.	.
+8b-	.	Ro-	i-	.	.	.	.	.
+=6	=6	=6	=6	=6	=6	=6	=6	=6
+4a	.	-chel-	-voi-	.	.	.	.	.
+8a	.	-le,	-re,	.	.	.	.	.
+4cc	.	Ont	Les	.	.	.	.	.
+8dd	.	ar-	pou-	.	.	.	.	.
+!!LO:PB:g=original
+=7	=7	=7	=7	=7	=7	=7	=7	=7
+4.b-	.	-mé	-lies	.	.	.	.	.
+8g	.	un	en	.	.	.	.	.
+8a	.	bâ-	di-	.	.	.	.	.
+8b-	.	-ti-	-a-	.	.	.	.	.
+=8	=8	=8	=8	=8	=8	=8	=8	=8
+4a	.	-ment,	-ment;	.	.	.	.	.
+*	*	*Xbis	*Xbis	*Xbis	*Xbis	*Xbis	*Xbis	*Xbis
+8r	.	.	.	.	.	.	.	.
+*	*	*pline:2a	*pline:4a	*	*	*	*	*
+4f	.	Pour	La	.	.	.	.	.
+8g	.	al-	grand'	.	.	.	.	.
+=9	=9	=9	=9	=9	=9	=9	=9	=9
+4a	.	-ler	voil[e]	.	.	.	.	.
+8a	.	fai-	est	.	.	.	.	.
+4a	.	-re	en	.	.	.	.	.
+8a	.	la	den-	.	.	.	.	.
+!!LO:PB:g=original
+=10	=10	=10	=10	=10	=10	=10	=10	=10
+4cc	.	cour-	-tel-	.	.	.	.	.
+8cc	.	-se	-le,	.	.	.	.	.
+*	*	*pline:2b	*pline:4b	*	*	*	*	*
+4f	.	De-	La	.	.	.	.	.
+8g	.	-dans	mi-	.	.	.	.	.
+=11	=11	=11	=11	=11	=11	=11	=11	=11
+4a	.	les	-sain[e]	.	.	.	.	.
+8a	.	mers	en	.	.	.	.	.
+(8aL	.	du	sa-	.	.	.	.	.
+8gJ)	.	.	.	.	.	.	.	.
+8f	.	Le-	-tin	.	.	.	.	.
+=12	=12	=12	=12	=12	=12	=12	=12	=12
+4g	.	-vant.	blanc.	.	.	.	.	.
+*	*	*rp:ɑ̃	*rp:ɑ̃	*rp:ɑ̃	*rp:ɑ̃	*rp:ɑ̃	*rp:ɑ̃	*rp:ɑ̃*
+*	*	*rf:ɑ̃	*rf:ɑ̃	*rf:ɑ̃	*rf:ɑ̃	*rf:ɑ̃	*rf:ɑ̃	*rf:ɑ̃
+*	*	*rs:a	*rs:a	*rs:a	*rs:a	*rs:a	*rs:a	*rs:a
+8r	.	.	.	.	.	.	.	.
+*refrain	*refrain	*refrain	*	*	*	*	*	*
+*	*	*pline:R1a	*	*	*	*	*	*
+4f	.	Ah!	.	.	.	.	.	.
+8g	.	la	.	.	.	.	.	.
+!!LO:PB:g=original
+=13	=13	=13	=13	=13	=13	=13	=13	=13
+8a	.	feuil-	.	.	.	.	.	.
+8a	.	-le	.	.	.	.	.	.
+8a	.	s'en-	.	.	.	.	.	.
+8a	.	-vo-	.	.	.	.	.	.
+8a	.	-le,	.	.	.	.	.	.
+*	*	*bis	*	*	*	*	*	*
+8a	.	s'en-	.	.	.	.	.	.
+=14	=14	=14	=14	=14	=14	=14	=14	=14
+4cc	.	-vo-	.	.	.	.	.	.
+8cc	.	-le,	.	.	.	.	.	.
+*	*	*pline:R1b	*	*	*	*	*	*
+4f	.	Ah!	.	.	.	.	.	.
+8g	.	la	.	.	.	.	.	.
+=15	=15	=15	=15	=15	=15	=15	=15	=15
+8a	.	feuil-	.	.	.	.	.	.
+8b-	.	-le	.	.	.	.	.	.
+8a	.	s'en-	.	.	.	.	.	.
+4g	.	-vol[e]	.	.	.	.	.	.
+8a	.	au	.	.	.	.	.	.
+*	*	*Xbis	*	*	*	*	*	*
+=16	=16	=16	=16	=16	=16	=16	=16	=16
+(qa8	.	.	.	.	.	.	.	.
+4f)	.	vent.	.	.	.	.	.	.
+*	*	*Xrefrain	*	*	*	*	*	*
+*	*	*rp:ɑ̃	*	*	*	*	*	*
+*	*	*rf:ɑ̃	*	*	*	*	*	*
+*	*	*rs:Ra	*	*	*	*	*	*
+8r	.	.	.	.	.	.	.	.
+==	==	==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!EED: Ève Poudrier
+!!!EEV: 2025/May/28
