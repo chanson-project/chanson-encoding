@@ -15,12 +15,12 @@
 *clefG2	*	*
 *k[b-e-a-]	*	*
 *E-:	*	*
+!!LO:TX:a:t=Moderato
 *M4/4	*	*
 *met(c)	*	*
 *^	*	*
 *	*	*v:1	*v:2
 *	*	*pline:1	*pline:9
-!!LO:TX:a:t=Moderato
 {{16B-	16B-	Tu	Rem-
 8.e-	8.G	vas	pli
 16f	16B-	par-	d'é-
@@ -38,9 +38,9 @@
 16a-	16f	.	.
 16gJ)	16e-J)	.	.
 8f	8d	-re,	-nes,
-*	*	*rp:	*
-*	*	*rf:	*
-*	*	*rs:	*
+*	*	*rp:ɛ	*rp:ɛ
+*	*	*rf:ɛʁ,ə	*rf:ɛn,ə
+*	*	*rs:a	*rs:e
 *v	*v	*	*
 16r}	.	.
 *^	*	*
@@ -58,9 +58,9 @@
 16b-	16g	prin-	chan-
 =4	=4	=4	=4
 ([4fn	([4d	-temps;	-tant,
-*	*	*	*
-*	*	*	*
-*	*	*	*
+*	*	*rp:ɑ̃	*rp:ɑ̃
+*	*	*rf:ã	*rf:ã
+*	*	*rs:b	*rs:b
 8fL]	8dL]	.	.
 16a-	16f	.	.
 16gJ)	16e-J)	.	.
@@ -84,32 +84,30 @@
 =6	=6	=6	=6
 2dd	2b-	-gè-	pei-
 8cc}	8a-	-re,	-nes,
-*	*	*	*
-*	*	*	*
-*	*	*	*
+*	*	*rp:ɛ	*rp:ɛ
+*	*	*rf:ɛʁ,ə	*rf:ɛn,ə
+*	*	*rs:a	*rs:e
 *	*	*pline:4	*pline:12
-*	*	*	*bis
 {8cc	8a-	A-	Je
 8a-	8f	-vec	n'ai
 8f	8d	a-	trou-
 =7	=7	=7	=7
 4.g	4.e-	-mour	-vé
 8b-	8g	je	que
-*	*	*	*Xbis
 8a	8f#	guet-	cha-
 8b-	8g	-te-	-grins
 8.a-	8.fn	-rai	et
 16f	16d	ton	tour-
 =8	=8	=8	=8
 [2e-	[2e-	chant.	-ments.
-*	*	*	*
-*	*	*	*
-*	*	*	*
+*	*	*rp:ɑ̃	*rp:ɑ̃
+*	*	*rf:ã	*rf:ã
+*	*	*rs:b	*rs:b
 8e-]	8e-]	.	.
 *v	*v	*	*
 16r}}	.	.
 *^	*	*
-*	*	*pline:5a	*pline:13a
+*	*	*pline:5Ha	*pline:13Ha
 {{16b-	16g	Tu	Si
 8.cc;	8.a-	trou-	je
 16b-	16g	-ve-	pou-
@@ -121,10 +119,10 @@
 12a-	12f	sous	com-
 12f)	12d	mon	-me
 (12d	12B-	toit	toi
-*	*	*	*
-*	*	*	*
-*	*	*	*
-*	*	*pline:5b	*pline:13b
+*	*	*rp:a	*rp:a
+*	*	*rf:wa	*rf:wa
+*	*	*rs:c	*rs:c
+*	*	*pline:5Hb	*pline:13Hb
 12b-	12d	Si	Re-
 12cc)	12f	tu	-ga-
 (12dd	12b-	res-	-gner
@@ -134,13 +132,13 @@
 2gg	(4ee-	-dè-	-va-
 .	4b-)	.	.
 8ee-	8g	-le,	-ge,
-*	*	*	*
-*	*	*	*
-*	*	*	*
+*	*	*rp:ɛ	*rp:a
+*	*	*rf:ɛl,ə	*rf:aʒ,ə
+*	*	*rs:d	*rs:f
 *v	*v	*	*
 16r}	.	.
 *^	*	*
-*	*	*pline:6a	*pline:14a
+*	*	*pline:6Ha	*pline:14Ha
 {16gg	16ee-	Mon	Le
 8.ff;	8.a-	hi-	cher
 16b-	16g	-ron-	vil-
@@ -148,8 +146,11 @@
 =11	=11	=11	=11
 4ee-	4cc	-del-	-la-
 4dd	4b-	-le,	-ge,
-*	*	*pline:6b	*pline:14b
+*	*	*rp:ɛ	*rp:a
+*	*	*rp:ɛl,ə	*rf:aʒ,ə
+*	*	*rp:d	*rs:f
 *tuplet	*Xtuplet	*	*
+*	*	*pline:6Hb	*pline:14Hb
 (12dd	12b-	Ton	Que
 12cc	12a-	pe-	j'ha-
 12dd)	12b-	-tit	-bi-
@@ -158,14 +159,14 @@
 12cc)	12a-	-tre-	-tre-
 =12	=12	=12	=12
 (2b-	(2g	fois;	fois;
-*	*	*	*
-*	*	*	*
-*	*	*	*
+*	*	*rp:a	*rp:a
+*	*	*rf:wa	*rf:wa
+*	*	*rs:c	*rs:c
 8g)	8e-)	.	.
 *v	*v	*	*
 16r}}	.	.
 *^	*	*
-*	*	*pline:7a	*pline:15a
+*	*	*pline:7Ha	*pline:15Ha
 {{16b-	16g	Quand	Oi-
 8.b-	8.g	je	seau
 16an	16f#	t'ap-	vo-
@@ -173,10 +174,10 @@
 2b-	2g	-pel-	-la-
 *tuplet	*Xtuplet	*	*
 (12g	12e-	-le,	-ge
-*	*	*	*
-*	*	*	*
-*	*	*	*
-*	*	*pline:7b	*pline:15b
+*	*	*rp:ɛ	*rp:a
+*	*	*rf:ɛl,ə	*rf:aʒ,ə
+*	*	*rp:c	*rs:f
+*	*	*pline:7Hb	*pline:15Hb
 12g	12e-	Ne	Sou-
 12a-X)	12fn	sois	-dain
 *tuplet	*Xtuplet	*	*
@@ -187,25 +188,23 @@
 =14	=14	=14	=14
 2ee-	2cc	-bel-	sa-
 8cc	8a-	-le,	-ge,
-*	*	*	*
-*	*	*	*
-*	*	*	*
+*	*	*rp:ɛ	*rp:a
+*	*	*rp:ɛl,ə	*rf:aʒ,ə
+*	*	*rp:c	*rs:f
 *v	*v	*	*
 16r}	.	.
 *^	*	*
-*	*	*pline:8a=6a	*pline:16a
-*	*	*bis	*
+*	*	*pline:8Ha=6Ha	*pline:16Ha
 {16cc	16a-	Mon	Plein
 8.a-	8.f	hi-	de
 16f	16d	-ron-	cou-
 =15	=15	=15	=15
 4g	4e-	-del-	-ra-
 8.g	8.e-	-le,	-ge
-*	*	*Xbis	*
-*	*	*	*
-*	*	*	*
-*	*	*	*
-*	*	*pline:8b	*pline:16b
+*	*	*rp:ɛ	*rp:a
+*	*	*rp:ɛl,ə	*rf:aʒ,ə
+*	*	*rp:c	*rs:f
+*	*	*pline:8b	*pline:16Hb
 16b-	16g	Sur-	Je
 8a	8f#	-tout	re-
 8b-	8g	re-	-vien-
@@ -213,9 +212,9 @@
 16f	16d	chez	chez
 =16	=16	=16	=16
 [2e-	[2e-	moi.	moi.
-*	*	*	*
-*	*	*	*
-*	*	*	*
+*	*	*rp:a	*rp:a
+*	*	*rf:wa	*rf:wa
+*	*	*rs:c	*rs:c
 8e-]	8e-]	.	.
 *v	*v	*	*
 16r}}	.	.
@@ -223,4 +222,4 @@
 ==	==	==	==
 *-	*-	*-	*-
 !!!EED: Ève Poudrier
-!!!EEV: 2025/May/29
+!!!EEV: 2025/May/30
