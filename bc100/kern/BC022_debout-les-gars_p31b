@@ -15,8 +15,8 @@
 *k[b-]	*
 *F:	*
 *M2/4	*
-*	*v:1
 *	*pline:1
+*>A	*>A
 !!LO:TX:a:B:t=A
 {{{8c	De-
 =1	=1
@@ -58,7 +58,6 @@
 *	*rp:u
 *	*rf:up,ə
 *	*rs:a'
-!breath mark here (bold comma)	!
 *	*pline:4
 {8a	Il
 =7	=7
@@ -75,6 +74,7 @@
 8r}}}	.
 *	*v:2
 *	*pline:5
+*>B	*>B
 !!LO:TX:a:B:t=B
 {{8cc	En
 =9	=9
@@ -131,6 +131,7 @@
 *	*Xbis
 8r}}	.
 *	*pline:8
+*>C	*>C
 !!LO:TX:a:B:t=C
 {{8cc	Au
 =17	=17
@@ -180,4 +181,4 @@
 ==	==
 *-	*-
 !!!EED: Ève Poudrier
-!!!EEV: 2025/May/27
+!!!EEV: 2025/May/30
