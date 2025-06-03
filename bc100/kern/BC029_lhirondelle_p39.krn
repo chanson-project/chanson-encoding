@@ -8,9 +8,9 @@
 !!!YEM: On ne peut reproduire, enregistrer ou diffuser en tout ou en partie le présent ouvrage, sous quelque procédé que ce soit, électronique, mécanique, photographique, sonore, magnétique ou autre, sans avoir obtenu au préalable l'autorisation écrite de l'éditrice.
 !!!PDT: 2011
 !!!SMA: 2012 Bibliothèque nationale du Québec; Biblothèque nationale du Canada
-!!!AGN-Laforte: Chanson strophique (sans refrain), 2:4(4+6)+4(7+4), see: https://blog.seniorennet.be/oldies_lyrics_scrapbook/archief.php?ID=805145
+!!!AGN-Laforte: Chanson strophique (sans refrain), 2:4(4+6)+4(7+6/4+7), see: https://blog.seniorennet.be/oldies_lyrics_scrapbook/archief.php?ID=805145
 !!!AGN-type: Chanson d'oiseaux
-!!!AGN-rime: mixtes: croisées (abab) + embrassées (cddc) + suivies (aab)
+!!!AGN-rime: croisées (abab); second quatrain, first hémistiche, suivies irregular (accc)
 **kern	**text	**text
 *clefG2	*	*
 *k[b-e-a-]	*	*
@@ -40,7 +40,7 @@
 8f	8d	-re,	-nes,
 *	*	*rp:ɛ	*rp:ɛ
 *	*	*rf:ɛʁ,ə	*rf:ɛn,ə
-*	*	*rs:a	*rs:e
+*	*	*rs:a1	*rs:a3
 *v	*v	*	*
 16r}	.	.
 *^	*	*
@@ -59,8 +59,8 @@
 =4	=4	=4	=4
 ([4fn	([4d	-temps;	-tant,
 *	*	*rp:ɑ̃	*rp:ɑ̃
-*	*	*rf:ã	*rf:ã
-*	*	*rs:b	*rs:b
+*	*	*rf:tã	*rf:tã
+*	*	*rs:b1	*rs:b1
 8fL]	8dL]	.	.
 16a-	16f	.	.
 16gJ)	16e-J)	.	.
@@ -86,7 +86,7 @@
 8cc}	8a-	-re,	-nes,
 *	*	*rp:ɛ	*rp:ɛ
 *	*	*rf:ɛʁ,ə	*rf:ɛn,ə
-*	*	*rs:a	*rs:e
+*	*	*rs:a1	*rs:a3
 *	*	*pline:4	*pline:12
 {8cc	8a-	A-	Je
 8a-	8f	-vec	n'ai
@@ -101,8 +101,8 @@
 =8	=8	=8	=8
 [2e-	[2e-	chant.	-ments.
 *	*	*rp:ɑ̃	*rp:ɑ̃
-*	*	*rf:ã	*rf:ã
-*	*	*rs:b	*rs:b
+*	*	*rf:ʃã	*rf:ã
+*	*	*rs:b2	*rs:b3
 8e-]	8e-]	.	.
 *v	*v	*	*
 16r}}	.	.
@@ -134,7 +134,7 @@
 8ee-	8g	-le,	-ge,
 *	*	*rp:ɛ	*rp:a
 *	*	*rf:ɛl,ə	*rf:aʒ,ə
-*	*	*rs:d	*rs:f
+*	*	*rs:a2	*rs:d
 *v	*v	*	*
 16r}	.	.
 *^	*	*
@@ -148,7 +148,7 @@
 4dd	4b-	-le,	-ge,
 *	*	*rp:ɛ	*rp:a
 *	*	*rp:ɛl,ə	*rf:aʒ,ə
-*	*	*rp:d	*rs:f
+*	*	*rp:a2	*rs:d
 *tuplet	*Xtuplet	*	*
 *	*	*pline:6Hb	*pline:14Hb
 (12dd	12b-	Ton	Que
@@ -176,7 +176,7 @@
 (12g	12e-	-le,	-ge
 *	*	*rp:ɛ	*rp:a
 *	*	*rf:ɛl,ə	*rf:aʒ,ə
-*	*	*rp:c	*rs:f
+*	*	*rp:a2	*rs:f
 *	*	*pline:7Hb	*pline:15Hb
 12g	12e-	Ne	Sou-
 12a-X)	12fn	sois	-dain
@@ -190,7 +190,7 @@
 8cc	8a-	-le,	-ge,
 *	*	*rp:ɛ	*rp:a
 *	*	*rp:ɛl,ə	*rf:aʒ,ə
-*	*	*rp:c	*rs:f
+*	*	*rp:a2	*rs:f
 *v	*v	*	*
 16r}	.	.
 *^	*	*
@@ -203,7 +203,7 @@
 8.g	8.e-	-le,	-ge
 *	*	*rp:ɛ	*rp:a
 *	*	*rp:ɛl,ə	*rf:aʒ,ə
-*	*	*rp:c	*rs:f
+*	*	*rp:a2	*rs:f
 *	*	*pline:8b	*pline:16Hb
 16b-	16g	Sur-	Je
 8a	8f#	-tout	re-
@@ -222,4 +222,4 @@
 ==	==	==	==
 *-	*-	*-	*-
 !!!EED: Ève Poudrier
-!!!EEV: 2025/May/30
+!!!EEV: 2025/June/30
