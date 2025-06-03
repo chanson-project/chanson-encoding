@@ -1,0 +1,128 @@
+!!!id: BC025
+!!!page: 34-35
+!!!COM: Harmonisation de Chs-Emile GADBOIS
+!!!LYR: (Folklore)
+!!!PTL@@FR: Les 100 plus belles chansons
+!!!OTL@@FR: V'là l'bon vent
+!!!PUB:La Bonne Chanson, inc.
+!!!YEM: On ne peut reproduire, enregistrer ou diffuser en tout ou en partie le présent ouvrage, sous quelque procédé que ce soit, électronique, mécanique, photographique, sonore, magnétique ou autre, sans avoir obtenu au préalable l'autorisation écrite de l'éditrice.
+!!!PDT: 2011
+!!!SMA: 2012 Bibliothèque nationale du Québec; Biblothèque nationale du Canada
+!!!AGN-Laforte: Chanson en laisse (avec refrain), 13:2(8+8)
+!!!AGN-type: chasse?
+!!!AGN-rime: monorime (aa); refrain: n/a
+**kern	**text	**kern	**text	**text	**text	**text	**text	**text	**text	**text	**text	**text	**text	**text	**text
+*clefG2	*	*clefG2	*	*	*	*	*	*	*	*	*	*	*	*	*
+*k[f#c#]	*	*k[f#c#]	*	*	*	*	*	*	*	*	*	*	*	*	*
+*D:	*	*D:	*	*	*	*	*	*	*	*	*	*	*	*	*
+*M2/4	*	*M2/4	*	*	*	*	*	*	*	*	*	*	*	*	*
+*refrain	*	*refrain	*	*	*	*	*	*	*	*	*	*	*	*	*
+!!LO:TX:a:t=[segno]
+!!LO:TX:a:B:t=Refrain
+!!!Is there a way to get the barlines not to span both staves?
+8f#	V'là	8f#	V'là	.	.	.	.	.	.	.	.	.	.	.	.
+8d	l'bon,	8b	l'bon	.	.	.	.	.	.	.	.	.	.	.	.
+=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+8B	V'là	4b	vent,	.	.	.	.	.	.	.	.	.	.	.	.
+8d	l'bon	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+4d	vent,	8f#	v'là	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	16b	l'jo-	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	16b	-li	.	.	.	.	.	.	.	.	.	.	.	.
+=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+8B	V'la	4b	vent,	.	.	.	.	.	.	.	.	.	.	.	.
+16d	l'jo-	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+16d	-li	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+*	*bis	*	*bis	*	*	*	*	*	*	*	*	*	*	*	*
+8d	vent,	8f#	V'là	.	.	.	.	.	.	.	.	.	.	.	.
+8d	l'bon	8b	l'bon	.	.	.	.	.	.	.	.	.	.	.	.
+!!LO:PB:g=original
+=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+8d	vent,	8b	vent,	.	.	.	.	.	.	.	.	.	.	.	.
+*	*Xbis	*	*Xbis	*	*	*	*	*	*	*	*	*	*	*	*
+16dL(	ma	16bL(	ma	.	.	.	.	.	.	.	.	.	.	.	.
+16eJ)	.	16cc#J)	.	.	.	.	.	.	.	.	.	.	.	.	.
+8f#	mie	8dd	mie	.	.	.	.	.	.	.	.	.	.	.	.
+8f#	m'ap-	8dd	m'ap-	.	.	.	.	.	.	.	.	.	.	.	.
+=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
+8e	-pel-	8cc#	-pel-	.	.	.	.	.	.	.	.	.	.	.	.
+8e	-le,	8cc#	-le,	.	.	.	.	.	.	.	.	.	.	.	.
+*	*bis	*	*bis	*	*	*	*	*	*	*	*	*	*	*	*
+8f#	V'là	8f#	V'là	.	.	.	.	.	.	.	.	.	.	.	.
+8d	l'bon,	8b	l'bon	.	.	.	.	.	.	.	.	.	.	.	.
+=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5
+8B	v'là	4b	vent,	.	.	.	.	.	.	.	.	.	.	.	.
+8d	l'bon	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+4d	vent,	8f#	v'là	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	16b	l'jo-	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	16b	-li	.	.	.	.	.	.	.	.	.	.	.	.
+!!LO:PB:g=original
+=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6
+8B	V'là	4b	vent,	.	.	.	.	.	.	.	.	.	.	.	.
+16d	l'jo-	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+16d	-li	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+8d	vent,	8f#	V'là	.	.	.	.	.	.	.	.	.	.	.	.
+8d	l'bon	8b	l'bon	.	.	.	.	.	.	.	.	.	.	.	.
+=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7
+8d	vent,	8b	vent,	.	.	.	.	.	.	.	.	.	.	.	.
+!!LO:TX:a:i:t=poco rit.
+*	*Xbis	*	*Xbis	*	*	*	*	*	*	*	*	*	*	*	*
+16dL(	ma	16bL(	ma	.	.	.	.	.	.	.	.	.	.	.	.
+16eJ)	.	16cc#J)	.	.	.	.	.	.	.	.	.	.	.	.	.
+8f#	mie	8dd	mie	.	.	.	.	.	.	.	.	.	.	.	.
+8f#	m'at-	8cc#	m'at-	.	.	.	.	.	.	.	.	.	.	.	.
+!!LO:PB:g=original
+=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8
+8b	-tend.	8b	-tend.	.	.	.	.	.	.	.	.	.	.	.	.
+*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain	*	*	*	*	*	*	*	*	*	*	*	*
+!!! a caesura || should go here, this is certainly not encoded correctly
+*	*	*	*v:1	*v:2	*v:3	*v:4	*v:5	*v:6	*v:7	*v:8	*v:9	*v:10	*v:11	*v:12	*v:13
+*	*	*	*pline:1	*pline:2	*pline:3	*pline:4	*pline:5	*pline:6	*pline:7	*pline:8	*pline:9	*pline:10	*pline:11	*pline:12	*pline:13
+*	*	*	*	*bis	*bis	*bis	*bis	*bis	*bis	*bis	*bis	*bis	*bis	*bis	*bis
+!!LO:TX:a:t=||
+!!LO:TX:a:B:t=SOLO
+8r	.	8f#	Der-	Trois	Le	A-	Vi-	O	D'a-	Par	Par	Et	Tou-	Trois	C'est
+4r	.	8b	-rièr'	beau	fils	-vec	-sa	fils	-voir	des-	les	par	-tes	dam's	pour
+.	.	8dd	chez	ca-	du	son	le	du	tu-	-sous	yeux	le	ses	s'en	en
+=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9
+2r	.	8cc#	nous	-nards	roi	grand	noir,	roi,	-é	l'aile,	lui	bec,	plum's	vont	faire
+.	.	8b	y a-	s'en	s'en	fu-	tu-	tu	mon	il	sort'nt	l'or	s'en	les	un
+.	.	8a	-t-un	vont	va	-sil	-a	es	ca-	perd	des	et	vont	ra-	lit
+.	.	8cc#	é-	bai-	chas-	d'ar-	le	mé-	-nard	son	dia-	l'ar-	au	-mas-	de
+=10	.	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10
+2r	.	8b	-tang,	-gnant,	-sant,	-gent,	blanc;	-chant!	blanc;	sang,	-mants,	-gent.	vent,	-sant;	camp,
+*	*	*	*rp:ɑ̃	*rp:ɑ̃	*rp:ɑ̃	*rp:ɑ̃	*rp:ɑ̃	*rp:ɑ̃	*rp:ɑ̃	*rp:ɑ̃	*rp:ɑ̃	*rp:ɑ̃	*rp:ɑ̃	*rp:ɑ̃	*rp:ɑ̃
+*	*	*	*rf:ɑ̃	*rf:ɑ̃	*rf:ɑ̃	*rf:ɑ̃	*rf:ɑ̃	*rf:ɑ̃	*rf:ɑ̃	*rf:ɑ̃	*rf:ɑ̃	*rf:ɑ̃	*rf:ɑ̃	*rf:ɑ̃	*rf:ɑ̃
+*	*	*	*rs:a	*rs:a	*rs:a	*rs:a	*rs:a	*rs:a	*rs:a	*rs:a	*rs:a	*rs:a	*rs:a	*rs:a	*rs:a
+*	*	*	*bis	*	*	*	*	*	*	*	*	*	*	*	*
+.	.	8f#	Der-	Trois	Le	A-	Vi-	O	D'a-	Par	Par	Et	Tou-	Trois	C'est
+.	.	8b	-rièr'	beau	fils	-vec	-sa	fils	-voir	des-	les	par	-tes	dam's	pour
+.	.	8dd	chez	ca-	du	son	le	du	tu-	-sous	yeux	le	ses	s'en	en
+!!LO:PB:g=original
+=11	.	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11
+!!! the music should join onto only ONE line here, is that an important thing to encode?
+2r	.	8cc#	nous	-nards	roi	grand	noir,	roi,	-é	l'aile,	lui	bec,	plum's	vont	faire
+.	.	8b	y a-	s'en	s'en	fu-	tu-	tu	mon	il	sort'nt	l'or	s'en	les	un
+.	.	8a	-t-un	vont	va	-sil	-a	es	ca-	perd	des	et	vont	ra-	lit
+.	.	8cc#	é-	bai-	chas-	d'ar-	le	mé-	-nard	son	dia-	l'ar-	au	-mas-	de
+=12	.	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12
+2r	.	8b	-tang,	-gnant	-sant	-gent	blanc;	-chant!	blanc;	sang	-mants,	-gent.	vent	-sant;	camp,
+*	*	*	*Xbis	*Xbis	*Xbis	*Xbis	*Xbis	*Xbis	*Xbis	*Xbis	*Xbis	*Xbis	*Xbis	*Xbis	*Xbis
+.	.	8f#	Trois	Le	A-	Vi-	O	D'a-	Par	Par	Et	Tou-	Trois	C'est	Pour
+.	.	8b	beau	fils	-vec	-sa	fils	-voir	des-	les	par	-tes	dams	pour	y
+.	.	8dd	ca-	du	son	le	du	tu-	-sous	yeux	le	ses	s'en	en	cou-
+=13	.	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13
+!!LO:TX:a:i:t=rit.
+2r	.	8cc#	-nards	roi	grant	noir,	roi,	-é	l'aile,	lui	bec,	plum's	vont	faire	-cher
+.	.	8b	s'en	s'en	fu-	tu-	tu	mon	il	sort'nt	l'or	s'en	les	un	tout
+.	.	8b	vont	va	-sil	-a	es	ca-	perd	des	et	vont	ra-	lit	les
+.	.	8a	bai-	chas-	d'ar-	le	mé-	-nard	son	dia-	l'ar-	au	-mas-	de	pas-
+=14	.	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14
+4r	.	4a;	-gnant.	-sant.	-gent.	blanc.	-chant!	blanc.	sang.	-mants.	-gent.	vent.	-sant.	camp.	-sants.
+*	*	*	*rp:ɑ̃	*rp:ɑ̃	*rp:ɑ̃	*rp:ɑ̃	*rp:ɑ̃	*rp:ɑ̃	*rp:ɑ̃	*rp:ɑ̃	*rp:ɑ̃	*rp:ɑ̃	*rp:ɑ̃	*rp:ɑ̃	*rp:ɑ̃
+*	*	*	*rf:ɑ̃	*rf:ɑ̃	*rf:ɑ̃	*rf:ɑ̃	*rf:ɑ̃	*rf:ɑ̃	*rf:ɑ̃	*rf:ɑ̃	*rf:ɑ̃	*rf:ɑ̃	*rf:ɑ̃	*rf:ɑ̃	*rf:ɑ̃
+*	*	*	*rs:a	*rs:a	*rs:a	*rs:a	*rs:a	*rs:a	*rs:a	*rs:a	*rs:a	*rs:a	*rs:a	*rs:a	*rs:a
+!!LO:TX:a:t=[segno]
+==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!EED: Isaac Howie
+!!!EEV: 2025/May/27
