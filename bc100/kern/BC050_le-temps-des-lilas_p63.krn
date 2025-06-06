@@ -1,0 +1,216 @@
+!!!ID:BC050
+!!!PAGE:63
+!!!COM: Folklore francais
+!!!PTR@@FR: Les 100 plus belles chansons
+!!!OTL@@FR: Le temps des Lilas
+!!!PUB: La Bonne Chanson, inc.
+!!!PDT: 2011
+!!!YEM: On ne peut reproduire, enregistrer ou diffuser en tout ou en partie le présent ouvrage, sous quelque procédé que ce soit, électronique, mécanique, photographique, sonore, magnétique ou autre, sans avoir obtenu au préalable l'autorisation écrite de l'éditrice.
+!!!SMA: 2012 Bibliothèque nationale du Québec; Biblothèque nationale du Canada
+!!!AGN-type: Chanson nationaliste
+!!!AGN-Laforte: Strophique, 2:4(11)+2(13)+2(12)
+!!!AGN-rhyme: (abacad)
+**kern	**text	**text
+*clefG2	*	*
+*k[b- e- a- d-]	*	*
+*Ab:	*	*
+*M6/8	*	*
+*	*v:1	*v:2
+*	*pline:1	*pline:2
+=1	=1	=1
+!!LO:TX:a:t=Avec enthousiasme
+8f	La	Les
+8cc	ter-	cou-
+8cc	-re	-ples
+8cc	s'é-	s'en
+=2	=2	=2
+8b-	-veille	vont
+8b-	aux	dou-
+8b-	bai-	-ce
+8a-	-sers	-ment
+8a-	du	dans
+8a-	so-	le
+!!LO:LB:g=original
+=3	=3	=3
+4g	leil,	soir
+*	*rp:ɛ	*rp:a
+*	*rf:lɛj	*rf:swaʁ
+*	*rs:a	*rs:d
+8g	La	Rê-
+8b-	fleur	-ver
+8b-	ap-	sous
+8b-	-pa-	la
+=4	=4	=4
+8a-	-rait	lune
+8a-	dans	aux
+8a-	la	a-
+8g	ver-	-mours
+8g	-te	é-
+8g	prai-	-ter-
+!!LO:LB:g=original
+=5	=5	=5
+[8f	-rie,	-nel-
+8f],	.	-les;
+*	*rp:i	*rp:ɛ
+*	*rf:ʁi	*rf:lɛ
+*	*rs:b	*rs:a
+8f	Le	Les
+8cc	coeur	coeurs
+8cc	en-	sont
+8cc	-dor-	heu-
+=6	=6	=6
+8b-	-mi	-reux,
+8b-	va	ils
+8b-	sor-	re-
+8a-	-tir	-vi-
+8a-	du	-vent
+8a-	som-	d'es-
+!!LO:LB:g=original
+=7	=7	=7
+4g	meil,	poir;
+*	*rp:ɛ	*rp:a
+*	*rf:mɛj	*rf:pwaʁ
+*	*rs:a	*rs:d
+8g	A-	Car
+8b-	-vec	c'est
+8b-	le	le
+8b-	prin-	prin-
+=8	=8	=8
+8a-	-temps,	-temps
+8a-	c'est	et
+8a-	l'a-	les
+!!LO:TX:a:i:t=rall.
+8g	-mour,	fil-
+8f	c'est	-les
+8a-	la	sont
+=9||	=9||	=9||
+*M3/4	*	*
+[2cc.	vi-	bel-
+=10	=10	=10
+4cc]	-e:	-les:
+*	*rp:i	*rp:ɛ
+*	*rf:vi	*rf:lɛ
+*	*rs:b	*rs:a
+!!LO:LB:g=original
+=11||	=11||	=11||
+*>Refrain	*>Refrain	*>Refrain
+!!LO:TX:a:B:t=Refrain
+4a	C'est	.
+4b-	le	.
+=12||	=12||	=12||
+*k[b- e a d]	*	*
+!!LO:TX:a:t=T° di Valse
+[2cc.	temps	.
+=13	=13	=13
+4cc]	.	.
+4dd	des	.
+4cc	li-	.
+=14	=14	=14
+[2f.	-las,	.
+=15	=15	=15
+4f]	.	.
+4e	la	.
+4f	na-	.
+=16	=16	=16
+[2g.	-ture	.
+=17	=17	=17
+4g]	.	.
+4a	est	.
+4b-	en	.
+=18	=18	=18
+2a.	fê-	.
+=19	=19	=19
+4g,	-te,	.
+*	*rp:ɛː	*
+*	*rf:fɛːt	*
+*	*rs:c	*
+4a	Dans	.
+4b-	les	.
+!!LO:LB:g=original
+=20	=20	=20
+*k[b-]	*	*
+[2cc.	champs,	.
+=21	=21	=21
+4cc]	.	.
+4dd	dans	.
+4cc	les	.
+=22	=22	=22
+[2f.	bois,	.
+=23	=23	=23
+4f]	.	.
+4e	au	.
+4f	con-	.
+=24	=24	=24
+[2g.	-cert	.
+=25	=25	=25
+4g]	.	.
+4a	on	.
+4b-	s'ap-	.
+=26	=26	=26
+2a.	-prê-	.
+=27	=27	=27
+4g,	-te;	.
+*	*rp:ɛ	*
+*	*rf:pʁɛt	*
+*	*rs:a	*
+4f	Le	.
+4f	bon-	.
+!!LO:LB:g=original
+=28	=28	=28
+[2ff.	heur	.
+=29	=29	=29
+4ff]	.	.
+4ee	est	.
+4dd	dans	.
+=30	=30	=30
+[2cc.	l'air,	.
+=31	=31	=31
+4cc]	.	.
+4b-	il	.
+4a	est	.
+=32	=32	=32
+[2g.	là	.
+=33	=33	=33
+4g]	.	.
+4a	sous	.
+4b-	nos	.
+=34	=34	=34
+[2a.	pas,	.
+*	*rp:a	*
+*	*rf:pa	*
+*	*rs:d	*
+=35	=35	=35
+4a]	.	.
+4a	C'est	.
+4a	le	.
+!!LO:LB:g=original
+=36	=36	=36
+[2dd.	temps	.
+=37	=37	=37
+4dd]	.	.
+4cc	le	.
+4b-	plus	.
+=38	=38	=38
+[2a.	cher,	.
+=39	=39	=39
+4a]	.	.
+4cc	c'est	.
+4a	le	.
+=40	=40	=40
+[2g.	temps	.
+=41	=41	=41
+4g]	.	.
+4f	des	.
+4g	li-	.
+=42||	=42||	=42||
+*M6/8	*	*
+4f	-las!	.
+*	*rp:a	*
+*	*rf:la	*
+*	*rs:d	*
+=43||	=43||	=43||
+*k[b- e- a- d-]	*	*
+.	.	.
+*-	*-	*-
+!!!EED: Jason Lau
+!!!EEV: 2025/06/05
