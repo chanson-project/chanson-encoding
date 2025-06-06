@@ -1,0 +1,118 @@
+!!!id: BC031
+!!!page: 41b
+!!!COM: Anonymous
+!!!PTL@@FR: Les 100 plus belles chansons
+!!!OTL@@FR: Le petit prince
+!!!PUB: La Bonne Chanson, inc.
+!!!YEM: On ne peut reproduire, enregistrer ou diffuser en tout ou en partie le présent ouvrage, sous quelque procédé que ce soit, électronique, mécanique, photographique, sonore, magnétique ou autre, sans avoir obtenu au préalable l'autorisation écrite de l'éditrice.
+!!!PDT: 2011
+!!!SMA: 2012 Bibliothèque nationale du Québec; Biblothèque nationale du Canada
+!!!AGN-Laforte: Chanson énumérative, 6:4(11*), *line 1=12
+!!!AGN-type: Chanson d'enfant
+!!!AGN-rime: suivies (aabb), except last line ([y])
+**kern	**text	**text	**text	**text	**text	**text
+*k[]	*	*	*	*	*	*
+*C:	*	*	*	*	*	*
+*M2/4	*	*	*	*	*	*
+*	*v:1	*v:2	*v:3	*v:4	*v:5	*v:6
+*	*pline:1	*pline:5	*pline:7	*pline:9	*pline:11	*pline:13
+=1	=1	=1	=1	=1	=1	=1
+!	!	!	!alternative pitch duration needed	!	!	!
+!	!	!	!	!	!	!elided "e"
+4cc	Lun-	Mar-	Mer-cre-	Jeu-	Ven-dre-	Sam'-
+8b	-di	-di	-di	-di	-di	-di
+*	*	*pline:1b3	*pline:1b3	*	*	*
+8a	ma-	ma-	ma-	ma-	ma-	ma-
+=2	=2	=2	=2	=2	=2	=2
+4.g	-tin,	-tin,	-tin,	-tin,	-tin,	-tin,
+!	!elided "e"	!	!	!	!	!
+8a	l'emp'-	.	.	.	.	.
+=3	=3	=3	=3	=3	=3	=3
+4.g	-reur,	.	.	.	.	.
+8a	sa	.	.	.	.	.
+=4	=4	=4	=4	=4	=4	=4
+8g	femm[e]	.	.	.	.	.
+8f	et	.	.	.	.	.
+8e	son	.	.	.	.	.
+!	!elided "e"	!	!	!	!	!
+8d	p'tit	.	.	.	.	.
+!!LO:PB:g=original
+=5	=5	=5	=5	=5	=5	=5
+4e	prin-	.	.	.	.	.
+4c	-ce	.	.	.	.	.
+*	*rp:ẽ	*rp:ẽ	*rp:ẽ	*rp:ẽ	*rp:ẽ	*rp:ẽ
+*	*rf:ẽs,ə	*rf:ẽs,ə	*rf:ẽs,ə	*rf:ẽs,ə	*rf:ẽs,ə	*rf:ẽs,ə
+*	*rs:a	*rs:a	*rs:a	*rs:a	*rs:a	*rs:a
+=6	=6	=6	=6	=6	=6	=6
+*	*pline:2	*pline:2r	*pline:2r	*pline:2r	*pline:2r	*pline:2r
+8.cc	Sont	.	.	.	.	.
+16cc	ve-	.	.	.	.	.
+8b	-nus	.	.	.	.	.
+8a	chez	.	.	.	.	.
+=7	=7	=7	=7	=7	=7	=7
+4.g	moi	.	.	.	.	.
+8a	pour	.	.	.	.	.
+=8	=8	=8	=8	=8	=8	=8
+8g	me	.	.	.	.	.
+8f	ser-	.	.	.	.	.
+8e	-rer	.	.	.	.	.
+8d	la	.	.	.	.	.
+!!LO:PB:g=original
+=9	=9	=9	=9	=9	=9	=9
+4e	pin-	.	.	.	.	.
+8c	-ce;	.	.	.	.	.
+*	*rp:ẽ	*rp:ẽ	*rp:ẽ	*rp:ẽ	*rp:ẽ	*rp:ẽ
+*	*rf:ẽs,ə	*rf:ẽs,ə	*rf:ẽs,ə	*rf:ẽs,ə	*rf:ẽs,ə	*rf:ẽs,ə
+*	*rs:a	*rs:a	*rs:a	*rs:a	*rs:a	*rs:a
+*	*pline:3	*pline:3r	*pline:3r	*pline:3r	*pline:3r	*pline:3r
+8e	Mais	.	.	.	.	.
+=10	=10	=10	=10	=10	=10	=10
+!	!elided "e"	!	!	!	!	!
+8c	comm'	.	.	.	.	.
+8e	j'né-	.	.	.	.	.
+8c	-tait	.	.	.	.	.
+8e	pas	.	.	.	.	.
+=11	=11	=11	=11	=11	=11	=11
+4g	là,	.	.	.	.	.
+8r	.	.	.	.	.	.
+8e	le	.	.	.	.	.
+=12	=12	=12	=12	=12	=12	=12
+8c	pe-	.	.	.	.	.
+8e	-tit	.	.	.	.	.
+8c	princ[e]	.	.	.	.	.
+8e	a	.	.	.	.	.
+!!LO:PB:g=original
+=13	=13	=13	=13	=13	=13	=13
+4g	dit:	.	.	.	.	.
+*	*rp:i	*rp:i	*rp:i	*rp:i	*rp:i	*rp:i
+*	*rf:di	*rf:di	*rf:di	*rf:di	*rf:di	*rf:di
+*	*rs:b	*rs:b	*rs:b	*rs:b	*rs:b	*rs:b
+4r	.	.	.	.	.	.
+=14	=14	=14	=14	=14	=14	=14
+*	*pline:4	*pline:6=4a9	*pline:8=4a9	*pline:10=4a9	*pline:12=4a9	*pline:14=4a6
+8.cc	Puis-	Puis-	Puis-	Puis-	Puis-	Puis-
+16cc	-que	-que	-que	-que	-que	-que
+\8b	c'est	c'est	c'est	c'est	c'est	c'est
+!	!elided "e"	!	!	!	!	!
+8a	comm'	comm'	comm'	comm'	comm'	comm'
+=15	=15	=15	=15	=15	=15	=15
+8g	ça,	ça,	ça,	ça,	ça,	ça,
+8e	nous	nous	nous	nous	nous	nous
+8c	re-	re-	re-	re-	re-	ne
+8f	-vien-	-vien-	-vien-	-vien-	-vien-	re-
+=16	=16	=16	=16	=16	=16	=16
+4e	-drons	-drons	-drons	-drons	-drons	-vien-
+!	!	!alternative pitch duration needed	!	!	!	!
+!	!	!	!	!	!elided "e"	!
+4d	mar-	mer-cre-	jeu-	ven-dre-	sam'-	-drons
+=17	=17	=17	=17	=17	=17	=17
+4c	-di.	-di.	-di.	di.	-di	plus!
+*	*rp:i	*rp:i	*rp:i	*rp:i	*rp:i	*rp:y
+*	*rf:di	*rf:di	*rf:di	*rf:di	*rf:di	*rf:x
+*	*rs:b	*rs:b	*rs:b	*rs:b	*rs:b	*rs:x
+4r	.	.	.	.	.	.
+==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-
+!!!EEV: Ève Poudrier
+!!!EED: 2025/June/05
+!!!EEV-notes: Original only include the last verse's alternative words "Sam'di matin, etc." and last line "Pour finir: Puis-que c'est comm' ça, nous ne re-vien-drons plus!"
