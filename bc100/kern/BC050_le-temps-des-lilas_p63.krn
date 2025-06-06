@@ -1,24 +1,27 @@
 !!!ID:BC050
 !!!PAGE:63
-!!!COM: Folklore francais
+!!!COM: Arel, Paul
+!!!LYR: Arel, Paul
 !!!PTR@@FR: Les 100 plus belles chansons
 !!!OTL@@FR: Le temps des Lilas
 !!!PUB: La Bonne Chanson, inc.
 !!!PDT: 2011
 !!!YEM: On ne peut reproduire, enregistrer ou diffuser en tout ou en partie le présent ouvrage, sous quelque procédé que ce soit, électronique, mécanique, photographique, sonore, magnétique ou autre, sans avoir obtenu au préalable l'autorisation écrite de l'éditrice.
 !!!SMA: 2012 Bibliothèque nationale du Québec; Biblothèque nationale du Canada
-!!!AGN-type: Chanson nationaliste
-!!!AGN-Laforte: Strophique, 2:4(11)+2(13)+2(12)
-!!!AGN-rhyme: (abacad)
+!!!AGN: Chanson composée
+!!!AGN-type: Chanson d'amour
+!!!AGN-Laforte: Chanson strophique (avec refrain), 2:4(11)
+!!!AGN-rhyme: croisées (abab)
 **kern	**text	**text
 *clefG2	*	*
-*k[b- e- a- d-]	*	*
-*Ab:	*	*
+*k[b-e-a-d-]	*	*
+*kcancel	*	*
+*A-:	*	*
+!!LO:TX:a:t=Avec enthousiasme
 *M6/8	*	*
 *	*v:1	*v:2
 *	*pline:1	*pline:2
 =1	=1	=1
-!!LO:TX:a:t=Avec enthousiasme
 8f	La	Les
 8cc	ter-	cou-
 8cc	-re	-ples
@@ -79,8 +82,8 @@
 8a-	-temps,	-temps
 8a-	c'est	et
 8a-	l'a-	les
-!!LO:TX:a:i:t=rall.
 8g	-mour,	fil-
+!!LO:TX:a:i:t=rall.:rj
 8f	c'est	-les
 8a-	la	sont
 =9||	=9||	=9||
@@ -94,12 +97,13 @@
 !!LO:LB:g=original
 =11||	=11||	=11||
 *>Refrain	*>Refrain	*>Refrain
-!!LO:TX:a:B:t=Refrain
+!!LO:TX:a:B:t=Refrain:cj
 4a	C'est	.
 4b-	le	.
 =12||	=12||	=12||
-*k[b- e a d]	*	*
-!!LO:TX:a:t=T° di Valse
+!!!RNB: Flat should come before natural signs in key signature
+*k[b-]	*	*
+!!LO:TX:a:t=Tᵒ di Valse
 [2cc.	temps	.
 =13	=13	=13
 4cc]	.	.
@@ -128,7 +132,6 @@
 4b-	les	.
 !!LO:LB:g=original
 =20	=20	=20
-*k[b-]	*	*
 [2cc.	champs,	.
 =21	=21	=21
 4cc]	.	.
@@ -208,9 +211,10 @@
 *	*rp:a	*
 *	*rf:la	*
 *	*rs:d	*
-=43||	=43||	=43||
-*k[b- e- a- d-]	*	*
+=||	=||	=||
+*k[b-e-a-d-]	*	*
+!!!RNB: Remove the following line after Craig allows cautionary key signature
 .	.	.
 *-	*-	*-
 !!!EED: Jason Lau
-!!!EEV: 2025/06/05
+!!!EEV: 2025/06/06
