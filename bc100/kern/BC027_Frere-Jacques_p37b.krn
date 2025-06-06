@@ -1,0 +1,78 @@
+!!!id: BC027
+!!!page: 37b
+!!!COM: (Anonyme)
+!!!LYR: (Anonyme)
+!!!PTL@@FR: Les 100 plus belles chansons
+!!!OTL@@FR: Frère Jacques
+!!!PUB: La Bonne Chanson, inc.
+!!!YEM: On ne peut reproduire, enregistrer ou diffuser en tout ou en partie le présent ouvrage, sous quelque procédé que ce soit, électronique, mécanique, photographique, sonore, magnétique ou autre, sans avoir obtenu au préalable l'autorisation écrite de l'éditrice.
+!!!PDT: 2011
+!!!SMA: 2012 Bibliothèque nationale du Québec; Biblothèque nationale du Canada
+!!!AGN-Laforte: Canon a quatre parties, 1:2(8+6)
+!!!AGN-type: Chanson d'enfants
+!!!AGN-rime: none
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*D:	*
+*M2/4	*
+=1	=1
+*>A	*>A
+!!LO:TX:a:B:t=A
+4f	Frè-
+4g	-re
+=2	=2
+4a	Jac-
+4f	-ques,
+=3	=3
+4f	Frè-
+4g	-re
+=4	=4
+4a	Jac-
+4f	-ques,
+=5||	=5||
+*>B	*>B
+!!LO:TX:a:B:t=B
+4a	Dor-
+4b-	-mez-
+!!LO:PB:g=original
+=6	=6
+2cc	-vous?
+=7	=7
+4a	Dor-
+4b-	-mez-
+=8	=8
+2cc	-vous?
+=9||	=9||
+*>C	*>C
+!!LO:TX:a:B:t=C
+8cc	Son-
+8dd	-nez
+8cc	les
+8b-	ma-
+=10	=10
+4a	-ti-
+4f	-nes,
+!!LO:PB:g=original
+=11	=11
+8cc	Son-
+8dd	-nez
+8cc	les
+8b-	ma-
+=12	=12
+4a	-ti-
+4f	-nes:
+=13||	=13||
+*>D	*>D
+!!LO:TX:a:B:t=D
+4f	Ding,
+4c	din,
+=14	=14
+2f	don!
+=15	=15
+4f	Ding,
+4c	din,
+=16	=16
+2f	don!
+=	=
+*-	*-
