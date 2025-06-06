@@ -10,117 +10,114 @@
 !!!AGN-Laforte: Chanson énumeérative, 4:2(8)+R3(6)
 !!!AGN-type: Chanson de métier
 !!!AGN-rime: suivies (aa)
-**kern
-*k[b-]
-*F:
-*M6/8
-*
-*
-!!LO:TX:a:t=Solo
-{8f
-8f
-8f
-=1
-4f
-8c
-4f
-4a
-=2
-4.cc}
-*^
-!!LO:TX:a:t=Chœur:qo=-1
-{8b-	8g
-8b-	8g
-8b-	8g
-!!LO:PB:g=original
-=3	=3
-4a	4f
-8a	8f
-4g	4e
-8g	8e
-=4	=4
-4f	4f
-*v	*v
-8r}
-!!LO:TX:a:t=Solo
-{8f
-8f
-8f
-=5
-4f
-8c
-4f
-8a
-!!LO:PB:g=original
-=6
-4.cc}
-*^
-!!LO:TX:a:t=Chœur:qo=-1
-{8b-	8g
-8b-	8g
-8b-	8g
-=7	=7
-4a	4f
-8a	8f
-4g	4c
-8g	8c
-=8	=8
-[4.f	[4.f
-8f]	8f]
-*v	*v
-8r
-*^
-!!LO:TX:a:t=Solo
-8cc	8a
-!!LO:PB:g=original
-=9	=9
-4cc	4a
-8cc	8a
-4dd	4b-
-8dd	8b-
-=10	=10
-4cc	4a
-!!LO:TX:a:t=Chœur
-8r	8cc
-4r	4cc
-!!LO:TX:a:t=Solo
-8cc	8a
-=11	=11
-4cc	4a
-8cc	8a
-4dd	4b-
-8dd	8b-
-!!LO:PB:g=original
-=12	=12
-4cc	4a
-!!LO:TX:a:t=Chœur
-8r	8cc
-4r	4cc
-*v	*v
-!!LO:TX:a:t=Solo
-8c
-=13
-4f
-8g
-4a
-8b-
-=14
-4cc
-8r
-*^
-!!LO:TX:a:t=Chœur
-8ff	8f
-*v	*v
-8r
-8r
-*^
-4cc	8a
-8b-	8g
-4a	4f
-8g	8e
-=16	=16
-4f	4f
-*v	*v
-8r
-==
-*-
+**kern		**text
+*clefG2		*
+*k[b-]		*
+*F:		*
+*M6/8		*
+*^		*
+*color:dodgerblue	*color:crimson	*
+*	*	*v:1
+!solo	!chorus	!
+!LO:TX:a:t=Solo:vg=1	!	!
+8f	4.ryy	Ah!
+8f	.	c'é-
+8f	.	-tait
+=1	=1	=1
+4f	2.ryy	un
+8c	.	p'tit
+4f	.	cor-
+8a	.	-don-
+=2	=2	=2
+4.cc	4.ryy	nier,
+!	!LO:TX:a:t=Chœur	!
+8b-	8g	Ah!
+8b-	8g	c'é-
+8b-	8g	-tait
+!!linebreak:original
+=3	=3	=3
+4a	4f	un
+8a	8f	p'tit
+4g	4e	cor-
+8g	8e	-don-
+=4	=4	=4
+4f	4f	-nier,
+8r	8ryy	.
+!LO:TX:a:t=Solo:cj:vg=1	!	!
+8f	4.ryy	Qui
+8f	.	fai-
+8f	.	-sait
+=5	=5	=5
+4f	4.ryy	fort
+8c	.	bien
+4f	4.ryy	les
+8a	.	sou-
+!!linebreak:original
+=6	=6	=6
+4.cc	4.ryy	-liers,
+8b-	8g	Qui
+8b-	8g	fai-
+8b-	8g	-sait
+=7	=7	=7
+4a	4f	fort
+8a	8f	bien
+4g	4c	les
+8g	8c	sou-
+=8	=8	=8
+[4.f	[4.f	-liers.
+8f]	8f]	.
+8r	8ryy	.
+!! Solo text here is not needed
+!LO:TX:a:t=Solo	!	!
+8cc	8a	Il
+!!linebreak:original
+=9	=9	=9
+4cc	4a	les
+8cc	8a	fai-
+4dd	4b-	-sait
+8dd	8b-	si
+=10	=10	=10
+4cc	4a	just'
+*	*	*Xtext
+!	!LO:TX:a:t=Ch.	!
+8r	8cc	(si
+4r	4cc	just')
+*	*	*text
+!LO:TX:a:t=Solo	!	!
+8cc	8a	Il
+=11	=11	=11
+4cc	4a	les
+8cc	8a	fai-
+4dd	4b-	-sait
+8dd	8b-	si
+!!linebreak:original
+=12	=12	=12
+4cc	4a	drett'
+!	!LO:TX:a:t=Ch.	!
+8r	8cc	(si
+4r	4cc	drett')
+!LO:TX:a:t=Solo	!	!
+8c	8ryy	Il
+=13	=13	=13
+4f	2.ryy	les
+8g	.	fai-
+4a	.	-sait
+8b-	.	si
+=14	=14	=14
+4cc	4.ryy	drett',
+8r	.	.
+!	!LO:TX:a:t=Ch.	!
+8ff	8f	Pas
+8r	8ryy	.
+8r	8ryy	.
+=15	=15	=15
+4cc	4a	plus
+8b-	8g	qu'il
+4a	4f	n'en
+8g	8e	fal-
+=16	=16	=16
+4f	4f	-lait.
+8r	8ryy	.
+*v	*v	*
+==		==
+*-		*-
