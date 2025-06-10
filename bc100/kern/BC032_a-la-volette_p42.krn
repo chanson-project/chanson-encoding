@@ -16,7 +16,7 @@
 *F:	*	*	*	*	*	*	*	*	*	*	*
 *M2/4	*	*	*	*	*	*	*	*	*	*	*
 *	*vv:1	*vv:2	*vv:3	*vv:4	*vv:5	*vv:6	*vv:7	*vv:8	*vv:9	*vv:10	*vv:11
-*	*pline:1Ha5	*pline:2Ha	*pline:3Ha	*pline:4Ha	*pline:5Ha	*pline:6Ha	*pline:7Ha	*pline:8Ha	*pline:9Ha	*pline:10Ha	*pline:11Ha
+*	*pline:1Ha	*pline:2Ha	*pline:3Ha	*pline:4Ha	*pline:5Ha	*pline:6Ha	*pline:7Ha	*pline:8Ha	*pline:9Ha	*pline:10Ha	*pline:11Ha
 {{8a	Près	J'ai	Ses	Et	Le	L'oi-	Les	Au	Le	Et	Ain-
 8cc	de	cou-	pe-	la	temps	-se-	pe-	bois	re-	leur	-si
 =1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
@@ -25,7 +25,7 @@
 =2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
 8a	-tai-	-ten-	bel-	bê-	som-	guet-	-ti-	-lè-	-vi-	mè-	-bel-
 8f}	-ne,	-dre	-les,	-te	-bre,	-te,	-rent,	rent,	-de	-re	-les
-*	*pline:1Hb6	*pline:2Hb	*pline:3Hb	*pline:4Hb	*pline:5Hb	*pline:6Hb	*pline:7Hb	*pline:8Hb	*pline:9Hb	*pline:10Hb	*pline:11Hb
+*	*pline:1Hb6	*pline:2Hb6	*pline:3Hb6	*pline:4Hb6	*pline:5Hb6	*pline:6Hb6	*pline:7Hb6	*pline:8Hb6	*pline:9Hb6	*pline:10Hb6	*pline:11Hb6
 {8a	Un	Il	Vou-	Leur	Vous	Vous	Ils	Ri-	Les	Les	Sont
 8cc	oi-	m'a	-laient	di-	se-	se-	sa-	-ant	a	a	tou-
 =3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
@@ -46,12 +46,14 @@
 =5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5
 4cc	-seau,	fait,	le,	saient,	-rez,	-rez,	-vaient,	des,	tous,	tous,	-jours,
 *	*refrain	*refrain	*refrain	*refrain	*refrain	*refrain	*refrain	*refrain	*refrain	*refrain	*refrain
+*	*italic	*italic	*italic	*italic	*italic	*italic	*italic	*italic	*italic	*italic	*italic
 8cc	à	à	à	à	à	à	à	à	à	à	à
 16b-	la	la	la	la	la	la	la	la	la	la	la
 16a	vo-	vo-	vo-	vo-	vo-	vo-	vo-	vo-	vo-	vo-	vo-
 =6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6
 8b-	-let-	-let-	-let-	-let-	-let-	-let-	-let-	-let-	-let-	-let-	-let-
 8b-	-te,	-te,	-te,	-te,	-te,	-te,	-te,	-te,	-te,	-te,	-te,
+*	*Xitalic	*Xitalic	*Xitalic	*Xitalic	*Xitalic	*Xitalic	*Xitalic	*Xitalic	*Xitalic	*Xitalic	*Xitalic
 *	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain
 *	*pline:1Hc6-8	*pline:2Hc6-8	*pline:3Hc6-8	*pline:4Hc6-8	*pline:5Hc6-8	*pline:6Hc6-8	*pline:7Hc6-8	*pline:8Hc6-8	*pline:9Hc6-8	*pline:10Hc6-8	*pline:11Hc6-8
 8g	Un	Il	Vou-	Leur	Vous	Vous	Ils	Ri-	Les	Les	Sont
@@ -60,14 +62,16 @@
 =7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7
 4b-	-seau,	fait,	le,	-saient,	-rez,	-rez,	-vaient,	des,	tous,	tous,	-jours,
 *	*refrain	*refrain	*refrain	*refrain	*refrain	*refrain	*refrain	*refrain	*refrain	*refrain	*refrain
+*	*italic	*italic	*italic	*italic	*italic	*italic	*italic	*italic	*italic	*italic	*italic
 8b-	à	à	à	à	à	à	à	à	à	à	à
 16a	la	la	la	la	la	la	la	la	la	la	la
 16g	vo-	vo-	vo-	vo-	vo-	vo-	vo-	vo-	vo-	vo-	vo-
 =8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8
 8a	let-	let-	-let-	-let-	-let-	-let-	-let-	-let-	-let-	-let-	-let-
 8a	-te,	-te,	-te,	-te,	-te,	-te,	-te,	-te,	-te,	-te,	-te,
-*	*pline:1Hbr	*pline:2Hbr	*pline:3Hbr	*pline:4Hbr	*pline:5Hbr	*pline:6Hbr	*pline:7Hbr	*pline:8Hbr	*pline:9Hbr	*pline:10Hbr	*pline:11Hbr
+*	*Xitalic	*Xitalic	*Xitalic	*Xitalic	*Xitalic	*Xitalic	*Xitalic	*Xitalic	*Xitalic	*Xitalic	*Xitalic
 *	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain
+*	*pline:1Hbr	*pline:2Hbr	*pline:3Hbr	*pline:4Hbr	*pline:5Hbr	*pline:6Hbr	*pline:7Hbr	*pline:8Hbr	*pline:9Hbr	*pline:10Hbr	*pline:11Hbr
 8f	Un	Il	Vou-	Leur	Vous	Vous	Ils	Ri-	Les	Les	Sont
 8g	oi-	m'a	-laient	di-	se-	se-	sa-	-ant	a	a	tou-
 =9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9
@@ -82,4 +86,4 @@
 =:||	=:||	=:||	=:||	=:||	=:||	=:||	=:||	=:||	=:||	=:||	=:||
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
 !!!EED: Ève Poudrier
-!!!EEV: 2025/June/09
+!!!EEV: 2025/June/10
