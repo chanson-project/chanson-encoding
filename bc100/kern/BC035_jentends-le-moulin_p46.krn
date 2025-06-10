@@ -1,0 +1,88 @@
+!!!id: BC035
+!!!page: 46
+!!!COM: Anonymous (folklore)
+!!!PTL@@FR: Les 100 plus belles chansons
+!!!OTL@@FR: J'entends le moulin
+!!!PUB: La Bonne Chanson, inc.
+!!!YEM: On ne peut reproduire, enregistrer ou diffuser en tout ou en partie le présent ouvrage, sous quelque procédé que ce soit, électronique, mécanique, photographique, sonore, magnétique ou autre, sans avoir obtenu au préalable l'autorisation écrite de l'éditrice.
+!!!PDT: 2011
+!!!SMA: 2012 Bibliothèque nationale du Québec; Biblothèque nationale du Canada
+!!!AGN-Laforte: Chanson strophique (avec refrain), 9:2(8)
+!!!AGN-type: Chanson de métier
+!!!AGN-rime: suivies (aa)
+**kern
+*k[b-e-]
+*g:
+!!LO:TX:a:t=Allegro
+*M2/4
+!!LO:TX:a:t=[segno]:cj:fs=small
+8b-
+16a
+16b-
+=1
+8g
+8g
+16d
+16d
+16d
+16d
+!!LO:PB:g=original
+=2
+8g
+8g
+8b-
+16a
+16b-
+=3
+8g
+8g
+4d
+=4
+!!LO:TX:a:B:t=FIN
+4g
+=||
+8b-
+16a
+16b-
+!!LO:PB:g=original
+=5
+8g
+8g
+8d
+8d
+=6
+4g
+8b-
+16a
+16b-
+=7
+8g
+8g
+4d
+=8
+8g
+8r
+8g
+16g
+16a
+!!LO:PB:g=original
+=9
+8b-
+8a
+8b-
+8cc
+=10
+8dd
+16b-
+16cc
+4dd
+=11
+8cc
+16b-
+16cc
+4dd
+=12
+8cc
+8r
+!!LO:TX:a:t=[segno]:cj:fs=small
+==
