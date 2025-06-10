@@ -21,7 +21,7 @@
 *	*	*pline:1	*pline:3	*pline:5	*pline:7
 !solo	!chorus	!	!	!	!
 !LO:TX:a:t=Solo:vg=1	!	!	!	!	!
-8f	4.ryy	Ah!	Pour	Quand	Mais
+{{8f	4.ryy	Ah!	Pour	Quand	Mais
 8f	.	c'é-	cou-	il	de
 !!v:2, un'= une
 8f	.	-tait	-dr[e] un'	al-	re-
@@ -33,13 +33,13 @@
 8a	.	-don-	se-	-ba-	mai-
 =2	=2	=2	=2	=2	=2
 !!v:2, semell's = semelles
-4.cc	4.ryy	nier,	-mell's,	-ret,	-son,
+4.cc}	4.ryy	nier,	-mell's,	-ret,	-son,
 *	*	*rp:e	*rp:ɛ	*rp:ɛ	*rp:ɔ̃
 *	*	*rf:je	*rf:mɛl	*rf:ʁɛ	*rf:zɔ̃
 *	*	*rs:a	*rs:d2	*rs:d4	*rs:e1
 !	!LO:TX:a:t=Chœur	!	!	!	!
 *	*	*pline:1r	*pline:3r	*pline:5r	*pline:7r
-8b-	8g	Ah!	Pour	Quand	Mais
+{8b-	8g	Ah!	Pour	Quand	Mais
 8b-	8g	c'é-	cou-	il	de
 !!v:2, un' = une
 8b-	8g	-tait	-dr[e] un'	al-	re-
@@ -55,10 +55,10 @@
 *	*	*rp:e	*rp:ɛ	*rp:ɛ	*rp:ɔ̃
 *	*	*rf:je	*rf:mɛl	*rf:ʁɛ	*rf:zɔ̃
 *	*	*rs:a	*rs:d2	*rs:d4	*rs:e1
-8r	8ryy	.	.	.	.
+8r}}	8ryy	.	.	.	.
 !LO:TX:a:t=Solo	!	!	!	!	!
 *	*	*pline:2	*pline:4	*pline:6	*pline:8
-8f	4.ryy	Qui	Il	Sa	Bat-
+{{8f	4.ryy	Qui	Il	Sa	Bat-
 8f	.	fai-	n'a-	cho-	-tait
 8f	.	-sait	-vait	-pi-	sa
 =5	=5	=5	=5	=5	=5
@@ -68,12 +68,12 @@
 8a	.	sou-	pa-	fal-	d'bâ-
 !!linebreak:original
 =6	=6	=6	=6	=6	=6
-4.cc	4.ryy	-liers,	-reil.	-lait.	-ton.
+4.cc}	4.ryy	-liers,	-reil.	-lait.	-ton.
 *	*	*rp:e	*rp:ɛ	*rp:ɛ	*rp:ɔ̃
 *	*	*rf:je	*rf:ʁɛj	*rf:lɛ	*rf:tɔ̃
 *	*	*rs:a	*rs:d3	*rs:d1	*rs:e2
 *	*	*pline:2r	*pline:4r	*pline:6r	*pline:8r
-8b-	8g	Qui	Il	Sa	Bat-
+{8b-	8g	Qui	Il	Sa	Bat-
 8b-	8g	fai-	n'a-	cho-	-tait
 8b-	8g	-sait	-vait	-pi-	sa
 =7	=7	=7	=7	=7	=7
@@ -87,12 +87,12 @@
 *	*	*rf:je	*rf:ʁɛj	*rf:lɛ	*rf:tɔ̃
 *	*	*rs:a	*rs:d3	*rs:d1	*rs:e2
 8f]	8f]	.	.	.	.
-8r	8ryy	.	.	.	.
+8r}}	8ryy	.	.	.	.
 !! Solo text here is not needed
 !LO:TX:a:t=Solo	!	!	!	!	!
 *	*	*refrain	*refrain	*refrain	*refrain
 *	*	*pline:R1	*pline:R4	*pline:R6	*pline:R8
-8cc	8a	Il	Il	Il	Il
+{{8cc	8a	Il	Il	Il	Il
 !!linebreak:original
 =9	=9	=9	=9	=9	=9
 4cc	4a	les	les	la	la
@@ -109,12 +109,11 @@
 !	!LO:TX:a:t=Ch.	!	!	!	!
 8r	8cc	(si	(si	(si	(si
 !!v:1-4, just' = juste
-
-4r	4cc	just'),	just'),	just'),	just'),
+4r}	4cc	just'),	just'),	just'),	just'),
 *	*	*Xbis	*Xbis	*Xbis	*Xbis
 !LO:TX:a:t=Solo	!	!	!	!	!
 *	*	*pline:R2	*pline:R5	*pline:R7	*pline:R8
-8cc	8a	Il	Il	Il	Il
+{8cc	8a	Il	Il	Il	Il
 =11	=11	=11	=11	=11	=11
 4cc	4a	les	les	la	la
 8cc	8a	fai-	cou-	bu-	bat-
@@ -130,11 +129,11 @@
 !	!LO:TX:a:t=Ch.	!	!	!	!
 *	*	*bis	*bis	*bis	*bis
 8r	8cc	(si	(si	(si	(si
-4r	4cc	drett'),	drett'),	drett'),	drett'),
+4r}	4cc	drett'),	drett'),	drett'),	drett'),
 *	*	*Xbis	*Xbis	*Xbis	*Xbis
 !LO:TX:a:t=Solo	!	!	!	!	!
 *	*	*pline:R2r	*pline:R5r	*pline:R7r	*pline:R8r
-8c	8ryy	Il	Il	Il	Il
+{8c	8ryy	Il	Il	Il	Il
 =13	=13	=13	=13	=13	=13
 4f	2.ryy	les	les	la	la
 8g	.	fai-	cou-	bu-	bat-
@@ -146,10 +145,10 @@
 *	*	*rp:ɛ	*rp:ɛ	*rp:ɛ	*rp:ɛ
 *	*	*rf:dʁɛt	*rf:dʁɛt	*rf:dʁɛt	*rf:dʁɛt
 *	*	*rs:c	*rs:c	*rs:c	*rs:c
-8r	.	.	.	.	.
+8r}	.	.	.	.	.
 !	!LO:TX:a:t=Ch.	!	!	!	!
 *	*	*pline:R3	*pline:R3r	*pline:R3r	*pline:R3r
-8ff	8f	Pas	Pas	Pas	Pas
+{8ff	8f	Pas	Pas	Pas	Pas
 8r	8ryy	.	.	.	.
 8r	8ryy	.	.	.	.
 =15	=15	=15	=15	=15	=15
@@ -162,12 +161,12 @@
 *	*	*rp:ɛ	*rp:ɛ	*rp:ɛ	*rp:ɛ
 *	*	*rf:lɛ	*rf:lɛ	*rf:lɛ	*rf:lɛ
 *	*	*rs:d1	*rs:d1	*rs:d1	*rs:d1
-8r	8ryy	.	.	.	.
+8r}}	8ryy	.	.	.	.
 *	*	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain
 *v	*v	*	*	*	*
 ==		==	==	==	==
 *-		*-	*-	*-	*-
 !!!EED: Craig Sapp
-!!!EEV: 2025/June/06
+!!!EEV: 2025/June/05
 !!!EED: Ève Poudrier
 !!!EEV: 2025/June/09
