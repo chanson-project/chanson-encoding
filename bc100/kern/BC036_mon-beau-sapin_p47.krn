@@ -21,7 +21,7 @@
 *^		*	*	*	*
 *color:dodgerblue	*color:crimson	*	*	*	*
 !!no decres. needed
-4d	4d	>mf	Mon	Toi	Mon
+4d	4d	mf	Mon	Toi	Mon
 =1	=1	=1	=1	=1	=1
 8.g	8.B	.	beau	que	beau
 16g	16B	.	sa-	No-	sa-
@@ -108,6 +108,5 @@
 *	*	*	*	*	*
 ==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-
-!!!RDF**kern: > = above
 !!!EED: Ève Poudrier
 !!!EEV: 2025/June/10
