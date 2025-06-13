@@ -8,9 +8,9 @@
 !!!YEM: On ne peut reproduire, enregistrer ou diffuser en tout ou en partie le présent ouvrage, sous quelque procédé que ce soit, électronique, mécanique, photographique, sonore, magnétique ou autre, sans avoir obtenu au préalable l'autorisation écrite de l'éditrice.
 !!!PDT: 2011
 !!!SMA: 2012 Bibliothèque nationale du Québec; Biblothèque nationale du Canada
-!!!AGN-Laforte: Strophique (avec refrain), 9:1(6+6)
-!!!AGN-type: Rustique?
-!!!AGN-rime: none
+!!!AGN-Laforte: Strophique (avec refrain), 9:1(7+6)
+!!!AGN-type: Rustique? Séduction? Dancing?
+!!!AGN-rime: monorime /ɔ̃/
 **kern	**text	**text	**text	**text	**text	**text	**text	**text	**text
 *clefG2	*	*	*	*	*	*	*	*	*
 *k[f#]	*	*	*	*	*	*	*	*	*
@@ -23,6 +23,7 @@
 4g	Mon	C'est	Mais	Quand	Ils	Quand	Et	Et	Et
 =1	=1	=1	=1	=1	=1	=1	=1	=1	=1
 8d	père	pas	c'est	la	en-	tout	l'on	moi,	c'est
+!!v.2-3: l'affair' = l'affaire
 8g	aus-	l'af-	l'af-	mai-	-trent	l'monde	parl'	j'les	comm'
 8b	-si	-fair'	-fair'	-son	quatre	est	d'a-	ac-	ça
 8g	ma	des	des	est	à	en	-mou-	-com-	qu'ça
@@ -31,6 +32,7 @@
 8f#	re	-les	-les	-pre,	-tre,	-ce,	-te,	-gne	-se,
 4a	n'a-	d'al-	de	tous	en	on	c'est	sur	du
 =3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+!!Footnote in original: v. 3: *(mis pour balayer)
 8f#	-vient	-ler	"ba-	les	frap-	frise	tou-	mon	moins
 8a	que	voir	-lier"	gar-	-pant	un	-jours	ac-	dans
 8cc	moi	les	la	-çons	du	ri-	la	-cor-	notr'
@@ -41,7 +43,7 @@
 =:|	=:|	=:|	=:|	=:|	=:|	=:|	=:|	=:|	=:|
 8r	.	.	.	.	.	.	.	.	.
 *	*bis	*bis	*bis	*bis	*bis	*bis	*bis	*bis	*bis
-*	*pline:1b7	*pline:2b7	*pline:3b7	*pline:4b7	*pline:5b7	*pline:6b7	*pline:7b7	*pline:8b7	*pline:9b7
+*	*pline:1b8	*pline:2b8	*pline:3b8	*pline:4b8	*pline:5b8	*pline:6b8	*pline:7b8	*pline:8b8	*pline:9b8
 !!LO:TX:a:t=Solo
 8b	N'a-	D'al-	De	Tous	En	On	C'est	Sur	Du
 =5	=5	=5	=5	=5	=5	=5	=5	=5	=5
@@ -53,6 +55,7 @@
 8.dd	-fant,	-çons,	-son,	vont,	-lon,	-don,	-son,	-on,	-ton,
 *	*Xbis	*Xbis	*Xbis	*Xbis	*Xbis	*Xbis	*Xbis	*Xbis	*Xbis
 *	*refrain	*	*	*	*	*	*	*	*
+*	*italic	*	*	*	*	*	*	*	*
 16dd	La	.	.	.	.	.	.	.	.
 8b	des-	.	.	.	.	.	.	.	.
 8g	-ti-	.	.	.	.	.	.	.	.
@@ -63,11 +66,12 @@
 8g	au	.	.	.	.	.	.	.	.
 =8	=8	=8	=8	=8	=8	=8	=8	=8	=8
 4a	bois,	.	.	.	.	.	.	.	.
+*	*Xitalic	*	*	*	*	*	*	*	*
 *	*Xrefrain	*	*	*	*	*	*	*	*
 !!LO:PB:g=original
 =||	=||	=||	=||	=||	=||	=||	=||	=||	=||
 =||:	=||:	=||:	=||:	=||:	=||:	=||:	=||:	=||:	=||:
-*	*bis	*bis	*bis	*bis	*bis	*bis	*bis	*bis	*bis
+*	*pline:1b8	*pline:2b8	*pline:3b8	*pline:4b8	*pline:5b8	*pline:6b8	*pline:7b8	*pline:8b8	*pline:9b8
 !!LO:TX:a:t=Solo - reprise par le Choeur
 4dd	N'a-	D'al-	De	Tous	En	On	C'est	Sur	Du
 =9	=9	=9	=9	=9	=9	=9	=9	=9	=9
@@ -78,6 +82,7 @@
 =10	=10	=10	=10	=10	=10	=10	=10	=10	=10
 8e	-fant,	-çons,	-son,	vont,	-lon,	-don,	-son,	-on,	-ton,
 8r	.	.	.	.	.	.	.	.	.
+*	*pline:1b8	*pline:2b8	*pline:3b8	*pline:4b8	*pline:5b8	*pline:6b8	*pline:7b8	*pline:8b8	*pline:9b8
 4a	N'a-	D'al-	De	Tous	En	On	C'est	Sur	Du
 =11	=11	=11	=11	=11	=11	=11	=11	=11	=11
 8f#	-vient	-ler	"ba-	les	frap-	frise	tou-	mon	moins
@@ -86,8 +91,9 @@
 8b	d'en-	gar-	mai-	y	ta-	-go-	sai-	-dé-	can-
 =12	=12	=12	=12	=12	=12	=12	=12	=12	=12
 4g	-fant.	-çons.	-son.	vont.	-lon.	-don.	-son.	-on.	-ton.
-*	*Xbis	*Xbis	*Xbis	*Xbis	*Xbis	*Xbis	*Xbis	*Xbis	*Xbis
 =:||	=:||	=:||	=:||	=:||	=:||	=:||	=:||	=:||	=:||
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-
 !!!EED: Isaac Howie
 !!!EEV: 2025/June/07
+!!!Note: finish translating words & repeat Refrain across verses
+!!!Note: Alternately could be Hemistiche instead of repetition
