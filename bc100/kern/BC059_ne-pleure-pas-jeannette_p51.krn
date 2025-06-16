@@ -1,0 +1,104 @@
+!!!id: BC039
+!!!page: 51
+!!!COM: Anonymous (Vieille chanson française)
+!!!PTL@@FR: Les 100 plus belles chansons
+!!!OTL@@FR: Ne pleure pas Jeannette
+!!!PUB: La Bonne Chanson, inc.
+!!!YEM: On ne peut reproduire, enregistrer ou diffuser en tout ou en partie le présent ouvrage, sous quelque procédé que ce soit, électronique, mécanique, photographique, sonore, magnétique ou autre, sans avoir obtenu au préalable l'autorisation écrite de l'éditrice.
+!!!PDT: 2011
+!!!SMA: 2012 Bibliothèque nationale du Québec; Biblothèque nationale du Canada
+!!!AGN-Laforte: Chanson en laisse, en dialogue (avec refrain intégré), 7:1(6+6)
+!!!AGN-type: Chanson de mariage
+!!!AGN-rime: momorhyme /ɔ̃/, except for the last two verses, which introduce a new rhyme.
+**kern	**text	**text	**text	**text	**text	**text	**text
+*clefG2	*	*	*	*	*	*	*
+*k[f#]	*	*	*	*	*	*	*
+*G:	*	*	*	*	*	*	*
+!!LO:TX:a:t=Mouvement de Marche
+*M2/4	*	*	*	*	*	*	*
+*	*v:1	*v:2	*v:3	*v:4	*v:5	*v:6	*v:7
+*	*pline:1Ha	*pline:2Ha	*pline:3Ha	*pline:4Ha	*pline:5Ha	*pline:6Ha	*pline:7Ha
+4d	Ne	A-	Je	Je	Tu	Si	Et
+=1	=1	=1	=1	=1	=1	=1	=1
+4.b	pleu-	vec	n'en	veux	n'au-	vous	l'on
+8a	-re	le	veux	mon	-ras	pen-	pen-
+=2	=2	=2	=2	=2	=2	=2	=2
+4b	pas,	fils	pas	a-	pas	-douil-	-douil-
+4cc	Jean-	d'un	d'un	-mi	ton	-lez	-la
+=3	=3	=3	=3	=3	=3	=3	=3
+(4.b	net-	prin-	prin-	Pier-	Pier-	Pier-	Pier-
+8a)	.	.	.	.	.	.	.
+=4	=4	=4	=4	=4	=4	=4	=4
+4g	-te,	-ce,	-ce,	-re,	re,	-re,	-re,
+8r	.	.	.	.	.	.	.
+*	*refrain	*refrain	*refrain	*refrain	*refrain	*refrain	*refrain
+*	*italic	*	*	*	*	*	*
+8a	Tra	.	.	.	.	.	.
+=5	=5	=5	=5	=5	=5	=5	=5
+8b'	la	.	.	.	.	.	.
+8a'	la	.	.	.	.	.	.
+8g"	la	.	.	.	.	.	.
+8f#'	la	.	.	.	.	.	.
+!!LO:PB:g=original
+=6	=6	=6	=6	=6	=6	=6	=6
+8e'	la	.	.	.	.	.	.
+8d'	la	.	.	.	.	.	.
+8e'	la	.	.	.	.	.	.
+8f#'	la	.	.	.	.	.	.
+=7	=7	=7	=7	=7	=7	=7	=7
+4g'	la	.	.	.	.	.	.
+4a'	la	.	.	.	.	.	.
+=8	=8	=8	=8	=8	=8	=8	=8
+4b	la,	.	.	.	.	.	.
+*	*Xitalic	*	*	*	*	*	*
+*	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain
+*	*pline:1Har	*pline:2Har	*pline:3Har	*pline:4Har	*pline:5Har	*pline:6Har	*pline:7Har
+4dd	Ne	A-	Je	Je	Tu	Si	Et
+=9	=9	=9	=9	=9	=9	=9	=9
+4.dd	pleu-	-vec	n'en	veux	n'au-	vous	l'on
+8cc	-re	le	veux	mon	-ras	pen-	pen-
+=10	=10	=10	=10	=10	=10	=10	=10
+4dd	pas,	fils	pas	a-	pas	-douil-	-douil-
+4ee	Jean-	d'un	d'un	-mi	ton	-lez	-la
+=11	=11	=11	=11	=11	=11	=11	=11
+(4.dd	-net-	prin-	prin-	Pier-	Pier-	Pier-	Pier-
+8cc)	.	.	.	.	.	.	.
+!!LO:PB:g=original
+=12	=12	=12	=12	=12	=12	=12	=12
+4b	-te,	-ce,	ce,	-re,	-re,	-re,	-re,
+8r	.	.	.	.	.	.	.
+*	*pline:1Hb	*pline:2Hb	*pline:3Hb	*pline:3Hb	*pline:3Hb	*pline:3Hb	*pline:3Hb
+!!v:3, Encor' = Encore
+8b	Nous	Ou	En-	Ce-	Nous	Pen-	Et
+=13	=13	=13	=13	=13	=13	=13	=13
+8a	te	ce-	cor'	-lui	le	-douil-	sa
+!!v:4, "qu'est" modified from "qui est" in original for text setting (missing note)
+8g	ma-	-lui	moins	qu'est	pen-	-lez-	Jean-
+8f#	-ri-	d'un	d'un	en	-douil-	-moi	-nett[e]
+!!v:6, "z'" added for liaison purposes
+8e	-e-	ba-	ba-	pri-	-le-	z'a-	a-
+=14	=14	=14	=14	=14	=14	=14	=14
+8d	-rons,	-ron,	-ron,	son,	-rons,	-vec,	-vec.
+*	*rp:ɔ̃	*rp:ɔ̃	*rp:ɔ̃	*rp:ɔ̃	*rp:ɔ̃	*rp:ɛ	*rp:ɛ
+*	*rf:ʁɔ̃	*rf:ʁɔ̃	*rf:ʁɔ̃	*rf:zɔ̃	*rf:ʁɔ̃	*rf:vɛk	*rf:vɛk
+*	*rs:a1	*rs:a1	*rs:a1	*rs:a2	*rs:a1	*rs:b	*rs:b
+*	*pline:1Hbr	*pline:2Hbr	*pline:3Hbr	*	*	*	*rs:b
+!!v:3, Encor' = Encore
+8d	Nous	Ou	En-	Ce-	Nous	Pen-	Et
+8e	te	ce-	-cor'	-lui	le	-douil-	sa
+!!v:4, "qu'est" modified from "qui est" in original for text setting (missing note)
+8cc	ma-	lui	moins	qu'est	pen-	-lez-	Jean-
+=15	=15	=15	=15	=15	=15	=15	=15
+4b	-ri-	d'un	d'un	en	douil-	-moi	-nett[e]
+!!v:6, "z'" added for liaison purposes
+4a	-e-	ba-	ba-	pri-	-le-	z'a-	a-
+=16	=16	=16	=16	=16	=16	=16	=16
+8g	-rons.	-ron.	-ron.	-son.	-rons.	-vec.	-vec.
+*	*rp:ɔ̃	*rp:ɔ̃	*rp:ɔ̃	*rp:ɔ̃	*rp:ɔ̃	*rp:ɔ̃	*rp:ɔ̃
+*	*rf:ʁɔ̃	*rf:ʁɔ̃	*rf:ʁɔ̃	*rf:zɔ̃	*rf:ʁɔ̃	*rf:vɛk	*rf:vɛk
+*	*rs:a1	*rs:a1	*rs:a1	*rs:a2	*rs:a1	*rs:b	*rs:b
+8r	.	.	.	.	.	.	.
+==	==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-	*-
+!!!EED: Ève Poudrier
+!!!EEV: 2025/June/15
