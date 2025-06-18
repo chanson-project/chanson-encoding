@@ -1,0 +1,123 @@
+!!!ID:BC052
+!!!PAGE:65
+!!!COM: Folklore francais
+!!!PTR@@FR: Les 100 plus belles chansons
+!!!OTL@@FR: Le Temps Des Pommes
+!!!PUB: La Bonne Chanson, inc.
+!!!PDT: 2011
+!!!YEM: On ne peut reproduire, enregistrer ou diffuser en tout ou en partie le présent ouvrage, sous quelque procédé que ce soit, électronique, mécanique, photographique, sonore, magnétique ou autre, sans avoir obtenu au préalable l'autorisation écrite de l'éditrice.
+!!!SMA: 2012 Bibliothèque nationale du Québec; Biblothèque nationale du Canada
+!!!AGN-type: Chanson de paysam
+!!!AGN-Laforte: Chanson strophique (sans refrain), 3:8(7+6)
+!!!AGN-rhyme: croisees (ababcdcd)7
+**kern	**text	**text	**text
+*clefG2	*	*	*
+*k	*	*	*
+*C:	*	*	*
+!!LO:TX:a:B:t=Allegretto
+*M2/4	*	*	*
+*	*v:1	*v:2	*v:3
+*	*pline:1	*pline:2	*pline3
+=1	=1	=1	=1
+8g	C'é-	A	Le
+=2	=2	=2	=2
+8cc	-tait	pei-	pè-
+8cc	au	-ne	-re
+8b	temps	dans	de
+8dd	des	l'ou-	la
+=3	=3	=3	=3
+4cc	pom-	-vra-	bel-
+8cc	-mes,	-ge,	-le,
+*	*rp:ɛ	*rp:ʒ	*rp:ɛ
+*	*rf:mɛ	*rf:ʒ	*rf:ɛl
+*	*rs:a	*rs:d	*rs:a
+8g	Co-	Il	Ca-
+=4	=4	=4	=4
+8a	-lin	vou-	-ché
+8g	a-	-lut	non
+8e	-vait	un	loin
+8d	douze	bai-	de
+!!linebreak:original
+=5	=5	=5	=5
+4c	ans;	-ser;	là,
+*	*rp:ã	*rp:e	*rp:a
+*	*rf:ã	*rf:se	*rf:la
+*	*rs:b	*rs:e	*rs:g
+8r	.	.	.
+8g	Mais	Mais	Sui-
+=6	=6	=6	=6
+8cc	il	Co-	-vit
+8cc	fai-	-let-	d'un
+8b	-sait	-t[e],	oeil
+8dd	son	étant	fi-
+=7	=7	=7	=7
+4cc	hom-	sa-	-dè-
+8cc	-me	-ge,	-le
+*	*rp:ɛ	*rp:ʒ	*rp:ɛ
+*	*rf:mɛ	*rf:ʒ	*rf:ɛl
+*	*rs:a	*rs:d	*rs:a
+8dd	Comme	Crut	Ce
+=8	=8	=8	=8
+8ee	un	bon	qui
+8dd	gar-	de	s'y
+8cc	-çon	re-	dé-
+8a	d'vingt	-fu-	-rou-
+!!linebreak:original
+=9	=9	=9	=9
+4g	ans.	-ser.	-la:
+*	*rp:ã	*rp:e	*rp:a
+*	*rf:ã	*rf:se	*rf:la
+*	*rs:b	*rs:e	*rs:g
+8r	.	.	.
+8g	Un	Elle	Il
+=10	=10	=10	=10
+8a	jour,	a-	vit
+8a	a-	-jou-	que
+8dd	-vec	-ta	sa
+8dd	Co-	quand	Co-
+=11	=11	=11	=11
+4cc	-let	mê-	-let-
+8cc	-te,	-me:	-te,
+*	*rp:ɛ	*rp:ɛː	*rp:ɛ
+*	*rf:lɛt	*rf:ɛːm	*rf:ɛt
+*	*rs:a	*rs:f	*rs:a
+8g	La	"Je	Des
+=12	=12	=12	=12
+8a	fil-	te	pom-
+8a	-le	le	-mes
+8b	du	don-	plein
+8b	voi-	-ne-	les
+!!linebreak:original
+=13	=13	=13	=13
+4a.	-sin,	-rai	mains,
+*	*rp:ē	*rp:ɛ	*rp:ē
+*	*rf:zē	*rf:ʁɛ	*rf:mē
+*	*rs:c	*rs:a	*rs:c
+8g	Il	Si	En
+=14	=14	=14	=14
+8a	fai-	tu	met-
+8a	-sait	rem-	-tait
+8dd	la	-plis	en
+8dd	cueil-	toi-	ca-
+=15	=15	=15	=15
+4cc	-let-	-mê-	-che-
+8cc	-te	-me	-tte
+*	*rp:ɛ	*rp:ɛː	*rp:ɛ
+*	*rf:tɛ	*rf:ɛːm	*rf:ɛt
+*	*rs:a	*rs:f	*rs:a
+8g	Des	Ton	Dans
+=16	=16	=16	=16
+8a	pom-	pa-	le
+8a	-mes	-nier	pa-
+8b	du	le	-nier
+8b	jar-	pre-	d'Co-
+=17	=17	=17	=17
+4cc	-din.	-mier..."	-lin!
+*	*rp:ẽ	*rp:e	*rp:ē
+*	*rf:dẽ	*rf:mje	*rf:lē
+*	*rs:c	*rs:e	*rs:c
+8r	.	.	.
+==	==	==	==
+*-	*-	*-	*-
+!!!EED:Jason Lau
+!!!EEV:2025/06/17
