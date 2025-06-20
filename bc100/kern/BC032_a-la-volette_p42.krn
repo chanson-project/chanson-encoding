@@ -9,13 +9,13 @@
 !!!SMA: 2012 Bibliothèque nationale du Québec; Biblothèque nationale du Canada
 !!!AGN-Laforte: Chanson en laisse, 11:1(5+5)
 !!!AGN-type: Chanson d'oiseau
-!!!AGN-rime: monorhyme, except first line
+!!!AGN-rime: monorhyme /e/, except first line "chantait".
 **kern	**text	**text	**text	**text	**text	**text	**text	**text	**text	**text	**text
 *clefG2	*	*	*	*	*	*	*	*	*	*	*
 *k[b-]	*	*	*	*	*	*	*	*	*	*	*
 *F:	*	*	*	*	*	*	*	*	*	*	*
 *M2/4	*	*	*	*	*	*	*	*	*	*	*
-*	*vv:1	*vv:2	*vv:3	*vv:4	*vv:5	*vv:6	*vv:7	*vv:8	*vv:9	*vv:10	*vv:11
+*	*v:1	*v:2	*v:3	*v:4	*v:5	*v:6	*v:7	*v:8	*v:9	*v:10	*v:11
 *	*pline:1Ha	*pline:2Ha	*pline:3Ha	*pline:4Ha	*pline:5Ha	*pline:6Ha	*pline:7Ha	*pline:8Ha	*pline:9Ha	*pline:10Ha	*pline:11Ha
 {{8a	Près	J'ai	Ses	Et	Le	L'oi-	Les	Au	Le	Et	Ain-
 8cc	de	cou-	pe-	la	temps	-se-	pe-	bois	re-	leur	-si
@@ -86,4 +86,4 @@
 =:||	=:||	=:||	=:||	=:||	=:||	=:||	=:||	=:||	=:||	=:||	=:||
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
 !!!EED: Ève Poudrier
-!!!EEV: 2025/June/10
+!!!EEV: 2025/June/20
