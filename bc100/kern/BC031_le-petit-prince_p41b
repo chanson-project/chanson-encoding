@@ -11,7 +11,7 @@
 !!!AGN-type: Chanson d'enfant
 !!!AGN-rime: suivies (aabb), except last line ([y])
 **kern	**text	**text	**text	**text	**text	**text
-*clefG2
+*clefG2	*	*	*	*	*	*
 *k[]	*	*	*	*	*	*
 *C:	*	*	*	*	*	*
 *M2/4	*	*	*	*	*	*
@@ -66,7 +66,7 @@
 *	*rf:ẽs,ə	*rf:ẽs,ə	*rf:ẽs,ə	*rf:ẽs,ə	*rf:ẽs,ə	*rf:ẽs,ə
 *	*rs:a	*rs:a	*rs:a	*rs:a	*rs:a	*rs:a
 *	*pline:3	*pline:3r	*pline:3r	*pline:3r	*pline:3r	*pline:3r
-{{8e	Mais	Mais	Mais	.	.	.
+{{8e	Mais	Mais	Mais	Mais	Mais	Mais
 =10	=10	=10	=10	=10	=10	=10
 !!comm' = comme
 8c	comm'	comm'	comm'	comm'	comm'	comm'
@@ -116,5 +116,5 @@
 ==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-
 !!!EEV: Ève Poudrier
-!!!EED: 2025/June/09
+!!!EED: 2025/June/20
 !!!EEV-notes: Original only include the last verse's alternative words "Sam'di matin, etc." and last line "Pour finir: Puis-que c'est comm' ça, nous ne re-vien-drons plus!"
