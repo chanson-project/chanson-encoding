@@ -19,7 +19,7 @@
 *M3/4	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
 *	*v:1	*v:2	*v:3	*v:4	*v:5	*v:6	*v:7	*v:8	*v:9	*v:10	*v:11	*v:12	*v:13	*v:14	*v:15	*v:16
 *	*pline:1Ha	*pline:2Ha	*pline:3Ha	*pline:4Ha	*pline:5Ha	*pline:6Ha	*pline:7Ha	*pline:8Ha	*pline:9Ha	*pline:10Ha	*pline:11Ha	*pline:12Ha	*pline:13Ha	*pline:14Ha	*pline:15Ha	*pline:16Ha
-8b8	Il	Il	Au	On	Le	On	L'un	Pen-	Il	Mais	Ô	Si	Au	Des	On	Si
+{{8b8	Il	Il	Au	On	Le	On	L'un	Pen-	Il	Mais	Ô	Si	Au	Des	On	Si
 8b	é-	en-	bout	ti-	sort	cherch[e]	vou-	-dant	fit	re-	sain-	j'ai	mêm[e]	p'tits	les	cett[e]
 8b	-tait	-tre-	de	-ra	tom-	a	-lait	qu'ain-	au	-gar-	-te	pé-	ins-	pois-	prit,	his-
 =1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
@@ -29,9 +29,9 @@
 8b	na-	voy-	se-	-te	plus	-le	à	-li-	pri-	en-	pa-	par-	mi-	na-	à	a-
 =2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
 4b	-vi-	-a-	-mai-	pail-	jeu-	sau-	fri-	-bè-	-è-	-tiè-	-tron-	-don-	-ra-	-vi-	fri-	-mu-
-8a	re,	-ge,	-nes,	-le,	-ne,	-ce,	-re,	-re,	-re,	-re,	-ne,	-ne;	-cle,	-re,	-re,	-se,
+8a}	re,	-ge,	-nes,	-le,	-ne,	-ce,	-re,	-re,	-re,	-re,	-ne,	-ne;	-cle,	-re,	-re,	-se,
 *	*pline:1Har	*pline:2Har	*pline:3Har	*pline:4Har	*pline:5Har	*pline:6Har	*pline:7Har	*pline:8Har	*pline:9Har	*pline:10Har	*pline:11Har	*pline:12Har	*pline:13Har	*pline:14Har	*pline:15Har	*pline:1H6ar
-8a	Il	Il	Au	On	Le	On	L'un	Pen-	Il	Mais	Ô	Si	Au	Des	On	Si
+{8a	Il	Il	Au	On	Le	On	L'un	Pen-	Il	Mais	Ô	Si	Au	Des	On	Si
 8a	é-	en-	bout	ti-	sort	cherch[e]	vou-	-dant	fit	re-	sain-	j'ai	mêm[e]	p'tits	les	cett[e]
 8a	-tait	-tre-	de	-ra	tom-	a-	-lait	qu'ain-	au	-gar-	-te	pé-	ins-	pois-	prit,	his-
 !!LO:PB:g=original
@@ -42,9 +42,9 @@
 8a	na-	voy-	se-	-te	plus	-le	à	-li-	pri-	en-	pa-	par-	mi-	na-	à	a
 =5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5
 4a	-vi-	-a-	-mai-	pail-	jeu-	sau-	fri-	-bè-	-è-	-tiè-	-tron-	-don-	-ra-	-vi-	fri-	-mu-
-8g	re,	-ge,	-nes,	-le,	-ne,	-ce,	-re,	-re,	-re,	-re,	-ne,	-ne;	cle	-re	-re,	-se,
+8g}}	re,	-ge,	-nes,	-le,	-ne,	-ce,	-re,	-re,	-re,	-re,	-ne,	-ne;	cle	-re	-re,	-se,
 *	*pline:1Hb	*pline:2Hb	*pline:3Hb	*pline:4Hb	*pline:5Hb	*pline:6Hb	*pline:7Hb	*pline:8Hb	*pline:9Hb	*pline:10Hb	*pline:11Hb	*pline:12Hb	*pline:13Hb	*pline:14Hb	*pline:15Hb	*pline:16Hb
-8b	Qui	Sur	Les	Pour	C'est	Le	L'au-	Il	In-	Il	Cri-	Em-	Pour	Sau-	Le	Je
+{{8b	Qui	Sur	Les	Pour	C'est	Le	L'au-	Il	In-	Il	Cri-	Em-	Pour	Sau-	Le	Je
 8b	n'a-	la	vi-	sa-	donc	pauvr[e]	-tre	mon-	ter-	vit	-a	-pê-	l'en-	-tè-	jeu-	vais
 8b	-vait	mer	-vres	-voir	lui	en-	vou-	-ta	-ro-	des	le	-che-	-fant	-rent	-ne	vous
 =6||	=6||	=6||	=6||	=6||	=6||	=6||	=6||	=6||	=6||	=6||	=6||	=6||	=6||	=6||	=6||	=6||
@@ -60,12 +60,12 @@
 8b	-vi-	-ra-	man-	man-	-si-	man-	cas-	hu-	-si-	cô-	-tu-	man-	-li-	mil-	sau-	-men-
 !!LO:PB:g=original
 =8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8
-8a	gué,	-née,	-quer,	-gé,	-gné,	-gé,	-ser,	-nier,	-té,	-tés,	-né,	-ger,	-sé,	-liers,	-ver,	-cer,
+8a}	gué,	-née,	-quer,	-gé,	-gné,	-gé,	-ser,	-nier,	-té,	-tés,	-né,	-ger,	-sé,	-liers,	-ver,	-cer,
 *	*rp:e	*rp:e	*rp:e	*rp:e	*rp:e	*rp:e	*rp:e	*rp:e	*rp:e	*rp:e	*rp:e	*rp:e	*rp:e	*rp:e	*rp:e	*rp:e
 *	*rf:ge	*rf:ne	*rf:ke	*rf:ʒe	*rf:ɲe	*rf:ʒe	*rf:se	*rf:je	*rf:te	*rf:te	*rf:ne	*rf:ʒe	*rf:ze	*rf:je	*rf:ve	*rf:se
 *	*rs:a1	*rs:a2	*rs:a3	*rs:a4	*rs:a5	*rs:a4	*rs:a6	*rs:a7	*rs:a8	*rs:a8	*rs:a2	*rs:a4	*rs:a9	*rs:a7	*rs:a10	*rs:a6
 *	*pline:1Hbr	*pline:2Hbr	*pline:3Hbr	*pline:4Hbr	*pline:5Hbr	*pline:6Hbr	*pline:7Hbr	*pline:8Hbr	*pline:9Hbr	*pline10Hbr	*pline11Hbr	*pline12Hbr	*pline13Hbr	*pline14Hbr	*pline15Hbr	*pline16Hbr
-8g	Qui	Sur	Les	Pour	C'est	Le	L'au-	Il	In-	Il	Cri-	Em-	Pour	Sau-	Le	Je
+{8g	Qui	Sur	Les	Pour	C'est	Le	L'au-	Il	In-	Il	Cri-	Em-	Pour	Sau-	Le	Je
 8f#	n'a-	la	vi-	sa-	donc	pauvr[e]	-tre	mon-	-ter-	vit	-a	-pê-	l'en-	-tè-	jeu-	vais
 8g	-vait	mer	-vres	-voir	lui	en-	vou-	-ta	-ro-	des	le	-che-	-fant	-rent	-ne	vous
 =9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9
@@ -84,7 +84,7 @@
 *	*rp:e	*rp:e	*rp:e	*rp:e	*rp:e	*rp:e	*rp:e	*rp:e	*rp:e	*rp:e	*rp:e	*rp:e	*rp:e	*rp:e	*rp:e	*rp:e
 *	*rf:ge	*rf:ne	*rf:ke	*rf:ʒe	*rf:ɲe	*rf:ʒe	*rf:se	*rf:je	*rf:te	*rf:te	*rf:ne	*rf:ʒe	*rf:ze	*rf:je	*rf:ve	*rf:se
 *	*rs:a1	*rs:a2	*rs:a3	*rs:a4	*rs:a5	*rs:a4	*rs:a6	*rs:a7	*rs:a8	*rs:a8	*rs:a2	*rs:a4	*rs:a9	*rs:a7	*rs:a10	*rs:a6
-8r	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+8r}}	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
 ==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
 !!!EED: Ève Poudrier
