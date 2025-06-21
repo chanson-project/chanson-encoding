@@ -16,7 +16,6 @@
 *k[b-]	*	*	*
 *F:	*	*	*
 *M2/4	*	*	*
-*	*vv:1	*vv:2	*vv:3
 =1	=1	=1	=1
 !!rests not hidden, despite "yy"
 2ryy	.	.	.
@@ -28,6 +27,7 @@
 4r	.	.	.
 8r	.	.	.
 !!LO:TX:a:t=[segno]:cj:fs=small
+*	*v:1	*v:2	*v:3
 *	*pline:1	*pline:9	*pline:17
 {{8c	O	É-	Vois
 =5||:	=5||:	=5||:	=5||:
@@ -159,5 +159,5 @@
 ==	==	==	==
 *-	*-	*-	*-
 !!!EED: Ève Poudrier
-!!!EEV: 2025/June/15
+!!!EEV: 2025/June/20
 !!!note: Layout differ from original: no pick-up note at the end of the strophe and del segno replaced by repeats at m. 5 and end of m. 20, 1st/2nd ending. Ending numbers added.
