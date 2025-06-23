@@ -11,7 +11,6 @@
 !!!AGN-type: Chanson de chasse
 !!!AGN-rime: monorhyme /ɑ̃/
 !!!elisions: v'là = voilà; l'bon = le bon; l'joli = le joli; derrièr' = derrière; sor'nt = sortent; plum's = plumes; dam's = dames
-!!!OMD: Gaiement
 **kern	**text	**kern	**text	**text	**text	**text	**text	**text	**text	**text	**text	**text	**text	**text	**text
 *clefG2	*	*clefG2	*	*	*	*	*	*	*	*	*	*	*	*	*
 *k[f#c#]	*	*k[f#c#]	*	*	*	*	*	*	*	*	*	*	*	*	*
@@ -21,6 +20,7 @@
 *color:crimson	*	*color:dodgerblue	*	*	*	*	*	*	*	*	*	*	*	*	*
 *	*refrain	*	*refrain	*	*	*	*	*	*	*	*	*	*	*	*
 *	*italic	*	*italic	*	*	*	*	*	*	*	*	*	*	*	*
+!!LO:TX:a:B:t=Gaiement
 !!LO:TX:a:B:t=REFRAIN
 {{8f#	V'là	{{8f#	V'là	.	.	.	.	.	.	.	.	.	.	.	.
 8d	l'bon,	8b	l'bon	.	.	.	.	.	.	.	.	.	.	.	.
@@ -140,6 +140,7 @@
 =:||	=:||	=:||	=:||	=:||	=:||	=:||	=:||	=:||	=:||	=:||	=:||	=:||	=:||	=:||	=:||
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
 !!!system-decoration: [*]
+!!!verovio: condense auto
 !!!EED: Isaac Howie
 !!!EEV: 2025/May/27
 !!!EED: Ève Poudrier
