@@ -7,97 +7,116 @@
 !!!PDT: 2011
 !!!YEM: On ne peut reproduire, enregistrer ou diffuser en tout ou en partie le présent ouvrage, sous quelque procédé que ce soit, électronique, mécanique, photographique, sonore, magnétique ou autre, sans avoir obtenu au préalable l'autorisation écrite de l'éditrice.
 !!!SMA: 2012 Bibliothèque nationale du Québec; Biblothèque nationale du Canada
-!!!AGN-type: Chanson de voyageur?
-!!!AGN-Laforte: Strophique (avec refrain), 12:2(6+6)
-!!!AGN-rhyme: none
+!!!AGN-type: Chanson de marin
+!!!AGN-Laforte: Chanson en laisse (avec refrain intégré), 12:1(6+6), R3(5+5+6)
+!!!AGN-rhyme: monorhyme /e/; v:1 and v:2 partial rhyme with refrain ending /o/ (eau, vaisseau, matelots); v:4 no rhyme
+!!!elision: v:6, ell' = elle; v:7, qu'a-vous = qu'avez-vous; v:8, pleur' = pleure; v:8, added "e" for melodic fill-in ins "l'or-(re); v:8, added "z" for liaison in "dans l'eau-z-il"; v:11, added "z" for liaison in "l'anneau-z-a"
 **kern	**text	**text	**text	**text	**text	**text	**text	**text	**text	**text	**text	**text
 *clefG2	*	*	*	*	*	*	*	*	*	*	*	*
 *k[b-e-]	*	*	*	*	*	*	*	*	*	*	*	*
 *D:	*	*	*	*	*	*	*	*	*	*	*	*
-!!!OMD:Lent
+!!LO:TX:a:B:t=Lent
 *M6/8	*	*	*	*	*	*	*	*	*	*	*	*
-*	*v:1	*v:2	*v:3	*v:4	*v:5	*v:6	*v:7	*v:8	*v:9	*v:10	*v:11	*v:12
-*	*pline:1	*pline:2	*pline:3	*pline:4	*pline:5	*pline:6	*pline:7	*pline:8	*pline:9	*pline:10	*pline:11	*pline:12
-8d	I-	El-	Le	La	Em-	Quand	Qu'a-	Je	Ne	De	De	De
+*	*vv:1	*vv:2	*vv:3	*vv:4	*vv:5	*vv:6	*vv:7	*vv:8	*vv:9	*vv:10	*vv:11	*vv:12
+*	*pline:1Ha	*pline:2Ha	*pline:3Ha	*pline:4Ha	*pline:5Ha	*pline:6Ha	*pline:7Ha	*pline:8Ha	*pline:9Ha	*pline:10Ha	*pline:11Ha	*pline:12Ha
+{{8d	I-	Elle	Le	La	Em-	Quand	Qu'a-	Je	Ne	De	De	De
 =1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
-4.g	-sa-	-le	plus	chan-	-bar-	ell'	-vez-	pleur'	pleu-	la	la	la
-8b-	-beau	fit	jeu-	-son	-que	fut	-vous	mon	-rez	pre-	se-	troi-
-8a	s'y	un	-ne	que	dans	dans	donc,	an-	point,	-miè-	-con-	-siè-
+4.g	-sa-	fit	plus	chan-	-bar-	ell'	-vez-	pleur'	pleu-	la	la	la
+8b-	-beau	u-	jeu-	-son	-que	fut	-vous	mon	-rez	pre-	se-	troi-
+8a	s'y	-ne	-ne	que	dans	dans	donc,	an-	point,	-miè-	-con-	-siè-
 8cc	pro-	re-	des	tu	ma	la	la	-neau	la	-re	-de	-me
 =2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
 4.b-	-mè-	-con-	tren-	chan-	bar-	bar-	bel-	d'or-	bel-	plon-	plon-	plon-
-4.a	-ne	-tre,	-te,	-tes,	-que,	-que,	-le,	-(e),	-le.	-ge,	-ge,	-ge,
+4.a}	-ne	-tre	-te,	-tes,	-que,	-que,	-le,	-(e),	-le.	-ge,	-ge,	-ge,
 =3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
-8f	Le	De	Il	Je	Je	Ell'	Qu'a-	Dans	Je	Il	L'an-	Le
+*	*pline:1Hb	*pline:2Hb	*pline:3Hb	*pline:4Hb	*pline:5Hb	*pline:6Hb	*pline:7Hb	*pline:8Hb	*pline:9Hb	*pline:10Hb	*pline:11Hb	*pline:12Hb
+{8f	Le	De	Il	Je	Je	Ell'	Qu'a-	Dans	Je	Il	L'an-	Le
 8a	long	tren-	se	vou-	te	se	-vous	l'eau-	vous	n'a	-neau-	ga-
 8b-	de	-te	mit	-drais	la	mit	à	-z-il	le	rien	-z-a	-lant
 4g	son	ma-	à	la	chan-	à	tant	est	plon-	ra-	vol-	s'est
 8f	jar-	-te-	chan-	sa-	-te-	pleu-	pleu-	tom-	-ge-	-me-	-ti-	no-
 =4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
-4.g(	-din,	-lots;	-ter;	-voir;	-rai;	-rer;	-rer?	-bé;	-rai;	-né;	-gé;	-yé;
+(4.g	-din,	-lots;	-ter;	-voir;	-rai;	-rer;	-rer?	-bé;	-rai;	-né;	-gé;	-yé;
+*	*rp:ẽ	*rp:o	*rp:e	*rp:a	*rp:e	*rp:e	*rp:e	*rp:e	*rp:e	*rp:e	*rp:e	*rp:e
+*	*rf:x	*rf:lo	*rf:te	*rf:x	*rf:ʁe	*rf:ʁe	*rf:ʁe	*rf:be	*rf:ʁe	*rf:ne	*rf:ʒe	*rf:je
+*	*rs:x	*rs:Ra1	*rs:a1	*rs:x	*rs:a2	*rs:a2	*rs:a2	*rs:a3	*rs:a2	*rs:a4	*rs:a5	*rs:a6
 8g)	.	.	.	.	.	.	.	.	.	.	.	.
 8r	.	.	.	.	.	.	.	.	.	.	.	.
 !!LO:PB:g=original
 =:||	=:||	=:||	=:||	=:||	=:||	=:||	=:||	=:||	=:||	=:||	=:||	=:||
-8r	.	.	.	.	.	.	.	.	.	.	.	.
+8r}}	.	.	.	.	.	.	.	.	.	.	.	.
 =5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5
-*	*bis	*	*	*	*	*	*	*	*	*	*	*
-*	*v:1	*v:2	*v:3	*v:4	*v:5	*v:6	*v:7	*v:8	*v:9	*v:10	*v:11	*v:12
-*	*pline:1b7	*pline:2b7	*pline:3b7	*pline:4b7	*pline:5b7	*pline:6b7	*pline:7b7	*pline:8b7	*pline:9b7	*pline:10b7	*pline:11b7	*pline:12b7
-8g	Le	De	Il	Je	Je	Ell'	Qu'a-	Dans	Je	Il	L'an-	Le
+*	*pline:1Hbr	*pline:2Hbr	*pline:3Hbr	*pline:4Hbr	*pline:5Hbr	*pline:6Hbr	*pline:7Hbr	*pline:8Hbr	*pline:9Hbr	*pline:10Hbr	*pline:11Hbr	*pline:12Hbr
+{{8g	Le	De	Il	Je	Je	Ell'	Qu'a-	Dans	Je	Il	L'an-	Le
 8g	long	tren-	se	vou-	te	se	-vous	l'eau-	vous	n'a	-neau-	ga-
 8g	de	-te	mit	-drais	la	mit	à	-z-il	le	rien	-z-a	-lant
 4dd	son	ma-	à	la	chan-	à	tant	est	plon-	ra-	vol-	s'est
 8ee-	jar-	-te-	chan-	sa-	-te-	pleu-	pleu-	tom-	-ge-	-me-	-ti-	no-
 =6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6
 8dd	-din,	-lots,	-ter,	-voir,	-rai,	-rer,	-rer,	-bé,	-rai,	-né,	-gé,	-yé,
-*	*Xbis	*	*	*	*	*	*	*	*	*	*	*
-*	*refrain	*	*	*	*	*	*	*	*	*	*	*
-*	*italic	*	*	*	*	*	*	*	*	*	*	*
-8b-	Sur	.	.	.	.	.	.	.	.	.	.	.
-8g	le	.	.	.	.	.	.	.	.	.	.	.
-4cc	bord	.	.	.	.	.	.	.	.	.	.	.
-8cc	de	.	.	.	.	.	.	.	.	.	.	.
+*	*rp:ẽ	*rp:o	*rp:e	*rp:a	*rp:e	*rp:e	*rp:e	*rp:e	*rp:e	*rp:e	*rp:e	*rp:e
+*	*rf:x	*rf:lo	*rf:te	*rf:x	*rf:ʁe	*rf:ʁe	*rf:ʁe	*rf:be	*rf:ʁe	*rf:ne	*rf:ʒe	*rf:je
+*	*rs:x	*rs:Ra1	*rs:a1	*rs:x	*rs:a2	*rs:a2	*rs:a2	*rs:a3	*rs:a2	*rs:a4	*rs:a5	*rs:a6
+*	*pline:R1	*pline:R1	*pline:R1	*pline:R1	*pline:R1	*pline:R1	*pline:R1	*pline:R1	*pline:R1	*pline:R1	*pline:R1	*pline:R1
+*	*refrain	*refrain	*refrain	*refrain	*refrain	*refrain	*refrain	*refrain	*refrain	*refrain	*refrain	*refrain
+*	*italic	*italic	*italic	*italic	*italic	*italic	*italic	*italic	*italic	*italic	*italic	*italic
+8b-	Sur	Sur	Sur	Sur	Sur	Sur	Sur	Sur	Sur	Sur	Sur	Sur
+8g	le	le	le	le	le	le	le	le	le	le	le	le
+4cc	bord	bord	bord	bord	bord	bord	bord	bord	bord	bord	bord	bord
+8cc	de	de	de	de	de	de	de	de	de	de	de	de
 =7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7
-4cc(	l'î-	.	.	.	.	.	.	.	.	.	.	.
+(4cc	l'î-	l'î-	l'î-	l'î-	l'î-	l'î-	l'î-	l'î-	l'î-	l'î-	l'î-	l'î-
 8b-)	.	.	.	.	.	.	.	.	.	.	.	.
-4a	-le;	.	.	.	.	.	.	.	.	.	.	.
-*	*Xitalic	*	*	*	*	*	*	*	*	*	*	*
-*	*Xrefrain	*	*	*	*	*	*	*	*	*	*	*
-8r	.	.	.	.	.	.	.	.	.	.	.	.
+4a	-le;	-le;	-le;	-le;	-le;	-le;	-le;	-le;	-le;	-le;	-le;	-le;
+*	*rp:i	*rp:i	*rp:i	*rp:i	*rp:i	*rp:i	*rp:i	*rp:i	*rp:i	*rp:i	*rp:i	*rp:i
+*	*rf:x	*rf:x	*rf:x	*rf:x	*rf:x	*rf:x	*rf:x	*rf:x	*rf:x	*rf:x	*rf:x	*rf:x
+*	*rs:x	*rs:x	*rs:x	*rs:x	*rs:x	*rs:x	*rs:x	*rs:x	*rs:x	*rs:x	*rs:x	*rs:x
+*	*Xitalic	*Xitalic	*Xitalic	*Xitalic	*Xitalic	*Xitalic	*Xitalic	*Xitalic	*Xitalic	*Xitalic	*Xitalic	*Xitalic
+*	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain
+8r}	.	.	.	.	.	.	.	.	.	.	.	.
 !!LO:PB:g=original
 =8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8
-*	*bis	*	*	*	*	*	*	*	*	*	*	*
-*	*v:1	*v:2	*v:3	*v:4	*v:5	*v:6	*v:7	*v:8	*v:9	*v:10	*v:11	*v:12
-*	*pline:1b7	*pline:2b7	*pline:3b7	*pline:4b7	*pline:5b7	*pline:6b7	*pline:7b7	*pline:8b7	*pline:9b7	*pline:10b7	*pline:11b7	*pline:12b7
-8g	Le	De	Il	Je	Je	Ell'	Qu'a-	Dans	Je	Il	L'an-	Le
+*	*pline:1Hbr	*pline:2Hbr	*pline:3Hbr	*pline:4Hbr	*pline:5Hbr	*pline:6Hbr	*pline:7Hbr	*pline:8Hbr	*pline:9Hbr	*pline:10Hbr	*pline:11Hbr	*pline:12Hbr
+{8g	Le	De	Il	Je	Je	Ell'	Qu'a-	Dans	Je	Il	L'an-	Le
 8g	long	tren-	se	vou-	te	se	-vous	l'eau-	vous	n'a	-neau-	ga-
 8g	de	-te	mit	-drais	la	mit	à	-z-il	le	rien	-z-a	-lant
 4dd	son	ma-	à	la	chan-	à	tant	est	plon-	ra-	vol-	s'est
 8ee-	jar-	-te-	chan-	sa-	-te-	pleu-	pleu-	tom-	-ge-	-me-	-ti-	no-
 =9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9
 8dd	-din,	-lots,	-ter,	-voir,	-rai,	-rer,	-rer,	-bé,	-rai,	-né,	-gé,	-yé,
-*	*italic	*	*	*	*	*	*	*	*	*	*	*
-*	*refrain	*	*	*	*	*	*	*	*	*	*	*
-8b-	Sur	.	.	.	.	.	.	.	.	.	.	.
-8g	le	.	.	.	.	.	.	.	.	.	.	.
-4cc	bord	.	.	.	.	.	.	.	.	.	.	.
-8a	de	.	.	.	.	.	.	.	.	.	.	.
-*	*Xbis	*	*	*	*	*	*	*	*	*	*	*
+*	*rp:ẽ	*rp:o	*rp:e	*rp:a	*rp:e	*rp:e	*rp:e	*rp:e	*rp:e	*rp:e	*rp:e	*rp:e
+*	*rf:x	*rf:lo	*rf:te	*rf:x	*rf:ʁe	*rf:ʁe	*rf:ʁe	*rf:be	*rf:ʁe	*rf:ne	*rf:ʒe	*rf:je
+*	*rs:x	*rs:Ra1	*rs:a1	*rf:x	*rs:a2	*rs:a2	*rs:a2	*rs:a3	*rs:a2	*rs:a4	*rs:a5	*rs:a6
+*	*pline:R2	*pline:R2	*pline:R2	*pline:R2	*pline:R2	*pline:R2	*pline:R2	*pline:R2	*pline:R2	*pline:R2	*pline:R2	*pline:R2
+*	*refrain	*refrain	*refrain	*refrain	*refrain	*refrain	*refrain	*refrain	*refrain	*refrain	*refrain	*refrain
+*	*italic	*italic	*italic	*italic	*italic	*italic	*italic	*italic	*italic	*italic	*italic	*italic
+8b-	Sur	Sur	Sur	Sur	Sur	Sur	Sur	Sur	Sur	Sur	Sur	Sur
+8g	le	le	le	le	le	le	le	le	le	le	le	le
+4cc	bord	bord	bord	bord	bord	bord	bord	bord	bord	bord	bord	bord
+8a	de	de	de	de	de	de	de	de	de	de	de	de
 =10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10
-8f	l'eau,	.	.	.	.	.	.	.	.	.	.	.
-8a	Sur	.	.	.	.	.	.	.	.	.	.	.
-8cc	le	.	.	.	.	.	.	.	.	.	.	.
-8b-	bord	.	.	.	.	.	.	.	.	.	.	.
-8a	du	.	.	.	.	.	.	.	.	.	.	.
-8b-	vais-	.	.	.	.	.	.	.	.	.	.	.
+8f	l'eau,	l'eau,	l'eau,	l'eau,	l'eau,	l'eau,	l'eau,	l'eau,	l'eau,	l'eau,	l'eau,	l'eau,
+*	*rp:o	*rp:o	*rp:o	*rp:o	*rp:o	*rp:o	*rp:o	*rp:o	*rp:o	*rp:o	*rp:o	*rp:o
+*	*rf:lo	*rf:lo	*rf:lo	*rf:lo	*rf:lo	*rf:lo	*rf:lo	*rf:lo	*rf:lo	*rf:lo	*rf:lo	*rf:lo
+*	*rs:Ra1	*rs:Ra1	*rs:Ra1	*rs:Ra1	*rs:Ra1	*rs:Ra1	*rs:Ra1	*rs:Ra1	*rs:Ra1	*rs:Ra1	*rs:Ra1	*rs:Ra1
+*	*pline:R3	*pline:R3	*pline:R3	*pline:R3	*pline:R3	*pline:R3	*pline:R3	*pline:R3	*pline:R3	*pline:R3	*pline:R3	*pline:R3
+8a	Sur	Sur	Sur	Sur	Sur	Sur	Sur	Sur	Sur	Sur	Sur	Sur
+8cc	le	le	le	le	le	le	le	le	le	le	le	le
+8b-	bord	bord	bord	bord	bord	bord	bord	bord	bord	bord	bord	bord
+8a	du	du	du	du	du	du	du	du	du	du	du	du
+8b-	vais-	vais-	vais-	vais-	vais-	vais-	vais-	vais-	vais-	vais-	vais-	vais-
 =11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11
-2.g	-seau.	.	.	.	.	.	.	.	.	.	.	.
-*	*Xitalic	*	*	*	*	*	*	*	*	*	*	*
-*	*Xrefrain	*	*	*	*	*	*	*	*	*	*	*
+2.g	-seau.	-seau.	-seau.	-seau.	-seau.	-seau.	-seau.	-seau.	-seau.	-seau.	-seau.	-seau.
+*	*rp:o	*rp:o	*rp:o	*rp:o	*rp:o	*rp:o	*rp:o	*rp:o	*rp:o	*rp:o	*rp:o	*rp:o
+*	*rf:so	*rf:so	*rf:so	*rf:so	*rf:so	*rf:so	*rf:so	*rf:so	*rf:so	*rf:so	*rf:so	*rf:so
+*	*rs:Ra2	*rs:Ra2	*rs:Ra2	*rs:Ra2	*rs:Ra2	*rs:Ra2	*rs:Ra2	*rs:Ra2	*rs:Ra2	*rs:Ra2	*rs:Ra2	*rs:Ra2
+*	*Xitalic	*Xitalic	*Xitalic	*Xitalic	*Xitalic	*Xitalic	*Xitalic	*Xitalic	*Xitalic	*Xitalic	*Xitalic	*Xitalic
+*	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain
 8r	.	.	.	.	.	.	.	.	.	.	.	.
-4r	.	.	.	.	.	.	.	.	.	.	.	.
+4r}}	.	.	.	.	.	.	.	.	.	.	.	.
 ==	==	==	==	==	==	==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
 !!!EED: Isaac Howie
-!!!EEV: 2025/June/3
+!!!EEV: 2025/June/03
+!!!EED: Ève Poudrier
+!!!EEV: 2025/June/23
