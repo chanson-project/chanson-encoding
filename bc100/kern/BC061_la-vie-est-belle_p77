@@ -9,7 +9,7 @@
 !!!SMA: 2012 Bibliothèque nationale du Québec; Biblothèque nationale du Canada
 !!!AGN-Laforte: Chanson strophique (avec refrain intégré), 4:6(4,3,9/8), R:2(7,8)
 !!!AGN-type: Chanson de séduction
-!!!AGN-rime: mixtes, embrassées/suivies (RabbccddaR)
+!!!AGN-rime: suivies (Ra1a2a2a3a3Ra1), embrassées par le refrain
 **kern	**dynam	**text	**text	**text	**text
 *clefG2	*	*	*	*	*
 *k[b-]	*	*	*	*	*
@@ -32,7 +32,7 @@
 8a	.	-le,	-le,	-le,	-le,
 *	*	*rp:ɛ	*rp:ɛ	*rp:ɛ	*rp:ɛ
 *	*	*rf:ɛl,ə	*rf:ɛl,ə	*rf:ɛl,ə	*rf:ɛl,ə
-*	*	*rs:a1	*rs:a1	*rs:a1	*rs:a1
+*	*	*rs:Ra1	*rs:Ra1	*rs:Ra1	*rs:Ra1
 *	*	*Xitalic	*Xitalic	*Xitalic	*Xitalic
 *	*	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain
 *	*	*pline:1	*pline:7	*pline:13	*pline:19
@@ -121,7 +121,7 @@
 8g	.	-le,	-le,	-le,	-le,
 *	*	*rp:ɛ	*rp:ɛ	*rp:ɛ	*rp:ɛ
 *	*	*rf:ɛl,ə	*rf:ɛl,ə	*rf:ɛl,ə	*rf:ɛl,ə
-*	*	*rs:a1	*rs:a1	*rs:a1	*rs:a1
+*	*	*rs:Ra1	*rs:Ra1	*rs:Ra1	*rs:Ra1
 *	*	*pline:R2	*pline:R2	*pline:R2	*pline:R2
 8b-^	.	Bel-	Bel-	Bel-	Bel-
 8a	>	-le	-le	-le	-le
