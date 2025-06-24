@@ -1,0 +1,139 @@
+!!!id: BC061
+!!!page: 77
+!!!COM: Anonymous
+!!!PTL@@FR: Les 100 plus belles chansons
+!!!OTL@@FR: La vie est belle
+!!!PUB: La Bonne Chanson, inc.
+!!!YEM: On ne peut reproduire, enregistrer ou diffuser en tout ou en partie le présent ouvrage, sous quelque procédé que ce soit, électronique, mécanique, photographique, sonore, magnétique ou autre, sans avoir obtenu au préalable l'autorisation écrite de l'éditrice.
+!!!PDT: 2011
+!!!SMA: 2012 Bibliothèque nationale du Québec; Biblothèque nationale du Canada
+!!!AGN-Laforte: Chanson strophique (avec refrain intégré), 4:6(4,3,9/8), R:2(7,8)
+!!!AGN-type: Chanson de séduction
+!!!AGN-rime: mixtes, embrassées/suivies (RabbccddaR)
+**kern	**dynam	**text	**text	**text	**text
+*clefG2	*	*	*	*	*
+*k[b-]	*	*	*	*	*
+*F:	*	*	*	*	*
+*M3/4	*	*	*	*	*
+*	*	*v:1	*v:2	*v:3	*v:4
+*	*	*pline:R1	*pline:R1r	*pline:R1r	*pline:R1r
+!!LO:TX:a:i:t=Animé et chaleureux
+*	*	*refrain	*refrain	*refrain	*refrain
+*	*	*italic	*italic	*italic	*italic
+{8.cc	.	Mes	Mes	Mes	Mes
+16cc	.	a-	a-	a-	a-
+=1	=1	=1	=1	=1	=1
+4a	.	-mis,	-mis,	-mis,	-mis,
+4ff	>	la	la	la	la
+8dd	)	vie	vie	vie	vie
+8dd	]	est	est	est	est
+=2	=2	=2	=2	=2	=2
+4cc	.	bel-	bel-	bel-	bel-
+8a	.	-le,	-le,	-le,	-le,
+*	*	*rp:ɛ	*rp:ɛ	*rp:ɛ	*rp:ɛ
+*	*	*rf:ɛl,ə	*rf:ɛl,ə	*rf:ɛl,ə	*rf:ɛl,ə
+*	*	*rs:a1	*rs:a1	*rs:a1	*rs:a1
+*	*	*Xitalic	*Xitalic	*Xitalic	*Xitalic
+*	*	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain
+*	*	*pline:1	*pline:7	*pline:13	*pline:19
+8cc	.	Mal-	Dans	À	Quamd
+8dd	.	-gré	nos	qui	près
+8cc	.	les	gam-	la	du
+!!LO:PB:g=original
+=3	=3	=3	=3	=3	=3
+4b-	.	pei-	-ba-	don-	ter-
+8g	.	-nes	-des,	-ne	-me,
+*	*	*rp:ɛ	*rp:a	*rp:ɔ	*rp:ɛ
+*	*	*rf:ɛn,ə	*rf:ad,ə	*rf:ɔn,ə	*rf:ɛʁm,ə
+*	*	*rs:a2	*rs:b1	*rs:d	*rs:a5
+*	*	*pline:2	*pline:8	*pline:14	*pline:20
+8b-	.	Qui	Nos	Quand	Les
+8cc	.	nous	es-	l'heu-	yeux
+8b-	.	en-	-ca-	-re	se
+=4	=4	=4	=4	=4	=4
+4a	.	-chaî-	-la-	son-	fer-
+4f}	.	-nent.	des.	-ne;	-ment.
+*	*	*rp:ɛː	*rp:a	*rp:ɔ	*rp:ɛ
+*	*	*rf:ɛːn,ə	*rf:ad,ə	*rf:ɔn,ə	*rf:ɛʁm,ə
+*	*	*rs:a2	*rs:b1	*rs:d	*rs:a5
+*	*	*pline:3	*pline:9	*pline:15	*pline:21
+{8.g	.	Â-	Aux	Âm[e]	Pour
+16a	.	-mes	é-	ar-	ba-
+=5	=5	=5	=5	=5	=5
+4b-	.	clai-	-cou-	-den-	-ga-
+4g	.	-res,	-tes	-te	-ge,
+*	*	*rp:ɛː	*rp:u	*rp:ɑ̃	*rp:a
+*	*	*rf:ɛːʁ,ə	*rf:ut,ə	*rf:ɑ̃t,ə	*rf:aʒ,ə
+*	*	*rs:a3	*rs:c	*rs:e	*rs:b2
+*	*	*pline:4	*pline:10	*pline:16	*pline:22
+8.a	.	Voix	Sur	Pal-	Du
+16b-	.	lé-	la	-pi-	cou-
+!!LO:PB:g=original
+=6	=6	=6	=6	=6	=6
+4cc	.	-gè-	rou-	-tan-	-ra-
+4a	.	-res,	-te	te,	-ge,
+*	*	*rp:ɛː	*rp:u	*rp:ɑ̃	*rp:a
+*	*	*rf:ɛːʁ,ə	*rf:ut,ə	*rf:ɑ̃t,ə	*rf:aʒ,ə*
+*	*	*rs:a3	*rs:c	*rs:e	*rs:b2
+*	*	*pline:5	*pline:11	*pline:17	*pline:23
+!!LO:TX:a:i:t=cresc.
+8.g	.	Sans	Quand	Pour	Quand
+16a	.	un	la	ser-	vien-
+=7	=7	=7	=7	=7	=7
+8b-	.	sou	voix	-vir	-dra
+8b-	.	au	du	son	pour
+8b-	.	fond	pau-	Dieu	nous
+8g	.	de	-vre	et	l'ins-
+8a	.	l'es-	nous	sa	tant
+8b-	.	-car-	ap-	pa-	su-
+=8	=8	=8	=8	=8	=8
+!!LO:TX:a:i:t=plus large
+4cc	.	-cel-	-pel-	-tri-	-prê-
+4a}	.	-le,	-le,	-e	-me,
+*	*	*rp:ɛ	*rp:ɛ	*rp:i	*rp:ɛː
+*	*	*rf:sɛl,ə	*rf:ɛl,ə	*rf:i,ə	*rf:ɛːm,ə
+*	*	*rs:a4	*rs:a1	*rs:f	*rs:a6
+*	*	*pline:6	*pline:12	*pline:18	*pline:24
+{8f	.	Chan-	Ou-	Nous	No-
+8f	.	-tons	-vrons	sau-	-tre
+!!LO:PB:g=original
+=9	=9	=9	=9	=9	=9
+8b-	.	au	u-	-rons	cœur
+8dd	.	so-	-ne	of-	di-
+4ff	.	-leil	main	-frir	-ra
+8ee	.	qui	fra-	no-	tout
+8dd	.	ruis-	-ter-	-tre	de
+=10	=10	=10	=10	=10	=10
+!!LO:TX:a:B:t=a T°
+4cc	.	sel-	-nel-	vi-	mê-
+8a	.	-le,	-le,	-e!	-me:
+*	*	*rp:ɛ	*rp:ɛ	*rp:i	*rp:ɛː
+*	*	*rf:sɛl,ə	*rf:ɛl,ə	*rf:i,ə	*rf:rs:a6ɛːm,ə
+*	*	*rs:a4	*rs:a1	*rs:f	*
+*	*	*pline:R1b4	*pline:R1b4	*pline:R1b4	*pline:R1b4
+*	*	*refrain	*refrain	*refrain	*refrain
+*	*	*italic	*italic	*italic	*italic
+8cc	.	La	La	La	La
+8dd	.	vie	vie	vie	vie
+8cc	.	est	est	est	est
+=11	=11	=11	=11	=11	=11
+4b-	.	bel-	bel-	bel-	bel-
+8g	.	-le,	-le,	-le,	-le,
+*	*	*rp:ɛ	*rp:ɛ	*rp:ɛ	*rp:ɛ
+*	*	*rf:ɛl,ə	*rf:ɛl,ə	*rf:ɛl,ə	*rf:ɛl,ə
+*	*	*rs:a1	*rs:a1	*rs:a1	*rs:a1
+*	*	*pline:R2	*pline:R2	*pline:R2	*pline:R2
+8b-^	.	Bel-	Bel-	Bel-	Bel-
+8a	>	-le	-le	-le	-le
+8g	)	tou-	tou-	tou-	tou-
+=12	=12	=12	=12	=12	=12
+2f;}	]	-jours!	-jours!	-jours!	-jours!
+*	*	*rp:u	*rp:u	*rp:u	*rp:u
+*	*	*rf:x	*rf:x	*rf:x	*rf:x
+*	*	*rs:x	*rs:x	*rs:x	*rs:x
+*	*	*Xitalic	*Xitalic	*Xitalic	*Xitalic
+*	*	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain
+==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-
+!!!EED: Ève Poudrier
+!!!EEV: 2025/June/23
