@@ -1,0 +1,124 @@
+!!!id: BC044
+!!!page: 56
+!!!COM: Paroles et musique de E. JACQUES-DALCROZE
+!!!LYR:
+!!!PTL@@FR: Les 100 plus belles chansons
+!!!OTL@@FR: Le coeur de ma mie
+!!!PUB:La Bonne Chanson, inc.
+!!!YEM: On ne peut reproduire, enregistrer ou diffuser en tout ou en partie le présent ouvrage, sous quelque procédé que ce soit, électronique, mécanique, photographique, sonore, magnétique ou autre, sans avoir obtenu au préalable l'autorisation écrite de l'éditrice.
+!!!PDT: 2011
+!!!SMA:2012 Bibliothèque nationale du Québec; Biblothèque nationale du Canada
+!!!AGN-Laforte: Chanson strophique (avec refrain), 3:4(6), R(13+13)
+!!!AGN-type: Amour?
+!!!AGN-rime: suivies (aabb)
+**kern		**dynam	**text	**text	**text
+*clefG2		*	*	*	*
+*k[]		*	*	*	*
+*D:		*	*	*	*
+!! Allegro moderato
+*M2/4		*	*	*	*
+*		*	*refrain	*	*
+*^		*	*	*	*
+!!LO:TX:a:t=[segno]
+!!LO:TX:a:B:t=Allegro modᵗᵒ
+!!LO:TX:a:B:t=REFRAIN
+{{4g	4g	pp	Le	.	.
+=1	=1	=1	=1	=1	=1
+4e	4c	.	cœur	.	.
+4g	4e	.	de	.	.
+4g	4e	.	ma	.	.
+=2	=2	=2	=2	=2	=2
+4f	4d	.	mie	.	.
+4g	4B	.	est	.	.
+4g	4B	.	pe-	.	.
+=3	=3	=3	=3	=3	=3
+4f	4d	<	-tit,	.	.
+8f	8f	(	tout	.	.
+8g	8f	(	pe-	.	.
+8b	8f	(	-tit,	.	.
+*	*	*	*rp:i	*	*
+*	*	*	*rf:i	*	*
+*	*	*	*rs:a	*	*
+*	*	*	*bis	*	*
+8dd	8f	[	pe-	.	.
+=4	=4	=4	=4	=4	=4
+4cc}	4e	>	-tit;	.	.
+*	*	*	*Xbis	*	*
+{4g	4e	]	J'en	.	.
+4g	4e	.	ai	.	.
+=5	=5	=5	=5	=5	=5
+4e	4c	.	l'â-	.	.
+4g	4e	.	-me	.	.
+4g	4e	.	ra-	.	.
+=6	=6	=6	=6	=6	=6
+4f	4d	.	-vie,	.	.
+4g	4B	.	Mon	.	.
+4g	4B	.	a-	.	.
+=7	=7	=7	=7	=7	=7
+4f	4d	.	-mour	.	.
+(8fL	4f	<	le	.	.
+8gJ)	.	(	.	.	.
+(8bL	4f	(	rem-	.	.
+8ddJ)	.	[	.	.	.
+!!LO:TX:a:B:t=FIN
+=8	=8	=8	=8	=8	=8
+4cc}}	4e	.	-plit.	.	.
+*	*	*	*rp:i	*	*
+*	*	*	*rf:i	*	*
+*	*	*	*rs:a	*	*
+=||	=||	=||	=||	=||	=||
+*v	*v	*	*	*	*
+*		*	*vv:1	*vv:2	*vv:3
+*		*	*pline:1	*pline:3	*pline:5
+{{4cc		mf	Si	Plus	Et
+!!LO:TX:a:t=Couplets
+4cc		.	le	que	si
+=9		=9	=9	=9	=9
+4b		.	cœur	l'cœur	mon
+4a		.	de	de	cœur
+4a		.	ma	ma	qui
+=10		=10	=10	=10	=10
+4dd		.	mie	bell',	l'aim'
+4g		.	N'é-	Mon	É-
+4g		.	-tait	cœur	-tait
+=11		=11	=11	=11	=11
+4g		.	pas	à	en-
+4f#		.	si	moi	-cor
+4f#		.	pe-	est	plus
+=12		=12	=12	=12	=12
+4b}		.	-tit,	grand,	grand,
+*		*	*rp:i	*rp:ʁɑ̃	*ʁɑ̃
+*		*	*rf:i	*rf:ɑ̃	*ɑ̃
+*		*	*rs:a	*rs:b1	*b1
+*		*	*pline:2	*pline:4	*pline:6
+{4b		.	En	Mais	Ne
+4b		.	ce	ne	ren-
+=13		=13	=13	=13	=13
+4b		<	cœur	ren-	-fer-
+4a		(	y au-	-fer-	-m'rait
+4a		[	-rait	-me	quand
+=14		=14	=14	=14	=14
+!!!elision: v1: plac' = place
+!!!elision: v2: qu'ell' = qu'elle
+4ee		.	plac'	qu'ell',	mê-
+4dd		.	Pour	Les	-me
+!!!elision: v2: homm's = hommes
+4g		.	plus	homm's,	Qu'un
+=15		=15	=15	=15	=15
+!!LO:TX:a:i:t=rall.
+4cc		.	d'un	c'est	seul
+4b		>	bon	dif-	sen-
+4a		)	a-	-fé-	-ti-
+=16		=16	=16	=16	=16
+*^		*	*	*	*
+4g	2g;	)	-mi.	-rent.	-ment.
+*	*	*	*rp:i	*rp:ʁɑ̃	*ɑ̃
+*	*	*	*rf:i	*rf:ɑ̃	*ɑ̃
+*	*	*	*rs:a	*rs:b1	*b2
+4g;}}	.	]	Mais	.	.
+*v	*v	*	*	*	*
+!!LO:TX:a:t=[segno]
+==		==	==	==	==
+*-		*-	*-	*-	*-
+!!!EED: Isaac Howie
+!!!EEV: 2025/June/24
