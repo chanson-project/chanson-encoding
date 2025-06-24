@@ -9,7 +9,7 @@
 !!!SMA: 2012 Bibliothèque nationale du Québec; Biblothèque nationale du Canada
 !!!AGN-type: Chanson
 !!!AGN-Laforte: 1:11(9)
-!!!AGN-rhyme:abcdef
+!!!AGN-rhyme:regular
 **kern	**dynam	**text
 *clefG2	*	*
 *k[b-e-]	*	*
@@ -32,8 +32,8 @@
 =4	=4	=4
 4b-	.	-a!
 *	*	*rp:a
-*	*	*rf:a
-*	*	*rs:a
+*	*	*rf:x
+*	*	*rs:x
 4r	.	.
 (4cc	.	Rei-
 q16ddL	.	.
@@ -46,8 +46,8 @@ q16ccJ)	.	.
 =5	=5	=5
 4b-	.	cieux,
 *	*	*rp:ø
-*	*	*rf:sjø
-*	*	*rs:b
+*	*	*rf:x
+*	*	*rs:x
 8r	.	.
 8dd	.	Vers
 8dd.	.	Toi
@@ -62,8 +62,8 @@ q16ccJ)	.	.
 (4dd	>	-è-
 8cc.#)	)	-re,
 *	*	*rp:ɛː
-*	*	*rf:ɛːʁ
-*	*	*rs:c
+*	*	*rf:x
+*	*	*rs:x
 16a	]	En-
 8.cc	.	-tends
 16b-	.	la
@@ -78,8 +78,8 @@ q16ccJ)	.	.
 =7	=7	=7
 [4b-	.	-fant;
 *	*	*rp:ã
-*	*	*rf:fã
-*	*	*rs:d
+*	*	*rf:x
+*	*	*rs:x
 8b-]	.	.
 16dd	.	Con-
 16cc	.	-fi-
@@ -95,8 +95,8 @@ q16ccJ)	.	.
 =8	=8	=8
 [4cc	>	-cours:
 *	*	*rp:u
-*	*	*rf:uʁ
-*	*	*rs:e
+*	*	*rf:x
+*	*	*rs:x
 (24cc]	)	.
 24g	]	Don-
 24a)	.	-ne-
@@ -108,8 +108,8 @@ q16b-J	.	.
 !the tuplet should be next to the beam	!	!
 4f	.	paix!
 *	*	*rp:ɛ
-*	*	*rf:pɛ
-*	*	*rs:f
+*	*	*rf:x
+*	*	*rs:x
 8r	.	.
 4f	.	Mon
 !!linebreak:original
@@ -124,8 +124,8 @@ q16b-J	.	.
 32ddJ)	.	.
 8b-	.	-re
 *	*	*rp:ɛː
-*	*	*rf:ɛːʁ
-*	*	*rs:c
+*	*	*rf:x
+*	*	*rs:x
 8r	.	.
 8b-	.	N'a
 =10	=10	=10
@@ -140,8 +140,8 @@ q16b-J	.	.
 24cc)	>	a-
 4b-	]	-mour.
 *	*	*rp:u
-*	*	*rf:uʁ
-*	*	*rs:e
+*	*	*rf:x
+*	*	*rs:x
 8r	.	.
 8b-	.	Pi-
 !!linebreak:original
@@ -157,8 +157,8 @@ q16b-J	.	.
 32ee-J)	)	.
 8ee-	]	-re,
 *	*	*rp:ɛː
-*	*	*rf:ɛːʁ
-*	*	*rs:c
+*	*	*rf:x
+*	*	*rs:x
 8.r	.	.
 16g	.	Con-
 =12	=12	=12
@@ -173,12 +173,13 @@ q16b-J	.	.
 24b-)	)	Jé-
 [4cc	]	-sus.
 *	*	*rp:y
-*	*	*rf:zy
-*	*	*rs:g
+*	*	*rf:x
+*	*	*rs:x
 8cc]	.	.
 8r	.	.
 !!linebreak:original
 =13	=13	=13
+*	*	*pline:1a5
 4.b-	<	A-
 16a	[	-ve
 16b-	.	Ma-
@@ -187,8 +188,8 @@ q16b-J	.	.
 =14	=14	=14
 4b-/	.	-a!
 *	*	*rp:a
-*	*	*rf:a
-*	*	*rs:a
+*	*	*rf:x
+*	*	*rs:x
 4r	.	.
 2r	.	.
 =15	=15	=15
