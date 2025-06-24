@@ -10,7 +10,7 @@
 !!!SMA:2012 Bibliothèque nationale du Québec; Biblothèque nationale du Canada
 !!!AGN-Laforte: Chanson en laisse (avec refrain), 8:1(8+8).
 !!!AGN-type: Chanson patriotique
-!!!AGN-rime: monorime (aa) avec hémistiches en rime.
+!!!AGN-rime: monorime (aa) [ɑ] avec hémistiches en rime.
 **kern	**text	**text	**text	**text	**text	**text	**text	**text
 *clefG2	*	*	*	*	*	*	*	*
 *k[b-e-]	*	*	*	*	*	*	*	*
@@ -29,19 +29,22 @@
 8g	vail-	chan-	fer-	et	en-	con-	pour-	-te-
 =2	=2	=2	=2	=2	=2	=2	=2	=2
 4.f	-lant,	-tant,	-vent,	franc,	-fants,	-stant,	-tant,	-ment,
-*	*refrain	*	*	*	*	*	*	*
-*	*italic	*	*	*	*	*	*	*
-4b-	En	.	.	.	.	.	.	.
-8cc	rou-	.	.	.	.	.	.	.
+*	*rp:jɑ̃	*rp:tɑ̃	*rp:vɑ̃	*rp:ʁɑ̃	*rp:fɑ̃	*rp:tɑ̃	*rp:tɑ̃	*rp:mɑ̃
+*	*rf:ɑ̃	*rf:ɑ̃	*rf:ɑ̃	*rf:ɑ̃	*rf:ɑ̃	*rf:ɑ̃	*rf:ɑ̃	*rf:ɑ̃
+*	*rs:a1	*rs:a2	*rs:a3	*rs:a4	*rs:a5	*rs:a2	*rs:a2	*rs:a6
+*	*refrain	*refrain	*refrain	*refrain	*refrain	*refrain	*refrain	*refrain
+*	*italic	*italic	*italic	*italic	*italic	*italic	*italic	*italic
+4b-	En	En	En	En	En	En	En	En
+8cc	rou-	rou-	rou-	rou-	rou-	rou-	rou-	rou-
 !!LO:PB:g=original
 =3	=3	=3	=3	=3	=3	=3	=3	=3
-4b-	-lant	.	.	.	.	.	.	.
-8f	ma	.	.	.	.	.	.	.
-4.g	bou-	.	.	.	.	.	.	.
+4b-	-lant	-lant	-lant	-lant	-lant	-lant	-lant	-lant
+8f	ma	ma	ma	ma	ma	ma	ma	ma
+4.g	bou-	bou-	bou-	bou-	bou-	bou-	bou-	bou-
 =4	=4	=4	=4	=4	=4	=4	=4	=4
-4f	-le,	.	.	.	.	.	.	.
-*	*Xrefrain	*	*	*	*	*	*	*
-*	*Xitalic	*	*	*	*	*	*	*
+4f	-le,	-le,	-le,	-le,	-le,	-le,	-le,	-le,
+*	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain
+*	*Xitalic	*Xitalic	*Xitalic	*Xitalic	*Xitalic	*Xitalic	*Xitalic	*Xitalic
 =:|	=:|	=:|	=:|	=:|	=:|	=:|	=:|	=:|
 *	*pline:1Hb	*pline:2Hb	*pline:3Hb	*pline:4Hb	*pline:5Hb	*pline:6Hb	*pline:7Hb	*pline:8Hb
 8f	Est	Re-	A	Hos-	Il	En	Quit-	Il
@@ -55,44 +58,49 @@
 !!LO:PB:g=original
 =6	=6	=6	=6	=6	=6	=6	=6	=6
 4cc	-tent,	-tant,	-vent,	-lant,	-ment,	-tant,	-rents,	-ment,
-*	*refrain	*	*	*	*	*	*	*
-*	*italic	*	*	*	*	*	*	*
-8b-	Rou-	.	.	.	.	.	.	.
-4dd	li,	.	.	.	.	.	.	.
-4b-	rou-	.	.	.	.	.	.	.
+*	*rp:tɑ̃	*rp:tɑ̃	*rp:vɑ̃	*rp:lɑ̃	*rp:mɑ̃	*rp:tɑ̃	*rp:ʁɑ̃	*rp:mɑ̃
+*	*rf:ɑ̃	*rf:ɑ̃	*rf:ɑ̃	*rf:ɑ̃	*rf:ɑ̃	*rf:ɑ̃	*rf:ɑ̃	*rf:ɑ̃
+*	*rs:a2	*rs:a2	*rs:a3	*rs:a1	*rs:a6	*rs:a2	*rs:a4	*rs:a6
+*	*refrain	*refrain	*refrain	*refrain	*refrain	*refrain	*refrain	*refrain
+*	*italic	*italic	*italic	*italic	*italic	*italic	*italic	*italic
+8b-	Rou-	Rou-	Rou-	Rou-	Rou-	Rou-	Rou-	Rou-
+4dd	li,	li,	li,	li,	li,	li,	li,	li,
+4b-	rou-	rou-	rou-	rou-	rou-	rou-	rou-	rou-
 =7	=7	=7	=7	=7	=7	=7	=7	=7
-4cc	-lant,	.	.	.	.	.	.	.
-8b-	ma	.	.	.	.	.	.	.
-8dd	bou-	.	.	.	.	.	.	.
-8cc	-le	.	.	.	.	.	.	.
-8b-	rou-	.	.	.	.	.	.	.
+4cc	-lant,	-lant,	-lant,	-lant,	-lant,	-lant,	-lant,	-lant,
+8b-	ma	ma	ma	ma	ma	ma	ma	ma
+8dd	bou-	bou-	bou-	bou-	bou-	bou-	bou-	bou-
+8cc	-le	-le	-le	-le	-le	-le	-le	-le
+8b-	rou-	rou-	rou-	rou-	rou-	rou-	rou-	rou-
 =8	=8	=8	=8	=8	=8	=8	=8	=8
-4.cc	-lant,	.	.	.	.	.	.	.
-4dd	En	.	.	.	.	.	.	.
-8cc	rou-	.	.	.	.	.	.	.
+4.cc	-lant,	-lant,	-lant,	-lant,	-lant,	-lant,	-lant,	-lant,
+4dd	En	En	En	En	En	En	En	En
+8cc	rou-	rou-	rou-	rou-	rou-	rou-	rou-	rou-
 !!LO:PB:g=original
 =9	=9	=9	=9	=9	=9	=9	=9	=9
-4b-	-lant	.	.	.	.	.	.	.
-8f	ma	.	.	.	.	.	.	.
-8g	bou-	.	.	.	.	.	.	.
-8f	-le	.	.	.	.	.	.	.
-8g	rou-	.	.	.	.	.	.	.
+4b-	-lant	-lant	-lant	-lant	-lant	-lant	-lant	-lant
+8f	ma	ma	ma	ma	ma	ma	ma	ma
+8g	bou-	bou-	bou-	bou-	bou-	bou-	bou-	bou-
+8f	-le	-le	-le	-le	-le	-le	-le	-le
+8g	rou-	rou-	rou-	rou-	rou-	rou-	rou-	rou-
 =10	=10	=10	=10	=10	=10	=10	=10	=10
-4.f	-lant,	.	.	.	.	.	.	.
-4dd	En	.	.	.	.	.	.	.
-8cc	rou-	.	.	.	.	.	.	.
+4.f	-lant,	-lant,	-lant,	-lant,	-lant,	-lant,	-lant,	-lant,
+4dd	En	En	En	En	En	En	En	En
+8cc	rou-	rou-	rou-	rou-	rou-	rou-	rou-	rou-
 =11	=11	=11	=11	=11	=11	=11	=11	=11
-4b-	lant	.	.	.	.	.	.	.
-8f	ma	.	.	.	.	.	.	.
-(4g	bou-	.	.	.	.	.	.	.
+4b-	lant	lant	lant	lant	lant	lant	lant	lant
+8f	ma	ma	ma	ma	ma	ma	ma	ma
+(4g	bou-	bou-	bou-	bou-	bou-	bou-	bou-	bou-
 8a)	.	.	.	.	.	.	.	.
 =12	=12	=12	=12	=12	=12	=12	=12	=12
-4b-	-le.	.	.	.	.	.	.	.
-*	*Xitalic	*	*	*	*	*	*	*
-*	*Xrefrain	*	*	*	*	*	*	*
+4b-	-le.	-le.	-le.	-le.	-le.	-le.	-le.	-le.
+*	*Xitalic	*Xitalic	*Xitalic	*Xitalic	*Xitalic	*Xitalic	*Xitalic	*Xitalic
+*	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain
 ==	==	==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-	*-	*-
 !!!EED: Isaac Howie
 !!!EEV: 2025/May/20
 !!!EED: Ève Poudrier
 !!!EEV: 2025/June/23
+!!!EED: Isaac Howie
+!!!EEV: 2025/June/24
