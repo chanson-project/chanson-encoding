@@ -1,0 +1,125 @@
+!!!id: BC060
+!!!page: 76
+!!!COM: Anonymous (Valse populaire du pays Romand)
+!!!PTL@@FR: Les 100 plus belles chansons
+!!!OTL@@FR: La jardinière du Roi
+!!!PUB: La Bonne Chanson, inc.
+!!!YEM: On ne peut reproduire, enregistrer ou diffuser en tout ou en partie le présent ouvrage, sous quelque procédé que ce soit, électronique, mécanique, photographique, sonore, magnétique ou autre, sans avoir obtenu au préalable l'autorisation écrite de l'éditrice.
+!!!PDT: 2011
+!!!SMA: 2012 Bibliothèque nationale du Québec; Biblothèque nationale du Canada
+!!!AGN-Laforte: Chanson strophique (avec refrain intégré), 4:4(6); a possible alternative is chanson en laisse avec rhyming hémistiches.
+!!!AGN-type: Chanson de séduction
+!!!AGN-rime: suivies (aabb), entrecoupées du refrain en monorime /wa/ (aRaRbRbR)
+**kern	**text	**text	**text	**text
+*clefG2	*	*	*	*
+*k[f#c#]	*	*	*	*
+*D:	*	*	*	*
+!!LO:TX:a:B:t=Allegretto
+*M3/4	*	*	*	*
+*	*v:1	*v:2	*v:3	*v:4
+*	*pline:1	*pline:5	*pline:9	*pline:13
+{4a	On	À	Qui	Aux
+=1	=1	=1	=1	=1
+4.a	dit	l'au-	t'aim[e]	fê-
+8b	que	be	à	-tes
+8a	la	quand	la	de
+8f#	plus	j'ar-	fo-	la
+=2	=2	=2	=2	=2
+(4d	fiè-	-ro-	-li-	Rei-
+4d)}	-re,	-se,	-e?	-ne,
+*	*rp:ɛː	*rp:o	*rp:i	*rp:ɛː
+*	*rf:jɛːʁ,ə	*rf:oz,ə	*rf:ɔli,ə	*rf:ɛːn,ə
+*	*rs:a1	*rs:c	*rs:e	*rs:a2
+*	*refrain	*refrain	*refrain	*refrain
+*	*italic	*italic	*italic	*italic
+{4dd	C'est	Crois-	C'est	Crois-
+=3	=3	=3	=3	=3
+2cc#	toi,	-moi,	moi,	-moi,
+*	*bis	*bis	*bis	*bis
+4ee	c'est	crois-	c'est	crois-
+!!LO:PB:g=original
+=4	=4	=4	=4	=4
+2g,}	toi,	-moi,	moi,	-moi,
+*	*Xbis	*Xbis	*Xbis	*Xbis
+*	*Xitalic	*Xitalic	*Xitalic	*Xitalic
+*	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain
+*	*pline:2	*pline:6	*pline:10	*pline:14
+{4g	Toi,	A-	Qui	J'i-
+=5	=5	=5	=5	=5
+4.g	pau-	-vec	est	-rai
+8a	-vre	mes	la	con-
+8g	jar-	fleurs	plus	-ter
+8e	-di-	je	jo-	mes
+=6	=6	=6	=6	=6
+(4c#	-niè-	cau-	-li-	pei-
+4c#)}	-re	-se	-e?	-nes
+*	*rp:ɛː	*rp:o	*rp:i	*rp:ɛ
+*	*rf:jɛːʁ,ə	*rf:oz,ə	*rf:ɔli,ə	*rf:ɛn,ə
+*	*rs:a1	*rs:c	*rs:e	*rs:a2
+*	*refrain	*refrain	*refrain	*refrain
+*	*italic	*italic	*italic	*italic
+{4cc#	du	De	C'est	Au
+=7	=7	=7	=7	=7
+2dd	Roi,	toi,	toi,	Roi,
+*	*bis	*bis	*bis	*bis
+4ff#	du	de	c'est	au
+!!LO:PB:g=original
+=8	=8	=8	=8	=8
+2a,}	Roi;	toi;	toi.	Roi;
+*	*Xbis	*Xbis	*Xbis	*Xbis
+*	*Xitalic	*Xitalic	*Xitalic	*Xitalic
+*	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain
+*	*pline:3	*pline:7	*pline:11	*pline:15
+{4a	Et	Par-	Et	Et
+=9	=9	=9	=9	=9
+4.a	quand	-mi	cell[e]	nous
+8b	le	ces	en	se-
+8a	roi	fleurs	qui	-rons,
+8f#	re-	nou-	j'es-	j'es-
+=10	=10	=10	=10	=10
+(4d	-gar-	vel-	-pè-	-pè-
+4d)}	-de,	les,	-re,	-re,
+*	*rp:a	*rp:ɛ	*rp:ɛː	*rp:ɛː
+*	*rf:aʁd,ə	*rf:ɛl,ə	*rf:ɛːʁ,ə	*rf:ɛːʁ,ə
+*	*rs:b	*rs:d	*rs:a1	*rs:a1
+*	*refrain	*refrain	*refrain	*refrain
+*	*italic	*italic	*italic	*italic
+{4ff#	Crois-	Crois-	C'est	Toi,
+=11	=11	=11	=11	=11
+2ee	-moi,	-moi,	toi,	moi,
+*	*bis	*bis	*bis	*bis
+4dd	crois-	crois-	c'est	moi,
+!!LO:PB:g=original
+=12	=12	=12	=12	=12
+2b,}	-moi,	-moi,	toi;	toi,
+*	*Xbis	*Xbis	*Xbis	*Xbis
+*	*Xitalic	*Xitalic	*Xitalic	*Xitalic
+*	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain
+*	*pline:4	*pline:8	*pline:12	*pline:16
+{4b	Tou-	Je	L'a-	Jar-
+=13	=13	=13	=13	=13
+4.cc#	-jours	cueil-	-mi	-di-
+8b	il	-le	le	-nier
+8a	ne	les	plus	et
+!"prends" (in original) should be "prend"	!	!	!	!
+8b	prends	plus	sin-	jar-
+=14	=14	=14	=14	=14
+4a	gar-	bel-	-cè-	-di-
+4b	-de	-les	-re,	-nièr[e]
+*	*rp:a	*rp:ɛ	*rp:ɛː	*rp:ɛː
+*	*rf:aʁd,ə	*rf:ɛl,ə	*rf:ɛːʁ,ə	*rf:jɛːʁ
+*	*rs:b	*rs:d	*rs:a1	*rs:a1
+*	*refrain	*refrain	*refrain	*refrain
+*	*italic	*italic	*italic	*italic
+4cc#	Qu'à	Pour	C'est	Du
+=15	=15	=15	=15	=15
+2dd	toi!	toi!	moi!	Roi!
+*	*Xitalic	*Xitalic	*Xitalic	*Xitalic
+*	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain
+4r	.	.	.	.
+=16	=16	=16	=16	=16
+4r	.	.	.	.
+4r}	.	.	.	.
+==	==	==	==	==
+!!!EED: Ève Poudrier
+!!!EEV: 2025/June/23

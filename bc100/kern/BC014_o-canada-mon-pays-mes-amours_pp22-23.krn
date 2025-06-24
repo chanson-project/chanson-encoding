@@ -1,24 +1,25 @@
 !!!ID:BC014
 !!!PAGE:22-23
-!!!COM: Folklore francais
+!!!COM: Labelle, Jean-Baptiste
+!!!LYR: Cartier, George-Étienne
 !!!PTR@@FR: Les 100 plus belles chansons
-!!!OTL@@FR: O Canada, mon pays, mes amours!
+!!!OTL@@FR: Ô Canada, mon pays, mes amours!
 !!!PUB: La Bonne Chanson, inc.
 !!!PDT: 2011
 !!!YEM: On ne peut reproduire, enregistrer ou diffuser en tout ou en partie le présent ouvrage, sous quelque procédé que ce soit, électronique, mécanique, photographique, sonore, magnétique ou autre, sans avoir obtenu au préalable l'autorisation écrite de l'éditrice.
 !!!SMA: 2012 Bibliothèque nationale du Québec; Biblothèque nationale du Canada
 !!!AGN-type: Chanson nationaliste
-!!!AGN-Laforte: Strophique (sans refrain), 3:4(8)+4(10)
-!!!AGN-rhyme: croisées (ababcdcd)
+!!!AGN-Laforte: Strophique (avec refrain intégré), 3:4(8)+4(10); refrain includes a variant: v:2, "du" instead of "Ô" and "ses" instead of "mes" (change of speaker)
+!!!AGN-rhyme: mixtes; v:1, croisées+suivies (abab,bbcc); then, croisées, v:2 (dede,fcfc) and v:3 (gbgb,hchc)
 **kern	**text	**text	**text
 *clefG2	*	*	*
 *k[b-]	*	*	*
 *F:	*	*	*
 *M4/4	*	*	*
 *met(c)	*v:1	*v:2	*v:3
-*	*pline:1	*pline:2	*pline:3
+*	*pline:1	*pline:9	*pline:17
 =1	=1	=1	=1
-{4cc	Com-	La	O
+{{4cc	Com-	Le	Ô
 8.cc	-me	Ca-	mon
 16dd	le	-na-	pa-
 8cc	dit	-dien,	-ys!
@@ -26,29 +27,31 @@
 8g	vieil	-me	la
 8a	a-	ses	na-
 =2	=2	=2	=2
-2g	-da-	pe-	-tu-
-4f	-ge,	-res	-re,
+2g	-da-	pè-	-tu-
+4f	-ge,	-res,	-re,
 *	*rp:a	*rp:ɛː	*rp:y
-*	*rf:daʒ	*rf:pɛːʁ	*rf:tyʁ
-*	*rs:a	*rs:d	*rs:f
+*	*rf:aʒ,ə	*rf:ɛːʁ,ə	*rf:yʁ,e
+*	*rs:a	*rs:d	*rs:g
 4r}	.	.	.
 !!LO:PB:g=original
 =3	=3	=3	=3
-{4g	Rien	Aime	Vrai-
+*	*pline:2	*pline:10	*pline:18
+{4g	Rien	Aim[e]	Vrai-
 8g	n'est	à	-ment,
 8cc	si	chan-	tu
 8cc	beau	-ter,	fus
 8b	que	à	l'en-
 8a	son	s'é-	-fant
-8b	pa-	-ga-	ché-
+8b	pa-	-gay-	ché-
 =4	=4	=4	=4
-2cc	-ys!	-yer;	-ri;
+2cc	-ys!	-er;	-ri;
 *	*rp:i	*rp:e	*rp:i
-*	*rf:pei	*rf:je	*rf:ʁi
+*	*rf:i	*rf:je	*rf:i
 *	*rs:b	*rs:e	*rs:b
-2r}	.	.	.
+2r}}	.	.	.
 =5	=5	=5	=5
-{4cc	Et	Doux,	Mais
+*	*pline:3	*pline:11	*pline:19
+{{4cc	Et	Doux,	Mais
 8.cc	de	ai-	l'é-
 16dd	le	-sé,	-tran-
 8cc	chan-	vif	-ger,
@@ -60,41 +63,42 @@
 2g	-sa-	-niè-	-ju-
 4f	-ge;	-res,	-re,
 *	*rp:a	*rp:ɛː	*rp:y
-*	*rf:zaʒ	*rf:njɛːʁ	*rf:ʒyʁ
-*	*rs:a	*rs:d	*rs:f
+*	*rf:aʒ,ə	*rf:ɛːʁ,ə	*rf:yʁ,e
+*	*rs:a	*rs:d	*rs:g
 4r}	.	.	.
 =7	=7	=7	=7
+*	*pline:4	*pline:12	*pline:20
 {4a	Le	Po-	En
 8e	mien	-li,	ton
 8cc#	je	ga-	sein,
-8cc#	chante	-lant,	le
-8e	à	hos-	trou-
-8cc#	mes	-pi-	-ble-a
-8b	a-	-ta-	nou-
+8cc#	chant[e]	-lant,	le
+8e	à	hos-	troubl[e]
+8cc#	mes	-pi-	a
+8b	a-	-ta-	nour-
 =8	=8	=8	=8
-2a	-mis,	-lier.	-rri:
+2a	-mis,	-lier,	-ri:
 *	*rp:i	*rp:e	*rp:i
-*	*rf:mi	*rf:lje	*rf:ʁi
+*	*rf:i	*rf:je	*rf:i
 *	*rs:b	*rs:e	*rs:b
-2r}	.	.	.
-*	*bis	*bis	*bis
+2r}}	.	.	.
 !!LO:PB:g=original
 =9	=9	=9	=9
+*	*pline:4r	*pline:12r	*pline:20r
 {4a	Le	Po-	En
 8a	mien	-li,	ton
 8cc	je	ga-	sein,
-8cc	chante	-lant,	le
-8c	à	hos-	trou-
-8a	mes	-pi-	-ble-a
-8g	a-	-ta-	nou-
+8cc	chant[e]	-lant,	le
+8c	à	hos-	troubl[e]
+8a	mes	-pi-	a
+8g	a-	-ta-	nour-
 =10	=10	=10	=10
-2f	-mis.	-lier.	-rri:
+2f	-mis.	-lier.	-ri:
 *	*rp:i	*rp:e	*rp:i
-*	*rf:mi	*rf:lje	*rf:ʁi
+*	*rf:i	*rf:je	*rf:i
 *	*rs:b	*rs:e	*rs:b
 4r}	.	.	.
-*	*Xbis	*Xbis	*Xbis
-{8.f	L'é-	A	Puis-
+*	*pline:5	*pline:13	*pline:21
+{8.f	L'é-	À	Puis-
 16f	-tran-	son	-sent
 =11	=11	=11	=11
 4b-	ger	pa-	tous
@@ -107,11 +111,12 @@
 !!LO:PB:g=original
 =12	=12	=12	=12
 (4.cc	-vi-	trai-	join-
-8b-)	-	-	-
+8b-)	.	.	.
 8a}	e	-tre;	-dre;
 *	*rp:i	*rp:ɛː	*rp:ẽ
-*	*rf:vi	*rf:tʁɛː	*rf:ʒwẽ
-*	*rs:b	*rs:d	*rs:g
+*	*rf:i,e	*rf:ɛːtʁ,e	*rf:wẽdʁ,e
+*	*rs:b	*rs:f	*rs:h
+*	*pline:6	*pline:14	*pline:22
 {8f	Du	A	Et,
 8g	St-	l'es-	va-
 8a	-Lau-	-cla-	-leu-
@@ -125,9 +130,10 @@
 =14	=14	=14	=14
 2g}	cours;	-jours;	-cours!
 *	*rp:u	*rp:u	*rp:u
-*	*rf:kuʁ	*rf:ʒuʁ	*rf:kuʁ
+*	*rf:uʁ	*rf:ʒuʁ	*rf:uʁ
 *	*rs:c	*rs:c	*rs:c
-{4f	A	Et	Car
+*	*pline:7	*pline:15	*pline:23
+{4f	À	Et	Car
 8.f	son	sa	le
 16f	as-	ma-	beau
 !!LO:PB:g=original
@@ -137,16 +143,19 @@
 8f	le	est	dé-
 8g	Ca-	la	-jà
 8a	-na-	paix,	com-
-8b-	-dien	le	-mence
+8b-	-dien	le	-menc[e]
 8cc	s'é-	bien-	à
 =16	=16	=16	=16
 4dd	-cri-	-ê-	poin-
 8dd	-e:	-tre	-dre
 *	*rp:i	*rp:ɛː	*rp:ẽ
-*	*rf:kʁi	*rf:nɛːtʁ	*rf:pwẽ
-*	*rs:b	*rs:d	*rs:g
+*	*rf:i	*rf:ɛːtʁ,e	*rf:wẽdʁ,e
+*	*rs:b	*rs:f	*rs:h
 8r}	.	.	.
-{4ff	O	Du	O
+*	*refrain	*refrain	*refrain
+*	*italic	*italic	*italic
+*	*pline:8=R1	*pline:16=R2	*pline:8r=R1
+{{4ff	Ô	Du	Ô
 8.ee	Ca-	Ca-	Ca-
 16dd	-na-	-na-	-na-
 =17	=17	=17	=17
@@ -162,11 +171,11 @@ q16b-J	.	.	.
 =18	=18	=18	=18
 4a	-mours!	-mours!	-mours!
 *	*rp:u	*rp:u	*rp:u
-*	*rf:muʁ	*rf:muʁ	*rf:muʁ
+*	*rf:uʁ	*rf:uʁ	*rf:uʁ
 *	*rs:c	*rs:c	*rs:c
 4r}	.	.	.
-*	*bis	*bis	*bis
-{4dd	O	Du	O
+*	*pline:8r=R1	*pline:16r=R2	*pline:8r=R1
+{4dd	Ô	Du	Ô
 8ee	Ca-	Ca-	Ca-
 8ff	-na-	-na-	-na-
 =19	=19	=19	=19
@@ -181,11 +190,15 @@ q16b-J	.	.	.
 =20	=20	=20	=20
 2.ff	-mours!	-mours!	-mours!
 *	*rp:u	*rp:u	*rp:u
-*	*rf:muʁ	*rf:muʁ	*rf:muʁ
+*	*rf:uʁ	*rf:uʁ	*rf:uʁ
 *	*rs:c	*rs:c	*rs:c
-4r}	.	.	.
 *	*Xbis	*Xbis	*Xbis
+*	*Xitalic	*Xitalic	*Xitalic
+*	*Xrefrain	*Xrefrain	*Xrefrain
+4r}}	.	.	.
 ==	==	==	==
 *-	*-	*-	*-
 !!!EED: Jason Lau
 !!!EEV: 2025/May/30
+!!!EED: Ève Poudrier
+!!!EEV: 2025/June/23

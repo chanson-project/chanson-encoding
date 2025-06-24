@@ -1,96 +1,106 @@
 !!!id: BC017
 !!!page: 25
-!!!COM: (Folklore canadien)
-!!!LYR: Paroles de F.-X. BURQUE, ptre
+!!!COM: Anonymous (Folklore canadien)
+!!!LYR: Burque, François Xavier (prêtre)
 !!!PTL@@FR: Les 100 plus belles chansons
-!!!OTL@@FR:Vive le canadien
+!!!OTL@@FR:Vive le Canadien
 !!!PUB:La Bonne Chanson, inc.
 !!!YEM: On ne peut reproduire, enregistrer ou diffuser en tout ou en partie le présent ouvrage, sous quelque procédé que ce soit, électronique, mécanique, photographique, sonore, magnétique ou autre, sans avoir obtenu au préalable l'autorisation écrite de l'éditrice.
 !!!PDT: 2011
 !!!SMA:2012 Bibliothèque nationale du Québec; Biblothèque nationale du Canada
-!!!AGN-Laforte: Chanson en laisse (avec refrain), 8:2(8+8)
-!!!AGN-type: hymne nationale?
-!!!AGN-rime: monorime (aa)
-!!!EED: Isaac Howie
-!!!EEV: 2025/May/20
+!!!AGN-Laforte: Chanson en laisse (avec refrain), 8:1(8+8).
+!!!AGN-type: Chanson patriotique
+!!!AGN-rime: monorime (aa) [ɑ] avec hémistiches en rime.
 **kern	**text	**text	**text	**text	**text	**text	**text	**text
 *clefG2	*	*	*	*	*	*	*	*
 *k[b-e-]	*	*	*	*	*	*	*	*
 *D:	*	*	*	*	*	*	*	*
 *M6/8	*	*	*	*	*	*	*	*
-*	*v:1	*v:2	*v:3	*v:4	*v:5	*v:6	*v:7	*v:8
-*	*pline:1	*pline:2	*pline:3	*pline:4	*pline:5	*pline:6	*pline:7	*pline:8
-!!!OMD:Avec entrain
+*	*vv:1	*vv:2	*vv:3	*vv:4	*vv:5	*vv:6	*vv:7	*vv:8
+*	*pline:1Ha	*pline:2Ha	*pline:3Ha	*pline:4Ha	*pline:5Ha	*pline:6Ha	*pline:7Ha	*pline:8Ha
+!!LO:TX:a:B:t=Avec entrain
 8f	Le	De	Tout	Il	A-	Dans	Un	Au
 4b-	Ca-	grand	plein	est	vec	ses	jour	Pa-
 8cc	-na-	ma-	de	af-	sa	a-	il	-ra-
 =1	=1	=1	=1	=1	=1	=1	=1	=1
-4b-	-dien,	-tin,	foi,	-fable,	femme	-mours	lui	-dis
+4b-	-dien,	-tin,	foi,	-fabl[e],	femm[e]	-mours	lui	-dis
 8f	au	part	le	hon-	et	il	fau-	di-
-4g	cœur	en	coeur	-nête	ses	est	-dra	-re-
-8g	vail-	chan-	fer-	et	en-	con-	pour-	-cte-
+4g	cœur	en	coeur	-nêt[e]	ses	est	-dra	-rec-
+8g	vail-	chan-	fer-	et	en-	con-	pour-	-te-
 =2	=2	=2	=2	=2	=2	=2	=2	=2
 4.f	-lant,	-tant,	-vent,	franc,	-fants,	-stant,	-tant,	-ment,
-*	*refrain	*	*	*	*	*	*	*
-*	*italic	*	*	*	*	*	*	*
-4b-	En	.	.	.	.	.	.	.
-8cc	rou-	.	.	.	.	.	.	.
+*	*rp:jɑ̃	*rp:tɑ̃	*rp:vɑ̃	*rp:ʁɑ̃	*rp:fɑ̃	*rp:tɑ̃	*rp:tɑ̃	*rp:mɑ̃
+*	*rf:ɑ̃	*rf:ɑ̃	*rf:ɑ̃	*rf:ɑ̃	*rf:ɑ̃	*rf:ɑ̃	*rf:ɑ̃	*rf:ɑ̃
+*	*rs:a1	*rs:a2	*rs:a3	*rs:a4	*rs:a5	*rs:a2	*rs:a2	*rs:a6
+*	*refrain	*refrain	*refrain	*refrain	*refrain	*refrain	*refrain	*refrain
+*	*italic	*italic	*italic	*italic	*italic	*italic	*italic	*italic
+4b-	En	En	En	En	En	En	En	En
+8cc	rou-	rou-	rou-	rou-	rou-	rou-	rou-	rou-
 !!LO:PB:g=original
 =3	=3	=3	=3	=3	=3	=3	=3	=3
-4b-	-lant	.	.	.	.	.	.	.
-8f	ma	.	.	.	.	.	.	.
-4.g	bou-	.	.	.	.	.	.	.
+4b-	-lant	-lant	-lant	-lant	-lant	-lant	-lant	-lant
+8f	ma	ma	ma	ma	ma	ma	ma	ma
+4.g	bou-	bou-	bou-	bou-	bou-	bou-	bou-	bou-
 =4	=4	=4	=4	=4	=4	=4	=4	=4
-4f	-le,	.	.	.	.	.	.	.
-*	*Xrefrain	*	*	*	*	*	*	*
-*	*Xitalic	*	*	*	*	*	*	*
+4f	-le,	-le,	-le,	-le,	-le,	-le,	-le,	-le,
+*	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain
+*	*Xitalic	*Xitalic	*Xitalic	*Xitalic	*Xitalic	*Xitalic	*Xitalic	*Xitalic
 =:|	=:|	=:|	=:|	=:|	=:|	=:|	=:|	=:|
-*	*v:1	*v:2	*v:3	*v:4	*v:5	*v:6	*v:7	*
-8f	Est	Re-	A	Ho-	Il	En	Quit-	Il
-4b-	tou-	-vient	son	-spi-	vit	a-	-ter	mon-
+*	*pline:1Hb	*pline:2Hb	*pline:3Hb	*pline:4Hb	*pline:5Hb	*pline:6Hb	*pline:7Hb	*pline:8Hb
+8f	Est	Re-	A	Hos-	Il	En	Quit-	Il
+4b-	tou-	-vient	son	-pi-	vit	a-	-ter	mon-
 8b-	-jours	le	é-	-ta-	heu-	-mi-	ses	-te-
 =5	=5	=5	=5	=5	=5	=5	=5	=5
-4cc	gai,	soir	-glise	-lier,	-reux,	-tié,	a-	.-ra
-8b-	tou-	en	il	po-	bien	l'est	mies,	cer-
+4cc	gai,	soir	-glis[e]	-lier,	-reux,	-tié,	a-	-ra
+8b-	tou-	en	il	po-	bien	l'est	mis,	cer-
 4dd	-jours	tur-	va	-li,	sim-	tout	ses	-tai-
 8b-	con-	-lu-	sou-	ga-	-ple-	au-	pa-	-ne-
 !!LO:PB:g=original
 =6	=6	=6	=6	=6	=6	=6	=6	=6
 4cc	-tent,	-tant,	-vent,	-lant,	-ment,	-tant,	-rents,	-ment,
-*	*refrain	*	*	*	*	*	*	*
-*	*italic	*	*	*	*	*	*	*
-8b-	Rou-	.	.	.	.	.	.	.
-4dd	li,	.	.	.	.	.	.	.
-4b-	rou-	.	.	.	.	.	.	.
+*	*rp:tɑ̃	*rp:tɑ̃	*rp:vɑ̃	*rp:lɑ̃	*rp:mɑ̃	*rp:tɑ̃	*rp:ʁɑ̃	*rp:mɑ̃
+*	*rf:ɑ̃	*rf:ɑ̃	*rf:ɑ̃	*rf:ɑ̃	*rf:ɑ̃	*rf:ɑ̃	*rf:ɑ̃	*rf:ɑ̃
+*	*rs:a2	*rs:a2	*rs:a3	*rs:a1	*rs:a6	*rs:a2	*rs:a4	*rs:a6
+*	*refrain	*refrain	*refrain	*refrain	*refrain	*refrain	*refrain	*refrain
+*	*italic	*italic	*italic	*italic	*italic	*italic	*italic	*italic
+8b-	Rou-	Rou-	Rou-	Rou-	Rou-	Rou-	Rou-	Rou-
+4dd	li,	li,	li,	li,	li,	li,	li,	li,
+4b-	rou-	rou-	rou-	rou-	rou-	rou-	rou-	rou-
 =7	=7	=7	=7	=7	=7	=7	=7	=7
-4cc	-lant,	.	.	.	.	.	.	.
-8b-	ma	.	.	.	.	.	.	.
-8dd	bou-	.	.	.	.	.	.	.
-8cc	-le	.	.	.	.	.	.	.
-8b-	rou-	.	.	.	.	.	.	.
+4cc	-lant,	-lant,	-lant,	-lant,	-lant,	-lant,	-lant,	-lant,
+8b-	ma	ma	ma	ma	ma	ma	ma	ma
+8dd	bou-	bou-	bou-	bou-	bou-	bou-	bou-	bou-
+8cc	-le	-le	-le	-le	-le	-le	-le	-le
+8b-	rou-	rou-	rou-	rou-	rou-	rou-	rou-	rou-
 =8	=8	=8	=8	=8	=8	=8	=8	=8
-4.cc	-lant,	.	.	.	.	.	.	.
-4dd	En	.	.	.	.	.	.	.
-8cc	rou-	.	.	.	.	.	.	.
+4.cc	-lant,	-lant,	-lant,	-lant,	-lant,	-lant,	-lant,	-lant,
+4dd	En	En	En	En	En	En	En	En
+8cc	rou-	rou-	rou-	rou-	rou-	rou-	rou-	rou-
 !!LO:PB:g=original
 =9	=9	=9	=9	=9	=9	=9	=9	=9
-4b-	-lant	.	.	.	.	.	.	.
-8f	ma	.	.	.	.	.	.	.
-8g	bou-	.	.	.	.	.	.	.
-8f	-le	.	.	.	.	.	.	.
-8g	rou-	.	.	.	.	.	.	.
+4b-	-lant	-lant	-lant	-lant	-lant	-lant	-lant	-lant
+8f	ma	ma	ma	ma	ma	ma	ma	ma
+8g	bou-	bou-	bou-	bou-	bou-	bou-	bou-	bou-
+8f	-le	-le	-le	-le	-le	-le	-le	-le
+8g	rou-	rou-	rou-	rou-	rou-	rou-	rou-	rou-
 =10	=10	=10	=10	=10	=10	=10	=10	=10
-4.f	-lant,	.	.	.	.	.	.	.
-4dd	En	.	.	.	.	.	.	.
-8cc	rou-	.	.	.	.	.	.	.
+4.f	-lant,	-lant,	-lant,	-lant,	-lant,	-lant,	-lant,	-lant,
+4dd	En	En	En	En	En	En	En	En
+8cc	rou-	rou-	rou-	rou-	rou-	rou-	rou-	rou-
 =11	=11	=11	=11	=11	=11	=11	=11	=11
-4b-	lant	.	.	.	.	.	.	.
-8f	ma	.	.	.	.	.	.	.
-(4g	bou-	.	.	.	.	.	.	.
+4b-	lant	lant	lant	lant	lant	lant	lant	lant
+8f	ma	ma	ma	ma	ma	ma	ma	ma
+(4g	bou-	bou-	bou-	bou-	bou-	bou-	bou-	bou-
 8a)	.	.	.	.	.	.	.	.
 =12	=12	=12	=12	=12	=12	=12	=12	=12
-4b-	-le.	.	.	.	.	.	.	.
-*	*Xitalic	*	*	*	*	*	*	*
-*	*Xrefrain	*	*	*	*	*	*	*
+4b-	-le.	-le.	-le.	-le.	-le.	-le.	-le.	-le.
+*	*Xitalic	*Xitalic	*Xitalic	*Xitalic	*Xitalic	*Xitalic	*Xitalic	*Xitalic
+*	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain
 ==	==	==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!EED: Isaac Howie
+!!!EEV: 2025/May/20
+!!!EED: Ève Poudrier
+!!!EEV: 2025/June/23
+!!!EED: Isaac Howie
+!!!EEV: 2025/June/24

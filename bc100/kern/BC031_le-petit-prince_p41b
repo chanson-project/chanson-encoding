@@ -11,83 +11,85 @@
 !!!AGN-type: Chanson d'enfant
 !!!AGN-rime: suivies (aabb), except last line ([y])
 **kern	**text	**text	**text	**text	**text	**text
+*clefG2	*	*	*	*	*	*
 *k[]	*	*	*	*	*	*
 *C:	*	*	*	*	*	*
 *M2/4	*	*	*	*	*	*
 *	*v:1	*v:2	*v:3	*v:4	*v:5	*v:6
 *	*pline:1	*pline:5	*pline:7	*pline:9	*pline:11	*pline:13
 =1	=1	=1	=1	=1	=1	=1
-!	!	!	!alternative pitch duration needed	!	!	!
-!	!	!	!	!	!	!elided "e"
-4cc	Lun-	Mar-	Mer-cre-	Jeu-	Ven-dre-	Sam'-
+!!alternative pitch duration needed
+!!v:6, Sam'di = Samedi
+{4cc	Lun-	Mar-	Mer-cre-	Jeu-	Ven-dre-	Sam'-
 8b	-di	-di	-di	-di	-di	-di
 *	*	*pline:1b3	*pline:1b3	*	*	*
 8a	ma-	ma-	ma-	ma-	ma-	ma-
 =2	=2	=2	=2	=2	=2	=2
 4.g	-tin,	-tin,	-tin,	-tin,	-tin,	-tin,
-!	!elided "e"	!	!	!	!	!
-8a	l'emp'-	.	.	.	.	.
+!!lemp'reur = empereur
+8a	l'emp'-	l'emp'-	l'emp'-	l'emp'-	l'emp'-	l'emp'-
 =3	=3	=3	=3	=3	=3	=3
-4.g	-reur,	.	.	.	.	.
-8a	sa	.	.	.	.	.
+4.g	-reur,	-reur,	-reur,	-reur,	-reur,	-reur,
+8a	sa	sa	sa	sa	sa	sa
 =4	=4	=4	=4	=4	=4	=4
-8g	femm[e]	.	.	.	.	.
-8f	et	.	.	.	.	.
-8e	son	.	.	.	.	.
-!	!elided "e"	!	!	!	!	!
-8d	p'tit	.	.	.	.	.
+8g	femm[e]	femm[e]	femm[e]	femm[e]	femm[e]	femm[e]
+8f	et	et	et	et	et	et
+8e	son	son	son	son	son	son
+!!p'tit = petit
+8d	p'tit	p'tit	p'tit	p'tit	p'tit	p'tit
 !!LO:PB:g=original
 =5	=5	=5	=5	=5	=5	=5
-4e	prin-	.	.	.	.	.
-4c	-ce	.	.	.	.	.
+4e	prin-	prin-	prin-	prin-	prin-	prin-
+4c}	-ce	-ce	-ce	-ce	-ce	-ce
 *	*rp:ẽ	*rp:ẽ	*rp:ẽ	*rp:ẽ	*rp:ẽ	*rp:ẽ
 *	*rf:ẽs,ə	*rf:ẽs,ə	*rf:ẽs,ə	*rf:ẽs,ə	*rf:ẽs,ə	*rf:ẽs,ə
 *	*rs:a	*rs:a	*rs:a	*rs:a	*rs:a	*rs:a
 =6	=6	=6	=6	=6	=6	=6
 *	*pline:2	*pline:2r	*pline:2r	*pline:2r	*pline:2r	*pline:2r
-8.cc	Sont	.	.	.	.	.
-16cc	ve-	.	.	.	.	.
-8b	-nus	.	.	.	.	.
-8a	chez	.	.	.	.	.
+{8.cc	Sont	Sont	Sont	Sont	Sont	Sont
+16cc	ve-	ve-	ve-	ve-	ve-	ve-
+8b	-nus	-nus	-nus	-nus	-nus	-nus
+8a	chez	chez	chez	chez	chez	chez
 =7	=7	=7	=7	=7	=7	=7
-4.g	moi	.	.	.	.	.
-8a	pour	.	.	.	.	.
+4.g	moi	moi	moi	moi	moi	moi
+8a	pour	pour	pour	pour	pour	pour
 =8	=8	=8	=8	=8	=8	=8
-8g	me	.	.	.	.	.
-8f	ser-	.	.	.	.	.
-8e	-rer	.	.	.	.	.
-8d	la	.	.	.	.	.
+8g	me	me	me	me	me	me
+8f	ser-	ser-	ser-	ser-	ser-	ser-
+8e	-rer	-rer	-rer	-rer	-rer	-rer
+8d	la	la	la	la	la	la
 !!LO:PB:g=original
 =9	=9	=9	=9	=9	=9	=9
-4e	pin-	.	.	.	.	.
-8c	-ce;	.	.	.	.	.
+4e	pin-	pin-	pin-	pin-	pin-	pin-
+8c}	-ce;	-ce;	-ce;	-ce	-ce	-ce
 *	*rp:ẽ	*rp:ẽ	*rp:ẽ	*rp:ẽ	*rp:ẽ	*rp:ẽ
 *	*rf:ẽs,ə	*rf:ẽs,ə	*rf:ẽs,ə	*rf:ẽs,ə	*rf:ẽs,ə	*rf:ẽs,ə
 *	*rs:a	*rs:a	*rs:a	*rs:a	*rs:a	*rs:a
 *	*pline:3	*pline:3r	*pline:3r	*pline:3r	*pline:3r	*pline:3r
-8e	Mais	.	.	.	.	.
+{{8e	Mais	Mais	Mais	Mais	Mais	Mais
 =10	=10	=10	=10	=10	=10	=10
-!	!elided "e"	!	!	!	!	!
-8c	comm'	.	.	.	.	.
-8e	j'né-	.	.	.	.	.
-8c	-tait	.	.	.	.	.
-8e	pas	.	.	.	.	.
+!!comm' = comme
+8c	comm'	comm'	comm'	comm'	comm'	comm'
+!!j' = je
+8e	j'n'é-	j'n'é-	j'n'é-	j'n'é-	j'n'é-	j'n'é-
+8c	-tait	-tait	-tait	-tait	-tait	-tait
+8e	pas	pas	pas	pas	pas	pas
 =11	=11	=11	=11	=11	=11	=11
-4g	là,	.	.	.	.	.
-8r	.	.	.	.	.	.
-8e	le	.	.	.	.	.
+4g	là,	là,	là,	là,	là,	là,
+8r}	.	.	.	.	.	.
+{8e	le	le	le	le	le	le
 =12	=12	=12	=12	=12	=12	=12
-8c	pe-	.	.	.	.	.
-8e	-tit	.	.	.	.	.
-8c	princ[e]	.	.	.	.	.
-8e	a	.	.	.	.	.
+8c	pe-	pe-	pe-	pe-	pe-	pe-
+8e	-tit	-tit	-tit	-tit	-tit	-tit
+8c	princ[e]	princ[e]	princ[e]	princ[e]	princ[e]	princ[e]
+8e	a	a	a	a	a	a
 !!LO:PB:g=original
 =13	=13	=13	=13	=13	=13	=13
-4g	dit:	.	.	.	.	.
+4g}	dit:	dit:	dit:	dit:	dit:	dit:
 *	*rp:i	*rp:i	*rp:i	*rp:i	*rp:i	*rp:i
 *	*rf:di	*rf:di	*rf:di	*rf:di	*rf:di	*rf:di
 *	*rs:b	*rs:b	*rs:b	*rs:b	*rs:b	*rs:b
-4r	.	.	.	.	.	.
+{4r	.	.	.	.	.	.
 =14	=14	=14	=14	=14	=14	=14
 *	*pline:4	*pline:6=4a9	*pline:8=4a9	*pline:10=4a9	*pline:12=4a9	*pline:14=4a6
 8.cc	Puis-	Puis-	Puis-	Puis-	Puis-	Puis-
@@ -102,17 +104,17 @@
 8f	-vien-	-vien-	-vien-	-vien-	-vien-	re-
 =16	=16	=16	=16	=16	=16	=16
 4e	-drons	-drons	-drons	-drons	-drons	-vien-
-!	!	!alternative pitch duration needed	!	!	!	!
-!	!	!	!	!	!elided "e"	!
+!!alternative pitch duration needed
+!!v6: sam'di = samedi
 4d	mar-	mer-cre-	jeu-	ven-dre-	sam'-	-drons
 =17	=17	=17	=17	=17	=17	=17
 4c	-di.	-di.	-di.	di.	-di	plus!
 *	*rp:i	*rp:i	*rp:i	*rp:i	*rp:i	*rp:y
 *	*rf:di	*rf:di	*rf:di	*rf:di	*rf:di	*rf:x
 *	*rs:b	*rs:b	*rs:b	*rs:b	*rs:b	*rs:x
-4r	.	.	.	.	.	.
+4r}}	.	.	.	.	.	.
 ==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-
 !!!EEV: Ève Poudrier
-!!!EED: 2025/June/05
+!!!EED: 2025/June/20
 !!!EEV-notes: Original only include the last verse's alternative words "Sam'di matin, etc." and last line "Pour finir: Puis-que c'est comm' ça, nous ne re-vien-drons plus!"

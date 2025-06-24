@@ -1,0 +1,116 @@
+!!!ID:BC051
+!!!PAGE:64
+!!!COM: Folklore francais
+!!!PTR@@FR: Les 100 plus belles chansons
+!!!OTL@@FR: Perrine était servante
+!!!PUB: La Bonne Chanson, inc.
+!!!PDT: 2011
+!!!YEM: On ne peut reproduire, enregistrer ou diffuser en tout ou en partie le présent ouvrage, sous quelque procédé que ce soit, électronique, mécanique, photographique, sonore, magnétique ou autre, sans avoir obtenu au préalable l'autorisation écrite de l'éditrice.
+!!!SMA: 2012 Bibliothèque nationale du Québec; Biblothèque nationale du Canada
+!!!AGN-type: Chanson en laisse
+!!!AGN-Laforte: Chanson strophique (avec refrain), 13:1(6+6)
+!!!AGN-rhyme: abcd
+**kern	**text	**text	**text	**text	**text	**text	**text	**text	**text	**text	**text	**text	**text
+*clefG2	*	*	*	*	*	*	*	*	*	*	*	*	*
+*k[f#]	*	*	*	*	*	*	*	*	*	*	*	*	*
+*G:	*	*	*	*	*	*	*	*	*	*	*	*	*
+!!LO:TX:a:t=Allegretto
+*M2/4	*	*	*	*	*	*	*	*	*	*	*	*	*
+*	*vv:1	*vv:2	*vv:3	*vv:4	*vv:5	*vv:6	*vv:7	*vv:8	*vv:9	*vv:10	*vv:11	*vv:12	*vv:13
+*	*pline:1Ha	*pline:2Ha	*pline:3Ha	*pline:4Ha	*pline:5Ha	*pline:6Ha	*pline:7Ha	*pline:8Ha	*pline:9Ha	*pline:10Ha	*pline:11Ha	*pline:12Ha	*pline:13Ha
+=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+16b	Per-	Son	Per-	Eh!	V'-	Cach'-	Il	Au	Y's	On	On	Voi-	Qu'al-
+=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+8b.	-rine	a-	-rine,	grand	-là	-té	y	bout	ava-	fit	fit	-là	-lait
+16a	é-	-mant	ô	ni-	M'sieu	donc	res-	de	-ient	creu-	mon-	la	trop
+8g.	-tait	vint	ma	-gaud	l'Cu-	dans	-ta	six	ron-	-ser	-ter	tris-	voir
+16a	ser-	la	Per-	qu'-	-ré	la	six	se-	-gé	son	ses	-te	les
+=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+(4a	-van-	voi-	-ri-	-t'es	qu'ar-	hu-	s'mai-	-mai-	l'crâ	crâ-	jam-	his-	fil-
+8b.)	-te,	-re	-ne,	bête,	-rive,	che,	-nes,	-nes	-ne,	-ne	-bes	-torie	-les,
+*	*rp:ɛ	*rp:ɛ	*rp:ɛ	*rp:ɛː	*rp:i	*rp:ʃ	*rp:ɛ	*rp:ɛ	*rp:e	*rp:e	*rp:ɛ	*rp:i	*rp:ɛ
+*	*rf:tɛ	*rf:rɛ	*rf:nɛ	*rf:bɛːt	*rf:ʁiv	*rf:ʃ	*rf:nɛ	*rf:nɛ	*rf:ne	*rf:ne	*rf:bɛ	*rf:ʁi	*rf:lɛ
+*	*rs:a	*rs:a	*rs:a	*rs:c	*rs:d	*rs:e	*rs:a	*rs:a	*rs:b	*rs:b	*rs:a	*rs:d	*rs:a
+*	*bis	*bis	*bis	*bis	*bis	*bis	*bis	*bis	*bis	*bis	*bis	*bis	*bis
+*	*pline:1Har	*pline:2Har	*pline:3Har	*pline:4Har	*pline:5Har	*pline:6Har	*pline:7Har	*pline:8Har	*pline:9Har	*pline:10Har	*pline:11Har	*pline:12Har	*pline:13Har
+16b	Per-	Son	Per-	Eh!	V'-	Cach'-	Il	Au	Y's	On	On	Voi-	Qu'al-
+=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
+8b.	-rine	a-	-rine	grand	-là	-té	y	bout	ava-	fit	fit	-là	-lait
+16a	é-	-mant	ô	ni-	M'sieu	donc	res-	de	-ient	creu-	mon-	la	trop
+8g.	-tait	vint	ma	-guad	l'Cu-	dans	-ta	six	ron-	-ser	-ter	tris-	voir
+16a	ser-	la	Per-	qu'-	-ré	la	six	se-	-gé	son	ses	-te	les
+!!LO:LB:g=original
+=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5
+(4a	-van-	voir-	-ri-	-te	qu'ar-	hu-	s'mai-	mai-	l'crâ	crâ-	jam-	his-	fil-
+4b)	-te	-re	ne,	bête,	-rive,	-che,	-nes,	-nes,	-ne,	-ne	-bes	-torie	-les,
+*	*rp:ɛ	*rp:ɛ	*rp:ɛ	*rp:ɛː	*rp:i	*rp:ʃ	*rp:ɛ	*rp:ɛ	*rp:e	*rp:e	*rp:ɛ	*rp:i	*rp:ɛ
+*	*rf:tɛ	*rf:rɛ	*rf:nɛ	*rf:bɛːt	*rf:ʁiv	*rf:ʃ	*rf:nɛ	*rf:nɛ	*rf:ne	*rf:ne	*rf:bɛ	*rf:ʁi	*rf:lɛ
+*	*rs:a	*rs:a	*rs:a	*rs:c	*rs:d	*rs:e	*rs:a	*rs:a	*rs:b	*rs:b	*rs:a	*rs:d	*rs:a
+*	*Xbis	*Xbis	*Xbis	*Xbis	*Xbis	*Xbis	*Xbis	*Xbis	*Xbis	*Xbis	*Xbis	*Xbis	*Xbis
+=6||	=6||	=6||	=6||	=6||	=6||	=6||	=6||	=6||	=6||	=6||	=6||	=6||	=6||
+*M3/4	*	*	*	*	*	*	*	*	*	*	*	*	*
+*	*pline:1Hb	*pline:2Hb	*pline:3Hb	*pline:4Hb	*pline:5Hb	*pline:6Hb	*pline:7Hb	*pline:8Hb	*pline:9Hb	*pline:10Hb	*pline:11Hb	*pline:12Hb	*pline:13Hb
+4g	Chez	Un	Vou-	Ça	Où	I'n'-	Ell	Les	Et	Pour	Pour	D'un	Le
+8a.	Mon-	soir	-drias-	s'prend	j'vas-	-sau-	l'a-	rats	"pis"	faire	faire	jeune	soir
+16b	-sieur	a-	-tu	sans	-t'y	-ra	-vait	l'a	tous	un	un	homme	a-
+8b.	le	-près	m'em-	se	"ben"	point	ou-	-vaient	les	bé-	chan-	a	-près
+16g	Cu-	l'di-	-bras	d'man-	t'ca-	t'trou-	-bli-	bouf-	doigts	-ni-	-de-	ma-	di-
+=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7
+4b	-ré,	-ner,	-ser	-der.	-cher?	-ver.	-é	-fé,	d'pieds.	-tier.	-lier.	-rier.	-ner.
+*	*rp:e	*rp:e	*rp:e	*rp:ɛː	*rp:ɛː	*rp:ɛː	*rp:e	*rp:e	*rp:e	*rp:ɛː	*rp:e	*rp:e	*rp:e
+*	*rf:re	*rf:ne	*rf:se	*rf:dɛːʁ	*rf:ʃɛːʁ	*rf:vɛːʁ	*rf:e	*rf:fe	*rf:dpje	*rf:tjɛːʁ	*rf:je	*rf:ʁje	*rf:ne
+*	*rs:b	*rs:b	*rs:b	*rs:c	*rs:c	*rs:c	*rs:b	*rs:b	*rs:b	*rs:c	*rs:b	*rs:b	*rs:b
+*Xbrackettup	*	*	*	*	*	*	*	*	*	*	*	*	*
+*	*Refrain	*Refrain	*Refrain	*Refrain	*Refrain	*Refrain	*Refrain	*Refrain	*Refrain	*Refrain	*Refrain	*Refrain	*Refrain
+*	*italic	*italic	*italic	*italic	*italic	*italic	*italic	*italic	*italic	*italic	*italic	*italic	*italic
+(12a	Di-	Di-	Di-	Di-	Di-	Di-	Di-	Di-	Di-	Di-	Di-	Di-	Di-
+12b	-gue	-gue	-gue	-gue	-gue	-gue	-gue	-gue	-gue	-gue	-gue	-gue	-gue
+12a)	don-	don-	don-	don-	don-	don-	don-	don-	don-	don-	don-	don-	don-
+8g.	-da,	-da,	-da,	-da,	-da,	-da,	-da,	-da,	-da,	-da,	-da,	-da,	-da,
+16f#	don-	don-	don-	don-	don-	don-	don-	don-	don-	don-	don-	don-	don-
+=8||	=8||	=8||	=8||	=8||	=8||	=8||	=8||	=8||	=8||	=8||	=8||	=8||	=8||
+*M2/4	*	*	*	*	*	*	*	*	*	*	*	*	*
+4e	-dai-	-dai-	-dai-	-dai-	-dai-	-dai-	-dai-	-dai-	-dai-	-dai-	-dai-	-dai-	-dai-
+4d	-ne,	-ne,	ne,	ne,	-ne,	ne,	ne,	-ne,	ne,	ne,	-ne,	ne,	ne,
+*	*Xitalic	*Xitalic	*Xitalic	*Xitalic	*Xitalic	*Xitalic	*Xitalic	*Xitalic	*Xitalic	*Xitalic	*Xitalic	*Xitalic	*Xitalic
+*	*XRefrain	*XRefrain	*XRefrain	*XRefrain	*XRefrain	*XRefrain	*XRefrain	*XRefrain	*XRefrain	*XRefrain	*XRefrain	*XRefrain	*XRefrain
+*	*rp:ɛ	*rp:ɛ	*rp:ɛ	*rp:ɛ	*rp:ɛ	*rp:ɛ	*rp:ɛ	*rp:ɛ	*rp:ɛ	*rp:ɛ	*rp:ɛ	*rp:ɛ	*rp:ɛ
+*	*rf:nɛ	*rf:nɛ	*rf:nɛ	*rf:nɛ	*rf:nɛ	*rf:nɛ	*rf:nɛ	*rf:nɛ	*rf:nɛ	*rf:nɛ	*rf:nɛ	*rf:nɛ	*rf:nɛ
+*	*rs:a	*rs:a	*rs:a	*rs:a	*rs:a	*rs:a	*rs:a	*rs:a	*rs:a	*rs:a	*rs:a	*rs:a	*rs:a
+*	*bis	*bis	*bis	*bis	*bis	*bis	*bis	*bis	*bis	*bis	*bis	*bis	*bis
+!!LO:LB:g=original
+=9||	=9||	=9||	=9||	=9||	=9||	=9||	=9||	=9||	=9||	=9||	=9||	=9||	=9||
+*	*pline:1Hbr	*pline:2Hbr	*pline:3Hbr	*pline:4Hbr	*pline:5Hbr	*pline:6Hbr	*pline:7Hbr	*pline:8Hbr	*pline:9Hbr	*pline:10Hbr	*pline:11Hbr	*pline:12Hbr	*pline:13Hbr
+*M3/4	*	*	*	*	*	*	*	*	*	*	*	*	*
+4g	Chez	Un	Vou-	Ça	Où	I'n'-	Ell	Les	Et	Pour	Pour	D'un	Le
+8a.	Mon-	soir	-drais-	s'prend	j'vas-	-sau-	l'a-	rats	"pis"	faire	faire	jeune	soir
+16b	-sieur	a-	-tu	sans	-t'y	-ra	-vait	l'a-	tous	un	un	homme	a-
+8b.	le	-près	m'em-	se	"ben"	point	ou-	-vaient	les	bé-	chan-	à	-près
+16g	Cu-	l'di-	-bras-	d'man-	t'ca-	t'trou-	-bli-	bouf-	doigts	-ni-	-de-	ma-	di-
+=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10
+4b	-ré.	-ner	-ser	-der.	-cher?	-ver.	-é.	-fé,	d'pieds.	-tier.	-lier.	-rier.	-ner.
+*	*rp:e	*rp:e	*rp:e	*rp:ɛː	*rp:ɛː	*rp:ɛː	*rp:e	*rp:e	*rp:e	*rp:ɛː	*rp:e	*rp:e	*rp:e
+*	*rf:re	*rf:ne	*rf:se	*rf:dɛːʁ	*rf:ʃɛːʁ	*rf:vɛːʁ	*rf:e	*rf:fe	*rf:dpje	*rf:tjɛːʁ	*rf:je	*rf:ʁje	*rf:ne
+*	*rs:b	*rs:b	*rs:b	*rs:c	*rs:c	*rs:c	*rs:b	*rs:b	*rs:b	*rs:c	*rs:b	*rs:b	*rs:b
+*	*Refrain	*Refrain	*Refrain	*Refrain	*Refrain	*Refrain	*Refrain	*Refrain	*Refrain	*Refrain	*Refrain	*Refrain	*Refrain
+*	*italic	*italic	*italic	*italic	*italic	*italic	*italic	*italic	*italic	*italic	*italic	*italic	*italic
+(12a	Di-	Di-	Di-	Di-	Di-	Di-	Di-	Di-	Di-	Di-	Di-	Di-	Di-
+12b	-gue	-gue	-gue	-gue	-gue	-gue	-gue	-gue	-gue	-gue	-gue	-gue	-gue
+12a)	don-	don-	don-	don-	don-	don-	don-	don-	don-	don-	don-	don-	don-
+8g.	-da.	-da.	-da.	-da.	-da.	-da.	-da.	-da.	-da.	-da.	-da.	-da.	-da.
+16f#	don-	don-	don-	don-	don-	don-	don-	don-	don-	don-	don-	don-	don-
+=11||	=11||	=11||	=11||	=11||	=11||	=11||	=11||	=11||	=11||	=11||	=11||	=11||	=11||
+*M2/4	*	*	*	*	*	*	*	*	*	*	*	*	*
+[4g	dé.	dé.	dé.	dé.	dé.	dé.	dé.	dé.	dé.	dé.	dé.	dé.	dé.
+*	*Xitalic	*Xitalic	*Xitalic	*Xitalic	*Xitalic	*Xitalic	*Xitalic	*Xitalic	*Xitalic	*Xitalic	*Xitalic	*Xitalic	*Xitalic
+*	*XRefrain	*XRefrain	*XRefrain	*XRefrain	*XRefrain	*XRefrain	*XRefrain	*XRefrain	*XRefrain	*XRefrain	*XRefrain	*XRefrain	*XRefrain
+*	*rp:e	*rp:e	*rp:e	*rp:e	*rp:e	*rp:e	*rp:e	*rp:e	*rp:e	*rp:e	*rp:e	*rp:e	*rp:e
+*	*rf:de	*rf:de	*rf:de	*rf:de	*rf:de	*rf:de	*rf:de	*rf:de	*rf:de	*rf:de	*rf:de	*rf:de	*rf:de
+*	*rs:b	*rs:b	*rs:b	*rs:b	*rs:b	*rs:b	*rs:b	*rs:b	*rs:b	*rs:b	*rs:b	*rs:b	*rs:b
+*	*Xbis	*Xbis	*Xbis	*Xbis	*Xbis	*Xbis	*Xbis	*Xbis	*Xbis	*Xbis	*Xbis	*Xbis	*Xbis
+8g]	.	.	.	.	.	.	.	.	.	.	.	.	.
+16r	.	.	.	.	.	.	.	.	.	.	.	.	.
+=	=	=	=	=	=	=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!EED: Jason Lau
+!!!EEV: 2025/06/10
