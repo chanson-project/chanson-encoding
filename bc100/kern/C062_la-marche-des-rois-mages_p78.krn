@@ -1,0 +1,188 @@
+!!!id: BC062
+!!!page: 78
+!!!COM: Lulli, Jean-Baptiste
+!!!LYR: Daudet, Alphonse
+!!!PTL@@FR: Les 100 plus belles chansons
+!!!OTL@@FR: Marche des Rois mages
+!!!PUB: La Bonne Chanson, inc.
+!!!YEM: On ne peut reproduire, enregistrer ou diffuser en tout ou en partie le présent ouvrage, sous quelque procédé que ce soit, électronique, mécanique, photographique, sonore, magnétique ou autre, sans avoir obtenu au préalable l'autorisation écrite de l'éditrice.
+!!!PDT: 2011
+!!!SMA: 2012 Bibliothèque nationale du Québec; Biblothèque nationale du Canada
+!!!AGN-Laforte: Strophique, 3:4+4(4,6,4+6)
+!!!AGN-type: Chanson religieuse
+!!!AGN-rime: chain (aaba)
+**kern	**text	**text	**text
+*clefG2	*	*	*
+*k[b-e-]	*	*	*
+*g:	*	*	*
+!!LO:TX:a:t=Movement de Marche
+*M4/4	*	*	*
+*met(c)	*	*	*
+*	*v:1	*v:2	*v:3
+*	*pline:1	*pline:9	*pline:17
+16g	De	Puis	Au
+4g	bon	sur	fils
+4d	ma-	un	de
+=1	=1	=1	=1
+4..g	-tin,	char,	Dieu
+*	*	*	*
+*	*	*	*
+*	*	*	*
+*	*pline:2	*pline:10	*pline:18
+16a	J'ai	Do-	Qui
+8.b-	ren-	-ré	na-
+16a	-con-	de	-quit
+8.b-	-tré	tou-	en
+16g	le	-tes	ce
+=2	=2	=2	=2
+4dd	train	parts,	lieu,
+*	*	*	*
+*	*	*	*
+*	*	*	*
+8r	.	.	.
+*	*pline:3Ha	*pline:11Ha	*pline:19Ha
+8b-	De	On	Ils
+4cc	trois	voit	vien-
+4dd	grands	trois	-nent
+!!LO:PB:g=original
+=3	=3	=3	=3
+8ee-	Rois	Rois	tous
+*	*pline:3Hb	*pline:11Hb	*pline:19Hb
+8dd	qui	mo-	pré-
+8cc	al-	-des-	-sen-
+8b-	laient	-tes	-ter
+4a	en	com-	leurs
+4dd	voy-	-me	hom-
+=4	=4	=4	=4
+(8ccL	-a-	d'an-	-ma-
+8b-J)	.	.	.
+8a	-ge;	-ges;	-ges;
+*	*	*	*
+*	*	*	*
+*	*	*	*
+16r	.	.	.
+*	*pline:1r	*pline:9r	*pline:17r
+16b-	De	Puis	Au
+4g	bon	sur	fils
+4d	ma-	un	de
+=5	=5	=5	=5
+4..g	-tin,	char,	Dieu
+*	*	*	*
+*	*	*	*
+*	*	*	*
+*	*pline:2r	*pline:10r	*pline:18r
+16a	J'ai	Do-	Qui
+8.b-	ren-	-ré	na-
+16a	-con-	de	-quit
+8.b-	-tré	tou-	en
+16g	le	-tes	ce
+!!LO:PB:g=original
+=6	=6	=6	=6
+4dd	train	parts,	lieu,
+*	*	*	*
+*	*	*	*
+*	*	*	*
+8r	.	.	.
+*	*pline:4Ha=3Ha	*pline:12Ha	*pline:20Ha=19Ha
+8b-	De	Trois	Ils
+4cc	trois	Rois	vien-
+4dd	grands	de-	-nent
+=7	=7	=7	=7
+8ee-	Rois	-bout	tous
+*	*pline:4Hb	*pline:12Hb	*pline:20Hb
+8dd	des-	par-	pour
+8cc	-sus	-mi	pré-
+8b-	le	les	-sen-
+4b-	grand	é-	-ter
+4a	che-	-ten-	leurs
+=8	=8	=8	=8
+4g	min.	-dards.	voeux.
+*	*	*	*
+*	*	*	*
+*	*	*	*
+8.r	.	.	.
+*	*pline:5	*pline:13	*pline:21
+16a	Ve-	L'é-	De
+4a	-naient	-toi-	beaux
+4a	d'a-	-le	pré-
+!!LO:PB:g=original
+=9	=9	=9	=9
+4b-	-bord	luit	-sents,
+*	*	*	*
+*	*	*	*
+*	*	*	*
+*	*pline:6	*pline:14	*pline:22
+8.a	les	Et	Or,
+16g	gar-	les	myrrh[e]
+4a	-des	Rois	et
+4b-	du	con-	en-
+=10	=10	=10	=10
+4.cc,	corps,	duit	-cens,
+*	*	*	*
+*	*	*	*
+*	*	*	*
+*	*pline:7Ha	*pline:15Ha	*pline:23Ha
+8b-	Des	Par	Ils
+4cc	gens	longs	vont
+4dd	ar-	che-	of-
+=11	=11	=11	=11
+4g	-més	-mins	-frir
+*	*pline:7Hb	*pline:15Hb	*pline:23Hb
+8a	a-	de-	au
+8b-	-vec	-vant	maî-
+8cc	tren-	u-	-tre
+8b-	-te	-ne	tant
+8a	pe-	pauvr[e]	ad-
+8g	-tits	é-	-mi-
+!!LO:PB:g=original
+=12	=12	=12	=12
+(8gL	pa-	-ta-	-ra-
+8f#J)	.	.	.
+8d	-ges;	-ble.	-ble!
+*	*	*	*
+*	*	*	*
+*	*	*	*
+16r	.	.	.
+*	*pline:5r	*pline:13r	*pline:21r
+16a	Ve-	L'é-	De
+4a	-naient	-toi-	beaux
+4a	d'a-	-le	pré-
+=13	=13	=13	=13
+4b-	-bord	luit	-sents,
+*	*	*	*
+*	*	*	*
+*	*	*	*
+*	*pline:6r	*pline:14r	*pline:22r
+8.a	des	Et	Or,
+16g	gar-	les	myrrh[e]
+4a	-des	Rois	et
+4b-	du	con-	en-
+!!LO:PB:g=original
+=14	=14	=14	=14
+4.cc,	corps,	-duit	-cens,
+*	*	*	*
+*	*	*	*
+*	*	*	*
+*	*pline:8Ha=7Ha	*pline:16Ha=15Ha	*pline:24Ha=23Ha
+8b-	Des	Par	Ils
+4cc	gens	longs	vont
+4dd	ar-	che-	of-
+=15	=15	=15	=15
+8ee-	més	-mins	-frir
+*	*pline:8Hb	*pline:16Hb	*pline:24Hb
+8dd	des-	de-	au
+8cc	-sus	-vant	bien-
+8b-	leur	l'hum-	-heu-
+4b-	just-	-ble	-reux
+4a	au-	ré-	en-
+=16	=16	=16	=16
+4g;	corps.	duit.	-fant!
+*	*	*	*
+*	*	*	*
+*	*	*	*
+8r	.	.	.
+16r	.	.	.
+==	==	==	==
+*-	*-	*-	*-
+!!!EED: Ève Poudrier
+!!!EEV: 2025/June/24
