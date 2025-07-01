@@ -1,0 +1,99 @@
+!!!id: BC048
+!!!page: 61
+!!!COM: Folklore canadien
+!!!LYR:
+!!!PTL@@FR: Les 100 plus belles chansons
+!!!OTL@@FR: Mon merle
+!!!PUB: La Bonne Chanson, inc.
+!!!YEM: On ne peut reproduire, enregistrer ou diffuser en tout ou en partie le présent ouvrage, sous quelque procédé que ce soit, électronique, mécanique, photographique, sonore, magnétique ou autre, sans avoir obtenu au préalable l'autorisation écrite de l'éditrice.
+!!!PDT: 2011
+!!!SMA:2012 Bibliothèque nationale du Québec; Biblothèque nationale du Canada
+!!!AGN-Laforte: Chanson enumeratif (avec refrain), 9:1(7), R1(8)
+!!!AGN-type: oiseaux?
+!!!AGN-rime: none
+**kern	**text	**text	**text	**text	**text	**text	**text	**text	**text
+*clefG2	*	*	*	*	*	*	*	*	*
+*k[b-e-]	*	*	*	*	*	*	*	*	*
+*D:	*	*	*	*	*	*	*	*	*
+*M2/4	*	*	*	*	*	*	*	*	*
+*	*vv:1	*vv:2	*vv:3	*vv:4	*vv:5	*vv:6	*vv:7	*vv:8	*vv:9
+*	*pline:1	*pline:2	*pline:3	*pline:4	*pline:5	*pline:6	*pline:7	*pline:8	*pline:9
+!!LO:TX:a:t=[segno]
+{{8d	Mon	Mon	Mon	Mon	Mon	Mon	Mon	Mon	Mon
+=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+8g	merl[e]	merl[e]	merl[e]	merl[e]	merl[e]	merl[e]	merl[e]	merl[e]	merl[e]
+16g	a	a	a	a	a	a	a	a	a
+16g	per-	per-	per-	per-	per-	per-	per-	per-	per-
+8g	-du	-du	-du	-du	-du	-du	-du	-du	-du
+8a	son	son	sa	son	son	son	son	ses	sa
+=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+4b-}	bec,	oeil,	têt',	cou,	dos,	ail',	ventr',	patt's,	queue,
+!!!v3: têt' = tête
+!!!v6: ail' = aile
+!!!v7: ventr' = ventre
+!!!v8: patt's = pattes
+8r	.	.	.	.	.	.	.	.	.
+*	*pline:1	*pline:2	*pline:3	*pline:4	*pline:5	*pline:6	*pline:7	*pline:8	*pline:9
+{8b-	Mon	Mon	Mon	Mon	Mon	Mon	Mon	Mon	Mon
+!!LO:PB:g=original
+=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+8a	merl[e]	merl[e]	merl[e]	merl[e]	merl[e]	merl[e]	merl[e]	merl[e]	merl[e]
+16a	a	a	a	a	a	a	a	a	a
+16a	per-	per-	per-	per-	per-	per-	per-	per-	per-
+8a	-du	-du	-du	-du	-du	-du	-du	-du	-du
+8f#	son	son	sa	son	son	son	son	ses	sa
+=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
+4d}}	bec.	oeil.	têt'.	cou.	dos.	ail'.	ventr'.	patt's.	queue.
+8r	.	.	.	.	.	.	.	.	.
+=::	=::	=::	=::	=::	=::	=::	=::	=::	=::
+*	*refrain	*refrain	*refrain	*refrain	*refrain	*refrain	*refrain	*refrain	*refrain
+{{8dd	Un	Un	Un	Un	Un	Un	Un	Un	Un
+!!!Note in original: *A reprendre autant de fois que l'exigent les paroles.
+*M3/4	*	*	*	*	*	*	*	*	*
+=5	=5	=5	=5	=5	=5	=5	=5	=5	=5
+8dd	bec,	oeil,	têt',	cou,	dos,	ail',	ventr',	patt',	queue,
+8dd	deux	deux	deux	deux	deux	deux	deux	deux	deux
+8dd	becs,	yeux,	têt's,	cous,	dos,	ail's,	ventr's,	patt's,	queues,
+8dd	trois	trois	trois	trois	trois	trois	trois	trois	trois
+8dd	bec,	yeux,	têt's,	cous,	dos,	ail's,	ventr's,	patt's,	queues,
+=::	=::	=::	=::	=::	=::	=::	=::	=::	=::
+8cc	ah!	.	.	.	.	.	.	.	.
+!!LO:PB:g=original
+=6	=6	=6	=6	=6	=6	=6	=6	=6	=6
+2cc}	oh!	.	.	.	.	.	.	.	.
+=||	=||	=||	=||	=||	=||	=||	=||	=||	=||
+!!LO:TX:a:B:t=REFRAIN
+{8b-	Com-	.	.	.	.	.	.	.	.
+16b-	-ment	.	.	.	.	.	.	.	.
+16b-	veux-	.	.	.	.	.	.	.	.
+*M2/4	*	*	*	*	*	*	*	*	*
+=7||	=7||	=7||	=7||	=7||	=7||	=7||	=7||	=7||	=7||
+8a	-tu,	.	.	.	.	.	.	.	.
+8a	mon	.	.	.	.	.	.	.	.
+8d	merl',	.	.	.	.	.	.	.	.
+!!!v1: merl' = merle
+*	*bis	*	*	*	*	*	*	*	*
+8d	mon	.	.	.	.	.	.	.	.
+!!LO:PB:g=original
+=8	=8	=8	=8	=8	=8	=8	=8	=8	=8
+(8gL	mer-	.	.	.	.	.	.	.	.
+8gJ)}	-le,	.	.	.	.	.	.	.	.
+{8b-	Com-	.	.	.	.	.	.	.	.
+16b-	-ment	.	.	.	.	.	.	.	.
+16b-	veux-	.	.	.	.	.	.	.	.
+=9	=9	=9	=9	=9	=9	=9	=9	=9	=9
+8a	-tu,	.	.	.	.	.	.	.	.
+8a	mon	.	.	.	.	.	.	.	.
+8d	merl',	.	.	.	.	.	.	.	.
+*	*Xbis	*	*	*	*	*	*	*	*
+8d	chan-	.	.	.	.	.	.	.	.
+=10	=10	=10	=10	=10	=10	=10	=10	=10	=10
+4g}}	-ter?	.	.	.	.	.	.	.	.
+*	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain
+8r	.	.	.	.	.	.	.	.	.
+!!LO:TX:a:t=[segno]
+!!!Note in original: Apres avoir chante la partie du couplet a gauche, on continue a droite et on chante en remontant jusqu'au refrain.
+==	==	==	==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!EED: Isaac Howie
+!!!EEV: 2025/July/01
