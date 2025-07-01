@@ -10,7 +10,7 @@
 !!!SMA:2012 Bibliothèque nationale du Québec; Biblothèque nationale du Canada
 !!!AGN-Laforte: Chanson strophique (avec refrain), 3:4(6), R(13+13)
 !!!AGN-type: Amour?
-!!!AGN-rime: suivies (aabb)
+!!!AGN-rime: monorime \e\
 **kern	**text	**text	**text	**text	**text	**text	**text	**text	**text
 *clefG2	*	*	*	*	*	*	*	*	*
 *k[b-e-]	*	*	*	*	*	*	*	*	*
@@ -19,7 +19,7 @@
 *	*vv:1	*vv:2	*vv:3	*vv:4	*vv:5	*vv:6	*vv:7	*vv:8	*vv:9
 *	*pline:1	*pline:3	*pline:5	*pline:7	*pline:9	*pline:11	*pline:13	*pline:15	*pline:17
 !!LO:TX:a:B:t=Moderato
-8dd	C'est	Son	Il	Ah!	On	Ceux	Ve-	A-	Au
+{{8dd	C'est	Son	Il	Ah!	On	Ceux	Ve-	A-	Au
 4dd	la	a-	la	qu'a'	m'a	qui	-nez	-dieu,	re-
 8b-	bel-	-mant	trou-	vous	dit,	vous	m'y	bel-	-tour
 =1	=1	=1	=1	=1	=1	=1	=1	=1	=1
@@ -27,13 +27,16 @@
 8cc	Fran-	la	seu-	la	au	dit,	-con-	Fran-	la
 8b-	-çoi-	voi-	-let-	bel-	soi-	bel-	-dui-	-çoi-	guer-
 8a	-se,	-r(e),	-te,	-le,	-r(e),	-le,	-re,	-se,	-re,
-*	*refrain	*refrain	*refrain	*refrain	*	*	*	*	*
-8b-	lon	lon	lon	lon	lon	lon	.	.	.
+*	*rp:a	*rp:ɑ	*rp:ɛ	*rp:ɛ	*rp:ɑ	*rp:ɛ	*rp:i	*rp:a	*rp:ɛ
+*	*rf:az,ə	*rf:ɑʁ,ə	*rf:ɛt,ə	*rf:ɛl,ə	*rf:ɑʁ,ə	*rf:ɛl,ə	*rf:iʁ,ə	*rf:az,ə	*rf:ɛʁ,ə
+*	*rs:b	*rs:c	*rs:d	*rs:e	*rs:c	*rs:e	*rs:f	*rs:b	*rs:g
+*	*refrain	*refrain	*refrain	*refrain	*refrain	*refrain	*refrain	*refrain	*refrain
+8b-	lon	lon	lon	lon	lon	lon	lon	lon	lon
 =2	=2	=2	=2	=2	=2	=2	=2	=2	=2
-4g	gai,	gai,	gai,	gai,	gai,	gai,	.	.	.
-*	*Xrefrain	*Xrefrain	*Xrefrain	*	*	*	*	*	*
+4g}	gai,	gai,	gai,	gai,	gai,	gai,	gai,	gai,	gai,
+*	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain
 *	*pline:1r	*pline:3r	*pline:5r	*pline:7r	*pline:9r	*pline:11r	*pline:13r	*pline:15r	*pline:17r
-8dd	C'est	Son	Il	Ah!	On	Ceux	Ve-	A-	Au
+{8dd	C'est	Son	Il	Ah!	On	Ceux	Ve-	A-	Au
 4dd	la	a-	la	qu'a'	m'a	qui	-nez	-dieu,	re-
 8b-	bel-	-mant	trou-	vous	dit,	vous	m'y	bel-	-tour
 !!LO:PB:g=original
@@ -43,10 +46,10 @@
 (4b-	-çoi-	voi-	-let-	bel-	soi-	bel-	-dui-	-çoi-	guer-
 8a)	.	.	.	.	.	.	.	.	.
 =4	=4	=4	=4	=4	=4	=4	=4	=4	=4
-4g	-se,	-r(e),	-te,	-le,	-re,	-le,	-re,	-se,	-re,
+4g}}	-se,	-r(e),	-te,	-le,	-re,	-le,	-re,	-se,	-re,
 8r	.	.	.	.	.	.	.	.	.
 *	*pline:2	*pline:4	*pline:6	*pline:8	*pline:10	*pline:12	*pline:14	*pline:16	*pline:18
-4.b-	Qui	Bien	Sur	Qu'a'	Qu'à	Ont	Jusqu'-	Je	Si
+{{4.b-	Qui	Bien	Sur	Qu'a'	Qu'à	Ont	Jusqu'-	Je	Si
 =5	=5	=5	=5	=5	=5	=5	=5	=5	=5
 4.f	veut	tard	son	vous	la	dit	-au	vous	j'y
 !!!elision: v. 5: guerr' = guerre
@@ -64,10 +67,10 @@
 =7	=7	=7	=7	=7	=7	=7	=7	=7	=7
 L(8b-	ret-	-ret-	-ret-	-ret-	-ret-	-ret-	-ret-	-ret-	-ret-
 J8a)	.	.	.	.	.	.	.	.	.
-8g	-te,	-te,	-te,	-te,	-te,	-te,	-te,	-te,	-te,
+8g}	-te,	-te,	-te,	-te,	-te,	-te,	-te,	-te,	-te,
 *	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain
 *	*pline:2r	*pline:4r	*pline:6r	*pline:8r	*pline:10r	*pline:12r	*pline:14r	*pline:16r	*pline:18r
-4.b-	Qui	Bien	Sur	Qu'a'	Qu'à	Ont	Jusqu'-	Je	Si
+{4.b-	Qui	Bien	Sur	Qu'a'	Qu'à	Ont	Jusqu'-	Je	Si
 =8	=8	=8	=8	=8	=8	=8	=8	=8	=8
 4.f	veut	tard	son	vous	la	dit	-au	vous	j'y
 8g	s'y	a-	lit,	à	guerr'	la	pied	é-	suis
@@ -75,13 +78,16 @@ J8a)	.	.	.	.	.	.	.	.	.
 8b-	-ri-	sou-	pleu-	pleu-	al-	-ri-	ro-	-se-	-spe-
 =9	=9	=9	=9	=9	=9	=9	=9	=9	=9
 8cc	-er,	-per,	-rer,	-rer,	-liez,	-té,	-cher,	-rai.	-cté,
+*	*rp:e	*rp:e	*rp:e	*rp:e	*rp:e	*rp:e	*rp:e	*rp:e	*rp:e
+*	*rf:je	*rf:pe	*rf:ʁe	*rf:ʁe	*rf:je	*rf:te	*rf:ʃe	*rf:ʁe	*rf:te
+*	*rs:a1	*rs:a2	*rs:a3	*rs:a3	*rs:a1	*rs:a4	*rs:a5	*rs:a3	*rs:a4
 *	*refrain	*refrain	*refrain	*refrain	*refrain	*refrain	*refrain	*refrain	*refrain
 8b-	ma-	ma-	ma-	ma-	ma-	ma-	ma-	ma-	ma-
 8cc	-lu-	-lu-	-lu-	-lu-	-lu-	-lu-	-lu-	-lu-	-lu-
 4dd	-ron,	-ron,	-ron,	-ron,	-ron,	-ron,	-ron,	-ron,	-ron,
 8b-	lu-	lu-	lu-	lu-	lu-	lu-	lu-	lu-	lu-
 =10	=10	=10	=10	=10	=10	=10	=10	=10	=10
-4g	-ré.	-ré.	-ré.	-ré.	-ré.	-ré.	-ré.	-ré.	-ré.
+4g}}	-ré.	-ré.	-ré.	-ré.	-ré.	-ré.	-ré.	-ré.	-ré.
 *	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain
 ==	==	==	==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-
