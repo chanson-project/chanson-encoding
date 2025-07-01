@@ -1,0 +1,107 @@
+!!!id: BC066
+!!!page: 83b
+!!!COM: Anonymous (Folklore)
+!!!PTL@@FR: Les 100 plus belles chansons
+!!!OTL@@FR: Nanette
+!!!PUB: La Bonne Chanson, inc.
+!!!YEM: On ne peut reproduire, enregistrer ou diffuser en tout ou en partie le présent ouvrage, sous quelque procédé que ce soit, électronique, mécanique, photographique, sonore, magnétique ou autre, sans avoir obtenu au préalable l'autorisation écrite de l'éditrice.
+!!!PDT: 2011
+!!!SMA: 2012 Bibliothèque nationale du Québec; Biblothèque nationale du Canada
+!!!AGN-Laforte: Chanson (avec refrain), 8:2(6+6), with line repeated à cheval fron v:2 to end; R:1(6+6)
+!!!AGN-type: Chanson morale
+!!!AGN-rime: suivies (aa,bb)
+!!!elision: pline:1Ha, lun' = lune; pline:2Ha, Nanett' = Nanette; pline:, gard' = garde; pline: , follett' = follette; pline:, dériv' = dérive; pline:, bell' = belle
+**kern	**text	**text
+*clefG2	*	*
+*k[f#]	*	*
+*G:	*	*
+!!LO:TX:a:B:t=Larghetto
+*M2/4	*	*
+*	*v:1	*v:2
+*	*pline:1Ha	*pline:2Har
+=1	=1	=1
+{8r	.	.
+8d	Au	J'ai
+8g	beau	ren-
+8b	clair	-con-
+=2	=2	=2
+4dd	de	-tré
+(8ddL	la	Na-
+8bJ)	.	.
+=3	=3	=3
+8.dd	lun',	-nett'
+*	*pline:1Hb	*pline:2Hbr
+16b	m'en	qui
+8cc	al-	al-
+8ee	-lant	-lait
+!!LO:PB:g=original
+=4	=4	=4
+4dd	pro-	s'y
+(16ddL	-me-	bai-
+16cc	.	.
+16b	.	.
+16ccJ)	.	.
+=5	=5	=5
+2b}	-ner,	-gner.
+=6	=6	=6
+*	*rp:e	*rp:e
+*	*rf:ne	*rf:ɲe
+*	*rs:a1	*rs:a2
+*	*pline:2Ha	*pline:3Ha
+{4g	J'ai	Je
+8b	ren-	lui
+8dd	-con-	ai
+=7	=7	=7
+8.b	-tré	dit:
+16dd	Na-	"Na-
+8.dd	-nett'	-nett',
+*	*pline:2Hb	*pline:3Hb
+16ee	qui	prends
+!!LO:PB:g=original
+=8	=8	=8
+8dd	al-	gard'
+8b	-lait	de
+(16bL	s'y	te
+16aJ)	.	.
+8g	bai-	noy-
+=9	=9	=9
+(8.bL	-gner.	-er.
+*	*rp:e	*rp:e
+*	*rf:ɲe	*rf:je
+*	*rs:a2	*rs:a3
+16aJ)}	.	.
+=||;	=||;	=||;
+*>Refrain	*>Refrain	*>Refrain
+*	*pline:R1Ha	*
+!!LO:TX:a:B:t=REFRAIN
+{8d	Gai	.
+16g	fa-	.
+16a	-lu-	.
+=10	=10	=10
+4b	-ron	.
+(16bL	don-	.
+16a	.	.
+8gJ)	.	.
+!!LO:PB:g=original
+=11	=11	=11
+8b	-dai-	.
+8g	-ne,	.
+*	*pline:R1Hb	*
+8dd	Gai	.
+16cc	fa-	.
+16b	-lu-	.
+=12	=12	=12
+(16ccL	-ron	.
+8.bJ)	.	.
+(16aL	don-	.
+16g	.	.
+8f#J)	.	.
+=13	=13	=13
+2g}	-dé	.
+*	*rp:e	*
+*	*rf:de	*
+*	*rs:Ra	*
+==	==	==
+*-	*-	*-
+!!!EED: Ève Poudrier
+!!!EEV: 2025/July/01
