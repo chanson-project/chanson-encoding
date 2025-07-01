@@ -1,0 +1,286 @@
+!!!id: BC047
+!!!page: 60
+!!!COM: Paroles et musique de R. BEAUDRY
+!!!LYR: R. BEAUDRY
+!!!PTL@@FR: Les 100 plus belles chansons
+!!!OTL@@FR: Alouette n'aie pas peur de moi
+!!!PUB: La Bonne Chanson, inc.
+!!!YEM: On ne peut reproduire, enregistrer ou diffuser en tout ou en partie le présent ouvrage, sous quelque procédé que ce soit, électronique, mécanique, photographique, sonore, magnétique ou autre, sans avoir obtenu au préalable l'autorisation écrite de l'éditrice.
+!!!PDT: 2011
+!!!SMA:2012 Bibliothèque nationale du Québec; Biblothèque nationale du Canada
+!!!AGN-Laforte: Chanson strophique (avec refrain), 2:6(8), R9
+!!!AGN-type: Alouette? oiseaux?
+!!!AGN-rime: croisées (ababab)
+**kern	**text	**text
+*clefG2	*	*
+*k[b-e-a-]	*	*
+*D:	*	*
+*M2/2	*	*
+*met(c|)	*	*
+*	*v:1	*v:2
+*	*pline:1	*pline:7
+=1	=1	=1
+!!LO:TX:a:B:t=Moderato
+{{4ee-	On	Mê-
+8ff	t'en	-me
+8ee-	veut	des
+4b-	donc,	en-
+4b-	pauvr[e]	-fants
+=2	=2	=2
+4cc	a-	au
+4cc	-lou-	coeur
+4g	-et	ten-
+4g	-te,	-dre
+*	*rp:ɛ	*rp:ɑ̃
+*	*rf:ɛt,ə	*rf:ɑ̃dʁ,ə
+*	*rs:a	*rs:c
+=3	=3	=3
+*	*pline:2	*pline:8
+4g	Toi,	Par-
+8a-	le	-lent
+8a	doux	de
+4b-	chan-	te
+4b-	-teur	mettr[e]
+!!LO:PB:g=original
+=4	=4	=4
+4g	de	en
+4g	nos	mor-
+2e-}	bois,	-ceaux,
+*	*rp:ɑ	*rp:o
+*	*rf:wɑ	*rf:o
+*	*rs:b	*rs:d
+=5	=5	=5
+*	*pline:3	*pline:9
+{4ee-	Car	Et
+8ff	cha-	l'on
+8ee-	-que	di-
+4b-	fois	-rait
+4b-	qu'on	à
+=6	=6	=6
+4cc	fait	les
+4cc	la	en-
+4dd	fê-	-ten-
+4dd	-te	-dre,
+*	*rp:ɛ	*rp:ɑ̃
+*	*rf:ɛt,ə	*rf:ɑ̃dʁ,ə
+*	*rs:a	*rs:c
+!!LO:PB:g=original
+=7	=7	=7
+*	*pline:4	*pline:10
+4f	On	Qu'ils
+8b-	te	sont
+8dd	mas-	de-
+4ff	-sacr[e]	-ve-
+4ff	à	-nus
+=8	=8	=8
+4f	plei-	des
+4f	-ne	hé-
+2b-;}	voix.	-ros;
+*	*rp:ɑ	*rp:o
+*	*rf:wɑ	*rf:o
+*	*rs:b	*rs:d
+=9	=9	=9
+*	*pline:5	*pline:11
+{4cc	Viens,	Pour-
+8a-	ma	-quoi
+8g	gen-	donc
+4f	-till[e]	ain-
+8g	a-	-si
+8a-	-lou-	s'en
+=10	=10	=10
+2b-	-et-	pren-
+2g	-te,	-dre
+*	*rp:ɛ	*rp:ɑ̃
+*	*rf:ɛt,ə	*rf:ɑ̃dʁ,ə
+*	*rs:a	*rs:c
+!!LO:PB:g=original
+=11	=11	=11
+*	*pline:6	*pline:12
+4a-	Viens	À
+8g	de	de
+8f	po-	si
+4b-	-ser	gen-
+8g	près	-tils
+8f	de	oi-
+=12	=12	=12
+(2e-	moi!	-seaux?
+*	*rp:ɑ	*rp:o
+*	*rf:wɑ	*rf:o
+*	*rs:b	*rs:d
+4e-)}}	.	.
+4r	.	.
+=13||	=13||	=13||
+*>Refrain	*>Refrain	*>Refrain
+*	*pline:R1	*
+!!LO:TX:a:B:t=REFRAIN
+{{4.e-	A-	.
+8f	-lou-	.
+4g	-et-	.
+4g	-te,	.
+=14	=14	=14
+8f	n'aie	.
+8g	pas	.
+8a-	peur	.
+8f	de	.
+2b-	moi,	.
+*	*rp:a	*
+*	*rf:wa	*
+*	*rs:Ra	*
+!!LO:PB:g=original
+=15	=15	=15
+*	*pline:R2	*
+8cc	Viens	.
+8ee-	chan-	.
+8dd	-ter	.
+8cc	en-	.
+8b-	-co-	.
+8g	-re	.
+8e-	tes	.
+8f	re-	.
+=16	=16	=16
+4g	-frains	.
+4e-	jo-	.
+2f}	-yeux,	.
+*	*rp:ø	*
+*	*rf:jø	*
+*	*rs:Rb	*
+=17	=17	=17
+*	*pline:R3	*
+{4.e-	A-	.
+8f	-lou-	.
+4g	-et-	.
+4g	-te,	.
+=18	=18	=18
+8f	j'ai	.
+8g	bâ-	.
+8a-	-ti	.
+8f	pour	.
+2b-	toi	.
+*	*rp:a	*
+*	*rf:wa	*
+*	*rs:Ra	*
+!!LO:PB:g=original
+=19	=19	=19
+*	*pline:R4	*
+8cc	Près	.
+8ee-	de	.
+8dd	ma	.
+8cc	fe-	.
+8b-	-nêtr[e]	.
+8g	un	.
+8f	nid	.
+8e-	doux	.
+=20	=20	=20
+4cc	et	.
+4d	soy-	.
+2e-}}	-eux;	.
+*	*rp:ø	*
+*	*rf:jø	*
+*	*rs:Rb	*
+=21	=21	=21
+*	*pline:R5	*
+{{4.b-	A-	.
+8b-	-lou-	.
+4b-	-et-	.
+4f	-te,	.
+!!LO:PB:g=original
+=22	=22	=22
+*	*bis	*
+4.b-	A-	.
+8b-	-lou-	.
+4b-	-et-	.
+4g	-te,	.
+*	*rp:ɛ	*
+*	*rf:ɛt,ə	*
+*	*rs:Rc	*
+*	*Xbis	*
+=23	=23	=23
+*	*pline:R6	*
+8b-	je	.
+8b-	ne	.
+8b-	te	.
+8b-	plu-	.
+4b-	-me-	.
+8e	-rai	.
+8f	ni	.
+=24	=24	=24
+4.b-	cou,	.
+8b-	ni	.
+4b-	tê-	.
+4g}	-te,	.
+*	*rp:ɛ:	*
+*	*rf:ɛ:t,ə	*
+*	*rs:Rc	*
+*	*pline:R7	*
+=25	=25	=25
+{4.b-	Ni	.
+8b-	les	.
+4b-	pat-	.
+4f	-tes,	.
+!!LO:PB:g=original
+=26	=26	=26
+4.b-	ni	.
+8b-	les	.
+4b-	ai-	.
+4g	-les,	.
+*	*rp:ɛ	*
+*	*rf:ɛl,ə	*
+*	*rs:Rd	*
+=27	=27	=27
+*	*pline:R8	*
+8b-	Ni	.
+8b-	ta	.
+8b-	jo-	.
+8b-	-li	.
+8b-	pe-	.
+8f	-ti-	.
+8e	-te	.
+8f	queue	.
+=28	=28	=28
+4b-	en	.
+4b-	den-	.
+4b-	-tel-	.
+4g}	-les,	.
+*	*rp:ɛ	*
+*	*rf:ɛl,ə	*
+*	*rs:Rd	*
+=29	=29	=29
+*	*pline:R1r	*
+{4.e-	A-	.
+4f	-lou-	.
+4g	-et	.
+4g	-te,	.
+!!LO:PB:g=original
+=30	=30	=30
+8f	n'aie	.
+8g	pas	.
+8a-	peur	.
+8f	de	.
+2b-	moi,	.
+*	*rp:a	*
+*	*rf:wa	*
+*	*rs:Ra	*
+=31	=31	=31
+*	*pline:R9	*
+8cc	Viens	.
+8ee-	me	.
+8dd	fre-	.
+8cc	-don-	.
+8b-	-ner	.
+8g	tes	.
+8a-	chan-	.
+8b-	-sons	.
+=32	=32	=32
+4cc	d'au-	.
+*^	*	*
+4dd	4d	-tre-	.
+4ee-	4e-}}	-fois.	.
+*	*	*rp:a	*
+*	*	*rf:wa	*
+*	*	*rs:Ra	*
+*v	*v	*	*
+4r	.	.
+==	==	==
+*-	*-	*-
+!!!EED: Isaac Howie
+!!!EEV: 2025/July/01
