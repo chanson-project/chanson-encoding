@@ -1,26 +1,27 @@
 !!!id: BC006
 !!!page: 12
-!!!COM: Folklore francais
+!!!COM: Anonymous (Folklore français)
 !!!PTR@@FR: Les 100 plus belles chansons
 !!!OTL@@FR: Gailonla, gai le rosier
 !!!PUB: La Bonne Chanson, inc.
 !!!PDT: 2011
 !!!YEM: On ne peut reproduire, enregistrer ou diffuser en tout ou en partie le présent ouvrage, sous quelque procédé que ce soit, électronique, mécanique, photographique, sonore, magnétique ou autre, sans avoir obtenu au préalable l'autorisation écrite de l'éditrice.
 !!!SMA: 2012 Bibliothèque nationale du Québec; Biblothèque nationale du Canada
-!!!AGN-type: Chanson démour
-!!!AGN-Laforte: Strophique (avec refrain), 8:4(6)
-!!!AGN-rhyme: abcb
+!!!AGN-type: Chanson d'amour
+!!!AGN-Laforte: Chanson en laisse (avec refrain), 8:2(6+6), with répétition à cheval
+!!!AGN-rhyme: v:1,suivies (abab); v:2-8, monorhyme /i/
+!!!elisions: pline:1Ha, derrièr' = derrière; pline:4Ha, chant' = chante; pline:1Hb and 4Hb, added "t" for liaison ("a-t-un"); pline:7Hb, amèn'rait = amènerait
 **kern	**text	**text	**text	**text	**text	**text	**text	**text
 *clefG2	*	*	*	*	*	*	*	*
 *k[f#c#]	*	*	*	*	*	*	*	*
 *D:	*	*	*	*	*	*	*	*
+!!LO:TX:a:t=Allegro non troppo
 *M3/8	*	*	*	*	*	*	*	*
 *	*v:1	*v:2	*v:3	*v:4	*v:5	*v:6	*v:7	*v:8
-*	*pline:1	*pline:2	*pline:3	*pline:4	*pline:5	*pline:6	*pline:7	*pline:8
+*	*pline:1Ha	*pline:2Ha	*pline:3Ha	*pline:4Ha	*pline:5Ha	*pline:6Ha	*pline:7Ha	*pline:8Ha
 =1	=1	=1	=1	=1	=1	=1	=1	=1
-!!LO:TX:a:t=Allegro non troppo
 {{8a	Par	Le	Il	Il	Il	Il	Que	Je
-8a	der-	ros-	chat-	ne	n'est	est	don-	don-
+8a	der-	ros-	chant-	ne	n'est	est	don-	don-
 8a	-rièr'	-si-	-te	chant'	point	dans	-ne-	-ne-
 =2	=2	=2	=2	=2	=2	=2	=2	=2
 4b	chez	-gnol	pour	pas	dans	la	-riez-	-rais
@@ -29,48 +30,51 @@
 (4a	tan-	chan-	bel-	moi,	dan-	-lan-	bel-	-sail-
 8f#)}	-te,	-te	-les	.	-se,	-de,	-le,	-les,
 *	*rp:ã	*rp:ã	*rp:ɛ	*rp:a	*rp:ã	*rp:ã	*rp:ɛ	*rp:a
-*	*rf:ãt,ə	*rf:ãt,ə	*rf:ɛl,ə	*rf:mwa	*rf:ãs	*rf:ãd	*rf:ɛl	*rf:aj
-*	*rs:a	*rs:a	*rs:c	*rs:d	*rs:a	*rs:a	*rs:c	*rs:e
+*	*rf:ãt,ə	*rf:ãt,ə	*rf:ɛl,ə	*rf:wa	*rf:ãs,ə	*rf:ãd,ə	*rf:ɛl,ə	*rf:aj,ə
+*	*rs:a	*rs:a	*rs:d	*rs:e	*rs:f	*rs:g	*rs:d	*rs:h
 =4	=4	=4	=4	=4	=4	=4	=4	=4
+*	*pline:1Hb	*pline:2Hb	*pline:3Hb	*pline:4Hb	*pline:5Hb	*pline:6Hb	*pline:7Hb	*pline:8Hb
 {8a	Lui	Et	Qui	Car	Il	Les	Qui	Pa-
-8a	ya-t-	le	n'ont	j'en	est	Hol-	l'a-	-ris
-8a	-un	jour	pas	ai-	bien	-lan-	-mèn-	et
+8a	y a-t-	le	n'ont	j'en	est	Hol-	l'a-	-ris
+8a	-un	jour	pas	ai-	bien	-lan-	-mèn'-	et
 !!LO:PB:g=original
 =5	=5	=5	=5	=5	=5	=5	=5	=5
-4b	bois	et	de	-t-un	loin	-dais	-'rait	Saint-
+4b	bois	et	de	-t-un	loin	-dais	-rait	Saint-
 8a	jo-	la	ma-	jo-	d'i-	l'ont	i-	De-
 =6	=6	=6	=6	=6	=6	=6	=6	=6
 4a	-li;	nuit.	-ri.	-li.	-ci;	pris.	-ci?	-nis.
-8r}	.	.	.	.	.	.	.	.
 *	*rp:i	*rp:ɥ	*rp:i	*rp:i	*rp:i	*rp:i	*rp:i	*rp:i
 *	*rf:li	*rf:ɥi	*rf:ʁi	*rf:li	*rf:si	*rf:ʁi	*rf:si	*rf:ni
-*	*rs:b	*rs:b	*rs:b	*rs:b	*rs:b	*rs:b	*rs:b	*rs:b
+*	*rs:b1	*rs:b2	*rs:b3	*rs:b1	*rs:b4	*rs:b3	*rs:b4	*rs:b5
+8r}	.	.	.	.	.	.	.	.
 =7	=7	=7	=7	=7	=7	=7	=7	=7
+*	*pline:2Ha	*pline:3Ha	*pline:4Ha	*pline:5Ha	*pline:6Ha	*pline:7Ha	*pline:8Ha	*pline:9Ha
 {8a	Le	Il	Il	Il	Il	Que	Je	Et
-8a	ros-	chat-	ne	n'est	est	don-	don-	la
+8a	ros-	chant-	ne	n'est	est	don-	don-	la
 8a	-si-	-te	chant'	point	dans	-ne-	-ne-	clai-
 =8	=8	=8	=8	=8	=8	=8	=8	=8
 4dd	-gnol	pour	pas	dans	la	-riez-	-rais	-re
 8a	y	ces	pour	la	Hol-	-vous,	Ver-	fon-
 =9	=9	=9	=9	=9	=9	=9	=9	=9
 (4a	chan-	bel-	moi,	dan-	-lan-	bel-	-sail-	-tai-
-8f#)	-te	-les	.	se,	-de:	-le,	-les,	-ne
+8f#)	-te	-les	.	-se,	-de:	-le,	-les,	-ne
 *	*rp:ã	*rp:ɛ	*rp:a	*rp:ã	*rp:ã	*rp:ɛ	*rp:a	*rp:ɛ
-*	*rf:ãt,ə	*rf:ɛl	*rf:mwa	*rf:ãs	*rf:ãd	*rf:ɛl	*rf:aj	*rf:ɛn
-*	*rs:a	*rs:c	*rs:d	*rs:a	*rs:a	*rs:c	*rs:e	*rs:f
+*	*rf:ãt,ə	*rf:ɛl,ə	*rf:wa	*rf:ãs,ə	*rf:ãd,ə	*rf:ɛl,ə	*rf:aj,ə	*rf:ɛn,ə
+*	*rs:a	*rs:d	*rs:e	*rs:f	*rs:g	*rs:d	*rs:h	*rs:i
 !!LO:PB:g=original
 =10	=10	=10	=10	=10	=10	=10	=10	=10
+*	*pline:2Hb	*pline:3Hb	*pline:4Hb	*pline:5Hb	*pline:6Hb	*pline:7Hb	*pline:8Hb	*pline:9Hb
 8f#	Et	Qui	Car	Il	Les	Qui	Pa-	De
 8f#	le	n'ont	j'en	est	Hol-	l'a-	-ris	mon
-8f#	jour	pas	ai-	bien	-lan-	-mèn-	et	jar-
+8f#	jour	pas	ai-	bien	-lan-	-mèn'-	et	jar-
 =11	=11	=11	=11	=11	=11	=11	=11	=11
-4a	et	de	-t-un	loin	-dais	-'rait	Saint-	din
+4a	et	de	-t-un	loin	-dais	-rait	Saint-	-din
 8f#	la	ma-	jo-	d'i-	l'ont	i-	De-	jo-
 =12	=12	=12	=12	=12	=12	=12	=12	=12
-4.e}}	nuit.	-ri	-li.	-ci	pris.	-ci?	-nis.	li.
+4.e}}	nuit.	-ri	-li.	-ci	pris.	-ci?	-nis.	-li.
 *	*rp:ɥ	*rp:i	*rp:i	*rp:i	*rp:i	*rp:i	*rp:i	*rp:i
 *	*rf:ɥi	*rf:ʁi	*rf:li	*rf:si	*rf:ʁi	*rf:si	*rf:ni	*rf:li
-*	*rs:b	*rs:b	*rs:b	*rs:b	*rs:b	*rs:b	*rs:b	*rs:b
+*	*rs:b2	*rs:b3	*rs:b1	*rs:b4	*rs:b3	*rs:b4	*rs:b5	*rs:b1
 =||13	=||13	=||13	=||13	=||13	=||13	=||13	=||13	=||13
 *>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain
 !!LO:TX:a:B:t=Refrain
@@ -101,3 +105,5 @@
 *-	*-	*-	*-	*-	*-	*-	*-	*-
 !!!EED: Jason Lau
 !!!EEV: 2025/May/13
+!!!EED: Ève Poudrier
+!!!EEV: 2025/July/01
