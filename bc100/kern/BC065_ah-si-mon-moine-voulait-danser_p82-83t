@@ -1,0 +1,151 @@
+!!!id: BC065
+!!!page: 82-83t
+!!!COM: Anonymous (Folklore)
+!!!PTL@@FR: Les 100 plus belles chansons
+!!!OTL@@FR: Ah! Si mon moine voulait danser
+!!!PUB: La Bonne Chanson, inc.
+!!!YEM: On ne peut reproduire, enregistrer ou diffuser en tout ou en partie le présent ouvrage, sous quelque procédé que ce soit, électronique, mécanique, photographique, sonore, magnétique ou autre, sans avoir obtenu au préalable l'autorisation écrite de l'éditrice.
+!!!PDT: 2011
+!!!SMA: 2012 Bibliothèque nationale du Québec; Biblothèque nationale du Canada
+!!!AGN-Laforte: Chanson énumérative (avec refrains intégré and stand-alone), 6:2r(9); R:4(5,6,9)
+!!!AGN-type: Chanson d'objets
+!!!AGN-rime: monorhyme /e/, with variante /ɛ/
+!!!elision: pline:R1, moin' = moine; pline:5, bur' = bure;
+**kern	**text	**text	**text	**text	**text	**text
+*clefG2	*	*	*	*	*	*
+*k[f#]	*	*	*	*	*	*
+*G:	*	*	*	*	*	*
+*M2/4	*	*	*	*	*	*
+*	*v:1	*v:2	*v:3	*v:4	*v:5	*v:6
+*	*pline:1	*pline:1	*pline:1	*pline:1	*pline:1	*pline:1
+*	*refrain	*refrain	*refrain	*refrain	*refrain	*refrain
+*	*italic	*italic	*italic	*italic	*italic	*italic
+{{16d	Ah!	Ah!	Ah!	Ah!	Ah!	Ah!
+8g	si	si	si	si	si	si
+8b	mon	mon	mon	mon	mon	mon
+=1	=1	=1	=1	=1	=1	=1
+8b	moi-	moi-	moi-	moi-	moi-	moi-
+16a	-ne	-ne	-ne	-ne	-ne	-ne
+16g	vou-	vou-	vou-	vou-	vou-	vou-
+8a	-lait	-lait	-lait	-lait	-lait	-lait
+8a	dan-	dan-	dan-	dan-	dan-	dan-
+=2	=2	=2	=2	=2	=2	=2
+8b	-ser!	-ser!	-ser!	-ser!	-ser!	-ser!
+*	*rp:e	*rp:e	*rp:e	*rp:e	*rp:e	*rp:e
+*	*rf:se	*rf:se	*rf:se	*rf:se	*rf:se	*rf:se
+*	*rs:a1	*rs:a1	*rs:a1	*rs:a1	*rs:a1	*rs:a1
+16r}	.	.	.	.	.	.
+*	*pline:1r	*pline:1r	*pline:1r	*pline:1r	*pline:1r	*pline:1r
+{16a	Ah!	Ah!	Ah!	Ah!	Ah!	Ah!
+8g	si	si	si	si	si	si
+8b	mon	mon	mon	mon	mon	mon
+!!LO:PB:g=original
+=3	=3	=3	=3	=3	=3	=3
+8b	moi-	moi-	moi-	moi-	moi-	moi-
+16a	-ne	-ne	-ne	-ne	-ne	-ne
+16g	vou-	vou-	vou-	vou-	vou-	vou-
+8a	-lait	-lait	-lait	-lait	-lait	-lait
+8a	dan-	dan-	dan-	dan-	dan-	dan-
+=4	=4	=4	=4	=4	=4	=4
+8g	-ser!	-ser!	-ser!	-ser!	-ser!	-ser!
+*	*rp:e	*rp:e	*rp:e	*rp:e	*rp:e	*rp:e
+*	*rf:se	*rf:se	*rf:se	*rf:se	*rf:se	*rf:se
+*	*rs:a1	*rs:a1	*rs:a1	*rs:a1	*rs:a1	*rs:a1
+16r}}	.	.	.	.	.	.
+*	*Xitalic	*Xitalic	*Xitalic	*Xitalic	*Xitalic	*Xitalic
+*	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain
+*	*pline:2	*pline:3	*pline:4	*pline:5	*pline:6	*pline:7
+{{16d	Un	Un	Un	Un	Un	S'il
+8g	ca-	cein-	cha-	froc	beau	n'a-
+8b	-pu-	-tu-	-pe-	de	psau-	-vait
+=5	=5	=5	=5	=5	=5	=5
+8b	-chon	-ron	-let	bur'	-tier	fait
+16a	je	je	je	je	je	voeu
+16g	lui	lui	lui	lui	lui	de
+8a	don-	don-	don-	don-	don-	pau-
+8a	-ne-	-ne-	-ne-	-ne-	-ne-	-vre-
+!!LO:PB:g=original
+=6	=6	=6	=6	=6	=6	=6
+8b	-rais,	-rais,	-rais,	rais,	-rais,	-té,
+*	*rp:ɛ	*rp:ɛ	*rp:ɛ	*rp:ɛ	*rp:ɛ	*rp:e
+*	*rf:ʁɛ	*rf:ʁɛ	*rf:ʁɛ	*rf:ʁɛ	*rf:ʁɛ	*rf:te
+*	*rs:b	*rs:b	*rs:b	*rs:b	*rs:b	*rs:a2
+16r}	.	.	.	.	.	.
+*	*pline:2r	*pline:3r	*pline:4r	*pline:5r	*pline:6r	*pline:8
+{16a	Un	Un	Un	Un	Un	Bien
+8g	ca-	cein-	cha-	froc	beau	d'au-
+8b	-pu-	-tu-	-pe-	de	psau-	-tres
+=7	=7	=7	=7	=7	=7	=7
+8b	-chon	-ron	-let	bur'	-tier	chos[es]
+16a	je	je	je	je	je	je
+16g	lui	lui	lui	lui	lui	lui
+8a	don-	don-	don-	don-	don-	don-
+8a	-ne-	-ne-	-ne-	-ne-	-ne-	-ne-
+!!LO:PB:g=original
+=8	=8	=8	=8	=8	=8	=8
+8g	-rais.	-rais.	-rais.	-rais.	rais.	rais.
+*	*rp:ɛ	*rp:ɛ	*rp:ɛ	*rp:ɛ	*rp:ɛ	*rp:ɛ
+*	*rf:ʁɛ	*rf:ʁɛ	*rf:ʁɛ	*rf:ʁɛ	*rf:ʁɛ	*rf:ʁɛ
+*	*rs:b	*rs:b	*rs:b	*rs:b	*rs:b	*rs:b
+8r}}	.	.	.	.	.	.
+=||	=||	=||	=||	=||	=||	=||
+*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain
+*	*pline:R1	*	*	*	*	*
+!!LO:TX:a:B:t=REFRAIN
+{{8.dd^	Dan-	.	.	.	.	.
+16cc	-se,	.	.	.	.	.
+=9	=9	=9	=9	=9	=9	=9
+8b	mon	.	.	.	.	.
+8b	moin',	.	.	.	.	.
+*	*bis	*	*	*	*	*
+4dd^	dan-	.	.	.	.	.
+=10	=10	=10	=10	=10	=10	=10
+8b}	-se!	.	.	.	.	.
+*	*Xbis	*	*	*	*	*
+*	*pline:R2	*	*	*	*	*
+{8b	Tu	.	.	.	.	.
+8dd	n'en-	.	.	.	.	.
+8dd	-tends	.	.	.	.	.
+!!LO:PB:g=original
+=11	=11	=11	=11	=11	=11	=11
+8b	pas	.	.	.	.	.
+8b	la	.	.	.	.	.
+4dd^	dan-	.	.	.	.	.
+=12	=12	=12	=12	=12	=12	=12
+8b	-se,	.	.	.	.	.
+16r}}	.	.	.	.	.	.
+*	*pline:R3	*	*	*	*	*
+*	*bis	*	*	*	*	*
+{{16a	Tu	.	.	.	.	.
+8g	n'en-	.	.	.	.	.
+8b	-tends	.	.	.	.	.
+=13	=13	=13	=13	=13	=13	=13
+8b	pas	.	.	.	.	.
+*	*Xbis	*	*	*	*	*
+16a	mon	.	.	.	.	.
+16g	mou-	.	.	.	.	.
+8a	-lin,	.	.	.	.	.
+8a	lon	.	.	.	.	.
+!!LO:PB:g=original
+=14	=14	=14	=14	=14	=14	=14
+8b	la,	.	.	.	.	.
+16r}	.	.	.	.	.	.
+*	*pline:R4	*	*	*	*	*
+*	*bis	*	*	*	*	*
+{16a	Tu	.	.	.	.	.
+8g	n'en-	.	.	.	.	.
+8b	-tends	.	.	.	.	.
+=15	=15	=15	=15	=15	=15	=15
+8b	pas	.	.	.	.	.
+16a	mon	.	.	.	.	.
+16g	mou-	.	.	.	.	.
+8a	-lin	.	.	.	.	.
+*	*Xbis	*	*	*	*	*
+8a	mar-	.	.	.	.	.
+=16	=16	=16	=16	=16	=16	=16
+8.g}}	-cher!	.	.	.	.	.
+==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-
+!!!EED-note: Elision added in pline:8 for "chos[es]" to fit musical setting.
+!!!EED: Ève Poudrier
+!!!EEV: 2025/July/01
