@@ -10,7 +10,7 @@
 !!!AGN-Laforte: Chanson énumérative (avec refrains intégré and stand-alone), 6:2r(9); R:4(5,6,9)
 !!!AGN-type: Chanson d'objets
 !!!AGN-rime: monorhyme /e/, with variante /ɛ/
-!!!elision: pline:R1, moin' = moine; pline:5, bur' = bure;
+!!!elision: pline:R1, moin' = moine; pline:5, bur' = bure; elision added in pline:8 for "chos[es]" to fit musical setting.
 **kern	**text	**text	**text	**text	**text	**text
 *clefG2	*	*	*	*	*	*
 *k[f#]	*	*	*	*	*	*
@@ -146,7 +146,6 @@
 8.g}}	-cher!	.	.	.	.	. .
 ==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-
-!!!PUB-note: Le texte de cette chanson est basé sur un jeu de mots. Dans le langage populaire du Québec on donne le nom de "moine" au petit jouet de bois appelé en France: "toupie d'Allemagne". Apparemment il s'agit d'un moine (un religieux); Mais en réalité, il s'agit d'une toupie que les enfants essayent de faire danser en la fouettant légèrement avec leur corde.
-!!!EED-note: Elision added in pline:8 for "chos[es]" to fit musical setting.
+!!!EED-note-Gadbois: Le texte de cette chanson est basé sur un jeu de mots. Dans le langage populaire du Québec on donne le nom de "moine" au petit jouet de bois appelé en France: "toupie d'Allemagne". Apparemment il s'agit d'un moine (un religieux); Mais en réalité, il s'agit d'une toupie que les enfants essayent de faire danser en la fouettant légèrement avec leur corde.
 !!!EED: Ève Poudrier
 !!!EEV: 2025/July/01
