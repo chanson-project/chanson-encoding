@@ -10,24 +10,24 @@
 !!!SMA: 2012 Bibliothèque nationale du Québec; Biblothèque nationale du Canada
 !!!AGN: Chanson composée
 !!!AGN-type: Chanson d'amour
-!!!AGN-Laforte: Chanson strophique (avec refrain), 2:4(11)
-!!!AGN-rhyme: croisées (abab)
+!!!AGN-Laforte: Chanson strophique (avec refrain), 2:4(11), R:4(6+6)
+!!!AGN-rhyme: croisées (abab), including refrain
 **kern	**text	**text
 *clefG2	*	*
 *k[b-e-a-d-]	*	*
 *kcancel	*	*
-*A-:	*	*
+*f:	*	*
 !!LO:TX:a:t=Avec enthousiasme
 *M6/8	*	*
 *	*v:1	*v:2
-*	*pline:1	*pline:2
+*	*pline:1	*pline:5
 =1	=1	=1
 8f	La	Les
 8cc	ter-	cou-
 8cc	-re	-ples
 8cc	s'é-	s'en
 =2	=2	=2
-8b-	-veille	vont
+8b-	-veill[e]	vont
 8b-	aux	dou-
 8b-	bai-	-ce
 8a-	-sers	-ment
@@ -35,10 +35,11 @@
 8a-	so-	le
 !!LO:LB:g=original
 =3	=3	=3
-4g	leil,	soir
+4g	-leil,	soir
 *	*rp:ɛ	*rp:a
-*	*rf:lɛj	*rf:swaʁ
-*	*rs:a	*rs:d
+*	*rf:lɛj	*rf:waʁ
+*	*rs:a	*rs:c
+*	*pline:2	*pline:6
 8g	La	Rê-
 8b-	fleur	-ver
 8b-	ap-	sous
@@ -52,11 +53,12 @@
 8g	prai-	-ter-
 !!LO:LB:g=original
 =5	=5	=5
-[8f	-rie,	-nel-
-8f],	.	-les;
+(8f	-ri-	-nel-
+8f),	-e,	-les;
 *	*rp:i	*rp:ɛ
-*	*rf:ʁi	*rf:lɛ
-*	*rs:b	*rs:a
+*	*rf:i,ə	*rf:lɛ,ə
+*	*rs:b	*rs:d
+*	*pline:3	*pline:7
 8f	Le	Les
 8cc	coeur	coeurs
 8cc	en-	sont
@@ -70,10 +72,11 @@
 8a-	som-	d'es-
 !!LO:LB:g=original
 =7	=7	=7
-4g	meil,	poir;
+4g	-meil,	-poir;
 *	*rp:ɛ	*rp:a
-*	*rf:mɛj	*rf:pwaʁ
-*	*rs:a	*rs:d
+*	*rf:mɛj	*rf:waʁ
+*	*rs:a	*rs:c
+*	*pline:4	*pline:8
 8g	A-	Car
 8b-	-vec	c'est
 8b-	le	le
@@ -88,16 +91,17 @@
 8a-	la	sont
 =9||	=9||	=9||
 *M3/4	*	*
-[2cc.	vi-	bel-
+(2cc.	vi-	bel-
 =10	=10	=10
-4cc]	-e:	-les:
+4cc)	-e:	-les:
 *	*rp:i	*rp:ɛ
-*	*rf:vi	*rf:lɛ
-*	*rs:b	*rs:a
+*	*rf:i,ə	*rf:lɛ,ə
+*	*rs:b	*rs:d
 !!LO:LB:g=original
 =11||	=11||	=11||
 *>Refrain	*>Refrain	*>Refrain
 !!LO:TX:a:B:t=Refrain:cj
+*	*pline:R1Ha	*
 4a	C'est	.
 4b-	le	.
 =12||	=12||	=12||
@@ -112,11 +116,15 @@
 =14	=14	=14
 [2f.	-las,	.
 =15	=15	=15
+*	*rp:a	*
+*	*rf:la	*
+*	*rs:Ra1	*
 4f]	.	.
+*	*pline:R1Hb	*
 4e	la	.
 4f	na-	.
 =16	=16	=16
-[2g.	-ture	.
+[2g.	-tur[e]	.
 =17	=17	=17
 4g]	.	.
 4a	est	.
@@ -126,8 +134,9 @@
 =19	=19	=19
 4g,	-te,	.
 *	*rp:ɛː	*
-*	*rf:fɛːt	*
-*	*rs:c	*
+*	*rf:ɛːt,ə	*
+*	*rs:Rb	*
+*	*pline:R2Ha	*
 4a	Dans	.
 4b-	les	.
 !!LO:LB:g=original
@@ -140,7 +149,11 @@
 =22	=22	=22
 [2f.	bois,	.
 =23	=23	=23
+*	*rp:a	*
+*	*rf:wa	*
+*	*rs:Ra2	*
 4f]	.	.
+*	*pline:R2Hb	*
 4e	au	.
 4f	con-	.
 =24	=24	=24
@@ -154,8 +167,9 @@
 =27	=27	=27
 4g,	-te;	.
 *	*rp:ɛ	*
-*	*rf:pʁɛt	*
-*	*rs:a	*
+*	*rf:ɛt,ə	*
+*	*rs:Rb	*
+*	*pline:R3Ha	*
 4f	Le	.
 4f	bon-	.
 !!LO:LB:g=original
@@ -168,7 +182,11 @@
 =30	=30	=30
 [2cc.	l'air,	.
 =31	=31	=31
+*	*rp:ɛ	*
+*	*rp:ɛʁ	*
+*	*rp:Rc	*
 4cc]	.	.
+*	*pline:R3Hb	*
 4b-	il	.
 4a	est	.
 =32	=32	=32
@@ -181,9 +199,10 @@
 [2a.	pas,	.
 *	*rp:a	*
 *	*rf:pa	*
-*	*rs:d	*
+*	*rs:Ra3	*
 =35	=35	=35
 4a]	.	.
+*	*pline:R4Ha	*
 4a	C'est	.
 4a	le	.
 !!LO:LB:g=original
@@ -195,8 +214,12 @@
 4b-	plus	.
 =38	=38	=38
 [2a.	cher,	.
+*	*rp:ɛ	*
+*	*rp:ɛʁ	*
+*	*rp:Rc	*
 =39	=39	=39
 4a]	.	.
+*	*pline:R4Hb	*
 4cc	c'est	.
 4a	le	.
 =40	=40	=40
@@ -210,11 +233,11 @@
 4f	-las!	.
 *	*rp:a	*
 *	*rf:la	*
-*	*rs:d	*
-=||	=||	=||
-*k[b-e-a-d-]	*	*
-!!!RNB: Remove the following line after Craig allows cautionary key signature
-.	.	.
+*	*rs:Ra1	*
+==	==	==
 *-	*-	*-
+!!!EED-note: Did not encode cautionary accidentals at the end of refrain and used final barline instead of double. Moved the "e" of "prai-ri-e" (v:1, pline:2) to the end of the slur to be consistent with "vi-e" (v:1, pline:4).
 !!!EED: Jason Lau
-!!!EEV: 2025/06/06
+!!!EEV: 2025/June/06
+!!!EED: Ève Poudrier
+!!!EEV: 2025/July/01
