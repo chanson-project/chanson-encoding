@@ -12,25 +12,17 @@
 !!!AGN-type: Chanson d'amour
 !!!AGN-rime: croisées (abab)
 **kern	**text	**text	**text
+*>[A,A12,A,A12,A,A3]	*>[A,A12,A,A12,A,A3]	*>[A,A12,A,A12,A,A3]	*>[A,A12,A,A12,A,A3]
 *clefG2	*	*	*
 *k[b-]	*	*	*
 *F:	*	*	*
 *M2/4	*	*	*
-=1	=1	=1	=1
-!!rests not hidden, despite "yy"
-2ryy	.	.	.
-=2	=2	=2	=2
-2ryy	.	.	.
-=3	=3	=3	=3
-2ryy	.	.	.
 =4	=4	=4	=4
-4r	.	.	.
-8r	.	.	.
-!!LO:TX:a:t=[segno]:cj:fs=small
+*>A	*>A	*>A	*>A
 *	*v:1	*v:2	*v:3
 *	*pline:1	*pline:9	*pline:17
 {{8c	O	É-	Vois
-=5||:	=5||:	=5||:	=5||:
+=5	=5	=5	=5
 8a	toi	-cou-	le
 8a	qui	-te,	ruis-
 8b-	de	l'oi-	-seau
@@ -127,10 +119,8 @@
 8b-	Il	Il	Il
 !!LO:PB:g=original
 =19	=19	=19	=19
-*>1st Ending	*>1st Ending	*>1st Ending	*>1st Ending
-*>2nd Ending	*>2nd Ending	*>2nd Ending	*>2nd Ending
-!!repeat boxes missing
-!!LO:TX:a:t=1., 2.
+!!LO:TX:a:t=1.,2.
+*>A12	*>A12	*>A12	*>A12
 8a	faut	faut	faut
 8a	croir[e]	croir[e]	croir[e]
 8g	au	au	au
@@ -141,18 +131,16 @@
 *	*rf:œʁ	*rf:œʁ	*rf:œʁ
 *	*rs:d2	*rs:d2	*rs:d2
 8r}	.	.	.
-=:||	=||	=||	=||
-*>3rd Ending	*>3rd Ending	*>3rd Ending	*>3rd Ending
 !!LO:TX:a:t=3.
+*>A3	*>A3	*>A3	*>A3
+=:||	=||	=||	=||
 8a	faut	faut	faut
 8a	croir[e]	croir[e]	croir[e]
-!!LO:TX:a:I:t=rit.
-!!italics not showing for "rit."
+!!LO:TX:a:i:t=rit.
 8cc	au	au	au
 8cc	bon-	bon-	bon-
 =20	=20	=20	=20
-!!needed to do two brackets at the begonning for a bracket to appear.
-2ff;}}	-heur!	-heur!	-heur!
+2ff;}	-heur!	-heur!	-heur!
 *	*rp:œ	*rp:œ	*rp:œ
 *	*rf:œʁ	*rf:œʁ	*rf:œʁ
 *	*rs:d2	*rs:d2	*rs:d2
@@ -160,4 +148,4 @@
 *-	*-	*-	*-
 !!!EED: Ève Poudrier
 !!!EEV: 2025/June/20
-!!!note: Layout differ from original: no pick-up note at the end of the strophe and del segno replaced by repeats at m. 5 and end of m. 20, 1st/2nd ending. Ending numbers added.
+!!!RNB: Inital 3 bars of rests not encoded; measure numbering preserved. Layout differ from original: no pick-up note at the end of the strophe and del segno replaced by repeats at m. 5 and end of m. 20, 1st/2nd ending. Ending numbers added.
