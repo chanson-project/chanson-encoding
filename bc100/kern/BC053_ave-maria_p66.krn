@@ -15,14 +15,9 @@
 *k[b-e-]	*	*
 *B-:	*	*
 !!LO:TX:a:t=Très lent 
-!words are not showing	!	!
 *M4/4	*	*
 *met(c)	*	*v:1
 *	*	*pline:1
-=1	=1	=1
-1r	.	.
-=2	=2	=2
-1r	.	.
 =3	=3	=3
 4b-.	<	A-
 16a	(	-ve
@@ -192,16 +187,10 @@ q16b-J	.	.
 *	*	*rs:x
 4r	.	.
 2r	.	.
-=15	=15	=15
-!dot added to prevent multiple measure rests	!	!
-.	.	.
-1r	.	.
-=16	=16	=16
-.	.	.
-1r	.	.
-=17	=17	=17
-1r	.	.
 ==	==	==
 *-	*-	*-
 !!!EED:Jason Lau
 !!!EEV:2025/06/17
+!!!EED: Ève Poudrier
+!!!EEV: 2025/07/04
+!!!RNB: Two introduction measures, probably associated with an instrumental accompaniment in the source songs, were omitted; original bar numbering is preserved. Three postlude measures were also omitted.
