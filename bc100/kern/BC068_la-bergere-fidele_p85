@@ -1,0 +1,117 @@
+!!!id: BC068
+!!!page: 85
+!!!COM: Gadbois, Charles-Émile
+!!!LYR: Gadbois, Charles-Émile
+!!!PTL@@FR: Les 100 plus belles chansons
+!!!OTL@@FR: La bergère fidèle
+!!!PUB: La Bonne Chanson, inc.
+!!!YEM: On ne peut reproduire, enregistrer ou diffuser en tout ou en partie le présent ouvrage, sous quelque procédé que ce soit, électronique, mécanique, photographique, sonore, magnétique ou autre, sans avoir obtenu au préalable l'autorisation écrite de l'éditrice.
+!!!PDT: 2011
+!!!SMA: 2012 Bibliothèque nationale du Québec; Biblothèque nationale du Canada
+!!!AGN-Laforte: Chanson strophique (avec refrain), 3:4(8); R:2(6)
+!!!AGN-type: Chanson paysanne
+!!!AGN-rime: croisées (abab,cbcb,abab); refrain = b
+!!!LYR-elision: none
+**kern	**text	**text	**text
+*clefG2	*	*	*
+*k[b-e-]	*	*	*
+*g:	*	*	*
+!!LO:TX:a:t=Moderato
+*M6/8	*	*	*
+*	*v:1	*v:2	*v:3
+*	*pline:1	*pline:5	*pline:9
+{{8b-	U-	Mon	Si
+8b-	-ne	pe-	vo-
+8b-	ber-	-tit	-tre
+=1	=1	=1	=1
+4b-	-gè-	nom,	coeur,
+8b-	-re	c'est	ma-
+4a	sag[e]	Mé-	-de-
+8g	et	-li-	-moi-
+=2	=2	=2	=2
+4b-	bel-	-san-	-sel-
+8b-}	-le	-dre,	-le,
+*	*rp:ɛ	*rp:ɑ̃	*rp:ɛ
+*	*rf:ɛl,ə	*rf:ɑ̃dʁ,ə	*rf:ɛl,ə
+*	*rs:a	*rs:c	*rs:a
+*	*pline:2	*pline:6	*pline:10
+{8b-	Gar-	Je	A
+8b-	-dait	suis	dé-
+8b-	un	la	-jà
+!!LO:PB:g=original
+=3	=3	=3	=3
+4b-	jour	fil-	pris
+8b-	ses	-le	sa
+4a	blancs	du	dé-
+8g	mou-	ma-	-ci-
+=4	=4	=4	=4
+4b-	-tons;	-çon;	-sion,
+*	*rp:ɔ̃	*rp:ɔ̃	*rp:ɔ̃
+*	*rf:tɔ̃	*rf:sɔ̃	*rf:ziɔ̃
+*	*rs:b1	*rs:b3	*rs:b4
+8r}}	.	.	.
+*	*pline:3	*pline:7	*pline:11
+{{8b-	Un	Et	À
+8b-	doux	j'ai	votr[e]
+8b-	ber-	du	a-
+=5	=5	=5	=5
+4dd	-ger	coeur	-mi
+8dd	s'ap-	à	res-
+4cc	-pro-	n'en	-tez
+8b-	-cha	re-	fi-
+!!LO:PB:g=original
+=6	=6	=6	=6
+4a	d'el-	-ven-	-dè-
+8a}	-le,	-dre,	-le,
+*	*rp:ɛ	*rp:ɑ̃	*rp:ɛ
+*	*rf:ɛl,ə	*rf:ɑ̃dʁ,ə	*rf:ɛl,ə
+*	*rs:a	*rs:c	*rs:a
+*	*pline:4	*pline:8	*pline:12
+{8a	Lui	Mais	So-
+8a	de-	je	-yez
+8a	-man-	le	heu-
+=7	=7	=7	=7
+4cc	-da	gar-	-reus[e]
+8cc	son	-de	a-
+4b-	pe-	pour	-vec
+8a	-tit	Toi-	Toi-
+=8	=8	=8	=8
+4g	nom.	-non!	-non!
+*	*rp:ɔ̃	*rp:ɔ̃	*rp:ɔ̃
+*	*rf:nɔ̃	*rf:nɔ̃	*rf:nɔ̃
+*	*rs:b2	*rs:b2	*rs:b2
+8r}}	.	.	.
+=||	=||	=||	=||
+*>Refrain	*>Refrain	*>Refrain	*>Refrain
+*	*pline:R1	*	*
+!!LO:TX:a:B:t=REFRAIN
+{{4.b-^	Sau-	.	.
+!!LO:PB:g=original
+=9	=9	=9	=9
+4.g	-tez,	.	.
+8b-	bel-	.	.
+8b-	-le	.	.
+8b-	ber-	.	.
+=10	=10	=10	=10
+4a	-gè-	.	.
+8a}	-re,	.	.
+*	*rp:ɛː	*	*
+*	*rf:x	*	*
+*	*rs:x	*	*
+*	*pline:R2	*	*
+{4.cc^	Dan-	.	.
+=11	=11	=11	=11
+4.a	-sez,	.	.
+8b-	c'est	.	.
+8a	de	.	.
+8b-	sai-	.	.
+=12	=12	=12	=12
+4g	-son!	.	.
+*	*rp:ɔ̃	*	*
+*	*rf:zɔ̃	*	*
+*	*rs:b5	*	*
+8r}}	.	.	.
+==	==	==	==
+*-	*-	*-	*-
+!!!EED: Ève Poudrier
+!!!EEV: 2025/07/09
