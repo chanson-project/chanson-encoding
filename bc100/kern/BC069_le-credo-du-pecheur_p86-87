@@ -8,124 +8,160 @@
 !!!YEM: On ne peut reproduire, enregistrer ou diffuser en tout ou en partie le présent ouvrage, sous quelque procédé que ce soit, électronique, mécanique, photographique, sonore, magnétique ou autre, sans avoir obtenu au préalable l'autorisation écrite de l'éditrice.
 !!!PDT: 2011
 !!!SMA: 2012 Bibliothèque nationale du Québec; Biblothèque nationale du Canada
-!!!AGN-Laforte: Chanson strophique (avec refrain intégré), 5:4(8)+R:4(8); refrain variant for v:5
-!!!AGN-type: Chanson de pêcheur
+!!!AGN-Laforte: Chanson strophique (avec refrain intégré), 5:8(4+4); pline:5-8 are repeated in v:1-5, with variant in v:5.
+!!!AGN-type: Chanson allegorique religieuse
 !!!AGN-rime: croisées (abab/cdcd,aeae/cdcd,etc.)
-!!!LYR-elision: 
-**kern
-*clefG2
-*k[b-e-a-]
-*E-:
+!!!LYR-elision: pline:3, mordr' = mordre, ham'çons = hameçons; pline:4, Comm' = comme; pline:6(25), n'vous = ne vous, f'rai = ferai; d'mal = de mal; pline:8, j'voudrais = je voudrais; pline:10, roug's = rouges; pline:12, d'ssous = dessous; pline:16, bell's = belles; pline:19, j'vous = je vous, compos' = compose, mêm' = même; pline:23, tout's = toutes; pline:24, êt's = êtes, d'vos = de vos.
+**kern	**text	**text	**text	**text	**text
+*clefG2	*	*	*	*	*
+*k[b-e-a-]	*	*	*	*	*
+*E-:	*	*	*	*	*
 !!LO:TX:a:t=Allegretto
-*M2/4
-*
-*
-=1
-8g
-16a-
-16b-/
-16g
-16g
-16a-
-16b-/
-=2
-[4f
-8f]
-8r
+*M2/4	*	*	*	*	*
+*	*v:1	*v:2	*v:3	*v:4	*v:5
+*	*pline:1Ha	*pline:9Ha=1Har	*pline:13Ha=1Har	*pline:17Ha=1Har	*pline:21Ha=1Har
+=1	=1	=1	=1	=1	=1
+{{{8g	Je	Je	Je	Je	Je
+16a-	crois	crois	crois	crois	crois
+16b-/	en	en	en	en	en
+16g	vous,	vous,	vous,	vous,	vous,
+*	*pline:1Hb	*pline:9Hb(1Hb3)	*pline:13Hb(1Hb3)	*pline:17Hb(1Hb3)	*pline:21Hb(1Hb3)
+16g	pe-	moy-	les	tous	hu-
+16a-	-tits	-ens	gros	les	-mains
+16b-/	pois-	pois-	pois-	pois-	pois-
+=2	=2	=2	=2	=2	=2
+[4f	-sons	-sons,	-sons,	-sons,	-sons,
+*	*rp:ɔ̃	*rp:ɔ̃	*rp:ɔ̃	*rp:ɔ̃	*rp:ɔ̃
+*	*rf:sɔ̃	*rf:sɔ̃	*rf:sɔ̃	*rf:sɔ̃	*rf:sɔ̃
+*	*rs:a	*rs:a	*rs:a	*rs:a	*rs:a
+8f]	.	.	.	.	.
+8r}	.	.	.	.	.
 !!LO:PB:g=original
-=3
-8a-
-16b-
-16cc
-16a-
-16a-
-16b-
-16cc
-=4
-[4g
-8g]
-8r
+=3	=3	=3	=3	=3	=3
+*	*pline:2	*pline:10	*pline:14	*pline:18	*pline:22
+{8a-	Qui	Les	Qui	Bro-	Qui
+16b-	na-	blancs,	fai-	-chets,	hap-
+16cc	-vi-	les	-tes	min-	-pez
+16a-	-guez	noirs,	les	-nows,	tou-
+16a-	dans	les	fiers	ba-	-tes
+16b-	les	roug's,	et	-lei-	les
+16cc	ri-	les	les	-nes,	a-
+=4	=4	=4	=4	=4	=4
+(4g	-viè-	jau-	di-	trui-	-mor-
+8g)	-res,	-nes,	-gnes,	-tes,	-ces,
+*	*rp:ɛː	*rp:	*rp:	*rp:	*rp:
+*	*rf:ɛːʁ,ə	*rf:	*rf:	*rf:	*rf:
+*	*rs:b	*rs:	*rs:	*rs:	*rs:
+8r	.	.	.	.	.
 !!LO:PB:g=original
-=5
-16r
-16b-
-16cc
-16dd
-16ee-
-16dd
-16cc
-16b-
+=5	=5	=5	=5	=5	=5
+16r}	.	.	.	.	.
+*	*pline:3	*pline:11	*pline:15	*pline:19	*pline:23
+{16b-	J'aim[e]	Les	Et	Et	On
+16cc	à	viel-	pour	j'vous	vous
+16dd	vous	-lards	dé-	com-	emp-
+16ee-	voir	et	-tour-	pos'	-lis
+16dd	mordr'	les	-nez	mêm'	de
+16cc	les	nour-	vos	des	tout's
+16b-	ham'-	-ris-	soup-	chan-	fa-
 !!LO:PB:g=original
-=6
-16dd
-16cc
-16b-
-16a-
-16g
-16f
-16g
-16a-
+=6	=6	=6	=6	=6	=6
+16dd	-çons	-sons	-çons	-sons	-çons,
+*	*rp:ɔ̃	*rp:ɔ̃	*rp:ɔ̃	*rp:ɔ̃	*rp:ɔ̃
+*	*rf:sɔ̃	*rf:sɔ̃	*rf:sɔ̃	*rf:sɔ̃	*rfs:sɔ̃
+*	*rs:a	*rs:a	*rs:a	*rs:a	*rs:a
+*	*pline:4	*pline:12	*pline:16	*pline:20	*pline:24
+16cc	Comm'	Qui	Je	A-	Vous
+16b-	nous	vous	me	-vant	êt's
+16a-	mor-	ca-	sers	que	tou-
+16g	-dons	-chez	de	vos	-jours
+16f	dans	en	mes	tê-	à
+16g	les	d'ssous	plus	-tes	bout
+16a-	tour-	des	bell's	soient	d'vos
 !!LO:PB:g=original
-=7
-(4g
-4b-/)
-=8
-[4f
-8f]
-8r
-=9
-8g
-16a-
-16b-/
-16g
-16g
-16a-
-16b-/
+=7	=7	=7	=7	=7	=7
+(4g	-tiè-	au-	li-	cui-	for-
+4b-/)	.	.	.	.	.
+=8	=8	=8	=8	=8	=8
+[4f	-res.	-nes,	-gnes.	-tes.	-ces.
+*	*rp:ɛː	*rp:	*rp:	*rp:	*rp:
+*	*rf:ɛːʁ,ə	*rf:	*rf:	*rf:	*rf:
+*	*rs:b	*rs:	*rs:	*rs:	*rs:
+8f]	.	.	.	.	.
+8r}}	.	.	.	.	.
+=9	=9	=9	=9	=9	=9
+*	*pline:5	*pline:5r	*pline:5r	*pline:5r	*pline:5r
+{{8g	Ja-	Ja-	Ja-	Ja-	Ja-
+16a-	-mais,	-mais,	-mais,	-mais,	-mais,
+*	*bis	*bis	*bis	*bis	*bis
+16b-/	ja-	ja-	ja-	ja-	ja-
+16g	-mais,	-mais,	-mais,	-mais,	-mais,
+*	*Xbis	*Xbis	*Xbis	*Xbis	*Xbis
+16g	je	je	je	je	je
+16a-	vous	vous	vous	vous	vous
+16b-/	le	le	le	le	le
 !!LO:PB:g=original
-=10
-[4f
-8f]
-8r
-=11
-8a-
-16b-
-16cc
-16a-
-16a-
-16b-
-16cc
+=10	=10	=10	=10	=10	=10
+[4f	dis,	dis,	dis,	dis,	dis,
+*	*rp:i	*rp:i	*rp:i	*rp:i	*rp:i
+*	*rf:di	*rf:di	*rf:di	*rf:di	*rf:di
+*	*rs:c	*rs:c	*rs:c	*rs:c	*rs:c
+8f]	.	.	.	.	.
+8r}	.	.	.	.	.
+=11	=11	=11	=11	=11	=11
+*	*pline:6	*pline:6r	*pline:6r	*pline:6r	*pline:25(6a1c3)
+{8a-	Je	Je	Je	Je	On
+16b-	n'vous	n'vous	n'vous	n'vous	n'vous
+16cc	f'rai	f'rai	f'rai	f'rai	veut
+16a-	d'mal,	d'mal,	d'mal,	d'mal,	d'mal,
+16a-	mes	mes	mes	mes	mes
+16b-	bons	bons	bons	bons	bons
+16cc	a-	a-	a-	a-	a-
 !!LO:PB:g=original
-=12
-(4g
-8g)
-8r
-=13
-16r
-16b-
-16cc
-16dd
-16ee-
-16dd
-16cc
-16b-
+=12	=12	=12	=12	=12	=12
+(4g	-pô-	-pô-	-pô-	-pô-	-pô-
+8g)	-tres,	-tres,	-tres,	-tres,	-tres,
+*	*rp:o	*rp:o	*rp:o	*rp:o	*rp:o
+*	*rf:otʁ,ə	*rf:otʁ,ə	*rf:otʁ,ə	*rf:otʁ,ə	*rf:otʁ,ə
+*	*rs:d	*rs:d	*rs:d	*rs:d	*rs:d
+8r	.	.	.	.	.
+=13	=13	=13	=13	=13	=13
+16r}	.	.	.	.	.
+*	*pline:7	*pline:7r	*pline:7r	*pline:7r	*pline:26(7b5)
+{16b-	Mor-	Mor-	Mor-	Mor-	Mais
+16cc	-dez,	-dez,	-dez,	-dez,	vous
+*	*bis	*bis	*bis	*bis	*
+16dd	mor-	mor-	mor-	mor-	pay-
+16ee-	-dez	-dez	-dez	-dez	-ez
+*	*Xbis	*Xbis	*Xbis	*Xbis	*
+16dd	en	en	en	en	en
+16cc	é-	é-	é-	é-	é-
+16b-	-tour-	-tour-	-tour-	-tour-	-tour-
 !!LO:PB:g=original
-=14
-16dd
-16cc
-16b-
-16a-
-16g
-16f
-16g
-16a-
-=15
-(4g
-4f)
-=16
-4g
-4r
-==
-*-
+=14	=14	=14	=14	=14	=14
+16dd	-dis,	-dis,	-dis,	-dis,	-dis,
+*	*rp:i	*rp:i	*rp:i	*rp:i	*rp:i
+*	*rf:di	*rf:di	*rf:di	*rf:di	*rf:di
+*	*rs:c	*rs:c	*rs:c	*rs:c	*rs:c
+*	*pline:8	*pline:8r	*pline:8r	*pline:8r	*pline:25(8b7)
+16cc	Car	Car	Car	Car	Vous
+16b-	j'vou-	j'vou-	j'vou-	j'vou-	pay-
+16a-	-drais	-drais	-drais	-drais	-ez
+16g	bien	bien	bien	bien	tou-
+16f	en	en	en	en	-jours
+16g	pren-	pren-	pren-	pren-	pour
+16a-	-dre	-dre	-dre	-dre	les
+=15	=15	=15	=15	=15	=15
+(4g	d'au-	d'au-	d'au-	d'au-	au-
+4f)	.	.	.	.	.
+=16	=16	=16	=16	=16	=16
+4e-	-tres.	-tres!	-tres!	-tres!	-tres!
+*	*rp:o	*rp:o	*rp:o	*rp:o	*rp:o
+*	*rf:otʁ,ə	*rf:otʁ,ə	*rf:otʁ,ə	*rf:otʁ,ə	*rf:otʁ,ə
+*	*rs:d	*rs:d	*rs:d	*rs:d	*rs:d
+4r}}}	.	.	.	.	.
+==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-
 !!!RNB: Dal segno at beginning and ending measures not reproduced; last full measure of silence not included (m. 17).
 !!!EED: Ève Poudrier
-!!!EEV: 2025/07/09
+!!!EEV: 2025/07/10
