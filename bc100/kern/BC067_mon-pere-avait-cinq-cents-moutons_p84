@@ -1,0 +1,101 @@
+!!!id: BC067
+!!!page: 84
+!!!COM: Anonymous
+!!!PTL@@FR: Les 100 plus belles chansons
+!!!OTL@@FR: Mon père avait cinq cents moutons
+!!!PUB: La Bonne Chanson, inc.
+!!!YEM: On ne peut reproduire, enregistrer ou diffuser en tout ou en partie le présent ouvrage, sous quelque procédé que ce soit, électronique, mécanique, photographique, sonore, magnétique ou autre, sans avoir obtenu au préalable l'autorisation écrite de l'éditrice.
+!!!PDT: 2011
+!!!SMA: 2012 Bibliothèque nationale du Québec; Biblothèque nationale du Canada
+!!!AGN-Laforte: Chanson strophique (avec refrain intégré), 6:2(8/6)
+!!!AGN-type: Chanson paysanne
+!!!AGN-rime: none
+!!!elision: pline:9, C'n'est = Ce n'est; pline:10, p'tit = petit
+**kern	**text	**text	**text	**text	**text	**text
+*clefG2	*	*	*	*	*	*
+*k[f#]	*	*	*	*	*	*
+*G:	*	*	*	*	*	*
+*9/8	*	*	*	*	*	*
+*	*v:1	*v:2	*v:3	*v:4	*v:5	*v:6
+*	*pline:1	*pline:3	*pline:5	*pline:7	*pline:9	*pline:11
+{8d	Mon	Un	Un	Quand	C'n'est	Mon
+8e	pèr[e]	soir,	beau	je	pas	pe-
+8f#	a-	en	Sei-	ton-	la	-tit
+=1||	=1||	=1||	=1||	=1||	=1||	=1||
+*M6/8	*	*	*	*	*	*
+4g	-vait	re-	-gneur,	-drai	lai-	coeur
+8g	cinq	-ve-	pas-	mes	-ne	n'est
+(8gL	cents	-nant	-sant	blancs	qu'il	pas
+8f#J)	.	.	.	.	.	.
+8g	mou-	des	par	mou-	me	pour
+=2||	=2||	=2||	=2||	=2||	=2||	=2||
+*M9/8	*	*	*	*	*	*
+8a	-tons,	champs,	là,	-tons,	faut,	vous,
+*	*refrain	*refrain	*refrain	*refrain	*refrain	*refrain
+*	*italic	*italic	*italic	*italic	*italic	*italic
+8.d	Oh!	Oh!	Oh!	Oh!	Oh!	Oh!
+16d	la	la	la	la	la	la
+4.d}	la,	la,	la,	la,	la,	la,
+*	*Xitalic	*Xitalic	*Xitalic	*Xitalic	*Xitalic	*Xitalic
+*	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain
+*	*pline:1r	*pline:3r	*pline:5r	*pline:7r	*pline:9r	*pline:11r
+{8d	Mon	Un	Un	Quand	C'n'est	Mon
+8f#	pèr[e]	soir	beau	je	pas	pe-
+8g	a-	en	Sei-	ton-	la	-tit
+!!LO:PG:g=original
+=3||	=3||	=3||	=3||	=3||	=3||	=3||
+*M6/8	*	*	*	*	*	*
+4a	vait	re-	-gneur,	-drai	lai-	coeur
+8a	cinq	-ve-	pas-	mes	-ne	n'est
+(8aL	cents	-nant	-sant	blancs	qu'il	pas
+8gJ)	.	.	.	.	.	.
+8a	mou-	des	par	mou-	me	pour
+=4	=4	=4	=4	=4	=4	=4
+*M12/8	*	*	*	*	*	*
+8b	-tons,	champs,	là,	-tons,	faut,	vous,
+*	*refrain	*refrain	*refrain	*refrain	*refrain	*refrain
+*	*italic	*italic	*italic	*italic	*italic	*italic
+8.g	Oh!	Oh!	Oh!	Oh!	Oh!	Oh!
+16g	la	la	la	la	la	la
+4.g}	la,	la,	la,	la,	la,	la,
+*	*Xitalic	*Xitalic	*Xitalic	*Xitalic	*Xitalic	*Xitalic
+*	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain
+*	*pline:2	*pline:4	*pline:6	*pline:8	*pline:10	*pline:12
+{{8g	Dont	Le	M'a	Vous	C'est	Je
+8a	j'é-	loup	ren-	en	ton	l'ai
+8b	-tais	m'en	-du	au-	p'tit	pro-
+4cc	la	a	la	-rez	coeur,	-mis
+8dd	ber-	pris	quin-	la	ber-	à
+!!LO:PG:g=original
+=5||	=5||	=5||	=5||	=5||	=5||	=5||
+*M9/8g	*	*	*	*	*	*
+8b	-gè-	quin-	-zai-	lai-	-gè-	Pier-
+8g	-re,	-ze,	-ne,	-ne,	-re!	-re,
+*	*refrain	*refrain	*refrain	*refrain	*refrain	*refrain
+*	*italic	*italic	*italic	*italic	*italic	*italic
+8b	lon	lon	lon	lon	lon	lon
+8b	lai-	lai-	lai-	lai-	lai-	lai-
+8g	-re,	-re,	-re,	-re,	-re,	-re,
+8b	lon	lon	lon	lon	lon	lon
+8dd	lai-	lai-	lai-	lai-	lai-	lai-
+8cc	-re,	-re,	-re,	-re,	-re,	-re,
+8b	lon	lon	lon	lon	lon	lon
+=6	=6	=6	=6	=6	=6	=6
+4a	la,	la,	la,	la,	la,	la,
+8r}	.	.	.	.	.	.
+*	*Xitalic	*Xitalic	*Xitalic	*Xitalic	*Xitalic	*Xitalic
+*	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain
+*	*pline:2r	*pline:4r	*pline:6r	*pline:8r	*pline:10r	*pline:12r
+{8d	Dont	Le	M'a	Vous	C'est	Je
+8f#	j'é-	loup	ren-	en	ton	l'ai
+8g	-tais	m'en	-du	au-	p'tit	pro-
+4a	la	a	la	-rez	coeur	-mis
+8b	ber-	pris	quin-	la	ber-	à
+=7	=7	=7	=7	=7	=7	=7
+4.a	-gè-	quin-	-zai-	lai-	-gè-	Pier-
+4g	-re.	-ze.	-ne.	-ne.	-re!	-re.
+8r}}	.	.	.	.	.	.
+==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-
+!!!EED: Ève Poudrier
+!!!EEV: 2025/07/09
