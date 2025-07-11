@@ -1,0 +1,158 @@
+!!!id: BC080
+!!!page: 102-103
+!!!COM: Anonymous
+!!!PTL@@FR: Les 100 plus belles chansons
+!!!OTL@@FR: Bonhomme, bonhomme
+!!!PUB: La Bonne Chanson, inc.
+!!!YEM: On ne peut reproduire, enregistrer ou diffuser en tout ou en partie le présent ouvrage, sous quelque procédé que ce soit, électronique, mécanique, photographique, sonore, magnétique ou autre, sans avoir obtenu au préalable l'autorisation écrite de l'éditrice.
+!!!PDT: 2011
+!!!SMA: 2012 Bibliothèque nationale du Québec; Biblothèque nationale du Canada
+!!!AGN-Laforte: Chanson énumérative (avec refrains intégré et final), 5:4(8)+R:2(8/4); additive lines (pline:2, 4, 5, 6, 8) in reverse order.
+!!!AGN-type: Chanson à boire
+!!!AGN-rime: none
+!!!LYR-elision: pline:R1, bonhomm' = bonhomme; pline:R2, maîtr' = maître; pline:4-5, cett' = cette; pline:5, flût' = flûte
+**kern	**text	**text	**text	**text	**text
+*>[A,B,C,C1,C,C2,D]	*>[A,B,C,C1,C,C2,D1,D2]	*>[A,B,C3,C1,C3,C2,C,C1,C,C2,D1,D2]	*>[A,B,C4,C1,C4,C2,C3,C1,C3,C2,D1,D2]	*>[A,B,C5,C1,C5,C2,C4,C1,C4,C2,C3,C1,C3,C2,D1,D2]	*>[A,B,C6,C1,C6,C2,C5,C1,C5,C2,C4,C1,C4,C2,C3,C1,C3,C2,D1,D2]
+*clefG2	*	*	*	*	*
+*k[b-e-]	*	*	*	*	*
+*B-:	*	*	*	*	*
+*M6/8	*	*	*	*	*
+*>Refrain 1	*>Refrain 1	*>Refrain 1	*>Refrain 1	*>Refrain 1	*>Refrain 1
+*>A	*>A	*>A	*>A	*>A	*>A
+*	*pline:R1	*	*	*	*
+!!LO:TX:a:B:t=REFRAIN 1
+{{8f	Bon-	.	.	.	.
+8g	-homm',	.	.	.	.
+*	*bis	*	*	*	*
+8a	bon-	.	.	.	.
+=1	=1	=1	=1	=1	=1
+4b-	homm',	.	.	.	.
+*	*Xbis	*	*	*	*
+8b-	sais-	.	.	.	.
+4b-	-tu	.	.	.	.
+8b-	jou-	.	.	.	.
+=2	=2	=2	=2	=2	=2
+4.b-}	-er?	.	.	.	.
+*	*pline:R1r	*	*	*	*
+{8g	Bon-	.	.	.	.
+8a	-homm',	.	.	.	.
+*	*bis	*	*	*	*
+8b-	bon-	.	.	.	.
+!!LO:PB:g=original
+=3	=3	=3	=3	=3	=3
+4cc	-homm',	.	.	.	.
+*	*Xbis	*	*	*	*
+8b-	sais-	.	.	.	.
+4a	-tu	.	.	.	.
+8g	jou-	.	.	.	.
+=4	=4	=4	=4	=4	=4
+4f	-er?	.	.	.	.
+8r}}	.	.	.	.	.
+=:||:	=:||:	=:||:	=:||:	=:||:	=:||:
+*>B	*>B	*>B	*>B	*>B	*>B
+!!errata in original (quarter note)
+*	*v:1	*v:2	*v:3	*v:4	*v:5
+*	*pline:1Ha	*pline:4Ha=1Ha	*pline:6Ha=1Ha	*pline:8Ha=1Ha	*pline:10Ha=1Ha
+{{8f	Sais-	Sais-	Sais-	Sais-	Sais-
+8g	-tu	-tu	-tu	-tu	-tu
+8a	jou-	jou-	jou-	jou-	jou-
+=5	=5	=5	=5	=5	=5
+8b-	-er	-er	-er	-er	-er
+*	*pline:1Hb	*pline:4Hb	*pline:6Hb	*pline:8Hb	*pline:10Hb
+8b-	de	de	de	de	de
+8b-	ce	cett'	ce	ce	cett'
+4b-	vio-	flû-	tam-	cor-	bou-
+8b-	-lon-	-te-	-bour-	-net-	-teill'-
+!!LO:PB:g=original
+=6	=6	=6	=6	=6	=6
+4.b-}	-là?	-là?	-là?	-là?	-là?
+*	*pline:1Har	*pline:4Har=1Har	*pline:6Har=1Har	*pline:8Har=1Har	*pline:10Har=1Har
+{8g	Sais-	Sais-	Sais-	Sais-	Sais-
+8a	-tu	-tu	-tu	-tu	-tu
+8b-	jou-	jou-	jou-	jou-	jou-
+=7	=7	=7	=7	=7	=7
+8cc	-er	-er	-er	-er	-er
+*	*pline:1HBr	*pline:4Hbr	*pline:6Hbr	*pline:8Hbr	*pline:10Hbr
+8cc	de	de	de	de	de
+8b-	ce	cett'	ce	ce	cett'
+4a	vio-	flû-	tam-	cor-	bou-
+8g	-lon-	-te-	-bour-	-net-	-teill'-
+=8	=8	=8	=8	=8	=8
+4f	-là?	-là?	-là?	-là?	-là?
+8r}}	.	.	.	.	.
+=:||:	=:||:	=:||:	=:||:	=:||:	=:||:
+*>C	*>C	*>C3	*>C4	*>C5	*>C6
+*	*pline:2	*pline:5	*pline:7	*pline:9	*pline:11
+!!added optional eighth note needed in pline:9
+{{4cc	Zing,	Flût',	Boum,	Tara-	Glou,
+*	*bis	*bis	*bis	*	*bis
+8cc	zing,	flût',	boum,	-ta-	glou,
+!!LO:PB:g=original
+=9	=9	=9	=9	=9	=9
+8cc	zing,	flût',	boum,	-ta	glou,
+*	*Xbis	*Xbis	*Xbis	*	*
+8cc	de	de	de	de	de
+8cc	ce	cett'	ce	ce	cett'
+4b-	vio-	flû-	tam-	cor-	bou-
+8dd	-lon-	-te-	-bour-	-net-	teill'
+=10	=10	=10	=10	=10	=10
+*>C1	*>C1	*>C1	*>C1	*>C1	*>C1
+4cc	-là.	-là.	-là.	-là.	-là.
+8r}	.	.	.	.	.
+=:||11	=:||11	=:||11	=:||11	=:||11	=:||11
+*>C2	*>C2	*>C2	*>C2	*>C2	*>C2
+!!LO:TX:a:i:t=crié
+4cc	-là.	-là.	-là.	-là.	-là.
+=""	=""	=""	=""	=""	=""
+*>Refrain 2	*>Refrain 2	*>Refrain 2	*>Refrain 2	*>Refrain 2	*>Refrain 2
+*>D1	*>D1	*>D1	*>D1	*>D1	*>D1
+*	*refrain	*	*	*	*
+*	*italic	*	*	*	*
+!!LO:TX:a:B:t=Solo
+!LO:N:head=x	!	!	!	!	!
+8ff	Bon-	.	.	.	.
+!LO:N:head=x	!	!	!	!	!
+4ff	-homm'!	.	.	.	.
+!!LO:TX:a:B:t=Choeur
+!LO:N:head=x	!	!	!	!	!
+*	*bis	*	*	*	*
+8ff	Bon-	.	.	.	.
+=12	=12	=12	=12	=12	=12
+!LO:N:head=x	!	!	!	!	!
+4ff	-homm'!	.	.	.	.
+*	*Xbis	*	*	*	*
+*	*Xitalic	*	*	*	*
+*	*Xrefrain	*	*	*	*
+=""	=""	=""	=""	=""	=""
+8r}}	.	.	.	.	.
+=||:	=||:	=||:	=||:	=||:	=||:
+*>D2	*>D2	*>D2	*>D2	*>D2	*>D2
+*	*pline:R2	*	*	*	*
+!!LO:TX:a:B:t=REFRAIN 2
+{8b-	Tu	.	.	.	.
+8b-	n'es	.	.	.	.
+8b-	pas	.	.	.	.
+!!LO:PB:g=original
+=14	=14	=14	=14	=14	=14
+4dd	maîtr'	.	.	.	.
+8cc	dans	.	.	.	.
+4b-	ta	.	.	.	.
+8g	mai-	.	.	.	.
+=15	=15	=15	=15	=15	=15
+4.f	-son,	.	.	.	.
+*	*pline:R3	*	*	*	*
+8g	Quand	.	.	.	.
+8a	nous	.	.	.	.
+8b-	y	.	.	.	.
+=16	=16	=16	=16	=16	=16
+4.f	som-	.	.	.	.
+4b-	-mes!	.	.	.	.
+8r	.	.	.	.	.
+=17	=17	=17	=17	=17	=17
+4r	.	.	.	.	.
+8r}	.	.	.	.	.
+==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-
+!!!RNB: Dal segno signs not included; double dotted barlines encoded, but not supported by VHVfinal partial rest measure included to complete first incomplete measure. Since there are two refrains, they have been numbers Refrain 1 and Refrain 2. The second ending does not follow by the exclamative "Bonhomm'! Bonhomme!" directly after except in the first instance, thus the repeated ending box ends after "là."
+!!!EED: Ève Poudrier
+!!!EEV: 2025/07/11
