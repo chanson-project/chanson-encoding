@@ -235,7 +235,7 @@
 *	*rs:Ra1	*
 ==	==	==
 *-	*-	*-
-!!!EED-note: Did not encode cautionary accidentals at the end of refrain and used final barline instead of double. Moved the "e" of "prai-ri-e" (v:1, pline:2) to the end of the slur to be consistent with "vi-e" (v:1, pline:4).
+!!!RNB: Did not encode cautionary accidentals at the end of refrain and used final barline instead of double. Moved the "e" of "prai-ri-e" (v:1, pline:2) to the end of the slur to be consistent with "vi-e" (v:1, pline:4).
 !!!EED: Jason Lau
 !!!EEV: 2025/June/06
 !!!EED: Ève Poudrier
