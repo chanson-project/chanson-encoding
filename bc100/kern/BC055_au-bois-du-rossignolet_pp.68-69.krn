@@ -1,0 +1,129 @@
+!!!id: BC055
+!!!page: 68-69
+!!!COM: Anonymous (Folklore)
+!!!PTR@@FR: Les 100 plus belles chansons
+!!!OTL@@FR: Au bois du rossignolet
+!!!PUB: La Bonne Chanson, inc.
+!!!PDT: 2011
+!!!YEM: On ne peut reproduire, enregistrer ou diffuser en tout ou en partie le présent ouvrage, sous quelque procédé que ce soit, électronique, mécanique, photographique, sonore, magnétique ou autre, sans avoir obtenu au préalable l'autorisation écrite de l'éditrice.
+!!!SMA: 2012 Bibliothèque nationale du Québec; Biblothèque nationale du Canada
+!!!AGN-type: Chanson xxx
+!!!AGN-Laforte: Strophique (avec refrain intégré), 8:5(6), line 5 is the refrain
+!!!AGN-rhyme: non
+**kern	**text	**text	**text	**text	**text	**text	**text	**text
+*clefG2	*	*	*	*	*	*	*	*
+*k[b-]	*	*	*	*	*	*	*	*
+*F:	*	*	*	*	*	*	*	*
+!!LO:TX:a:t=Allegretto
+*M2/4	*	*	*	*	*	*	*	*
+*	*v:1	*v:2	*v:3	*v:4	*v:5	*v:6	*v:7	*v:8
+*	*pline:1	*pline:6	*pline:10	*pline:14	*pline:18	*pline:22	*pline:26	*pline:30
+=1	=1	=1	=1	=1	=1	=1	=1	=1
+8c	M'en	Je	Je	Ah!	Je	M'en	Ah!	"Ah!
+=2	=2	=2	=2	=2	=2	=2	=2	=2
+8f	al-	me	me	j'ai	m'en	al-	sa-	qu'il
+8g	-lant	suis	suis	pris	fis	-lant	-vez-	est
+8a	pro-	en-	ré-	mon	un	en	-vous	doux
+8b-	-me-	-dor-	-veil-	cou-	flû-	chan-	mes-	d'ai-
+=3	=3	=3	=3	=3	=3	=3	=3	=3
+16cc	-ner	-mi	-lé	-teau	-tiau	-tant	-sieurs,	-mer
+16dd	(re-	(re-	(re-	(re-	(re-	(re-	(re-	(re-
+16cc	-lé	-li	-lé	-lo	-lo	-lan	-leu	-lé
+16b-	re-	re-	re-	re-	re-	re-	re-	re-
+8a	-lé),	-li)	-lé),	-lo),	-lo)	-lan)	leu)	-lé)
+*	*pline:2	*pline:7	*pline:11	*pline:15	*pline:19	*pline:23	*pline:27	*pline:31
+8b-	Le	A	Le	La	Un	Le	Ce	La
+!!linebreak: original
+=4	=4	=4	=4	=4	=4	=4	=4	=4
+8g	long	l'om-	pin	bran-	fla-	long	que	fill'
+8b-	du	-bre	é-	-che	-geo-	du	ma	de
+8a	grand	sous	-tait	j'ai	-let	grand	flûte	son
+8b-	che-	un	fleu-	cou-	aus-	che-	a	voi-
+=5	=5	=5	=5	=5	=5	=5	=5	=5
+16cc	-min	pin	-ri	-pée	-si	-min	dit	-sin
+16dd	(re-	(re-	(re-	(re-	(re-	(re-	(re-	(re-
+16cc	-lin	-lin	-li	-lé	-li	-lin	-li	-lin
+16b-	re-	re-	re-	re-	re-	re-	re-	re-
+8a	-lin)	-lin)	-li)	-lé)	-li)	-lin)	-li)	-lin)
+*	*pline:2r	*pline:7r	*pline:11r	*pline:15r	*pline:19r	*pline:23r	*pline:27r	*pline:31r
+8b-	Le	A	Le	La	Un	Le	Ce	La
+=6	=6	=6	=6	=6	=6	=6	=6	=6
+8g	long	l'om-	pin	bran-	fla-	long	que	fill'
+8b-	du	-bre	é-	-che	-geo-	du	ma	de
+8a	grand	sous	-tait	j'ai	-let	grand	flûte	son
+8cc	che-	un	fleu-	cou-	aus-	che-	a	voi-
+!!linebreak:original
+=7	=7	=7	=7	=7	=7	=7	=7	=7
+4g	-min;	pin.	-ri.	-pée;	-si;	-min.	dit?	-sin!
+8r	.	.	.	.	.	.	.	.
+*	*pline:3	*pline:8	*pline:12	*pline:16	*pline:20	*pline:24	*pline:28	*pline:32
+8f	Je	Je	Ah!	Je	M'en	--Ah!	--"Ah!	Quand
+=8	=8	=8	=8	=8	=8	=8	=8	=8
+8g	me	me	j'ai	m'en	al-	sa-	qu'il	on
+8b-	suis	suis	pris	fis	-lant	-vez-	est	l'a
+8a	en-	ré-	mon	un	en	-vous,	doux	vu'
+8cc	-dor-	-veil-	cou-	flû-	chan-	mes-	d'ai-	le
+=9	=9	=9	=9	=9	=9	=9	=9	=9
+16f	-mi	-lé	-teau	-tiau	-tant	-sieurs	-mer	soi-
+16g	(re-	(re-	(re-	(re-	(re-	(re-	(re-	(re-
+16f	-li	-lé	-lo	-lo	-lan	-leu	-lé	-la
+16e	re-	re-	re-	re-	re-	re-	re-	re-
+8f	-li)	-lé)	-lo),	-lo)	-lan)	-leu)	-lé)	la)-r
+*	*pline:4	*pline:9	*pline:13	*pline:17	*pline:21	*pline:25	*pline:29	*pline:33
+8a	A	Le	La	Un	Le	Ce	La	On
+!!linebreak:original
+=10	=10	=10	=10	=10	=10	=10	=10	=10
+16f	l'om	pin	bran-	fla-	long	que	fi-	la
+16g	(re-	(re-	(re-	(re-	(re-	(re-	(re-	(re-
+16f	-lom	-lin	-lan	-la	-lon	-le	-li	-la
+16e	re-	re-	re-	re-	re-	re-	re-	re-
+8f	-lom)-	-lin)	lan)-	-la)-	-lon)	-le)	-li)-ll'	-la)
+8a	-bre	é-	-che	-geo-	du	ma	de	voit
+=11	=11	=11	=11	=11	=11	=11	=11	=11
+16f	sous	-tait	j'ai	-let	grand	flû-	son	le
+16g	(re-	(re-	(re-	(re-	(re-	(re-	(re-	(re-
+16f	-lou	-lait	-lé	-let	-lan	-lu	-lon	-le
+16e	re-	re-	re-	re-	re-	re-	re-	re-
+8f	-lou)-	-lait)	-lé)	-let)	-lan)	-lu)-te	-lon)	-le)
+8g	-z-un	fleu-	cou-	aus-	che-	a	voi-	ma-
+!!linebreak:original
+=12	=12	=12	=12	=12	=12	=12	=12	=12
+16a	pin	-ri	-pée	-si	-min	dit	-sin	-tin
+16b-	(re-	(re-	(re-	(re-	(re-	(re-	(re-	(re-
+16a	-lin	-li	-lé	-li	-lin	-li	-lin	-lin
+16g	re-	re-	re-	re-	re-	re-	re-	re-
+8a	-lin)	-li)	-lé)	-li)	-lin)	-li)	-lin)	-lin)
+*	*refrain	*refrain	*refrain	*refrain	*refrain	*refrain	*refrain	*refrain
+*	*italic	*italic	*italic	*italic	*italic	*italic	*italic	*italic
+*	*pline:5=R1	*pline:5=R1	*pline:5=R1	*pline:5=R1	*pline:5=R1	*pline:5=R1	*pline:5=R1	*pline:5=R1
+8a	Au	Au	Au	Au	Au	Au	Au	Au
+=13	=13	=13	=13	=13	=13	=13	=13	=13
+8b-/	bois	bois	bois	bois	bois	bois	bois	bois
+16b-/	du	du	du	du	du	du	du	du
+16b-/	ros-	ros-	ros-	ros-	ros-	ros-	ros-	ros-
+8a	-si-	-si-	-si-	-si-	-si-	-si-	-si-	-si-
+8b-/	-gno-	-gno-	-gno-	-gno-	-gno-	-gno-	-gno-	-gno-
+!!linebreak:original
+=14	=14	=14	=14	=14	=14	=14	=14	=14
+16cc	-let	-let	-let	-let	-let	-let	-let	-let
+16dd	(re-	(re-	(re-	(re-	(re-	(re-	(re-	(re-
+16cc	-let	-let	-let	-let	-let	-let	-let	-let
+16b	re-	re-	re-	re-	re-	re-	re-	re-
+8cc	-let)	-let)	-let)	-let)	-let)	-let)	-let)	-let)
+*	*pline:5r=R1r	*pline:5r=R1r	*pline:5r=R1r	*pline:5r=R1r	*pline:5r=R1r	*pline:5r=R1r	*pline:5r=R1r	*pline:5r=R1r
+8ff	Au	Au	Au	Au	Au	Au	Au	Au
+=15	=15	=15	=15	=15	=15	=15	=15	=15
+8a	bois	bois	bois	bois	bois	bois	bois	bois
+16g	du	du	du	du	du	du	du	du
+16f	ros-	ros-	ros-	ros-	ros-	ros-	ros-	ros-
+8g	-si-	-si-	-si-	-si-	-si-	-si-	-si-	-si-
+8a	-gno-	-gno-	-gno-	-gno-	-gno-	-gno-	-gno-	-gno-
+=16	=16	=16	=16	=16	=16	=16	=16	=16
+(4f	-let.	-let.	-let.	-let.	-let.	-let.	-let.	-let.
+*	*Xitalic	*Xitalic	*Xitalic	*Xitalic	*Xitalic	*Xitalic	*Xitalic	*Xitalic
+*	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain
+8f)	.	.	.	.	.	.	.	.
+==	==	==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!EED: Jason Lau
+!!!EEV: 2025/July/15
