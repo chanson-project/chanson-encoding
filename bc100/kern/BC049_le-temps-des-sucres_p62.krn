@@ -1,168 +1,241 @@
 !!!id: BC049
 !!!page: 62
 !!!COM: Chs-Emile GADBOIS, ptre
-!!!LYR:
+!!!LYR: Chs-Emile GADBOIS
 !!!PTL@@FR: Les 100 plus belles chansons
 !!!OTL@@FR: Le temps des sucres
 !!!PUB: La Bonne Chanson, inc.
 !!!YEM: On ne peut reproduire, enregistrer ou diffuser en tout ou en partie le présent ouvrage, sous quelque procédé que ce soit, électronique, mécanique, photographique, sonore, magnétique ou autre, sans avoir obtenu au préalable l'autorisation écrite de l'éditrice.
 !!!PDT: 2011
 !!!SMA:2012 Bibliothèque nationale du Québec; Biblothèque nationale du Canada
-!!!AGN-Laforte: Chanson enumeratif (avec refrain), 9:1(7), R1(8)
-!!!AGN-type: oiseaux?
-!!!AGN-rime: none
-**kern
-*clefG2
-*k[b-e-]
-*D:
-*M6/8
-*
-*
-8d
-=1
-4g
-8g
-8a
-8g
-8a
-=2
-4.b-
-4a
-8b-
-=3
-4cc
-8b-
-8a
-8g
-8a
-=4
-4.g
-4r
-8d
-=5
-4g
-8g
-8a
-8g
-8a
-=6
-4.b-
-4a
-8b-
-=7
-4cc
-8b-
-8a
-8g
-8a
-=8
-4g
-8r
-4dd
-8cc
-=9
-4b-
-8a
-4b-
-8cc
-=10
-4dd(
-8dd)
-4dd
-8cc
-=11
-4b-
-8a
-4b-
-8cc
-=12
-4dd(
-8dd)
-4.g
-=13
-4.g
-4.b-
-=14
-4.a
-4.g
-=15
-4.f
-4.g
-=16
-4d
-8r
-4.dd^(
-=17
-8dd)
-8r
-8cc
-8b-
-8a
-8b-
-=18
-4g
-8b-
-8b-
-8a
-8b-
-=19
-4g
-8b-
-8b-
-8a
-8b-
-=20
-4g
-8b-
-8b-
-8a
-8b-
-=21
-4g
-8b-
-8b-
-8a
-8b-
-=22
-4g
-8b-
-8b-
-8a
-8b-
-=23
-4g
-8g
-8g
-8b-
-8cc
-=24
-4dd;
-=||
-4dd^
-8cc
-=25
-8b-
-8a
-8b-
-8g
-8f#
-8g
-=26
-4.d
-4g^
-8b-
-=27
-8dd
-8ee-
-8dd
-8cc
-8b-
-8a
-=28
-4.g(
-8g)
-8r
-==
-*-
+!!!AGN-Laforte: Chanson enumeratif (avec refrain), 2:7(7/8), R7(5)+2(9)
+!!!AGN-type: ??
+!!!AGN-rime: mixtes (ababccd), R: croisées (abababacc)
+**kern	**text	**text
+*clefG2	*	*
+*k[b-e-]	*	*
+*D:	*	*
+*M6/8	*	*
+*	*v:1	*v:2
+*	*pline:1	*pline:8
+8d	Quand	On
+=1	=1	=1
+4g	vient	chant[e]
+8g	la	au-
+8a	fon-	-tour
+8g	-te	de
+8a	des	la
+=2	=2	=2
+4.b-	nei-	ta-
+4a	-ges,	-ble,
+*	*rp:ɛːʒ	*rp:tabl,ə
+*	*rf:ɛ:	*rf:a
+*	*rs:a	*rs:e
+*	*pline:2	*pline:9
+8b-	Chez	Tout
+!!LO:PB:g=original
+=3	=3	=3
+4cc	tous	l'mond'
+8b-	les	se
+8a	bons	sent
+8g	ha-	d'bonne
+8a	-bi-	hu-
+=4	=4	=4
+4.g	-tants,	-meur;
+*	*rp:tɑ̃	*rp:mœʁ
+*	*rf:ɑ̃	*rf:œ
+*	*rs:b	*rs:f
+4r	.	.
+*	*pline:3	*pline:10
+8d	Les	On
+=5	=5	=5
+4g	gens	fait
+8g	s'en	du
+8a	vont	su-
+8g	en	-cre
+8a	cor-	d'é-
+!!LO:PB:g=original
+=6	=6	=6
+4.b-	-tè-	-ra-
+4a	-ge,	-ble
+*	*rp:ɛːʒ	*rp:ʁabl,ə
+*	*rf:ɛ:	*rf:a
+*	*rs:a	*rs:e
+*	*pline:4	*pline:11
+8b-	C'est	En
+=7	=7	=7
+4cc	l'temps	form'
+8b-	des	d'é-
+8a	sucr's,	-toil[e]
+8g	c'est	ou
+8a	l'bon	de
+!!!v.1: l'temps = les temps; sucr's = sucres, l'bon = les bon
+=8	=8	=8
+4g	temps!	coeur!
+*	*rp:tɑ̃	*rp:kœʁ
+*	*rf:ɑ̃	*rf:œ
+*	*rs:b	*rs:f
+8r	.	.
+*	*pline:5	*pline:12
+4dd	On	Les
+8cc	voy-	gar-
+!!LO:PB:g=original
+=9	=9	=9
+4b-	-ag[e]	-çons
+8a	en	re-
+4b-	gross'	-gardn't
+8cc	voi-	les
+=10	=10	=10
+4dd(	-tu-	fil-
+8dd)	-re,	-les,
+*	*rp:tyʁ,ə	*rp:fij,ə
+*	*rf:yʁ,ə	*rf:i
+*	*rs:c	*rs:g
+*	*pline:6	*pline:13
+4dd	Qu'im-	Ils
+8cc	-port'	les
+=11	=11	=11
+4b-	la	trou-
+8a	tem-	-vent
+4b-	-pé-	bien
+8cc	-ra-	gen-
+!!LO:PB:g=original
+=12	=12	=12
+4dd(	-tu-	-til-
+8dd)	-re,	-les,
+*	*rp:tyʁ,ə	*rp:tij,ə
+*	*rf:yʁ,ə	*rf:i
+*	*rs:c	*rs:g
+*	*pline:7	*pline:14
+4.g	Pour	Pour
+=13	=13	=13
+4.g	s'ré-	s'ré-
+4.b-	-chauf-	-chauf-
+=14	=14	=14
+4.a	-fer	-fer
+4.g	on	on
+=15	=15	=15
+4.f	boit	boit
+4.g	du	du
+!!LO:PB:g=original
+=16	=16	=16
+4d	thé,	thé,
+*	*rp:te	*rp:te
+*	*rf:e	*rf:e
+*	*rs:d	*rs:d
+8r	.	.
+4.dd^(	Non!	Non!
+=17	=17	=17
+8dd)	.	.
+8r	.	.
+*	*pline:R1	*pline:R1
+8cc	Du	Du
+8b-	bon	bon
+8a	ré-	ré-
+8b-	-duit	-duit
+=18	=18	=18
+4g	chaud,	chaud,
+*	*rp:ʃo	*rp:ʃo
+*	*rf:o	*rf:o
+*	*rs:Ra	*rs:Ra
+*	*pline:R2	*pline:R2
+8b-	On	On
+8b-	mang'	mang'
+8a	des	des
+8b-	om'-	om'-
+!!LO:PB:g=original
+=19	=19	=19
+4g	-lett's,	-lett's,
+*	*rp:lɛt	*rp:lɛt
+*	*rf:ɛ	*rf:ɛ
+*	*rs:Rb	*rs:Rb
+*	*pline:R3	*pline:R3
+8b-	D'la	D'la
+8b-	tire	tire
+8a	en	en
+8b-	"cas-	"cas-
+=20	=20	=20
+4g	-seau",	-seau",
+*	*rp:so	*rp:so
+*	*rf:o	*rf:o
+*	*rs:Ra	*rs:Ra
+*	*pline:R4	*pline:R4
+8b-	On	On
+8b-	"lich"	"lich"
+8a	la	la
+8b-	pa-	pa-
+=21	=21	=21
+4g	-lett',	-lett',
+*	*rp:lɛt	*rp:lɛt
+*	*rf:ɛ	*rf:ɛ
+*	*rs:Rb	*rs:Rb
+*	*pline:R5	*pline:R5
+8b-	On	On
+8b-	s'coll[e]	s'coll[e]
+8a	le	le
+8b-	mu-	mu-
+!!LO:PB:g=original
+=22	=22	=22
+4g	-seau,	-seau,
+*	*rp:zo	*rp:zo
+*	*rf:o	*rf:o
+*	*rs:Ra	*rs:Ra
+*	*pline:R6	*pline:R6
+8b-	On	On
+8b-	fait	fait
+8a	d'la	d'la
+8b-	trem-	trem-
+=23	=23	=23
+4g	-pett',	-pett',
+*	*rp:pɛt	*rp:pɛt
+*	*rf:ɛ	*rf:ɛ
+*	*rs:Rb	*rs:Rb
+*	*pline:R7	*pline:R7
+8g	Des	Des
+8g	oeufs	oeufs
+8b-	dans	dans
+8cc	l'si-	l'si-
+=24	=24	=24
+4dd;	-rop!	-rop!
+*	*rp:ʁo	*rp:ʁo
+*	*rf:o	*rf:o
+*	*rs:Ra	*rs:Ra
+=||	=||	=||
+!!LO:TX:a:B:t=Refrain
+*	*pline:R8	*
+4dd^	C'est	.
+8cc	la	.
+!!LO:PB:g=original
+=25	=25	=25
+8b-	vie	.
+8a	que	.
+8b-	l'on	.
+8g	mè-	.
+8f#	-ne	.
+8g	gaie-	.
+=26	=26	=26
+4.d	-ment,	.
+*	*rp:mɑ̃	*
+*	*rf:ɑ̃	*
+*	*rs:Rc	*
+*	*pline:R9	*
+4g^	C'est	.
+8b-	la	.
+=27	=27	=27
+8dd	vie	.
+8ee-	que	.
+8dd	l'on	.
+8cc	mèn[e]	.
+8b-	au	.
+8a	prin-	.
+=28	=28	=28
+4.g(	-temps!	.
+*	*rp:mɑ̃	*
+*	*rf:ɑ̃	*
+*	*rs:Rc	*
+8g)	.	.
+8r	.	.
+==	==	==
+*-	*-	*-
 !!!EED: Isaac Howie
-!!!EEV: 2025/July/01
+!!!EEV: 2025/July/15
