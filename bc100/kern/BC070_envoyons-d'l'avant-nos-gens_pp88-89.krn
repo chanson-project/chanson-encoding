@@ -1,0 +1,155 @@
+!!!id: BC070
+!!!page: 88-89
+!!!COM: (Folklore)
+!!!LYR: Anonyme
+!!!PTL@@FR: Les 100 plus belles chansons
+!!!OTL@@FR: Envoyons d'l'avant, nos gens!
+!!!PUB: La Bonne Chanson, inc.
+!!!YEM: On ne peut reproduire, enregistrer ou diffuser en tout ou en partie le présent ouvrage, sous quelque procédé que ce soit, électronique, mécanique, photographique, sonore, magnétique ou autre, sans avoir obtenu au préalable l'autorisation écrite de l'éditrice.
+!!!PDT: 2011
+!!!SMA:2012 Bibliothèque nationale du Québec; Biblothèque nationale du Canada
+!!!AGN-Laforte: Chanson en laisse (avec refrain), 9:4(8), R:1(7+5)
+!!!AGN-type: Colonisation?
+!!!AGN-rime: suivies (aabb)
+**kern	**text	**text	**text	**text	**text	**text	**text	**text	**text
+*clefG2	*	*	*	*	*	*	*	*	*
+*k[]	*	*	*	*	*	*	*	*	*
+*D:	*	*	*	*	*	*	*	*	*
+*M2/4	*	*	*	*	*	*	*	*	*
+*	*vv:1	*vv:2	*vv:3	*vv:4	*vv:5	*vv:6	*vv:7	*vv:8	*vv:9
+*	*pline:1	*	*	*	*	*	*	*	*
+!!!NOTE in original: Dédié à CHARLES MARCHAND, (1891-1930); célèbre interprète du Folklore canadien.
+=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+!!!note: originally 2 voices notated, not sure how to adapt initial rest to metrical variance
+!!!note: italics in original. some words elided since metre does not always allow for text
+!!LO:TX:a:B:t=Allegro
+8r	.	.	.	.	.	.	.	.	.
+*	*	*	*pline:6r	*pline:8r	*pline:10r	*pline:12r	*pline:14r	*pline:16r	*pline:18r
+*	*	*pline:3r	*italic	*	*italic	*	*	*	*
+{{8e	.	Pour	Mais	Ah!	Mais	Di-	Ell's	Et	Ell's
+*	*	*	*	*italic	*	*	*	*	*
+8a	Quand	al-	qu'on	Mais	qu'n's a-	-manche	vont	au	vont
+*	*	*	*Xitalic	*	*Xitalic	*italic	*	*	*
+8b	on	-ler	ar-	qu'ça	-mis	au	nous	mi-	nous
+*	*	*	*	*	*	*Xitalic	*	*	*
+=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+8cc	pâ-	voir	-riv[e]	soy[e]	nous	soir	dir[e]	-lieu	dir'
+*	*	*	*	*Xitalic	*italic	*	*	*	*italic
+8cc	-re	tous	en	tout	v'yent	à	mais	de	mais
+*	*	*	*	*italic	*Xitalic	*	*	*	*Xitalic
+8dd	des	nos	Ca-	mou-	ar-	la	en	la	en
+8cc	chan-	pa-	-na-	-il-	-ri-	veil-	en-	veil-	par-
+=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+8b}	-quiers,	-rents,	-da,	-lé,	-ver,	-lée,	-trant:	-lée,	-tant:
+*	*	*	*	*Xitalic	*	*	*	*	*
+*	*rp:kje	*	*	*	*	*	*	*	*
+*	*rf:e	*	*	*	*	*	*	*	*
+*	*rs:a	*	*	*	*	*	*	*	*
+*	*pline:2	*pline:4r	*pline:7r	*pline:9r	*pline:11r	*pline:13r	*pline:15r	*pline:17r	*pline:19r
+16r	.	.	.	.	.	.	.	.	.
+{16b	Mes	Mes	I(l)	Vous	I(ls)	Nous	V'là	Ell's	As
+8a	chers	chers	va	al-	vont	i-	mon	v'nt nous	tu
+8b	a-	a-	fal-	-lez	s'mett(re)	-rons	a-	par-	fré-
+!!LO:PB:g=original
+=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
+8cc	-mis,	-mis,	-loir	voir	à	voir	-mant!	-ler	-quen-
+*	*	*	*italic	*	*	*	*	*	*
+8cc	tous	le	y	qu'ça	rir[e],	nos	J'ai	d'leurs	-té
+*	*	*	*	*	*	*italic	*	*	*
+8dd	le	cœur	mouil-	va	à	com-	l'coeur	ca-	des
+8cc	cœur	con-	-ler	mar-	chan-	-pa-	con-	-va-	a-
+=5	=5	=5	=5	=5	=5	=5	=5	=5	=5
+8b}	gai,	-tent;	ça.	-cher.	-ter,	-gnées.	-tent.	-liers.	-mants?
+*	*rp:ge	*	*	*	*	*	*	*	*
+*	*rf:e	*	*	*	*	*	*	*	*
+*	*rs:a	*	*	*	*	*	*	*	*
+*	*	*	*Xitalic	*pline:10	*pline:12	*Xitalic	*	*	*
+16r	.	.	.	.	.	.	.	.	.
+*	*pline:3	*pline:6	*pline:8	*italic	*	*pline:14	*pline:16	*pline:18	*pline:20
+{16b	Pour	Mais	Ah!	Mais	Di-	Ell's	Et	Ell's	Qui
+*	*	*	*italic	*	*	*	*	*	*
+8b	al-	qu'on	Mais	qu'n's a-	-manch[e]	vont	au	vont	a
+*	*	*	*	*Xitalic	*italic	*	*	*	*
+8b	-ler	ar-	qu'ça	-mis	au	nous	mi-	nous	com-
+*	*	*	*	*	*Xitalic	*	*	*	*
+=6	=6	=6	=6	=6	=6	=6	=6	=6	=6
+8cc#	voir	-rive	soy[e]	nous	soir	dire	-lieu	dir'	-po-
+*	*	*	*Xitalic	*	*	*	*	*	*
+*	*	*	*	*italic	*	*italic	*	*italic	*
+8a	tous	en	tout	v'yent	à	mais	de	mais	-sé
+*	*	*	*italic	*	*	*Xitalic	*	*Xitalic	*
+*	*	*	*	*Xitalic	*	*	*	*	*
+8g#	nos	Ca-	mou-	ar-	la	en	la	en	la
+8b	pa-	-na-	-il-	-ri-	veil-	en-	veil-	par-	chan-
+!!LO:PB:g=original
+=7	=7	=7	=7	=7	=7	=7	=7	=7	=7
+8.a}	-rents,	-da,	-lé,	-ver.	-lée.	-trant,	-lée,	-tant:	-son.
+*	*rp:ʁɑ̃	*rp:dɑ	*rp:je	*rp:ve	*rp:je	*rp:tʁɑ̃	*rp:je	*rp:tɑ̃	*rp:sɔ̃
+*	*rf:ɑ̃	*rf:ɑ	*rf:e	*rf:e	*rf:e	*rf:ɑ̃	*rf:e	*rf:ɑ̃	*rf:ɔ̃
+*	*rs:b	*rs:c	*rs:d	*rs:d	*rs:d	*rs:b	*rs:d	*rs:b	*rs:e
+*	*pline:4	*pline:7	*Xitalic	*	*	*	*	*	*
+*	*	*	*pline:9	*pline:11	*pline:13	*pline:15	*pline:17	*pline:19	*pline:21
+!!!v.4: some elisions made for text setting: is there a better way?
+{16a	Mes	I(l)	Vous	I(ls)	Nous	V'là	Ell's	As-	C'est
+*	*	*	*	*	*	*	*	*	*italic
+8a	chers	va	al-	vont	i-	mon	v'nt nous	-tu	Jos
+8a	a-	fal-	-lez	s'mett(re)	-rons	a-	par-	fré-	Blan-
+=8	=8	=8	=8	=8	=8	=8	=8	=8	=8
+8a	-mis,	-loir	voir	à	voir	-mant!	-ler	-quen-	-chet
+*	*	*	*	*	*	*	*	*	*Xitalic
+8b	le	y	qu'ça	rir[e],	nos	J'ai	d'leurs	-té	l'jo-
+*	*	*	*	*	*italic	*	*	*	*
+8a	cœur	mouil-	va	à	com-	l'coeur	ca-	des	-li
+8g?	con-	-ler	mar-	chan-	-pa-	con-	-va-	a-	gar-
+=9	=9	=9	=9	=9	=9	=9	=9	=9	=9
+4.e}}	-tent.	ça.	-cher.	-ter.	-gnées.	-tent.	-liers.	-mants?	-çon.
+*	*rp:tɑ̃	*rp:sɑ	*rp:ʃe	*rp:te	*rp:ɲe	*rp:tɑ̃	*rp:je	*rp:mɑ̃	*rp:sɔ̃
+*	*rf:ɑ̃	*rf:ɑ	*rf:e	*rf:e	*rf:e	*rf:ɑ̃	*rf:e	*rf:ɑ̃	*rf:ɔ̃
+*	*rs:b	*rs:c	*rs:d	*rs:d	*rs:d	*rs:b	*rs:d	*rs:b	*rs:e
+*	*v: 	*	*	*	*Xitalic	*	*	*	*
+*	*pline:R1	*	*	*	*	*	*	*	*
+8r	.	.	.	.	.	.	.	.	.
+=10||	=10||	=10||	=10||	=10||	=10||	=10||	=10||	=10||	=10||
+!!LO:TX:a:B:t=REFRAIN
+{{8a	En-	.	.	.	.	.	.	.	.
+8cc	-voy-	.	.	.	.	.	.	.	.
+8b	-ons	.	.	.	.	.	.	.	.
+8cc	d'l'a-	.	.	.	.	.	.	.	.
+!!LO:PB:g=original
+=11	=11	=11	=11	=11	=11	=11	=11	=11	=11
+8a	-vant,	.	.	.	.	.	.	.	.
+8g	nos	.	.	.	.	.	.	.	.
+4e}	gens!	.	.	.	.	.	.	.	.
+=12	=12	=12	=12	=12	=12	=12	=12	=12	=12
+*	*bis	*	*	*	*	*	*	*	*
+{8a	En-	.	.	.	.	.	.	.	.
+8cc	-voy-	.	.	.	.	.	.	.	.
+8b	-ons	.	.	.	.	.	.	.	.
+8cc	d'l'a-	.	.	.	.	.	.	.	.
+=13	=13	=13	=13	=13	=13	=13	=13	=13	=13
+4a}	-vant!	.	.	.	.	.	.	.	.
+*	*Xbis	*	*	*	*	*	*	*	*
+4r	.	.	.	.	.	.	.	.	.
+=14	=14	=14	=14	=14	=14	=14	=14	=14	=14
+*	*pline:R1r	*	*	*	*	*	*	*	*
+{8a	En-	.	.	.	.	.	.	.	.
+8cc	-voy-	.	.	.	.	.	.	.	.
+8b	-ons	.	.	.	.	.	.	.	.
+8cc	d'l'a-	.	.	.	.	.	.	.	.
+!!LO:PB:g=original
+=15	=15	=15	=15	=15	=15	=15	=15	=15	=15
+8a	-vant,	.	.	.	.	.	.	.	.
+8g	nos	.	.	.	.	.	.	.	.
+4e}	gens!	.	.	.	.	.	.	.	.
+=16	=16	=16	=16	=16	=16	=16	=16	=16	=16
+{8a	En-	.	.	.	.	.	.	.	.
+8cc	-voy-	.	.	.	.	.	.	.	.
+8b	-ons	.	.	.	.	.	.	.	.
+8cc	d'l'a-	.	.	.	.	.	.	.	.
+=17	=17	=17	=17	=17	=17	=17	=17	=17	=17
+4a}}	-vant!	.	.	.	.	.	.	.	.
+4r	.	.	.	.	.	.	.	.	.
+==	==	==	==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!EED: Isaac Howie
+!!!EEV: 2025/July/15
