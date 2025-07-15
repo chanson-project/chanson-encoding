@@ -10,7 +10,7 @@
 !!!SMA: 2012 Bibliothèque nationale du Québec; Biblothèque nationale du Canada
 !!!AGN-type: Chanson geunesse
 !!!AGN-Laforte: Chanson strophique (sans refrain) 9:6(8)
-!!!AGN-rhyme:
+!!!AGN-rhyme:abcdefgh
 **kern	**text	**text	**text	**text	**text	**text	**text	**text	**text
 *clefG2:	*	*	*	*	*	*	*	*	*
 *k[f#c#]	*	*	*	*	*	*	*	*	*
@@ -30,7 +30,9 @@
 8f#	-tit	-van-	hu-	le	-vi-	-om-	ce	mour-	de
 =3	=3	=3	=3	=3	=3	=3	=3	=3	=3
 [2a	mot,	-cé,	-ron,	nom!	-té,	-phant,	mot,	-rait;	sang,
-*	*rp:	*rp:	*rp:	*rp:	*rp:	*rp:	*rp:	*rp:	*rp:
+*	*rp:o	*rp:e	*rp:ɔ̃	*rp:ɔ̃	*rp:e	*rp:ã	*rp:o	*rp:ɛ	*rp:ã
+*	*rf:mo	*rf:se	*rf:ʁɔ̃	*rf:nɔ̃	*rf:te	*rf:fã	*rf:mo	*rf:ʁɛ	*rf:sã
+*	*rs:a	*rs:d	*rs:f	*rs:f	*rs:d	*rs:h	*rs:a	*rs:i	*rs:h
 8a]	.	.	.	.	.	.	.	.	.
 8a	Car	Chè-	Du	Ai-	Nous	Lors-	Ce	Hi-	Le
 !!linebreak:original
@@ -43,6 +45,9 @@
 8f#	-ti-	-non-	-pa-	-pa-	-rê-	en-	-ti-	for-	en-
 =5	=5	=5	=5	=5	=5	=5	=5	=5	=5
 [2a	-ot,	-cer	-gnon,	-gnon,	-ter,	-fant	-ot,	-èt,	-fant:
+*	*rp:o	*rp:e	*rp:ɔ̃	*rp:ɔ̃	*rp:e	*rp:ã	*rp:o	*rp:ɛ	*rp:ã
+*	*rf:o	*rf:se	*rf:ɲɔ̃	*rf:nɔ̃	*rf:te	*rf:fã	*rf:o	*rf:ʁɛ	*rf:fã
+*	*rs:a	*rs:d	*rs:f	*rs:f	*rs:d	*rs:h	*rs:a	*rs:i	*rs:h
 8a]	.	.	.	.	.	.	.	.	.
 8f#	Là-	A	Nous	J'ai	Oh!	Je	Vo-	Nous	Bai-
 =6	=6	=6	=6	=6	=6	=6	=6	=6	=6
@@ -54,8 +59,11 @@
 8g	-on-	a-	ri-	Cal-	ce	pri-	-on-	pri-	-que
 !!linebreak:original
 =7	=7	=7	=7	=7	=7	=7	=7	=7	=7
-4f#	-nai	-mè-	-vi-	-vai-	Pè-	-è-	-nai-	-è-	chè-
+4f#	-nai-	-mè-	-vi-	-vai-	Pè-	-è-	-nai-	-è-	chè-
 4e	-re,	-re...	-ère...	-re;	-re!	-re;	-re:	-re;	-re:
+*	*rp:ɛː	*rp:ɛː	*rp:ɛː	*rp:ɛː	*rp:ɛː	*rp:ɛː	*rp:ɛː	*rp:ɛː	*rp:ɛː
+*	*rf:ɛːʁ	*rf:ɛːʁ	*rf:ɛːʁ	*rf:ɛːʁ	*rf:ɛːʁ	*rf:ɛːʁ	*rf:ɛːʁ	*rf:ɛːʁ	*rf:ɛːʁ
+*	*rs:b	*rs:b	*rs:b	*rs:b	*rs:b	*rs:b	*rs:b	*rs:b	*rs:b
 8r	.	.	.	.	.	.	.	.	.
 8b	Au	Le	Les	Mais	Quel-	Sur	Il	Sou-	Vous
 =8	=8	=8	=8	=8	=8	=8	=8	=8	=8
@@ -67,6 +75,9 @@
 8b	qu'il	un	sur-	à	-ver-	la	le	-ce-	mar-
 =9	=9	=9	=9	=9	=9	=9	=9	=9	=9
 2dd	soit,	brin...	-pris.	toi,	-tis,	croix,	ciel,	-né,	-tyr!...
+*	*rp:a	*rp:ẽ	*rp:i	*rp:a	*rp:i	*rp:a	*rp:ɛ	*rp:e	*rp:i
+*	*rf:swa	*rf:bʁẽ	*rf:pʁi	*rf:twa	*rf:ti	*rf:kʁa	*rf:ɛl	*rf:ne	*rf:tiʁ
+*	*rs:c	*rs:e	*rs:g	*rs:c	*rs:g	*rs:c	*rs:i	*rs:d	*rs:g
 8r	.	.	.	.	.	.	.	.	.
 8b	Pen-	De	Je	Je	J'ai	Com-	Jou-	Sa	Moi,
 !!linebreak:original
@@ -79,6 +90,9 @@
 8f#	à	cha-	pa-	pour	pe-	par-	-ter-	Re-	-ran-
 =11	=11	=11	=11	=11	=11	=11	=11	=11	=11
 [4a	toi,	-grin,	-ys	moi,	-tits:	-fois	-nel,	-né...	-tir,
+*	*rp:a	*rp:ẽ	*rp:i	*rp:a	*rp:i	*rp:a	*rp:ɛ	*rp:ɛ	*rp:i
+*	*rf:twa	*rf:gʁẽ	*rf:i	*rf:mwa	*rf:ti	*rf:fwa	*rf:ɛl	*rf:ɛn	*rf:tiʁ
+*	*rs:c	*rs:e	*rs:g	*rs:c	*rs:g	*rs:c	*rs:i	*rs:i	*rs:g
 8a]	.	.	.	.	.	.	.	.	.
 8f#	Ma	Ma	Et	Pi-	Quel	Ma	O	Cou-	Heu-
 8f#	bon-	dou-	de	-eu-	bon-	ten-	sain-	-rage!	-reu-
@@ -86,6 +100,9 @@
 =12	=12	=12	=12	=12	=12	=12	=12	=12	=12
 2e	mè-	mè-	mè-	mè-	Mè-	mè-	mè-	mè-	mè-
 8d;	re.	re!	re!	re!	re!	re!	re!	re!	re!
+*	*rp:ɛː	*rp:ɛː	*rp:ɛː	*rp:ɛː	*rp:ɛː	*rp:ɛː	*rp:ɛː	*rp:ɛː	*rp:ɛː
+*	*rf:ɛːʁ	*rf:ɛːʁ	*rf:ɛːʁ	*rf:ɛːʁ	*rf:ɛːʁ	*rf:ɛːʁ	*rf:ɛːʁ	*rf:ɛːʁ	*rf:ɛːʁ
+*	*rs:b	*rs:b	*rs:b	*rs:b	*rs:b	*rs:b	*rs:b	*rs:b	*rs:b
 ==	==	==	==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-
 !!!EED:Jason Lau
