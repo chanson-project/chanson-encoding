@@ -1,0 +1,144 @@
+!!!id: BC082
+!!!page: 106
+!!!COM: Anonymous (Folklore)
+!!!COM-arr: Gadbois, Charles-Émile
+!!!PTL@@FR: Les 100 plus belles chansons
+!!!OTL@@FR: Mon père m'y marie
+!!!PUB: La Bonne Chanson, inc.
+!!!YEM: On ne peut reproduire, enregistrer ou diffuser en tout ou en partie le présent ouvrage, sous quelque procédé que ce soit, électronique, mécanique, photographique, sonore, magnétique ou autre, sans avoir obtenu au préalable l'autorisation écrite de l'éditrice.
+!!!YEM-owner: Toutes les chansons qui appartenaient à Charles Marchand sont maintenant la propriété de La Bonne Chanson.
+!!!PDT: 2011
+!!!SMA: 2012 Bibliothèque nationale du Québec; Biblothèque nationale du Canada
+!!!AGN-Laforte: Chanson en laisse, 9:2(6+8), R:2/4, répétition à cheval du deuxième vers de chaque strophe
+!!!AGN-type: Chanson de mariage
+!!!AGN-rime: monorhyme /u/
+!!!LYR-elision:
+**kern	**text	**text	**text	**text	**text	**text	**text	**text	**text
+*clefG2	*	*	*	*	*	*	*	*	*
+*k[]	*	*	*	*	*	*	*	*	*
+*d:	*	*	*	*	*	*	*	*	*
+*M2/4	*	*	*	*	*	*	*	*	*
+*>[A,B,B1,B,B2]	*>[A,B,B1,B,B2]	*>[A,B,B1,B,B2]	*>[A,B,B1,B,B2]	*>[A,B,B1,B,B2]	*>[A,B,B1,B,B2]	*>[A,B,B1,B,B2]	*>[A,B,B1,B,B2]	*>[A,B,B1,B,B2]	*>[A,B,B1,B,B2]
+*	*v:1	*v:2	*v:3	*v:4	*v:5	*v:6	*v:7	*v:8	*v:9
+*	*pline:1	*pline:2b2	*pline:3b3	*pline:4b3	*pline:5a2b4	*pline:6b3	*pline:7c2-3b6	*pline:8a4b6	*pline:9a4b6
+*>A	*>A	*>A	*>A	*>A	*>A	*>A	*>A	*>A	*>A
+!!LO:TX:a:B:t=Solo
+{{8a	Mon	L'pre-	Fus	Di-	Faut-	Du	Au	Les	Ils
+!!v:7, pline:7b2, "Le" is replaced by "Au," "diabl[e]" is elongated as "dia-ble", and the word "em-por-te" is elided.
+=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+8a	pè-	-mier	pas	-sait	-il	mond[e]	dia-	blancs	ont
+8dd	-re	jour	si-	dans	qu'un'	à	-ble	che-	du
+8cc	m'y	de	-tôt	son	jeun'	la	la	-vaux	foin,
+8dd	ma-	mes	cou-	lan-	ma-	bou-	bou-	d'mon	d'l'a-
+=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+8.a}	-ri[e]	noc's,	-ché'	-gag[e]:	-rié'	-tiqu',	-tiqu[e]	pèr[e],	-voin[e],
+{16g	a-	ils	que	"Ah!	s'y	qui	et	ils	un
+8f	-vec	m'ont	l'a-	lè-	lèv[e]	veut	tous	sont	coup
+8g	un	jou-	-lou-	-ve-	a-	mar-	les	bien	d'é-
+=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+8a	mar-	-é	-ett'	-toi,	-vant	-chan-	mar-	mieux	trill[e]
+8dd	-chand	un	chan-	car	le	-der	-chands	soi-	à
+8cc	de	vi-	-ta	il	pe-	le	de	-gnés	cha-
+8dd	ve-	-lain	le	est	-tit	ve-	ve-	qu'a-	-que
+!!LO:PB:g=original
+=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
+4.a}}	-lours,	tour,	jour,	jour",	jour?	-lours,	-lours!	-mour,	tour,
+*	*rp:u	*rp:u	*rp:u	*rp:u	*rp:u	*rp:u	*rp:u	*rp:u	*rp:u
+*	*rf:luʁ	*rf:tuʁ	*rf:ʒuʁ	*rf:ʒuʁ	*rf:ʒuʁ	*rf:luʁ	*rf:luʁ	*rf:muʁ	*rf:tuʁ
+*	*rs:a1	*rs:a2	*rs:a3	*rs:a3	*rs:a3	*rs:a1	*rs:a1	*rs:a4	*rs:a2
+*	*pline:1r	*pline:2b2	*pline:3b3	*pline:4b2	*pline:5a2b4	*pline:6b3	*pline:7c2-3b6	*plinr:8a4b6	*pline:9a4b6
+!!LO:TX:a:B:t=Choeur:qo=-1
+{{8a	Mon	L'pre-	Fus	Di-	Faut-	Du	Au	Les	Ils
+=5	=5	=5	=5	=5	=5	=5	=5	=5	=5
+8a	pè-	-mier	pas	-sait	-il	mond[e]	dia-	blancs	ont
+8dd	-re	jour	si-	dans	qu'un'	à	-ble	che-	du
+8cc	m'y	de	-tôt	son	jeun'	la	la	-vaux	foin,
+8dd	ma-	mes	cou-	lan-	ma-	bou-	bou-	d'mon	d'l'a-
+=6	=6	=6	=6	=6	=6	=6	=6	=6	=6
+8.a}	-ri[e]	noc's,	-ché'	-gag[e]:	-rié'	-tiqu',	-tiqu[e]	pèr[e],	-voin[e],
+{16g	a-	ils	que	"Ah!	s'y	qui	et	ils	un
+8f	-vec	m'ont	l'a-	lè-	lèv[e]	veut	tous	sont	coup
+8g	un	jou-	-lou-	-ve-	a-	mar-	les	bien	d'é-
+!!LO:PB:g=original
+=7	=7	=7	=7	=7	=7	=7	=7	=7	=7
+8a	mar-	-é	-ett'	-toi,	-vant	-chan-	mar-	mieux	-trill[e]
+8dd	-chand	un	chan-	car	le	-der	-chands	soi-	à
+8cc	de	vi-	-ta	il	pe-	le	de	-gnés	cha-
+8dd	ve-	-lain	le	est	-tit	ve-	ve-	qu'a-	-que
+=8	=8	=8	=8	=8	=8	=8	=8	=8	=8
+8.a}}	-lours.	tour.	jour".	jour".	jour?	-lours.	-lours!	-mour.	tour.
+*	*rp:u	*rp:u	*rp:u	*rp:u	*rp:u	*rp:u	*rp:u	*rp:u	*rp:u
+*	*rf:luʁ	*rf:tuʁ	*rf:ʒuʁ	*rf:ʒuʁ	*rf:ʒuʁ	*rf:luʁ	*rf:luʁ	*rf:luʁ	*rf:tuʁ
+*	*rs:a1	*rs:a2	*rs:a3	*rs:a3	*rs:a3	*rs:a1	*rs:a1	*rs:a4	*rs:a2
+*	*pline:2	*pline:3	*pline:4	*pline:5	*pline:6	*pline:7	*pline:8	*pline:9	*pline:10
+!!LO:TX:a:B:t=Solo:qo=-1
+{16a	Le	Je	Ell'	"Faut-	Y	Le	Les	Ils	Et
+8a	pre-	ne	me	-il	a	diabl[e]	blancs	ont	moi
+8bnZ	-mier	fus	di-	donc	du	em-	che-	du	qui
+=9	=9	=9	=9	=9	=9	=9	=9	=9	=9
+!LO:S:dash	!	!	!	!	!	!	!	!	!
+(8.cc	jour	pas	-sait	qu'un'	mond[e]	-por-	-vaux	foin	suis
+16cc)	.	si-	dans	.	à	-te	de	et	.
+8cc	de	tôt	son	jeun'	la	la	chez	de	jeun'
+8cc	mes	cou-	lan-	ma-	bou-	bou-	mon	l'a-	ma-
+!!LO:PB:g=original
+=10	=10	=10	=10	=10	=10	=10	=10	=10	=10
+8cc	noc's,	-ché'	-gag[e]:	-rié'	-tiqu',	-tiqu[e]	pèr[e]	-voin[e],	-rié',
+8a	ils	que	"Ah!	s'y	qui	et	ils	un	faut
+8g	m'ont	l'a-	lè-	lèv[e]	veut	tous	sont	coup	m'y
+8e	jou-	-lou-	-ve-	a-	mar-	les	bien	d'é-	le-
+=11	=11	=11	=11	=11	=11	=11	=11	=11	=11
+4f	-é	-ett'	-toi,	-vant	-chan-	mar-	mieux	trill[e]	-ver
+8g	un	chan-	car	le	-der	-chands	soi-	à	a-
+16f	vi-	-ta	il	pe-	le	de	-gnés	cha-	-vant
+16g	-lain	le	fait	-tit	ve-	ve-	qu'a-	-que	le
+=12	=12	=12	=12	=12	=12	=12	=12	=12	=12
+8a}	tour.	jour.	jour.	jour?	-lours.	-lours.	-mour.	tour.	jour".
+*	*rp:u	*rp:u	*rp:u	*rp:u	*rp:u	*rp:u	*rp:u	*rp:u	*rp:u
+*	*rf:tuʁ	*rf:ʒuʁ	*rf:ʒuʁ	*rf:ʒuʁ	*rf:luʁ	*rf:luʁ	*rf:muʁ	*rf:tuʁ	*rf:ʒuʁ
+*	*rs:a2	*rs:a3	*rs:a3	*rs:a3	*rs:a1	*rs:a1	*rs:a4	*rs:a2	*rs:a3
+*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain
+*>B	*>B	*>B	*>B	*>B	*>B	*>B	*>B	*>B	*>B
+=||:	=||:	=||:	=||:	=||:	=||:	=||:	=||:	=||:	=||:
+*	*pline:R1	*	*	*	*	*	*	*	*
+!!LO:TX:a:i:t=Reprise par le Choeur
+{{8a	Ah!	.	.	.	.	.	.	.	.
+8d	Gai	.	.	.	.	.	.	.	.
+8f	lon	.	.	.	.	.	.	.	.
+!!LO:PB:g=original
+=13	=13	=13	=13	=13	=13	=13	=13	=13	=13
+4a	la,	.	.	.	.	.	.	.	.
+*	*pline:R2	*	*	*	*	*	*	*	*
+16a	Vi-	.	.	.	.	.	.	.	.
+16g	-ve	.	.	.	.	.	.	.	.
+16a	la	.	.	.	.	.	.	.	.
+16bnZ	rou-	.	.	.	.	.	.	.	.
+=14	=14	=14	=14	=14	=14	=14	=14	=14	=14
+8a	-let-	.	.	.	.	.	.	.	.
+8g	-te,	.	.	.	.	.	.	.	.
+*	*pline:R1b2	*	*	*	*	*	*	*	*
+8f	Gai	.	.	.	.	.	.	.	.
+(16dL	lon	.	.	.	.	.	.	.	.
+16eJ)	.	.	.	.	.	.	.	.	.
+=15	=15	=15	=15	=15	=15	=15	=15	=15	=15
+4f	la,	.	.	.	.	.	.	.	.
+*	*pline:R2a4	*	*	*	*	*	*	*	*
+16g	Vi-	.	.	.	.	.	.	.	.
+16f	-ve	.	.	.	.	.	.	.	.
+16e	la	.	.	.	.	.	.	.	.
+16f	rou-	.	.	.	.	.	.	.	.
+=16	=16	=16	=16	=16	=16	=16	=16	=16	=16
+!LO:TX:a:t=1	!	!	!	!	!	!	!	!	!
+*>B1	*>B1	*>B1	*>B1	*>B1	*>B1	*>B1	*>B1	*>B1	*>B1
+8d}	-lé!	.	.	.	.	.	.	.	.
+=:||	=:||	=:||	=:||	=:||	=:||	=:||	=:||	=:||	=:||
+!LO:TX:a:t=2	!	!	!	!	!	!	!	!	!
+*>B2	*>B2	*>B2	*>B2	*>B2	*>B2	*>B2	*>B2	*>B2	*>B2
+4d	-lé!	.	.	.	.	.	.	.	.
+8r}	.	.	.	.	.	.	.	.	.
+==	==	==	==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!RDF**kern: Z = editorial accidental, paren
+!!!EED: Ève Poudrier
+!!EEV: 2025/07/22
+!!!RNB: pline:5 and pline:9, " . jeun' ma-rié'" could also be set as "jeun' ma-ri-é'"; choice based on greater consistency.
