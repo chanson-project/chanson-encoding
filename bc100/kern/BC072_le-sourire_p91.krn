@@ -1,0 +1,174 @@
+!!!id: BC072
+!!!page: 91
+!!!COM: Paroles et musique de Chs.-Emile GADBOIS
+!!!LYR: Chs.-Emile GADBOIS
+!!!PTL@@FR: Les 100 plus belles chansons
+!!!OTL@@FR: Le sourire
+!!!PUB: La Bonne Chanson, inc.
+!!!YEM: On ne peut reproduire, enregistrer ou diffuser en tout ou en partie le présent ouvrage, sous quelque procédé que ce soit, électronique, mécanique, photographique, sonore, magnétique ou autre, sans avoir obtenu au préalable l'autorisation écrite de l'éditrice.
+!!!PDT: 2011
+!!!SMA:2012 Bibliothèque nationale du Québec; Biblothèque nationale du Canada
+!!!AGN-Laforte: Chanson strophique (avec refrain), 3:4(10), R4(9/8)
+!!!AGN-type: amour? pastorale? moralité?
+!!!AGN-rime: croisées (abab)
+**kern	**text	**text	**text
+*clefG2	*	*	*
+*k[b-]	*	*	*
+*D:	*	*	*
+*M6/8	*	*	*
+*	*pline:R1	*	*
+*>Refrain	*>Refrain	*>Refrain	*>Refrain
+!!LO:TX:a:t=Refrain Simplement
+{{8a	La	.	.
+8cc	dou-	.	.
+8a	-ce	.	.
+=1	=1	=1	=1
+4g	cho-	.	.
+8f	-se	.	.
+4g	qu'un	.	.
+8a	sou-	.	.
+=2	=2	=2	=2
+4cc	-ri-	.	.
+8cc,	-re!	.	.
+*	*rp:iʁ,ə	*	*
+*	*rf:i	*	*
+*	*rs:Ra	*	*
+*	*pline:R2	*	*
+8a	Il	.	.
+8cc	donne	.	.
+8a	au	.	.
+!!LO:PB:g=original
+=3	=3	=3	=3
+4g	cœur	.	.
+8f	un	.	.
+4g	peu	.	.
+8a	d'es-	.	.
+=4	=4	=4	=4
+4dd}	-poir;	.	.
+*	*rp:ɑʁ	*	*
+*	*rf:ɑ	*	*
+*	*rs:Rb	*	*
+8r	.	.	.
+*	*pline:R3	*	*
+{8dd	Il	.	.
+8ee	ne	.	.
+8ff	dit	.	.
+=5	=5	=5	=5
+8ee	rien,	.	.
+8r	.	.	.
+8dd	mais	.	.
+4cc	il	.	.
+8b-	at-	.	.
+=6	=6	=6	=6
+4a	-ti-	.	.
+8a,	-re.	.	.
+*	*rp:iʁ,ə	*	*
+*	*rf:i	*	*
+*	*rs:Ra	*	*
+*	*pline:R4	*	*
+8g	Si	.	.
+8a	l'on	.	.
+8g	sa-	.	.
+!!LO:PB:g=original
+=7	=7	=7	=7
+4cc	-vait	.	.
+8f	son	.	.
+4a	grand	.	.
+8g	pou-	.	.
+=8||	=8||	=8||	=8||
+*M9/8	*	*	*
+(4.f	-voir!	.	.
+*	*rp:ɑʁ	*	*
+*	*rf:ɑ	*	*
+*	*rs:Rb	*	*
+4f)}}	.	.	.
+8r	.	.	.
+=||	=||	=||	=||
+*	*v:1	*v:2	*v:3
+*	*pline:1	*pline:5	*pline:9
+!!!note: not sure why the first verse is slightly to the left of the other 2?
+!!LO:TX:a:t=Couplet
+{{8a	Quand	Quand	Quand
+8a	un	un	l'a-
+8a	en-	pa-	-mou-
+=9	=9	=9	=9
+(4.dd	-fant,	-tient,	-reux
+8dd)	.	.	.
+8a	dans	sur	in-
+8a	le	son	-ter-
+8a	bras	lit	-ro-
+8g	de	de	-ge
+8f	sa	souf-	sa
+!!LO:PB:g=original
+=10	=10	=10	=10
+4.g	mè-	-fran-	bel-
+8g}	-re	-ce,	-le,
+*	*rp:ɛːʁ,ə	*rp:ɑ̃s,ə	*rp:ɛl,ə
+*	*rf:ɛː	*rf:ɑ̃	*rf:ɛ
+*	*rs:a	*rs:c	*rs:e
+8r	.	.	.
+8r	.	.	.
+*	*pline:2	*pline:6	*pline:10
+{8g	Vient	Sembl[e]	Qu'il
+8g	se	ac-	veut
+8g	je-	-ca-	sa-
+=11	=11	=11	=11
+(4.cc	-ter	-blé	-voir
+8cc)	.	.	.
+8g	en	par	le
+8g	pleu-	de	se-
+8g	-rant	som-	-cret
+8f	en	-bres	de
+8e	san-	sou-	la
+!!LO:PB:g=original
+=12	=12	=12	=12
+(4.f	-glots,	-cis,	fleur,
+*	*rp:o	*rp:i	*rp:œʁ
+*	*rf:o	*rf:i	*rf:œ
+*	*rs:b	*rs:d	*rs:f
+8f)}}	.	.	.
+8r	.	.	.
+8r	.	.	.
+*	*pline:3	*pline:7	*pline:11
+{{8f	Il	Il	El-
+8f	lui	sent	-le
+8f	suf-	re-	sou-
+=13	=13	=13	=13
+(4.e	-fit	-naî-	-rit...
+8e)	.	.	.
+8e	d'un	-tr[e] un	la
+8e	sou-	ra-	ré-
+8b-	-ri-	-yon	-pons[e]
+8b-	-re	d'es-	est
+8b-	sin	-pé-	fi-
+!!LO:PB:g=original
+=14	=14	=14	=14
+4.a	-cè-	-ran-	-dè-
+8a}	-re	-ce	-le:
+*	*rp:ɛːʁ,ə	*rp:ɑ̃s,ə	*rp:ɛl,ə
+*	*rf:ɛː	*rf:ɑ̃	*rf:ɛ
+*	*rs:a	*rs:c	*rs:e
+8r	.	.	.
+8r	.	.	.
+*	*pline:4	*pline:8	*pline:12
+{8a	Et	Si	Il
+8a	son	l'in-	sait
+8a	cha-	-fir-	a-
+=15	=15	=15	=15
+(4.g	-grin	-mièr[e],	-lors
+8g)	.	.	.
+8g	se	en	qu'il
+8g	dis-	pas-	pos-
+8g	-sip[e]	-sant,	-sè-
+8a	aus-	lui	-de
+8b	-si-	sou-	son
+=16||	=16||	=16||	=16||
+*M6/8	*	*	*
+4.cc;}}	tо̂t.	-rit!	coeur!
+*	*rp:o	*rp:i	*rp:œʁ
+*	*rf:o	*rf:i	*rf:œ
+*	*rs:b	*rs:d	*rs:f
+==	==	==	==
+*-	*-	*-	*-
+!!!EED: Isaac Howie
+!!!EEV: 2025/Jul/22
