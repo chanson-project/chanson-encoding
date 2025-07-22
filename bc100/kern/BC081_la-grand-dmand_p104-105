@@ -21,7 +21,7 @@
 *M2/4	*	*	*	*	*	*
 *	*v:1	*v:2	*v:3	*v:4	*v:5	*v:6
 *	*pline:1	*pline:9	*pline:17	*pline:25	*pline:33	*pline:41
-8a	Ma-	Ma-	Ma-	L'mon-	Il	Ma-
+{{8a	Ma-	Ma-	Ma-	L'mon-	Il	Ma-
 16a	-de-	-de-	-de-	-sieur	tourn'	-dam',
 16a	-moi-	-moi-	-moi-	a-	les	j'veux
 =1	=1	=1	=1	=1	=1	=1
@@ -30,7 +30,7 @@
 8e	au	le	-tend	son	le	sans
 8e	sa-	tor-	l'gar-	lor-	pla-	fa-
 =2	=2	=2	=2	=2	=2	=2
-4a	-lon.	-chon,	-çon,	-gnon,	-fond,	-çon,
+4a}	-lon.	-chon,	-çon,	-gnon,	-fond,	-çon,
 *	*rp:ɔ̃	*rp:ɔ̃	*rp:ɔ̃	*rp:ɔ̃	*rp:ɔ̃	*rp:ɔ̃
 *	*rf:lɔ̃	*rf:ʃɔ̃	*rf:sɔ̃	*rf:ɲɔ̃	*rf:fɔ̃	*rf:sɔ̃
 *	*rs:a1	*rs:a2	*rs:a3	*rs:a4	*rs:a5	*rs:a3
@@ -39,7 +39,7 @@
 *	*refrain	*refrain	*refrain	*refrain	*refrain	*refrain
 *	*italic	*italic	*italic	*italic	*italic	*italic
 !!LO:TX:a:B:t=Plus lent
-8.cc	Ah!	Ah!	Ah!	Ah!	Ah!	Ah!
+{8.cc	Ah!	Ah!	Ah!	Ah!	Ah!	Ah!
 16a	Sei-	Sei-	Sei-	Sei-	Sei-	Sei-
 !!LO:PB:g=original
 =3	=3	=3	=3	=3	=3	=3
@@ -47,7 +47,7 @@
 8e	que	que	que	que	que	que
 8e	c'est	c'est	c'est	c'est	c'est	c'est
 =4	=4	=4	=4	=4	=4	=4
-4a	long!	long!	long!	long!	long!	long!
+4a}}	long!	long!	long!	long!	long!	long!
 *	*rp:ɔ̃	*rp:ɔ̃	*rp:ɔ̃	*rp:ɔ̃	*rp:ɔ̃	*rp:ɔ̃
 *	*rf:lɔ̃	*rf:lɔ̃	*rf:lɔ̃	*rf:lɔ̃	*rf:lɔ̃	*rf:lɔ̃
 *	*rs:a1	*rs:a1	*rs:a1	*rs:a1	*rs:a1	*rs:a1
@@ -55,8 +55,9 @@
 *	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain
 =`	=`	=`	=`	=`	=`	=`
 *	*pline:3	*pline:11	*pline:19	*pline:27	*pline:35	*pline:43
+*A:	*	*	*	*	*	*
 !!LO:TX:a:B:t=a Tempo
-8b	Tan-	Sur	L'voi-	Il	Peut-	Que
+{{8b	Tan-	Sur	L'voi-	Il	Peut-	Que
 !!errata in original, pline:3, tantot = tantôt
 16b	-tôt	le	-là	glis-	êtr'	j'aim'
 16b	vien-	pia-	qui	-se	qu'il	votr'
@@ -67,7 +68,7 @@
 8a	-lan-	-bat-	la	d'a-	dis-	tou-
 !!LO:PB:g=original
 =6	=6	=6	=6	=6	=6	=6
-4b	-court!	-court!	cour,	-mour,	cours,	-jours,
+4b}	-court!	-court!	cour,	-mour,	cours,	-jours,
 *	*rp:u	*rp:u	*rp:u	*rp:u	*rp:u	*rp:u
 *	*rf:kuʁ	*rf:kuʁ	*rf:kuʁ	*rf:muʁ	*rf:kuʁ	*rf:ʒuʁ
 *	*rs:b1	*rs:b1	*rs:b1	*rs:b2	*rs:b1	*rs:b3
@@ -76,14 +77,14 @@
 *	*refrain	*refrain	*refrain	*refrain	*refrain	*refrain
 *	*italic	*italic	*italic	*italic	*italic	*italic
 !!LO:TX:a:B:t=Plus lent
-8.cc#	Ah!	Ah!	Ah!	Ah!	Ah!	Ah!
+{8.cc#	Ah!	Ah!	Ah!	Ah!	Ah!	Ah!
 16a	Sei-	Sei-	Sei-	Sei-	Sei-	Sei-
 =7	=7	=7	=7	=7	=7	=7
 4b	-gneur,	-gneur,	-gneur,	-gneur,	-gneur,	-gneur,
 8b	que	que	que	que	que	que
 8b	c'est	c'est	c'est	c'est	c'est	c'est
 =8	=8	=8	=8	=8	=8	=8
-4e	court!	court!	court!	court!	court!	court!
+4e}}	court!	court!	court!	court!	court!	court!
 *	*rp:u	*rp:u	*rp:u	*rp:u	*rp:u	*rp:u
 *	*rf:kuʁ	*rf:kuʁ	*rf:kuʁ*	*rf:kuʁ	*rf:kuʁ	*rf:kuʁ
 *	*rs:b1	*rs:b1	*rs:b1	*rs:b1	*rs:b1	*rs:b1
@@ -91,8 +92,9 @@
 *	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain
 =`	=`	=`	=`	=`	=`	=`
 *	*pline:5	*pline:13	*pline:21	*pline:29	*pline:37	*pline:45
+*a:	*	*	*	*	*	*
 !!LO:TX:a:B:t=a Tempo
-8a	Aus-	Faut	En-	N'a-	Mais	Et
+{{8a	Aus-	Faut	En-	N'a-	Mais	Et
 16a	-si	qu'tout	-fin,	-t-il	v'là	qu'si
 16a	faut	re-	il	dé-	la	vous
 !!LO:PB:g=original
@@ -102,7 +104,7 @@
 8e	chos[e]	son	la	rien	qui	-rez
 8e	en	en-	son-	à	s'a-	pour
 =10	=10	=10	=10	=10	=10	=10
-4a	plac[e],	-trée,	-nett[e],	dir[e]!	-mèn[e],	gendr[e],
+4a}	plac[e],	-trée,	-nett[e],	dir[e]!	-mèn[e],	gendr[e],
 *	*rp:a	*rp:e	*rp:ɛ	*rp:i	*rp:ɛ	*rp:ɑ̃
 *	*rf:as,ə	*rf:ʁe	*rf:ɛt,ə	*rf:iʁ,ə	*rf:ɛn,ə	*rp:ɑ̃dʁ,ə
 *	*rs:c	*rs:e1	*rs:g1	*rs:i	*rs:g2	*rs:k
@@ -111,7 +113,7 @@
 *	*refrain	*refrain	*refrain	*refrain	*refrain	*refrain
 *	*italic	*italic	*italic	*italic	*italic	*italic
 !!LO:TX:a:B:t=Plus lent
-8.ccn	Ah!	Ah!	Ah!	Ah!	Ah!	Ah!
+{8.ccn	Ah!	Ah!	Ah!	Ah!	Ah!	Ah!
 16a	Sei-	Sei-	Sei-	Sei-	Sei-	Sei-
 =11	=11	=11	=11	=11	=11	=11
 4a	-gneur,	-gneur,	-gneur,	-gneur,	-gneur,	-gneur,
@@ -121,14 +123,15 @@
 8e	-le	cor-	pi-	mar-	au-	c'est
 !!LO:PB:g=original
 =12	=12	=12	=12	=12	=12	=12
-4a	chass[e]!	-vée!	-rouett[e]!	-tyr[e]!	-bain[e]!	tendr[e]!
+4a}}	chass[e]!	-vée!	-rouett[e]!	-tyr[e]!	-bain[e]!	tendr[e]!
 *	*rp:a	*rp:e	*rp:ɛ	*rp:i	*rp:ɛ	*rp:ɑ̃
 *	*rf:as,ə	*rf:ve	*rf:ɛt,ə	*rf:iʁ,ə	*rf:ɛn,ə	*rp:ɑ̃dʁ,ə
 *	*rs:c	*rs:e2	*rs:g1	*rs:i	*rs:g2	*rs:k
 =`	=`	=`	=`	=`	=`	=`
 *	*pline:7	*pline:15	*pline:23	*pline:31	*pline:39	*pline:47
+*A:	*	*	*	*	*	*
 !!LO:TX:a:B:t=a Tempo
-8b	A-	Mais	En-	N'faut	Es-	Lu-
+{{8b	A-	Mais	En-	N'faut	Es-	Lu-
 16b	-fin	on	-tre,	pour-	-tu	cill',
 16b	de	n'a	mon	-tant	ma-	tout
 =13	=13	=13	=13	=13	=13	=13
@@ -137,7 +140,7 @@
 8b	l'hé-	pein'	ton	-cou-	brav[e]	é-
 8b	-ri-	ni	cha-	-ra-	E-	-pou-
 =14	=14	=14	=14	=14	=14	=14
-4e	-tier,	soin.	-peau,	ger!	loi?	-ser,
+4e}	-tier,	soin.	-peau,	ger!	loi?	-ser,
 *	*rp:e	*rp:ẽ	*rp:o	*rp:e	*rp:a	*rp:e
 *	*rf:tje	*rf:uẽ	*rf:po	*rf:ʒe	*rf:wa	*rf:ze
 *	*rs:d1	*rs:f	*rs:h1	*rs:d2	*rs:j	*rs:d3
@@ -146,7 +149,7 @@
 *	*refrain	*refrain	*refrain	*refrain	*refrain	*refrain
 *	*italic	*italic	*italic	*italic	*italic	*italic
 !!LO:TX:a:B:t=Plus lent
-8.b	Ah!	Ah!	Ah!	Ah!	Ah!	Ah!
+{8.b	Ah!	Ah!	Ah!	Ah!	Ah!	Ah!
 16b	Sei-	Sei-	Sei-	Sei-	Sei-	Sei-
 !!LO:PB:g=original
 =15	=15	=15	=15	=15	=15	=15
@@ -157,23 +160,22 @@
 8g#	quel	quel	que	quel	quel	un
 8f#	mé-	tin-	t'es	dan-	é-	bai-
 =16	=16	=16	=16	=16	=16	=16
-4e	-tier!	-toin!	beau!	-ger!	-moi!	-ser!
+4e}}	-tier!	-toin!	beau!	-ger!	-moi!	-ser!
 *	*rp:e	*rp:ẽ	*rp:o	*rp:e	*rp:a	*rp:e
 *	*rf:tje	*rf:uẽ	*rf:bo	*rf:ʒe	*rf:wa	*rf:ze
 *	*rs:d1	*rs:f	*rs:h2	*rs:d2	*rs:j	*rs:d3
 =||	=||	=||	=||	=||	=||	=||
-*k[f#c#g#]	*	*	*	*	*	*
-*A:	*	*	*	*	*	*
-*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain
 =||:	=||:	=||:	=||:	=||:	=||:	=||:
+*k[f#c#g#]	*	*	*	*	*	*
+*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain
 *	*pline:R1	*	*	*	*	*
 !!LO:TX:a:B:t=REFRAIN Solo–Reprise par le Choeur
 !!LO:TX:a:B:t=Allegro
-8.a	A-	.	.	.	.	.
+{{8.a	A-	.	.	.	.	.
 16b	-lou-	.	.	.	.	.
 =17	=17	=17	=17	=17	=17	=17
-8cc	-et-	.	.	.	.	.
-8cc	-te,	.	.	.	.	.
+8cc#	-et-	.	.	.	.	.
+8cc#	-te,	.	.	.	.	.
 16b	gen-	.	.	.	.	.
 16b	till[e]	.	.	.	.	.
 *	*bis	*	*	*	*	*
@@ -182,22 +184,22 @@
 !!LO:PB:g=original
 =18	=18	=18	=18	=18	=18	=18
 8a	-et-	.	.	.	.	.
-8e	-te,	.	.	.	.	.
+8e}	-te,	.	.	.	.	.
 *	*Xbis	*	*	*	*	*
 *	*pline:R2	*	*	*	*	*
-8.a	Faut	.	.	.	.	.
+{8.a	Faut	.	.	.	.	.
 16b	qu'tu	.	.	.	.	.
 =19	=19	=19	=19	=19	=19	=19
-8cc	pens's	.	.	.	.	.
-8cc	bien-	.	.	.	.	.
+8cc#	pens's	.	.	.	.	.
+8cc#	bien-	.	.	.	.	.
 16b	-tôt	.	.	.	.	.
 16b	à	.	.	.	.	.
 16b	t'ma-	.	.	.	.	.
 16b	-ri-	.	.	.	.	.
 =20	=20	=20	=20	=20	=20	=20
-4a	er!	.	.	.	.	.
+4a}}	er!	.	.	.	.	.
 =:||	=:||	=:||	=:||	=:||	=:||	=:||
 *-	*-	*-	*-	*-	*-	*-
 !!!EED: Ève Poudrier
-!!!EEV: 2025/07/21
+!!!EEV: 2025/07/22
 !!!RNB: Partial barlines on top of the staff are encoded as =` but are not rendering on VHV. "Mademoiselle" standardized as "Mademoisell'" as in pline:9.
