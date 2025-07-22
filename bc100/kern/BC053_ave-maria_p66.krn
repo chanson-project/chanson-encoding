@@ -1,7 +1,6 @@
 !!!id: BC053
 !!!page: 66
-!!!COM: F. Schubert
-!!!LYR: Anonymous
+!!!COM: F. SCHUBERT
 !!!PTR@@FR: Les 100 plus belles chansons
 !!!OTL@@FR: Ave Maria
 !!!PUB: La Bonne Chanson, inc.
@@ -33,6 +32,7 @@
 =4	=4	=4
 4b-	.	-a!
 4r	.	.
+*	*	*pline:2
 (4cc	.	Rei-
 q16ddL	.	.
 q16ccJ)	.	.
@@ -44,6 +44,7 @@ q16ccJ)	.	.
 =5	=5	=5
 4b-	.	cieux,
 8r	.	.
+*	*	*pline:3
 8dd	.	Vers
 8dd.	.	Toi
 (32ccL	.	s'é-
@@ -56,6 +57,7 @@ q16ccJ)	.	.
 =6	=6	=6
 (4dd	>	-è-
 8cc.#)	)	-re,
+*	*	*pline:4
 16a	]	En-
 8.cc	.	-tends
 16b-	.	la
@@ -70,6 +72,7 @@ q16ccJ)	.	.
 =7	=7	=7
 [4b-	.	-fant;
 8b-]	.	.
+*	*	*pline:5
 16dd	.	Con-
 16cc	.	-fi-
 8.cc	.	-ant,
@@ -84,6 +87,7 @@ q16ccJ)	.	.
 =8	=8	=8
 [4cc	>	-cours:
 (24cc]	)	.
+*	*	*pline:6
 24g	]	Don-
 24a)	.	-ne-
 (((24b-XL	.	-moi
@@ -94,6 +98,7 @@ q16b-J	.	.
 !the tuplet should be next to the beam	!	!
 4f	.	paix!
 8r	.	.
+*	*	*pline:7
 4f	.	Mon
 !!linebreak:original
 =9	=9	=9
@@ -107,6 +112,7 @@ q16b-J	.	.
 32ddJ)	.	.
 8b-	.	-re
 8r	.	.
+*	*	*pline:8
 8b-	.	N'a
 =10	=10	=10
 8.cc	.	plus
@@ -120,6 +126,7 @@ q16b-J	.	.
 24cc)	>	a-
 4b-	]	-mour.
 8r	.	.
+*	*	*pline:9
 8b-	.	Pi-
 !!linebreak:original
 =11	=11	=11
@@ -134,6 +141,7 @@ q16b-J	.	.
 32ee-J)	)	.
 8ee-	]	-re,
 8.r	.	.
+*	*	*pline:10
 16g	.	Con-
 =12	=12	=12
 (q8dd	<	.
@@ -150,6 +158,7 @@ q16b-J	.	.
 8r	.	.
 !!linebreak:original
 =13	=13	=13
+*	*	*pline:11
 4.b-	<	A-
 16a	[	-ve
 16b-	.	Ma-
