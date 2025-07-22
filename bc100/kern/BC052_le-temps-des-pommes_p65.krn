@@ -1,6 +1,6 @@
-!!!ID:BC052
-!!!PAGE:65
-!!!COM: Folklore francais
+!!!id: BC052
+!!!page: 65
+!!!COM: Chs-Emile GADBOIS
 !!!PTR@@FR: Les 100 plus belles chansons
 !!!OTL@@FR: Le Temps Des Pommes
 !!!PUB: La Bonne Chanson, inc.
@@ -17,7 +17,7 @@
 !!LO:TX:a:B:t=Allegretto
 *M2/4	*	*	*
 *	*v:1	*v:2	*v:3
-*	*pline:1	*pline:2	*pline3
+*	*pline:1	*pline:9	*pline:17
 =1	=1	=1	=1
 8g	C'é-	A	Le
 =2	=2	=2	=2
@@ -32,6 +32,7 @@
 *	*rf:mɛ	*rf:ʒ	*rf:ɛl
 *	*rs:a	*rs:d	*rs:a
 8g	Co-	Il	Ca-
+*	*pline:2	*pline:10	*pline:18
 =4	=4	=4	=4
 8a	-lin	vou-	-ché
 8g	a-	-lut	non
@@ -44,6 +45,7 @@
 *	*rf:ã	*rf:se	*rf:la
 *	*rs:b	*rs:e	*rs:g
 8r	.	.	.
+*	*pline:3	*pline:11	*pline:19
 8g	Mais	Mais	Sui-
 =6	=6	=6	=6
 8cc	il	Co-	-vit
@@ -56,6 +58,7 @@
 *	*rp:ɛ	*rp:ʒ	*rp:ɛ
 *	*rf:mɛ	*rf:ʒ	*rf:ɛl
 *	*rs:a	*rs:d	*rs:a
+*	*pline:4	*pline:10	*pline:20
 8dd	Comme	Crut	Ce
 =8	=8	=8	=8
 8ee	un	bon	qui
@@ -69,6 +72,7 @@
 *	*rf:ã	*rf:se	*rf:la
 *	*rs:b	*rs:e	*rs:g
 8r	.	.	.
+*	*pline:5	*pline:12	*pline:21
 8g	Un	Elle	Il
 =10	=10	=10	=10
 8a	jour,	a-	vit
@@ -81,6 +85,7 @@
 *	*rp:ɛ	*rp:ɛː	*rp:ɛ
 *	*rf:lɛt	*rf:ɛːm	*rf:ɛt
 *	*rs:a	*rs:f	*rs:a
+*	*pline:6	*pline:13	*pline:22
 8g	La	"Je	Des
 =12	=12	=12	=12
 8a	fil-	te	pom-
@@ -93,6 +98,7 @@
 *	*rp:ē	*rp:ɛ	*rp:ē
 *	*rf:zē	*rf:ʁɛ	*rf:mē
 *	*rs:c	*rs:a	*rs:c
+*	*pline:7	*pline:14	*pline:23
 8g	Il	Si	En
 =14	=14	=14	=14
 8a	fai-	tu	met-
@@ -105,6 +111,7 @@
 *	*rp:ɛ	*rp:ɛː	*rp:ɛ
 *	*rf:tɛ	*rf:ɛːm	*rf:ɛt
 *	*rs:a	*rs:f	*rs:a
+*	*pline:8	*pline:15	*pline:24
 8g	Des	Ton	Dans
 =16	=16	=16	=16
 8a	pom-	pa-	le
