@@ -1,5 +1,5 @@
-!!!ID: BC054
-!!!PAGE: 67
+!!!id: BC054
+!!!page: 67
 !!!COM: Botrele (Air de: "La Lettre du Gabier")
 !!!LYR: Anonymous
 !!!PTR@@FR: Les 100 plus belles chansons
@@ -8,17 +8,17 @@
 !!!PDT: 2011
 !!!YEM: On ne peut reproduire, enregistrer ou diffuser en tout ou en partie le présent ouvrage, sous quelque procédé que ce soit, électronique, mécanique, photographique, sonore, magnétique ou autre, sans avoir obtenu au préalable l'autorisation écrite de l'éditrice.
 !!!SMA: 2012 Bibliothèque nationale du Québec; Biblothèque nationale du Canada
-!!!AGN-type: Chanson xxx
+!!!AGN-type: Chanson geunesse
 !!!AGN-Laforte: Chanson strophique (sans refrain) 9:6(8)
-!!!AGN-rhyme: aabccb
+!!!AGN-rhyme: aabb
 **kern	**text	**text	**text	**text	**text	**text	**text	**text	**text
 *clefG2:	*	*	*	*	*	*	*	*	*
 *k[f#c#]	*	*	*	*	*	*	*	*	*
 *D:	*	*	*	*	*	*	*	*	*
-!!LO:TX:a:t=Moderato 
+!!LO:TX:a:t= Moderato 
 *M3/4	*	*	*	*	*	*	*	*	*
 *	*v:1	*v:2	*v:3	*v:4	*v:5	*v:6	*v:7	*v:8	*v:9
-*	*pline:1	*pline:2	*pline:3	*pline:4	*pline:5	*pline:6	*pline:7	*pline:8	*pline:9
+*	*pline:1	*pline:7	*pline:13	*pline:19	*pline:25	*pline:31	*pline:37	*pline:43	*pline:49
 =1	=1	=1	=1	=1	=1	=1	=1	=1	=1
 8a	Pour	Peut-	Nom-	De	Mal-	Si	Ce-	On	Vous
 =2	=2	=2	=2	=2	=2	=2	=2	=2	=2
@@ -34,6 +34,7 @@
 *	*rf:mo	*rf:se	*rf:ʁɔ̃	*rf:nɔ̃	*rf:te	*rf:fã	*rf:mo	*rf:ʁɛ	*rf:sã
 *	*rs:a	*rs:d	*rs:f	*rs:f	*rs:d	*rs:h	*rs:a	*rs:i	*rs:h
 8a]	.	.	.	.	.	.	.	.	.
+*	*pline:2	*pline:8	*pline:14	*pline:20	*pline:26	*pline:32	*pline:38	*pline:44	*pline:50
 8a	Car	Chè-	Du	Ai-	Nous	Lors-	Ce	Hi-	Le
 !!linebreak:original
 =4	=4	=4	=4	=4	=4	=4	=4	=4	=4
@@ -44,11 +45,12 @@
 8f#	pe-	t'an-	com-	com-	ar-	d'un	pe-	la	votre
 8f#	-ti-	-non-	-pa-	-pa-	-rê-	en-	-ti-	for-	en-
 =5	=5	=5	=5	=5	=5	=5	=5	=5	=5
-[2a	-ot,	-cer	-gnon,	-gnon,	-ter,	-fant	-ot,	-êt,	-fant:
+[2a	-ot,	-cer	-gnon,	-gnon,	-ter,	-fant	-ot,	-èt,	-fant:
 *	*rp:o	*rp:e	*rp:ɔ̃	*rp:ɔ̃	*rp:e	*rp:ã	*rp:o	*rp:ɛ	*rp:ã
-*	*rf:o	*rf:se	*rf:ɲɔ̃	*rf:ɲɔ̃	*rf:te	*rf:fã	*rf:jo	*rf:ʁɛ	*rf:fã
+*	*rf:o	*rf:se	*rf:ɲɔ̃	*rf:nɔ̃	*rf:te	*rf:fã	*rf:o	*rf:ʁɛ	*rf:fã
 *	*rs:a	*rs:d	*rs:f	*rs:f	*rs:d	*rs:h	*rs:a	*rs:i	*rs:h
 8a]	.	.	.	.	.	.	.	.	.
+*	*pline:3	*pline:9	*pline:15	*pline:21	*pline:27	*pline:33	*pline:39	*pline:45	*pline:51
 8f#	Là-	A	Nous	J'ai	Oh!	Je	Vo-	Nous	Bai-
 =6	=6	=6	=6	=6	=6	=6	=6	=6	=6
 8f#	-bas,	mon	tra-	pu	quel	fais	-tre	é-	-sez
@@ -60,11 +62,12 @@
 !!linebreak:original
 =7	=7	=7	=7	=7	=7	=7	=7	=7	=7
 4f#	-nai-	-mè-	-vi-	-vai-	Pè-	-è-	-nai-	-è-	chè-
-4e	-re,	-re...	-ère...	-re;	-re!	-re;	-re:	-re;	-re:
+4e	-r[e],	-re...	-ère...	-re;	-re!	-re;	-r[e]:	-re;	-re:
 *	*rp:ɛː	*rp:ɛː	*rp:ɛː	*rp:ɛː	*rp:ɛː	*rp:ɛː	*rp:ɛː	*rp:ɛː	*rp:ɛː
 *	*rf:ɛːʁ	*rf:ɛːʁ	*rf:ɛːʁ	*rf:ɛːʁ	*rf:ɛːʁ	*rf:ɛːʁ	*rf:ɛːʁ	*rf:ɛːʁ	*rf:ɛːʁ
 *	*rs:b	*rs:b	*rs:b	*rs:b	*rs:b	*rs:b	*rs:b	*rs:b	*rs:b
 8r	.	.	.	.	.	.	.	.	.
+*	*pline:4	*pline:10	*pline:16	*pline:22	*pline:28	*pline:34	*pline:40	*pline:46	*pline:52
 8b	Au	Le	Les	Mais	Quel-	Sur	Il	Sou-	Vous
 =8	=8	=8	=8	=8	=8	=8	=8	=8	=8
 8b	fond	sau-	I-	je	-ques	les	sést	-dain	ê-
@@ -79,6 +82,7 @@
 *	*rf:swa	*rf:bʁẽ	*rf:pʁi	*rf:twa	*rf:ti	*rf:kʁa	*rf:ɛl	*rf:ne	*rf:tiʁ
 *	*rs:c	*rs:e	*rs:g	*rs:c	*rs:g	*rs:c	*rs:i	*rs:d	*rs:g
 8r	.	.	.	.	.	.	.	.	.
+*	*pline:5	*pline:11	*pline:17	*pline:23	*pline:29	*pline:35	*pline:41	*pline:47	*pline:53
 8b	Pen-	De	Je	Je	J'ai	Com-	Jou-	Sa	Moi,
 !!linebreak:original
 =10	=10	=10	=10	=10	=10	=10	=10	=10	=10
@@ -94,6 +98,7 @@
 *	*rf:twa	*rf:gʁẽ	*rf:i	*rf:mwa	*rf:ti	*rf:fwa	*rf:ɛl	*rf:ɛn	*rf:tiʁ
 *	*rs:c	*rs:e	*rs:g	*rs:c	*rs:g	*rs:c	*rs:i	*rs:i	*rs:g
 8a]	.	.	.	.	.	.	.	.	.
+*	*pline:6	*pline:12	*pline:18	*pline:24	*pline:30	*pline:36	*pline:42	*pline:48	*pline:54
 8f#	Ma	Ma	Et	Pi-	Quel	Ma	O	Cou-	Heu-
 8f#	bon-	dou-	de	-eu-	bon-	ten-	sain-	-rage!	-reu-
 8a	-ne	-ce	ma	-se	-heur!	-dre	-te	O	-se
@@ -106,4 +111,4 @@
 ==	==	==	==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-
 !!!EED:Jason Lau
-!!!EEV:2025/06/24
+!!!EEV:2025/07/22
