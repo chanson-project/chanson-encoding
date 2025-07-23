@@ -1,0 +1,183 @@
+!!!id: BC084
+!!!page: 108
+!!!COM: Anonymous
+!!!LYR: Gadbois, Charles-Émile
+!!!PTL@@FR: Les 100 plus belles chansons
+!!!OTL@@FR: Si tu pouvais rêver toujours! (Berceuse)
+!!!OCO: Dédié à toutes les mères canadiennes
+!!!PUB: La Bonne Chanson, inc.
+!!!YEM: On ne peut reproduire, enregistrer ou diffuser en tout ou en partie le présent ouvrage, sous quelque procédé que ce soit, électronique, mécanique, photographique, sonore, magnétique ou autre, sans avoir obtenu au préalable l'autorisation écrite de l'éditrice.
+!!!PDT: 2011
+!!!SMA: 2012 Bibliothèque nationale du Québec; Biblothèque nationale du Canada
+!!!AGN-Laforte: Chanson strophique (sans refrain), 2:4(11/10);6(4/4/8)
+!!!AGN-type: Berceuse
+!!!AGN-rime: quatrain avec rimes croisées (abab); sestain avec "tail" rimes (aabccb)
+!!!LYR-elision:
+**kern	**text	**text
+*clefG2	*	*
+*k[]	*	*
+*C:	*	*
+*M12/8	*	*
+*	*v:1	*v:2
+*	*pline:1	*pline:11
+{{8g	Re-	À
+4g	-pos[e]	ton
+8f	en	ré-
+=1	=1	=1
+4e	paix	-veil
+8g	dans	je
+4cc	ton	veux
+8dd	ber-	a-
+4.ee	-ceau,	-voir
+4dd	mon	ton
+8cc	bel	sou-
+!!LO:PB:g=original
+=2	=2	=2
+4.a	an-	-ri-
+[4.f	-ge	-re,
+*	*rp:ɑ̃	*rp:i
+*	*rf:ɑ̃ʒ,ə	*rf:iʁ,ə
+*	*rs:a	*rs:f
+4f]}	.	.
+*	*pline:2	*pline:12
+{8cc	Ta	Quand
+4b	mèr[e]	tu
+8a	est	ten-
+=3	=3	=3
+4g	là,	-dras
+8cc	veil-	tes
+4dd	-lant	pe-
+8ee	sur	-tits
+4.ff	son	bras
+4.b	tré-	vers
+!!LO:PB:g=original
+=4	=4	=4
+[2.cc	-sor;	moi;
+*	*rp:ɔ	*rp:a
+*	*rf:ɔʁ	*rf:wa
+*	*rs:b1	*rs:g
+4cc]}}	.	.
+*	*pline:3	*pline:13
+{{8g	En	Ce
+4g	te	doux
+8f	voy-	mo-
+=5	=5	=5
+4e	-ant	-ment
+8g	dor-	vaut
+4cc	-mir	cent
+8dd	ain-	fois
+4.ee	-si	mieux
+4dd	dans	qu'un
+8cc	tes	em-
+!!LO:PB:g=original
+=6	=6	=6
+4.a	lan-	-pi-
+[4.f	-ges	-re:
+*	*rp:ɑ̃	*rp:i
+*	*rf:ɑ̃ʒ,ə	*rf:iʁ,ə
+*	*rs:a	*rs:f
+4f]}	.	.
+*	*pline:4	*pline:14
+{8cc	Je	Car
+4b	suis	n'es-
+8a	ra-	-tu
+=7	=7	=7
+4g	-vi[e]	pas
+8cc	et	pour
+4dd	plus	moi
+8ee	heu-	bien
+4.ff	-reus[e]	plus
+4.b	en-	qu'un
+!!LO:PB:g=original
+=8	=8	=8
+!!errata: pline:4, missing apostrophe for elided final "e" in "encor".
+[2.cc	-cor'!	roi?
+*	*rp:ɔ	*rp:a
+*	*rf:ɔʁ	*rf:wa
+*	*rs:b1	*rs:g
+4cc]}}	.	.
+*	*pline:5	*pline:15
+{{8cc	Sur	Toi
+4cc	ton	que
+8b	front	j'a-
+=9	=9	=9
+4.a	ro-	-do-
+[4.f	se,	-re,
+*	*rp:o	*rp:ɔ
+*	*rf:oz,ə	*rf:ɔʁ,ə
+*	*rs:c	*rs:b2
+4f]}	.	.
+*	*pline:6	*pline:16
+{8cc	Ta	Re-
+4b	mè-	-pos[e]
+8a	-re	en-
+!!LO:PB:g=original
+=10	=10	=10
+4.g	po-	-co-
+[4.e	-se	-re:
+*	*rp:o	*rp:ɔ
+*	*rf:oz,ə	*rf:ɔʁ,ə
+*	*rs:c	*rs:b2
+4e]}	.	.
+*	*pline:7	*pline:17
+{8g	Un	Car
+4b	doux	en
+8a	bai-	dor-
+=11	=11	=11
+4.g	-ser	-mant
+4.ee	a-	tu
+[4.dd	-vec	vois
+4dd]	.	.
+(16eeL	a-	le
+16ddJ)	.	.
+!!LO:PB:g=original
+=12	=12	=12
+[2.cc	-mour.	ciel!
+*	*rp:u	*rp:ɛ
+*	*rf:uʁ	*rf:ɛl
+*	*rs:d	*rs:e2
+4cc]}}	.	.
+*	*pline:8	*pline:18
+{{8cc	Fais	A-
+4cc	un	-vec
+8b	beau	les
+=13	=13	=13
+4.a	rê-	an-
+[4.f	-ve,	-ges,
+*	*rp:ɛː	*rp:ɑ̃
+*	*rf:ɛːv,ə	*rf:ɑ̃ʒ,ə
+*	*rs:e1	*rs:a
+4f]}	.	.
+*	*pline:9	*pline:19
+{8cc	La	Dis
+4b	nuit	mes
+8a	s'a-	lou-
+!!LO:PB:g=original
+=14	=14	=14
+4.g	-chè-	-an-
+[4.e	-ve...	ges:
+*	*rp:ɛ	*rp:ɑ̃
+*	*rf:ɛv,ə	*rf:ɑ̃ʒ,ə
+*	*rs:e1	*rs:a
+4e]}	.	.
+*	*pline:10	*pline:20
+{8g	Si	Ne
+4b	tu	viens-
+8a	pou-	-tu
+=15	=15	=15
+4.g	-vais	pas
+4.ee	rê-	de
+[4.dd	-ver	l'É-
+4dd]	.	.
+(16eeL	tou-	-ter-
+16ddJ)	.	.
+=16	=16	=16
+2.cc	-jours.	-nel?
+*	*rp:u	*rp:ɛ
+*	*rf:uʁ	*rf:ɛl
+*	*rs:d	*rs:e2
+4r}}	.	.
+==	==	==
+*-	*-	*-
+!!!EED: Ève Poudrier
+!!!EEV: 2025/07/23
