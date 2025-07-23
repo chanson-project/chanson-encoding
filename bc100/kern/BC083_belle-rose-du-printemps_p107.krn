@@ -8,8 +8,8 @@
 !!!YEM: On ne peut reproduire, enregistrer ou diffuser en tout ou en partie le présent ouvrage, sous quelque procédé que ce soit, électronique, mécanique, photographique, sonore, magnétique ou autre, sans avoir obtenu au préalable l'autorisation écrite de l'éditrice.
 !!!PDT: 2011
 !!!SMA: 2012 Bibliothèque nationale du Québec; Biblothèque nationale du Canada
-!!!AGN-Laforte: Chanson en laisse (avec refrain intégré), 9:1(8+8),R:2(6+7)
-!!!AGN-type: Chanson de séduction
+!!!AGN-Laforte: Chanson en laisse (avec refrain intégré), 9:1/2(8*2+8*2), R:2(6,7), with pline:7 and pline:9 divided into three hémistiches (8*2+8+8); first two lines are sung to the melody of "Il était un petit navire" (i.e., as in cUnhanson de timbre).
+!!!AGN-type: Chanson de séduction en dialogue
 !!!AGN-rime: monorhyme /ɑ̃/, including final refrain.
 !!!LYR-elision:
 **kern	**text	**text	**text	**text	**text	**text	**text	**text	**text
@@ -18,51 +18,51 @@
 *G:	*	*	*	*	*	*	*	*	*
 !!LO:TX:a:i:t=Animé, gaiement
 *M3/4	*	*	*	*	*	*	*	*	*
-*	*v:1	*v:2	*v:3	*v:4	*v:5	*v:6	*v:7	*v:8	*v:9
+*	*vv:1	*vv:2	*vv:3	*vv:4	*vv:5	*vv:6	*vv:7	*vv:8	*vv:9
 *	*pline:1Ha	*pline:2Ha	*pline:3Ha	*pline:4Ha	*pline:5Ha	*pline:6Ha	*pline:7Ha	*pline:8Ha	*pline:9Ha
-{{8b	Là-	Mais	.	.	.	.	.	.	.
-8b	-haut,	la	.	.	.	.	.	.	.
-8g	là-	ber-	.	.	.	.	.	.	.
+{{8b	Là-	Mais	Un	–Em-	–Non,	–Je	–Mêm'	–A-	–Mon
+8b	-haut,	la	beau	-bras-	non,	le	si	-lors,	cher
+8g	là-	ber-	ma-	-sez-	mon-	di-	ma	j'n'ai	a-
 =1	=1	=1	=1	=1	=1	=1	=1	=1	=1
-4d	-bas	-gè-	.	.	.	.	.	.	.
-4b	sur	-re	.	.	.	.	.	.	.
-8cc	la	qui	.	.	.	.	.	.	.
-8b	mon-	les	.	.	.	.	.	.	.
+4d	-bas	-gè-	-tin	-moi,	-sieur,	-rai	mè-	plus	-mi,
+4b	sur	-re	dans	ma-	c'est	à	-re	qu'un'	j'vous
+8cc	la	qui	la	-de-	pas	vo-	m'y	chos[e]	l'dis
+8b	mon-	les	cam-	-moi-	pos-	-tre	com-	à	d'a-
 !!LO:PB:g=original
 =2	=2	=2	=2	=2	=2	=2	=2	=2	=2
-4b	-ta-	gar-	.	.	.	.	.	.	.
-8a}	gne,	-de,	.	.	.	.	.	.	.
+4b	-ta-	gar-	-pa-	-sel-	-si-	mè-	-man-	fai-	-van-
+8a}	gne,	-de,	-gne,	-le,	-ble,	-re,	-de,	-re,	-ce,
 *	*pline:1Har	*pline:2Har	*pline:3Har	*pline:4Har	*pline:5Har	*pline:6Har	*pline:7Har	*pline:8Har	*pline:9Har
-{8a	Là-	Mais	.	.	.	.	.	.	.
-8a	-haut,	la	.	.	.	.	.	.	.
-8f#	là-	ber-	.	.	.	.	.	.	.
+{8a	Là-	Mais	Un	Em-	Non,	Je	Mêm'	A-	Mon
+8a	-haut,	la	beau	-bras-	non,	le	si	-lors	cher
+8f#	là-	ber-	ma-	-sez-	mon-	di-	ma	j'n'ai	a-
 =3	=3	=3	=3	=3	=3	=3	=3	=3	=3
-4d	-bas	-gè-	.	.	.	.	.	.	.
-4a	sur	-re	.	.	.	.	.	.	.
-8b	la	qui	.	.	.	.	.	.	.
-8a	mon-	les	.	.	.	.	.	.	.
+4d	-bas	-gè-	-tin	-moi,	-sieur,	-rai	mè-	plus	-mi,
+4a	sur	-re	dans	ma-	c'est	à	-re	qu'un'	j'vous
+8b	la	qui	la	-de-	pas	vo-	m'y	chos[e]	l'dis
+8a	mon-	les	cam-	-moi-	pos-	-tre	com-	à	d'a-
 !!LO:PB:g=original
 =4	=4	=4	=4	=4	=4	=4	=4	=4	=4
-4a	-ta-	gar-	.	.	.	.	.	.	.
-8g	-gne,	-de	.	.	.	.	.	.	.
+4a	-ta-	gar-	-pa-	-sel-	-si-	mè-	-man-	fai-	-van-
+8g	-gne,	-de	-gne,	-le,	-ble,	-re,	-de,	-re,	-ce,
 16r}}	.	.	.	.	.	.	.	.	.
 *	*pline:1Hb	*pline:2Hb	*pline:3Hb	*pline:4Hb	*pline:5Hb	*pline:6Hb	*pline:7Hb	*pline:8Hb	*pline:9Hb
-{{16g	Il	N'a	.	.	.	.	.	.	.
-8g	y	pas	.	.	.	.	.	.	.
-8g	a-	en-	.	.	.	.	.	.	.
+{{16g	Il	N'a	J'ai	Y a	Parc'	Ça	Je	C'est	Ils
+8g	y	pas	ren-	pas	que	lui	veux	d'vous	vont
+8g	a-	en-	-con-	per-	ma	rap-	gar-	d'man-	dir[e]
 =5||	=5||	=5||	=5||	=5||	=5||	=5||	=5||	=5||	=5||
 *M2/4	*	*	*	*	*	*	*	*	*
-8a	-vait	-cor'	.	.	.	.	.	.	.
-8g	des	de	.	.	.	.	.	.	.
-8f#	mou-	pré-	.	.	.	.	.	.	.
-8g	-tons	-ten-	.	.	.	.	.	.	.
+8a	-vait	-cor'	-tré	-sonn',	mèr'	-pel'-	-der	-der	oui,
+8g	des	de	la	c'est	m'y	-ra	tous	à	as-
+8f#	mou-	pré-	bell[e]	pas	le	son	mes	vos	-su-
+8g	-tons	-ten-	en-	gê-	dé-	jeun'	ta-	pa-	-ré-
 !!LO:PB:g=original
 =6||	=6||	=6||	=6||	=6||	=6||	=6||	=6||	=6||	=6||
 *M3/4	*	*	*	*	*	*	*	*	*
-4a}	blancs,	-dant,	.	.	.	.	.	.	.
+4a}	blancs,	-dant,	-fant,	-nant,	-fend,	temps,	-lents,	-rents,	-ment.
 *	*rp:ɑ̃	*rp:ɑ̃	*rp:ɑ̃	*rp:ɑ̃	*rp:ɑ̃	*rp:ɑ̃	*rp:ɑ̃	*rp:ɑ̃	*rp:ɑ̃
-*	*rf:lɑ̃	*rf:dɑ̃	*rf:	*rf:	*rf:	*rf:	*rf:	*rf:	*rf:
-*	*rs:a1	*rs:a3	*rs:a	*rs:a	*rs:a	*rs:a	*rs:a	*rs:a	*rs:a
+*	*rf:lɑ̃	*rf:dɑ̃	*rf:fɑ̃	*rf:nɑ̃	*rf:fɑ̃	*rf:tɑ̃	*rf:lɑ̃	*rf:ʁɑ̃	*rf:mɑ̃
+*	*rs:a1	*rs:a3	*rs:a4	*rs:a5	*rs:a4	*rs:a2	*rs:a1	*rs:a6	*rs:a7
 *	*refrain	*refrain	*refrain	*refrain	*refrain	*refrain	*refrain	*refrain	*refrain
 *	*italic	*italic	*italic	*italic	*italic	*italic	*italic	*italic	*italic
 {8f#	Viens-	Viens-	Viens-	Viens-	Viens-	Viens-	Viens-	Viens-	Viens-
@@ -76,25 +76,25 @@
 *	*Xitalic	*Xitalic	*Xitalic	*Xitalic	*Xitalic	*Xitalic	*Xitalic	*Xitalic	*Xitalic
 *	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain
 16r}}	.	.	.	.	.	.	.	.	.
-*	*pline:1Hbr	*pline:2Hbr	*pline:3Hbr	*pline:4Hbr	*pline:5Hbr	*pline:6Hbr	*pline:7Hbr	*pline:8Hbr	*pline:9Hbr
-{{16g	Il	N'a	.	.	.	.	.	.	.
-{8g	y	pas	.	.	.	.	.	.	.
-8g	a-	en-	.	.	.	.	.	.	.
+*	*pline:1Hbr	*pline:2Hbr	*pline:3Hbr	*pline:4Hbr	*pline:5Hbr	*pline:6Hbr	*pline:7Hc	*pline:8Hbr	*pline:9Hc
+{{16g	Il	N'a	J'ai	Y a	Parc'	Ça	Pour	C'est	Fau-
+{8g	y	pas	ren-	pas	que	lui	mon	d'vous	-dra
+8g	a-	en-	-con-	per-	ma	rap-	ma-	d'man-	s'ma-
 !!LO:PB:g=original
 =8||	=8||	=8||	=8||	=8||	=8||	=8||	=8||	=8||	=8||
 *M2/4	*	*	*	*	*	*	*	*	*
-8a	-vait	-cor'	.	.	.	.	.	.	.
-8g	des	de	.	.	.	.	.	.	.
-8f#	mou-	pré-	.	.	.	.	.	.	.
-8g	-tons	-ten-	.	.	.	.	.	.	.
+8a	-vait	-cor'	-tré	-sonn',	mèr'	-pel'-	-ri,	-der	-rier
+8g	des	de	la	c'est	m'y	-ra	quand	à	a-
+8f#	mou-	pré-	bell[e]	pas	le	son	ça	vos	-vant
+8g	-tons	-ten-	en-	gê-	dé-	jeun'	s'ra	pa-	long-
 =9	=9	=9	=9	=9	=9	=9	=9	=9	=9
-4a}	blancs,	-dant,	.	.	.	.	.	.	.
+4a}	blancs,	-dant,	-fant,	-nant,	-fend,	temps,	l'temps,	-rents,	-temps,
 *	*rp:ɑ̃	*rp:ɑ̃	*rp:ɑ̃	*rp:ɑ̃	*rp:ɑ̃	*rp:ɑ̃	*rp:ɑ̃	*rp:ɑ̃	*rp:ɑ̃
-*	*rf:lɑ̃	*rf:dɑ̃	*rf:	*rf:	*rf:	*rf:	*rf:	*rf:	*rf:
-*	*rs:a1	*rs:a3	*rs:a	*rs:a	*rs:a	*rs:a	*rs:a	*rs:a	*rs:a
+*	*rf:lɑ̃	*rf:dɑ̃	*rf:fɑ̃	*rf:nɑ̃	*rf:fɑ̃	*rf:tɑ̃	*rf:tɑ̃	*rf:ʁɑ̃	*rf:tɑ̃
+*	*rs:a1	*rs:a3	*rs:a4	*rs:a5	*rs:a4	*rs:a2	*rs:a2	*rs:a6	*rs:a2
 *	*refrain	*refrain	*refrain	*refrain	*refrain	*refrain	*refrain	*refrain	*refrain
 *	*italic	*italic	*italic	*italic	*italic	*italic	*italic	*italic	*italic
-{8.dd	Bel-	.	.	.	.	.	.	.	.
+{8.dd	Bel-	Bel-	Bel-	Bel-	Bel-	Bel-	Bel-	Bel-	Bel-
 16ee	-le	-le	-le	-le	-le	-le	-le	-le	-le
 =10	=10	=10	=10	=10	=10	=10	=10	=10	=10
 8dd	Ro-	Ro-	Ro-	Ro-	Ro-	Ro-	Ro-	Ro-	Ro-
@@ -108,10 +108,9 @@
 *	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain
 *	*rp:ɑ̃	*rp:ɑ̃	*rp:ɑ̃	*rp:ɑ̃	*rp:ɑ̃	*rp:ɑ̃	*rp:ɑ̃	*rp:ɑ̃	*rp:ɑ̃
 *	*rf:tɑ̃	*rf:tɑ̃	*rf:tɑ̃	*rf:tɑ̃	*rf:tɑ̃	*rf:tɑ̃	*rf:tɑ̃	*rf:tɑ̃	*rf:tɑ̃
-*	*rs:a2	*rs:a	*rs:a	*rs:a	*rs:a	*rs:a	*rs:a	*rs:a	*rs:a
+*	*rs:a2	*rs:a2	*rs:a2	*rs:a2	*rs:a2	*rs:a2	*rs:a2	*rs:a2	*rs:a2
 8r}}	.	.	.	.	.	.	.	.	.
 ==	==	==	==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-
 !!!EED: Ève Poudrier
-!!!EEV: 2025/07/22
-!!!RNB: pline:2Hb, added ' to "encor";
+!!!EEV: 2025/07/23
