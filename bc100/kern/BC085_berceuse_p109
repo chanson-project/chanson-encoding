@@ -1,0 +1,137 @@
+!!!id: BC085
+!!!page: 109
+!!!COM: Brahms, Johannes
+!!!LYR: Do-Mi-Sol
+!!!PTL@@FR: Les 100 plus belles chansons
+!!!OTL@@FR: Berceuse
+!!!PUB: La Bonne Chanson, inc.
+!!!YEM: On ne peut reproduire, enregistrer ou diffuser en tout ou en partie le présent ouvrage, sous quelque procédé que ce soit, électronique, mécanique, photographique, sonore, magnétique ou autre, sans avoir obtenu au préalable l'autorisation écrite de l'éditrice.
+!!!PDT: 2011
+!!!SMA: 2012 Bibliothèque nationale du Québec; Biblothèque nationale du Canada
+!!!AGN-Laforte: Chanson strophique (sans refrain), 2:6(6/5)
+!!!AGN-type: Berceuse
+!!!AGN-rime: suivies (aabb...)
+!!!LYR-elision:
+**kern	**text	**text
+*clefG2	*	*
+*k[b-]	*	*
+*F:	*	*
+!!LO:TX:a:B:t=Tranquille
+*M3/4	*	*
+*	*v:1	*v:2
+*	*pline:1Ha	*pline:7Ha=1Har
+=1	=1	=1
+2r	.	.
+{{8a	Bon-	Bon-
+8a	-ne	-ne
+=2	=2	=2
+4.cc	nuit!	nuit!
+*	*pline:1Hb	*pline:7Hb
+8a	cher	cher
+4a	en-	tré-
+=3	=3	=3
+4cc	-fant,	-sor,
+*	*rp:ɑ̃	*rp:ɔ
+*	*rf:fɑ̃	*rf:ɔʁ
+*	*rs:a1	*rs:d
+4r}	.	.
+*	*pline:2	*pline:8
+{(8aL	Dans	Rêv[e]
+8ccJ)	.	.
+!!LO:PB:g=original
+=4	=4	=4
+4ff	tes	aux
+4.ee	lan-	an-
+8dd	-ges	-ges
+=5	=5	=5
+(4dd	blancs,	d'or,
+4cc)}}	.	.
+*	*rp:ɑ̃	*rp:ɔ
+*	*rf:lɑ̃	*rf:ɔʁ
+*	*rs:a2	*rs:d
+*	*pline:3	*pline:9
+{{(8gL	Re-	Tes
+8aJ)	.	.
+=6	=6	=6
+4b-	-po-	frè-
+4g	-se	-res
+(8gL	joy-	des
+8aJ)	.	.
+!!LO:PB:g=original
+=7	=7	=7
+4b-	-eux	cieux,
+4r}	.	.
+*	*rp:ø	*rp:ø
+*	*rf:jø	*rf:jø
+*	*rs:b	*rs:b
+*	*pline:4	*pline:10
+{(8gL	En	Les
+8b-J)	.	.
+=8	=8	=8
+(8eeL	rê-	a-
+8ddJ)	.	.
+4cc	-vant	-mis
+4ee	des	de
+=9	=9	=9
+2ff}}	cieux.	Dieu.
+*	*rp:ø	*rp:ø
+*	*rf:jø	*rf:jø
+*	*rs:b	*rs:b
+*	*pline:5	*pline:11
+{{8f	Quand	Près
+8f	le	de
+!!LO:PB:g=original
+=10	=10	=10
+2ff	jour	toi,
+8dd	re-	ta
+8b-	-vien-	ma-
+=11	=11	=11
+2cc	-dra,	-man
+*	*rp:a	*rp:ɑ̃
+*	*rf:ʁa	*rf:mɑ̃
+*	*rs:c	*rs:a3
+*	*pline:6	*pline:12
+8a	Tu	Veil-
+8f	te	-le-
+=12	=12	=12
+4b-	ré-	-ra
+4cc	-veil-	ten-
+4dd	-le-	-re-
+=13	=13	=13
+(8aq	.	.
+2cc)}	-ras,	-ment;
+*	*rp:a	*rp:ɑ̃
+*	*rf:ʁa	*rf:mɑ̃
+*	*rs:c	*rs:a3
+*	*pline:5r	*pline:11r
+{8f	Quand	Près
+8f	le	de
+!!LO:PB:g=original
+=14	=14	=14
+2ff	jour	toi,
+8dd	re-	ta
+8b-	-vien-	ma-
+=15	=15	=15
+2cc	-dra,	-man
+*	*rp:a	*rp:ɑ̃
+*	*rf:ʁa	*rf:mɑ̃
+*	*rs:c	*rs:a3
+*	*pline:6r	*pline:12r
+8a	Tu	Veil-
+8f	te	-le-
+=16	=16	=16
+4b-	ré-	-ra
+(16ccqL	.	.
+16b-qJ)	.	.
+4a	-veil-	ten-
+4g	-le-	-dre-
+=17	=17	=17
+2f	-ras.	-ment.
+*	*rp:a	*rp:ɑ̃
+*	*rf:ʁa	*rf:mɑ̃
+*	*rs:c	*rs:a3
+4r}}	.	.
+==	==	==
+*-	*-	*-
+!!!EED: Ève Poudrier
+!!!EEV: 2025/07/23
