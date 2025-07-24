@@ -1,0 +1,105 @@
+!!!id: BC087
+!!!page: 111
+!!!COM: Anonymous (Folklore canadien)
+!!!PTL@@FR: Les 100 plus belles chansons
+!!!OTL@@FR: Papillon, tu es volage
+!!!PUB: La Bonne Chanson, inc.
+!!!YEM: On ne peut reproduire, enregistrer ou diffuser en tout ou en partie le présent ouvrage, sous quelque procédé que ce soit, électronique, mécanique, photographique, sonore, magnétique ou autre, sans avoir obtenu au préalable l'autorisation écrite de l'éditrice.
+!!!PDT: 2011
+!!!SMA: 2012 Bibliothèque nationale du Québec; Biblothèque nationale du Canada
+!!!AGN-Laforte: Chanson strophique en dialogue (sans refrain), 5:6(7*4+5*2)
+!!!AGN-type: Chanson d'amour
+!!!AGN-rime: croisées/suivies irregular
+!!!LYR-elision: final "e"
+**kern	**text	**text	**text	**text	**text
+*clefG2	*	*	*	*	*
+*k[b-e-]	*	*	*	*	*
+*g:	*	*	*	*	*
+*M2/4	*	*	*	*	*
+*	*v:1	*v:2	*v:3	*v:4	*v:5
+*	*pline:1	*pline:7	*pline:13	*pline:19=7r	*pline:25
+{16b-	Pa-	–Croy-	–Mon-	–Croy-	–Si
+16a	-pil-	-ez-	-sieur,	-ez-	l'a-
+=1	=1	=1	=1	=1	=1
+8g	-lon,	-vous,	pour	-vous,	-mour
+8a	tu	ma-	d'l'in-	ma-	a-
+8b-	es	-de-	-gra-	-de-	-vait
+8g	vo-	-moi-	-ti-	-moi-	des
+=2	=2	=2	=2	=2	=2
+4dd	-la-	-sel-	-tu-	-sel-	ai-
+8dd}	-ge!	-le,	-de,	-le,	-les,
+*	*rp:a	*rp:ɛ	*rp:y	*rp:ɛ	*rp:ɛ
+*	*rf:aʒ,ə	*rf:ɛl,ə	*rf:ityd,ə	*rf:ɛl,ə	*rf:ɛl,ə
+*	*rs:a1	*rs:c	*rs:e	*rs:c	*rs:c
+*	*pline:2	*pline:8	*pline:14	*pline:20	*pline:26
+{16cc	Tu	Que	Vo-	Que	Com-
+16dd	res-	je	-tre	je	-me
+!!LO:PB:g=original
+=3	=3	=3	=3	=3	=3
+8ee-	-sembl[e](s)	viens	coeur	pens'	toi
+8dd	à	i-	n'en	de	beau
+8cc	mon	-ci	man-	re-	pa-
+8b-	a-	pour	-que	-ve-	-pil-
+=4	=4	=4	=4	=4	=4
+4a	-mant.	vous?	pas;	-nir?	-lon,
+*	*rp:ɑ̃	*rp:u	*rp:a	*rp:i	*rp:ɔ̃
+*	*rf:mɑ̃	*rf:vu	*rf:	*rf:iʁ	*rf:jɔ̃
+*	*rs:b1	*rs:d1	*rs:a	*rs:f1	*rs:x
+8r}	.	.	.	.	.
+*	*pline:3	*pline:9	*pline:15	*pline:21	*pline:27
+{16a	L'a-	J'en	Vous	Je	Il
+16b-	-mour	con-	a-	me	i-
+=5	=5	=5	=5	=5	=5
+8cc	est	-nais	-vez	ris	-rait
+8cc	un	d'au-	pour	de	de
+8b-	ba-	-tres	ha-	vo-	vill[e]
+8a	-di-	plus	-bi-	-tre	en
+!!LO:PB:g=original
+=6	=6	=6	=6	=6	=6
+(8b-L	-na-	bel-	-tu-	zè-	vil-
+8gJ)	.	.	.	.	.
+8a}	-ge,	-les,	-de	-le	-le
+*	*rp:a	*rp:ɛ	*rp:y	*rp:ɛ	*rp:i
+*	*rf:aʒ,ə	*rf:ɛl,ə	*rf:ityd,ə	*rf:ɛl,ə	*rf:il,ə
+*	*rs:a1	*rs:c	*rs:e	*rs:c	*rs:f2
+*	*pline:4	*pline:10	*pline:16	*pline:22	*pline:28
+*	*bis	*	*	*	*
+{16b-	L'-a-	Qui	De	Et	Pour
+16a	-mour	ont	sou-	de	re-
+=7	=7	=7	=7	=7	=7
+8g	est	les	-vent	tous	-join-
+8g	un	yeux	chan-	vos	-dre
+*	*Xbis	*	*	*	*
+8.f	pas-	bien	-ger	beaux	mon
+16g	-se-	plus	d'ap-	sou-	a-
+!!LO:PB:g=original
+=8	=8	=8	=8	=8	=8
+8a}	-temps;	doux.	-pas.	-pirs.	-mant,
+*	*rp:ɑ̃	*rp:u	*rp:a	*rp:i	*rp:ɑ̃
+*	*rf:tɑ̃	*rf:du	*rf:pa	*rf:iʁ	*rf:mɑ̃
+*	*rs:b2	*rs:d2	*rs:a2	*rs:f1	*rs:b1
+*	*pline:5	*pline:11	*pline:17	*pline:23	*pline:29
+{16a	Quand	Croy-	Croy-	A-	Lui
+16b-	j'ai	-ez-	-ez-	-dieu	fair[e]
+8cc	mon	-moi,	-moi,	mes	as-
+8a	a-	mam'-	mon-	a-	-sa-
+=9	=9	=9	=9	=9	=9
+8b-	-mant,	-zell[e],	-sieur,	-mours!	-voir
+*	*rp:ɑ̃	*rp:ɛ	*rp:ø	*rp:u	*rp:a
+*	*rf:mɑ̃	*rf:ɛl,ə	*rf:sjø	*rf:uʁ	*rf:wa
+*	*rs:b1	*rs:c	*rs:x	*rs:g	*rs:a3
+*	*pline:6	*pline:12	*pline:18	*pline:24	*pline:
+16a	J'ai	Je	N'y	A-	De
+16g	le	me	re-	-dieu	mes
+8a	coeur	ris	-ve-	pour	com-
+8f	con-	de	-nez	tou-	-pli-
+=10	=10	=10	=10	=10	=10
+4g	-tent.	vous.	pas.	-jours!	-ments.
+*	*rp:ɑ̃	*rp:u	*rp:a	*rp:u	*rp:ɑ̃
+*	*rf:tɑ̃	*rf:vu	*rf:pa	*rf:uʁ	*rf:mɑ̃
+*	*rs:b2	*rs:d1	*rs:a2	*rs:g	*rs:b1
+8r}	.	.	.	.	.
+==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-
+!!!EED: Ève Poudrier
+!!!EEV: 2025/07/24
