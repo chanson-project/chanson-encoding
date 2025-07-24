@@ -1,0 +1,116 @@
+!!!id: BC086
+!!!page: 110
+!!!COM: Anonymous (Vieille chanson française)
+!!!PTL@@FR: Les 100 plus belles chansons
+!!!OTL@@FR: Quand j'étais chez mon père, apprenti pastouriau
+!!!PUB: La Bonne Chanson, inc.
+!!!YEM: On ne peut reproduire, enregistrer ou diffuser en tout ou en partie le présent ouvrage, sous quelque procédé que ce soit, électronique, mécanique, photographique, sonore, magnétique ou autre, sans avoir obtenu au préalable l'autorisation écrite de l'éditrice.
+!!!PDT: 2011
+!!!SMA: 2012 Bibliothèque nationale du Québec; Biblothèque nationale du Canada
+!!!AGN-Laforte: Chanson strophique (avec refrain), 5:2(6+6), R:2(9)
+!!!AGN-type: Chanson de paysan
+!!!AGN-rime: monorime /o/
+!!!LYR-elision: final "e" (qu', fêt', fair', l'village, jeun's)
+**kern	**text	**text	**text	**text	**text
+*clefG2	*	*	*	*	*
+*k[f#]	*	*	*	*	*
+*G:	*	*	*	*	*
+!!LO:TX:a:B:t=Mouvement de Valse
+*M3/4	*	*	*	*	*
+*	*v:1	*v:2	*v:3	*v:4	*
+*	*pline:1Ha	*pline:3Ha	*pline:5Ha	*pline:7Ha	*pline:9Ha
+{{{8g	Quand	Mais	Il	Mais	Pour
+8a	j'é-	je	é-	des	fair'
+=1	=1	=1	=1	=1	=1
+4b	-tais	n'en	-tait	os	dan-
+4b	chez	a-	si	de	-ser
+4b	mon	-vait	vo-	la	l'vil-
+=2	=2	=2	=2	=2	=2
+4b	pè-	guè-	-ra-	bê-	-la-
+4g}	-re,	-re,	-ce,	te,	-ge
+*	*pline:1Hb	*pline:3Hb	*pline:5Hb	*pline:7Hb	*pline:9Hb
+{8g	Ap-	Je	N'a	Me	Des-
+8a	-pren-	n'a-	lais-	fis	-sous
+=3	=3	=3	=3	=3	=3
+4b	-ti	-vais	-sé	un	le
+4b	pas-	qu'trois	que	cha-	grand
+4b	-tou-	a-	la	-lu-	or-
+!!LO:PB:g=original
+=4	=4	=4	=4	=4	=4
+2a}}	-riau,	-gneaux,	piau,	-miau,	-miau,
+*	*rp:o	*rp:o	*rp:o	*rp:o	*rp:o
+*	*rf:ʁjo	*rf:ɲo	*rf:pjo	*rf:mjo	*rf:mjo
+*	*rs:a1	*rs:a4	*rs:a2	*rs:a5	*rs:a5
+*	*pline:2Ha	*pline:4Ha	*pline:6Ha	*pline:8Ha	*pline:10Ha
+*	*	*	*bis	*	*
+{8a	Il	Et	N'a	Pour	Et
+8b	m'a	le	lais-	jou-	les
+=5	=5	=5	=5	=5	=5
+4cc	mis	loup	sé	-er	jeun's
+4cc	dans	de	que	à	et
+4cc	la	la	la	la	les
+*	*	*	*Xbis	*	*
+=6	=6	=6	=6	=6	=6
+4b	lan-	plai-	queu-	fê-	viel-
+4b	-de,	-ne	-e,	-te,	-les,
+*	*pline:2Hb	*pline:4Hb	*pline:6Hb	*pline:8Hb	*pline:10Hb
+*	*	*	*	*bis	*
+8b	Pour	M'a	Pour	À	les
+8b	gar-	man-	mettr[e]	la	pieds
+=7	=7	=7	=7	=7	=7
+4a	-der	-gé	à	fêt'	dans
+*	*	*	*	*Xbis	*
+4a	les	le	mon	du	les
+4a	trou-	plus	cha-	ha-	sa-
+!!LO:PB:g=original
+=8	=8	=8	=8	=8	=8
+2g}	piaux.	biau.	-piau	-miau.	-biots.
+*	*rp:o	*rp:o	*rp:o	*rp:o	*rp:o
+*	*rf:pjo	*rf:bjo	*rf:pjo	*rf:mjo	*rf:bjo
+*	*rs:a2	*rs:a3	*rs:a2	*rs:a5	*rs:a3
+=||	=||	=||	=||	=||	=||
+*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain
+*	*pline:R1	*	*	*	*
+!!LO:TX:a:B:t=REFRAIN
+{{4dd	Trou-	.	.	.	.
+=9	=9	=9	=9	=9	=9
+2dd	-piaux,	.	.	.	.
+*	*bis	*	*	*	*
+4cc	trou-	.	.	.	.
+=10	=10	=10	=10	=10	=10
+2b	-piaux,	.	.	.	.
+*	*Xbis	*	*	*	*
+4b	je	.	.	.	.
+=11	=11	=11	=11	=11	=11
+(8ccL	n'en	.	.	.	.
+8bJ)	.	.	.	.	.
+4a	a-	.	.	.	.
+4a	-vait	.	.	.	.
+!!LO:PB:g=original
+=12	=12	=12	=12	=12	=12
+4b	guè-	.	.	.	.
+4g}	-re,	.	.	.	.
+*	*pline:R2	*	*	*	*
+*	*bis	*	*	*	*
+{4dd	Trou-	.	.	.	.
+=13	=13	=13	=13	=13	=13
+2dd	-piaux,	.	.	.	.
+4cc	trou-	.	.	.	.
+=14	=14	=14	=14	=14	=14
+2b	piaux	.	.	.	.
+4b	je	.	.	.	.
+=15	=15	=15	=15	=15	=15
+(8ccL	n'en	.	.	.	.
+8bJ)	.	.	.	.	.
+4a	a-	.	.	.	.
+4a	-vait	.	.	.	.
+*	*Xbis	*	*	*	*
+=16	=16	=16	=16	=16	=16
+2g}}	biaux!	.	.	.	.
+*	*rp:o	*	*	*	*
+*	*rf:bjo	*	*	*	*
+*	*rs:a3	*	*	*	*
+==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-
+!!!EED: Ève Poudrier
+!!!EEV: 2025/07/23
