@@ -1,0 +1,221 @@
+!!!id: BC088
+!!!page: 112
+!!!COM: Braga, Gaetano
+!!!LYR: Gadbois, Charles-Émile
+!!!PTL@@FR: Les 100 plus belles chansons
+!!!OTL: Santa Lucia (Bararolle Napolitaine)
+!!!ONB: Santa Lucia (sainte Lucie) est la patronne des marins italiens.
+!!!PUB: La Bonne Chanson, inc.
+!!!YEM: On ne peut reproduire, enregistrer ou diffuser en tout ou en partie le présent ouvrage, sous quelque procédé que ce soit, électronique, mécanique, photographique, sonore, magnétique ou autre, sans avoir obtenu au préalable l'autorisation écrite de l'éditrice.
+!!!PDT: 2011
+!!!SMA: 2012 Bibliothèque nationale du Québec; Biblothèque nationale du Canada
+!!!AGN-Laforte: Chanson strophique (refrain intégré), 3:10(4), R:1(5+5)
+!!!AGN-type: Chanson de marins
+!!!AGN-rime: suivies (aaab) avec rime non-adjacente
+!!!LYR-elision: none
+!!!RNB: Initial 8 measures of rests not included in transcription.
+**kern	**text	**text	**text
+*clefG2	*	*	*
+*k[]	*	*	*
+*C:	*	*	*
+!!LO:TX:a:B:t=Allegretto
+*M3/4	*	*	*
+*	*v:1	*v:2	*v:3
+*	*pline:1	*pline:12	*pline:23
+=1	=1	=1	=1
+{{{(4g	Sur	A-	Sou-
+4.g	l'on-	-dieu,	-dain,
+8cc	-de	beau	sur
+=2	=2	=2	=2
+(8ccL	clai-	rê-	ter-
+8bJ)	.	.	.
+2b)}	-re,	-ve!	-re,
+*	*rp:	*rp:	*rp:
+*	*rf:	*rf:	*rf:
+*	*rs:	*rs:	*rs:
+=3	=3	=3	=3
+*	*pline:2	*pline:13	*pline:24
+{(>4f	Char-	Le	Un
+4.f	-mant	vent	phar[e]
+8a	mys-	s'é-	é-
+!!LO:PB:g=original
+=4	=4	=4	=4
+(8aL	tè-	-lè-	-clai-
+8gJ)	.	.	.
+2g)}}	-re,	-ve;	-re.
+*	*rp:	*rp:	*rp:
+*	*rf:	*rf:	*rf:
+*	*rs:	*rs:	*rs:
+=5	=5	=5	=5
+*	*pline:3	*pline:14	*pline:25
+{{(>4e	La	Loin	Ah!
+4a	lun[e]	de	c'est
+4g	é-	la	ma
+=6	=6	=6	=6
+(8gL	-clai-	grè-	mè-
+8f#J)	.	.	.
+2fn)}	-re	-ve,	-re
+*	*rp:	*rp:	*rp:
+*	*rf:	*rf:	*rf:
+*	*rs:	*rs:	*rs:
+=7	=7	=7	=7
+*	*pline:4	*pline:15	*pline:26
+{(>4f	Et	Ma	Qui
+4e	c'est	bar-	me
+4d	la	-que	con-
+=8	=8	=8	=8
+(4a	nuit.	fuit.	-duit.
+*	*rp:	*rp:	*rp:
+*	*rf:	*rf:	*rf:
+*	*rs:	*rs:	*rs:
+2g))}}}	.	.	.
+!!LO:PB:g=original
+=9	=9	=9	=9
+*	*pline:5	*pline:16	*pline:27
+{{{(4g	Voi-	De	Al-
+4.g	-ci	mon	-lons,
+8cc	la	vil-	cou-
+=10	=10	=10	=10
+(8ccL	bri-	-la-	-ra-
+8bJ)	.	.	.
+2b)}	-se,	-ge,	-ge!
+*	*rp:	*rp:	*rp:
+*	*rf:	*rf:	*rf:
+*	*rs:	*rs:	*rs:
+=11	=11	=11	=11
+*	*pline:6	*pline:17	*pline:28
+{(>4f	Dou-	Le	Plus
+4.f	-ceur	cher	de
+8a	ex-	ri-	nau-
+=12	=12	=12	=12
+(8aL	-qui-	-va-	-fra-
+8gJ)	.	.	.
+2g)}}	-se,	-ge,	-ge!
+*	*rp:	*rp:	*rp:
+*	*rf:	*rf:	*rf:
+*	*rs:	*rs:	*rs:
+=13	=13	=13	=13
+*	*pline:7	*pline:18	*pline:29
+{{(>4e	Ma	Dans	Bra-
+4a	voi-	un	-vons
+4g	-le	nu-	l'o-
+!!LO:PB:g=original
+=14	=14	=14	=14
+(8gL	gri-	-a-	-ra-
+8f#J)	.	.	.
+2fn)}	-se	-ge	-ge!
+*	*rp:	*rp:	*rp:
+*	*rf:	*rf:	*rf:
+*	*rs:	*rs:	*rs:
+=15	=15	=15	=15
+*	*pline:8	*pline:19	*pline:30
+{(>4f	Au	Est	L'es-
+4e	loin	en-	-poir
+4d	s'en-	-glou-	re-
+=16	=16	=16	=16
+(4a	-fuit.	-ti.	-vit.
+*	*rp:	*rp:	*rp:
+*	*rf:	*rf:	*rf:
+*	*rs:	*rs:	*rs:
+2g))}}}	.	.	.
+=17	=17	=17	=17
+*	*pline:9	*pline:20	*pline:31
+{{{(4ee	Ve-	Ô	Gui-
+4dd	-nez,	ma	-dez
+4cc	fi-	Pa-	ma
+=18	=18	=18	=18
+(8bL	-dè-	-tron-	voi-
+8aJ)	.	.	.
+2dd)}	-le,	-ne,	-le,
+*	*rp:	*rp:	*rp:
+*	*rf:	*rf:	*rf:
+*	*rs:	*rs:	*rs:
+!!LO:PB:g=original
+=19	=19	=19	=19
+*	*pline:10	*pline:21	*pline:32
+{(>4dd	Dans	Pour	Vers
+4cc	ma	moi	cett[e]
+4a	na-	soit	é-
+=20	=20	=20	=20
+(8f#J	-cel-	bon-	-toi-
+8gJ)	.	.	.
+2cc)}}	-le,	-ne,	-le,
+*	*rp:	*rp:	*rp:
+*	*rf:	*rf:	*rf:
+*	*rs:	*rs:	*rs:
+=21	=21	=21	=21
+*	*pline:11	*pline:11r	*pline:11r
+*	*refrain	*refrain	*refrain
+*	*italic	*italic	*italic
+{{(8eeL	San	San-	San-
+8ccJ)	.	.	.
+(8ccL	-ta	-ta	-ta
+8gJ)	.	.	.
+(8gL	Lu-	Lu-	Lu-
+8eJ)	.	.	.
+=22	=22	=22	=22
+(8fL	-ci-	-ci-	-ci-
+8ddJ)	.	.	.
+2dd}	-a,	-a,	-a,
+*	*bis	*bis	*bis
+=23	=23	=23	=23
+{(4dd	San-	San-	San-
+4.a	-ta	-ta	-ta
+8b	Lu-	Lu-	Lu-
+!!LO:PB:g=original
+=24	=24	=24	=24
+4dd	-ci-	-ci-	-ci-
+2cc)}}}	-a!	-a!	-a!
+*	*Xbis	*Xbis	*Xbis
+*	*Xitalic	*Xlic	*Xitalic
+*	*Xrefrain	*Xrefrain	*Xrefrain
+=25	=25	=25	=25
+*	*pline:9r	*pline:20	*pline:
+{{{(4ee	Ve-	Ô	.
+4dd	-nez	ma	.
+!!errata: pline:20, repetition of "patronne" is missing the capital "P".
+4cc	fi-	Pa-	.
+=26	=26	=26	=26
+(8bL	-dè-	-tron-	.
+8aJ)	.	.	.
+2dd)}	-le,	-ne,	.
+=27	=27	=27	=27
+*	*pline:10r	*pline:21	*pline:
+{(>4dd	Dans	Pour	.
+4cc	ma	moi	.
+4a	na-	soit	.
+=28	=28	=28	=28
+(8f#J	-cel-	bon-	.
+8gJ)	.	.	.
+2cc)}}	-le,	-ne,	.
+!!LO:PB:g=original
+=29	=29	=29	=29
+*	*pline:11r	*pline:11r	*pline:11r
+*	*refrain	*refrain	*refrain
+*	*italic	*italic	*italic
+{{(8eeL	San-	San-	San-
+8ccJ)	.	.	.
+(8ccL	-ta	-ta	-ta
+8gJ)	.	.	.
+(8gL	Lu-	Lu-	Lu-
+8eJ)	.	.	.
+=30	=30	=30	=30
+(8fL	-ci-	-ci-	-ci-
+8ddJ)	.	.	.
+2dd}	-a,	-a,	-a,
+=31	=31	=31	=31
+*	*bis	*bis	*bis
+{(4dd	San-	San-	San-
+4ee;	-ta	-ta	-ta
+8dd	Lu-	Lu-	Lu-
+=32	=32	=32	=32
+4dd	-ci-	-ci-	-ci-
+2cc)}}}	-a!	-a!	-a!
+*	*Xbis	*Xbis	*Xbis
+*	*Xitalic	*Xlic	*Xitalic
+*	*Xrefrain	*Xrefrain	*Xrefrain
+==	==	==	==
+*-	*-	*-	*-
+!!!RDF**kern: > = above
+!!!EED: Ève Poudrier
+!!!EEV: 2025/07/24
