@@ -1,16 +1,16 @@
 !!!id: BC054
 !!!page: 67
-!!!COM: Botrele (Air de: "La Lettre du Gabier")
+!!!COM: Botrel, Théodore
 !!!LYR: Anonymous
 !!!PTR@@FR: Les 100 plus belles chansons
-!!!OTL@@FR: René Goupil À Sa Mère
+!!!OTL@@FR: René Goupil à sa mère (Air de: "La Lettre du Gabier")
 !!!PUB: La Bonne Chanson, inc.
 !!!PDT: 2011
 !!!YEM: On ne peut reproduire, enregistrer ou diffuser en tout ou en partie le présent ouvrage, sous quelque procédé que ce soit, électronique, mécanique, photographique, sonore, magnétique ou autre, sans avoir obtenu au préalable l'autorisation écrite de l'éditrice.
 !!!SMA: 2012 Bibliothèque nationale du Québec; Biblothèque nationale du Canada
-!!!AGN-type: Chanson geunesse
-!!!AGN-Laforte: Chanson strophique (sans refrain) 9:6(8)
-!!!AGN-rhyme: aabb
+!!!AGN-type: Chanson d'adieu
+!!!AGN-Laforte: Chanson de timbre (sans refrain), 9:6(8/4), stanza ends with short line (envoi).
+!!!AGN-rhyme: suivies (aabb), avec envoi avec mot répété ("mère")
 **kern	**text	**text	**text	**text	**text	**text	**text	**text	**text
 *clefG2:	*	*	*	*	*	*	*	*	*
 *k[f#c#]	*	*	*	*	*	*	*	*	*
@@ -20,95 +20,101 @@
 *	*v:1	*v:2	*v:3	*v:4	*v:5	*v:6	*v:7	*v:8	*v:9
 *	*pline:1	*pline:7	*pline:13	*pline:19	*pline:25	*pline:31	*pline:37	*pline:43	*pline:49
 =1	=1	=1	=1	=1	=1	=1	=1	=1	=1
-8a	Pour	Peut-	Nom-	De	Mal-	Si	Ce-	On	Vous
+{{8a	Pour	Peut-	Nom-	De	Mal-	Si	Ce-	On	Vous
 =2	=2	=2	=2	=2	=2	=2	=2	=2	=2
 8b	toi,	-ê-	-mé	Jé-	-gré	tu	-lui	a-	re-
-8cc#	ma-	tre	pour	-sus	no-	me	qui	-vait	-ce
+8cc#	ma-	tre	pour	-sus	no-	me	qui	-vait	-ce-
 8b	-man,	m'a-	le	bé-	-tre	vo-	vient	ju-	-vrez,
 8b	ce	-t-on	pa-	-ni	cap-	-yais	fi-	-ré	rou-
 8f#	pe-	de-	-ys	soit	-ti-	tri-	-nir	qu'il	-gi
 8f#	-tit	-van-	hu-	le	-vi-	-om-	ce	mour-	de
 =3	=3	=3	=3	=3	=3	=3	=3	=3	=3
-[2a	mot,	-cé,	-ron,	nom!	-té,	-phant,	mot,	-rait;	sang,
+[2a	mot,	-cé,	-ron,	nom!...	-té,	-phant,	mot,	-rait;	sang,
 *	*rp:o	*rp:e	*rp:ɔ̃	*rp:ɔ̃	*rp:e	*rp:ã	*rp:o	*rp:ɛ	*rp:ã
 *	*rf:mo	*rf:se	*rf:ʁɔ̃	*rf:nɔ̃	*rf:te	*rf:fã	*rf:mo	*rf:ʁɛ	*rf:sã
-*	*rs:a	*rs:d	*rs:f	*rs:f	*rs:d	*rs:h	*rs:a	*rs:i	*rs:h
-8a]	.	.	.	.	.	.	.	.	.
+*	*rs:a1-	*rs:d1-	*rs:f1-	*rs:f3-	*rs:d2-	*rs:h1-	*rs:a1-	*rs:i2-	*rs:h2-
+8a]}	.	.	.	.	.	.	.	.	.
 *	*pline:2	*pline:8	*pline:14	*pline:20	*pline:26	*pline:32	*pline:38	*pline:44	*pline:50
-8a	Car	Chè-	Du	Ai-	Nous	Lors-	Ce	Hi-	Le
-!!linebreak:original
+{8a	Car	Chè-	Du	Ai-	Nous	Lors-	Ce	Hi-	Le
+!!LO:PG:g=original
 =4	=4	=4	=4	=4	=4	=4	=4	=4	=4
-8b	ton	-re	Pè-	-dé	prê-	-que	nést	-er,	cha-
+8b	ton	-re	Pè-	-dé	prê-	-que	n'est	-er,	cha-
 8cc#	Re-	ma-	-re	de	-chons	de	plus	au	-pe-
 8b	-né,	-man,	Jo-	mon	Dieu	l'â-	vo-	bord	-let
 8b	ton	pour	-gues	saint	sans	-me	-tre	de	de
-8f#	pe-	t'an-	com-	com-	ar-	d'un	pe-	la	votre
+8f#	pe-	t'an-	com-	com-	ar-	d'un	pe-	la	votr[e]
 8f#	-ti-	-non-	-pa-	-pa-	-rê-	en-	-ti-	for-	en-
 =5	=5	=5	=5	=5	=5	=5	=5	=5	=5
-[2a	-ot,	-cer	-gnon,	-gnon,	-ter,	-fant	-ot,	-èt,	-fant:
+[2a	-ot,	-cer	-gnon,	-gnon,	-ter,	-fant	-ot,	-êt,	-fant:
 *	*rp:o	*rp:e	*rp:ɔ̃	*rp:ɔ̃	*rp:e	*rp:ã	*rp:o	*rp:ɛ	*rp:ã
-*	*rf:o	*rf:se	*rf:ɲɔ̃	*rf:nɔ̃	*rf:te	*rf:fã	*rf:o	*rf:ʁɛ	*rf:fã
-*	*rs:a	*rs:d	*rs:f	*rs:f	*rs:d	*rs:h	*rs:a	*rs:i	*rs:h
-8a]	.	.	.	.	.	.	.	.	.
+*	*rf:jo	*rf:se	*rf:ɲɔ̃	*rf:nɔ̃	*rf:te	*rf:fã	*rf:jo	*rf:ʁɛ	*rf:fã
+*	*rs:a2-	*rs:d1-	*rs:f2-	*rs:f2-	*rs:d2-	*rs:h1-	*rs:a2-	*rs:i2-	*rs:h1-
+8a]}	.	.	.	.	.	.	.	.	.
 *	*pline:3	*pline:9	*pline:15	*pline:21	*pline:27	*pline:33	*pline:39	*pline:45	*pline:51
-8f#	Là-	A	Nous	J'ai	Oh!	Je	Vo-	Nous	Bai-
+{8f#	Là-	À	Nous	J'ai	Oh!	Je	Vo-	Nous	Bai-
 =6	=6	=6	=6	=6	=6	=6	=6	=6	=6
 8f#	-bas,	mon	tra-	pu	quel	fais	-tre	é-	-sez
+*	*bis	*	*	*	*	*	*	*	*
 8f#	là-	su-	-ver-	gra-	a-	mon-	Re-	-tions	cet-
 8f#	-bas,	-jet,	-sions	-vir	-pô-	-ter	-né	tous	-te
+*	*Xbis	*	*	*	*	*	*	*	*
 8f#	mis-	nou-	u-	un	-tre	u-	mis-	deux	re-
-8a	-si-	-velle	-ne	dur	que	ne	-si-	en	-li-
+8a	-si-	-vell[e]	-ne	dur	que	ne	-si-	en	-li-
 8g	-on-	a-	ri-	Cal-	ce	pri-	-on-	pri-	-que
-!!linebreak:original
+!!LO:PG:g=original
 =7	=7	=7	=7	=7	=7	=7	=7	=7	=7
 4f#	-nai-	-mè-	-vi-	-vai-	Pè-	-è-	-nai-	-è-	chè-
-4e	-r[e],	-re...	-ère...	-re;	-re!	-re;	-r[e]:	-re;	-re:
+4e	-re,	-re...	-ère...	-re;	-re!	-re;	-re:	-re;	-re:
 *	*rp:ɛː	*rp:ɛː	*rp:ɛː	*rp:ɛː	*rp:ɛː	*rp:ɛː	*rp:ɛː	*rp:ɛː	*rp:ɛː
-*	*rf:ɛːʁ	*rf:ɛːʁ	*rf:ɛːʁ	*rf:ɛːʁ	*rf:ɛːʁ	*rf:ɛːʁ	*rf:ɛːʁ	*rf:ɛːʁ	*rf:ɛːʁ
-*	*rs:b	*rs:b	*rs:b	*rs:b	*rs:b	*rs:b	*rs:b	*rs:b	*rs:b
-8r	.	.	.	.	.	.	.	.	.
+*	*rf:ɛːʁ,ə	*rf:ɛːʁ,ə	*rf:ɛːʁ,ə	*rf:ɛːʁ,ə	*rf:ɛːʁ,ə	*rf:ɛːʁ,ə	*rf:ɛːʁ,ə	*rf:ɛːʁ,ə	*rf:ɛːʁ,ə
+*	*rs:b1	*rs:b1	*rs:b1	*rs:b1	*rs:b1	*rs:b1	*rs:b1	*rs:b1	*rs:b1
+8r}	.	.	.	.	.	.	.	.	.
 *	*pline:4	*pline:10	*pline:16	*pline:22	*pline:28	*pline:34	*pline:40	*pline:46	*pline:52
-8b	Au	Le	Les	Mais	Quel-	Sur	Il	Sou-	Vous
+{8b	Au	Le	Les	Mais	Quel-	Sur	Il	Sou-	Vous
 =8	=8	=8	=8	=8	=8	=8	=8	=8	=8
-8b	fond	sau-	I-	je	-ques	les	sést	-dain	ê-
+8b	fond	sau-	I-	je	-ques	les	s'est	-dain	ê-
 8b	des	-rais-	-ro-	pen-	in-	fronts,	en-	pa-	-tes
 8ee	bois,	-tu?	-quois	-sais	-diens	je	-vo-	-rut	mè-
-8dd	si	jái	nous	a-	sont	tra-	-lé	un	-re
-8cc#	lin	peur	ont	-lors	con-	-ce	vers	for-	d'un
+8dd	si	...j'ai	nous	a-	sont	tra-	-lé	un	-re
+8cc#	loin	peur	ont	-lors	con-	-ce	vers	for-	d'un
 8b	qu'il	un	sur-	à	-ver-	la	le	-ce-	mar-
 =9	=9	=9	=9	=9	=9	=9	=9	=9	=9
 2dd	soit,	brin...	-pris.	toi,	-tis,	croix,	ciel,	-né,	-tyr!...
 *	*rp:a	*rp:ẽ	*rp:i	*rp:a	*rp:i	*rp:a	*rp:ɛ	*rp:e	*rp:i
-*	*rf:swa	*rf:bʁẽ	*rf:pʁi	*rf:twa	*rf:ti	*rf:kʁa	*rf:ɛl	*rf:ne	*rf:tiʁ
-*	*rs:c	*rs:e	*rs:g	*rs:c	*rs:g	*rs:c	*rs:i	*rs:d	*rs:g
-8r	.	.	.	.	.	.	.	.	.
+*	*rf:wa	*rf:ʁẽ	*rf:ʁi	*rf:wa	*rf:ti	*rf:wa	*rf:ɛl	*rf:ne	*rf:iʁ
+*	*rs:c1-	*rs:e1-	*rs:g1-	*rs:c1-	*rs:g2-	*rs:c1-	*rs:i1	*rs:d3-	*rs:g3
+8r}}	.	.	.	.	.	.	.	.	.
 *	*pline:5	*pline:11	*pline:17	*pline:23	*pline:29	*pline:35	*pline:41	*pline:47	*pline:53
-8b	Pen-	De	Je	Je	J'ai	Com-	Jou-	Sa	Moi,
-!!linebreak:original
+{{8b	Pen-	De	Je	Je	J'ai	Com-	Jou-	Sa	Moi,
+!!LO:PG:g=original
 =10	=10	=10	=10	=10	=10	=10	=10	=10	=10
 8b	-se	te	suis	te	bap-	-me	-ir	main	Jo-
-8b	tou-	cau-	bien	vo-	-ti-	tu	dún	frap-	-gues,
+8b	tou-	cau-	bien	vo-	-ti-	tu	d'un	frap-	-gues,
 8a	-jours,	-ser	loin	-yais	-sé	me	bon-	-pa	puis
+*	*bis	*	*	*	*	*	*	*	*
 8a	tou-	quel-	de	pri-	des	fai-	-heur	vo-	le
 8g	-jours	-que	mon	-er	tout	-sais,	é-	-tre	ga-
+*	*Xbis	*	*	*	*	*	*	*	*
 8f#	à	cha-	pa-	pour	pe-	par-	-ter-	Re-	-ran-
 =11	=11	=11	=11	=11	=11	=11	=11	=11	=11
-[4a	toi,	-grin,	-ys	moi,	-tits:	-fois	-nel,	-né...	-tir,
-*	*rp:a	*rp:ẽ	*rp:i	*rp:a	*rp:i	*rp:a	*rp:ɛ	*rp:ɛ	*rp:i
-*	*rf:twa	*rf:gʁẽ	*rf:i	*rf:mwa	*rf:ti	*rf:fwa	*rf:ɛl	*rf:ɛn	*rf:tiʁ
-*	*rs:c	*rs:e	*rs:g	*rs:c	*rs:g	*rs:c	*rs:i	*rs:i	*rs:g
-8a]	.	.	.	.	.	.	.	.	.
+[4a	toi,	-grin,	-ys	moi,	-tits:	-fois,	-nel,	-né...	-tir,
+*	*rp:a	*rp:ẽ	*rp:i	*rp:a	*rp:i	*rp:a	*rp:ɛ	*rp:e	*rp:i
+*	*rf:wa	*rf:ʁẽ	*rf:i	*rf:wa	*rf:ti	*rf:wa	*rf:ɛl	*rf:ne	*rf:iʁ
+*	*rs:c1-	*rs:e1-	*rs:g0	*rs:c1-	*rs:g2-	*rs:c1-	*rs:i1	*rs:d3-	*rs:g3
+8a]}	.	.	.	.	.	.	.	.	.
 *	*pline:6	*pline:12	*pline:18	*pline:24	*pline:30	*pline:36	*pline:42	*pline:48	*pline:54
-8f#	Ma	Ma	Et	Pi-	Quel	Ma	O	Cou-	Heu-
+{8f#	Ma	Ma	Et	Pi-	Quel	Ma	Ô	Cou-	Heu-
 8f#	bon-	dou-	de	-eu-	bon-	ten-	sain-	-rage!	-reu-
-8a	-ne	-ce	ma	-se	-heur!	-dre	-te	O	-se
+8a	-ne	-ce	ma	-se	-heur!	-dre	-te	Ô	-se
 =12	=12	=12	=12	=12	=12	=12	=12	=12	=12
 2e	mè-	mè-	mè-	mè-	Mè-	mè-	mè-	mè-	mè-
-8d;	re.	re!	re!	re!	re!	re!	re!	re!	re!
+8d;}}	re.	re!	re!	re!	re!	re!	re!	re!	re!
 *	*rp:ɛː	*rp:ɛː	*rp:ɛː	*rp:ɛː	*rp:ɛː	*rp:ɛː	*rp:ɛː	*rp:ɛː	*rp:ɛː
-*	*rf:ɛːʁ	*rf:ɛːʁ	*rf:ɛːʁ	*rf:ɛːʁ	*rf:ɛːʁ	*rf:ɛːʁ	*rf:ɛːʁ	*rf:ɛːʁ	*rf:ɛːʁ
-*	*rs:b	*rs:b	*rs:b	*rs:b	*rs:b	*rs:b	*rs:b	*rs:b	*rs:b
+*	*rf:ɛːʁ,ə	*rf:ɛːʁ,ə	*rf:ɛːʁ,ə	*rf:ɛːʁ,ə	*rf:ɛːʁ,ə	*rf:ɛːʁ,ə	*rf:ɛːʁ,ə	*rf:ɛːʁ,ə	*rf:ɛːʁ,ə
+*	*rs:b1	*rs:b1	*rs:b1	*rs:b1	*rs:b1	*rs:b1	*rs:b1	*rs:b1	*rs:b1
 ==	==	==	==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-
 !!!EED:Jason Lau
 !!!EEV:2025/07/22
+!!!EED: Ève Poudrier
+!!!EEV: 2025/07/29
