@@ -9,8 +9,8 @@
 !!!PDT: 2011
 !!!SMA:2012 Bibliothèque nationale du Québec; Biblothèque nationale du Canada
 !!!AGN-Laforte: Chanson en laisse (avec refrain)
-!!!AGN-type:
-!!!AGN-rime:
+!!!AGN-type: danse?
+!!!AGN-rime: monorime (aa)
 **kern	**text	**text	**text	**text	**text	**text	**text	**text	**text	**text
 *clefG2	*	*	*	*	*	*	*	*	*	*
 *k[b-e-]	*	*	*	*	*	*	*	*	*	*
@@ -18,8 +18,8 @@
 *M4/4	*	*	*	*	*	*	*	*	*	*
 *	*v:1	*v:2	*v:3	*v:4	*v:5	*v:6	*v:7	*v:8	*v:9	*v:10
 *	*pline:1	*pline:2r	*pline:3r	*pline:4r	*pline:5r	*pline:6r	*pline:7r	*pline:8r	*pline:9r	*pline:10r
-!!LO:TX:a:i:t=Avec entrain
-8b-	J'ai	J'en	J'ai	Beau	Veux-	Je	De	Faut	Pour	Nen-
+!!LO:TX:a:t=Avec entrain
+{{8b-	J'ai	J'en	J'ai	Beau	Veux-	Je	De	Faut	Pour	Nen-
 8dd	tant	ai	'té	cor-	-tu	te	sous	al-	dans	-ni,
 !!!v4-5: racc'moder = raccomoder; v5-6: donn'rai = donnerai
 8b-	dan-	dé-	trou-	-don-	racc'm-	donn'-	mar-	-ler	un	un
@@ -28,10 +28,13 @@
 8b-	tant	mon	cor-	cor-	mon	sou	ai-	le	ma-	pas
 8dd	sau-	sou-	-don-	-don-	sou-	mar-	-z-as-	cu-	-ri-	as-
 =1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
-4cc	-té,	-lier,	-nier,	-nier,	-lier?	-qué,	-sez,	-ré,	-er.	-sez.
+4cc}	-té,	-lier,	-nier,	-nier,	-lier?	-qué,	-sez,	-ré,	-er.	-sez.
+*	*rp:e	*rp:e	*rp:e	*rp:e	*rp:e	*rp:e	*rp:e	*rp:e	*rp:e	*rp:e
+*	*rf:te	*rf:lje	*rf:nje	*rf:nje	*rf:lje	*rf:ke	*rf:se	*rf:ʁe	*rf:e	*rf:se
+*	*rs:a1	*rs:a2	*rs:a3	*rs:a3	*rs:a2	*rs:a4	*rs:a5	*rs:a6	*rs:a7	*rs:a5
 *	*refrain	*refrain	*refrain	*refrain	*refrain	*refrain	*refrain	*refrain	*refrain	*refrain
 *	*italic	*italic	*italic	*italic	*italic	*italic	*italic	*italic	*italic	*italic
-8dd	Dan-	Dan-	Dan-	Dan-	Dan-	Dan-	Dan-	Dan-	Dan-	Dan-
+{8dd	Dan-	Dan-	Dan-	Dan-	Dan-	Dan-	Dan-	Dan-	Dan-	Dan-
 8b-	-sons,	-sons,	-sons,	-sons,	-sons,	-sons,	-sons,	-sons,	-sons,	-sons,
 8a	ma	ma	ma	ma	ma	ma	ma	ma	ma	ma
 8f	ber-	ber-	ber-	ber-	ber-	ber-	ber-	ber-	ber-	ber-
@@ -39,13 +42,13 @@
 8cc	oh!	oh!	oh!	oh!	oh!	oh!	oh!	oh!	oh!	oh!
 !!LO:PB:g=original
 =2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
-4b-	gai!	gai!	gai!	gai!	gai!	gai!	gai!	gai!	gai!	gai!
+4b-}}	gai!	gai!	gai!	gai!	gai!	gai!	gai!	gai!	gai!	gai!
 *	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain
 *	*Xitalic	*Xitalic	*Xitalic	*Xitalic	*Xitalic	*Xitalic	*Xitalic	*Xitalic	*Xitalic	*Xitalic
 4r	.	.	.	.	.	.	.	.	.	.
 8r	.	.	.	.	.	.	.	.	.	.
 *	*pline:2	*pline:3	*pline:4	*pline:5	*pline:6	*pline:7	*pline:8	*pline:9	*pline:10	*pline:11
-8b-	J'en	J'ai	–Beau	Veux-	Je	–De	Faut	Pour	–Nen-	Faut
+{{8b-	J'en	J'ai	–Beau	Veux-	Je	–De	Faut	Pour	–Nen-	Faut
 !!!v2-3: 'té = été
 8cc	ai	'té	cor-	-tu	te	sous	al-	dans	-ni,	m'at-
 8dd	dé-	trou-	-don-	racc'm-	donn'-	mar-	-ler	un	un	-tendr[e]
@@ -55,6 +58,9 @@
 8dd	mon	cor-	cor-	mon	sou	ai-	le	ma-	pas	un[e]
 8b-	sou-	-don-	-don-	sou-	mar-	-z-as-	cu-	-ri-	as-	an-
 8g	-lier,	-nier,	-nier,	-lier?	-qué.	-sez.	-ré.	-er.	-sez.	-née.
+*	*	*	*	*	*	*	*	*	*	*rp:e
+*	*	*	*	*	*	*	*	*	*	*rf:ne
+*	*	*	*	*	*	*	*	*	*	*rs:a8
 *	*refrain	*refrain	*refrain	*refrain	*refrain	*refrain	*refrain	*refrain	*refrain	*refrain
 *	*italic	*italic	*italic	*italic	*italic	*italic	*italic	*italic	*italic	*italic
 !!LO:TX:a:i:t=rit.
@@ -62,12 +68,12 @@
 (8ccL	l'om-	l'om-	l'om-	l'om-	l'om-	l'om-	l'om-	l'om-	l'om-	l'om-
 8aJ)	.	.	.	.	.	.	.	.	.	.
 =4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
-8f	-bre.	-bre.	-bre.	-bre.	-bre.	-bre.	-bre.	-bre.	-bre.	-bre.
+8f}	-bre.	-bre.	-bre.	-bre.	-bre.	-bre.	-bre.	-bre.	-bre.	-bre.
 !!LO:PB:g=original
 =||	=||	=||	=||	=||	=||	=||	=||	=||	=||	=||
 =|:	=|:	=|:	=|:	=|:	=|:	=|:	=|:	=|:	=|:	=|:
 8r	.	.	.	.	.	.	.	.	.	.
-8f	Dan-	.	.	.	.	.	.	.	.	.
+{8f	Dan-	.	.	.	.	.	.	.	.	.
 8b-	-sons,	.	.	.	.	.	.	.	.	.
 8b-	ma	.	.	.	.	.	.	.	.	.
 8f	ber-	.	.	.	.	.	.	.	.	.
@@ -84,10 +90,10 @@
 8b-	en	.	.	.	.	.	.	.	.	.
 4a^	rom-	.	.	.	.	.	.	.	.	.
 =6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6
-8b-	-pe!	.	.	.	.	.	.	.	.	.
+8b-}}	-pe!	.	.	.	.	.	.	.	.	.
 *	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain
 *	*Xitalic	*Xitalic	*Xitalic	*Xitalic	*Xitalic	*Xitalic	*Xitalic	*Xitalic	*Xitalic	*Xitalic
 =:|	=:|	=:|	=:|	=:|	=:|	=:|	=:|	=:|	=:|	=:|
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
 !!!EED: Isaac Howie
-!!!EEV: 2025/Jul/22
+!!!EEV: 2025/Jul/29
