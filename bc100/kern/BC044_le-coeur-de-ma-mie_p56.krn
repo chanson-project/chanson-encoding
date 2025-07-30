@@ -1,7 +1,7 @@
 !!!id: BC044
 !!!page: 56
-!!!COM: Jaques-Dalcroze, E.
-!!!LYR: Jaques-Dalcroze, E.
+!!!COM: Jaques-Dalcroze, Émile
+!!!LYR: Jaques-Dalcroze, Émile
 !!!PTL@@FR: Les 100 plus belles chansons
 !!!OTL@@FR: Le coeur de ma mie
 !!!PUB:La Bonne Chanson, inc.
@@ -73,7 +73,7 @@
 ==	==	==	==	==	==
 *v	*v	*	*	*	*
 *G:		*	*	*	*
-*		*	*vv:1	*vv:2	*vv:3
+*		*	*v:1	*v:2	*v:3
 *		*	*pline:1	*pline:5	*pline:9
 {{4cc		mf	Si	Plus	Et
 !!LO:TX:a:B:t=COUPLETS
@@ -133,6 +133,6 @@
 =:||		=:||	=:||	=:||	=:||
 *-		*-	*-	*-	*-
 !!!EED: Isaac Howie
-!!!EEV: 2025/06/24
+!!!EEV: 2025/June/24
 !!!EED: Ève Poudrier
 !!!EEV: 2025/07/29
