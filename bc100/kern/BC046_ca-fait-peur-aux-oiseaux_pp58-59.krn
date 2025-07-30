@@ -1,26 +1,27 @@
 !!!id: BC046
 !!!page: 58-59
-!!!COM: Paroles et musique de Paul BERNARD
-!!!LYR: Paul BERNARD
+!!!COM: Bernard, Paul
+!!!LYR: Bernard, Paul
 !!!PTL@@FR: Les 100 plus belles chansons
 !!!OTL@@FR: Ça fait peur aux oiseaux
 !!!PUB: La Bonne Chanson, inc.
 !!!YEM: On ne peut reproduire, enregistrer ou diffuser en tout ou en partie le présent ouvrage, sous quelque procédé que ce soit, électronique, mécanique, photographique, sonore, magnétique ou autre, sans avoir obtenu au préalable l'autorisation écrite de l'éditrice.
 !!!PDT: 2011
 !!!SMA:2012 Bibliothèque nationale du Québec; Biblothèque nationale du Canada
-!!!AGN-Laforte: Chanson strophique, 3:8(7)
-!!!AGN-type: Oiseaux, nature?
+!!!AGN-Laforte: Chanson strophique (avec refrain intégré varié), 3:8(7)
+!!!AGN-type: Chanson d'amour
 !!!AGN-rime: croisées (ababcdcd)
+!!!LYR-elision: Medial "e" (f'rait)
 **kern	**dynam	**text	**text	**text
 *clefG2	*	*	*	*
 *k[b-e-]	*	*	*	*
-*D:	*	*	*	*
+*g:	*	*	*	*
+!!LO:TX:a:B:t=Andantino
 *M3/4	*	*	*	*
 *	*	*v:1	*v:2	*v:3
 *	*	*pline:1	*pline:9	*pline:17
 =1	=1	=1	=1	=1
-!!LO:TX:a:B:t=Andantino
-{{8dd	pp	Nes	Bon,	Vous
+{{8dd	pp	Ne	Bon,	Vous
 8dd	.	par-	vous	te-
 8dd	.	-lez	m'ap-	-nez
 8dd	.	pas	-pe-	ma
@@ -31,7 +32,7 @@
 8cc	.	-dre,	-le,	-dre,
 *	*	*rp:ɑ̃	*rp:ɛ	*rp:ɑ̃
 *	*	*rf:ɑ̃dʁ,ə	*rf:ɛl,ə	*rf:ɑ̃dʁ,ə
-*	*	*rs:a	*rs:e	*rs:a
+*	*	*rs:a1	*rs:e1	*rs:a1
 *	*	*pline:2	*pline:10	*pline:18
 8cc	.	Quand	Vrai-	Com-
 8cc	.	nous	-ment,	-ment
@@ -47,8 +48,8 @@
 =4	=4	=4	=4	=4
 2b-}	.	-lets;	-sprit;	-der?
 *	*	*rp:ɛ	*rp:i	*rp:e
-*	*	*rf:ɛ	*rf:ʁi	*rf:e
-*	*	*rs:b	*rs:f	*rs:g
+*	*	*rf:lɛ	*rf:ʁi	*rf:de
+*	*	*rs:b1-	*rs:f1-	*rs:g1-
 4r	.	.	.	.
 =5	=5	=5	=5	=5
 *	*	*pline:3	*pline:11	*pline:19
@@ -64,7 +65,7 @@
 8a	.	-dre,	-le...	-dre,
 *	*	*rp:ɑ̃	*rp:ɛ	*rp:ɑ̃
 *	*	*rf:ɑ̃dʁ,ə	*rf:ɛl,ə	*rf:ɑ̃dʁ,ə
-*	*	*rs:a	*rs:e	*rs:a
+*	*	*rs:a1	*rs:e1	*rs:a1
 *	*	*pline:4	*pline:12	*pline:20
 8a	.	Et	Ne	Vous
 8a	.	s'en-	fai-	ac-
@@ -79,8 +80,8 @@
 =8	=8	=8	=8	=8
 2g}}	.	-quets.	bruit.	-ser.
 *	*	*rp:ɛ	*rp:i	*rp:e
-*	*	*rf:ɛ	*rf:ʁɥi	*rf:e
-*	*	*rs:b	*rs:f	*rs:g
+*	*	*rf:kɛ	*rf:ʁɥi	*rf:ze
+*	*	*rs:b2-	*rs:f2-	*rs:g2-
 4r	.	.	.	.
 !!LO:PB:g=original
 =9	=9	=9	=9	=9
@@ -97,7 +98,7 @@
 4g}	.	-re,	-dre,	-te,
 *	*	*rp:i	*rp:ɑ̃	*rp:i
 *	*	*rf:iʁ,ə	*rf:ɑ̃dʁ,ə	*rf:it,ə
-*	*	*rs:c	*rs:a	*rs:h
+*	*	*rs:c1	*rs:a1	*rs:c2
 4r	.	.	.	.
 =11	=11	=11	=11	=11
 *	*	*pline:5r	*pline:13r	*pline:21r
@@ -112,6 +113,9 @@
 (8ddL	.	di-	pen-	vi-
 8ccJ)	.	.	.	.
 4b-}	.	-re,	-dre,	-te,
+*	*	*rp:i	*rp:ɑ̃	*rp:i
+*	*	*rf:iʁ,ə	*rf:ɑ̃dʁ,ə	*rf:it,ə
+*	*	*rs:c1	*rs:a1	*rs:c2
 4r	.	.	.	.
 =13	=13	=13	=13	=13
 *	*	*pline:6	*pline:14	*pline:22
@@ -122,12 +126,12 @@
 8cc	.	ces	ces	aux
 8dd	.	grands	or-	pi-
 =14	=14	=14	=14	=14
-(2.dd	.	mots?	-meaux!...	-peaux.
+[2.dd	.	mots?	-meaux!...	-peaux.
 *	*	*rp:o	*rp:o	*rp:o
-*	*	*rf:o	*rf:o	*rf:o
-*	*	*rs:d	*rs:d	*rs:d
+*	*	*rf:mo	*rf:mo	*rf:po
+*	*	*rs:d1-	*rs:d1-	*rs:d
 =15	=15	=15	=15	=15
-4dd)}}	.	.	.	.
+4dd]}}	.	.	.	.
 4r	.	.	.	.
 4r	.	.	.	.
 !!LO:PB:g=original
@@ -144,9 +148,11 @@
 4dd	.	-li-	-san-	sui-
 8cc	.	-re,	-dre,	-te,
 *	*	*rp:i	*rp:ɑ̃	*rp:i
-*	*	*rf:iʁ,ə	*rf:ɑ̃dʁ,ə	*rf:ɥit,ə
-*	*	*rs:c	*rs:a	*rs:h
-*	*	*pline:8	*pline:16	*pline:24=8
+*	*	*rf:iʁ,ə	*rf:ɑ̃dʁ,ə	*rf:it,ə
+*	*	*rs:c1	*rs:a1	*rs:c2
+*	*	*pline:8	*pline:16=8v	*pline:24=8
+*	*	*refrain	*refrain	*refrain
+*	*	*italic	*italic	*italic
 8cc	.	Car	Que	Car
 8cc	.	ça	ça	ça
 8dd	.	fait	f'rait	fait
@@ -157,9 +163,11 @@
 4a	.	oi-	oi-	oi-
 =19	=19	=19	=19	=19
 2b-}	.	-seaux;	-seaux,	-seaux,
+*	*	*Xitalic	*Xitalic	*Xitalic
+*	*	*Xrefrain	*Xrefrain	*Xrefrain
 *	*	*rp:o	*rp:o	*rp:o
-*	*	*rf:o	*rf:o	*rf:o
-*	*	*rs:d	*rs:d	*rs:d
+*	*	*rf:zo	*rf:zo	*rf:zo
+*	*	*rs:d2-	*rs:d2-	*rs:d2-
 4r	.	.	.	.
 =20	=20	=20	=20	=20
 *	*	*pline:7r	*pline:15r	*pline:23r
@@ -173,7 +181,12 @@
 =21	=21	=21	=21	=21
 4b-	.	-li-	-san-	sui-
 8a	.	-re,	-dre,	-te,
-*	*	*pline:8r	*pline:16	*pline:24r=8
+*	*	*rp:i	*rp:ɑ̃	*rp:i
+*	*	*rf:iʁ,ə	*rf:ɑ̃dʁ,ə	*rf:it,ə
+*	*	*rs:c1	*rs:a1	*rs:c2
+*	*	*pline:8r	*pline:16=8mr	*pline:24r=8
+*	*	*refrain	*refrain	*refrain
+*	*	*italic	*italic	*italic
 8a	.	Car	Que	Car
 8a	.	ça	ça	ça
 8b-	.	fait	f'rait	fait
@@ -182,11 +195,18 @@
 4g	.	aux	aux	aux
 4f#	.	oi-	oi-	oi-
 =23	=23	=23	=23	=23
-(2.g	.	-seaux!	-seaux.	-seaux.
+[2.g	.	-seaux!	-seaux.	-seaux.
+*	*	*rp:o	*rp:o	*rp:o
+*	*	*rf:zo	*rf:zo	*rf:zo
+*	*	*rs:d2-	*rs:d2-	*rs:d2-
+*	*	*Xitalic	*Xitalic	*Xitalic
+*	*	*Xrefrain	*Xrefrain	*Xrefrain
 =24	=24	=24	=24	=24
-2g)}}	.	.	.	.
+2g]}}	.	.	.	.
 4r	.	.	.	.
 ==	==	==	==	==
 *-	*-	*-	*-	*-
 !!!EED: Isaac Howie
-!!!EEV: 2025/July/01
+!!!EEV: 2025/07/01
+!!!EED: Ève Poudrier
+!!!EEV: 2025/07/30
