@@ -1,24 +1,26 @@
 !!!id: BC048
 !!!page: 61
-!!!COM: Folklore canadien
-!!!LYR:
+!!!COM: Anonymous (Folklore canadien)
 !!!PTL@@FR: Les 100 plus belles chansons
 !!!OTL@@FR: Mon merle
 !!!PUB: La Bonne Chanson, inc.
 !!!YEM: On ne peut reproduire, enregistrer ou diffuser en tout ou en partie le présent ouvrage, sous quelque procédé que ce soit, électronique, mécanique, photographique, sonore, magnétique ou autre, sans avoir obtenu au préalable l'autorisation écrite de l'éditrice.
 !!!PDT: 2011
 !!!SMA:2012 Bibliothèque nationale du Québec; Biblothèque nationale du Canada
-!!!AGN-Laforte: Chanson enumeratif (avec refrain), 9:1(7), R1(8)
-!!!AGN-type: oiseaux?
+!!!AGN-Laforte: Chanson enumerative (avec refrain), 9:1(7+8)
+!!!AGN-type: Oiseaux (merle)
 !!!AGN-rime: none
+!!!LYR-elision: Final "e" (merl', un', têt', ail', ventr', patt'); medial "e" (têt's, ail's, ventr's, patt's)
+!!!RNB: (*) À reprendre autant de fois que l'exigent les paroles. NOTE: Après avoir chanté la partie du couplet à gauche, on continue à droite et on chante en remontant jusqu'au refrain.
+!!!RNB-2: Dal segno symbols replaced by reprise markings.
 **kern	**text	**text	**text	**text	**text	**text	**text	**text	**text
 *clefG2	*	*	*	*	*	*	*	*	*
 *k[b-e-]	*	*	*	*	*	*	*	*	*
 *D:	*	*	*	*	*	*	*	*	*
 *M2/4	*	*	*	*	*	*	*	*	*
-*	*vv:1	*vv:2	*vv:3	*vv:4	*vv:5	*vv:6	*vv:7	*vv:8	*vv:9
-*	*pline:1	*pline:2	*pline:3	*pline:4	*pline:5	*pline:6	*pline:7	*pline:8	*pline:9
-!!LO:TX:a:t=[segno]
+*	*v:1	*v:2	*v:3	*v:4	*v:5	*v:6	*v:7	*v:8	*v:9
+*	*pline:1Ha	*pline:2Ha	*pline:3Ha	*pline:4Ha	*pline:5Ha	*pline:6Ha	*pline:7Ha	*pline:8Ha	*pline:9Ha
+=||:	=||:	=||:	=||:	=||:	=||:	=||:	=||:	=||:	=||:
 {{8d	Mon	Mon	Mon	Mon	Mon	Mon	Mon	Mon	Mon
 =1	=1	=1	=1	=1	=1	=1	=1	=1	=1
 8g	merl[e]	merl[e]	merl[e]	merl[e]	merl[e]	merl[e]	merl[e]	merl[e]	merl[e]
@@ -27,13 +29,9 @@
 8g	-du	-du	-du	-du	-du	-du	-du	-du	-du
 8a	son	son	sa	son	son	son	son	ses	sa
 =2	=2	=2	=2	=2	=2	=2	=2	=2	=2
-4b-}	bec,	oeil,	têt',	cou,	dos,	ail',	ventr',	patt's,	queue,
-!!!v3: têt' = tête
-!!!v6: ail' = aile
-!!!v7: ventr' = ventre
-!!!v8: patt's = pattes
-8r	.	.	.	.	.	.	.	.	.
-*	*pline:1	*pline:2	*pline:3	*pline:4	*pline:5	*pline:6	*pline:7	*pline:8	*pline:9
+4b-	bec,	oeil,	têt',	cou,	dos,	ail',	ventr',	patt's,	queue,
+8r}	.	.	.	.	.	.	.	.	.
+*	*pline:1Har	*pline:2Har	*pline:3Har	*pline:4Har	*pline:5Har	*pline:6Har	*pline:7Har	*pline:8Har	*pline:9Har
 {8b-	Mon	Mon	Mon	Mon	Mon	Mon	Mon	Mon	Mon
 !!LO:PB:g=original
 =3	=3	=3	=3	=3	=3	=3	=3	=3	=3
@@ -43,35 +41,35 @@
 8a	-du	-du	-du	-du	-du	-du	-du	-du	-du
 8f#	son	son	sa	son	son	son	son	ses	sa
 =4	=4	=4	=4	=4	=4	=4	=4	=4	=4
-4d}}	bec.	oeil.	têt'.	cou.	dos.	ail'.	ventr'.	patt's.	queue.
-8r	.	.	.	.	.	.	.	.	.
+4d	bec.	oeil.	têt'.	cou.	dos.	ail'.	ventr'.	patt's.	queue.
+8r}}	.	.	.	.	.	.	.	.	.
 =::	=::	=::	=::	=::	=::	=::	=::	=::	=::
-*	*refrain	*refrain	*refrain	*refrain	*refrain	*refrain	*refrain	*refrain	*refrain
-{{8dd	Un	Un	Un	Un	Un	Un	Un	Un	Un
-!!!Note in original: *A reprendre autant de fois que l'exigent les paroles.
+*	*pline:1Hb	*pline:2Hb	*pline:3Hb	*pline:4Hb	*pline:5Hb	*pline:6Hb	*pline:7Hb	*pline:8Hb	*pline:9Hb
+!!LO:TX:a:t=(*)
+{8dd	Un	Un	Un'	Un	Un	Un'	Un	Un'	Un'
+=5||	=5||	=5||	=5||	=5||	=5||	=5||	=5||	=5||	=5||
 *M3/4	*	*	*	*	*	*	*	*	*
-=5	=5	=5	=5	=5	=5	=5	=5	=5	=5
 8dd	bec,	oeil,	têt',	cou,	dos,	ail',	ventr',	patt',	queue,
 8dd	deux	deux	deux	deux	deux	deux	deux	deux	deux
 8dd	becs,	yeux,	têt's,	cous,	dos,	ail's,	ventr's,	patt's,	queues,
 8dd	trois	trois	trois	trois	trois	trois	trois	trois	trois
-8dd	bec,	yeux,	têt's,	cous,	dos,	ail's,	ventr's,	patt's,	queues,
+8dd	becs,	yeux,	têt's,	cous,	dos,	ail's,	ventr's,	patt's,	queues,
 =::	=::	=::	=::	=::	=::	=::	=::	=::	=::
 8cc	ah!	.	.	.	.	.	.	.	.
 !!LO:PB:g=original
 =6	=6	=6	=6	=6	=6	=6	=6	=6	=6
 2cc}	oh!	.	.	.	.	.	.	.	.
 =||	=||	=||	=||	=||	=||	=||	=||	=||	=||
+*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain
 !!LO:TX:a:B:t=REFRAIN
-{8b-	Com-	.	.	.	.	.	.	.	.
+{{8b-	Com-	.	.	.	.	.	.	.	.
 16b-	-ment	.	.	.	.	.	.	.	.
 16b-	veux-	.	.	.	.	.	.	.	.
-*M2/4	*	*	*	*	*	*	*	*	*
 =7||	=7||	=7||	=7||	=7||	=7||	=7||	=7||	=7||	=7||
+*M2/4	*	*	*	*	*	*	*	*	*
 8a	-tu,	.	.	.	.	.	.	.	.
 8a	mon	.	.	.	.	.	.	.	.
 8d	merl',	.	.	.	.	.	.	.	.
-!!!v1: merl' = merle
 *	*bis	*	*	*	*	*	*	*	*
 8d	mon	.	.	.	.	.	.	.	.
 !!LO:PB:g=original
@@ -88,12 +86,11 @@
 *	*Xbis	*	*	*	*	*	*	*	*
 8d	chan-	.	.	.	.	.	.	.	.
 =10	=10	=10	=10	=10	=10	=10	=10	=10	=10
-4g}}	-ter?	.	.	.	.	.	.	.	.
-*	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain
-8r	.	.	.	.	.	.	.	.	.
-!!LO:TX:a:t=[segno]
-!!!Note in original: Apres avoir chante la partie du couplet a gauche, on continue a droite et on chante en remontant jusqu'au refrain.
-==	==	==	==	==	==	==	==	==	==
+4g	-ter?	.	.	.	.	.	.	.	.
+8r}}	.	.	.	.	.	.	.	.	.
+=:||	=:||	=:||	=:||	=:||	=:||	=:||	=:||	=:||	=:||
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-
 !!!EED: Isaac Howie
-!!!EEV: 2025/July/01
+!!!EEV: 2025/07/01
+!!!EED: Ève Poudrier
+!!!EEV: 2025/07/30
