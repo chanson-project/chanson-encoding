@@ -1,290 +1,212 @@
-!!!id: BC047
-!!!page: 60
-!!!COM: Beaudry, Roméo
-!!!LYR: Beaudry, Roméo
+!!!id: BC046
+!!!page: 58-59
+!!!COM: Bernard, Paul
+!!!LYR: Bernard, Paul
 !!!PTL@@FR: Les 100 plus belles chansons
-!!!OTL@@FR: Alouette n'aie pas peur de moi
+!!!OTL@@FR: Ça fait peur aux oiseaux
 !!!PUB: La Bonne Chanson, inc.
 !!!YEM: On ne peut reproduire, enregistrer ou diffuser en tout ou en partie le présent ouvrage, sous quelque procédé que ce soit, électronique, mécanique, photographique, sonore, magnétique ou autre, sans avoir obtenu au préalable l'autorisation écrite de l'éditrice.
 !!!PDT: 2011
 !!!SMA:2012 Bibliothèque nationale du Québec; Biblothèque nationale du Canada
-!!!AGN-Laforte: Chanson strophique (avec refrain), 2:6(8*4/7*2), R:9(9+11;14/7/11;9+11
-!!!AGN-type: Oiseaux (alouette)
-!!!AGN-rime: couplet, croisées (ababab); refrain, mixtes, croisées/suivies (ababxxaa)
-**kern	**text	**text
-*clefG2	*	*
-*k[b-e-a-]	*	*
-*E-:	*	*
-!!LO:TX:a:B:t=Moderato
-*M2/2	*	*
-*met(c|)	*	*
-*	*v:1	*v:2
-*	*pline:1	*pline:7
-=1	=1	=1
-{{4ee-	On	Mê-
-8ff	t'en	-me
-8ee-	veut	des
-4b-	donc,	en-
-4b-	pauvr[e]	-fants
-=2	=2	=2
-4cc	a-	au
-4cc	-lou-	coeur
-4g	-et	ten-
-4g	-te,	-dre
-*	*rp:ɛ	*rp:ɑ̃
-*	*rf:ɛt,ə	*rf:ɑ̃dʁ,ə
-*	*rs:a1	*rs:c1
-=3	=3	=3
-*	*pline:2	*pline:8
-4g	Toi,	Par-
-8a-	le	-lent
-8a	doux	de
-4b-	chan-	te
-4b-	-teur	mettr[e]
+!!!AGN-Laforte: Chanson strophique (avec refrain intégré varié), 3:8(7)
+!!!AGN-type: Chanson d'amour
+!!!AGN-rime: croisées (ababcdcd)
+!!!LYR-elision: Medial "e" (f'rait)
+**kern	**dynam	**text	**text	**text
+*clefG2	*	*	*	*
+*k[b-e-]	*	*	*	*
+*g:	*	*	*	*
+!!LO:TX:a:B:t=Andantino
+*M3/4	*	*	*	*
+*	*	*v:1	*v:2	*v:3
+*	*	*pline:1	*pline:9	*pline:17
+=1	=1	=1	=1	=1
+{{8dd	pp	Ne	Bon,	Vous
+8dd	.	par-	vous	te-
+8dd	.	-lez	m'ap-	-nez
+8dd	.	pas	-pe-	ma
+8dd	.	tant,	-lez	main,
+8ee-	.	Li-	cru-	Li-
+=2	=2	=2	=2	=2
+4dd	.	-san-	-el-	-san-
+8cc	.	-dre,	-le,	-dre,
+*	*	*rp:ɑ̃	*rp:ɛ	*rp:ɑ̃
+*	*	*rf:ɑ̃dʁ,ə	*rf:ɛl,ə	*rf:ɑ̃dʁ,ə
+*	*	*rs:a1	*rs:e1	*rs:a1
+*	*	*pline:2	*pline:10	*pline:18
+8cc	.	Quand	Vrai-	Com-
+8cc	.	nous	-ment,	-ment
+8dd	.	ten-	vous	puis-
 !!LO:PB:g=original
-=4	=4	=4
-4g	de	en
-4g	nos	mor-
-2e-}}	bois,	-ceaux,
-*	*rp:ɑ	*rp:o
-*	*rf:wɑ	*rf:so
-*	*rs:b1-	*rs:d1-
-=5	=5	=5
-*	*pline:3	*pline:9
-{{4ee-	Car	Et
-8ff	cha-	l'on
-8ee-	-que	di-
-4b-	fois	-rait
-4b-	qu'on	à
-=6	=6	=6
-4cc	fait	les
-4cc	la	en-
-4dd	fê-	-ten-
-4dd	-te	-dre,
-*	*rp:ɛ	*rp:ɑ̃
-*	*rf:ɛt,ə	*rf:ɑ̃dʁ,ə
-*	*rs:a1	*rs:c1
+=3	=3	=3	=3	=3
+8cc	.	-dons	per-	-je
+8r	.	.	.	.
+8b-	.	nos	-dez	vous
+8r	.	.	.	.
+8a	.	fi-	l'e-	ai-
+8r	.	.	.	.
+=4	=4	=4	=4	=4
+2b-}	.	-lets;	-sprit;	-der?
+*	*	*rp:ɛ	*rp:i	*rp:e
+*	*	*rf:lɛ	*rf:ʁi	*rf:de
+*	*	*rs:b1-	*rs:f1-	*rs:g1-
+4r	.	.	.	.
+=5	=5	=5	=5	=5
+*	*	*pline:3	*pline:11	*pline:19
+{8b-	.	Les	Vous	Il
+8b-	.	oi-	me	fau-
+8b-	.	-seaux	cro-	-drait,
+8b-	.	vont	-yez	à
+8b-	.	vous	in-	vous
+8cc	.	en-	-fi-	en-
 !!LO:PB:g=original
-=7	=7	=7
-*	*pline:4	*pline:10
-*B-:	*	*
-4f	On	Qu'ils
-8b-	te	sont
-8dd	mas-	de-
-4ff	-sacr[e]	-ve-
-4ff	à	-nus
-=8	=8	=8
-4f	plei-	des
-4f	-ne	hé-
-2b-;}}	voix.	-ros;
-*	*rp:ɑ	*rp:o
-*	*rf:wɑ	*rf:ʁo
-*	*rs:b1-	*rs:d2-
-=9	=9	=9
-*	*pline:5	*pline:11
-*E-:	*	*
-{4cc	Viens,	Pour-
-8a-	ma	-quoi
-8g	gen-	donc
-4f	-till[e]	ain-
-8g	a-	-si
-8a-	-lou-	s'en
-=10	=10	=10
-2b-	-et-	pren-
-2g	-te,	-dre
-*	*rp:ɛ	*rp:ɑ̃
-*	*rf:ɛt,ə	*rf:ɑ̃dʁ,ə
-*	*rs:a1	*rs:c1
+=6	=6	=6	=6	=6
+4b-	.	-ten-	-dè-	-ten-
+8a	.	-dre,	-le...	-dre,
+*	*	*rp:ɑ̃	*rp:ɛ	*rp:ɑ̃
+*	*	*rf:ɑ̃dʁ,ə	*rf:ɛl,ə	*rf:ɑ̃dʁ,ə
+*	*	*rs:a1	*rs:e1	*rs:a1
+*	*	*pline:4	*pline:12	*pline:20
+8a	.	Et	Ne	Vous
+8a	.	s'en-	fai-	ac-
+8b-	.	-fui-	-tes	-cor-
+=7	=7	=7	=7	=7
+8a	.	-ront	pas	-der
+8r	.	.	.	.
+8g	.	des	tant	un
+8r	.	.	.	.
+8f#	.	bos-	de	bai-
+8r	.	.	.	.
+=8	=8	=8	=8	=8
+2g}}	.	-quets.	bruit.	-ser.
+*	*	*rp:ɛ	*rp:i	*rp:e
+*	*	*rf:kɛ	*rf:ʁɥi	*rf:ze
+*	*	*rs:b2-	*rs:f2-	*rs:g2-
+4r	.	.	.	.
 !!LO:PB:g=original
-=11	=11	=11
-*	*pline:6	*pline:12
-4a-	Viens	À
-8g	de	de
-8f	po-	si
-4b-	-ser	gen-
-8g	près	-tils
-8f	de	oi-
-=12	=12	=12
-[2e-	moi!	-seaux?
-*	*rp:ɑ	*rp:o
-*	*rf:wɑ	*rf:zo
-*	*rs:b1-	*rs:d3-
-4e-]	.	.
-4r}	.	.
-=13||	=13||	=13||
-*>Refrain	*>Refrain	*>Refrain
-*	*pline:R1	*
-!!LO:TX:a:B:t=REFRAIN
-{{4.e-	A-	.
-8f	-lou-	.
-4g	-et-	.
-4g	-te,	.
-=14	=14	=14
-8f	n'aie	.
-8g	pas	.
-8a-	peur	.
-8f	de	.
-2b-}	moi,	.
-*	*rp:a	*
-*	*rf:wa	*
-*	*rs:Ra1-=b1-	*
+=9	=9	=9	=9	=9
+*	*	*pline:5	*pline:13	*pline:21
+{{8f#	<	Ai-	Quoi!	Ah!
+8g	.	-mez-	vous	pre-
+8a	.	-moi	par-	-nez-
+8cc	.	sans	-lez	-en
+8b-	.	me	de	deux
+8a	.	le	vous	bien
+=10	=10	=10	=10	=10
+(8b-L	.	di-	pen-	vi-
+8a)J	.	.	.	.
+4g}	.	-re,	-dre,	-te,
+*	*	*rp:i	*rp:ɑ̃	*rp:i
+*	*	*rf:iʁ,ə	*rf:ɑ̃dʁ,ə	*rf:it,ə
+*	*	*rs:c1	*rs:a1	*rs:c2
+4r	.	.	.	.
+=11	=11	=11	=11	=11
+*	*	*pline:5r	*pline:13r	*pline:21r
+{8a	f	Ai-	Quoi!	Ah!
+8b-	.	-mez-	vous	pre-
+8cc	.	-moi	par-	-nez-
+8ee-	.	sans	-lez	-en
+8dd	.	me	de	deux
+8cc	.	le	vous	bien
 !!LO:PB:g=original
-=15	=15	=15
-*	*pline:R2	*
-{8cc	Viens	.
-8ee-	chan-	.
-8dd	-ter	.
-8cc	en-	.
-8b-	-co-	.
-8g	-re	.
-8e-	tes	.
-8f	re-	.
-=16	=16	=16
-4g	-frains	.
-4e-	jo-	.
-2f}}	-yeux,	.
-*	*rp:ø	*
-*	*rf:jø	*
-*	*rs:Rb1-	*
-=17	=17	=17
-*	*pline:R3	*
-{{4.e-	A-	.
-8f	-lou-	.
-4g	-et-	.
-4g	-te,	.
-=18	=18	=18
-8f	j'ai	.
-8g	bâ-	.
-8a-	-ti	.
-8f	pour	.
-2b-}	toi	.
-*	*rp:a	*
-*	*rf:wa	*
-*	*rs:Ra1-=b1-	*
+=12	=12	=12	=12	=12
+(8ddL	.	di-	pen-	vi-
+8ccJ)	.	.	.	.
+4b-}	.	-re,	-dre,	-te,
+*	*	*rp:i	*rp:ɑ̃	*rp:i
+*	*	*rf:iʁ,ə	*rf:ɑ̃dʁ,ə	*rf:it,ə
+*	*	*rs:c1	*rs:a1	*rs:c2
+4r	.	.	.	.
+=13	=13	=13	=13	=13
+*	*	*pline:6	*pline:14	*pline:22
+{8b-	.	A	Aux	Et
+8b-	.	quoi	bran-	re-
+8b-	.	bon	-ches	-tour-
+8cc	.	tous	de	-nez
+8cc	.	ces	ces	aux
+8dd	.	grands	or-	pi-
+=14	=14	=14	=14	=14
+[2.dd	.	mots?	-meaux!...	-peaux.
+*	*	*rp:o	*rp:o	*rp:o
+*	*	*rf:mo	*rf:mo	*rf:po
+*	*	*rs:d1-	*rs:d1-	*rs:d
+=15	=15	=15	=15	=15
+4dd]}}	.	.	.	.
+4r	.	.	.	.
+4r	.	.	.	.
 !!LO:PB:g=original
-=19	=19	=19
-*	*pline:R4	*
-{8cc	Près	.
-8ee-	de	.
-8dd	ma	.
-8cc	fe-	.
-8b-	-nêtr[e]	.
-8g	un	.
-8f	nid	.
-8e-	doux	.
-=20	=20	=20
-4cc	et	.
-4d	soy-	.
-2e-}}	-eux;	.
-*	*rp:ø	*
-*	*rf:jø	*
-*	*rs:Rb1-	*
-=21	=21	=21
-*	*pline:R5	*
-*B-:	*	*
-{{4.b-	A-	.
-8b-	-lou-	.
-4b-	-et-	.
-4f	-te,	.
+=16	=16	=16	=16	=16
+*	*	*pline:7	*pline:15	*pline:23
+!!LO:TX:a:i:t=simplement
+{{8dd	pp	Cal-	Mais	Mieux
+8dd	.	-mez	vous	vaut
+8dd	.	ce	sa-	en
+8dd	.	bruy-	-vez	fi-
+8dd	.	-ant	bien,	-nir
+8ee-	.	dé-	Li-	de
+=17	=17	=17	=17	=17
+4dd	.	-li-	-san-	sui-
+8cc	.	-re,	-dre,	-te,
+*	*	*rp:i	*rp:ɑ̃	*rp:i
+*	*	*rf:iʁ,ə	*rf:ɑ̃dʁ,ə	*rf:it,ə
+*	*	*rs:c1	*rs:a1	*rs:c2
+*	*	*pline:8	*pline:16=8v	*pline:24=8
+*	*	*refrain	*refrain	*refrain
+*	*	*italic	*italic	*italic
+8cc	.	Car	Que	Car
+8cc	.	ça	ça	ça
+8dd	.	fait	f'rait	fait
 !!LO:PB:g=original
-=22	=22	=22
-*	*bis	*
-4.b-	A-	.
-8b-	-lou-	.
-4b-	-et-	.
-4g	-te,	.
-*	*rp:ɛ	*
-*	*rf:ɛt,ə	*
-*	*rs:Rc	*
-*	*Xbis	*
-=23	=23	=23
-*	*pline:R6	*
-8b-	je	.
-8b-	ne	.
-8b-	te	.
-8b-	plu-	.
-4b-	-me-	.
-8e	-rai	.
-8f	ni	.
-=24	=24	=24
-4.b-	cou,	.
-8b-	ni	.
-4b-	tê-	.
-4g}	-te,	.
-*	*rp:ɛ:	*
-*	*rf:ɛ:t,ə	*
-*	*rs:Rc1=a1	*
-*	*pline:R7	*
-=25	=25	=25
-{4.b-	Ni	.
-8b-	les	.
-4b-	pat-	.
-4f	-tes,	.
+=18	=18	=18	=18	=18
+4cc	.	peur	peur	peur
+4b-	.	aux	aux	aux
+4a	.	oi-	oi-	oi-
+=19	=19	=19	=19	=19
+2b-}	.	-seaux;	-seaux,	-seaux,
+*	*	*Xitalic	*Xitalic	*Xitalic
+*	*	*Xrefrain	*Xrefrain	*Xrefrain
+*	*	*rp:o	*rp:o	*rp:o
+*	*	*rf:zo	*rf:zo	*rf:zo
+*	*	*rs:d2-	*rs:d2-	*rs:d2-
+4r	.	.	.	.
+=20	=20	=20	=20	=20
+*	*	*pline:7r	*pline:15r	*pline:23r
+{8b-	.	Cal-	Mais	Mieux
+8b-	.	-mez	vous	vaut
+8b-	.	ce	sa-	en
+8b-	.	bruy-	-vez	fi-
+8b-	.	-ant	bien,	-nir
+8cc	.	dé-	Li-	de
 !!LO:PB:g=original
-=26	=26	=26
-4.b-	ni	.
-8b-	les	.
-4b-	ai-	.
-4g	-les,	.
-*	*rp:ɛ	*
-*	*rf:ɛl,ə	*
-*	*rs:Rd1	*
-=27	=27	=27
-*	*pline:R8	*
-8b-	Ni	.
-8b-	ta	.
-8b-	jo-	.
-8b-	-lie	.
-8b-	pe-	.
-8f	-ti-	.
-8e	-te	.
-8f	queue	.
-=28	=28	=28
-4b-	en	.
-4b-	den-	.
-4b-	-tel-	.
-4g}}	-les,	.
-*	*rp:ɛ	*
-*	*rf:ɛl,ə	*
-*	*rs:Rd1	*
-=29	=29	=29
-*	*pline:R1r	*
-*E-:	*	*
-{{4.e-	A-	.
-4f	-lou-	.
-4g	-et-	.
-4g	-te,	.
-!!LO:PB:g=original
-=30	=30	=30
-8f	n'aie	.
-8g	pas	.
-8a-	peur	.
-8f	de	.
-2b-}	moi,	.
-*	*rp:a	*
-*	*rf:wa	*
-*	*rs:Ra1-=b1-	*
-=31	=31	=31
-*	*pline:R9	*
-{8cc	Viens	.
-8ee-	me	.
-8dd	fre-	.
-8cc	-don-	.
-8b-	-ner	.
-8g	tes	.
-8a-	chan-	.
-8b-	-sons	.
-=32	=32	=32
-4cc	d'au-	.
-*^	*	*
-4dd	4d	-tre-	.
-4ee-	4e-	-fois.	.
-*	*	*rp:a	*
-*	*	*rf:wa	*
-*	*	*rs:Ra1-=b1-	*
-4r}}	4ryy	.	.
-*v	*v	*	*
-==	==	==
-*-	*-	*-
+=21	=21	=21	=21	=21
+4b-	.	-li-	-san-	sui-
+8a	.	-re,	-dre,	-te,
+*	*	*rp:i	*rp:ɑ̃	*rp:i
+*	*	*rf:iʁ,ə	*rf:ɑ̃dʁ,ə	*rf:it,ə
+*	*	*rs:c1	*rs:a1	*rs:c2
+*	*	*pline:8r	*pline:16=8mr	*pline:24r=8
+*	*	*refrain	*refrain	*refrain
+*	*	*italic	*italic	*italic
+8a	.	Car	Que	Car
+8a	.	ça	ça	ça
+8b-	.	fait	f'rait	fait
+=22	=22	=22	=22	=22
+4a	.	peur	peur	peur
+4g	.	aux	aux	aux
+4f#	.	oi-	oi-	oi-
+=23	=23	=23	=23	=23
+[2.g	.	-seaux!	-seaux.	-seaux.
+*	*	*rp:o	*rp:o	*rp:o
+*	*	*rf:zo	*rf:zo	*rf:zo
+*	*	*rs:d2-	*rs:d2-	*rs:d2-
+*	*	*Xitalic	*Xitalic	*Xitalic
+*	*	*Xrefrain	*Xrefrain	*Xrefrain
+=24	=24	=24	=24	=24
+2g]}}	.	.	.	.
+4r	.	.	.	.
+==	==	==	==	==
+*-	*-	*-	*-	*-
 !!!EED: Isaac Howie
-!!!EEV: 2025/July/01
+!!!EEV: 2025/07/01
+!!!EED: Ève Poudrier
+!!!EEV: 2025/07/30
