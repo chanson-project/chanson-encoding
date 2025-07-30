@@ -1,26 +1,26 @@
 !!!id: BC047
 !!!page: 60
-!!!COM: Paroles et musique de R. BEAUDRY
-!!!LYR: R. BEAUDRY
+!!!COM: Beaudry, Roméo
+!!!LYR: Beaudry, Roméo
 !!!PTL@@FR: Les 100 plus belles chansons
 !!!OTL@@FR: Alouette n'aie pas peur de moi
 !!!PUB: La Bonne Chanson, inc.
 !!!YEM: On ne peut reproduire, enregistrer ou diffuser en tout ou en partie le présent ouvrage, sous quelque procédé que ce soit, électronique, mécanique, photographique, sonore, magnétique ou autre, sans avoir obtenu au préalable l'autorisation écrite de l'éditrice.
 !!!PDT: 2011
 !!!SMA:2012 Bibliothèque nationale du Québec; Biblothèque nationale du Canada
-!!!AGN-Laforte: Chanson strophique (avec refrain), 2:6(8), R9
-!!!AGN-type: Alouette? oiseaux?
-!!!AGN-rime: croisées (ababab)
+!!!AGN-Laforte: Chanson strophique (avec refrain), 2:6(8*4/7*2), R:9(9+11;14/7/11;9+11
+!!!AGN-type: Oiseaux (alouette)
+!!!AGN-rime: couplet, croisées (ababab); refrain, mixtes, croisées/suivies (ababxxaa)
 **kern	**text	**text
 *clefG2	*	*
 *k[b-e-a-]	*	*
-*D:	*	*
+*E-:	*	*
+!!LO:TX:a:B:t=Moderato
 *M2/2	*	*
 *met(c|)	*	*
 *	*v:1	*v:2
 *	*pline:1	*pline:7
 =1	=1	=1
-!!LO:TX:a:B:t=Moderato
 {{4ee-	On	Mê-
 8ff	t'en	-me
 8ee-	veut	des
@@ -33,7 +33,7 @@
 4g	-te,	-dre
 *	*rp:ɛ	*rp:ɑ̃
 *	*rf:ɛt,ə	*rf:ɑ̃dʁ,ə
-*	*rs:a	*rs:c
+*	*rs:a1	*rs:c1
 =3	=3	=3
 *	*pline:2	*pline:8
 4g	Toi,	Par-
@@ -45,13 +45,13 @@
 =4	=4	=4
 4g	de	en
 4g	nos	mor-
-2e-}	bois,	-ceaux,
+2e-}}	bois,	-ceaux,
 *	*rp:ɑ	*rp:o
-*	*rf:wɑ	*rf:o
-*	*rs:b	*rs:d
+*	*rf:wɑ	*rf:so
+*	*rs:b1-	*rs:d1-
 =5	=5	=5
 *	*pline:3	*pline:9
-{4ee-	Car	Et
+{{4ee-	Car	Et
 8ff	cha-	l'on
 8ee-	-que	di-
 4b-	fois	-rait
@@ -63,10 +63,11 @@
 4dd	-te	-dre,
 *	*rp:ɛ	*rp:ɑ̃
 *	*rf:ɛt,ə	*rf:ɑ̃dʁ,ə
-*	*rs:a	*rs:c
+*	*rs:a1	*rs:c1
 !!LO:PB:g=original
 =7	=7	=7
 *	*pline:4	*pline:10
+*B-:	*	*
 4f	On	Qu'ils
 8b-	te	sont
 8dd	mas-	de-
@@ -75,12 +76,13 @@
 =8	=8	=8
 4f	plei-	des
 4f	-ne	hé-
-2b-;}	voix.	-ros;
+2b-;}}	voix.	-ros;
 *	*rp:ɑ	*rp:o
-*	*rf:wɑ	*rf:o
-*	*rs:b	*rs:d
+*	*rf:wɑ	*rf:ʁo
+*	*rs:b1-	*rs:d2-
 =9	=9	=9
 *	*pline:5	*pline:11
+*E-:	*	*
 {4cc	Viens,	Pour-
 8a-	ma	-quoi
 8g	gen-	donc
@@ -92,7 +94,7 @@
 2g	-te,	-dre
 *	*rp:ɛ	*rp:ɑ̃
 *	*rf:ɛt,ə	*rf:ɑ̃dʁ,ə
-*	*rs:a	*rs:c
+*	*rs:a1	*rs:c1
 !!LO:PB:g=original
 =11	=11	=11
 *	*pline:6	*pline:12
@@ -103,12 +105,12 @@
 8g	près	-tils
 8f	de	oi-
 =12	=12	=12
-(2e-	moi!	-seaux?
+[2e-	moi!	-seaux?
 *	*rp:ɑ	*rp:o
-*	*rf:wɑ	*rf:o
-*	*rs:b	*rs:d
-4e-)}}	.	.
-4r	.	.
+*	*rf:wɑ	*rf:zo
+*	*rs:b1-	*rs:d3-
+4e-]	.	.
+4r}	.	.
 =13||	=13||	=13||
 *>Refrain	*>Refrain	*>Refrain
 *	*pline:R1	*
@@ -122,14 +124,14 @@
 8g	pas	.
 8a-	peur	.
 8f	de	.
-2b-	moi,	.
+2b-}	moi,	.
 *	*rp:a	*
 *	*rf:wa	*
-*	*rs:Ra	*
+*	*rs:Ra1-=b1-	*
 !!LO:PB:g=original
 =15	=15	=15
 *	*pline:R2	*
-8cc	Viens	.
+{8cc	Viens	.
 8ee-	chan-	.
 8dd	-ter	.
 8cc	en-	.
@@ -140,13 +142,13 @@
 =16	=16	=16
 4g	-frains	.
 4e-	jo-	.
-2f}	-yeux,	.
+2f}}	-yeux,	.
 *	*rp:ø	*
 *	*rf:jø	*
-*	*rs:Rb	*
+*	*rs:Rb1-	*
 =17	=17	=17
 *	*pline:R3	*
-{4.e-	A-	.
+{{4.e-	A-	.
 8f	-lou-	.
 4g	-et-	.
 4g	-te,	.
@@ -155,14 +157,14 @@
 8g	bâ-	.
 8a-	-ti	.
 8f	pour	.
-2b-	toi	.
+2b-}	toi	.
 *	*rp:a	*
 *	*rf:wa	*
-*	*rs:Ra	*
+*	*rs:Ra1-=b1-	*
 !!LO:PB:g=original
 =19	=19	=19
 *	*pline:R4	*
-8cc	Près	.
+{8cc	Près	.
 8ee-	de	.
 8dd	ma	.
 8cc	fe-	.
@@ -176,9 +178,10 @@
 2e-}}	-eux;	.
 *	*rp:ø	*
 *	*rf:jø	*
-*	*rs:Rb	*
+*	*rs:Rb1-	*
 =21	=21	=21
 *	*pline:R5	*
+*B-:	*	*
 {{4.b-	A-	.
 8b-	-lou-	.
 4b-	-et-	.
@@ -210,7 +213,7 @@
 4g}	-te,	.
 *	*rp:ɛ:	*
 *	*rf:ɛ:t,ə	*
-*	*rs:Rc	*
+*	*rs:Rc1=a1	*
 *	*pline:R7	*
 =25	=25	=25
 {4.b-	Ni	.
@@ -225,13 +228,13 @@
 4g	-les,	.
 *	*rp:ɛ	*
 *	*rf:ɛl,ə	*
-*	*rs:Rd	*
+*	*rs:Rd1	*
 =27	=27	=27
 *	*pline:R8	*
 8b-	Ni	.
 8b-	ta	.
 8b-	jo-	.
-8b-	-li	.
+8b-	-lie	.
 8b-	pe-	.
 8f	-ti-	.
 8e	-te	.
@@ -240,15 +243,16 @@
 4b-	en	.
 4b-	den-	.
 4b-	-tel-	.
-4g}	-les,	.
+4g}}	-les,	.
 *	*rp:ɛ	*
 *	*rf:ɛl,ə	*
-*	*rs:Rd	*
+*	*rs:Rd1	*
 =29	=29	=29
 *	*pline:R1r	*
-{4.e-	A-	.
+*E-:	*	*
+{{4.e-	A-	.
 4f	-lou-	.
-4g	-et	.
+4g	-et-	.
 4g	-te,	.
 !!LO:PB:g=original
 =30	=30	=30
@@ -256,13 +260,13 @@
 8g	pas	.
 8a-	peur	.
 8f	de	.
-2b-	moi,	.
+2b-}	moi,	.
 *	*rp:a	*
 *	*rf:wa	*
-*	*rs:Ra	*
+*	*rs:Ra1-=b1-	*
 =31	=31	=31
 *	*pline:R9	*
-8cc	Viens	.
+{8cc	Viens	.
 8ee-	me	.
 8dd	fre-	.
 8cc	-don-	.
@@ -274,13 +278,15 @@
 4cc	d'au-	.
 *^	*	*
 4dd	4d	-tre-	.
-4ee-	4e-}}	-fois.	.
+4ee-	4e-	-fois.	.
 *	*	*rp:a	*
 *	*	*rf:wa	*
-*	*	*rs:Ra	*
+*	*	*rs:Ra1-=b1-	*
+4r}}	4ryy	.	.
 *v	*v	*	*
-4r	.	.
 ==	==	==
 *-	*-	*-
 !!!EED: Isaac Howie
-!!!EEV: 2025/July/01
+!!!EEV: 2025/07/01
+!!!EED: Ève Poudrier
+!!!EEV: 2025/07/30
