@@ -1,26 +1,28 @@
 !!!id: BC044
 !!!page: 56
-!!!COM: Paroles et musique de E. JACQUES-DALCROZE
-!!!LYR:
+!!!COM: Jaques-Dalcroze, E.
+!!!LYR: Jaques-Dalcroze, E.
 !!!PTL@@FR: Les 100 plus belles chansons
 !!!OTL@@FR: Le coeur de ma mie
 !!!PUB:La Bonne Chanson, inc.
 !!!YEM: On ne peut reproduire, enregistrer ou diffuser en tout ou en partie le présent ouvrage, sous quelque procédé que ce soit, électronique, mécanique, photographique, sonore, magnétique ou autre, sans avoir obtenu au préalable l'autorisation écrite de l'éditrice.
 !!!PDT: 2011
 !!!SMA:2012 Bibliothèque nationale du Québec; Biblothèque nationale du Canada
-!!!AGN-Laforte: Chanson strophique (avec refrain), 3:4(6), R(13+13)
-!!!AGN-type: Amour?
-!!!AGN-rime: suivies (aabb)
+!!!AGN-Laforte: Chanson strophique (avec refrain), 4:4(6), R(13/6+6)
+!!!AGN-type: Chanson d'amour
+!!!AGN-rime: mixtes; v:1, "Rubaiyat: stanza (aaba), v:2-3, croisées (abab); refrain, suivies (aa).
+!!!LYR-elision: Final "e" (plac', qu'ell', bell', l'aim', encor'); medial "e" (homm's, renferm'rait)
+!!!RNB: Transcribed "modᵗᵒ" as "moderato"; replaced dal segno format with written-out reprise.
 **kern		**dynam	**text	**text	**text
 *clefG2		*	*	*	*
 *k[]		*	*	*	*
-*D:		*	*	*	*
-!! Allegro moderato
+*C:		*	*	*	*
+!!LO:TX:a:B:t=Allegro moderato
 *M2/4		*	*	*	*
-*		*	*refrain	*	*
+*		*	*	*	*
 *^		*	*	*	*
-!!LO:TX:a:t=[segno]
-!!LO:TX:a:B:t=Allegro modᵗᵒ
+*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain
+=||:	=||:	=||:	=||:	=||:	=||:
 !!LO:TX:a:B:t=REFRAIN
 {{4g	4g	pp	Le	.	.
 =1	=1	=1	=1	=1	=1
@@ -28,22 +30,23 @@
 4g	4e	.	de	.	.
 4g	4e	.	ma	.	.
 =2	=2	=2	=2	=2	=2
-4f	4d	.	mie	.	.
+4f	4d	.	mi[e]	.	.
 4g	4B	.	est	.	.
 4g	4B	.	pe-	.	.
 =3	=3	=3	=3	=3	=3
 4f	4d	<	-tit,	.	.
 8f	8f	(	tout	.	.
+*	*	*	*bis	*	*
 8g	8f	(	pe-	.	.
 8b	8f	(	-tit,	.	.
-*	*	*	*rp:i	*	*
-*	*	*	*rf:i	*	*
-*	*	*	*rs:a	*	*
-*	*	*	*bis	*	*
 8dd	8f	[	pe-	.	.
+!!LO:PB:g=original
 =4	=4	=4	=4	=4	=4
 4cc}	4e	>	-tit;	.	.
 *	*	*	*Xbis	*	*
+*	*	*	*rp:i	*	*
+*	*	*	*rf:ti	*	*
+*	*	*	*rs:a1-	*	*
 {4g	4e	]	J'en	.	.
 4g	4e	.	ai	.	.
 =5	=5	=5	=5	=5	=5
@@ -60,49 +63,59 @@
 8gJ)	.	(	.	.	.
 (8bL	4f	(	rem-	.	.
 8ddJ)	.	[	.	.	.
-!!LO:TX:a:B:t=FIN
 =8	=8	=8	=8	=8	=8
+!!LO:TX:a:B:t=FIN
 4cc}}	4e	.	-plit.	.	.
 *	*	*	*rp:i	*	*
-*	*	*	*rf:i	*	*
-*	*	*	*rs:a	*	*
-=||	=||	=||	=||	=||	=||
+*	*	*	*rf:1i	*	*
+*	*	*	*rs:a2-	*	*
+*>A	*>A	*>A	*>A	*>A	*>A
+==	==	==	==	==	==
 *v	*v	*	*	*	*
+*G:		*	*	*	*
 *		*	*vv:1	*vv:2	*vv:3
-*		*	*pline:1	*pline:3	*pline:5
+*		*	*pline:1	*pline:5	*pline:9
 {{4cc		mf	Si	Plus	Et
-!!LO:TX:a:t=Couplets
+!!LO:TX:a:B:t=COUPLETS
 4cc		.	le	que	si
 =9		=9	=9	=9	=9
 4b		.	cœur	l'cœur	mon
 4a		.	de	de	cœur
 4a		.	ma	ma	qui
+!!LO:PB:g=original
 =10		=10	=10	=10	=10
 4dd		.	mie	bell',	l'aim'
+*		*	*rp:i	*rp:ɛ	*rp:ɛ
+*		*	*rf:mi	*rf:ɛl	*rf:ɛm
+*		*	*rs:a3-	*rs:c1	*rs:c2
+*		*	*pline:2	*pline:6	*pline:10
 4g		.	N'é-	Mon	É-
 4g		.	-tait	cœur	-tait
 =11		=11	=11	=11	=11
 4g		.	pas	à	en-
-4f#		.	si	moi	-cor
+!! pline:5, added missing apostrophe for "encor"
+4f#		.	si	moi	-cor'
 4f#		.	pe-	est	plus
 =12		=12	=12	=12	=12
 4b}		.	-tit,	grand,	grand,
-*		*	*rp:i	*rp:ʁɑ̃	*ʁɑ̃
-*		*	*rf:i	*rf:ɑ̃	*ɑ̃
-*		*	*rs:a	*rs:b1	*b1
-*		*	*pline:2	*pline:4	*pline:6
+*		*	*rp:i	*rp:ɑ̃	*rp:ɑ̃
+*		*	*rf:ti	*rf:ʁɑ̃	*rf:ʁɑ̃
+*		*	*rs:a1-	*rs:d1-	*rs:d1-
+*		*	*pline:3	*pline:7	*pline:11
 {4b		.	En	Mais	Ne
 4b		.	ce	ne	ren-
+!!LO:PB:g=original
 =13		=13	=13	=13	=13
 4b		<	cœur	ren-	-fer-
 4a		(	y au-	-fer-	-m'rait
 4a		[	-rait	-me	quand
 =14		=14	=14	=14	=14
-!!!elision: v1: plac' = place
-!!!elision: v2: qu'ell' = qu'elle
 4ee		.	plac'	qu'ell',	mê-
+*		*	*rp:a	*rp:ɛ	*rp:ɛ
+*		*	*rf:as	*rf:ɛl	*rf:ɛm
+*		*	*rs:b1	*rs:c1	*rs:c2
+*		*	*pline:4	*pline:8	*pline:12
 4dd		.	Pour	Les	-me
-!!!elision: v2: homm's = hommes
 4g		.	plus	homm's,	Qu'un
 =15		=15	=15	=15	=15
 !!LO:TX:a:i:t=rall.
@@ -112,13 +125,14 @@
 =16		=16	=16	=16	=16
 *^		*	*	*	*
 4g	2g;	)	-mi.	-rent.	-ment.
-*	*	*	*rp:i	*rp:ʁɑ̃	*ɑ̃
-*	*	*	*rf:i	*rf:ɑ̃	*ɑ̃
-*	*	*	*rs:a	*rs:b1	*b2
-4g;}}	.	]	Mais	.	.
+*	*	*	*rp:i	*rp:ɑ̃	*rp:ɑ̃
+*	*	*	*rf:mi	*rf:ʁɑ̃	*rf:mɑ̃
+*	*	*	*rs:a3-	*rs:d1-	*rs:d2-
+4g;}}	.	]	Mais	Mais	Mais
 *v	*v	*	*	*	*
-!!LO:TX:a:t=[segno]
-==		==	==	==	==
+=:||		=:||	=:||	=:||	=:||
 *-		*-	*-	*-	*-
 !!!EED: Isaac Howie
-!!!EEV: 2025/June/24
+!!!EEV: 2025/06/24
+!!!EED: Ève Poudrier
+!!!EEV: 2025/07/29
