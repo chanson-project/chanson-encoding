@@ -20,7 +20,7 @@
 *met(c|)	*	*	*	*	*	*
 *	*	*v:1	*v:2	*v:3	*v:4	*v:5
 *	*	*pline:1	*pline:2r	*pline:3r	*pline:4r	*pline:5r
-8b	.	Mon	Ils	S'il	Je	Et
+{8b	.	Mon	Ils	S'il	Je	Et
 8b	.	pèr[e]	ont	ne	ven-	sur
 8b	.	et	fait	me	-drai	la
 8b	.	ma	pro-	ma-	mes	der-
@@ -36,12 +36,12 @@
 *	*	*rp:ɔ̃	*rp:ɔ̃	*rp:ɔ̃	*rp:ɔ̃	*rp:ɔ̃
 *	*	*rf:sɔ̃	*rf:ʁɔ̃	*rf:ʁɔ̃	*rf:jɔ̃	*rf:zɔ̃
 *	*	*rs:a1-	*rs:a2-	*rs:a2-	*rs:a3-	*rs:a4-
-4r	.	.	.	.	.	.
+4r}	.	.	.	.	.	.
 !!LO:PB:g=original
 =:||	=:||	=:||	=:||	=:||	=:||	=:||
 =||:	=||:	=||:	=||:	=||:	=||:	=||:
 *	*	*pline:2	*pline:3	*pline:4	*pline:5	*pline:6
-8e	.	Ils	S'ils	Je	Et	Et
+{8e	.	Ils	S'ils	Je	Et	Et
 8e	.	m'ont	ne	ven-	sur	si
 8e	.	fait	me	-drai	la	le
 8e	.	pro-	ma-	mes	der-	Roi
@@ -57,13 +57,13 @@
 *	*	*rp:ɔ̃	*rp:ɔ̃	*rp:ɔ̃	*rp:ɔ̃	*rp:ɔ̃
 *	*	*rf:ʁɔ̃	*rf:ʁɔ̃	*rf:jɔ̃	*rf:zɔ̃	*rf:ʁɔ̃
 *	*	*rs:a2-	*rs:a2-	*rs:a3-	*rs:a4-	*rs:a2-
-4r	.	.	.	.	.	.
+4r}	.	.	.	.	.	.
 !!LO:PB:g=original
 =:||	=:||	=:||	=:||	=:||	=:||	=:||
 *>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain
 *	*	*pline:R1	*	*	*	*
 !!LO:TX:a:B:t=[REFRAIN]
-4e^<	.	Sont,	.	.	.	.
+{{4e^<	.	Sont,	.	.	.	.
 *	*	*bis	*	*	*	*
 4e^<	.	sont,	.	.	.	.
 =5	=5	=5	=5	=5	=5	=5
@@ -75,12 +75,12 @@
 8e	.	Loc-	.	.	.	.
 8f#	.	-mi-	.	.	.	.
 =6	=6	=6	=6	=6	=6	=6
-4.g	.	-né	.	.	.	.
+4.g}	.	-né	.	.	.	.
 *	*	*rp:e	*	*	*	*
 *	*	*rf:ne	*	*	*	*
 *	*	*rs:b1-	*	*	*	*
 *	*	*pline:R2Ha	*	*	*	*
-8b	.	Qui	.	.	.	.
+{8b	.	Qui	.	.	.	.
 8b	.	ont	.	.	.	.
 8a	.	de	.	.	.	.
 8b	.	la	.	.	.	.
@@ -98,9 +98,9 @@
 (4b	<	-sous	.	.	.	.
 8ee')	.	.	.	.	.	.
 .	[	.	.	.	.	.
-8r	.	.	.	.	.	.
+8r}}	.	.	.	.	.	.
 *	*	*pline:R1r	*	*	*	*
-4e^<	.	Sont,	.	.	.	.
+{{4e^<	.	Sont,	.	.	.	.
 *	*	*bis	*	*	*	*
 4e^<	.	sont,	.	.	.	.
 =9	=9	=9	=9	=9	=9	=9
@@ -113,12 +113,12 @@
 8f#	.	-mi-	.	.	.	.
 !!LO:PB:g=original
 =10	=10	=10	=10	=10	=10	=10
-4.g	.	-né	.	.	.	.
+4.g}	.	-né	.	.	.	.
 *	*	*rp:e	*	*	*	*
 *	*	*rf:ne	*	*	*	*
 *	*	*rs:b1-	*	*	*	*
 *	*	*pline:R2Har	*	*	*	*
-8b	.	Qui	.	.	.	.
+{8b	.	Qui	.	.	.	.
 8b	.	ont	.	.	.	.
 8a	.	de	.	.	.	.
 8b	.	la	.	.	.	.
@@ -132,7 +132,7 @@
 4g	.	leurs	.	.	.	.
 4f#	.	sou-	.	.	.	.
 =12	=12	=12	=12	=12	=12	=12
-2e	.	liers.	.	.	.	.
+2e}}	.	liers.	.	.	.	.
 *	*	*rp:e	*	*	*	*
 *	*	*rp:je	*	*	*	*
 *	*	*rs:b2-	*	*	*	*
