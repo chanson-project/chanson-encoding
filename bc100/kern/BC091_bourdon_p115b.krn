@@ -1,0 +1,106 @@
+!!!id: BC091
+!!!page: 115b
+!!!COM: Anonymous
+!!!LAR: Gadbois, Charles-Émile
+!!!PTL@@FR: Les 100 plus belles chansons
+!!!OTL: Bourdon
+!!!PUB: La Bonne Chanson, inc.
+!!!YEM: On ne peut reproduire, enregistrer ou diffuser en tout ou en partie le présent ouvrage, sous quelque procédé que ce soit, électronique, mécanique, photographique, sonore, magnétique ou autre, sans avoir obtenu au préalable l'autorisation écrite de l'éditrice.
+!!!PDT: 2011
+!!!SMA: 2012 Bibliothèque nationale du Québec; Biblothèque nationale du Canada
+!!!AGN-Laforte: Chanson brève (with refrain intégré), 1:3(8*2,7)
+!!!AGN-type: Canon à quatre voix
+!!!AGN-rime: suivies (aabb), with final syllable rhyming with "b"
+!!!LYR-elision: none
+!!!RNB: Series of onomatopoeia are treated as a refrain.
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M4/4	*
+*met(c)	*
+*>A	*>A
+*	*pline:1
+!!LO:TX:a:B:t=A
+4g	Le
+4e	bour-
+=1	=1
+2g	-don
+8a	dit
+8g	à
+8f	la
+8a	clo-
+=2	=2
+4g	-chet-
+4f	-te:
+*	*rp:ɛ
+*	*rf:ɛt,ə
+*	*rs:a
+=::	=::
+*>B	*>B
+*	*pline:2
+!!LO:TX:a:B:t=B
+4e	"Tais-
+4c	-toi
+!!LO:PB:g=original
+=3	=3
+2e	donc,
+8f	mé-
+8e	-chan-
+8d	-te
+8f	son-
+=4	=4
+4e	-net-
+4d	-te,
+*	*rp:ɛ
+*	*rf:ɛt,ə
+*	*rs:a
+=::	=::
+*>C	*>C
+*	*refrain
+*	*italic
+!!LO:TX:a:B:t=C
+2c	dong!
+=5	=5
+2c	dong!
+2c	dong!
+=6	=6
+4c	dong!"
+*	*Xitalic
+*	*Xrefrain
+*>D	*>D
+!!LO:PB:g=original
+=::c	=::c
+*	*pline:3
+!!LO:TX:a:B:t=D
+8cc`	La
+8cc	clo-
+8cc`	-chet-
+8cc	-te
+8cc`	lui
+8cc	ré-
+=7	=7
+8cc`	-pond:
+*	*rp:ɔ̃
+*	*rf:pɔ̃
+*	*rs:b1-
+*	*refrain
+*	*italic
+8cc	"Ding-
+8cc`	-don!
+8cc	ding-
+8cc`	-don!
+8cc	ding-
+8cc`	-don!
+8cc	ding-
+=8	=8
+2cc	-don!"
+*	*rp:ɔ̃
+*	*rf:dɔ̃
+*	*rs:b2-
+*	*Xitalic
+*	*Xrefrain
+==	==
+*-	*-
+!!!EED: Ève Poudrier
+!!!EEV: 2025/07/31
