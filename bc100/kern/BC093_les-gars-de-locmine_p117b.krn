@@ -1,0 +1,143 @@
+!!!id: BC093
+!!!page: 117b
+!!!COM: Anonymous (Célèbre et jolie danse de la Haute-Bretagne)
+!!!PTL@@FR: Les 100 plus belles chansons
+!!!OTL: Les gars de Locminé
+!!!PUB: La Bonne Chanson, inc.
+!!!YEM: On ne peut reproduire, enregistrer ou diffuser en tout ou en partie le présent ouvrage, sous quelque procédé que ce soit, électronique, mécanique, photographique, sonore, magnétique ou autre, sans avoir obtenu au préalable l'autorisation écrite de l'éditrice.
+!!!PDT: 2011
+!!!SMA: 2012 Bibliothèque nationale du Québec; Biblothèque nationale du Canada
+!!!AGN-Laforte: Chanson strophique (avec refrain), 5:2(11), avec répétition à cheval; R:2(7,7+5*2)
+!!!AGN-type: Chanson de mariage
+!!!AGN-rime: monorime /ɔ̃/ with rhyming refrain (aa)
+!!!LYR-elision: Medial "e" (d'Locminé)
+!!!RNB: Parenthetical "ils" for "y" in pline:1 not encoded; m. 6, stem direction not applied to be consistent with m. 10;
+**kern	**dynam	**text	**text	**text	**text	**text
+*clefG2	*	*	*	*	*	*
+*k[f#]	*	*	*	*	*	*
+*e:	*	*	*	*	*	*
+*M2/2	*	*	*	*	*	*
+*met(c|)	*	*	*	*	*	*
+*	*	*v:1	*v:2	*v:3	*v:4	*v:5
+*	*	*pline:1	*pline:2r	*pline:3r	*pline:4r	*pline:5r
+8b	.	Mon	Ils	S'il	Je	Et
+8b	.	pèr[e]	ont	ne	ven-	sur
+8b	.	et	fait	me	-drai	la
+8b	.	ma	pro-	ma-	mes	der-
+=1	=1	=1	=1	=1	=1	=1
+4a	.	mè-	-mes-	-ri-	ter-	-niè-
+4a	.	-re	-se	-ent,	-res	-re,
+8g	.	d'Loc-	qu'ils	s'en	sil-	bâ-
+8f#	.	-mi-	me	re-	-lon	-ti-
+8g	.	-né	ma-	-pen-	par	-rai
+8a	.	y	-rie-	-ti-	sil-	mai-
+=2	=2	=2	=2	=2	=2	=2
+4b	.	sont,	-ront,	-ront,	-lon,	-son,
+*	*	*rp:ɔ̃	*rp:ɔ̃	*rp:ɔ̃	*rp:ɔ̃	*rp:ɔ̃
+*	*	*rf:sɔ̃	*rf:ʁɔ̃	*rf:ʁɔ̃	*rf:jɔ̃	*rf:zɔ̃
+*	*	*rs:a1-	*rs:a2-	*rs:a2-	*rs:a3-	*rs:a4-
+4r	.	.	.	.	.	.
+!!LO:PB:g=original
+=:||	=:||	=:||	=:||	=:||	=:||	=:||
+=||:	=||:	=||:	=||:	=||:	=||:	=||:
+*	*	*pline:2	*pline:3	*pline:4	*pline:5	*pline:6
+8e	.	Ils	S'ils	Je	Et	Et
+8e	.	m'ont	ne	ven-	sur	si
+8e	.	fait	me	-drai	la	le
+8e	.	pro-	ma-	mes	der-	Roi
+=3	=3	=3	=3	=3	=3	=3
+4a	.	-mes	-ri-	ter-	-niè-	pas-
+4a	.	-se	-ent,	-res	-re,	-se,
+8a	.	qu'ils	s'en	sil-	bâ-	nous
+8b/	.	me	re-	-lon	-ti-	l'in-
+8a	.	ma-	-pen-	par	-rai	-vi-
+8g	.	-rie-	-ti-	sil-	mai-	-te-
+=4	=4	=4	=4	=4	=4	=4
+4f#	.	-ront.	-ront.	-lon.	-son.	-rons.
+*	*	*rp:ɔ̃	*rp:ɔ̃	*rp:ɔ̃	*rp:ɔ̃	*rp:ɔ̃
+*	*	*rf:ʁɔ̃	*rf:ʁɔ̃	*rf:jɔ̃	*rf:zɔ̃	*rf:ʁɔ̃
+*	*	*rs:a2-	*rs:a2-	*rs:a3-	*rs:a4-	*rs:a2-
+4r	.	.	.	.	.	.
+!!LO:PB:g=original
+=:||	=:||	=:||	=:||	=:||	=:||	=:||
+*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain
+*	*	*pline:R1	*	*	*	*
+!!LO:TX:a:B:t=[REFRAIN]
+4e^<	.	Sont,	.	.	.	.
+*	*	*bis	*	*	*	*
+4e^<	.	sont,	.	.	.	.
+=5	=5	=5	=5	=5	=5	=5
+4.g^<	.	sont	.	.	.	.
+*	*	*Xbis	*	*	*	*
+8f#	.	les	.	.	.	.
+8e	.	gars	.	.	.	.
+8d	.	de	.	.	.	.
+8e	.	Loc-	.	.	.	.
+8f#	.	-mi-	.	.	.	.
+=6	=6	=6	=6	=6	=6	=6
+4.g	.	-né	.	.	.	.
+*	*	*rp:e	*	*	*	*
+*	*	*rf:ne	*	*	*	*
+*	*	*rs:b1-	*	*	*	*
+*	*	*pline:R2Ha	*	*	*	*
+8b	.	Qui	.	.	.	.
+8b	.	ont	.	.	.	.
+8a	.	de	.	.	.	.
+8b	.	la	.	.	.	.
+8cc	.	mail-	.	.	.	.
+!!LO:PB:g=original
+=7	=7	=7	=7	=7	=7	=7
+8b	.	-let-	.	.	.	.
+8a	.	-te,	.	.	.	.
+*	*	*pline:R2Hb	*	*	*	*
+8g	.	sens	.	.	.	.
+8f#	.	des-	.	.	.	.
+4g	.	-sus	.	.	.	.
+4a	.	des-	.	.	.	.
+=8	=8	=8	=8	=8	=8	=8
+(4b	<	-sous	.	.	.	.
+8ee')	.	.	.	.	.	.
+.	[	.	.	.	.	.
+8r	.	.	.	.	.	.
+*	*	*pline:R1r	*	*	*	*
+4e^<	.	Sont,	.	.	.	.
+*	*	*bis	*	*	*	*
+4e^<	.	sont,	.	.	.	.
+=9	=9	=9	=9	=9	=9	=9
+4.g^<	.	sont	.	.	.	.
+*	*	*Xbis	*	*	*	*
+8f#	.	les	.	.	.	.
+8e	.	gars	.	.	.	.
+8d	.	de	.	.	.	.
+8e	.	Loc-	.	.	.	.
+8f#	.	-mi-	.	.	.	.
+!!LO:PB:g=original
+=10	=10	=10	=10	=10	=10	=10
+4.g	.	-né	.	.	.	.
+*	*	*rp:e	*	*	*	*
+*	*	*rf:ne	*	*	*	*
+*	*	*rs:b1-	*	*	*	*
+*	*	*pline:R2Har	*	*	*	*
+8b	.	Qui	.	.	.	.
+8b	.	ont	.	.	.	.
+8a	.	de	.	.	.	.
+8b	.	la	.	.	.	.
+8cc	.	mail-	.	.	.	.
+=11	=11	=11	=11	=11	=11	=11
+8b	.	-let-	.	.	.	.
+8a	.	-te	.	.	.	.
+*	*	*pline:R2Hbrm	*	*	*	*
+8g	.	des-	.	.	.	.
+8f#	.	-sous	.	.	.	.
+4g	.	leurs	.	.	.	.
+4f#	.	sou-	.	.	.	.
+=12	=12	=12	=12	=12	=12	=12
+2e	.	liers.	.	.	.	.
+*	*	*rp:e	*	*	*	*
+*	*	*rp:je	*	*	*	*
+*	*	*rs:b2-	*	*	*	*
+==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-
+!!!RDF**kern: < = above
+!!!EED: Ève Poudrier
+!!!EEV: 2025/08/01
