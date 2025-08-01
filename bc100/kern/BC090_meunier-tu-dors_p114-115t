@@ -1,0 +1,230 @@
+!!!id: BC090
+!!!page: 114-115t
+!!!COM: Anonymous (Folklore)
+!!!PTL@@FR: Les 100 plus belles chansons
+!!!OTL: Meunier, tu dors
+!!!PUB: La Bonne Chanson, inc.
+!!!YEM: On ne peut reproduire, enregistrer ou diffuser en tout ou en partie le présent ouvrage, sous quelque procédé que ce soit, électronique, mécanique, photographique, sonore, magnétique ou autre, sans avoir obtenu au préalable l'autorisation écrite de l'éditrice.
+!!!PDT: 2011
+!!!SMA: 2012 Bibliothèque nationale du Québec; Biblothèque nationale du Canada
+!!!AGN-Laforte: Chanson enumérative (avec refrain), 2:2(3), R:2(10)
+!!!AGN-type: Chanson de paysan
+!!!AGN-rime: suivies (aab*2), with line ending with "b" rhyme repeated
+!!!LYR-elision: Final "e" (quatr'); medial "e" (fidèl's)
+!!!RDN: Partial double barlines on top staff line (not showing on VHV) replaced by breath marks.
+!!!LYR-elision: Medial "e" (ail's, fidèl's, Quatr')
+**kern	**text	**text
+*clefG2	*	*
+*k[f#]	*	*
+*G:	*	*
+!!LO:TX:a:B:t=Mouvement de marche
+*M4/4	*	*
+*met(c)	*	*
+*	*v:1	*v:2
+*	*pline:1	*pline:1mr
+!!LO:TX:a:B:t=Solo
+8.d	Trois	Quatr'
+16d	ca-	ca-
+=1	=1	=1
+2g	-nards,	-nards,
+8g	dé-	dé-
+8b	-ploy-	-ploy-
+8dd	-ant	-ant
+8b	leurs	leurs
+=2	=2	=2
+4a,	ail's,	ail's,
+*	*rp:ɛ	*rp:ɛ
+*	*rf:ɛl	*rf:ɛl
+*	*rs:a	*rs:a
+*	*refrain	*refrain
+*	*italic	*italic
+!!LO:TX:a:B:t=Choeur
+8.d	Coin!	Coin!
+16d	coin!	coin!
+4d,	coin!	coin!
+*	*Xitalic	*Xitalic
+*	*Xrefrain	*Xrefrain
+*	*pline:2	*pline:2r
+!!LO:TX:a:B:t=Solo
+4a	Di-	Di-
+!!LO:PB:g=original
+=3	=3	=3
+4.a	-saient	-saient
+8b	à	à
+8cc	leurs	leurs
+8dd	ca-	ca-
+8ee	-nes	-nes
+8dd	fi-	fi-
+=4	=4	=4
+4b,	dèl's:	dèl's:
+*	*rp:ɛ	*rp:ɛ
+*	*rf:ɛl	*rf:ɛl
+*	*rs:a	*rs:a
+*	*refrain	*refrain
+*	*italic	*italic
+!!LO:TX:a:B:t=Choeur
+8.g	Coin!	Coin!
+16g	coin!	coin!
+4g,	coin!	coin!
+*	*Xitalic	*Xitalic
+*	*Xrefrain	*Xrefrain
+*	*pline:3	*pline:3r
+!!LO:TX:a:B:t=Solo
+4dd	Quand	Quand
+!!LO:PB:g=original
+=5	=5	=5
+4.dd	donc	donc
+8dd	fi-	fi-
+8ee	-ni-	-ni-
+8dd	-ront	-ront
+8cc	nos	nos
+8b	tour-	tour-
+=6	=6	=6
+4c,	-ments?	-ments?
+*	*rp:ɑ̃	*rp:ɑ̃
+*	*rf:mɑ̃	*rf:mɑ̃
+*	*rs:b	*rs:b
+*	*refrain	*refrain
+*	*italic	*italic
+!!LO:TX:a:B:t=Choeur
+8.a	Coin!	Coin!
+16a	coin!	coin!
+4a,	coin!	coin!
+*	*Xitalic	*Xitalic
+*	*Xrefrain	*Xrefrain
+*	*pline:3r	*pline:3r
+!!LO:TX:a:B:t=Solo
+4cc	Quand	Quand
+!!LO:PB:g=original
+=7	=7	=7
+4.cc	donc	donc
+8cc	fi-	fi-
+8dd	-ni-	-ni-
+8cc	-ront-	-ront
+8b	nos	nos
+8a	tour-	tour-
+=8	=8	=8
+4b,	-ments?	-ments?
+*	*rp:ɑ̃	*rp:ɑ̃
+*	*rf:mɑ̃	*rf:mɑ̃
+*	*rs:b	*rs:b
+*	*refrain	*refrain
+*	*italic	*italic
+!!LO:TX:a:B:t=Choeur
+4dd^	Coin!	Coin!
+4b^	coin!	coin!
+4g^	coin!	coin!
+=9	=9	=9
+2.d;	Coin!	Coin!
+*	*Xitalic	*Xitalic
+*	*Xrefrain	*Xrefrain
+*>Refrain	*>Refrain	*>Refrain
+*^	*	*
+*	*	*pline:R1	*
+!!LO:TX:a:t=[REFRAIN]
+4d	4d	Meu-	.
+!!LO:PB:g=original
+=10||	=10||	=10||	=10||
+*M3/4	*	*	*
+!!LO:TX:a:B:t=Plus lent
+2b	2g	-nier,	.
+4dd	4b	tu	.
+=11	=11	=11	=11
+2b	2g	dors,	.
+8.a	8.f#	ton	.
+16b	16g	mou-	.
+=12	=12	=12	=12
+4cc	4a	-lin	.
+4cc	4a	va	.
+4dd	4b	trop	.
+=13	=13	=13	=13
+4b	4g	vi-	.
+4b	4g	-te,	.
+*	*	*pline:R2(R1a9)	*
+4d	4d	Meu-	.
+!!LO:PB:g=original
+=14	=14	=14	=14
+2b	2g	-nier,	.
+4dd	4b	tu	.
+=15	=15	=15	=15
+2b	2g	dors,	.
+8.a	8.f#	ton	.
+16b	16g	mou-	.
+=16	=16	=16	=16
+4cc	4a	-lin	.
+4cc	4a	va	.
+4dd	4b	trop	.
+=17	=17	=17	=17
+2g	2g	fort!	.
+=||	=||	=||	=||
+*	*	*pline:R1r	*
+!!LO:TX:a:B:t=Presto
+16b	16g	Ton	.
+16b	16g	mou-	.
+16b	16g	-lin,	.
+!!LO:PB:g=original
+=14||	=14||	=14||	=14||
+*M2/4	*	*	*
+*	*	*bis	*
+16b	16g	ton	.
+16b	16g	mou-	.
+8b	8g	lin,	.
+*	*	*Xbis	*
+8.b	8.g	va	.
+16b	16g	trop	.
+=15	=15	=15	=15
+8.dd	8.b	vi-	.
+16cc	16a	-te,	.
+*	*	*pline:R2(R1a9)	*
+16a	16f#	Ton	.
+16a	16f#	mou-	.
+8a	8f#	-lin,	.
+*	*	*bis	*
+!!LO:PB:g=original
+=16	=16	=16	=16
+16a	16f#	ton	.
+16a	16f#	mou-	.
+8a	8f#	-lin	.
+*	*	*Xbis	*
+8.dd	8.d	va	.
+16dd	16d	trop	.
+=17	=17	=17	=17
+4b	4g	fort,	.
+*	*	*pline:R1r	*
+16b	16g	Ton	.
+16b	16g	mou-	.
+8b	8g	-lin,	.
+=18	=18	=18	=18
+*	*	*bis	*
+16b	16g	ton	.
+16b	16g	mou-	.
+8b	8g	-lin	.
+*	*	*Xbis	*
+8.b	8.g	va	.
+16b	16g	trop	.
+!!LO:PB:g=original
+=19	=19	=19	=19
+8.dd	8.b	vi-	.
+16cc	16a	-te,	.
+*	*	*pline:R2(R1a9)	*
+16a	16f#	Ton	.
+16a	16f#	mou-	.
+8a	8f#	-lin,	.
+=20	=20	=20	=20
+*	*	*bis	*
+16a	16f#	ton	.
+16a	16f#	mou-	.
+8a	8f#	-lin	.
+*	*	*Xbis	*
+8.dd	8.d	va	.
+16dd	16d	trop	.
+*v	*v	*	*
+=21||	=21||	=21||
+*M4/4	*	*
+*met(c)	*	*
+2g;	.	fort!
+4r	.	.
+==	==	==
+*-	*-	*-
+!!!EED: Ève Poudrier
+!!!EEV: 2025/07/31
