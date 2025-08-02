@@ -1,0 +1,126 @@
+!!!id: BC094
+!!!page: 118
+!!!COM: Anonymous (Folklore)
+!!!PTL@@FR: Les 100 plus belles chansons
+!!!OTL: Je n'ai pas de barbe au menton
+!!!PUB: La Bonne Chanson, inc.
+!!!YEM: On ne peut reproduire, enregistrer ou diffuser en tout ou en partie le présent ouvrage, sous quelque procédé que ce soit, électronique, mécanique, photographique, sonore, magnétique ou autre, sans avoir obtenu au préalable l'autorisation écrite de l'éditrice.
+!!!PDT: 2011
+!!!SMA: 2012 Bibliothèque nationale du Québec; Biblothèque nationale du Canada
+!!!AGN-Laforte: Chanson strophique (avec refrains intégré et final), 9:2(8), avec répétition à cheval; R:2(5*2,8+4)
+!!!AGN-type: Chanson de jeunesse
+!!!AGN-rime: monorime /ɔ̃/ with rhyming refrain /vjẽ/
+!!!LYR-elision: Final "r" (su', pèr'); medial "e" (l'bout, n'jamais, j'estim'rais); additional phoneme /z/ (v:3)
+!!!RNB:
+**kern	**text	**text	**text	**text	**text	**text	**text	**text	**text
+*clefG2	*	*	*	*	*	*	*	*	*
+*k[b-e-]	*	*	*	*	*	*	*	*	*
+*g:	*	*	*	*	*	*	*	*	*
+!!LO:TX:a:B:i:Gai
+*M:2/4	*	*	*	*	*	*	*	*	*
+*	*v:1	*v:2	*v:3	*v:4	*v:5	*v:6	*v:7	*v:8	*v:9
+*	*pline:1	*pline:2r	*pline:3r	*pline:4r	*pline:5r	*pline:6r	*pline:7r	*pline:8r	*pline:9r
+{8b-	Mon	L'a	Mon	Don-	Ma	De	J'es-	Se-	Et
+16a	pèr[e]	fait	pè-	-nez-	fil-	n'ja-	-tim'-	-rait	vous
+16b-	a	bâ-	-re	-moi	-le	-mais	-rais	en	mon
+=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+8g	fait	-tir	fai-	donc	pro-	ai-	mieux	cendr[e]	pèr'
+8dd	bâ-	su'l'-	-tes-	vo-	-met-	-mer	que	et	sur
+8dd	-tir	bout	-moi-	-tre	-tez-	les	la	en	le
+8cc	mai-	d'un	-z-un	mai-	-moi	gar-	mai-	char-	pi-
+=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+4dd}	-son,	pont,	don,	-son,	donc,	-çons,	-son...	-bon,	-gnon,
+*	*rp:ɔ̃	*rp:ɔ̃	*rp:ɔ̃	*rp:ɔ̃	*rp:ɔ̃	*rp:ɔ̃	*rp:ɔ̃	*rp:ɔ̃	*rp:ɔ̃
+*	*rf:zɔ̃	*rf:pɔ̃	*rf:dɔ̃	*rf:zɔ̃	*rf:dɔ̃	*rfsɔ̃	*rf:zɔ̃	*rf:bɔ̃	*rf:ɲɔ̃
+*	*rs:a1-	*rs:a3-	*rs:a4-	*rs:a-1	*rs:a4-	*rs:a5-	*rs:a-1	*rs:a6-	*rs:a7-
+*	*refrain	*refrain	*refrain	*refrain	*refrain	*refrain	*refrain	*refrain	*refrain
+*	*italic	*italic	*italic	*italic	*italic	*italic	*italic	*italic	*italic
+{8b-	Je	Je	Je	Je	Je	Je	Je	Je	Je
+16a	n'ai	n'ai	n'ai	n'ai	n'ai	n'ai	n'ai	n'ai	n'ai
+16b-	pas	pas	pas	pas	pas	pas	pas	pas	pas
+!!LO:PB:g=original
+=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+8g	de	de	de	de	de	de	de	de	de
+8dd	barb[e]	barb[e]	barb[e]	barb[e]	barb[e]	barb[e]	barb[e]	barb[e]	barb[e]
+8dd	au	au	au	au	au	au	au	au	au
+8cc	men-	men-	men-	men-	men-	men-	men-	men-	men-
+=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
+4dd}	-ton,	-ton,	-ton,	-ton,	-ton,	-ton,	-ton,	-ton,	-ton,
+*	*rp:ɔ̃	*rp:ɔ̃	*rp:ɔ̃	*rp:ɔ̃	*rp:ɔ̃	*rp:ɔ̃	*rp:ɔ̃	*rp:ɔ̃	*rp:ɔ̃
+*	*rf:tɔ̃	*rf:tɔ̃	*rf:tɔ̃	*rf:tɔ̃	*rf:tɔ̃	*rf:tɔ̃	*rf:tɔ̃	*rf:tɔ̃	*rf:tɔ̃
+*	*rs:a2-	*rs:a2-	*rs:a2-	*rs:a2-	*rs:a2-	*rs:a2-	*rs:a2-	*rs:a2-	*rs:a2-
+*	*Xitalic	*Xitalic	*Xitalic	*Xitalic	*Xitalic	*Xitalic	*Xitalic	*Xitalic	*Xitalic
+*	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain
+*	*pline:2	*pline:3	*pline:4	*pline:5	*pline:6	*pline:7	*pline:8	*pline:9	*pline:10
+{{8dd	L'a	Mon	Don-	–Ma	De	–J'es-	Se-	Et	Vous
+16dd	fait	pè-	-nez-	fil-	n'ja-	-tim'-	-rais	vous	vous
+16ee	bâ-	-re,	-moi	-le,	-mais	-rais	en	mon	chauf-
+=5	=5	=5	=5	=5	=5	=5	=5	=5	=5
+8ff	-tir	fai-	donc	pro-	ai-	mieux	cendr[e]	pèr'	-fe-
+8dd	su'l'-	-tes-	vo-	-met-	-mer	que	et	sur	-riez
+8cc	-bout	-moi-	-tre	-tez-	les	la	en	le	les
+8cc	d'un	-z-un	mai-	-moi	gar-	mai-	char-	pi-	ta-
+!!LO:PB:g=original
+=6	=6	=6	=6	=6	=6	=6	=6	=6	=6
+8a}	pont.	don.	-son.	donc.	-çons.	-son.	-bon.	-gnon.	-lons!
+*	*rp:ɔ̃	*rp:ɔ̃	*rp:ɔ̃	*rp:ɔ̃	*rp:ɔ̃	*rp:ɔ̃	*rp:ɔ̃	*rp:ɔ̃	*rp:ɔ̃
+*	*rf:pɔ̃	*rf:dɔ̃	*rf:zɔ̃	*rf:dɔ̃	*rfsɔ̃	*rf:zɔ̃	*rf:bɔ̃	*rf:ɲɔ̃	*rf:jɔ̃
+*	*rs:a3-	*rs:a4-	*rs:a-1	*rs:a4-	*rs:a5-	*rs:a-1	*rs:a6-	*rs:a7-	*rs:a8-
+*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain
+*	*pline:R1	*	*	*	*	*	*	*	*
+!!LO:TX:a:B:t=[REFRAIN]
+{16a	Le	.	.	.	.	.	.	.	.
+16b-	beau	.	.	.	.	.	.	.	.
+8cc	temps	.	.	.	.	.	.	.	.
+8cc	s'en	.	.	.	.	.	.	.	.
+=7	=7	=7	=7	=7	=7	=7	=7	=7	=7
+8a}	va,	.	.	.	.	.	.	.	.
+*	*rp:a	*	*	*	*	*	*	*	*
+*	*rf:va	*	*	*	*	*	*	*	*
+*	*rs:x	*	*	*	*	*	*	*	*
+*	*pline:R2	*	*	*	*	*	*	*	*
+{16a	Le	.	.	.	.	.	.	.	.
+16b-	mau-	.	.	.	.	.	.	.	.
+8cc	-vais	.	.	.	.	.	.	.	.
+8cc	re-	.	.	.	.	.	.	.	.
+=8	=8	=8	=8	=8	=8	=8	=8	=8	=8
+4a}}	-vient;	.	.	.	.	.	.	.	.
+*	*rp:ẽ	*	*	*	*	*	*	*	*
+*	*rf:vjẽ	*	*	*	*	*	*	*	*
+*	*rs:b1-	*	*	*	*	*	*	*	*
+*	*pline:R3	*	*	*	*	*	*	*	*
+*	*refrain	*	*	*	*	*	*	*	*
+*	*italic	*	*	*	*	*	*	*	*
+{{8b-	Je	.	.	.	.	.	.	.	.
+16a	n'ai	.	.	.	.	.	.	.	.
+16b-	pas	.	.	.	.	.	.	.	.
+!!LO:PB:g=original
+=9	=9	=9	=9	=9	=9	=9	=9	=9	=9
+8g	de	.	.	.	.	.	.	.	.
+8dd	barb[e]	.	.	.	.	.	.	.	.
+8dd	au	.	.	.	.	.	.	.	.
+8ff	men-	.	.	.	.	.	.	.	.
+=10	=10	=10	=10	=10	=10	=10	=10	=10	=10
+[2dd	-ton...	.	.	.	.	.	.	.	.
+*	*rp:ɔ̃	*	*	*	*	*	*	*	*
+*	*rf:tɔ̃	*	*	*	*	*	*	*	*
+*	*rs:a2-	*	*	*	*	*	*	*	*
+*	*Xitalic	*	*	*	*	*	*	*	*
+*	*Xrefrain	*	*	*	*	*	*	*	*
+=11	=11	=11	=11	=11	=11	=11	=11	=11	=11
+8dd]}	.	.	.	.	.	.	.	.	.
+*	*pline:R4	*	*	*	*	*	*	*	*
+{(16ccL	Mais	.	.	.	.	.	.	.	.
+16b-J)	.	.	.	.	.	.	.	.	.
+8a	il	.	.	.	.	.	.	.	.
+(16b-L	m'en	.	.	.	.	.	.	.	.
+16aJ)	.	.	.	.	.	.	.	.	.
+=12	=12	=12	=12	=12	=12	=12	=12	=12	=12
+4g}}	vient!	.	.	.	.	.	.	.	.
+*	*rp:ẽ	*	*	*	*	*	*	*	*
+*	*rf:vjẽ	*	*	*	*	*	*	*	*
+*	*rs:b1-	*	*	*	*	*	*	*	*
+==	==	==	==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!EED: Ève Poudrier
+!!!EEV: 2025/08/01
