@@ -1,0 +1,127 @@
+!!!id: BC095
+!!!page: 119
+!!!COM: Anonymous
+!!!LYR: Do-Mi-Sol
+!!!ARR: Gadbois, Charles-Émile
+!!!PTL@@FR: Les 100 plus belles chansons
+!!!OTL: Le bal chez Boulé
+!!!PUB: La Bonne Chanson, inc.
+!!!YEM: On ne peut reproduire, enregistrer ou diffuser en tout ou en partie le présent ouvrage, sous quelque procédé que ce soit, électronique, mécanique, photographique, sonore, magnétique ou autre, sans avoir obtenu au préalable l'autorisation écrite de l'éditrice.
+!!!PDT: 2011
+!!!SMA: 2012 Bibliothèque nationale du Québec; Biblothèque nationale du Canada
+!!!AGN-Laforte: Chanson strophique (avec refrain), 6:2(12), R:1(8+6)
+!!!AGN-type: Chanson de danse
+!!!AGN-rime: monorime /e/, including refrain, but except in v:6, which divides into two rhyming hemistiches (bbcc)
+!!!LYR-elision: Final "e" singulier (personn', l'mond', d'son, s'faisait, fill', n'dansez, l'temps, d'souffler, mettr', Baptist', l'set, tremp', un', parc'); Final "e" pluriel (vêpr's, sav'nt); Medial "e" (êt's, p'tit, r'garder, soul'vant)
+!!!RNB: Added dialogue marks to v:3 and v:4.
+**kern	**text	**text	**text	**text	**text	**text
+*k[f#]	*	*	*	*	*	*
+*G:	*	*	*	*	*	*
+!!LO:TX:a:i:t=À la canadienne
+*M6/8	*	*	*	*	*	*
+*>[A,Refrain,B1,Refrain,B2]	*>[A,Refrain,B1,Refrain,B2]	*>[A,Refrain,B1,Refrain,B2]	*>[A,Refrain,B1,Refrain,B2]	*>[A,Refrain,B1,Refrain,B2]	*>[A,Refrain,B1,Refrain,B2]	*>[A,Refrain,B1,Refrain,B2]
+*	*v:1	*v:2	*v:3	*v:4	*v:5	*v:6
+*	*pline:1	*pline:3	*pline:5	*pline:7	*pline:9	*pline:11Ha
+*>A	*>A	*>A	*>A	*>A	*>A	*>A
+{8d	Di-	Tout	–Pour-	–Non,	Ti-	Bap-
+=1	=1	=1	=1	=1	=1	=1
+*	*	*	*	*bis	*	*
+4g	-manch[e],	l'mond'	-quoi	non,	nest,	-tist',
+*	*	*	*	*Xbis	*	*
+8a	a-	dan-	n'dan-	ce	le	qui
+4b	-près	-sait	-sez-	n'est	vio-	"câ-
+8g	les	d'son	-vous	pas	-lo-	-lait
+=2	=2	=2	=2	=2	=2	=2
+[4.a	vêpr's,	mieux,	pas?	ça,	-neux,	l'set,"
+*	*	*	*	*	*	*rp:ɛ
+*	*	*	*	*	*	*rf:ɛt
+*	*	*	*	*	*	*rs:b1
+8a]	.	.	.	.	.	.
+8r}	.	.	.	.	.	.
+{8d	y au-	on	êt's-	j'ai	lais-	tout
+=3	=3	=3	=3	=3	=3	=3
+4g	-ra	s'fai-	-vous	un	-sait	tremp'
+8a	bal	-sait	trop	p'tit	pas	comm[e]
+4b	chez	pas	fa-	cor	l'temps	un'
+8g	Bou-	pri-	-ti-	au	d'souf-	la-
+!!LO:PB:g=original
+=4	=4	=4	=4	=4	=4	=4
+[4.a	-lé,	-er;	-guée?	pied,	-fler;	vett[e],
+*	*rp:e	*rp:e	*rp:e	*rp:e	*rp:e	*rp:ɛ
+*	*rf:le	*rf:je	*rf:ge	*rf:je	*rf:le	*rf:ɛt
+*	*rs:a1-	*rs:a3-	*rs:a4-	*rs:a3-	*rs:a1-	*rs:b1
+8a]	.	.	.	.	.	.
+8r}	.	.	.	.	.	.
+*	*pline:2	*pline:4	*pline:6	*pline:8	*pline:10	*pline:12
+{{8a	Mais	La	Ou	Je	Pour	S'é-
+=5	=5	=5	=5	=5	=5	=5
+4a	il	fill'	bien	vais	mettr'	-cri-
+8a	n'i-	de	a-	me	ça	-a:
+4a	-ra	"Jos	-vez-	con-	plus	"Do-
+8b	per-	Va-	-vous	-ten-	soul'-	-mi-
+=6	=6	=6	=6	=6	=6	=6
+[4.cc	sonn'	-lon"	peur	-ter	-vant,	-no!
+*	*	*	*	*	*	*rp:o
+*	*	*	*	*	*	*rf:no
+*	*	*	*	*	*	*rs:c1-
+8cc]	.	.	.	.	.	.
+8r}	.	.	.	.	.	.
+{8b	que	ne	d'u-	de	ta-	parc'
+!!LO:PB:g=original
+=7	=7	=7	=7	=7	=7	=7
+4a	ceux	vou-	-ser	vous	-pais	que
+8a	qui	-lut	vos	r'gar-	de	les
+4a	sav'nt	pas	beaux	-der	ses	femm[es]
+8a	dan-	dan-	sou-	dan-	deux	ont
+=8	=8	=8	=8	=8	=8	=8
+(8a^>	-ser.	-ser.	-liers?	-ser.	pieds.	chaud!"
+*	*rp:e	*rp:e	*rp:e	*rp:e	*rp:e	*rp:o
+*	*rf:se	*rf:e	*rf:je	*rf:e	*rf:je3-	*rf:ʃo
+*	*rs:a2-	*rs:a2-	*rs:a3-	*rs:a2-	*rs:a	*rs:c2-
+[4g)	.	.	.	.	.	.
+4.g]}}	.	.	.	.	.	.
+=9||:	=9||:	=9||:	=9||:	=9||:	=9||:	=9||:
+*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain
+*	*pline:R1Ha	*	*	*	*	*
+{{4b	Vo-	.	.	.	.	.
+8g	-gue,	.	.	.	.	.
+8g	ma-	.	.	.	.	.
+8f#	-ri-	.	.	.	.	.
+8g	-nier,	.	.	.	.	.
+!!LO:PB:g=original
+=10	=10	=10	=10	=10	=10	=10
+*	*bis	*bis	*bis	*bis	*bis	*bis
+4a	vo-	.	.	.	.	.
+8a}	-gue,	.	.	.	.	.
+{4d	vo-	.	.	.	.	.
+8d	-gue,	.	.	.	.	.
+=11	=11	=11	=11	=11	=11	=11
+*	*pline:R1Hb	*	*	*	*	*
+4a	Vo-	.	.	.	.	.
+8a	-gue,	.	.	.	.	.
+*	*Xbis	*Xbis	*Xbis	*Xbis	*Xbis	*Xbis
+8a	beau	.	.	.	.	.
+8b	ma-	.	.	.	.	.
+8a	-ri-	.	.	.	.	.
+=12	=12	=12	=12	=12	=12	=12
+!LO:TX:a:B:t=1	!	!	!	!	!	!
+*>B1	*>B1	*>B1	*>B1	*>B1	*>B1	*>B1
+4.g	-nier.	.	.	.	.	.
+*	*rp:e	*	*	*	*	*
+*	*rf:je	*	*	*	*	*
+*	*rs:a3-	*	*	*	*	*
+4r	.	.	.	.	.	.
+8r}	.	.	.	.	.	.
+=:||	=:||	=:||	=:||	=:||	=:||	=:||
+!LO:TX:a:B:t=2	!	!	!	!	!	!
+*>B2	*>B2	*>B2	*>B2	*>B2	*>B2	*>B2
+4.g	-nier.	.	.	.	.	.
+*	*rp:e	*	*	*	*	*
+*	*rf:je	*	*	*	*	*
+*	*rs:a3-	*	*	*	*	*
+4r}}	.	.	.	.	.	.
+==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-
+!!!RDF**kern: > = above
+!!!EED: Ève Poudrier
+!!!EEV: 2025/08/05
