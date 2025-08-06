@@ -83,6 +83,7 @@
 =9||:	=9||:	=9||:	=9||:	=9||:	=9||:	=9||:
 *>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain
 *	*pline:R1Ha	*	*	*	*	*
+!!LO:TX:a:B:t=[REFRAIN]
 {{4b	Vo-	.	.	.	.	.
 8g	-gue,	.	.	.	.	.
 8g	ma-	.	.	.	.	.
@@ -104,8 +105,8 @@
 8b	ma-	.	.	.	.	.
 8a	-ri-	.	.	.	.	.
 =12	=12	=12	=12	=12	=12	=12
-!LO:TX:a:B:t=1	!	!	!	!	!	!
 *>B1	*>B1	*>B1	*>B1	*>B1	*>B1	*>B1
+!!LO:TX:a:B:t=1
 4.g	-nier.	.	.	.	.	.
 *	*rp:e	*	*	*	*	*
 *	*rf:je	*	*	*	*	*
@@ -113,8 +114,8 @@
 4r	.	.	.	.	.	.
 8r}	.	.	.	.	.	.
 =:||	=:||	=:||	=:||	=:||	=:||	=:||
-!LO:TX:a:B:t=2	!	!	!	!	!	!
 *>B2	*>B2	*>B2	*>B2	*>B2	*>B2	*>B2
+!!LO:TX:a:B:t=2
 4.g	-nier.	.	.	.	.	.
 *	*rp:e	*	*	*	*	*
 *	*rf:je	*	*	*	*	*
