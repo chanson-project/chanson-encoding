@@ -1,0 +1,105 @@
+!!!id: BC096
+!!!page: 120
+!!!COM: Anonymous (Vieille chanson française)
+!!!ARR: Gadbois, Charles-Émile
+!!!PTL@@FR: Les 100 plus belles chansons
+!!!OTL: Le nez de Martin
+!!!PUB: La Bonne Chanson, inc.
+!!!YEM: On ne peut reproduire, enregistrer ou diffuser en tout ou en partie le présent ouvrage, sous quelque procédé que ce soit, électronique, mécanique, photographique, sonore, magnétique ou autre, sans avoir obtenu au préalable l'autorisation écrite de l'éditrice.
+!!!PDT: 2011
+!!!SMA: 2012 Bibliothèque nationale du Québec; Biblothèque nationale du Canada
+!!!AGN-Laforte: Chanson en laisse (avec refrain), 8:2(5+5), avec répétition à cheval, R:1(4+5)
+!!!AGN-type: Chanson comique
+!!!AGN-rime: monorime /a/
+!!!LYR-elision: Final "e" singulier (grand', dommag',; Final "e" pluriel (; Medial "e" (
+!!!RNB:
+**kern	**dynam	**text
+*clefG2	*	*
+*k[b-e-]	*	*
+*g:	*	*
+!!LO:TX:a:B:t=Modéré et lourd
+*M2/4	*	*
+*>[A,A,B,Refrain,C1,Refrain,C2]	*>[A,A,B,Refrain,C1,Refrain,C2]	*>[A,A,B,Refrain,C1,Refrain,C2]
+*	*	*v:
+*	*	*pline:
+*>A	*>A	*>A
+8g	<	Mar-
+8a	(	tin
+=1	=1	=1
+4b-	[	prend
+4a	.	sa
+.	>	.
+=2	=2	=2
+8g	)	ser-
+8fnZ	]	-pe,
+8g	<	Au
+8a	(	bois
+=3	=3	=3
+4b-	[	il
+4a	.	s'en
+.	>	.
+!!LO:PB:g=original
+=4	=4	=4
+4g	)	va.
+=:||	=:||	=:||
+*>B	*>B	*>B
+8b-	]	Fai-
+8b-	.	-sait
+=5	=5	=5
+4b-	.	grand'
+4dd	.	froi-
+=6	=6	=6
+8.cc	.	-du-
+16b-	.	-re,
+8a	.	Le
+8b-	.	nez
+=7	=7	=7
+4g	.	lui
+4a	.	ge-
+!!LO:PB:g=original
+=8	=8	=8
+[4d	.	la.
+8d]	.	.
+8r	.	.
+=9||:	=9||:	=9||:
+*>Refrain	*>Refrain	*>Refrain
+!!LO:TX:a:B:t=[REFRAIN]
+4g	.	Ah!
+8g	.	quel
+8g	.	dom-
+=10	=10	=10
+4g	.	-ma-
+4d,	.	-ge!
+=11	=11	=11
+8.b-	<	Quel
+16b-	(	dom-
+8b-	(	-mag',
+8cc	(	Mar-
+.	[	.
+!!LO:PB:g=original
+=12	=12	=12
+8dd,	.	-tin,
+8dd	.	Ah!
+8dd	>	quel
+8cc	)	dom-
+=13	=13	=13
+(8b-L	)	-ma-
+8cc	)	.
+8a	)	.
+8b-J)	)	.
+.	]	.
+=14	=14	=14
+*>C1	*>C1	*>C1
+!!LO:TX:a:B:t=1
+4g	.	-ge!
+4r	.	.
+=15:||	=15:||	=15:||
+*>C2	*>C2	*>C2
+!!LO:TX:a:B:t=2
+4g	>	-ge!
+.	]	.
+==	==	==
+*-	*-	*-
+!!!RDF**kern: Z = editorial accidental, parentheses
+!!!EED: Ève Poudrier
+!!!EEV: 2025/08/05
