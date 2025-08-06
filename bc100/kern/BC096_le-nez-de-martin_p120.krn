@@ -8,98 +8,115 @@
 !!!YEM: On ne peut reproduire, enregistrer ou diffuser en tout ou en partie le présent ouvrage, sous quelque procédé que ce soit, électronique, mécanique, photographique, sonore, magnétique ou autre, sans avoir obtenu au préalable l'autorisation écrite de l'éditrice.
 !!!PDT: 2011
 !!!SMA: 2012 Bibliothèque nationale du Québec; Biblothèque nationale du Canada
-!!!AGN-Laforte: Chanson en laisse (avec refrain), 8:2(5+5), avec répétition à cheval, R:1(4+5)
-!!!AGN-type: Chanson comique
+!!!AGN-Laforte: Chanson en laisse (avec refrain), 8:2(5+5), avec répétition à cheval, R:1(4+5+4r)
+!!!AGN-type: Chanson comique religieuse
 !!!AGN-rime: monorime /a/
-!!!LYR-elision: Final "e" singulier (grand', dommag',; Final "e" pluriel (; Medial "e" (
-!!!RNB:
-**kern	**dynam	**text
-*clefG2	*	*
-*k[b-e-]	*	*
-*g:	*	*
+!!!LYR-elision: Final "e" singulier (grand', dommag'); Final "e" pluriel (cierg's)
+**kern	**dynam	**text	**blank	**blank	**blank	**blank	**blank	**blank	**blank
+*clefG2	*	*	*	*	*	*	*	*	*
+*k[b-e-]	*	*	*	*	*	*	*	*	*
+*g:	*	*	*	*	*	*	*	*	*
 !!LO:TX:a:B:t=Modéré et lourd
-*M2/4	*	*
-*>[A,A,B,Refrain,C1,Refrain,C2]	*>[A,A,B,Refrain,C1,Refrain,C2]	*>[A,A,B,Refrain,C1,Refrain,C2]
-*	*	*v:
-*	*	*pline:
-*>A	*>A	*>A
-8g	<	Mar-
-8a	(	tin
-=1	=1	=1
-4b-	[	prend
-4a	.	sa
-.	>	.
-=2	=2	=2
-8g	)	ser-
-8fnZ	]	-pe,
-8g	<	Au
-8a	(	bois
-=3	=3	=3
-4b-	[	il
-4a	.	s'en
-.	>	.
+*M2/4	*	*	*	*	*	*	*	*	*
+*>[A,A,B,Refrain,C1,Refrain,C2]	*>[A,A,B,Refrain,C1,Refrain,C2]	*>[A,A,B,Refrain,C1,Refrain,C2]	*>[A,A,B,Refrain,C1,Refrain,C2]	*>[A,A,B,Refrain,C1,Refrain,C2]	*>[A,A,B,Refrain,C1,Refrain,C2]	*>[A,A,B,Refrain,C1,Refrain,C2]	*>[A,A,B,Refrain,C1,Refrain,C2]	*>[A,A,B,Refrain,C1,Refrain,C2]	*>[A,A,B,Refrain,C1,Refrain,C2]
+*	*	*v:1	*v:2	*v:3	*v:4	*v:5	*v:6	*v:7	*v:8
+*	*	*pline:1Ha	*pline:2Har	*pline:3Har	*pline:4Har	*pline:5Har	*pline:6Har	*pline:7Ha	*pline:8Ha
+*>A	*>A	*>A	*>A	*>A	*>A	*>A	*>A	*>A	*>A
+8g	<	Mar-	Fai-	Mar-	Dans	Trois	Ah!	C'est	Dans
+8a	(	tin	-sait	-tin	le	jeu-	dit	le	le
+=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+4b-	[	prend	grand'	prit	trou	-nes	la	nez	mo-
+4a	.	sa	froi-	sa	d'un	non-	plus	d'un	-nas-
+.	>	.	.	.	.	.	.	.	.
+=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+8g	)	ser-	-du-	ser-	ar-	-net-	jeu-	moi-	-tè-
+8fnZ	]	-pe,	-re,	-pe,	-bre,	-tes	-ne,	-ne,	-re,
+*	*	*pline:1Hb	*pline:2Hbr	*pline:3Hbr	*pline:4Hbr	*pline:5Hbr	*pline:6Hbr	*pline:7Hbr	*pline:8Hbr
+8g	<	Au	Le	Il	Mar-	Ont	Ma	Qu'on	Il
+8a	(	bois	nez	se	-tin	pas-	soeur,	a	nous
+=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+4b-	[	il	lui	le	le	-sé	qu'est	plan-	ser-
+4a	.	s'en	ge-	cou-	pla-	par	donc	-té	-vi-
+.	>	.	.	.	.	.	.	.	.
 !!LO:PB:g=original
-=4	=4	=4
-4g	)	va.
-=:||	=:||	=:||
-*>B	*>B	*>B
-8b-	]	Fai-
-8b-	.	-sait
-=5	=5	=5
-4b-	.	grand'
-4dd	.	froi-
-=6	=6	=6
-8.cc	.	-du-
-16b-	.	-re,
-8a	.	Le
-8b-	.	nez
-=7	=7	=7
-4g	.	lui
-4a	.	ge-
+=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
+4g	)	va.	-la.	-pa.	-ça.	là.	-ça?	là.	-ra.
+*	*	*rp:a	*rp:a	*rp:a	*rp:a	*rp:a	*rp:a	*rp:a	*rp:a
+*	*	*rf:va	*rf:la	*rf:pa	*rf:sa	*rf:la	*rf:sa	*rf:la	*rf:ʁa
+*	*	*rs:a1-	*rs:a2-	*rs:a3-	*rs:a4-	*rs:a2-	*rs:a4-	*rs:a2-	*rs:a5-
+=:||	=:||	=:||	=:||	=:||	=:||	=:||	=:||	=:||	=:||
+*>B	*>B	*>B	*>B	*>B	*>B	*>B	*>B	*>B	*>B
+*	*	*pline:2Ha	*pline:3Ha	*pline:4Ha	*pline:5Ha	*pline:6Ha	*pline:7Ha	*pline:8Ha	*pline:9Ha
+8b-	]	Fai-	Mar-	Dans	Trois	–Ah!	–C'est	Dans	Au
+8b-	.	-sait	-tin	le	jeu-	dit	le	le	bout
+=5	=5	=5	=5	=5	=5	=5	=5	=5	=5
+4b-	.	grand'	prit	trou	-nes	la	nez	mo-	d'u-
+4dd	.	froi-	sa	d'un	non-	plus	d'un	-nas-	-ne
+=6	=6	=6	=6	=6	=6	=6	=6	=6	=6
+8.cc	.	-du-	ser-	ar-	-net-	jeu-	moi-	-tè-	per-
+16b-	.	-re,	-pe,	-bre,	-tes	-ne,	-ne,	-re,	-che,
+*	*	*pline:2Hb	*pline:3Hb	*pline:4Hb	*pline:5Hb	*pline:6Hb	*pline:7Hb	*pline:8Hb	*pline:9Hb
+8a	.	Le	Il	Mar-	Ont	Ma	Qu'on	Il	Les
+8b-	.	nez	se	-tin	pas-	soeur,	a	nous	cierg's
+=7	=7	=7	=7	=7	=7	=7	=7	=7	=7
+4g	.	lui	le	le	-sé	qu'est	plan-	ser-	é-
+4a	.	ge-	cou-	pla-	par	donc	-té	-vi-	-tein-
 !!LO:PB:g=original
-=8	=8	=8
-[4d	.	la.
-8d]	.	.
-8r	.	.
-=9||:	=9||:	=9||:
-*>Refrain	*>Refrain	*>Refrain
+=8	=8	=8	=8	=8	=8	=8	=8	=8	=8
+[4d	.	la.	-pa.	-ça.	là.	-ça?	là.	-ra.	-dra.
+*	*	*rp:a	*rp:a	*rp:a	*rp:a	*rp:a	*rp:a	*rp:a	*rp:a
+*	*	*rf:la	*rf:pa	*rf:sa	*rf:la	*rf:sa	*rf:la	*rf:ʁa	*rf:ʁa
+*	*	*rs:a2-	*rs:a3-	*rs:a4-	*rs:a2-	*rs:a4-	*rs:a2-	*rs:a5-	*rs:a5-
+8d]	.	.	.	.	.	.	.	.	.
+8r	.	.	.	.	.	.	.	.	.
+=9||:	=9||:	=9||:	=9||:	=9||:	=9||:	=9||:	=9||:	=9||:	=9||:
+*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain
 !!LO:TX:a:B:t=[REFRAIN]
-4g	.	Ah!
-8g	.	quel
-8g	.	dom-
-=10	=10	=10
-4g	.	-ma-
-4d,	.	-ge!
-=11	=11	=11
-8.b-	<	Quel
-16b-	(	dom-
-8b-	(	-mag',
-8cc	(	Mar-
-.	[	.
+*	*	*pline:R1Ha	*	*	*	*	*	*	*
+4g	.	Ah!	.	.	.	.	.	.	.
+8g	.	quel	.	.	.	.	.	.	.
+8g	.	dom-	.	.	.	.	.	.	.
+=10	=10	=10	=10	=10	=10	=10	=10	=10	=10
+4g	.	-ma-	.	.	.	.	.	.	.
+4d,	.	-ge!	.	.	.	.	.	.	.
+*	*	*rp:a	*	*	*	*	*	*	*
+*	*	*rf:aʒ,ə	*	*	*	*	*	*	*
+*	*	*rs:a6	*	*	*	*	*	*	*
+=11	=11	=11	=11	=11	=11	=11	=11	=11	=11
+*	*	*pline:R1Hb	*	*	*	*	*	*	*
+8.b-	<	Quel	.	.	.	.	.	.	.
+16b-	(	dom-	.	.	.	.	.	.	.
+8b-	(	-mag',	.	.	.	.	.	.	.
+8cc	(	Mar-	.	.	.	.	.	.	.
+.	[	.	.	.	.	.	.	.	.
 !!LO:PB:g=original
-=12	=12	=12
-8dd,	.	-tin,
-8dd	.	Ah!
-8dd	>	quel
-8cc	)	dom-
-=13	=13	=13
-(8b-L	)	-ma-
-8cc	)	.
-8a	)	.
-8b-J)	)	.
-.	]	.
-=14	=14	=14
-*>C1	*>C1	*>C1
+=12	=12	=12	=12	=12	=12	=12	=12	=12	=12
+8dd,	.	-tin,	.	.	.	.	.	.	.
+*	*	*pline:R1Har	*	*	*	*	*	*	*
+8dd	.	Ah!	.	.	.	.	.	.	.
+8dd	>	quel	.	.	.	.	.	.	.
+8cc	)	dom-	.	.	.	.	.	.	.
+=13	=13	=13	=13	=13	=13	=13	=13	=13	=13
+(8b-L	)	-ma-	.	.	.	.	.	.	.
+*	*	*rp:a	*	*	*	*	*	*	*
+*	*	*rf:aʒ,ə	*	*	*	*	*	*	*
+*	*	*rs:a6	*	*	*	*	*	*	*
+8cc	)	.	.	.	.	.	.	.	.
+8a	)	.	.	.	.	.	.	.	.
+8b-J)	)	.	.	.	.	.	.	.	.
+.	]	.	.	.	.	.	.	.	.
+=14	=14	=14	=14	=14	=14	=14	=14	=14	=14
+*>C1	*>C1	*>C1	*>C1	*>C1	*>C1	*>C1	*>C1	*>C1	*>C1
 !!LO:TX:a:B:t=1
-4g	.	-ge!
-4r	.	.
-=15:||	=15:||	=15:||
-*>C2	*>C2	*>C2
+4g	.	-ge!	.	.	.	.	.	.	.
+4r	.	.	.	.	.	.	.	.	.
+=15:||	=15:||	=15:||	=15:||	=15:||	=15:||	=15:||	=15:||	=15:||	=15:||
+*>C2	*>C2	*>C2	*>C2	*>C2	*>C2	*>C2	*>C2	*>C2	*>C2
 !!LO:TX:a:B:t=2
-4g	>	-ge!
-.	]	.
-==	==	==
-*-	*-	*-
+4g	>	-ge!	.	.	.	.	.	.	.
+.	]	.	.	.	.	.	.	.	.
+==	==	==	==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
 !!!RDF**kern: Z = editorial accidental, parentheses
 !!!EED: Ève Poudrier
 !!!EEV: 2025/08/05
