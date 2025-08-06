@@ -1,0 +1,89 @@
+!!!id: BC097
+!!!page: 121
+!!!COM: Anonymous (Folklore)
+!!!PTL@@FR: Les 100 plus belles chansons
+!!!OTL: Colin (ou: La poule à Colin)
+!!!PUB: La Bonne Chanson, inc.
+!!!YEM: On ne peut reproduire, enregistrer ou diffuser en tout ou en partie le présent ouvrage, sous quelque procédé que ce soit, électronique, mécanique, photographique, sonore, magnétique ou autre, sans avoir obtenu au préalable l'autorisation écrite de l'éditrice.
+!!!PDT: 2011
+!!!SMA: 2012 Bibliothèque nationale du Québec; Biblothèque nationale du Canada
+!!!AGN-Laforte: Chanson en laisse (avec refrain), 8:2(6+6), avec répétition à cheval; R:1(6+6)
+!!!AGN-type: Chanson de paysan
+!!!AGN-rime: monorime /ẽ/, couplets seulement.
+!!!LYR-elision: Final "e" singulier (sauc') ; Medial "e" (v'nir, v'nu)
+!!!RNB: Replaced final period before the refrain in v:5 to v:8 by a comma to be consistent with v:1 to v:4.
+**kern	**text	**text	**text	**text	**text	**text	**text	**text
+*clefG2	*	*	*	*	*	*	*	*
+*k[]	*	*	*	*	*	*	*	*
+*a:	*	*	*	*	*	*	*	*
+*M4/4	*	*	*	*	*	*	*	*
+*met(c)	*	*	*	*	*	*	*	*
+*	*v:1	*v:2	*v:3	*v:4	*v:5	*v:6	*v:7	*v:8
+*	*pline:1Ha	*pline:2Har	*pline:3Har	*pline:4Har	*pline:5Har	*pline:6Har	*pline:7Har	*pline:8Har
+!!LO:TX:a:B:t=Solo – Reprise par le Choeur
+4cc	Co-	Ell[e]	Co-	Il	In-	Le	Trou-	Des
+8a	-lin	a	-lin	en	-vi-	mai-	-va	mains
+8b	a-	pris	a	fit	-ta	-re	la	jus-
+8cc	-t-u-	sa	pris	u-	la	du	sauc'	-ques
+8dd	-ne	vo-	sa	-ne	pa-	vil-	si	aux
+=1	=1	=1	=1	=1	=1	=1	=1	=1
+8b	pou-	-lé-	four-	sau-	-rois-	-la-	bon-	cou-
+8b	-le	-e	-che,	-ce	-se	-ge	-ne	-des,
+*	*pline:1Hb	*pline:2Hbr	*pline:3Hbr	*pline:4Hbr	*pline:5Hbr	*pline:6Hbr	*pline:7Hbr	*pline:8Hbr
+4cc	Qui	Dans	Lui	Pour	D'y	Est	Qu'il	Des
+8a	pond	la	a	di-	v'nir	v'nu	y	cou-
+8b	tous	cour	cas-	-manch[e]	trem-	trem-	trem-	-des
+8cc	les	du	-sé	au	-per	-per	-pa	jus-
+8dd	ma-	voi-	les	ma-	son	le	les	-qu'au
+!!LO:PB:g=original
+=2	=2	=2	=2	=2	=2	=2	=2	=2
+4b	-tins;	-sin.	reins;	-tin.	pain.	sien;	mains;	reins.
+*	*rp:ẽ	*rp:ẽ	*rp:ẽ	*rp:ẽ	*rp:ẽ	*rp:ẽ	*rp:ẽ	*rp:ẽ
+*	*rf:tẽ	*rf:zẽ	*rf:ʁẽ	*rf:tẽ	*rf:pẽ	*rf:jẽ	*rf:mẽ	*rf:ʁẽ
+*	*rs:a1-	*rs:a2-	*rs:a3-	*rs:a1-	*rs:a4-	*rs:a5-	*rs:a6-	*rs:a3-
+=:||	=:||	=:||	=:||	=:||	=:||	=:||	=:||	=:||
+*	*pline:2Ha	*pline:3Ha	*pline:4Ha	*pline:5Ha	*pline:6Ha	*pline:7Ha	*pline:8Ha	*pline:9Ha
+4b	Ell[e]	Co-	Il	In-	Le	Trou-	Des	Ain-
+8b	a	-lin	en	-vi-	mai-	-va	mains	-si
+8b	pris	a	fit	-ta	-re	la	jus-	fi-
+8b	sa	pris	u-	la	du	sauc'	-ques	-nit
+8b	vo-	sa	ne	pa-	vil-	si	aux	l'his-
+=3	=3	=3	=3	=3	=3	=3	=3	=3
+8cc	-lé-	four-	sau-	-rois-	-la-	bon-	cou-	-toi-
+8a	-e	-che,	-ce	-se	-ge	-ne	-des,	-re
+*	*pline:2Hb	*pline:3Hb	*pline:4Hb	*pline:5Hb	*pline:6Hb	*pline:7Hb	*pline:8Hb	*pline:9Hb
+4a	Dans	Lui	Pour	D'y	Est	Qu'il	Des	De
+8g	la	a	di-	v'nir	v'nu	y	cou-	la
+8a	cour	cas-	-manch[e]	trem-	trem-	trem-	-des	poul[e]
+8b	du	-sé	au	-per	-per	-pa	jus-	à
+8b	voi-	les	ma-	son	le	les	-qu'aux	Co-
+!!LO:PB:g=original
+=4	=4	=4	=4	=4	=4	=4	=4	=4
+8cc	-sin,	reins,	-tin,	pain,	sien,	mains,	reins,	-lin,
+*	*rp:ẽ	*rp:ẽ	*rp:ẽ	*rp:ẽ	*rp:ẽ	*rp:ẽ	*rp:ẽ	*rp:ẽ
+*	*rf:zẽ	*rf:ʁẽ	*rf:tẽ	*rf:pẽ	*rf:jẽ	*rf:mẽ	*rf:ʁẽ	*rf:lẽ
+*	*rs:a2-	*rs:a3-	*rs:a1-	*rs:a4-	*rs:a5-	*rs:a6-	*rs:a3-	*rs:a7-
+=::	=::	=::	=::	=::	=::	=::	=::	=::
+*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain
+*	*pline:R1Ha	*	*	*	*	*	*	*
+!!LO:TX:a:i:t=sans arrêt
+8a	Sur	.	.	.	.	.	.	.
+2cc	l'eau,	.	.	.	.	.	.	.
+8b	sur	.	.	.	.	.	.	.
+16cc	la	.	.	.	.	.	.	.
+16dd	ri-	.	.	.	.	.	.	.
+=5	=5	=5	=5	=5	=5	=5	=5	=5
+8cc	-viè-	.	.	.	.	.	.	.
+8b	-re,	.	.	.	.	.	.	.
+*	*pline:R1Hb	*	*	*	*	*	*	*
+4a	Sur	.	.	.	.	.	.	.
+8g	le	.	.	.	.	.	.	.
+8a	bord	.	.	.	.	.	.	.
+8b	du	.	.	.	.	.	.	.
+8cc	vais-	.	.	.	.	.	.	.
+=6	=6	=6	=6	=6	=6	=6	=6	=6
+4a	-seau.	.	.	.	.	.	.	.
+==	==	==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!EED: Ève Poudrier
+!!!EEV: 2025/08/05
