@@ -1,0 +1,177 @@
+!!!id: BC099
+!!!page: 123b
+!!!COM: Anonymous
+!!!PTL@@FR: Les 100 plus belles chansons
+!!!OTL: Marie Calumet
+!!!HAO: Song text reported to have been extracted from Rodolphe Girard's novel, "Marie Calumet" (1904). Integrated refrain is the same as that from "En revenant du Piémont" (chanson paillarde française), and may have been composed or transcribed by Gabriel Cusson (1903–1972), composer and pedagogue. (Wikipedia, accessed 2025/08/07)
+!!!PUB: La Bonne Chanson, inc.
+!!!YEM: On ne peut reproduire, enregistrer ou diffuser en tout ou en partie le présent ouvrage, sous quelque procédé que ce soit, électronique, mécanique, photographique, sonore, magnétique ou autre, sans avoir obtenu au préalable l'autorisation écrite de l'éditrice.
+!!!PDT: 2011
+!!!SMA: 2012 Bibliothèque nationale du Québec; Biblothèque nationale du Canada
+!!!AGN-Laforte: Chanson strophique (avec refrain intégré), 3:6(10/8)
+!!!AGN-type: Chanson de mariage
+!!!AGN-rime: suivies (aabbcc), with some rhyming across stanzas.
+!!!LYR-elision: Final "e" singulier (l'curé, d'foie, d'patt', Baptist'), pluriel (noc's); Medial "e" (p'tit)
+!!!RNB: Labeling: pline:6/6r is a reversed version of pline:4/4r and could alternatively be labeled pline:4rm
+**kern	**text	**text	**text
+*clefG2:	*	*	*
+*k[]	*	*	*
+*C:	*	*	*
+*M2/4	*	*	*
+*	*v:1	*v:2	*v:3
+*	*pline:1	*pline:7	*pline:11
+!!LO:S:dash
+{{(16cc	Ma-	Nous	On
+16cc)	rie	.	.
+16cc	Ca-	a-	s'a-
+16cc	-lu	-vons	-mu-
+=1	=1	=1	=1
+8b	-met	eu	-sa,
+!!LO:S:dash
+(16b	veut	un	jeu-
+16b)	se	.	.
+8a	ma-	bon	-nes
+8a	-ri-	re-	et
+=2	=2	=2	=2
+4g}	-er,	-pas,	vieux,
+*	*rp:e	*rp:a	*rp:œ
+*	*rf:je	*rf:pa	*rf:jœ
+*	*rs:a1-	*rs:d1-	*rs:e1-
+*	*pline:1r	*pline:7r	*pline:11r
+!!LO:S:dash
+{(16f	Ma-	Nous	On
+16f)	-rie	.	.
+16f	Ca-	a-	s'a-
+16f	-lu-	-vons	-mu-
+!!LO:PB:g=original
+=3	=3	=3	=3
+8e	-met	eu	-sa,
+!!LO:S:dash
+(16c	veut	un	jeu-
+16c)	se	.	.
+8e	ma-	bon	-nes
+8g	-ri-	re-	et
+=4	=4	=4	=4
+8cc	-er,	-pas,	vieux,
+*	*rp:e	*rp:a	*rp:œ
+*	*rf:je	*rf:pa	*rf:jœ
+*	*rs:a1-	*rs:d1-	*rs:e1-
+8r}}	.	.	.
+*	*pline:2	*pline:8	*pline:12
+!!LO:S:dash
+{{(16cc	A-	Mu-	Grâc[e]
+16cc)	-vec	.	.
+16cc	l'en-	-ni	à
+16cc	-ga-	de	Bap-
+!!LO:PB:g=original
+=5	=5	=5	=5
+8b	-gé	bons	-tist'
+!!LO:S:dash
+(16b	de	pâ-	le
+16b)	Mon-	.	.
+8a	-sieur	-tés	vio-
+8a	l'cu-	d'foie	-lo-
+=6	=6	=6	=6
+4g}	-ré,	gras,	-neux;
+*	*rp:e	*rp:a	*rp:œ
+*	*rf:ʁe	*rf:ʁa	*rf:nœ
+*	*rs:a2-	*rs:d2-	*rs:e2-
+*	*pline:2r	*pline:8r	*pline:12r
+!!LO:S:dash
+{(16f	A-	Mu-	Grâc[e]
+16f)	-vec	.	.
+16f	-l'en-	-ni	à
+16f	-ga-	de	Bap-
+=7	=7	=7	=7
+8e	-gé	bons	-tist'
+!!LO:S:dash
+(16c	de	pâ-	le
+16c)	Mon-	.	.
+8e	-sieur	-tés	vio-
+8g	l'cu-	d'foie	-lo-
+!!LO:PB:g=original
+=8	=8	=8	=8
+8cc	-ré.	gras;	-neux;
+*	*rp:e	*rp:a	*rp:œ
+*	*rf:ʁe	*rf:ʁa	*rf:nœ
+*	*rs:a2-	*rs:d2-	*rs:e2-
+8r}}	.	.	.
+*	*pline:3	*pline:9	*pline:13
+{{8e	Les	Du	On
+!!LO:S:dash
+(16e	noc's	ra-	prit
+16e)	se	-goût	un
+=9	=9	=9	=9
+8e	font	d'patt'	coup,
+8c	au	et	la
+8e	pres-	des	bell[e]
+8g	-by-	tour-	af-
+=10	=10	=10	=10
+8a	-tè-	-tiè-	-fai-
+8g}	-re,	-res,	-re!
+*	*rp:ɛː	*rp:ɛː	*rp:ɛː
+*	*rf:ɛːʁ,ə	*rf:ɛːʁ,ə	*rf:ɛːʁ,ə
+*	*rs:b1	*rs:b1	*rs:b1
+*	*pline:4	*pline:4r	*pline:4r
+*	*refrain	*refrain	*refrain
+*	*italic	*italic	*italic
+{16e	Sens	Sens	Sens
+16e	des-	des-	des-
+16e	-sus	-sus	-sus
+16e	des-	des-	des-
+!!LO:PB:g=original
+=11	=11	=11	=11
+8e	-sous,	-sous,	-sous,
+16c	sens	sens	sens
+16c	de-	de-	de-
+8e	-vant	-vant	-vant
+8g	der-	der-	der-
+=12	=12	=12	=12
+8a	-riè-	-riè-	-riè-
+8g}}	-re;	-re;	-re;
+*	*rp:ɛː	*rp:ɛː	*rp:ɛː
+*	*rf:ɛːʁ,ə	*rf:ɛːʁ,ə	*rf:ɛːʁ,ə
+*	*rs:b1	*rs:b1	*rs:b1
+*	*Xrefrain	*Xrefrain	*Xrefrain
+*	*Xitalic	*Xitalic	*Xitalic
+*	*pline:5	*pline:10	*pline:14
+{{8cc	Nous	Il	Y'a-
+16cc	y	y en	-vait
+16cc	se-	a-	du
+=13	=13	=13	=13
+8b	-ront	-vait	bon
+8a	in-	pour	p'tit
+8b	-vi-	tous	ca-
+8cc	-tés	les	-ri-
+!!LO:PB:g=original
+=14	=14	=14	=14
+8dd	tous,	goûts,	-bou,
+*	*rp:u	*rp:u	*rp:u
+*	*rf:tu	*rf:gu	*rf:bu
+*	*rs:c1-	*rs:c3-	*rs:c4-
+8r}	.	.	.
+*	*pline:6	*pline:6r	*pline:6r
+*	*refrain	*refrain	*refrain
+*	*italic	*italic	*italic
+{16cc	Sens	Sens	Sens
+16cc	de-	de-	de-
+16cc	-vant	-vant	-vant
+16cc	der-	der-	der-
+=15	=15	=15	=15
+16cc	-riè-	-riè-	-riè-
+16cc	-re,	-re,	-re,
+16cc	sens	sens	sens
+16dd	des-	des-	des-
+8ee	-sus	-sus	-sus
+8dd	des-	des-	des-
+=16	=16	=16	=16
+4cc}}	-sous.	-sous.	-sous.
+*	*rp:u	*rp:u	*rp:u
+*	*rf:su	*rf:su	*rf:su
+*	*rs:c2-	*rs:c2-	*rs:c2-
+*	*Xrefrain	*Xrefrain	*Xrefrain
+*	*Xitalic	*Xitalic	*Xitalic
+==	==	==	==
+*-	*-	*-	*-
+!!!EED: Ève Poudrier
+!!!EEV: 2025/08/07
