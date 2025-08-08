@@ -1,0 +1,562 @@
+!!!id: BC100
+!!!page: 124-125
+!!!COM: Gadbois, Charles-Émile
+!!!ODT: E.L.C. 1948
+!!!PTL@@FR: Les 100 plus belles chansons
+!!!OTL: Pot pourri
+!!!PUB: La Bonne Chanson, inc.
+!!!YEM: On ne peut reproduire, enregistrer ou diffuser en tout ou en partie le présent ouvrage, sous quelque procédé que ce soit, électronique, mécanique, photographique, sonore, magnétique ou autre, sans avoir obtenu au préalable l'autorisation écrite de l'éditrice.
+!!!PDT: 2011
+!!!SMA: 2012 Bibliothèque nationale du Québec; Biblothèque nationale du Canada
+!!!AGN-Laforte: Chanson composée
+!!!AGN-type: Pot pourri
+!!!AGN-rime: none
+!!!LYR-elision: Final "e" singulier (, n'sont), pluriel () ; Medial "e" (p'tite, f'ra, haut'ment, prom'ner); "mamzell'" = "mademoiselle"
+!!!RNB: Partial double barlines on top staff line are encoded as breath marks; initials and date below staff at the end of the song are encoded as !!!ODT.
+!!!RNB-performance: Note: Quand on répète le canon: "Frère Jacques" on peut se diviser en deux choeurs : quand le premiere est rendu à (B), le second commence à (A).
+**kern	**dynam	**text
+*clefG2	*	*
+*k[f#]	*	*
+*G:	*	*
+!!LO:TX:a:B:t=Solennel
+*M2/4	*	*
+*	*	*pline:1
+16b	.	Je
+=1	=1	=1
+8.b	.	vais
+16a	.	vous
+8.a	.	ra-
+16g	.	-con-
+=2	=2	=2
+4g	.	ter
+*Xbrackettup	*	*
+*tuplet	*	*
+!LO:TUP:b	!	!
+(12g	.	un'
+12f#	.	p'tite
+12g)	.	his-
+=3	=3	=3
+4a	.	-toir'
+!LO:TUP:b	!	!
+(12a	.	bien
+12g	.	ef-
+12a)	.	-fray-
+!!LO:PB:g=original
+=4	=4	=4
+4b	.	-an-
+8g	.	-te,
+16r	.	.
+*	*	*pline:2
+16b	.	Je
+=5	=5	=5
+8.b	.	vais
+16a	.	vous
+8.a	.	ra-
+16g	.	-con-
+=6	=6	=6
+4g	.	-ter
+!LO:TUP:b	!	!
+(12g	.	un'
+12f#	.	p'tite
+12g)	.	his-
+=7	=7	=7
+8a	.	-toir'
+16a	.	qui
+16a	.	vous
+8g	.	f'ra
+8a;	.	pleu-
+!!LO:PB:g=original
+=8	=8	=8
+4g	.	-rer:
+8r	.	.
+*	*	*pline:3
+!!LO:TX:a:B:t=Allegretto.
+8d'	.	Un
+=9||	=9||	=9||
+8g'	.	jour
+8g'	.	maî-
+8g'	.	-tre
+8g'	.	cor-
+=10	=10	=10
+8g'	.	-beau
+8d'	.	sur
+8g'	.	un
+8a'	.	ar-
+=11	=11	=11
+8b'/^<	.	-bre
+8r	.	.
+8a'^<	.	per-
+8r	.	.
+=12	=12	=12
+4g'^<	.	-ché
+8r	.	.
+*	*	*pline:4
+8g	.	Te-
+!!LO:PB:g=original
+=13	=13	=13
+8f#	.	-nait
+8e	.	de-
+8f#	.	-dans
+8g	.	son
+=14	=14	=14
+8a,	.	bec:
+*	*	*pline:5
+8g	.	Un
+8g	.	ca-
+8g	.	-na-
+=15||	=15||	=15||
+!!LO:TX:a:B:t=Andante.
+*M3/4	*	*
+2d	.	-dien
+4g	.	er-
+=16	=16	=16
+2.b/	.	-rant,
+=17	=17	=17
+*	*	*pline:6
+4b/	.	Ban-
+4a	.	-ni
+4b/	.	de
+=18	=18	=18
+2cc	.	ses
+4b	.	foy-
+!!LO:PB:g=original
+=19	=19	=19
+2.a	.	-ers,
+=20	=20	=20
+*	*	*pline:7
+4a	.	Par-
+4a	.	-cou-
+4a	.	-rait
+=21||	=21||	=21||
+*	*	*pline:8
+2b/	.	En
+4a	.	rou-
+=22||	=22||	=22||
+!!LO:TX:a:B:t=Allegro.
+*M6/8	*	*
+4g	.	-lant
+8d	.	ma
+8e	.	bou-
+8d	.	-le
+8e	.	rou-
+=23	=23	=23
+4.d	.	-lant,
+*	*	*pline:9
+4b/	.	En
+8a	.	rou-
+!!LO:PB:g=original
+=24||	=24||	=24||
+*M9/8	*	*
+4g,	.	-lant...
+8g	.	ma
+4b/	.	p'tit'
+8b/	.	ma-
+4b/	.	mzell'
+8b/	.	Ma-
+=25||	=25||	=25||
+*M6/8	*	*
+4.cc	.	rian-
+4b	.	-ne,
+*	*	*pline:10
+8b	.	Prê-
+=26	=26	=26
+4a	.	-tez-
+8a	.	-moi
+4a	.	donc
+8a	.	votr[e]
+!!LO:PB:g=original
+=27	=27	=27
+4.b/	.	â-
+4g	.	-ne,
+*	*	*pline:11
+8g	.	Prê-
+=28	=28	=28
+4b/	.	-tez-
+8b/	.	-moi
+4b/	.	donc
+8b/	.	votr[e]
+=29||	=29||	=29||
+*M4/4	*	*
+*met(c)	*	*
+4cc	.	â-
+8b	.	-ne,
+8dd	.	pour
+8dd	.	al-
+8cc	.	-ler...
+*	*	*pline:12
+8b	.	Sur
+8a	.	le
+=30||	=30||	=30||
+*M2/4	*	*
+4g	.	pont
+8a	.	D'A-
+8a	.	-vi-
+!!LO:PB:g=original
+=31	=31	=31
+4a	.	-gnon,
+*	*	*pline:13
+8b	.	En
+8cc	.	ca-
+=32	=32	=32
+8dd	.	-den-
+8g	.	-ce
+*	*	*pline:14
+8f#	.	L'on
+8g	.	y
+=33	=33	=33
+8a	.	dan-
+8d	.	-se,
+*	*	*pline:12r
+8g	.	Sur
+8g	.	le
+=34	=34	=34
+4g	.	pont
+8a	.	D'A-
+8a	.	-vi-
+=35	=35	=35
+4a	.	-gnon,
+*	*	*pline:14r
+8b	.	L'on
+8cc	.	y
+!!LO:PB:g=original
+=36	=36	=36
+8dd	.	dan-
+8g	.	-se
+*	*	*pline:15
+8a	.	Tout
+8f#	.	en
+=37	=37	=37
+4g	.	rond.
+4r	.	.
+=38	=38	=38
+*	*	*pline:16
+8a	.	Les
+16a	.	mes-
+16a	.	-sieurs
+8a	.	font
+8a	.	comm'
+=39	=39	=39
+8e	.	ci,
+8e	.	comm'
+8e	.	ci,
+8r	.	.
+!!LO:PB:g=original
+=40	=40	=40
+*	*	*pline:17
+8a	.	Les
+16a	.	da-
+16a	.	-mes
+8a	.	font
+8a	.	comm'
+=41	=41	=41
+8d	.	ça,
+8d	.	comm'
+[4dd	.	ça...
+=42	=42	=42
+(4dd;]	.	.
+*	*	*pline:18
+!!LO:TX:a:B:t=Allegro moderato.
+8.g)	.	A-
+16a	.	-lou-
+!!wrong measure numbers from here onward
+=43||	=43||	=43||
+8b/	.	-et-
+8b/	.	-te,
+16a	.	gen-
+16g	.	till[e]
+16a	.	a-
+16b/	.	-lou-
+!!LO:PB:g=original
+=44	=44	=44
+8g	.	-et-
+8d	.	-te,
+*	*	*pline:19
+8.g	.	A-
+16a	.	-lou-
+=45	=45	=45
+8b/	.	-et-
+8b/	.	-te,
+16a	.	je
+16g	.	t'y
+16a	.	plu-
+16b/	.	-me-
+=46	=46	=46
+8g	.	-rai,
+*	*	*pline:20
+16g	.	Je
+16g	.	t'y
+16g	.	plu-
+16g	.	-me-
+16g	.	-rai
+16b/	.	le
+!!LO:PB:g=original
+=47	=47	=47
+8dd	.	dos,
+16dd	.	je
+16ee	.	t'y
+16dd	.	plu-
+16cc	.	-me-
+16b/	.	-rai
+16a	.	le
+=48	=48	=48
+8g	.	dos,
+*	*	*pline:21
+16dd	.	Ah!
+16dd	.	le
+4dd;	.	dos...
+=49||	=49||	=49||
+*	*	*pline:22
+!!LO:TX:a:B:t=Berceuse
+4b	.	Do
+8cc	.	l'en-
+8dd	.	-fant
+=50	=50	=50
+4b/	.	do,
+8a	.	l'en-
+8b/	.	-fant
+!!LO:PB:g=original
+=51	=51	=51
+8cc	.	dor-
+8b	.	-mi-
+8a	.	-ra
+8dd	.	bien-
+=52	=52	=52
+4b	.	-tôt,
+*	*	*pline:22r
+4dd	.	Do-
+=53	=53	=53
+4b	.	-do
+8cc	.	l'en-
+8dd	.	-fant
+=54	=54	=54
+4b/	.	do,
+8a	.	l'en-
+8b	.	-fant
+=55	=55	=55
+8cc	.	dor-
+8b	.	-mi-
+8a	.	-ra
+8dd	.	bien-
+!!LO:PB:g=original
+=56	=56	=56
+4g	.	-tôt.
+*	*	*pline:23
+4dd	.	Do-
+=57	=57	=57
+4b	.	-do,
+*	*	*bis
+4dd	.	do-
+=58	=58	=58
+2b;	.	-do.
+*	*	*Xbis
+=55||:	=59||:	=59||:
+!!9O:TX:a:B:t=A
+*	*	*pline:24
+!!LO:TX:a:B:t=Délicatement
+4g'	.	Frè-
+4a'	.	-re
+=60	=60	=60
+4b/'	.	Jac-
+4g'	.	-ques,
+=61	=61	=61
+*	*	*bis
+4g'	.	Frè-
+4a'	.	-re
+=62	=62	=62
+4b/'	.	Jac-
+4g'	.	-ques,
+*	*	*Xbis
+!!LO:PB:g=original
+=63	=63	=63
+*	*	*pline:25
+!!LO:TX:a:B:t=B
+4b	.	Dor-
+4cc	.	-mez-
+=64	=64	=64
+2dd	.	-vous?
+=65	=65	=65
+*	*	*bis
+4b	.	Dor-
+4cc	.	-mez-
+=66	=66	=66
+2dd	.	-vous?
+*	*	*Xbis
+=67	=67	=67
+*	*	*pline:26
+8.dd	.	Son-
+16ee	.	-nez
+8dd	.	les
+8cc	.	ma-
+=68	=68	=68
+4b/	.	-ti-
+4g	.	-nes,
+!!LO:PB:g=original
+=69	=69	=69
+*	*	*bis
+8.dd	.	Son-
+16ee	.	-nez
+8dd	.	les
+8cc	.	ma-
+=70	=70	=70
+4b/	.	-ti-
+4g	.	-nes:
+*	*	*Xbis
+=71	=71	=71
+*	*	*pline:27
+4g	.	Ding,
+4d	.	din,
+=72	=72	=72
+2g	.	don,
+=73	=73	=73
+*	*	*bis
+4g	.	Ding,
+4d	.	din,
+=74	=74	=74
+2g	.	don,
+=75:||	=75:||	=75:||
+4g	.	Ding,
+4d	.	din,
+!!LO:PB:g=original
+=76	=76	=76
+2g	.	don,
+=77	=77	=77
+4g	.	Ding,
+4d	.	din,
+=78	=78	=78
+4g	.	don.
+4r;	.	.
+=79||	=79||	=79||
+!!LO:TX:a:B:t=Avec enthousiasme
+*M2/4	*	*
+*	*	*pline:28
+8.dd	.	Viv'
+16dd	.	"La
+8dd	.	Bonn'
+8b	.	Chan-
+=80	=80	=80
+4.g	.	son!"
+8b/	.	et
+=81	=81	=81
+8.dd	.	cri-
+16dd	.	-ons-
+8dd	.	le
+8b	.	haut'-
+!!LO:PB:g=original
+=82	=82	=82
+4.a	.	-ment
+*	*	*pline:29
+8b/	.	En
+=83	=83	=83
+8.cc	.	en-
+16cc	.	-voy-
+8cc	.	-ant
+8a	.	prom'-
+=84	=84	=84
+8f#	.	-ner
+8dd	.	ceux
+8dd	.	qui
+8dd	.	n'sont
+=85	=85	=85
+8ee'	.	pas
+!!LO:TX:a:i:t=(Bouche fermée)
+8r	.	.
+8dd'	.	(hum,
+!!LO:PB:g=original
+=86	=86	=86
+8b'	.	hum),
+8r	.	.
+4r	.	.
+=87	=87	=87
+*	*	*pline:29r
+8.dd	.	Viv'
+16dd	.	"La
+8dd	.	Bonn'
+8b	.	Chan-
+=88	=88	=88
+4.g	.	-son!"
+8b/	.	et
+=89	=89	=89
+8.dd	.	cri-
+16dd	.	-ons-
+8dd	.	le
+8b	.	haut'-
+=90	=90	=90
+4.a	.	-ment
+8b/	.	en
+!!LO:PB:g=original
+=91	=91	=91
+8.cc	.	en-
+16cc	.	-voy-
+8cc	.	-ant
+8a	.	prom'-
+=92	=92	=92
+8f#	.	-ner
+8dd	.	ceux
+8dd	.	qui
+8dd	.	n'sont
+=93	=93	=93
+!!LO:TX:a:t=sec
+8ee'	.	pas//
+8r;	.	.
+4dd^	.	con-
+=94||	=94||	=94||
+8g	.	-tents.
+!!LO:TX:a:B:t=Presto
+*	*	*pline:30
+8dd	.	Il
+8dd	.	est
+8dd	.	fi,
+!!LO:PB:g=original
+=95	=95	=95
+8b	.	fi,
+8dd	.	Il
+8dd	.	est
+8dd	.	ni,
+=96	=96	=96
+8b	.	ni,
+8dd	.	Il
+8dd	.	est
+8dd	.	fi-
+=97	=97	=97
+8ee	.	-ni
+8dd	.	le
+8cc	.	pot
+8b	.	pour-
+=98	=98	=98
+8a	.	-ri,
+*	*	*pline:30r
+8cc	.	Il
+8cc	.	est
+8cc	.	fi,
+!!LO:PB:g=original
+=99	=99	=99
+8a	.	fi,
+8cc	.	Il
+8cc	.	est
+8cc	.	ni,
+=100	=100	=100
+8a	.	ni,
+8cc	.	Il
+8cc	.	est
+8cc	.	fi-
+=101	=101	=101
+8dd^	.	-ni
+8cc^	.	le
+8b/^	.	pot
+8a^	.	pour-
+=102	=102	=102
+(4g^	.	ri!
+8gg'^)	.	.
+16r	.	.
+==	==	==
+!!!EED: Ève Poudrier
+!!!EEV: 2025/08/07
+
+
+
+
+
+
+
+
+!!!RDF**kern: < = above
