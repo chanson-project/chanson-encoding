@@ -335,6 +335,9 @@
 =44	=44	=44
 8g	.	-et-
 8d}	.	-te,
+*	*	*rp:ɛ
+*	*	*rf:ɛt,ə
+*	*	*rs:f1
 *	*	*pline:7Hb
 {8.g	.	A-
 16a	.	-lou-
@@ -348,6 +351,9 @@
 16b/	.	-me-
 =46	=46	=46
 8g}}	.	-rai,
+*	*	*rp:e
+*	*	*rf:ʁe
+*	*	*rs:b1-
 *	*	*pline:7Hc]
 *	*	*bis
 {{16g	.	Je
@@ -369,16 +375,19 @@
 16a	.	le
 =48	=48	=48
 8g}}	.	dos,
+*	*	*rp:o
+*	*	*rf:do
+*	*	*rs:g1-
 *	*	*Xbis
 *	*	*pline:7Hd
 {16dd	.	Ah!
 *	*	*bis
 16dd	.	le
-!! The word "dos" serves as a bridge into the next song, substituting for the the initial "Do".
 4dd;	.	dos...
 *	*	*Xbis
 =49||	=49||	=49||
 *	*	*pline:8Hb2
+!!line overlap, sematic tranfer
 !!LO:TX:a:B:t=Berceuse
 4b	.	Do
 8cc	.	l'en-
@@ -395,6 +404,9 @@
 8dd	.	bien-
 =52	=52	=52
 4b}	.	-tôt,
+*	*	*rp:o
+*	*	*rf:to
+*	*	*rs:g1-
 *	*	*pline:8Ha
 {{4dd	.	Do-
 =53	=53	=53
@@ -413,7 +425,10 @@
 !!LO:PB:g=original
 =56	=56	=56
 4g}}	.	-tôt.
-*	*	*pline:8Hb=8Ha2+8Ha2
+*	*	*rp:o
+*	*	*rf:to
+*	*	*rs:g1-
+*	*	*pline:8Hb
 *	*	*bis
 {{4dd	.	Do-
 =57	=57	=57
@@ -423,8 +438,8 @@
 2b;}}	.	-do.
 *	*	*Xbis
 =55||:	=59||:	=59||:
-!!9O:TX:a:B:t=A
 *	*	*pline:9Ha
+!!LO:TX:a:B:t=A
 !!LO:TX:a:B:t=Délicatement
 {{4g'	.	Frè-
 4a'	.	-re
@@ -438,6 +453,9 @@
 =62	=62	=62
 4b/'	.	Jac-
 4g'}}	.	-ques,
+*	*	*rp:a
+*	*	*rf:ak,ə
+*	*	*rs:c3-
 *	*	*Xbis
 !!LO:PB:g=original
 =63	=63	=63
@@ -453,6 +471,9 @@
 4cc	.	-mez-
 =66	=66	=66
 2dd}}	.	-vous?
+*	*	*rp:u
+*	*	*rf:vu
+*	*	*rs:h1-
 *	*	*Xbis
 =67	=67	=67
 *	*	*pline:9Hc
@@ -473,6 +494,9 @@
 =70	=70	=70
 4b/	.	-ti-
 4g}}	.	-nes:
+*	*	*rp:i
+*	*	*rf:in,ə
+*	*	*rs:i1
 *	*	*Xbis
 =71	=71	=71
 *	*	*pline:9Hd
@@ -497,6 +521,9 @@
 4d	.	din,
 =78	=78	=78
 4g	.	don.
+*	*	*rp:ɔ̃
+*	*	*rp:dɔ̃
+*	*	*rs:d2-
 *	*	*Xbis
 4r;}}	.	.
 =79||	=79||	=79||
@@ -518,6 +545,9 @@
 !!LO:PB:g=original
 =82	=82	=82
 4.a}}	.	-ment
+*	*	*rp:ɑ̃
+*	*	*rf:mɑ̃
+*	*	*rs:a5
 *	*	*pline:10Hb
 {{8b/	.	En
 =83	=83	=83
@@ -541,6 +571,9 @@
 8r	.	.
 }}	.	.
 =87	=87	=87
+*	*	*rs:x
+*	*	*rf:x
+*	*	*rs:x
 *	*	*pline:10Hbrm
 *	*	*bis
 {{8.dd	.	Viv'
@@ -577,6 +610,9 @@
 4dd^	.	con-
 =94||	=94||	=94||
 8g}}	.	-tents.
+*	*	*rp:ɑ̃
+*	*	*rf:tɑ̃
+*	*	*rs:a6
 !!LO:TX:a:B:t=Presto
 *	*	*pline:11
 {{8dd	.	Il
@@ -604,6 +640,9 @@
 8b	.	pour-
 =98	=98	=98
 8a}}	.	-ri,
+*	*	*rs:i
+*	*	*rf:ʁi
+*	*	*rs:i2-
 *	*	*pline:11r
 {{8cc	.	Il
 8cc	.	est
@@ -630,17 +669,12 @@
 8a^	.	pour-
 =102	=102	=102
 (4g^	.	ri!
+*	*	*rs:i
+*	*	*rf:ʁi
+*	*	*rs:i2-
 8gg'^)	.	.
 16r}}	.	.
 ==	==	==
 !!!EED: Ève Poudrier
-!!!EEV: 2025/08/08
-
-
-
-
-
-
-
-
+!!!EEV: 2025/08/10
 !!!RDF**kern: < = above
