@@ -9,7 +9,7 @@
 !!!PDT: 2011
 !!!SMA:2012 Bibliothèque nationale du Québec; Biblothèque nationale du Canada
 !!!AGN-Laforte: Chanson strophique (avec turlute),
-!!!AGN-type: 
+!!!AGN-type:
 !!!AGN-rime: monorime \e\
 **kern	**text	**text	**text	**text	**text	**text
 *clefG2	*	*	*	*	*	*
@@ -93,6 +93,9 @@
 16dd)	le-	.	-va-	.	.	-il-
 =8	=8	=8	=8	=8	=8	=8
 (8ddL	-ver,	-cher,	-lier,	-ser,	-dé,	-lée,
+*	*rp:e	*rp:e	*rp:e	*rp:e	*rp:e	*rp:e
+*	*rf:ve	*rf:ʃe	*rf:lje	*rf:ze	*rf:de	*rf:je
+*	*rs:b-1	*rs:b-2	*rs:b-3	*rs:b-4	*rs:b-5	*rs:b-6
 8aJ)	.	.	.	.	.	.
 *	*pline:2r	*pline:4r	*pline:6r	*pline:8r	*pline:10r	*pline:12r
 (16b-	Qui	Pour	Mon	Nous	Pour	Qu'la
@@ -104,6 +107,9 @@
 16dd)	le-	.	-va-	.	.	-il-
 =9	=9	=9	=9	=9	=9	=9
 4dd;	-ver.	cher.	-lier.	-ser.	-dé?	-lée.
+*	*rp:e	*rp:e	*rp:e	*rp:e	*rp:e	*rp:e
+*	*rf:ve	*rf:ʃe	*rf:lje	*rf:ze	*rf:de	*rf:je
+*	*rs:b-1	*rs:b-2	*rs:b-3	*rs:b-4	*rs:b-5	*rs:b-6
 ==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-
 !!!EED: Isaac Howie
