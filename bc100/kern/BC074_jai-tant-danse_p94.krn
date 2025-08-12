@@ -30,8 +30,8 @@
 =1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
 4cc}	-té,	-lier,	-nier,	-nier,	-lier?	-qué,	-sez,	-ré,	-er.	-sez.
 *	*rp:e	*rp:e	*rp:e	*rp:e	*rp:e	*rp:e	*rp:e	*rp:e	*rp:e	*rp:e
-*	*rf:te	*rf:lje	*rf:nje	*rf:nje	*rf:lje	*rf:ke	*rf:se	*rf:ʁe	*rf:e	*rf:se
-*	*rs:a1	*rs:a2	*rs:a3	*rs:a3	*rs:a2	*rs:a4	*rs:a5	*rs:a6	*rs:a7	*rs:a5
+*	*rf:te	*rf:je	*rf:je	*rf:je	*rf:je	*rf:ke	*rf:se	*rf:ʁe	*rf:e	*rf:se
+*	*rs:a1	*rs:a2	*rs:a2	*rs:a2	*rs:a2	*rs:a4	*rs:a5	*rs:a6	*rs:a7	*rs:a5
 *	*refrain	*refrain	*refrain	*refrain	*refrain	*refrain	*refrain	*refrain	*refrain	*refrain
 *	*italic	*italic	*italic	*italic	*italic	*italic	*italic	*italic	*italic	*italic
 {8dd	Dan-	Dan-	Dan-	Dan-	Dan-	Dan-	Dan-	Dan-	Dan-	Dan-
@@ -43,6 +43,9 @@
 !!LO:PB:g=original
 =2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
 4b-}}	gai!	gai!	gai!	gai!	gai!	gai!	gai!	gai!	gai!	gai!
+*	*rp:e	*rp:e	*rp:e	*rp:e	*rp:e	*rp:e	*rp:e	*rp:e	*rp:e	*rp:e
+*	*rf:ge	*rf:ge	*rf:ge	*rf:ge	*rf:ge	*rf:ge	*rf:ge	*rf:ge	*rf:ge	*rf:ge
+*	*rs:Ra	*rs:Ra	*rs:Ra	*rs:Ra	*rs:Ra	*rs:Ra	*rs:Ra	*rs:Ra	*rs:Ra	*rs:Ra
 *	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain
 *	*Xitalic	*Xitalic	*Xitalic	*Xitalic	*Xitalic	*Xitalic	*Xitalic	*Xitalic	*Xitalic	*Xitalic
 4r	.	.	.	.	.	.	.	.	.	.
@@ -58,9 +61,9 @@
 8dd	mon	cor-	cor-	mon	sou	ai-	le	ma-	pas	un[e]
 8b-	sou-	-don-	-don-	sou-	mar-	-z-as-	cu-	-ri-	as-	an-
 8g	-lier,	-nier,	-nier,	-lier?	-qué.	-sez.	-ré.	-er.	-sez.	-née.
-*	*	*	*	*	*	*	*	*	*	*rp:e
-*	*	*	*	*	*	*	*	*	*	*rf:ne
-*	*	*	*	*	*	*	*	*	*	*rs:a8
+*	*rp:e	*rp:e	*rp:e	*rp:e	*rp:e	*rp:e	*rp:e	*rp:e	*rp:e	*rp:e
+*	*rf:je	*rf:je	*rf:je	*rf:je	*rf:ke	*rf:se	*rf:ʁe	*rf:e	*rf:se	*rf:ne
+*	*rs:a2	*rs:a2	*rs:a2	*rs:a2	*rs:a4	*rs:a5	*rs:a6	*rs:a7	*rs:a5	*rs:a8
 *	*refrain	*refrain	*refrain	*refrain	*refrain	*refrain	*refrain	*refrain	*refrain	*refrain
 *	*italic	*italic	*italic	*italic	*italic	*italic	*italic	*italic	*italic	*italic
 !!LO:TX:a:i:t=rit.
