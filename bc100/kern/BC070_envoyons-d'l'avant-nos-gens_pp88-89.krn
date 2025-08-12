@@ -11,6 +11,8 @@
 !!!AGN-Laforte: Chanson strophique (avec refrain), 9:4(7/8), avec répétition à cheval des deux derniers vers; R:1(7+5)
 !!!AGN-type: Chanson de voyageurs
 !!!AGN-rime: suivies (aabb)
+!!!LYR-elision: Final "e" (d'l'avant = de l'avant, qu'ça = que ça, n'voyent = ne voyent, s'mettre = se mettre, Ell's = Elles; d'leurs = de leurs; dir' = dire); other (qu'on = quand on, V'là = Voilà).
+!!!LYR-variant: "soye"/"soyent" = soit/soient; "compagnées" = compagnes; "mouiller" = drink
 !!!OCO: Dédié à CHARLES MARCHAND, (1891-1930); célèbre interprète du Folklore canadien.
 !!!RNB: 2 voices notated in pick-up measure (quarter rest for v:1 and eighth rest for v:2); italics in original; added elision to accomodate melody in pline:10, "nous" = "n'voy[ent]" and pline:21, "le joli" = "l'jo-li"; added subdivision (shown with dotted slur) in pline:17 to accomodate text ("par-ler d'leurs")
 **kern	**text	**text	**text	**text	**text	**text	**text	**text	**text
@@ -165,4 +167,4 @@
 !!!EED: Isaac Howie
 !!!EEV: 2025/07/15
 !!!EED: Ève Poudrier
-!!!EEV: 2025/08/12
+!!!EEV: 2025/08/11
