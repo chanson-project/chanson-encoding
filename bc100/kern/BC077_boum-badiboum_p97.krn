@@ -9,91 +9,102 @@
 !!!PDT: 2011
 !!!SMA:2012 Bibliothèque nationale du Québec; Biblothèque nationale du Canada
 !!!AGN-Laforte: Chanson strophique (avec turlute),
-!!!AGN-type: moralité? marin?
-!!!AGN-rime: none
-**kern	**text	**text	**text	**text
-*clefG2	*	*	*	*
-*k[b-e-]	*	*	*	*
-*D:	*	*	*	*
-*M3/4	*	*	*	*
-*	*	*	*	*
-*	*	*	*	*
-=1	=1	=1	=1	=1
+!!!AGN-type: 
+!!!AGN-rime: monorime \e\
+**kern	**text	**text	**text	**text	**text	**text
+*clefG2	*	*	*	*	*	*
+*k[b-e-]	*	*	*	*	*	*
+*D:	*	*	*	*	*	*
+*M3/4	*	*	*	*	*	*
+*	*vv:1	*vv:2	*vv:3	*vv:4	*vv:5	*vv:6
+*	*pline:1	*pline:3	*pline:5	*pline:7	*pline:9	*pline:11
+=1	=1	=1	=1	=1	=1	=1
 !!LO:TX:a:B:t=Moderato
-8b-	J'ai	M'en-	Dans	As-
-16b-	un	-voi[e]	mon	-sis
-16g	"mé-	-t'à	che-	sur
-8.dd	-chan-	la	-min	u-
-16cc	-te"	fon-	ren-	-ne
-=2||	=2||	=2||	=2||	=2||
-*M2/4	*	*	*	*
-8cc	mè-	-tai-	-con-	pier-
-8b-	-re,	-ne,	-tre,	-re,
-*	*refrain	*	*	*
-8g	Boum	.	.	.
-16g	ba-	.	.	.
-16g	-di-	.	.	.
+8b-	J'ai	M'en-	Dans	As-	Que	Tu
+16b-	un	-voi[e]	mon	-sis	di-	di-
+16g	"mé-	-t'à	che-	sur	-rai-	-ras à
+8.dd	-chan-	la	-min	u-	-j[e] à	à
+16cc	-te"	fon-	ren-	-ne	ma	ta
+=2||	=2||	=2||	=2||	=2||	=2||	=2||
+*M2/4	*	*	*	*	*	*
+8cc	mè-	-tai-	-con-	pier-	mè-	mè-
+8b-	-re,	-ne,	-tre,	-re,	-re,	-re,
+*	*rp:ɛː	*rp:ɛ	*rp:ɔ̃	*rp:ɛː	*rp:ɛ:	*rp:ɛ:
+*	*rf:ɛːʁ,ə	*rf:ɛn,ə	*rf:ɔ̃tʁ,ə	*rf:ɛːʁ,ə	*rf:ɛːʁ,ə	*rf:ɛːʁ,ə
+*	*rs:a1	*rs:a2	*rs:b1	*rs:a1	*rs:a1	*rs:a1
+*	*refrain	*refrain	*refrain	*refrain	*refrain	*refrain
+8g	Boum	Boum	Boum	Boum	Boum	Boum
+16g	ba-	ba-	ba-	ba-	ba-	ba-
+16g	-di-	-di-	-di-	-di-	-di-	-di-
 !!LO:PB:g=original
-=3	=3	=3	=3	=3
-8g	-boum,	.	.	.
-16g	ba-	.	.	.
-16g	-di-	.	.	.
-8f	ba,	.	.	.
-16g	tra-	.	.	.
-16b-	la-	.	.	.
-=4||	=4||	=4||	=4||	=4||
-*M3/4	*	*	*	*
-4a	-la,	.	.	.
-*	*Xrefrain	*	*	*
-8b-	J'ai	M'en-	Dans	As-
-16b-	un	-voi[e]-	mon	-sis
-16g	"mé-	-t'à	che-	sur
-8.dd	-chan-	la	-min	u-
-16cc	-te"	fon-	ren-	-ne
+=3	=3	=3	=3	=3	=3	=3
+8g	-boum,	-boum,	-boum,	-boum,	-boum,	-boum,
+16g	ba-	ba-	ba-	ba-	ba-	ba-
+16g	-di-	-di-	-di-	-di-	-di-	-di-
+8f	ba,	ba,	ba,	ba,	ba,	ba,
+16g	tra-	tra-	tra-	tra-	tra-	tra-
+16b-	la-	la-	la-	la-	la-	la-
+=4||	=4||	=4||	=4||	=4||	=4||	=4||
+*M3/4	*	*	*	*	*	*
+4a	-la,	-la,	-la,	-la,	-la,	-la,
+*	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain
+*	*pline:1r	*pline:3r	*pline:5r	*pline:7r	*pline:9r	*pline:11r
+8b-	J'ai	M'en-	Dans	As-	Que	Tu
+16b-	un	-voi[e]-	mon	-sis	di-	di-
+16g	"mé-	-t'à	che-	sur	-rai-	-ras
+8.dd	-chan-	la	-min	u-	-j[e] à	à
+16cc	-te"	fon-	ren-	-ne	ma	ta
 !!LO:PB:g=original
-=5||	=5||	=5||	=5||	=5||
-*M2/4	*	*	*	*
-8cc	mè-	-tai-	-con-	pier-
-8b-	-re	-ne	-tre	-re,
-(16a	Qui	Pour	Mon	Nous
-16b-)	tous	al-	.	nous
-(16cc	les	-ler	gen-	mî-
-16a)	ma-	de	.	-mes
-=6||	=6||	=6||	=6||	=6||
-*M3/4	*	*	*	*
-4b-	-tins,	l'eau,	-til,	à,
-*	*refrain	*	*	*
-16a	Ma-	.	.	.
-16b-	-ri-	.	.	.
-16cc	-mi-	.	.	.
-16a	-co-	.	.	.
-8b-	-té,	.	.	.
-*	*Xrefrain	*	*	*
-(16a	M'fait	Cher-	Ca-	Cau-
-16b-)	le-	.	-va-	.
+=5||	=5||	=5||	=5||	=5||	=5||	=5||
+*M2/4	*	*	*	*	*	*
+8cc	mè-	-tai-	-con-	pier-	mè-	mè-
+8b-	-re	-ne	-tre	-re,	-re	-re,
+*	*pline:2	*pline:4	*pline:6	*pline:8	*pline:10	*pline:12
+(16a	Qui	Pour	Mon	Nous	Pour	Qu'la
+16b-)	tous	al-	.	nous	a-	fon-
+(16cc	les	-ler	gen-	mî-	-voir	-taine
+16a)	ma-	de	.	-mes	au-	é-
+=6||	=6||	=6||	=6||	=6||	=6||	=6||
+*M3/4	*	*	*	*	*	*
+4b-	-tins,	l'eau,	-til,	à,	-tant,	-tait,
+*	*refrain	*refrain	*refrain	*refrain	*refrain	*refrain
+16a	Ma-	Ma-	Ma-	Ma-	Ma-	Ma-
+16b-	-ri-	-ri-	-ri-	-ri-	-ri-	-ri-
+16cc	-mi-	-mi-	-mi-	-mi-	-mi-	-mi-
+16a	-co-	-co-	-co-	-co-	-co-	-co-
+8b-	-té,	-té,	-té,	-té,	-té,	-té,
+*	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain
+(16a	M'fait	Cher-	Ca-	Cau-	Tar-	Brou-
+!!!question: should Brouillée be split into 2 or 3 syllables?
+16b-)	le-	.	-va-	.	.	-il-
 !!LO:PB:g=original
-=7	=7	=7	=7	=7
-4g	-ver,	-cher,	-lier.	-ser,
-(16g	Qui	Pour	Mon	Nous
-16a)	tous	al-	.	nous
-(16b-	les	-ler	gen-	mî-
-16g)	ma-	de	.	-mes
-8dd	-tins	l'eau	-til	à
-(16dd	m'fait	cher-	ca-	cau-
-16dd)	le-	.	-va-	.
-=8	=8	=8	=8	=8
-(8ddL	-ver,	-cher,	-lier,	-ser,
-8aJ)	.	.	.	.
-(16b-	Qui	Pour	Mon	Nous
-16a)	tous	al-	.	nous
-(16g	les	-ler	gen-	mî-
-16b-)	ma-	de	.	-mes
-8dd	-tins	l'eau	-til	à
-(16dd	m'fait	cher-	ca-	cau-
-16dd)	le-	.	-va-	.
-=9	=9	=9	=9	=9
-4dd;	-ver.	cher.	-lier.	-ser.
-==	==	==	==	==
-*-	*-	*-	*-	*-
+=7	=7	=7	=7	=7	=7	=7
+4g	-ver,	-cher,	-lier.	-ser,	-dé?	-lée,
+*	*rp:e	*rp:e	*rp:e	*rp:e	*rp:e	*rp:e
+*	*rf:ve	*rf:ʃe	*rf:lje	*rf:ze	*rf:de	*rf:je
+*	*rs:b-1	*rs:b-2	*rs:b-3	*rs:b-4	*rs:b-5	*rs:b-6
+*	*pline:2r	*pline:4r	*pline:6r	*pline:8r	*pline:10r	*pline:12r
+(16g	Qui	Pour	Mon	Nous	Pour	Qu'la
+16a)	tous	al-	.	nous	a-	fon-
+(16b-	les	-ler	gen-	mî-	-voir	-taine
+16g)	ma-	de	.	-mes	au-	é-
+8dd	-tins	l'eau	-til	à	-tant	-tait
+(16dd	m'fait	cher-	ca-	cau-	tar-	brou-
+16dd)	le-	.	-va-	.	.	-il-
+=8	=8	=8	=8	=8	=8	=8
+(8ddL	-ver,	-cher,	-lier,	-ser,	-dé,	-lée,
+8aJ)	.	.	.	.	.	.
+*	*pline:2r	*pline:4r	*pline:6r	*pline:8r	*pline:10r	*pline:12r
+(16b-	Qui	Pour	Mon	Nous	Pour	Qu'la
+16a)	tous	al-	.	nous	a-	fon-
+(16g	les	-ler	gen-	mî-	-voir	-taine
+16b-)	ma-	de	.	-mes	au-	é-
+8dd	-tins	l'eau	-til	à	-tant	-tait
+(16dd	m'fait	cher-	ca-	cau-	tar-	brou-
+16dd)	le-	.	-va-	.	.	-il-
+=9	=9	=9	=9	=9	=9	=9
+4dd;	-ver.	cher.	-lier.	-ser.	-dé?	-lée.
+==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-
 !!!EED: Isaac Howie
-!!!EEV: 2025/Aug/5
+!!!EEV: 2025/Aug/12
