@@ -1,0 +1,74 @@
+!!!id: BC079
+!!!page: 101b
+!!!COM: Anonyme
+!!!LYR: Anonyme
+!!!PTL@@FR: Les 100 plus belles chansons
+!!!OTL@@FR: Entendez-vous sur l'ormeau
+!!!PUB: La Bonne Chanson, inc.
+!!!YEM: On ne peut reproduire, enregistrer ou diffuser en tout ou en partie le présent ouvrage, sous quelque procédé que ce soit, électronique, mécanique, photographique, sonore, magnétique ou autre, sans avoir obtenu au préalable l'autorisation écrite de l'éditrice.
+!!!PDT: 2011
+!!!SMA:2012 Bibliothèque nationale du Québec; Biblothèque nationale du Canada
+!!!AGN-Laforte: Canon à 4 voix, 2(7) avec turlute
+!!!AGN-type: nature? oiseaux
+!!!AGN-rime: monorime \o\
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*D:	*
+!!LO:TX:a:t=[segno]
+*M4/4	*
+*met(c)	*
+!!LO:TX:a:B:t=A
+{{4f	En-
+4f	-ten-
+=1	=1
+4g	-dez-
+4g	-vous
+4a	sur
+(8aL	l'or-
+8gJ)	.
+=2	=2
+2f}	-meau
+!!LO:TX:a:B:t=B
+=||	=||
+{4a	Chan-
+4a	-ter
+=3	=3
+4b-	le
+4b-	pe-
+4cc	-tit
+(8ccL	oi-
+8b-J)	.
+!!LO:PB:g=original
+=4	=4
+2a}}	-seau,
+!!LO:TX:a:B:t=C
+=||	=||
+{{4ff	Tra
+4cc	la
+=5	=5
+8cc	la
+8b-	la
+8a	la
+8g	la
+8f	la
+8g	la
+8a	la
+8b-	la
+=6	=6
+2cc}	la,
+!!LO:TX:a:B:t=D
+=||	=||
+{4f	Tra
+4f	la
+=7	=7
+2c	la,
+4f	Tra
+4f	la
+=8	=8
+2f}}	la
+!!LO:TX:a:t=[segno]
+=||	=||
+*-	*-
+!!!EED: Isaac Howie
+!!!EEV: 2025/Aug/12
