@@ -1,24 +1,25 @@
 !!!id: BC071
 !!!page: 90
-!!!COM: R. BEAUDRY
-!!!LYR: (R. BEAUDRY)
+!!!COM: Beaudry, Roméo
+!!!LYR: Beaudry, Roméo
 !!!PTL@@FR: Les 100 plus belles chansons
 !!!OTL@@FR: Ne fais jamais pleurer ta mère
 !!!PUB: La Bonne Chanson, inc.
 !!!YEM: On ne peut reproduire, enregistrer ou diffuser en tout ou en partie le présent ouvrage, sous quelque procédé que ce soit, électronique, mécanique, photographique, sonore, magnétique ou autre, sans avoir obtenu au préalable l'autorisation écrite de l'éditrice.
 !!!PDT: 2011
 !!!SMA:2012 Bibliothèque nationale du Québec; Biblothèque nationale du Canada
-!!!AGN-Laforte: Chanson strophique (avec refrain), 2:4(7/8), R8(7/8)
-!!!AGN-type:
+!!!AGN-Laforte: Chanson strophique (avec refrain), 2:4(7/4+4), R:8(8/7)
+!!!AGN-type: Chanson populaire
 !!!AGN-rime: Rubaiyat (aaba), Refrain: croisées (abababab)
 **kern	**text	**text
 *clefG2	*	*
 *k[f#]	*	*
-*D:	*	*
+*G:	*	*
+!!LO:TX:a:B:t=Tempo di Valse
+
 *M3/4	*	*
 *	*v:1	*v:2
 *	*pline:1	*pline:5
-!!LO:TX:a:B:t=Tempo di Valse
 {{4dd	Je	S'il
 =1	=1	=1
 4dd	m'en	t'ar-
@@ -26,15 +27,15 @@
 4a	-vien-	-ve
 =2	=2	=2
 2g#	-drai	de
-4e	tou-	sou-
+4e	tou-	souf-
 =3	=3	=3
-(2.cc	-jours,	-frir
-*	*rp:ʒuʁ	*rp:iʁ
-*	*rf:u	*rf:i
-*	*rs:a	*rs:c
+[2.cc	-jours,	-frir
+*	*rp:u	*rp:i
+*	*rf:ʒuʁ	*rf:ʁiʁ
+*	*rs:a1-1	*rs:c1-1
 =4	=4	=4
-4cc)}	.	.
-4r	.	.
+4cc]	.	.
+4r}	.	.
 *	*pline:2	*pline:6
 {4cc	Mon	D'un
 =5	=5	=5
@@ -46,28 +47,32 @@
 2f#	dit	fait
 4d	un	mou-
 =7	=7	=7
-(2.b	jour:	-rir,
-*	*rp:ʒuʁ	*rp:iʁ
-*	*rf:u	*rf:i
-*	*rs:a	*rs:c
+[2.b	jour:	-rir,
+*	*rp:u	*rp:i
+*	*rf:ʒuʁ	*rf:ʁiʁ
+*	*rs:a1-1	*rs:c1-1
 =8	=8	=8
-2b)}	.	.
-*	*pline:3	*pline:7
+2b]}	.	.
+*	*pline:3Ha	*pline:7Ha
 {4b	"Pour	Cher-
 =9	=9	=9
 2b	ta	-che
 4b	ma-	tou-
 =10	=10	=10
 2cc#	-man	-jours
+*	*rp:ɑ̃	*rp:u
+*	*rf:mɑ̃	*rf:ʒuʁ
+*	*rs:b1-	*rs:a1-1
+*	*pline:3Hb	*pline:7Hb
 4cc#	Qui	Dans
 =11	=11	=11
 2dd	t'ai-	son
 4dd	-me	a-
 =12	=12	=12
 2b-	tant,	-mour
-*	*rp:tɑ̃	*rp:uʁ
-*	*rf:ɑ̃	*rf:u
-*	*rs:b	*rs:a
+*	*rp:ɑ̃	*rp:u
+*	*rf:tɑ̃	*rf:muʁ
+*	*rs:b2-	*rs:a2-1
 *	*pline:4	*pline:8
 4b-	Oui,	Le
 =13	=13	=13
@@ -79,12 +84,12 @@
 4d#	ton	sait
 4e	a-	gué-
 =15	=15	=15
-(2.a	-mour.	-rir.
-*	*rp:muʁ	*rp:iʁ
-*	*rf:u	*rf:i
-*	*rs:a	*rs:c
+[2.a	-mour.	-rir.
+*	*rp:u	*rp:iʁ
+*	*rf:muʁ	*rf:ʁiʁ
+*	*rs:a2-1	*rs:c1-1
 =16	=16	=16
-2a)}}	.	.
+2a]}}	.	.
 *>Refrain	*>Refrain	*>Refrain
 *	*pline:R1	*
 {{4d	Ne	.
@@ -100,9 +105,9 @@
 2.dd	mè-	.
 =20	=20	=20
 2b	-re,	.
-*	*rp:ɛːʁ	*
-*	*rf:ɛː	*
-*	*rs:Ra	*
+*	*rp:ɛː	*
+*	*rf:ɛːʁ,ə	*
+*	*rs:Rd1	*
 *	*pline:R2	*
 4dd	Res-	.
 !!LO:PB:g=original
@@ -114,12 +119,12 @@
 2cc	bien	.
 4g	tou-	.
 =23	=23	=23
-(2.b	-jours;	.
-*	*rp:uʁ	*
-*	*rf:u	*
-*	*rs:Rb	*
+[2.b	-jours;	.
+*	*rp:u	*
+*	*rf:ʒuʁ	*
+*	*rs:Ra1-1	*
 =24	=24	=24
-2b)}	.	.
+2b]}	.	.
 *	*pline:R3	*
 {4d	Car	.
 =25	=25	=25
@@ -135,9 +140,9 @@
 !!LO:PB:g=original
 =28	=28	=28
 2b	-re	.
-*	*rp:ɛːʁ	*
-*	*rf:ɛː	*
-*	*rs:Ra	*
+*	*rp:ɛː	*
+*	*rf:ɛːʁ,ə	*
+*	*rs:Rd1	*
 *	*pline:R4	*
 4dd	A	.
 =29	=29	=29
@@ -148,14 +153,14 @@
 2g	plus	.
 4f#	d'a-	.
 =31	=31	=31
-(2.b	-mour;	.
-*	*rp:uʁ	*
-*	*rf:u	*
-*	*rs:Rb	*
+[2.b	-mour;	.
+*	*rp:u	*
+*	*rf:muʁ	*
+*	*rs:Ra2-1	*
 =32	=32	=32
-2b)}	.	.
+2b]}}	.	.
 *	*pline:R5	*
-{4b	Et	.
+{{4b	Et	.
 =33	=33	=33
 4dd	si	.
 4cc	par-	.
@@ -169,27 +174,27 @@
 2.dd	-vè-	.
 =36	=36	=36
 2cc	-re,	.
-*	*rp:ɛːʁ	*
-*	*rf:ɛː	*
-*	*rs:Ra	*
+*	*rp:ɛː	*
+*	*rf:ɛːʁ,ə	*
+*	*rs:Rd1	*
 *	*pline:R6	*
-4cc	Elle	.
+4cc	Ell[e]	.
 =37	=37	=37
 2b	est	.
 4a	si	.
 =38	=38	=38
-4g	bonne	.
+4g	bonn[e]	.
 4d#	en	.
 4e	re-	.
 =39	=39	=39
-(2.a	-tour;	.
-*	*rp:uʁ	*
-*	*rf:u	*
-*	*rs:Rb	*
+[2.a	-tour;	.
+*	*rp:u	*
+*	*rf:tuʁ	*
+*	*rs:Ra3-1	*
 =40	=40	=40
-2a)}	.	.
+2a]}}	.	.
 *	*pline:R7	*
-{4d	Ne	.
+{{4d	Ne	.
 =41	=41	=41
 4b	fais	.
 4a#	ja-	.
@@ -203,9 +208,9 @@
 2.dd	mè-	.
 =44	=44	=44
 2dd#;	-re,	.
-*	*rp:ɛːʁ	*
-*	*rf:ɛː	*
-*	*rs:Ra	*
+*	*rp:ɛː	*
+*	*rf:ɛːʁ,ə	*
+*	*rs:Rd1	*
 *	*pline:R8	*
 4dd#	Car	.
 =45	=45	=45
@@ -217,13 +222,15 @@
 4f#	pas	.
 4b	tou-	.
 =47	=47	=47
-(2.g	-jours!"	.
-*	*rp:uʁ	*
-*	*rf:u	*
-*	*rs:Rb	*
+[2.g	-jours!"	.
+*	*rp:u	*
+*	*rf:ʒuʁ	*
+*	*rs:Ra1-1	*
 =48	=48	=48
-2g)}}	.	.
+2g]}}	.	.
 ==	==	==
 *-	*-	*-
 !!!EED: Isaac Howie
-!!!EEV: 2025/July/22
+!!!EEV: 2025/07/22
+!!!EED: Ève Poudrier
+!!!EEV: 2025/08/12
