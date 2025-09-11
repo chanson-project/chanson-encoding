@@ -8,316 +8,414 @@
 !!!YEM: On ne peut reproduire, enregistrer ou diffuser en tout ou en partie le présent ouvrage, sous quelque procédé que ce soit, électronique, mécanique, photographique, sonore, magnétique ou autre, sans avoir obtenu au préalable l'autorisation écrite de l'éditrice.
 !!!PDT: 2011
 !!!SMA: 2012 Bibliothèque nationale du Québec; Biblothèque nationale du Canada
-!!!AGN-Laforte: Chanson strophique (sans refrain), 3:8(8)
+!!!AGN-Laforte: Chanson strophique (avec refrain intégré), 3:8(8)
 !!!AGN-type: Chanson
 !!!AGN-rime: mxtes, croisées/embrassées (ababacca)
 !!!LYR-elision: none
-**kern
-*clefG2
-*k[b-]
-*F:
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
 !!LO:TX:a:B:t=Gai
-*M2/3
-*met(cut)
-4ff
-4cc
-=1
-4dd
-8cc
-8b-
-4a
-4b-
-=2
-2cc
-4a
-8a
-8a
+*M2/3	*
+*met(cut)	*
+*	*v:1
+*	*pline:1
+4ff	Quand
+4cc	il
+=1	=1
+4dd	nei-
+8cc	-ge
+8b-	sur
+4a	mon
+4b-	pa-
+=2	=2
+2cc	-ys,
+*	*rp:i
+*	*rf:i
+*	*rs:a1
+*	*pline:2
+4a	De
+8a	gros
+8a	flo-
 !!LO:PB:g=original
-=3
-4cc
-4a
-4g
-4f
-=4
-4a
-8a
-8r
-4cc
-8cc
-8cc
-=5
-*C:
-4b
-4b
-4ee
-4ee
+=3	=3
+4cc	-cons
+4a	cou-
+4g	-vrent
+4f	les
+=4	=4
+4a	bran-
+8a	-ches
+*	*rp:ɑ̃
+*	*rf:ɑ̃ʃ,ə
+*	*rs:b1
+8r	.
+*	*pline:3
+4cc	Et
+8cc	les
+8cc	re-
+=5	=5
+*C:	*
+4b	-gards
+4b	sont
+4ee	é-
+4ee	-blou-
 !!LO:PB:g=original
-=6
-2ee
-4cc
-8dd
-8ee
-=7
-4ff
-4ee
-4dd
-4cc
-=8
-4dd~
-8cc~
-8r
-4cc
-8cc
-8cc
+=6	=6
+2ee	-is
+*	*rp:i
+*	*rf:i
+*	*rs:a1
+*	*pline:4
+4cc	Par
+8dd	la
+8ee	clar-
+=7	=7
+4ff	-té
+4ee	des
+4dd	rou-
+4cc	-tes
+=8	=8
+4dd~	blan-
+8cc~	-ches,
+*	*rp:ɑ̃
+*	*rf:ɑ̃ʃ,ə
+*	*rs:b1
+8r	.
+*	*pline:5
+4cc	Et
+8cc	dans
+8cc	les
 !!LO:PB:g=original
-=9
-*c:
-4.b-Z
-8b-
-4.a-
-8a-
-=10
-4.g
-8g
-4cc
-8cc
-8cc
-=11
-2b-
-4a-
-4a-
-=12
-2g
-8g
-8r
-8g
-8g
+=9	=9
+*c:	*
+4.b-Z	champs
+8b-	en-
+4.a-	-se-
+8a-	-ve-
+=10	=10
+4.g	-lis,
+*	*rp:i
+*	*rf:li
+*	*rs:a2-
+*	*pline:6
+8g	La
+4cc	ter-
+8cc	-re
+8cc	re-
+=11	=11
+2b-	-prend
+4a-	le
+4a-	grand
+=12	=12
+2g	som-
+8g	-me
+*	*rp:ɔ
+*	*rf:ɔm,ə
+*	*rs:c1
+8r	.
+*	*pline:7
+8g	Qu'el-
+8g	-le
 !!LO:PB:g=original
-=13
-*Xbrackettup
-!LO:TUP:a
-(3cc
-6cc)
-!LO:TUP:a
-(6dd
-6cc
-6dd)
-=14
-*F:
-4ee
-4ee,
-4ff
-4cc
+=13	=13
+*Xbrackettup	*
+!LO:TUP:a	!
+(3cc	fait
+6cc)	pour
+!LO:TUP:a	!
+(6dd	mieux
+6cc	nour-
+6dd)	-rir
+=14	=14
+*F:	*
+4ee	l'hom-
+4ee,	-me,
+*	*rp:ɔ
+*	*rf:ɔm,ə
+*	*rs:c1
+*	*pline:8=1r
+4ff	Quand
+4cc	il
 !!LO:TX:a:B:t=a Tempo
-=15
-4dd
-8cc
-8b-
-4a
-4g
-=16
-2f
+=15	=15
+4dd	nei-
+8cc	-ge
+8b-	sur
+4a	mon
+4g	pa-
+=16	=16
+2f	-ys.
+*	*rp:i
+*	*rf:i
+*	*rs:a1
 !!LO:PB:g=original
-=||
-4ff
-4cc
-=17
-4dd
-8cc
-8b-
-4a
-4b-
-=18
-2cc
-4a
-8a
-8a
+=||	=||
+*	*v:2
+*	*pline:9=1r
+4ff	Quand
+4cc	il
+=17	=17
+4dd	nei-
+8cc	-ge
+8b-	sur
+4a	mon
+4b-	pay-
+=18	=18
+2cc	-ys,
+*	*rp:i
+*	*rf:i
+*	*rs:a1
+*	*pline:10
+4a	On
+8a	voit
+8a	s'é-
 !!LO:PB:g=original
-=19
-4cc
-4a
-4g
-4f
-=20
-4a
-8a
-8r
-4cc
-8cc
-8cc
-=21
-*C:
-4b
-4b
-4ee
-4ee
+=19	=19
+4cc	-bat-
+4a	-tre
+4g	dans
+4f	les
+=20	=20
+4a	ru-
+8a	-es
+*	*rp:y
+*	*rf:ʁy,ə
+*	*rs:d1
+8r	.
+*	*pline:11
+4cc	Les
+8cc	pe-
+8cc	-tits
+=21	=21
+*C:	*
+4b	en-
+4b	-fants
+4ee	ré-
+4ee	-jou-
 !!LO:PB:g=original
-=22
-2ee
-4cc
-8dd
-8ee
-=23
-4ff
-4ee
-4dd
-4cc
-=24
-4dd~
-8cc~
-8r
-4.cc
-8cc
+=22	=22
+2ee	-is
+*	*rp:i
+*	*rf:i
+*	*rs:a1
+*	*pline:12
+4cc	Par
+8dd	tant
+8ee	de
+=23	=23
+4ff	splen-
+4ee	-deurs
+4dd	re-
+4cc	-par-
+=24	=24
+4dd~	-ru-
+8cc~	-es,
+*	*rp:y
+*	*rf:ʁy,ə
+*	*rs:d1
+8r	.
+*	*pline:13
+4.cc	Et
+8cc	ce
 !!LO:PB:g=original
-=25
-*c:
-4b-Z
-8b-
-8b-
-4.a-
-8a-
-=26
-2g
-4.cc
-8cc
-=27
-4b-
-4b-
-4a-
-8a-
-8a-
-=28
-2g
-8g
-8r
-4g
+=25	=25
+*c:	*
+4b-Z	sont
+8b-	des
+8b-	ap-
+4.a-	-pels,
+8a-	des
+=26	=26
+2g	cris,
+*	*rp:i
+*	*rf:ʁi
+*	*rs:a3-
+*	*pline:14
+4.cc	Des
+8cc	ex-
+=27	=27
+4b-	-ta-
+4b-	-ses
+4a-	et
+8a-	des
+8a-	dé-
+=28	=28
+2g	-li-
+8g	-res,
+*	*rp:i
+*	*rf:iʁ,ə
+*	*rs:a4
+8r	.
+*	*pline:15
+4g	Des
 !!LO:PB:g=original
-=29
-4cc
-8cc
-8cc
-4dd
-8cc
-4dd
-=30
-*F:
-4ee
-4ee,
-4ff
-4cc
+=29	=29
+4cc	cour-
+8cc	-ses,
+8cc	des
+4dd	jeux
+8cc	et
+4dd	des
+=30	=30
+*F:	*
+4ee	ri-
+4ee,	-res
+*	*rp:i
+*	*rf:iʁ,ə
+*	*rs:a4
+*	*pline:16=1r
+4ff	Quand
+4cc	il
 !!LO:TX:a:B:t=a Tempo
-=31
-4dd
-8cc
-8b-
-4a
-4g
-=32
-2f
+=31	=31
+4dd	nei-
+8cc	-ge
+8b-	sur
+4a	mon
+4g	pa-
+=32	=32
+2f	-ys.
+*	*rp:i
+*	*rf:i
+*	*rs:a1
 !!LO:PB:g=original
-=||
-4ff
-4cc
-=33
-4dd
-8cc
-8b-
-4a
-4b-
-=34
-2cc
-4a
-8a
-8a
+=||	=||
+*	*v:3
+*	*pline:17=1rd
+4ff	Quand
+4cc	il
+=33	=33
+4dd	nei-
+8cc	-ge
+8b-	sur
+4a	mon
+4b-	pa-
+=34	=34
+2cc	-ys,
+*	*rp:i
+*	*rf:i
+*	*rs:a1
+*	*pline:18
+4a	C'est
+8a	tout
+8a	le
 !!LO:PB:g=original
-=35
-4cc
-4a
-4g
-4f
-=36
-4a
-8a
-8r
-4cc
-8cc
-8cc
-=37
-*C:
-4b
-4b
-4ee
-4ee
+=35	=35
+4cc	ciel
+4a	qui
+4g	se
+4f	dis-
+=36	=36
+4a	-per-
+8a	-se
+*	*rp:ɛ
+*	*rf:ɛʁs,ə
+*	*rs:e1
+8r	.
+*	*pline:19
+4cc	Sur
+8cc	la
+8cc	mon-
+=37	=37
+*C:	*
+4b	-tagn[e]
+4b	et
+4ee	les
+4ee	toits
 !!LO:PB:g=original
-=38
-2ee
-4cc
-8dd
-8ee
-=39
-4ff
-4ee
-4dd
-4cc
-=40
-4dd~
-8cc~
-8r
-4cc
-8cc
-8cc
+=38	=38
+2ee	gris
+*	*rp:i
+*	*rf:ʁi
+*	*rs:a3-
+*	*pline:20
+4cc	Qu'ils
+8dd	re-
+8ee	-vêt
+=39	=39
+4ff	de
+4ee	sa
+4dd	clair[e]
+4cc	a-
+=40	=40
+4dd~	-ver-
+8cc~	-se;
+*	*rp:ɛ
+*	*rf:ɛʁs,ə
+*	*rs:e1
+8r	.
+*	*pline:21
+4cc	Sous
+8cc	l'a-
+8cc	-va-
 !!LO:PB:g=original
-=41
-*c:
-4.b-Z
-8b-
-4.a-
-8a-
-=42
-2g
-4cc
-8cc
-8cc
-=43
-2b-
-4a-
-8a-
-8a-
-=44
-4g
-4g
-(>6g
-6g
-6g)
+=41	=41
+*c:	*
+4.b-Z	-lan-
+8b-	-che
+4.a-	de
+8a-	ces
+=42	=42
+2g	lis,
+*	*rp:i
+*	*rf:li
+*	*rs:a2-
+*	*pline:22
+4cc	D'un
+8cc	pur
+8cc	é-
+=43	=43
+2b-	clat
+4a-	il
+8a-	nous
+8a-	i-
+=44	=44
+4g	-non-
+4g	-de.
+*	*rp:ɔ̃
+*	*rf:ɔ̃d,ə
+*	*rs:f1
+*	*pline23
+(>6g	C'est
+6g	le
+6g)	plus
 !!LO:PB:g=original
-=45
-!LO:TUP:a
-(3cc
-6cc)
-!LO:TUP:a
-((6dd
-6cc)
-6dd)
-=46
-*F:
-4ee
-4ee,
-4ff
-4cc
+=45	=45
+!LO:TUP:a	!
+(3cc	beau
+6cc)	pa-
+!LO:TUP:a	!
+((6dd	-ys
+6cc)	.
+6dd)	du
+=46	=46
+*F:	*
+4ee	mon-
+4ee,	-de,
+*	*rp:ɔ̃
+*	*rf:ɔ̃d,ə
+*	*pline:24=1r
+4ff	Quand
+4cc	il
 !!LO:TX:a:B:t=a Tempo
-=47
-4dd
-8cc
-8b-
-4a
-*^
-4cc	4g
-=48	=48
-2ff	2f
-*v	*v
-==
-*-
+=47	=47
+4dd	nei-
+8cc	-ge
+8b-	sur
+4a	mon
+*^	*
+4cc	4g	pa-
+=48	=48	=48
+2ff	2f	-ys!
+*	*	*rp:i
+*	*	*rf:i
+*	*	*rs:a1
+*v	*v	*
+==	==
+*-	*-
 !!!RDF**kern: Z = editorial accidental, parentheses
 !!!RDF**kern: > = above
 !!!EEV: Ève Poudrier
-!!EED: 09/05/2025
+!!EED: 10/09/2025
