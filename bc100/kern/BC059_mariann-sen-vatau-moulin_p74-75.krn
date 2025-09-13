@@ -1,0 +1,152 @@
+!!!id: BC059
+!!!page: 74-75
+!!!COM: Anonymous (Folklore)
+!!!LYR: Anonymous (Folklore)
+!!!PTL@@FR: Les 100 plus belles chansons
+!!!OTL: Mariann' s'en va-t-au moulin
+!!!PUB: La Bonne Chanson, inc.
+!!!YEM: On ne peut reproduire, enregistrer ou diffuser en tout ou en partie le présent ouvrage, sous quelque procédé que ce soit, électronique, mécanique, photographique, sonore, magnétique ou autre, sans avoir obtenu au préalable l'autorisation écrite de l'éditrice.
+!!!PDT: 2011
+!!!SMA: 2012 Bibliothèque nationale du Québec; Biblothèque nationale du Canada
+!!!AGN-Laforte: Chanson strophique (avec refrain intégré and repeated ending word), 6:6(6,9)
+!!!AGN-type: Chanson de paysan
+!!!AGN-rime: suivies (aabbaa)
+!!!LYR-elision: Finale "e" (Mariann', fair', mamzell', derrièr', j'vous, ramèn', m'porta); Final "e" pluriel (ân's); Final et medial "e" (p'tit'); mamzell' = mademoiselle
+**kern	**text	**text	**text	**text	**text	**text
+*clefG2	*	*	*	*	*	*
+*k[f#]	*	*	*	*	*	*
+*G:	*	*	*	*	*	*
+!!LO:TX:a:Allegro
+*M6/8	*	*	*	*	*	*
+*	*v:1	*v:2	*v:3	*v:4	*v:5	*v:6
+*	*pline:1	*pline:7	*pline:12	*pline:15	*pline:18	*pline:22
+8d	Ma-	Le	Pen-	Ma-	Son	C'est
+4g	-ri-	meu-	-dant	-ri-	pè-	au-
+8d	-ann'	-nier,	que	-ann'	-re	-jour-
+=1	=1	=1	=1	=1	=1	=1
+4g	s'en	qui	le	se	qui	-d'hui
+8a	va	la	mou-	mit	la	la
+4b	au	voit	-lin	à	voit	Saint-
+8b	mou-	ve-	mar-	pleu-	ve-	Mi-
+=2	=2	=2	=2	=2	=2	=2
+4g	-lin,	-nir,	-chait,	-rer.	-nir	-chel
+*	*rp:ẽ	*rp:i	*rp:ɛ	*rp:e	*rp:i	*rp:ɛ
+*	*rf:ẽ	*rf:iʁ	*rf:ɛ	*rf:e	*rf:iʁ	*rf:ɛl
+*	*rs:a0	*rs:c1	*rs:d0	*rs:e0	*rs:c1	*rs:d1
+*	*pline:1r	*pline:7r	*pline:12r	*pline:15r	*pline:18r	*pline:22r
+8b	Ma-	Le	Pen-	Ma-	Son	C'est
+4dd	-ri-	meu-	-dant	-ri-	pè-	au-
+8dd	-ann'	-nier,	que	-ann'	-re	-jour-
+!!LO:PB:g=original
+=3	=3	=3	=3	=3	=3	=3
+4cc	s'en	qui	le	se	qui	-d'hui
+8cc	va	la	mou-	mit	la	la
+4dd	au	voit	-lin	à	voit	Saint-
+8cc	mou-	ve-	mar-	pleu-	ve-	Mi-
+=4	=4	=4	=4	=4	=4	=4
+4b,	-lin,	-nir,	-chait,	-rer.	-nir	chel
+*	*rp:ẽ	*rp:i	*rp:ɛ	*rp:e	*rp:i	*rp:ɛ
+*	*rf:ẽ	*rf:iʁ	*rf:ɛ	*rf:e	*rf:iʁ	*rf:ɛl
+*	*rs:a0	*rs:c1	*rs:d0	*rs:e0	*rs:c1	*rs:d1
+*	*pline:2	*pline:8	*pline:13	*pline:16	*pline:19	*pline:23
+8d	C'est	S'em-	Le	Cent	Ne	Que
+4g	pour	-press[e]	loup	é-	put	tous
+8g	y	aus-	tout	-cus	s'em-	les
+=5	=5	=5	=5	=5	=5	=5
+4g	fair'	-si-	à	d'or	-pê-	ân's
+8a	mou-	-tôt	l'en-	lui	-cher	chan-
+4b	-dre	de	-tour	a	de	-gent
+8b	son	lui	rô-	don-	lui	de
+!!LO:PB:g=original
+=6	=6	=6	=6	=6	=6	=6
+4g	grain.	dir[e]:	-dait.	-né	dir[e]:	poil.
+*	*rp:ẽ	*rp:i	*rp:ɛ	*rp:e	*rp:i	*rp:a
+*	*rf:ẽ	*rf:iʁ	*rf:ɛ	*rf:e	*rf:iʁ,(ə)	*rf:wal
+*	*rs:a0	*rs:c1	*rs:d0	*rs:e0	*rs:c1	*rs:e1
+*	*pline:2r	*pline:8r	*pline:13r	*pline:16r	*pline:19r	*pline:23r
+8b	C'est	S'em-	Le	Cent	Ne	Que
+4dd	pour	-press[e]	loup	é-	put	tous
+8dd	y	aus-	tout	-cus	s'em-	les
+=7	=7	=7	=7	=7	=7	=7
+4cc	fair'	-si-	à	d'or	-pê-	ân's
+8cc	mou-	-tôt	l'en-	lui	-cher	chan-
+4dd	-dre	de	-tour	a	de	-gent
+8cc	son	lui	rô-	don-	lui	de
+=8	=8	=8	=8	=8	=8	=8
+4b,	grain.	dir[e]:	-dait.	-né	dir[e]:	poil.
+*	*rp:ẽ	*rp:i	*rp:ɛ	*rp:e	*rp:i	*rp:a
+*	*rf:ẽ	*rf:iʁ,(ə)	*rf:ɛ	*rf:e	*rf:iʁ,(ə)	*rf:wal
+*	*rs:a0	*rs:c1	*rs:d0	*rs:e0	*rs:c1	*rs:e1
+*	*pline:3	*pline:9	*pline:14	*pline:17	*pline:20	*pline:24
+8b	À	"At-	Le	Pour	Qu'a-	J'vous
+4b	che-	-ta-	loup	a-	-vez-	ra-
+8b	-val	-chez	a	-che-	-vous	-mèn'
+!!LO:PB:g=original
+=9	=9	=9	=9	=9	=9	=9
+4b	sur	donc	man-	-ter	fait	le
+8b	son	votr[e]	-gé	un	d'votr[e]	mêm[e]
+4.dd	â-	â-	l'â-	â-	â-	â-
+=10	=10	=10	=10	=10	=10	=10
+4cc	-ne,	-ne,	-ne,	-ne,	-ne,	-ne,
+*	*rp:a	*rp:a	*rp:a	*rp:a	*rp:a	*rp:a
+*	*rf:an,ə	*rf:an,ə	*rf:an,ə	*rf:an,ə	*rf:an,ə	*rf:an,ə
+*	*rs:e2	*rs:e2	*rs:e2	*rs:e2	*rs:e2	*rs:e2
+*	*pline:4	*pline:4r	*pline:4r	*pline:4r	*pline:4r	*pline:4r
+*	*refrain	*refrain	*refrain	*refrain	*refrain	*refrain
+*	*italic	*italic	*italic	*italic	*italic	*italic
+8b	Ma	Ma	Ma	Ma	Ma	Ma
+4a	p'tit'	p'tit'	p'tit'	p'tit'	p'tit'	p'tit'
+8a	mam-	mam-	mam-	mam-	mam-	mam-
+=11	=11	=11	=11	=11	=11	=11
+4a	zell'	zell'	zell'	zell'	zell'	zell'
+8a	Ma-	Ma-	Ma-	Ma-	Ma-	Ma-
+4.cc	-ri-	-ri-	-ri-	-ri-	-ri-	-ri-
+=12	=12	=12	=12	=12	=12	=12
+4b	-an-	-an-	-an-	-an-	-an-	-an-
+8a	-ne,	-ne,	-ne,	-ne,	-ne,	-ne,
+*	*rp:a	*rp:a	*rp:a	*rp:a	*rp:a	*rp:a
+*	*rf:an,ə	*rf:an,ə	*rf:an,ə	*rf:an,ə	*rf:an,ə	*rf:an,ə
+*	*rs:e2	*rs:e2	*rs:e2	*rs:e2	*rs:e2	*rs:e2
+*	*Xitalic	*Xitalic	*Xitalic	*Xitalic	*Xitalic	*Xitalic
+*	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain
+*	*pline:3r	*pline:10	*pline:14r	*pline:17r	*pline:20r	*pline:24r
+4g	À	At-	Le	Pour	Qu'a-	J'vous
+8g	che-	-ta-	loup	a-	-vez-	ra-
+!!LO:PB:g=original
+=13	=13	=13	=13	=13	=13	=13
+4d	-val	-chez	a	-che-	-vous	-mèn'
+8g	sur	donc	man-	-ter	fait	le
+8b	son	votr[e]	-gé	un	d'votr[e]	mêm[e]
+8b	â-	â-	l'â-	â-	â-	â-
+8b	-ne	-ne	-ne	-ne	-ne	-ne
+=14	=14	=14	=14	=14	=14	=14
+*	*refrain	*refrain	*refrain	*refrain	*refrain	*refrain
+*	*italic	*italic	*italic	*italic	*italic	*italic
+4.g	Ca-	Ca-	Ca-	Ca-	Ca-	Ca-
+4.dd	-tin,	tin,	-tin,	-tin,	-tin,	-tin,
+*	*rp:ẽ	*rp:ẽ	*rp:ẽ	*rp:ẽ	*rp:ẽ	*rp:ẽ
+*	*rf:ẽ	*rf:ẽ	*rf:ẽ	*rf:ẽ	*rf:ẽ	*rf:ẽ
+*	*rs:a0	*rs:a0	*rs:a0	*rs:a0	*rs:a0	*rs:a0
+*	*Xitalic	*Xitalic	*Xitalic	*Xitalic	*Xitalic	*Xitalic
+*	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain
+=15	=15	=15	=15	=15	=15	=15
+*	*pline:5	*pline:11	*pline:11r	*pline:11r	*pline:21	*pline:
+4cc	S'en	Par	Par	Par	En	Qui
+8b	al-	der-	der-	der-	al-	m'por-
+(8aL	-lant	-rièr'	-rièr'	-rièr'	-lant	-ta
+8gJ)	au	le	le	le	au	au
+*	*refrain	*refrain	*refrain	*refrain	*refrain	*refrain
+*	*italic	*italic	*italic	*italic	*italic	*italic
+8f#	mou-	mou-	mou-	mou-	mou-	mou-
+=16	=16	=16	=16	=16	=16	=16
+4g	-lin.	-lin".	-lin.	-lin.	-lin?	-lin.
+*	*rp:ẽ	*rp:ẽ	*rp:ẽ	*rp:ẽ	*rp:ẽ	*rp:ẽ
+*	*rf:ẽ	*rf:ẽ	*rf:ẽ	*rf:ẽ	*rf:ẽ	*rf:ẽ
+*	*rs:a0	*rs:a0	*rs:a0	*rs:a0	*rs:a0	*rs:a0
+*	*Xitalic	*Xitalic	*Xitalic	*Xitalic	*Xitalic	*Xitalic
+*	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain
+==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-
+!!!RNB: Added elision in pline:20r to accommodate musical setting (de votr[e] = d'votr[e]).
+!!!EED: Ève Poudrier
+!!!EEV: 12/09/2025
