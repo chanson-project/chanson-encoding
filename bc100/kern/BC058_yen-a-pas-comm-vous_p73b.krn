@@ -1,0 +1,145 @@
+!!!id: BC058
+!!!page: 73b
+!!!COM: Anonymous
+!!!LYR: Anonymous
+!!!PTL@@FR: Les 100 plus belles chansons
+!!!OTL: Y en a pas comm' vous
+!!!PUB: La Bonne Chanson, inc.
+!!!YEM: On ne peut reproduire, enregistrer ou diffuser en tout ou en partie le présent ouvrage, sous quelque procédé que ce soit, électronique, mécanique, photographique, sonore, magnétique ou autre, sans avoir obtenu au préalable l'autorisation écrite de l'éditrice.
+!!!PDT: 2011
+!!!SMA: 2012 Bibliothèque nationale du Québec; Biblothèque nationale du Canada
+!!!AGN-Laforte: Chanson brève, 1:4(5,9,8)
+!!!AGN-type: Chanson de marche
+!!!AGN-rime: mixtes (abaa); the third verse is a repetition of verse 1.
+!!!LYR-elision: Finale "e" (comm'); y = il y; n'y = il n'y
+**kern	**text
+*>[A1,B1,A2,A1,B2]	*>[A1,B1,A2,A1,B2]
+*k:[f#]	*
+*G:	*
+!!LO:TX:a:t=Vif
+*M6/8	*
+*>A1	*>A1
+*	*pline:1
+=||:	=||:
+4d	Y en
+8d	a
+=1	=1
+4b^	pas
+8g	comm'
+8g	vous,
+*	*bis
+8d	y en
+8d	a
+=2	=2
+4b^	pas
+8g	comm'
+8g	vous,
+*	*Xbis
+*	*pline:2
+8g	Si
+8g	y en
+!!LO:PB:g=original
+=3	=3
+8a	a,
+8a	y en
+8a	a
+8a	peu,
+8g	y en
+8a	a
+=4	=4
+4.b	guè-
+8g	-re,
+*	*pline:1r
+8d	Y en
+8d	a
+=5	=5
+4b^	pas
+8g	comm'
+8g	vous,
+*	*bis
+8d	Y en
+8d	a
+!!LO:PB:g=original
+=6	=6
+4b^	pas
+8g	comm'
+8g	vous,
+*	*Xbis
+*	*pline:3
+8g	Si
+8g	y en
+=7	=7
+8a	a,
+8a	n'y
+8a	en
+8a	a
+8b	pas
+8a	beau-
+!LO:TX:a:t=1	!
+*>B1	*>B1
+=8	=8
+4.g	-coup.
+8r	.
+*	*pline:4
+8g	Y en
+8g	a
+!LO:TX:a:t=2	!
+*>B2	*>B2
+=||	=||
+4.gH	-coup.
+8gg^h	(ou!)
+8r	.
+8r	.
+!!LO:PB:g=original
+==9	==9
+*>A2	*>A2
+[4.cc	pas,
+8cc]	.
+8cc	y en
+8cc	a
+=10	=10
+[4.b	pas,
+8b]	.
+*	*pline:2r
+8b	Si
+8b	y en
+=11	=11
+8a	a,
+8a	y en
+8a	a
+8a	peu,
+8g	y en
+8a	a
+=12	=12
+4.b	guè-
+8g	-re,
+*	*pline:4r
+8g	Y en
+8g	a
+!!LO:PB:g=original
+=13	=13
+[4.cc	pas,
+8cc]	.
+8cc	y en
+8cc	a
+=14	=14
+[4.b	pas,
+8b]	.
+*	*pline:3r
+8b	Si
+8b	y en
+=15	=15
+8a	a,
+8a	n'y
+8a	en
+8a	a
+8b	pas
+8a	beau-
+=16	=16
+4.g	-coup.
+8r	.
+=:||	=:||
+*-	*-
+!!!RNB: Del segno have been replaced by repeat signs.
+!!!EED: Ève Poudrier
+!!!EEV: 12/09/2025
