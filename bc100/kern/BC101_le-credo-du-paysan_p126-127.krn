@@ -1,237 +1,306 @@
 !!!id: BC101
 !!!page: 126-127
 !!!COM: GOUBLIER, Gustave
-!!!LYR: BOREL, F. et S.
+!!!LYR-1: BOREL, François
+!!!LYR-2: BOREL, Stéphane
 !!!PTL@@FR: Les 100 plus belles chansons
-!!!OTL@@FR: Le crédo du Paysan
+!!!OTL@@FR: Le crédo du paysan
 !!!PUB: La Bonne Chanson, inc.
 !!!YEM: On ne peut reproduire, enregistrer ou diffuser en tout ou en partie le présent ouvrage, sous quelque procédé que ce soit, électronique, mécanique, photographique, sonore, magnétique ou autre, sans avoir obtenu au préalable l'autorisation écrite de l'éditrice.
 !!!PDT: 2011
 !!!SMA:2012 Bibliothèque nationale du Québec; Biblothèque nationale du Canada
-!!!AGN-Laforte:
-!!!AGN-type:
-!!!AGN-rime: 
-**kern	**dynam
-*clefG2	*
-*D:	*
+!!!AGN-Laforte: Chanson strophique (avec refrain); 3:8(10), R:4(10,12), not including repetition of R3
+!!!AGN-type: Chanson de paysan, religieuse
+!!!AGN-rime: croisées, verse & refrain (abab,cdcd)
+**kern	**dynam	**text	**text	**text
+*clefG2	*	*	*	*
+*C:	*	*	*	*
 !!LO:TX:a:t=Très posé et très contemplatif
-*M12/8	*
-8g	.
-4g	.
-8g	.
-=1	=1
-[2.g	.
-8g]	.
-8g	.
-8f#	.
-8g	.
-8b	.
-8a	.
+*M12/8	*	*	*	*
+*	*	*v:1	*v:2	*v:3
+*	*	*pline:1	*pline:9	*pline:17
+{8g	.	L'im-	Dans	Mon
+4g	.	-men-	les	dur
+8g	.	-si-	sil-	la-
+=1	=1	=1	=1	=1
+[2.g	.	-té,	-lons	-beur
+8g]	.	.	.	.
+8g	.	les	creu-	fait
+8f#	.	cieux,	-sés	sor-
+8g	.	les	par	-tir
+8b/	.	monts,	la	de
+8a	.	la	char-	la
 !!LO:PB:g=original
-=2	=2
-4.a	.
-[4.g	.
-4g]	.
-8g	.
-4g	.
-8g	.
-=3	=3
-[2.g	.
-8g]	.
-8g	.
-8a	.
-8b	.
-8a	.
-8e	.
+=2	=2	=2	=2	=2
+4.a	.	plai-	-ru-	ter-
+[4.g	.	-ne,	-e,	-re
+*	*	*rp:	*rp:	*rp:
+*	*	*rf:	*rf:	*rf:
+*	*	*rs:a	*rs:	*rs:
+4g]}	.	.	.	.
+*	*	*pline:2	*pline:10	*pline:18
+{8g	.	L'as-	Quand	De
+4g	.	-tre	vient	quoi
+8g	.	du	le	nour-
+=3	=3	=3	=3	=3
+[2.g	.	jour	temps,	-rir
+8g]	.	.	.	.
+8g	.	qui	je	ma
+8a	.	ré-	jett[e],	femm[e]
+8b/	.	-pand	à	et
+8a	.	sa	lar-	mes
+8e	.	cha-	-ge	en-
 !!LO:PB:g=original
-=4	=4
-[2.g	.
-8g]	.
-8r	.
-8g	.
-4g	.
-8g	.
-=5	=5
-[2.g	.
-8g]	.
-8g	.
-8f#	.
-8g	.
-8b	.
-8a	.
+=4	=4	=4	=4	=4
+[2.g	.	-leur,	main	-fants.
+*	*	*rp:	*rp:	*rp:
+*	*	*rf:	*rf:	*rf:
+*	*	*rs:b	*rs:	*rs:
+8g]	.	.	.	.
+8r}	.	.	.	.
+*	*	*pline:3	*pline:11	*pline:19
+{8g	.	Les	Le	Mieux
+4g	.	sa-	pur	qu'un
+8g	.	-pins	fro-	pa-
+=5	=5	=5	=5	=5
+*G:	*	*	*	*
+[2.g	.	verts	-ment	-lais
+8g]	.	.	.	.
+8g	.	dont	qui	j'a-
+8f#	.	la	pouss[e]	-dor-
+8g	.	mon-	en	-re
+8b/	.	-tagn[e]	her-	ma
+8a	.	est	-be	chau-
 !!LO:PB:g=original
-=6	=6
-4.a	.
-[4.g	.
-4g]	.
-8g	.
-4g	.
-8a	.
-=7	=7
-[2.b	.
-8b]	.
-8a#	.
-8b	.
-8cc;	.
-8b	.
-8d#	.
+=6	=6	=6	=6	=6
+4.a	.	plei-	dru-	-miè-
+[4.g	.	-ne	-e.	-re
+*	*	*rp:	*rp:	*rp:
+*	*	*rf:	*rf:	*rf:
+*	*	*rs:a	*rs:	*rs:
+4g]}	.	.	.	.
+*	*	*pline:4	*pline:12	*pline:20
+{8g	.	Sont	L'é-	À
+4g	.	ton	-pi	ses
+8a	.	ou-	bien-	splen-
+=7	=7	=7	=7	=7
+*e:	*	*	*	*
+[2.b	.	-vrag[e],	-tôt	-deurs
+8b]	.	.	.	.
+8a#	.	ô	va	je
+8b	.	di-	sor-	pré-
+8cc;	.	-vin	-tir	-fè-
+8b	.	Cré-	de	-re
+8d#	.	-a-	ce	mes
 !!LO:PB:g=original
-=8	=8
-[2.e	.
-8e]	.
-8r	.
-8g	.
-4a	.
-8g	.
-=9	=9
-[2.g	.
-8g]	.
-8d	.
-8e	.
-8f#	.
-8g	.
-8a	.
+=8	=8	=8	=8	=8
+[2.e	.	-teur!	grain;	champs;
+8e]	.	.	.	.
+*	*	*rp:	*rp:	*rp:
+*	*	*rf:	*rf:	*rf:
+*	*	*rs:b	*rs:	*rs:
+8r}	.	.	.	.
+*	*	*pline:5	*pline:13	*pline:21
+{8g	.	Hum-	Et	Et
+4a	.	-ble	si	le
+8g	.	mor-	par-	di-
+=9	=9	=9	=9	=9
+*C:	*	*	*	*
+[2.g	.	-tel	-fois	manch[e],
+8g]	.	.	.	.
+8d	.	de-	la	au
+8e	.	-vant	grêl[e]	re-
+8f	.	l'oeu-	ou	-pas
+8g	.	-vre	la	de
+8a	.	su-	tem-	fa-
 !!LO:PB:g=original
-=10	=10
-[2.g	.
-4g]	.
-8g	.
-4a	.
-8g	.
-=11	=11
-[2.g	.
-8g]	.
-8a	.
-8g	.
-8f#	.
-8d	.
-8d#	.
+=10	=10	=10	=10	=10
+[2.g	.	-bli-	-pê-	-mil-
+4g]}	.	-me,	-te	-le,
+*	*	*rp:	*rp:	*rp:
+*	*	*rf:	*rf:	*rf:
+*	*	*rs:c	*rs:	*rs:
+*	*	*pline:6	*pline:14	*pline:22
+{8g	.	À	Sur	Lors-
+4a	.	l'ho-	ma	-que
+8g	.	-ri-	mois-	le
+=11	=11	=11	=11	=11
+*e:	*	*	*	*
+[2.g	.	-zon,	-son	soir
+8g]	.	.	.	.
+8a	.	quand	s'a-	vient
+8g	.	le	-bat	tous
+8f	.	so-	comm[e]	nous
+8d	.	-leil	un	ré-
+8d#	.	des-	flé-	-u-
 !!LO:PB:g=original
-=12	=12
-[2.e	.
-4e]	.
-8e	.
-4f#	.
-8e	.
-=13	=13
-[2.b	.
-8b]	.
-8e	.
-8f#	.
-8g#	.
-8a	.
-8b	.
+=12	=12	=12	=12	=12
+[2.e	.	-cend,	-au,	-nir,
+*	*	*rp:	*rp:	*rp:
+*	*	*rf:	*rf:	*rf:
+*	*	*rs:d	*rs:	*rs:
+4e]}	.	.	.	.
+*	*	*pline:7	*pline:15	*pline:23
+{8e	.	Ma	Con-	En-
+4f	.	fai-	-tre	-tre
+8e	.	-ble	le	mes
+=13	=13	=13	=13	=13
+*a:	*	*	*	*
+[2.b	.	voix	ciel,	fils,
+8b]	.	.	.	.
+8e	.	s'é-	loin	et
+8f#	.	-lè-	de	ma
+8g#	.	-ve	le-	femm[e]
+8a	.	de	ver	et
+8b	.	l'a-	la	ma
 !!LO:PB:g=original
-=14	=14
-(2.cc	.
-4a)	.
-8a	.
-4b	.
-8cc	.
-=15	=15
-[4.dd	.
-4dd]	.
-8dd	.
-4.ee;	.
-8dd	.
-8cc	.
-8a	.
+=14	=14	=14	=14	=14
+(2.cc	.	-bî-	tê-	fil-
+4a)}	.	-me,	-te,	-le,
+*	*	*rp:	*rp:	*rp:
+*	*	*rf:	*rf:	*rf:
+*	*	*rs:c	*rs:	*rs:
+*	*	*pline:8	*pline:16	*pline:24
+{8a	.	Mon-	Le	Le
+4b	.	-te	front	coeur
+8cc	.	vers	cour-	con-
+=15	=15	=15	=15	=15
+*G:	*	*	*	*
+[4.dd	.	Toi,	-bé,	-tent,
+4dd]	.	.	.	.
+*	*	*bis	*bis	*bis
+8dd	.	vers	j'im-	j'es-
+4.ee;	.	Toi,	-plo-	-pèr[e]
+*	*	*Xbis	*Xbis	*Xbis
+8dd	.	Dieu	-re	en
+8cc	.	tout	le	l'a-
+8a	.	puis-	Très-	-ve-
 !!LO:PB:g=original
-=16	=16
-[2.g	.
-[4g]	.
-8g]	.
-4r	.
-8r	.
-=17||	=17||
-4.cc	p
-4b	.
-8a	.
-[4.g	.
-4.g]	.
+=16	=16	=16	=16	=16
+*C:	*	*	*	*
+[2.g	.	-sant.	-Haut!	-nir!
+*	*	*rp:	*rp:	*rp:
+*	*	*rf:	*rf:	*rf:
+*	*	*rs:d	*rs:	*rs:
+[4g]	.	.	.	.
+8g]	.	.	.	.
+4r	.	.	.	.
+8r}	.	.	.	.
+=17||	=17||	=17||	=17||	=17||
+*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain
+*	*	*pline:R1	*	*
+!!LO:TX:a:B:t=REFRAIN
+{4.cc	p	Je	.	.
+4b	.	crois	.	.
+8a	.	en	.	.
+[4.g	.	Toi,	.	.
+4.g]	.	.	.	.
 !!LO:PB:g=original
-=18	=18
-4a	.
-8a	.
-8g	.
-8f	.
-8e	.
-(4.g	.
-4.d)	.
-=19	=19
-8r	.
-8d	.
-8e	.
-8f	.
-8g	.
-8a	.
-[2.g	.
+=18	=18	=18	=18	=18
+4a	.	Maî-	.	.
+8a	.	-tre	.	.
+8g	.	de	.	.
+8f	.	la	.	.
+8e	.	na-	.	.
+(4.g	.	-tu-	.	.
+4.d)	.	-re,	.	.
+=19	=19	=19	=19	=19
+*	*	*rp:	*rp:	*rp:
+*	*	*rf:	*rf:	*rf:
+*	*	*rs:e	*rs:	*rs:
+8r}	.	.	.	.
+*	*	*pline:R2	*pline:	*pline:
+{8d	.	Se-	.	.
+8e	.	-mant	.	.
+8f	.	par-	.	.
+8g	.	-tout	.	.
+8a	.	la	.	.
+[2.g	.	vie	.	.
 !!LO:PB:g=original
-=20	=20
-8g]	.
-8a	.
-8g	.
-8a	.
-8g	.
-8a	.
-[4.b	.
-[4b]	.
-8b]	.
-=21	=21
-4.cc	f
-4b	.
-8a	.
-[4.g	.
-4g]	.
-8e	.
+=20	=20	=20	=20	=20
+8g]	.	.	.	.
+8a	.	et	.	.
+8g	.	la	.	.
+8a	.	fé-	.	.
+8g	.	-con-	.	.
+8a	.	-di-	.	.
+[4.b	.	-té;	.	.
+*	*	*rp:	*rp:	*rp:
+*	*	*rf:	*rf:	*rf:
+*	*	*rs:f	*rs:	*rs:
+[4b]	.	.	.	.
+8b]}	.	.	.	.
+=21	=21	=21	=21	=21
+*	*	*pline:R3	*pline:	*pline:
+*	*	*bis	*bis	*bis
+{4.cc	f	Dieu	.	.
+4b	.	tout	.	.
+8a	.	puis-	.	.
+[4.g	.	-sant	.	.
+*	*	*Xbis	*Xbis	*Xbis
+4g]	.	.	.	.
+8e	.	qui	.	.
 !!LO:PB:g=original
-=22	=22
-4.a	.
-8g	.
-8f	.
-8e	.
-4.b-	.
-[4a	.
-8a]	.
-=23	=23
-8r	.
-8a	.
-8g#	.
-8a	.
-8cc;	.
-8a	.
-2.g#	.
-=24	=24
-8r	.
-8f	pp
-8e	.
-8f	.
-8b;	.
-8f	.
-2.e	.
+=22	=22	=22	=22	=22
+4.a	.	fis	.	.
+8g	.	la	.	.
+8f	.	cré-	.	.
+8e	.	-a-	.	.
+4.b-	.	-tu-	.	.
+[4a	.	-re,	.	.
+*	*	*rp:	*rp:	*rp:
+*	*	*rf:	*rf:	*rf:
+*	*	*rs:e	*rs:	*rs:
+8a]	.	.	.	.
+=23	=23	=23	=23	=23
+8r}	.	.	.	.
+*	*	*pline:R4	*pline:	*pline:
+{{8a	.	Je	.	.
+8g#	.	crois	.	.
+8a	.	en	.	.
+8cc;	.	ta	.	.
+8a	.	gran-	.	.
+2.g#	.	-deur,	.	.
+=24	=24	=24	=24	=24
+8r}	pp	.	.	.
+{8f	.	Je	.	.
+8e	.	crois	.	.
+8f	.	en	.	.
+8b/;	.	ta	.	.
+8f	.	bon-	.	.
+2.e	.	-té!	.	.
+*	*	*rp:	*rp:	*rp:
+*	*	*rf:	*rf:	*rf:
+*	*	*rs:f	*rs:	*rs:
 !!LO:PB:g=original
-=25	=25
-8r	.
-8d^	.
-8e^	.
-8f^	.
-8g^	.
-8a^	.
-[4.g	.
-4g]	.
-8cc	.
-=26	=26
-[4.ee	.
-4ee]	.
-8cc	.
-[4.dd	.
+=25	=25	=25	=25	=25
+8r}}	.	.	.	.
+*	*	*pline:R4r	*pline:	*pline:
+{8d^	.	Je	.	.
+8e^	.	crois	.	.
+8f^	.	en	.	.
+8g^	.	ta	.	.
+8a^	.	gran-	.	.
+[4.g	.	-deur,	.	.
+4g]	.	.	.	.
+8cc	.	je	.	.
+=26	=26	=26	=26	=26
+[4.ee	.	crois	.	.
+4ee]	.	.	.	.
+8cc	.	en	.	.
+[4.dd	.	ta	.	.
 !!LO:TX:a:i:t=rall.
-4dd]	.
-8g	.
-=27	=27
-[2.cc	.
-4cc]	.
-==	==
-*-	*-
+4dd]	.	.	.	.
+8g	.	bon-	.	.
+=27	=27	=27	=27	=27
+[2.cc	.	-té!	.	.
+*	*	*rp:	*rp:	*rp:
+*	*	*rf:	*rf:	*rf:
+*	*	*rs:f	*rs:	*rs:
+4cc]}	.	.	.	.
+==	==	==	==	==
+*-	*-	*-	*-	*-
 !!!EED: Isaac Howie
-!!!EEV: 2025/Aug/12
+!!!EEV: 2025/08/12
+!!!EED: Ève Poudrier
+!!!EEV: 2025/09/15
