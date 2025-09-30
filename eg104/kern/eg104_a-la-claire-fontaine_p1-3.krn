@@ -6,35 +6,78 @@
 !!!PUB:
 !!! YEM:
 !!!PDT: 1865
-!!!SMA: 
-!!!AGN-Laforte: 
-!!!AGN-type: 
-!!!AGN-rime: 
-**kern	**text
-*clefG2	*
-*k[b-]	*
-*F:	*
-*M2/4	*
-*	*v:1
-*	*pline:1Ha
-=1	=1
-4f	À
-8f	la
-8a	clai-
-=2	=2
-8a	-re
-8g	fon-
-8a	-tai-
-8g	-ne
-*	*pline:1Hb
-=3	=3
-4f	M'en
-8f	al-
-8a	-lant
-=4	=4
-8a	pro-
-8g	-me-
-4a	-ner,
+!!!SMA:
+!!!AGN-Laforte:
+!!!AGN-type:
+!!!AGN-rime:
+**kern	**text	**text	**text	**text	**text	**text	**text	**text
+*clefG2	*	*	*	*	*	*	*	*
+*k[b-]	*	*	*	*	*	*	*	*
+*F:	*	*	*	*	*	*	*	*
+*M2/4	*	*	*	*	*	*	*	*
+*	*v:1	*v:2	*v:3	*v:4	*v:5	*v:6	*v:7	*v:8
+*	*pline:1Ha	*pline:1Ha	*pline:1Ha	*pline:1Ha	*pline:1Ha	*pline:1Ha	*pline:1Ha	*pline:1Ha
+=1	=1	=1	=1	=1	=1	=1	=1	=1
+4f	À	J'ai	Sous	Sur	Chan-	J'ai	Pour	Je
+8f	la	trou-	les	la	-te,	per-	un	vou-
+8a	clai-	-vé	feuil-	plus	ros-	-du	bou-	-drais
+=2	=2	=2	=2	=2	=2	=2	=2	=2
+8a	-re	l'eau	-les	hau-	-si-	ma	-quet	que
+8g	fon-	si	d'un	-te	-gnol,	maî-	de	la
+8a	-tai-	bel-	chê-	bran-	chan-	-tres-	ro-	ro-
+8g	-ne	-le	-ne	-che	-te,	-se	-ses	-se
+*	*pline:1Hb	*pline:1Hb	*pline:1Hb	*pline:1Hb	*pline:1Hb	*pline:1Hb	*pline:1Hb	*
+=3	=3	=3	=3	=3	=3	=3	=3	=3
+4f	M'en	Que	Je	Le	Toi	Sans	Que	Fût
+8f	al-	je	me	ros-	qui	l'a-	je	en-
+8a	-lant	m'y	suis	-si-	as	-voir	lui	-core
+=4	=4	=4	=4	=4	=4	=4	=4	=4
+8a	pro-	suis	fait	-gnol,	le	mé-	re-	au
+8g	-me-	bai-	séc-	chan-	cœur	-ri-	-fu-	ro-
+4a	-ner,	-gné;	-her;	-tait.	gai;	-té,	-sai.	-sier,
 !!LO:PB:g=original
-*	*pline:2Ha
-=5	=5
+*	*pline:2Ha	*pline:2Ha	*pline:2Ha	*pline:2Ha	*pline:2Ha	*pline:2Ha	*pline:2Ha	*pline:2Ha
+!!Add text variant in verse 8 for m.85-8
+=5	=5	=5	=5	=5	=5	=5	=5	=5
+4a	J'ai	Sous	Sur	Chan-	Tu	Pour	Je	Et
+8a	trou-	les	la	-te,	as	un	vou-	moi
+8g	-vé	feuil-	plus	ros-	le	bou-	-drais	et
+=6	=6	=6	=6	=6	=6	=6	=6	=6
+8f	l'eau	-les	hau-	-si-	cœur	-quet	que	ma
+8a	si	d'un	-te	-gnol,	à	de	la	maî-
+8cc	bel-	chê-	bran-	chan-	ri-	ro-	ro-	-tres-
+8a	-le	-ne	-che	-te,	-re,	-ses	-se	-se
+*	*pline:2Hb	*pline:2Hb	*pline:2Hb	*pline:2Hb	*pline:2Hb	*pline:2Hb	*pline:2Hb	*pline:2Hb
+=7	=7	=7	=7	=7	=7	=7	=7	=7
+4cc	Que	Je	Le	Toi	Moi	Que	Fût	Dans
+8cc	je	me	ros-	qui	je	je	en-	les
+8a	m'y	suis	-si-	as	l'ai-	lui	-cre	mêm's
+=8	=8	=8	=8	=8	=8	=8	=8	=8
+8f	suis	fait	-gnol	le	-t-à	re-	au	ami-
+8a	bai-	séc-	chan-	cœur	pleu-	-fu-	ro-	-ti-
+4g	-gné.	-her.	-tait.	gai.	-rer	-sai.	-sier.	-és.
+!!LO:PB:g=original
+*	*pline:3Ha	*pline:3Ha	*pline:3Ha	*pline:3Ha	*pline:3Ha	*pline:3Ha	*pline:3Ha	*pline:3Ha
+*refrain	*refrain	*refrain	*refrain	*refrain	*refrain	*refrain	*refrain	*refrain
+!!Variant for m.9 needs to be added
+=9	=9	=9	=9	=9	=9	=9	=9	=9
+4c	Lui	.	.	.	.	.	.	.
+8f	ya	.	.	.	.	.	.	.
+8a	long-	.	.	.	.	.	.	.
+=10	=10	=10	=10	=10	=10	=10	=10	=10
+8a	-temps	.	.	.	.	.	.	.
+16g	que	.	.	.	.	.	.	.
+16f	je	.	.	.	.	.	.	.
+8a	t'ai-	.	.	.	.	.	.	.
+8f	-me,	.	.	.	.	.	.	.
+*	*pline:3Hb	*pline:3Hb	*pline:3Hb	*pline:3Hb	*pline:3Hb	*pline:3Hb	*pline:3Hb	*pline:3Hb
+=11	=11	=11	=11	=11	=11	=11	=11	=11
+4a	Ja-	.	.	.	.	.	.	.
+8a	-mais	.	.	.	.	.	.	.
+16g	je	.	.	.	.	.	.	.
+16f	ne	.	.	.	.	.	.	.
+=12	=12	=12	=12	=12	=12	=12	=12	=12
+8a	t'ou-	.	.	.	.	.	.	.
+8g	-blie-	.	.	.	.	.	.	.
+4f	-rai.	.	.	.	.	.	.	.
+==	==	==	==	==	==	==	==	==
