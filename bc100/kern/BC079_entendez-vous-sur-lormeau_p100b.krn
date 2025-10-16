@@ -8,14 +8,13 @@
 !!!YEM: On ne peut reproduire, enregistrer ou diffuser en tout ou en partie le présent ouvrage, sous quelque procédé que ce soit, électronique, mécanique, photographique, sonore, magnétique ou autre, sans avoir obtenu au préalable l'autorisation écrite de l'éditrice.
 !!!PDT: 2011
 !!!SMA:2012 Bibliothèque nationale du Québec; Biblothèque nationale du Canada
-!!!AGN-Laforte: Canon à 4 voix, 2(7) avec turlute
-!!!AGN-type: nature? oiseaux
+!!!AGN-Laforte: Canon à 4 voix, 4(7/6) avec turlute
+!!!AGN-type: Chanson d'oiseau
 !!!AGN-rime: monorime \o\
 **kern	**text
 *clefG2	*
 *k[b-]	*
 *D:	*
-!!LO:TX:a:t=[segno]
 *M4/4	*
 *met(c)	*
 !!LO:TX:a:B:t=A
@@ -67,8 +66,10 @@
 4f	la
 =8	=8
 2f}}	la
-!!LO:TX:a:t=[segno]
 =||	=||
 *-	*-
+!!!RNB-editorial: Del segno sign at beginning and end are omitted.
 !!!EED: Isaac Howie
-!!!EEV: 2025/Aug/12
+!!!EEV: 2025/08/12
+!!!EED: Ève Poudrier
+!!!: 2025/10/16
