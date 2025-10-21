@@ -1,29 +1,29 @@
 !!!id: BC078
 !!!page: 100-101
-!!!COM: (Folklore canadien)
-!!!LYR: (Folklore canadien)
+!!!COM: Anonymous (Folklore canadien)
+!!!LYR: Anonymous (Folklore canadien)
 !!!PTL@@FR: Les 100 plus belles chansons
 !!!OTL@@FR: Tu danses bien, Madeleine
 !!!PUB: La Bonne Chanson, inc.
 !!!YEM: On ne peut reproduire, enregistrer ou diffuser en tout ou en partie le présent ouvrage, sous quelque procédé que ce soit, électronique, mécanique, photographique, sonore, magnétique ou autre, sans avoir obtenu au préalable l'autorisation écrite de l'éditrice.
 !!!PDT: 2011
 !!!SMA:2012 Bibliothèque nationale du Québec; Biblothèque nationale du Canada
-!!!AGN-Laforte: Chanson en laisse (avec refrain), 9:2(7+6), R2(7+6)
-!!!AGN-type:
-!!!AGN-rime: monorime \e\
+!!!AGN-Laforte: Chanson en laisse (avec refrain et répétition à cheval), 9:2(6+6), R:2(6+6)
+!!!AGN-type: Chanson de paysans (rigodon)
+!!!AGN-rime: monorime \e\, avec refrain en hémistiches avec rimes croisées (abab)
 **kern	**text	**text	**text	**text	**text	**text	**text	**text	**text
 *clefG2	*	*	*	*	*	*	*	*	*
 *k[f#c#]	*	*	*	*	*	*	*	*	*
 *D:	*	*	*	*	*	*	*	*	*
+!!LO:TX:a:B:t=Moderato
 *M4/4	*	*	*	*	*	*	*	*	*
 *met(c)	*	*	*	*	*	*	*	*	*
 *	*vv:1	*vv:2	*vv:3	*vv:4	*vv:5	*vv:6	*vv:7	*vv:8	*vv:9
 *	*pline:1	*pline:2r	*pline:3r	*pline:4r	*pline:5r	*pline:6r	*pline:7r	*pline:8r	*pline:9r
-!!LO:TX:a:B:t=Moderato
 !!LO:TX:a:t=Solo - Reprise en choeur
 4a	À	J'ai	Sous	Sur	Chan-	Tu	J'ai	Pour	Je
 8b	la	trou-	les	la	-te,	as	per-	un	vou-
-8a	clai-	-ve	feuil-	plus	ros-	le	-du	bou-	-drais
+8a	clai-	-vé	feuil-	plus	ros-	le	-du	bou-	-drais
 8g	-re	l'eau	-les	hau-	-si-	coeur	ma	-quet	que
 8f#	fon-	si	d'un	-te	-gnol,	à	maî-	de	la
 =1	=1	=1	=1	=1	=1	=1	=1	=1	=1
@@ -45,29 +45,38 @@
 !!LO:TX:a:t=Solo
 4e	J'ai	Sous	Sur	Chan-	Tu	J'ai	Pour	Je	Et
 8e	trou-	les	la	-te,	as	per-	un	vou-	moi
-8f#	-ve	feuil-	plus	ros-	le	-du	bou-	-drais	et
+8f#	-vé	feuil-	plus	ros-	le	-du	bou-	-drais	et
 8g	l'eau	-les	hau-	-si-	coeur	ma	-quet	que	ma
-8a	si	d'un	-te	-gnol.	à	maî-	de	la	maî-
+8a	si	d'un	-te	-gnol,	à	maî-	de	la	maî-
 =3	=3	=3	=3	=3	=3	=3	=3	=3	=3
 8b	bel-	chê-	bran-	chan-	ri-	-tres-	ro-	ro-	-tres-
 8b	-le	-ne,	-che,	-te,	-re,	-se	-ses	-se	-se
 4b	que	je	un	toi	moi,	sans	que	fût	dans
 8ee	je	me	ros-	qui	je	l'a-	je	en-	les
-8dd	m'y	suis	-si-	as	l'ai-	-voir	lui	-cor[e]	mem's
+8dd	m'y	suis	-si-	as	l'ai-	-voir	lui	-cor[e]	mêm's
 8cc#	suis	fait	-gnol	le	-t-à	mé-	re-	au	a-
 8b	bai-	sé-	chan-	coeur	pleu-	-ri-	-fu-	ro-	-mi-
-!!LO:PB:g=original
+*	*rs:ɛ	*	*	*	*	*	*	*	*
+*	*rs:lɛn,ə	*	*	*	*	*	*	*	*
+*	*rs:b	*	*	*	*	*	*	*	*
+*	*rs:ɛ	*	*	*	*	*	*	*	*
+*	*rs:lɛn,ə	*	*	*	*	*	*	*	*
+*	*rs:b	*	*	*	*	*	*	*	*
+!!LO:PB:g=origina
 =4	=4	=4	=4	=4	=4	=4	=4	=4	=4
 !!LO:TX:a:i:t=enchaînez
 8a	-gné.	-cher.	-tait.	gai.	-rer.	-té.	-sai.	-sier.	-tiés.
 *	*rp:e	*rp:e	*rp:e	*rp:e	*rp:e	*rp:e	*rp:e	*rp:e	*rp:e
 *	*rf:ɲe	*rf:ʃe	*rf:te	*rf:ge	*rf:ʁe	*rf:te	*rf:ze	*rf:je	*rf:je
 *	*rs:a-2	*rs:a-3	*rs:a-4	*rs:a-5	*rs:a-6	*rs:a-4	*rs:a-7	*rs:a-8	*rs:a-8
-8g	Ah!	.	.	.	.	.	.	.	.
+*	*refrain	*refrain	*refrain	*refrain	*refrain	*refrain	*refrain	*refrain	*refrain
+*	*italic	*italic	*italic	*italic	*italic	*italic	*italic	*italic	*italic
+8g	Ah!	Ah!	Ah!	Ah!	Ah!	Ah!	Ah!	Ah!	Ah!
 =|:	=|:	=|:	=|:	=|:	=|:	=|:	=|:	=|:	=|:
-*	*pline:R1	*	*	*	*	*	*	*	*
-!!LO:TX:a:B:t=Refrain
+*	*pline:R1Ha	*	*	*	*	*	*	*	*
+*	*>Refrain	*	*	*	*	*	*	*	*
 !!LO:TX:a:t=Solo - Reprise en choeur
+!!LO:TX:a:B:t=Refrain
 8f#	Tu	.	.	.	.	.	.	.	.
 8a	dans's	.	.	.	.	.	.	.	.
 4dd	bien,	.	.	.	.	.	.	.	.
@@ -76,18 +85,22 @@
 =5	=5	=5	=5	=5	=5	=5	=5	=5	=5
 8b	-lei-	.	.	.	.	.	.	.	.
 8a	-ne,	.	.	.	.	.	.	.	.
+*	*rs:ɛ	*	*	*	*	*	*	*	*
+*	*rs:lɛn,ə	*	*	*	*	*	*	*	*
+*	*rs:b	*	*	*	*	*	*	*	*
+*	*pline:R1Hb	*	*	*	*	*	*	*	*
 8dd	L'ri-	.	.	.	.	.	.	.	.
 8f#	-go-	.	.	.	.	.	.	.	.
 4a	-don,	.	.	.	.	.	.	.	.
-*	*rp:ɔ̃	*	*	*	*	*	*	*	*
-*	*rf:dɔ̃	*	*	*	*	*	*	*	*
-*	*rs:Ra-1	*	*	*	*	*	*	*	*
 8.g	Ma-	.	.	.	.	.	.	.	.
 16e	-de-	.	.	.	.	.	.	.	.
 !!LO:PB:g=original
 =6	=6	=6	=6	=6	=6	=6	=6	=6	=6
 4f#	-lon,	.	.	.	.	.	.	.	.
-*	*pline:R2	*	*	*	*	*	*	*	*
+*	*rp:ɔ̃	*	*	*	*	*	*	*	*
+*	*rf:lɔ̃	*	*	*	*	*	*	*	*
+*	*rs:c	*	*	*	*	*	*	*	*
+*	*pline:R2Ha	*	*	*	*	*	*	*	*
 8f#	T'ac-	.	.	.	.	.	.	.	.
 8a	-cord's	.	.	.	.	.	.	.	.
 4dd	bien,	.	.	.	.	.	.	.	.
@@ -96,17 +109,25 @@
 =7	=7	=7	=7	=7	=7	=7	=7	=7	=7
 8b	-lei-	.	.	.	.	.	.	.	.
 8a	-ne,	.	.	.	.	.	.	.	.
+*	*rs:ɛ	*	*	*	*	*	*	*	*
+*	*rs:lɛn,ə	*	*	*	*	*	*	*	*
+*	*rs:b	*	*	*	*	*	*	*	*
+*	*pline:R2Hb	*	*	*	*	*	*	*	*
 8dd	Du	.	.	.	.	.	.	.	.
 8f#	ta-	.	.	.	.	.	.	.	.
 4a	-lon,	.	.	.	.	.	.	.	.
-*	*rp:ɔ̃	*	*	*	*	*	*	*	*
-*	*rf:lɔ̃	*	*	*	*	*	*	*	*
-*	*rs:Ra-2	*	*	*	*	*	*	*	*
 8.b	Ma-	.	.	.	.	.	.	.	.
 16cc#	-de-	.	.	.	.	.	.	.	.
 =8	=8	=8	=8	=8	=8	=8	=8	=8	=8
 4dd	-lon!	.	.	.	.	.	.	.	.
+*	*rp:ɔ̃	*	*	*	*	*	*	*	*
+*	*rf:lɔ̃	*	*	*	*	*	*	*	*
+*	*rs:c	*	*	*	*	*	*	*	*
+*	*Xitalic	*	*	*	*	*	*	*	*
+*	*Xrefrain	*	*	*	*	*	*	*	*
 =:|	=:|	=:|	=:|	=:|	=:|	=:|	=:|	=:|	=:|
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-
 !!!EED: Isaac Howie
-!!!EEV: 2025/Aug/12
+!!!EEV: 2025/08/12
+!!!EED: Ève Poudrier
+!!!EEV: 2025/10/21
