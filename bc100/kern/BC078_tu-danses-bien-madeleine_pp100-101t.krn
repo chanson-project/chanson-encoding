@@ -12,6 +12,7 @@
 !!!AGN-type: Chanson de paysans (rigodon)
 !!!AGN-rime: monorime \e\, avec refrain en hémistiches avec rimes croisées (abab)
 **kern	**text	**text	**text	**text	**text	**text	**text	**text	**text
+*thru	*thru	*thru	*thru	*thru	*thru	*thru	*thru	*thru	*thru
 *clefG2	*	*	*	*	*	*	*	*	*
 *k[f#c#]	*	*	*	*	*	*	*	*	*
 *D:	*	*	*	*	*	*	*	*	*
@@ -70,8 +71,8 @@
 *	*rf:ɲe	*rf:ʃe	*rf:te	*rf:ge	*rf:ʁe	*rf:te	*rf:ze	*rf:je	*rf:je
 *	*rs:a-2	*rs:a-3	*rs:a-4	*rs:a-5	*rs:a-6	*rs:a-4	*rs:a-7	*rs:a-8	*rs:a-8
 *>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain
-*	*refrain	*refrain	*refrain	*refrain	*refrain	*refrain	*refrain	*refrain	*refrain
-*	*italic	*italic	*italic	*italic	*italic	*italic	*italic	*italic	*italic
+*	*refrain	*	*	*	*	*	*	*	*
+*	*italic	*	*	*	*	*	*	*	*
 8g	Ah!	.	.	.	.	.	.	.	.
 =|:	=|:	=|:	=|:	=|:	=|:	=|:	=|:	=|:	=|:
 *	*pline:R1Ha	*	*	*	*	*	*	*	*
