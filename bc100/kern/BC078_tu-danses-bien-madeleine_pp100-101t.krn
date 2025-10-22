@@ -69,12 +69,12 @@
 *	*rp:e	*rp:e	*rp:e	*rp:e	*rp:e	*rp:e	*rp:e	*rp:e	*rp:e
 *	*rf:ɲe	*rf:ʃe	*rf:te	*rf:ge	*rf:ʁe	*rf:te	*rf:ze	*rf:je	*rf:je
 *	*rs:a-2	*rs:a-3	*rs:a-4	*rs:a-5	*rs:a-6	*rs:a-4	*rs:a-7	*rs:a-8	*rs:a-8
+*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain
 *	*refrain	*refrain	*refrain	*refrain	*refrain	*refrain	*refrain	*refrain	*refrain
 *	*italic	*italic	*italic	*italic	*italic	*italic	*italic	*italic	*italic
-8g	Ah!	Ah!	Ah!	Ah!	Ah!	Ah!	Ah!	Ah!	Ah!
+8g	Ah!	.	.	.	.	.	.	.	.
 =|:	=|:	=|:	=|:	=|:	=|:	=|:	=|:	=|:	=|:
 *	*pline:R1Ha	*	*	*	*	*	*	*	*
-*	*>Refrain	*	*	*	*	*	*	*	*
 !!LO:TX:a:t=Solo - Reprise en choeur
 !!LO:TX:a:B:t=Refrain
 8f#	Tu	.	.	.	.	.	.	.	.
@@ -130,4 +130,4 @@
 !!!EED: Isaac Howie
 !!!EEV: 2025/08/12
 !!!EED: Ève Poudrier
-!!!EEV: 2025/10/21
+!!!EEV: 2025/10/22
