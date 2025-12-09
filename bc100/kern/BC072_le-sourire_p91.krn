@@ -1,7 +1,7 @@
 !!!id: BC072
 !!!page: 91
-!!!COM: Paroles et musique de Chs.-Emile GADBOIS
-!!!LYR: Chs.-Emile GADBOIS
+!!!COM: Gadbois, Charles-Émile
+!!!LYR: Gadbois, Charles-Émile
 !!!PTL@@FR: Les 100 plus belles chansons
 !!!OTL@@FR: Le sourire
 !!!PUB: La Bonne Chanson, inc.
@@ -9,16 +9,16 @@
 !!!PDT: 2011
 !!!SMA:2012 Bibliothèque nationale du Québec; Biblothèque nationale du Canada
 !!!AGN-Laforte: Chanson strophique (avec refrain), 3:4(10), R4(9/8)
-!!!AGN-type: amour? pastorale? moralité?
-!!!AGN-rime: croisées (abab)
+!!!AGN-type: Chanson d'amour maternel, charitable et de couple
+!!!AGN-rime: croisées (abab), refrain et couplets
 **kern	**text	**text	**text
 *clefG2	*	*	*
 *k[b-]	*	*	*
-*D:	*	*	*
+*F:	*	*	*
 *M6/8	*	*	*
 *	*pline:R1	*	*
 *>Refrain	*>Refrain	*>Refrain	*>Refrain
-!!LO:TX:a:t=Refrain Simplement
+!!LO:TX:a:B:t=Refrain Simplement
 {{8a	La	.	.
 8cc	dou-	.	.
 8a	-ce	.	.
@@ -30,12 +30,12 @@
 =2	=2	=2	=2
 4cc	-ri-	.	.
 8cc,	-re!	.	.
-*	*rp:iʁ,ə	*	*
-*	*rf:i	*	*
+*	*rp:i	*	*
+*	*rf:iʁ,ə	*	*
 *	*rs:Ra	*	*
 *	*pline:R2	*	*
 8a	Il	.	.
-8cc	donne	.	.
+8cc	donn[e]	.	.
 8a	au	.	.
 !!LO:PB:g=original
 =3	=3	=3	=3
@@ -44,11 +44,11 @@
 4g	peu	.	.
 8a	d'es-	.	.
 =4	=4	=4	=4
-4dd}	-poir;	.	.
-*	*rp:ɑʁ	*	*
-*	*rf:ɑ	*	*
+4dd	-poir;	.	.
+*	*rp:a	*	*
+*	*rf:wɑʁ	*	*
 *	*rs:Rb	*	*
-8r	.	.	.
+8r}	.	.	.
 *	*pline:R3	*	*
 {8dd	Il	.	.
 8ee	ne	.	.
@@ -62,8 +62,8 @@
 =6	=6	=6	=6
 4a	-ti-	.	.
 8a,	-re.	.	.
-*	*rp:iʁ,ə	*	*
-*	*rf:i	*	*
+*	*rp:i	*	*
+*	*rf:iʁ,ə	*	*
 *	*rs:Ra	*	*
 *	*pline:R4	*	*
 8g	Si	.	.
@@ -77,44 +77,44 @@
 8g	pou-	.	.
 =8||	=8||	=8||	=8||
 *M9/8	*	*	*
-(4.f	-voir!	.	.
-*	*rp:ɑʁ	*	*
-*	*rf:ɑ	*	*
+[4.f	-voir!	.	.
+*	*rp:a	*	*
+*	*rf:wɑʁ	*	*
 *	*rs:Rb	*	*
-4f)}}	.	.	.
-8r	.	.	.
+4f]	.	.	.
+8r}}	.	.	.
 =||	=||	=||	=||
 *	*v:1	*v:2	*v:3
 *	*pline:1	*pline:5	*pline:9
 !!!note: not sure why the first verse is slightly to the left of the other 2?
-!!LO:TX:a:t=Couplet
+!!LO:TX:a:B:Couplet
 {{8a	Quand	Quand	Quand
 8a	un	un	l'a-
 8a	en-	pa-	-mou-
 =9	=9	=9	=9
-(4.dd	-fant,	-tient,	-reux
-8dd)	.	.	.
+[4.dd	-fant,	-tient,	-reux
+8dd]	.	.	.
 8a	dans	sur	in-
-8a	le	son	-ter-
+8a	les	son	-ter-
 8a	bras	lit	-ro-
 8g	de	de	-ge
 8f	sa	souf-	sa
 !!LO:PB:g=original
 =10	=10	=10	=10
 4.g	mè-	-fran-	bel-
-8g}	-re	-ce,	-le,
-*	*rp:ɛːʁ,ə	*rp:ɑ̃s,ə	*rp:ɛl,ə
-*	*rf:ɛː	*rf:ɑ̃	*rf:ɛ
-*	*rs:a	*rs:c	*rs:e
+8g	-re,	-ce,	-le,
+*	*rp:ɛː	*rp:ɑ̃	*rp:ɛ
+*	*rf:ɛːʁ,ə	*rf:ɑ̃s,ə	*rf:ɛl,ə
+*	*rs:c	*rs:e	*rs:g
 8r	.	.	.
-8r	.	.	.
+8r}	.	.	.
 *	*pline:2	*pline:6	*pline:10
 {8g	Vient	Sembl[e]	Qu'il
 8g	se	ac-	veut
 8g	je-	-ca-	sa-
 =11	=11	=11	=11
-(4.cc	-ter	-blé	-voir
-8cc)	.	.	.
+[4.cc	-ter	-blé	-voir
+8cc]	.	.	.
 8g	en	par	le
 8g	pleu-	de	se-
 8g	-rant	som-	-cret
@@ -122,41 +122,41 @@
 8e	san-	sou-	la
 !!LO:PB:g=original
 =12	=12	=12	=12
-(4.f	-glots,	-cis,	fleur,
-*	*rp:o	*rp:i	*rp:œʁ
-*	*rf:o	*rf:i	*rf:œ
-*	*rs:b	*rs:d	*rs:f
-8f)}}	.	.	.
+[4.f	-glots,	-cis,	fleur,
+*	*rp:o	*rp:i	*rp:œ
+*	*rf:o	*rf:i	*rf:œʁ
+*	*rs:d	*rs:f	*rs:h
+8f]	.	.	.
 8r	.	.	.
-8r	.	.	.
+8r}}	.	.	.
 *	*pline:3	*pline:7	*pline:11
 {{8f	Il	Il	El-
 8f	lui	sent	-le
 8f	suf-	re-	sou-
 =13	=13	=13	=13
-(4.e	-fit	-naî-	-rit...
-8e)	.	.	.
-8e	d'un	-tr[e] un	la
+[4.e	-fit	-naîtr[e]	-rit...
+8e]	.	.	.
+8e	d'un	un	la
 8e	sou-	ra-	ré-
 8b-	-ri-	-yon	-pons[e]
 8b-	-re	d'es-	est
-8b-	sin	-pé-	fi-
+8b-	sin-	-pé-	fi-
 !!LO:PB:g=original
 =14	=14	=14	=14
 4.a	-cè-	-ran-	-dè-
-8a}	-re	-ce	-le:
-*	*rp:ɛːʁ,ə	*rp:ɑ̃s,ə	*rp:ɛl,ə
-*	*rf:ɛː	*rf:ɑ̃	*rf:ɛ
-*	*rs:a	*rs:c	*rs:e
+8a	-re	-ce	-le:
+*	*rp:ɛː	*rp:ɑ̃	*rp:ɛ
+*	*rf:ɛːʁ,ə	*rf:ɑ̃s,ə	*rf:ɛl,ə
+*	*rs:c	*rs:e	*rs:g
 8r	.	.	.
-8r	.	.	.
+8r}	.	.	.
 *	*pline:4	*pline:8	*pline:12
 {8a	Et	Si	Il
 8a	son	l'in-	sait
 8a	cha-	-fir-	a-
 =15	=15	=15	=15
-(4.g	-grin	-mièr[e],	-lors
-8g)	.	.	.
+[4.g	-grin	-mièr[e],	-lors
+8g]	.	.	.
 8g	se	en	qu'il
 8g	dis-	pas-	pos-
 8g	-sip[e]	-sant,	-sè-
@@ -165,10 +165,12 @@
 =16||	=16||	=16||	=16||
 *M6/8	*	*	*
 4.cc;}}	tо̂t.	-rit!	coeur!
-*	*rp:o	*rp:i	*rp:œʁ
-*	*rf:o	*rf:i	*rf:œ
-*	*rs:b	*rs:d	*rs:f
+*	*rp:o	*rp:i	*rp:œ
+*	*rf:o	*rf:i	*rf:œʁ
+*	*rs:d	*rs:f	*rs:h
 ==	==	==	==
 *-	*-	*-	*-
 !!!EED: Isaac Howie
-!!!EEV: 2025/Jul/22
+!!!EEV: 2025/07/22
+!!!EED: Ève Poudrier
+!!!EEV 2025/12/08
