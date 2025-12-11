@@ -8,33 +8,32 @@
 !!!YEM: On ne peut reproduire, enregistrer ou diffuser en tout ou en partie le présent ouvrage, sous quelque procédé que ce soit, électronique, mécanique, photographique, sonore, magnétique ou autre, sans avoir obtenu au préalable l'autorisation écrite de l'éditrice.
 !!!PDT: 2011
 !!!SMA:2012 Bibliothèque nationale du Québec; Biblothèque nationale du Canada
-!!!AGN-Laforte: Chanson strophique (avec refrain), 4:4(7), R(8+8+7+5)
-!!!AGN-type: danse? enfants?
+!!!AGN-Laforte: Chanson strophique (avec refrain), 4:4(7), R:4(7/5)
+!!!AGN-type: Chanson de jeux
 !!!AGN-rime: suivies (aabb)
 **kern	**dynam	**text	**text	**text	**text
 *clefG2	*	*	*	*	*
 *k[b-e-]	*	*	*	*	*
-*D:	*	*	*	*	*
+*g:	*	*	*	*	*
+!!LO:TX:a:i:t=Bien régulier
 *M4/4	*	*	*	*	*
 *met(c)	*	*	*	*	*
-*	*	*v:1	*v:2	*v:3	*vv:(3)
+*	*	*v:1	*v:2	*v:3	*v:(3)
 *	*	*pline:1	*pline:5	*pline:9	*pline:13
-!!!Note: vv.(3): Pour les Terrains de Jeux
 !!LO:TX:a:B:t=Solo
-!!LO:TX:a:i:t=Bien régulier
-{{8g	.	O	For-	É-	Mes
+{{8g	.	Ô	For-	É-	Mes
 8g	.	jeu-	-mons	-cou-	a-
 8b-	.	-nes-	u-	-tez	-mis,
 8b-	.	-se,	-ne	nos	pour
 8g	.	vient	chaî-	chants	êtr[e]
 8g	.	chan-	-ne	joy-	heu-
 =1	=1	=1	=1	=1	=1
-4b-	.	-ter	d'or:	-eux;	-reux,
+4b-}	.	-ter	d'or:	-eux;	-reux,
 *	*	*rp:e	*rp:ɔ	*rp:ø	*rp:ø
-*	*	*rf:te	*rf:ɔʁ	*rf:jø	*rf:ʁø
-*	*	*rs:a	*rs:b	*rs:d	*rs:d
+*	*	*rf:te	*rf:dɔʁ	*rf:jø	*rf:ʁø
+*	*	*rs:a1	*rs:b1	*rs:d1	*rs:d2
 *	*	*pline:2	*pline:6	*pline:10	*pline:14
-8b-	.	Ton	Un	Quand	Ren-
+{8b-	.	Ton	Un	Quand	Ren-
 8cc	.	bon-	a-	on	-dez-
 8dd	.	-heur	-mi,	chant[e],	-vous
 8cc	.	et	c'est	on	aux
@@ -42,24 +41,24 @@
 8a	.	gaie-	tré-	heu-	-rains
 !!LO:PB:g=original
 =2	=2	=2	=2	=2	=2
-4g}	.	-té.	-sor.	-reux!	d'jeux;
+4g}}	.	-té.	-sor.	-reux!	d'jeux;
 *	*	*rp:e	*rp:ɔ	*rp:ø	*rp:ø
-*	*	*rf:te	*rf:zɔʁ	*rf:ʁø	*rf:ø
-*	*	*rs:a	*rs:b	*rs:d	*rs:d
+*	*	*rf:te	*rf:zɔʁ	*rf:ʁø	*rf:ʒø
+*	*	*rs:a1	*rs:b2	*rs:d2	*rs:d3
 *	*	*pline:3	*pline:7	*pline:11	*pline:15
-{8g	.	Si	U-	On	On
+{{8g	.	Si	U-	On	On
 8g	.	tu	-nis-	s'a-	s'a-
 8b-	.	veux	-sons	-mus[e]	-mus[e]
 8b-	.	bien	nos	hon-	hon-
 8g	.	t'a-	voix,	-nê-	-nê-
 8g	.	-mu-	nos	-te-	-te-
 =3	=3	=3	=3	=3	=3
-4b-	.	-ser,	cœurs	-ment,	-ment,
+4b-}	.	-ser,	cœurs	-ment,	-ment,
 *	*	*rp:e	*rp:œ	*rp:ɑ̃	*rp:ɑ̃
-*	*	*rf:ze	*rf:œʁ	*rf:mɑ̃	*rf:mɑ̃
-*	*	*rs:a	*rs:c	*rs:e	*rs:e
+*	*	*rf:ze	*rf:kœʁ	*rf:mɑ̃	*rf:mɑ̃
+*	*	*rs:a2	*rs:c1	*rs:e1	*rs:e1
 *	*	*pline:4	*pline:8	*pline:12	*pline:16
-8b-	.	Viens	Pour	Le	Ça
+{8b-	.	Viens	Pour	Le	Ça
 8cc	.	chan-	chan-	temps	fait
 8dd	.	-ter,	-ter	pass[e]	plai-
 8cc	.	rir[e]	no-	et	-sir
@@ -69,7 +68,7 @@
 4g}}	.	-ser!	-heur!	-mant!	-rents.
 *	*	*rp:e	*rp:œ	*rp:ɑ̃	*rp:ɑ̃
 *	*	*rf:se	*rf:œʁ	*rf:mɑ̃	*rf:ʁɑ̃
-*	*	*rs:a	*rs:c	*rs:e	*rs:e
+*	*	*rs:a3	*rs:c2	*rs:e1	*rs:e2
 !!LO:PB:g=original
 =||	=||	=||	=||	=||	=||
 *	*	*refrain	*	*	*
@@ -85,12 +84,12 @@
 8dd	.	tou-	.	.	.
 =5	=5	=5	=5	=5	=5
 8cc	.	-chan-	.	.	.
-8a	.	-te,	.	.	.
+8a}	.	-te,	.	.	.
 *	*	*rp:ɑ̃	*	*	*
 *	*	*rf:ɑ̃t,ə	*	*	*
 *	*	*rs:Ra1	*	*	*
 *	*	*pline:R2	*	*	*
-8cc	>	Dan-	.	.	.
+{8cc	>	Dan-	.	.	.
 8a	]	-se,	.	.	.
 *	*	*bis	*	*	*
 8cc	>	dan-	.	.	.
@@ -101,12 +100,12 @@
 !!LO:PB:g=original
 =6	=6	=6	=6	=6	=6
 8b-	.	-den-	.	.	.
-8g	.	-ce,	.	.	.
+8g}	.	-ce,	.	.	.
 *	*	*rp:ɑ̃	*	*	*
 *	*	*rf:ɑ̃s,ə	*	*	*
 *	*	*rs:Ra2	*	*	*
 *	*	*pline:R3	*	*	*
-8b-	>	Tour-	.	.	.
+{8b-	>	Tour-	.	.	.
 8g	]	-ne,	.	.	.
 *	*	*bis	*	*	*
 8b-	>	tour-	.	.	.
@@ -117,20 +116,23 @@
 =7	=7	=7	=7	=7	=7
 4dd}	[	rond	.	.	.
 *	*	*rp:ɔ̃	*	*	*
-*	*	*rf:ɔ̃	*	*	*
-*	*	*rs:Rb	*	*	*
+*	*	*rf:ʁɔ̃	*	*	*
+*	*	*rs:Rb1	*	*	*
 *	*	*pline:R4	*	*	*
 {8g	.	Sur	.	.	.
 8g	.	le	.	.	.
-4g	.	vert	.	.	.
-4fj	>	ga-	.	.	.
+4g	>	vert	.	.	.
+4fj	.	ga-	.	.	.
 =8	=8	=8	=8	=8	=8
 4g}}	]	-zon.	.	.	.
 *	*	*rp:ɔ̃	*	*	*
-*	*	*rf:ɔ̃	*	*	*
-*	*	*rs:Rb	*	*	*
+*	*	*rf:zɔ̃	*	*	*
+*	*	*rs:Rb2	*	*	*
 ==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-
+!!!RNB: (3) est designé "Pour les Terrains de jeu"
 !!!RDF**kern: j = editorial accidental, bracket
 !!!EED: Isaac Howie
-!!!EEV: 2025/Jul/29
+!!!EEV: 2025/07/29
+!!!EED: Ève Poudrier
+!!!EEV: 2025/12/10
