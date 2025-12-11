@@ -1,37 +1,48 @@
 !!!id: BC074
 !!!page: 94
-!!!COM: Anonyme (Folklore)
-!!!LYR: (Folklore)
+!!!COM: Anonymous (Folklore)
+!!!LYR: Anonymous (Folklore)
 !!!PTL@@FR: Les 100 plus belles chansons
 !!!OTL@@FR: J'ai tant dansé
 !!!PUB: La Bonne Chanson, inc.
 !!!YEM: On ne peut reproduire, enregistrer ou diffuser en tout ou en partie le présent ouvrage, sous quelque procédé que ce soit, électronique, mécanique, photographique, sonore, magnétique ou autre, sans avoir obtenu au préalable l'autorisation écrite de l'éditrice.
 !!!PDT: 2011
 !!!SMA:2012 Bibliothèque nationale du Québec; Biblothèque nationale du Canada
-!!!AGN-Laforte: Chanson en laisse (avec refrain)
-!!!AGN-type: danse?
-!!!AGN-rime: monorime (aa)
+!!!AGN-Laforte: Chanson en laisse avec dialogue (refrain intégrés et final, avec vers à cheval), 10:2(4+4/5+3,8), R:2(8,6)
+!!!AGN-type: Chanson de courtisage (bergère)
+!!!AGN-rime: monorime /e/, incluant premier refrain intégré; hémistiches en rime
+!!!AGN-elision: "e" final (bergèr'); "e" initial ('té); elision médiale (racc'mmoder, donn'rai); "z" ajouté (ai-z-assez); Nenni = non
 **kern	**text	**text	**text	**text	**text	**text	**text	**text	**text	**text
 *clefG2	*	*	*	*	*	*	*	*	*	*
 *k[b-e-]	*	*	*	*	*	*	*	*	*	*
-*D:	*	*	*	*	*	*	*	*	*	*
-*M4/4	*	*	*	*	*	*	*	*	*	*
-*	*v:1	*v:2	*v:3	*v:4	*v:5	*v:6	*v:7	*v:8	*v:9	*v:10
-*	*pline:1	*pline:2r	*pline:3r	*pline:4r	*pline:5r	*pline:6r	*pline:7r	*pline:8r	*pline:9r	*pline:10r
+*B-:	*	*	*	*	*	*	*	*	*	*
 !!LO:TX:a:t=Avec entrain
-{{8b-	J'ai	J'en	J'ai	Beau	Veux-	Je	De	Faut	Pour	Nen-
+*M4/4	*	*	*	*	*	*	*	*	*	*
+*met(c)	*	*	*	*	*	*	*	*	*	*
+*	*v:1	*v:2	*v:3	*v:4	*v:5	*v:6	*v:7	*v:8	*v:9	*v:10
+*	*pline:1ha	*pline:2r	*pline:3har	*pline:4har	*pline:5har	*pline:6har	*pline:7har	*pline:8har	*pline:9r	*pline:10r
+{{8b-	J'ai	J'en	J'ai	–Beau	Veux-	Je	–De	Faut	Pour	–Nen-
 8dd	tant	ai	'té	cor-	-tu	te	sous	al-	dans	-ni,
-!!!v4-5: racc'moder = raccomoder; v5-6: donn'rai = donnerai
 8b-	dan-	dé-	trou-	-don-	racc'm-	donn'-	mar-	-ler	un	un
 8b-	-sé,	-cou-	-ver	-nier,	-mo-	-rai	-qués	trou-	mois	mois
+*	*rp:e	*	*rp:e	*rp:e	*	*rp:e	*rp:e	*	*	*
+*	*rf:se	*	*rf:ve	*rf:nje	*	*rf:ʁe	*rf:ke	*	*	*
+*	*rs:a1	*	*rs:a4	*rs:a5	*	*rs:a7	*rs:a8	*	*	*
+*	*pline:1hb	*	*pline:3hbr	*pline:4hb=4har	*pline:6hbr	*pline:7hbr	*	*	*	*
+*	*	*	*	*bis	*	*	*	*	*	*
 8f	j'ai	-su	le	beau	-der	un	j'en	-ver	nous	n'est
+*	*	*	*	*	*rp:e	*	*	*rp:e*	*	*
+*	*	*	*	*	*rf:de	*	*	*rf:ve*	*	*
+*	*	*	*	*	*rs:a6	*	*	*rs:a4	*	*
+*	*	*	*	*	*pline:5hbr	*	*	*pline:8hbr	*	*
 8b-	tant	mon	cor-	cor-	mon	sou	ai-	le	ma-	pas
 8dd	sau-	sou-	-don-	-don-	sou-	mar-	-z-as-	cu-	-ri-	as-
 =1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
 4cc}	-té,	-lier,	-nier,	-nier,	-lier?	-qué,	-sez,	-ré,	-er.	-sez.
+*	*	*	*	*Xbis	*	*	*	*	*	*
 *	*rp:e	*rp:e	*rp:e	*rp:e	*rp:e	*rp:e	*rp:e	*rp:e	*rp:e	*rp:e
-*	*rf:te	*rf:je	*rf:je	*rf:je	*rf:je	*rf:ke	*rf:se	*rf:ʁe	*rf:e	*rf:se
-*	*rs:a1	*rs:a2	*rs:a2	*rs:a2	*rs:a2	*rs:a4	*rs:a5	*rs:a6	*rs:a7	*rs:a5
+*	*rf:te	*rf:lje	*rf:nje	*rf:nje	*rf:lje	*rf:ke	*rf:se	*rf:ʁe	*rf:e	*rf:se
+*	*rs:a2	*rs:a3	*rs:a5	*rs:a5	*rs:a3	*rs:a8	*rs:a9	*rs:a7	*rs:a0	*rs:a9
 *	*refrain	*refrain	*refrain	*refrain	*refrain	*refrain	*refrain	*refrain	*refrain	*refrain
 *	*italic	*italic	*italic	*italic	*italic	*italic	*italic	*italic	*italic	*italic
 {8dd	Dan-	Dan-	Dan-	Dan-	Dan-	Dan-	Dan-	Dan-	Dan-	Dan-
@@ -42,28 +53,37 @@
 8cc	oh!	oh!	oh!	oh!	oh!	oh!	oh!	oh!	oh!	oh!
 !!LO:PB:g=original
 =2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
-4b-}}	gai!	gai!	gai!	gai!	gai!	gai!	gai!	gai!	gai!	gai!
+4b-	gai!	gai!	gai!	gai!	gai!	gai!	gai!	gai!	gai!	gai!
 *	*rp:e	*rp:e	*rp:e	*rp:e	*rp:e	*rp:e	*rp:e	*rp:e	*rp:e	*rp:e
 *	*rf:ge	*rf:ge	*rf:ge	*rf:ge	*rf:ge	*rf:ge	*rf:ge	*rf:ge	*rf:ge	*rf:ge
 *	*rs:Ra	*rs:Ra	*rs:Ra	*rs:Ra	*rs:Ra	*rs:Ra	*rs:Ra	*rs:Ra	*rs:Ra	*rs:Ra
-*	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain
 *	*Xitalic	*Xitalic	*Xitalic	*Xitalic	*Xitalic	*Xitalic	*Xitalic	*Xitalic	*Xitalic	*Xitalic
+*	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain
 4r	.	.	.	.	.	.	.	.	.	.
-8r	.	.	.	.	.	.	.	.	.	.
-*	*pline:2	*pline:3	*pline:4	*pline:5	*pline:6	*pline:7	*pline:8	*pline:9	*pline:10	*pline:11
+8r}}	.	.	.	.	.	.	.	.	.	.
+*	*pline:2	*pline:3ha	*pline:4ha	*pline:5ha	*pline:6ha	*pline:7ha	*pline:8ha	*pline:9	*pline:10	*pline:11
 {{8b-	J'en	J'ai	–Beau	Veux-	Je	–De	Faut	Pour	–Nen-	Faut
-!!!v2-3: 'té = été
 8cc	ai	'té	cor-	-tu	te	sous	al-	dans	-ni,	m'at-
 8dd	dé-	trou-	-don-	racc'm-	donn'-	mar-	-ler	un	un	-tendr[e]
 =3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
 8ee-	-cou-	-ver	-nier,	-mo-	-rai	-qués	trou-	mois	mois	en-
+*	*	*rp:e	*rp:e	*	*rp:e	*rp:e	*	*	*	*
+*	*	*rf:ve	*rf:nje	*	*rf:ʁe	*rf:ke	*rf:e	*	*	*
+*	*	*rs:a4	*rs:a5	*	*rs:a7	*rs:a8	*rs:a	*	*	*
+*	*	*pline:3hb	*pline:4hb=4har	*	*pline:7hb	*	*	*	*	*
+*	*	*	*bis	*	*	*	*	*	*	*
 8cc	-su	le	beau	-der	un	j'en	-ver	nous	n'est	-cor[e]
+*	*	*	*	*rp:e	*	*	*rp:5	*	*	*
+*	*	*	*	*rf:de	*	*	*rf:ve	*	*	*
+*	*	*	*	*ra:a6	*	*	*rs:a4	*	*	*
+*	*	*	*	*pline:5hb	*	*	*pline8hb	*	*	*
 8dd	mon	cor-	cor-	mon	sou	ai-	le	ma-	pas	un[e]
 8b-	sou-	-don-	-don-	sou-	mar-	-z-as-	cu-	-ri-	as-	an-
 8g	-lier,	-nier,	-nier,	-lier?	-qué.	-sez.	-ré.	-er.	-sez.	-née.
+*	*	*	*Xbis	*	*	*	*	*	*	*
 *	*rp:e	*rp:e	*rp:e	*rp:e	*rp:e	*rp:e	*rp:e	*rp:e	*rp:e	*rp:e
-*	*rf:je	*rf:je	*rf:je	*rf:je	*rf:ke	*rf:se	*rf:ʁe	*rf:e	*rf:se	*rf:ne
-*	*rs:a2	*rs:a2	*rs:a2	*rs:a2	*rs:a4	*rs:a5	*rs:a6	*rs:a7	*rs:a5	*rs:a8
+*	*rf:lje	*rf:nje	*rf:nje	*rf:lje	*rf:ke	*rf:se	*rf:ʁe	*rf:e	*rf:se	*rf:ne
+*	*rs:a3	*rs:a5	*rs:a5	*rs:a3	*rs:a8	*rs:a9	*rs:a7	*rs:a0	*rs:a9	*rs:a10
 *	*refrain	*refrain	*refrain	*refrain	*refrain	*refrain	*refrain	*refrain	*refrain	*refrain
 *	*italic	*italic	*italic	*italic	*italic	*italic	*italic	*italic	*italic	*italic
 !!LO:TX:a:i:t=rit.
@@ -71,12 +91,14 @@
 (8ccL	l'om-	l'om-	l'om-	l'om-	l'om-	l'om-	l'om-	l'om-	l'om-	l'om-
 8aJ)	.	.	.	.	.	.	.	.	.	.
 =4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
-8f}	-bre.	-bre.	-bre.	-bre.	-bre.	-bre.	-bre.	-bre.	-bre.	-bre.
+8f	-bre.	-bre.	-bre.	-bre.	-bre.	-bre.	-bre.	-bre.	-bre.	-bre.
 !!LO:PB:g=original
 =||	=||	=||	=||	=||	=||	=||	=||	=||	=||	=||
 =|:	=|:	=|:	=|:	=|:	=|:	=|:	=|:	=|:	=|:	=|:
-8r	.	.	.	.	.	.	.	.	.	.
-{8f	Dan-	.	.	.	.	.	.	.	.	.
+8r}	.	.	.	.	.	.	.	.	.	.
+*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain
+*	*pline:R1	*	*	*	*	*	*	*	*	*
+{{8f	Dan-	.	.	.	.	.	.	.	.	.
 8b-	-sons,	.	.	.	.	.	.	.	.	.
 8b-	ma	.	.	.	.	.	.	.	.	.
 8f	ber-	.	.	.	.	.	.	.	.	.
@@ -85,18 +107,22 @@
 16b-	-li-	.	.	.	.	.	.	.	.	.
 =5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5
 8cc	-ment,	.	.	.	.	.	.	.	.	.
-16r	.	.	.	.	.	.	.	.	.	.
-16dd	Que	.	.	.	.	.	.	.	.	.
+16r}	.	.	.	.	.	.	.	.	.	.
+*	*pline:R2	*	*	*	*	*	*	*	*	*
+{16dd	Que	.	.	.	.	.	.	.	.	.
 8ee-	le	.	.	.	.	.	.	.	.	.
 8cc	plan-	.	.	.	.	.	.	.	.	.
 8dd	-cher	.	.	.	.	.	.	.	.	.
 8b-	en	.	.	.	.	.	.	.	.	.
-4a^	rom-	.	.	.	.	.	.	.	.	.
+4a^>	rom-	.	.	.	.	.	.	.	.	.
 =6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6
 8b-}}	-pe!	.	.	.	.	.	.	.	.	.
-*	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain
 *	*Xitalic	*Xitalic	*Xitalic	*Xitalic	*Xitalic	*Xitalic	*Xitalic	*Xitalic	*Xitalic	*Xitalic
+*	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain
 =:|	=:|	=:|	=:|	=:|	=:|	=:|	=:|	=:|	=:|	=:|
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!RDF**kern: > = above
 !!!EED: Isaac Howie
-!!!EEV: 2025/Jul/29
+!!!EEV: 2025/07/29
+!!!EED: Ève Poudrier
+!!!EEV: 2025/12/10
