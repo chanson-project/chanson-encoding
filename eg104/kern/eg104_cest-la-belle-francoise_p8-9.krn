@@ -1,0 +1,93 @@
+!!!id: EG003
+!!!page: 8-9
+!!!COM: Anonymous
+!!!LYR: Anonymous
+!!!PTL@@FR: Chansons Populaires du Canada
+!!!OTL@@FR: C'est la belle françoise
+!!!PUB: G. E. Desbarats
+!!!YEM:
+!!!PDT: 1865
+!!!SMA:
+!!!OMD:
+!!!AGN-Laforte: Chanson en laisse (avec refrain et vers à cheval), 9:2(6+6), R:1(7+7)
+!!!AGN-type:
+!!!AGN-rime: monorime, /e/
+**kern
+*clefG2
+*k[b-,e-]
+*g:
+*M6/8
+*
+*
+8dd
+=1
+4dd
+8b-/
+4dd
+8cc
+=2
+*cue
+8cc/
+*Xcue
+8b-
+8a\
+8b-
+4g
+8dd
+=3
+4dd
+8b-
+4dd
+8cc
+!!LO:PB:g=original
+=4
+*cue
+8cc/
+*Xcue
+(4b-/
+8a)
+4g
+8r
+=5
+4.b-
+4.f
+=6
+8g
+8a
+8b-/
+8cc
+8b-
+8cc
+=7
+4dd
+8cc
+*cue
+8cc/
+*Xcue
+8b-/
+8aL
+8gJ
+!!LO:PB:g=original
+=8
+4.b-/
+4.f
+=9
+8g
+8a
+8b-/
+8cc
+8b-
+8cc
+=10
+4dd
+8b-
+*cue
+8b-/
+*Xcue
+4g
+=||
+8r
+==||
+*
+*
+==:|!
