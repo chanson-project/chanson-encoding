@@ -1,0 +1,92 @@
+!!!id: EG002
+!!!page: 4-7
+!!!COM: Anonymous
+!!!LYR: Anonymous
+!!!PTL@@FR: Chansons Populaires du Canada
+!!!OTL@@FR: Par derrièr' chez mon père
+!!!PUB: G. E. Desbarats
+!!!YEM:
+!!!PDT: 1865
+!!!SMA:
+!!!OMD:
+!!!AGN-Laforte: Chanson en laisse (avec refrain et vers à cheval), 9:2(6+6), R:1(7+7)
+!!!AGN-type:
+!!!AGN-rime: monorime, /e/
+**kern
+*clefG2
+*k[b-]
+*F:
+*M2/4
+*
+*
+8cc
+=1
+!LO:TX:a:i:t=Voix seule d'abord, puis la reprise en chœur.
+8.cc
+16b-
+8a
+8cc
+=2
+(8ccL
+8b-J\)
+8a
+8r
+=3
+8.f
+16g
+8a
+8cc
+!!LO:PB:g=original
+=4
+4cc
+*cue
+(16b-L
+16aJ\)
+*Xcue
+8g\
+8cc
+=5
+8.cc
+16b-
+8a\
+8cc
+=6
+(8ccL
+8b-J\)
+8a
+8f
+=7
+8g
+8b-/
+8a
+8g
+!!LO:PB:g=original
+=8
+4f
+8r
+=:|!|:
+!LO:TX:a:t=FIN.
+!LO:TX:a:t=[eighth rest, upper voice]
+8c
+=9
+!LO:TX:a:i:t=Voix seule, puis la reprise en chœur.
+8f
+8a
+8cc
+8cc
+=10
+8cc
+8dd
+8cc
+8b-
+!!LO:PB:g=original
+=11
+8a
+8b-/
+4cc
+=12
+4dd
+8cc
+*
+*
+==:|!
