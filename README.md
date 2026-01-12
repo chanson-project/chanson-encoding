@@ -26,7 +26,9 @@ Encoding is *diplomatic* and includes the musical score, poetic text, phonemes, 
    !!!AGN-Laforte: Chanson strophique (sans refrain), 8:10(4+6)
    !!!AGN-type: hymne national
    !!!AGN-rime: mixte, aabcbcbc
-   ```
+ 
+For a list of the different types of record comments, consult: https://www.humdrum.org/reference-records
+  ```
 
 2. **Spine structure**:
    - Melody (Spine 1): `*`
@@ -55,7 +57,11 @@ Encoding is *diplomatic* and includes the musical score, poetic text, phonemes, 
    !!!EED: Ève Poudrier
    !!!EEV: 2025/May/06
    ```
-
+7. **Encoding editorial comments**:
+   ```
+   !!!RNB (Representation note) can be used to encode any modifications to the representation of the score. For example, replacing dal segno symbols by repeats.
+   !!!RWG (Representation warning) can be use to point out an unusual representation in the poriginal score. For example the use of two double barlines at the end of eg003_cest-la-belle-francoise_p8-9.
+   ```
 </details>
 
 
