@@ -1,0 +1,102 @@
+!!!id: EG009
+!!!page: 22
+!!!COM: Anonymous
+!!!LYR: Anonymous
+!!!PTL@@FR: Chansons Populaires du Canada
+!!!OTL@@FR: C'est l'vent frivoleux
+!!!PUB: G. E. Desbarats
+!!!YEM:
+!!!PDT: 1865
+!!!SMA:
+!!!OMD:
+!!!AGN-Laforte:
+!!!AGN-type:
+!!!AGN-rime:
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+*
+*
+=1
+!LO:TX:a:i:t=Voix seule.
+8e
+8g
+8a
+8a
+=2
+8.b
+16g
+4cc
+==||
+!!LO:PB:g=original
+=3
+!LO:TX:a:i:t=Chœur.
+8e
+8g
+8a
+8b/
+=4
+(8ddL
+16ccJ)
+16b
+8cc
+!LO:TX:a:t=FIN.
+=|!|:
+!LO:TX:a:t=(8th R, top).
+8g
+=5
+!LO:TX:a:i:t=Voix seule, puis la reprise en chœur.
+8g
+8g
+*cue
+8b/
+*Xcue
+8a
+8g
+!!LO:PB:g=original
+=6
+8a
+8b/
+4cc
+=7
+8g
+8g
+8a
+8g
+=8
+8.a
+16b/
+8cc
+=:|!|
+!!LO:PB:g=original
+!LO:TX:a:i:t=Voix seule.
+8g
+=9
+8cc
+8ee
+8gg
+8ee
+=10
+8dd
+8cc
+8a
+(16bL
+16ccJ)
+!!LO:PB:g=original
+=11
+8.dd
+16cc
+8.b/
+16cc
+=12
+8.a
+16b/
+8g
+8f
+!LO:TX:b:t=D.C.
+==||
+*
+*
+==|
