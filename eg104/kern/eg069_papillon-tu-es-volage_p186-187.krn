@@ -9,79 +9,85 @@
 !!!PDT: 1865
 !!!SMA:
 !!!OMD:
-!!!AGN-Laforte:
+!!!AGN-Laforte: (verses)
 !!!AGN-type:
 !!!AGN-rime:
-**kern
-*clefG2
-*k[]
-*a:
-*M2/4
-*
-*
-16cc
-16b
-=1
-8a
-8b/
-8cc
-8a
-=2
-4ee
-8ee
-16dd
-16ee
-=3
-8ff
-8ee
-8eeq
-8dd
-8cc
+**kern	**text	**text	**text	**text	**text
+*clefG2	*	*	*	*	*
+*k[]	*	*	*	*	*
+*a:	*	*	*	*	*
+*M2/4	*	*	*	*	*
+*	*v:1	*v:2	*v:3	*v:4	*v:5
+*	*pline:1a	*pline:1a	*pline:1a	*pline:1a	*pline:1a
+16cc	Pa-	.	Mon-	.	Si
+16b	-pil-	Croy-	-sieur,	Croy-	l'a-
+=1	=1	=1	=1	=1	=1
+8a	-lon,	-ez-	pour	-ez-	-mour
+8b/	tu	vous,	d'in-	vous,	a-
+8cc	es	Made-	-gra-	Made-	-vait
+8a	vo-	-moi-	-ti-	-moi-	des
+=2	=2	=2	=2	=2	=2
+4ee	-la-	-sel-	-tu-	-sel-	aî-
+8ee	-ge!	-le,	-de,	-le,	-les
+*	*pline:1b	*pline:1b	*pline:1b	*pline:1b	*pline:1b
+16dd	Tu	Que	Vo-	Que	Com-
+16ee	res-	je	-tre	je	-me
+=3	=3	=3	=3	=3	=3
+!	!elision not in original	!	!	!elision not in original	!
+8ff	-sembl'	viens	cœur	pens'	toi
+8ee	à	i-	n'en	de	beau
+8eeq	.	.	.	.	.
+8dd	mon	-ci	man-	re-	-pa
+8cc	a-	pour	-que	-ve-	-pil-
 !!LO:PB:g=original
-=4
-8ccq
-4b
-8r
-16b
-16cc
-=5
-8dd
-8dd
-8ddq
-8cc
-8b
-=6
-8ccL
-8aJ
-8b
-16cc
-16b
-=7
-8a
-8a
-8aqq
-8.g
-16a
+=4	=4	=4	=4	=4	=4
+8ccq	.	.	.	.	.
+4b	-mant.	vous.	pas:	-nir?	-lon,
+8r	.	.	.	.	.
+*	*pline:2a	*pline:2a	*pline:2a	*pline:2a	*pline:2a
+16b	L'a-	J'en	Vous	J'es-	Il
+16cc	-mour	ai	a-	-tim'	i-
+=5	=5	=5	=5	=5	=5
+!	!	!elision not in original	!	!	!
+8dd	est	d'autr',	-vez	mieux	-rait
+8dd	un	à	sou-	vi-	de
+8ddq	.	.	.	.	.
+8cc	ba-	ma	-vent	-der	ville
+8b	-di-	de-	l'ha-	bou-	en
+=6	=6	=6	=6	=6	=6
+8ccL	-na-	-man-	-bi-	-teil-	vil-
+8aJ	.	.	-tu-	.	.
+8b	-ge,	-de,	-de,	-le	-le
+*	*pline:2b	*pline:2b	*pline:2b	*pline:2b	*pline:2b
+16cc	L'a-	Qui	Bien	A-	Pour
+16b	-mour	sont	sou-	-vec	re-
+=7	=7	=7	=7	=7	=7
+8a	est	plus	-vent	un	-join
+8a	un	bel-	chan-	de	-dre
+8aqq	.	.	.	.	.
+8.g	pas-	-les	-ger	mes	mon
+16a	-se-	que	d'ap-	a-	a-
 !!LO:PB:g=original
-=8
-8b
-16b
-16cc
-8dd
-8b
-=9
-8cc
-16b
-16a
-8b/
-8g
-=10
-4a
-8r
-==||
-8r
-==||
-*
-*
-==|
-*-
+=8	=8	=8	=8	=8	=8
+8b	temps;	vous.	-pas.	-mis.	-mant,
+*	*pline:3a	*pline:3a	*pline:3a	*pline:3a	*pline:3a
+16b	Quand	Croy-	Croy-	A-	Lui
+16cc	j'ai	-ez-	-ez-	-dieu	faire
+8dd	mon	moi,	moi,	mes	as-
+8b	a-	Mam-	Mon-	a-	-sa-
+=9	=9	=9	=9	=9	=9
+8cc	-mant	-zelle,	-sieur,	-mours!	voir
+*	*pline:3b	*pline:3b	*pline:3b	*pline:3b	*pline:3b
+16b	J'ai	Je	N'y	A-	De
+16a	le	me	re-	-dieu	mes
+8b/	cœur	ris	-ve-	mes	com-
+8g	con-	de	-nez	-plai-	-pli-
+=10	=10	=10	=10	=10	=10
+4a	-tent.	vous.	pas.	-sirs!	-ments.
+8r	.	.	.	.	.
+==	==	==	==	==	==
+8r	.	.	.	.	.
+==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-
+!!!EED: Samuel Boone
+!!!EEV:
