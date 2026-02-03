@@ -9,88 +9,92 @@
 !!!PDT: 1865
 !!!SMA:
 !!!OMD:
-!!!AGN-Laforte:
+!!!AGN-Laforte: (refrain, verses)
 !!!AGN-type:
 !!!AGN-rime:
-**kern
-*clefG2
-*k[f#,c#,g#]
-*A:
-*M2/4
-*
-*
-=1
-8cc#
-16b/
-16a
-8b/
-8b/
-=2
-8cc#
-16a
-16f#
-8a
-8a
+**kern	**text	**text	**text	**text	**text	**text	**text	**text	**text
+*clefG2	*	*	*	*	*	*	*	*	*
+*k[f#,c#,g#]	*	*	*	*	*	*	*	*	*
+*A:	*	*	*	*	*	*	*	*	*
+*M2/4	*	*	*	*	*	*	*	*	*
+*	*pline:RH1a	*	*	*	*	*	*	*	*
+*	*italic	*	*	*	*	*	*	*	*
+=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+8cc#	J'ai	.	.	.	.	.	.	.	.
+16b/	vu	.	.	.	.	.	.	.	.
+16a	le	.	.	.	.	.	.	.	.
+8b/	loup,	.	.	.	.	.	.	.	.
+8b/	le	.	.	.	.	.	.	.	.
+=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+8cc#	r'nard	.	.	.	.	.	.	.	.
+16a	et	.	.	.	.	.	.	.	.
+16f#	le	.	.	.	.	.	.	.	.
+8a	liè-	.	.	.	.	.	.	.	.
+8a	-vre	.	.	.	.	.	.	.	.
 !!LO:PB:g=original
-=3
-8cc#
-8b/
-16a
-16b/
-8cc#
-=4
-8a
-8f#
-4a
-!LO:TX:a:t=FIN.
-==5
-8cc#
-8b/
-16a
-16b/
-8cc#
+*	*pline:RH1b	*	*	*	*	*	*	*	*
+=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+8cc#	J'ai	.	.	.	.	.	.	.	.
+8b/	vu	.	.	.	.	.	.	.	.
+16a	le	.	.	.	.	.	.	.	.
+16b/	loup	.	.	.	.	.	.	.	.
+8cc#	le	.	.	.	.	.	.	.	.
+=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
+8a	r'nard	.	.	.	.	.	.	.	.
+8f#	pas-	.	.	.	.	.	.	.	.
+4a	-ser.	.	.	.	.	.	.	.	.
+*	*Xitalic	*	*	*	*	*	*	*	*
+!LO:TX:a:t=FIN.	!	!	!	!	!	!	!	!	!
+*	*v:1	*v:2	*v:3	*v:4	*v:5	*v:6	*v:7	*v:8	*v:9
+*	*pline:1	*	*	*	*	*	*	*	*
+==5	==5	==5	==5	==5	==5	==5	==5	==5	==5
+8cc#	M'en	Dans	Trois	Deux	Ce-	"Où	"Chez	"Vous	"Et
+8b/	re-	mon	ca-	à	-lui	i-	moi,	y	un
+16a	-ve-	che-	-va-	che-	d'à	-rons-	Mon-	trouv'-	bon
+16b/	-nant	-min	-liers	-val	pied	nous	-sieur,	-rez	lit
+8cc#	de	j'ai	fort	et	m'a	ce	si	un	pour
 !!LO:PB:g=original
-=6
-8a
-8f#
-4a
-=7
-8cc#
-8b/
-16a
-16b/
-8cc#
-=8
-8a
-8f#
-4a
+=6	=6	=6	=6	=6	=6	=6	=6	=6	=6
+8a	la	ren-	bien	l'autre	de-	soir	vous	bon	vous
+8f#	Ven-	-con-	mon-	à	-man-	cou-	vou-	sou-	cou-
+4a	-dée,	-tré,	-tés,	pied;	-dé:	-cher?"	-lez."	-per,"	-cher."
+*	*pline:2	*	*	*	*	*	*	*	*
+=7	=7	=7	=7	=7	=7	=7	=7	=7	=7
+8cc#	J'ai	J'ai	J'ai	J'ai	J'ai	J'ai	J'ai	J'ai	J'ai
+8b/	vu	vu	vu	vu	vu	vu	vu	vu	vu
+16a	le	le	le	le	le	le	le	le	le
+16b/	loup,	loup,	loup,	loup,	loup,	loup,	loup,	loup,	loup,
+8cc#	le	le	le	le	le	le	le	le	le
+=8	=8	=8	=8	=8	=8	=8	=8	=8	=8
+8a	r'nard	r'nard	r'nard	r'nard	r'nard	r'nard	r'nard	r'nard	r'nard
+8f#	pas-	pas-	pas-	pas-	pas-	pas-	pas-	pas-	pas-
+4a	-ser,	-ser,	-ser,	-ser,	-ser,	-ser,	-ser,	-ser,	-ser,
 !!LO:PB:g=original
-=9
-8a
-16b/
-16cc#
-8dd
-8dd
-=10
-8dd
-8dd
-4dd
-=11
-8b
-16cc#
-16dd
-8ee
-8ee
+*	*pline:3	*	*	*	*	*	*	*	*
+=9	=9	=9	=9	=9	=9	=9	=9	=9	=9
+8a	Dans	Trois	Deux	Ce-	"Où	."Chez	"Vous	"Et	Les
+16b/	mon	ca-	à	-lui	i-	moi,	y	un	ca-
+16cc#	che-	-va-	che-	d'à	-rons-	Mon-	trouv'-	bon	-va-
+8dd	-min	-liers	-val	pied	nous	-sieur,	rez	lit	-liers
+8dd	j'ai	fort	et	m'a	ce	si	un	pour	ont
+=10	=10	=10	=10	=10	=10	=10	=10	=10	=10
+8dd	ren-	bien	l'autre	de-	soir	vous	bon	vous	ac-
+8dd	-con-	mon-	à	-man-	cou-	vou-	sou-	cou-	-cep-
+4dd	-tré....	-tés.	pied.	-der....	-cher?"	-lez."	-per."	-cher."	-té.
+*	*pline:4	*	*	*	*	*	*	*	*
+=11	=11	=11	=11	=11	=11	=11	=11	=11	=11
+8b	J'ai	J'ai	J'ai	J'ai	J'ai	J'ai	J'ai	J'ai	J'ai
+16cc#	vu	vu	vu	vu	vu	vu	vu	vu	vu
+16dd	le	le	le	le	le	le	le	le	le
+8ee	loup,	loup,	loup,	loup,	loup,	loup,	loup,	loup,	loup,
+8ee	le	le	le	le	le	le	le	le	le
 !!LO:PB:g=original
-=12
-8eeq
-8dd
-8cc#
-4b
-!LO:TX:a:t=D.C.
-==||
-*
-*
-==|
-!!!RNB: Final eighth rest flipped backward in original
-*-
+=12	=12	=12	=12	=12	=12	=12	=12	=12	=12
+8eeq	.	.	.	.	.	.	.	.	.
+8dd	r'nard	r'nard	r'nard	r'nard	r'nard	r'nard	r'nard	r'nard	r'nard
+8cc#	pas-	pas-	pas-	pas-	pas-	pas-	pas-	pas-	pas-
+4b	-ser.	-ser.	-ser.	-ser.	-ser.	-ser.	-ser.	-ser.	-ser.
+!LO:TX:a:t=D.C.	!	!	!	!	!	!	!	!	!
+==	==	==	==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!EED: Samuel Boone
