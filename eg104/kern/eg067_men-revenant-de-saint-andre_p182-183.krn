@@ -12,85 +12,87 @@
 !!!AGN-Laforte:
 !!!AGN-type:
 !!!AGN-rime:
-**kern
-*clefG2
-*k[f#,c#]
-*e:
-*M2/4
-*
-*
-8b/
-16b/
-16b/
-=1
-8a
-8g
-8e
-8g
-=2
-4b/
-8b/
-16b/
-16b/
+**kern	**text	**text	**text	**text	**text	**text	**text	**text	**text
+*clefG2	*	*	*	*	*	*	*	*	*
+*k[f#,c#]	*	*	*	*	*	*	*	*	*
+*e:	*	*	*	*	*	*	*	*	*
+*M2/4	*	*	*	*	*	*	*	*	*
+*	*v:1	*v:2	*v:3	*v:4	*v:5	*v:6	*v:7	*v:8	*v:9
+*	*pline:1	*pline:4	*pline:7	*pline:10	*pline:13	*pline:16	*pline:19	*pline:22	*pline:25
+8b/	M'en	Dans	Trois	Deux	Ce-	"Où	"Chez	"Vous	"Et
+16b/	re-	mon	ca-	à	-lui	i-	moi,	y	un
+16b/	-ve-	che-	-va-	che-	à	-rons-	Mon-	trouv'-	bon
+=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+8a	-nant	-min	-liers	-val	pied	nous	-sieur,	-rez	lit
+8g	de	j'ai	fort	et	m'a	ce	si	un	pour
+8e	Saint	ren-	bien	l'autre	de-	soir	vous	bon	vous
+8g	An-	-con-	mon-	à	-man-	cou-	vou-	sou-	cou-
+=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+4b/	-dré,	-tré,	-tés.	pied.	-dé:	cher?"	-lez."	-per,"	-cher."
+*	*pline:2	*pline:5	*pline:8	*pline:11	*pline:14	*pline:17	*pline:20	*pline:23	*pline:26
+8b/	J'ai	J'ai	J'ai	J'ai	J'ai	J'ai	J'ai	J'ai	J'ai
+16b/	vu	vu	vu	vu	vu	vu	vu	vu	vu
+16b/	le	le	le	le	le	le	le	le	le
 !!LO:PB:g=original
-=3
-8a
-8g
-8e
-8g
-=4
-8b/
-16r;
-16b/
-8b/
-8cc#
-=5
-8dd
-8b
-8a
-8f#
+=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+8a	loup,	loup,	loup,	loup,	loup,	loup,	loup,	loup,	loup,
+8g	le	le	le	le	le	le	le	le	le
+8e	r'nard	r'nard	r'nard	r'nard	r'nard	r'nard	r'nard	r'nard	r'nard
+8g	pas-	pas-	pas-	pas-	pas-	pas-	pas-	pas-	pas-
+=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
+8b/	-ser,	-ser,	-ser,	-ser,	-ser,	-ser,	-ser,	-ser,	-ser,
+16r;	.	.	.	.	.	.	.	.	.
+*	*pline:3	*pline:6	*pline:9	*pline:12	*pline:15	*pline:18	*pline:21	*pline:24	*pline:27
+16b/	Dans	Trois	Deux	Ce-	"Où	"Chez	Vous	"Et	Les
+8b/	mon	ca-	à	-lui	i-	moi,	y	un	ca-
+8cc#	che-	-va-	che-	d'à	-rons-	Mon-	trouv'-	bon	-va-
+=5	=5	=5	=5	=5	=5	=5	=5	=5	=5
+8dd	-min	-liers	-val	pied	nous	-sieur,	-rez	lit	-liers
+8b	j'ai	fort	et	ma	ce	si	un	pour	ont
+8a	ren-	bien	l'autre	de-	soir	vous	bon	vous	ac-
+8f#	-con-	mon-	à	-man-	cou-	vou-	sou-	cou-	-cep-
 !!LO:PB:g=original
-=6
-8e
-8r
-4e
-=7
-4g
-8a
-16g
-16f#
-=8
-8eL
-8eJ
-8g
-16f#
-16g
+=6	=6	=6	=6	=6	=6	=6	=6	=6	=6
+8e	-tré....	-tés.	pied.	dé....	-cher?"	-lez."	-per."	-cher."	-té.
+8r	.	.	.	.	.	.	.	.	.
+*	*pline:R1	*	*	*	*	*	*	*	*
+4e	Ou,	.	.	.	.	.	.	.	.
+=7	=7	=7	=7	=7	=7	=7	=7	=7	=7
+4g	ouah!	.	.	.	.	.	.	.	.
+8a	Son	.	.	.	.	.	.	.	.
+16g	p'tit	.	.	.	.	.	.	.	.
+16f#	pe-	.	.	.	.	.	.	.	.
+=8	=8	=8	=8	=8	=8	=8	=8	=8	=8
+8eL	-ta-	.	.	.	.	.	.	.	.
+8eJ	-pe,	.	.	.	.	.	.	.	.
+*	*pline:R2a	*	*	*	*	*	*	*	*
+8g	J'ai	.	.	.	.	.	.	.	.
+16f#	vu	.	.	.	.	.	.	.	.
+16g	le	.	.	.	.	.	.	.	.
 !!LO:PB:g=original
-=9
-8e
-8f#
-8g
-8a
-=10
-8b/
-8b/
-8cc#
-16b/
-16b/
-=11
-8a
-8f#
-8g
-8f#
+=9	=9	=9	=9	=9	=9	=9	=9	=9	=9
+8e	loup,	.	.	.	.	.	.	.	.
+8f#	le	.	.	.	.	.	.	.	.
+8g	r'nard,	.	.	.	.	.	.	.	.
+8a	le	.	.	.	.	.	.	.	.
+=10	=10	=10	=10	=10	=10	=10	=10	=10	=10
+8b/	liè-	.	.	.	.	.	.	.	.
+8b/	-vre,	.	.	.	.	.	.	.	.
+*	*pline:R2b	*	*	*	*	*	*	*	*
+8cc#	J'ai	.	.	.	.	.	.	.	.
+16b/	vu	.	.	.	.	.	.	.	.
+16b/	le	.	.	.	.	.	.	.	.
+=11	=11	=11	=11	=11	=11	=11	=11	=11	=11
+8a	loup,	.	.	.	.	.	.	.	.
+8f#	le	.	.	.	.	.	.	.	.
+8g	r'nard	.	.	.	.	.	.	.	.
+8f#	pas-	.	.	.	.	.	.	.	.
 !!LO:PB:g=original
-=12
-4e
-==||
-8r
-==||
-*
-*
-==|
-!!!RWG: Seems to be in E Dorian, labelled as E Minor with two sharps
+=12	=12	=12	=12	=12	=12	=12	=12	=12	=12
+4e	-ser.	.	.	.	.	.	.	.	.
+==	==	==	==	==	==	==	==	==	==
+8r	.	.	.	.	.	.	.	.	.
+==	==	==	==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
 !!!RNB: Final eighth rest flipped backward in original
-*-
+!!!EED: Samuel Boone
