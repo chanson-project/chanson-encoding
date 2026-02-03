@@ -9,93 +9,96 @@
 !!!PDT: 1865
 !!!SMA:
 !!!OMD:
-!!!AGN-Laforte:
+!!!AGN-Laforte: (verses, first part repeated)
 !!!AGN-type:
 !!!AGN-rime:
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-*
-*
-=1
-8g
-8a
-8f#
-=2
-4.g
-=3
-8b/
-8g
-8b/
-=4
-4.dd
+**kern	**text	**text	**text	**text	**text	**text
+*clefG2	*	*	*	*	*	*
+*k[f#]	*	*	*	*	*	*
+*G:	*	*	*	*	*	*
+*M3/8	*	*	*	*	*	*
+*	*v:1	*v:2	*v:3	*v:4	*v:5	*v:6
+*	*pline:H1a	*pline:H4a	*pline:H7a	*pline:H10a	*pline:H13a	*pline:H16a
+=1	=1	=1	=1	=1	=1	=1
+8g	C'est	Ell'	Quand	Le	Dans	Ell'
+8a	dans	s'en	vous	len-	son	s'en
+8f#	Pa-	va	se-	-de-	che-	r'tourne
+=2	=2	=2	=2	=2	=2	=2
+4.g	-ris	chez	-rez	-main,	-min,	à
+=3	=3	=3	=3	=3	=3	=3
+8b/	ya-	l'a-	pour	de	a	l'a-
+8g	t-u-	-po-	vous	grand	ren-	-po-
+8b/	-ne	-thi-	far-	ma-	-con-	-the-
+=4	=4	=4	=4	=4	=4	=4
+4.dd	brun'	-caire:	-der,	-tin,	-tré.	-caire:
 !!LO:PB:g=original
-=5
-8dd
-8b
-8dd
-=6
-4ee
-8dd
-=7
-8ddq
-4cc
-8b
-=8
-4.a
-=9:|!
-8a
-8b
-8cc
+*	*pline:H1b	*pline:H4b	*pline:H7b	*pline:H10b	*pline:H13b	*pline:H16b
+=5	=5	=5	=5	=5	=5	=5
+8dd	Qui	Com-	Pre-	La	Son	Mon-
+8b	est	-bien	-nez	belle	jo-	-sieur,
+8dd	plus	ven-	bien	a	-li	que
+=6	=6	=6	=6	=6	=6	=6
+4ee	bel-	-dez-	gard'	mis	ten-	a-
+8dd	-le	vous	de	ses	-dre	-vez
+=7	=7	=7	=7	=7	=7	=7
+8ddq	.	.	.	.	.	.
+4cc	que	vo-	vous	beaux	ca-	vous
+8b	le	-tre	mi-	a-	-va-	ven-
+=8	=8	=8	=8	=8	=8	=8
+4.a	jour.	fard?	-rer....	-tours;	-lier.	-du?
+*	*pline:H2a	*pline:H5a	*pline:H8a	*pline:H11a	*pline:H14a	*pline:H7a
+=9:|!	=9:|!	=9:|!	=9:|!	=9:|!	=9:|!	=9:|!
+8a	Mais	Nous	Vous	El-	Où	Je
+8b	elle	le	é-	-le	al-	vous
+8cc	a-	ven-	tein-	a	-lez-	ai
 !!LO:PB:g=original
-=10
-4dd
-8g
-=11
-4cc
-8b
-=12
-8a
-8a
-8a
-=13
-4d
-8g
-=14
-8gL
-8f#J
-8g
+=10	=10	=10	=10	=10	=10	=10
+4dd	-vait	-dons	-drez	mis	vous	ven-
+8g	u-	par	vo-	son	blan-	-du
+=11	=11	=11	=11	=11	=11	=11
+4cc	-ne	de-	-tre	beau	-che	du
+8b	ser-	-mi-	chan-	ju-	co-	ci-
+=12	=12	=12	=12	=12	=12	=12
+8a	-van-	on-	-del-	-pon	-quet-	-ra-
+8a	-te	-ces;	-le....	vert,	-te,	-ge
+*	*pline:H2b	*pline:H5b	*pline:H8b	*pline:H11b	*pline:H14b	*pline:H17b
+8a	Qu'au-	C'est	Bar-	Son	Tout'	Pour
+=13	=13	=13	=13	=13	=13	=13
+4d	-rait,	deux,	-bouill....	blanc,	noir'	vos,
+8g	Qu'au-	c'est	bar-	son	tout	pour
+=14	=14	=14	=14	=14	=14	=14
+8gL	-rait	deux	-bouill-	blanc	bar-	vos
+8f#J	.	.	.	man-	.	.
+8g	vou-	é-	-ez-	-te-	-bouil-	sou-
 !!LO:PB:g=original
-=15
-4a
-8r
-=16
-8a
-8b
-8cc
-=17
-4dd
-8g
-=18
-4c
-8b
-=19
-4a
-8a
+=15	=15	=15	=15	=15	=15	=15
+4a	-lu	-cus.	vous;	-let,	-lée?	-liers:
+8r	.	.	.	.	.	.
+*	*pline:H3a	*pline:H6a	*pline:H9a	*pline:H12a	*pline:H15a	*pline:H18a
+=16	=16	=16	=16	=16	=16	=16
+8a	Etre	Pe-	Le	Pour	Vous	C'ap-
+8b	aus-	-sez	len-	al-	a-	-par-
+8cc	-si	moi-	-de-	-lez	-vez	-ti-
+=17	=17	=17	=17	=17	=17	=17
+4dd	bell'	z-en	-main	faire	la	-ent
+8g	que	un	vous	un	fi-	pas
+=18	=18	=18	=18	=18	=18	=18
+4c	sa	de-	se-	tour	-gur'	une
+8b	maî-	-mi-	-rez	en	plus	ser-
+=19	=19	=19	=19	=19	=19	=19
+4a	-tres-	on-	bel-	vil-	noi-	-van-
+8a	-se:	-ce:	-le	-le,	-re	-te
 !!LO:PB:g=original
-=20
-8d
-8e
-8f#
-=21
-4g
-8r
-==||
-1r
-==||
-*
-*
-==|
-*-
+*	*pline:H3b	*pline:H6b	*pline:H9b	*pline:H12b	*pline:H15b	*pline:H18b
+=20	=20	=20	=20	=20	=20	=20
+8d	Mais	Voi-	Com-	S'y	Que	De
+8e	ell'	-là	-me	pro-	la	se
+8f#	n'a	l'é-	le	-me-	ch'm'-	far-
+=21	=21	=21	=21	=21	=21	=21
+4g	pu.	-cu.	jour.	-ner.	-née!	-der.
+8r	.	.	.	.	.	.
+==	==	==	==	==	==	==
+1r	.	.	.	.	.	.
+==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-
+!!!EED: Samuel Boone
