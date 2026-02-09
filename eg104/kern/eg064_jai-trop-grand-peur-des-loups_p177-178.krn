@@ -18,7 +18,7 @@
 *A:	*	*	*	*	*	*	*	*	*
 *M2/4	*	*	*	*	*	*	*	*	*
 *	*v:1	*v:2	*v:3	*v:4	*v:5	*v:6	*v:7	*v:8	*v:9
-*	*pline:1	*pline:4	*pline:7	*pline:10	*pline:13	*pline:16	*pline:19	*pline:22	*pline:25
+*	*pline:1	*pline:2r	*pline:3r	*pline:4r	*pline:5r	*pline:6r	*pline:7r	*pline:8r	*pline:9r
 =1	=1	=1	=1	=1	=1	=1	=1	=1	=1
 8a	M'en	Dans	Trois	Deux	Ce-	"Où	"Chez	"Vous	"Et
 16a	re-	mon	ca-	à	-lui	i-	moi,	y	un
@@ -31,7 +31,7 @@
 8b/	-dée,	-tré,	-tés,	pied;	dé:	-cher?"	-lez;"	-per,"	-cher."
 8r	.	.	.	.	.	.	.	.	.
 !!LO:PB:g=original
-*	*pline:2	*pline:5	*pline:8	*pline:11	*pline:14	*pline:17	*pline:20	*pline:23	*pline:26
+*	*pline:1r	*pline:2r	*pline:3r	*pline:4r	*pline:5r	*pline:6r	*pline:7r	*pline:8r	*pline:9r
 =3	=3	=3	=3	=3	=3	=3	=3	=3	=3
 8a	M'en	Dans	Trois	Deux	Ce-	"Où	"Chez	"Vous	"Et
 16a	re-	mon	ca-	à	-lui	i-	moi,	y	un
@@ -43,7 +43,7 @@
 8cc#	Ven-	-con-	mon-	à	-man-	cou-	vou-	sou-	cou-
 8b	-dée,	-tré,	-tés,	pied;	-dé:	-cher?"	-lez;"	-per,"	-chez."
 8r	.	.	.	.	.	.	.	.	.
-*	*pline:3	*pline:6	*pline:9	*pline:12	*pline:15	*pline:18	*pline:21	*pline:24	*pline:27
+*	*pline:2	*pline:3	*pline:4	*pline:5	*pline:6	*pline:7	*pline:8	*pline:9	*pline:10
 =5	=5	=5	=5	=5	=5	=5	=5	=5	=5
 8a	Dans	Trois	Deux	Ce-	"Où	"Chez	"Vous	"Et	Les
 16a	mon	ca-	à	-lui	i-	moi,	y	un	ca-
@@ -55,6 +55,9 @@
 8a	ren-	bien	l'autre	de-	soir	vous	bon	vous	ac-
 8g#	-con-	mon-	à	-man-	cou-	vou-	sou-	cou-	-cep-
 8.f#	-tré....	-tés.	pied.	dé....	-cher?"	-lez."	-per."	-cher."	-té.
+*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain
+*	*refrain	*	*	*	*	*	*	*	*
+*	*italic	*	*	*	*	*	*	*	*
 *	*pline:R1	*	*	*	*	*	*	*	*
 16f#	Vous	.	.	.	.	.	.	.	.
 =7	=7	=7	=7	=7	=7	=7	=7	=7	=7
@@ -86,7 +89,10 @@
 =12	=12	=12	=12	=12	=12	=12	=12	=12	=12
 4b/	des	.	.	.	.	.	.	.	.
 8a	loups.	.	.	.	.	.	.	.	.
+*	*italic	*	*	*	*	*	*	*	*
+*	*refrain	*	*	*	*	*	*	*	*
 8r	.	.	.	.	.	.	.	.	.
 ==	==	==	==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-
-!!!EED: Samuel Boone
+!!!EED-1: Samuel Boone
+!!!EEV-1: 2026/02/09
