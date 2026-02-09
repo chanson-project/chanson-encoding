@@ -18,7 +18,7 @@
 *e:	*	*	*	*	*	*	*	*	*
 *M2/4	*	*	*	*	*	*	*	*	*
 *	*v:1	*v:2	*v:3	*v:4	*v:5	*v:6	*v:7	*v:8	*v:9
-*	*pline:1	*pline:4	*pline:7	*pline:10	*pline:13	*pline:16	*pline:19	*pline:22	*pline:25
+*	*pline:1	*pline:3r	*pline:4r	*pline:5r	*pline:6r	*pline:7r	*pline:8r	*pline:9r	*pline:10r
 8b/	M'en	Dans	Trois	Deux	Ce-	"Où	"Chez	"Vous	"Et
 16b/	re-	mon	ca-	à	-lui	i-	moi,	y	un
 16b/	-ve-	che-	-va-	che-	à	-rons-	Mon-	trouv'-	bon
@@ -29,7 +29,7 @@
 8g	An-	-con-	mon-	à	-man-	cou-	vou-	sou-	cou-
 =2	=2	=2	=2	=2	=2	=2	=2	=2	=2
 4b/	-dré,	-tré,	-tés.	pied.	-dé:	cher?"	-lez."	-per,"	-cher."
-*	*pline:2	*pline:5	*pline:8	*pline:11	*pline:14	*pline:17	*pline:20	*pline:23	*pline:26
+*	*pline:2	*pline:2r	*pline:2r	*pline:2r	*pline:2r	*pline:2r	*pline:2r	*pline:2r	*pline:2r
 8b/	J'ai	J'ai	J'ai	J'ai	J'ai	J'ai	J'ai	J'ai	J'ai
 16b/	vu	vu	vu	vu	vu	vu	vu	vu	vu
 16b/	le	le	le	le	le	le	le	le	le
@@ -42,7 +42,7 @@
 =4	=4	=4	=4	=4	=4	=4	=4	=4	=4
 8b/	-ser,	-ser,	-ser,	-ser,	-ser,	-ser,	-ser,	-ser,	-ser,
 16r;	.	.	.	.	.	.	.	.	.
-*	*pline:3	*pline:6	*pline:9	*pline:12	*pline:15	*pline:18	*pline:21	*pline:24	*pline:27
+*	*pline:3	*pline:4	*pline:5	*pline:6	*pline:7	*pline:8	*pline:9	*pline:10	*pline:11
 16b/	Dans	Trois	Deux	Ce-	"Où	"Chez	Vous	"Et	Les
 8b/	mon	ca-	à	-lui	i-	moi,	y	un	ca-
 8cc#	che-	-va-	che-	d'à	-rons-	Mon-	trouv'-	bon	-va-
