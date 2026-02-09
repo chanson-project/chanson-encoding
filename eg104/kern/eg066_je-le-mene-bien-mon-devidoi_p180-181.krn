@@ -65,8 +65,10 @@
 8aL	moi!	moi!	moi!	moi!	moi!	moi!	moi!	moi!	moi!
 8gJ	.	.	.	.	.	.	.	.	.
 =!|:	=!|:	=!|:	=!|:	=!|:	=!|:	=!|:	=!|:	=!|:	=!|:
+*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain
+*	*refrain	*	*	*	*	*	*	*	*
 *	*italic	*	*	*	*	*	*	*	*
-*	*pline:RH1a	*	*	*	*	*	*	*	*
+*	*pline:R1Ha	*	*	*	*	*	*	*	*
 !LO:TX:a:i:t=Voix seule, reprise en chœur.	!	!	!	!	!	!	!	!	!
 16e	Je	.	.	.	.	.	.	.	.
 16a	le	.	.	.	.	.	.	.	.
@@ -74,7 +76,7 @@
 16a	-ne	.	.	.	.	.	.	.	.
 =8	=8	=8	=8	=8	=8	=8	=8	=8	=8
 8cc	bien;	.	.	.	.	.	.	.	.
-*	*pline:RH1b	*	*	*	*	*	*	*	*
+*	*pline:R1Hb	*	*	*	*	*	*	*	*
 16a	Je	.	.	.	.	.	.	.	.
 16a	le	.	.	.	.	.	.	.	.
 8b/	mè-	.	.	.	.	.	.	.	.
@@ -83,14 +85,14 @@
 =9	=9	=9	=9	=9	=9	=9	=9	=9	=9
 8aL	droit!	.	.	.	.	.	.	.	.
 8gJ	.	.	.	.	.	.	.	.	.
-*	*pline:RH2a	*	*	*	*	*	*	*	*
+*	*pline:R2Ha	*	*	*	*	*	*	*	*
 16e	Je	.	.	.	.	.	.	.	.
 16a	le	.	.	.	.	.	.	.	.
 16a	mè-	.	.	.	.	.	.	.	.
 16a	-ne	.	.	.	.	.	.	.	.
 =10	=10	=10	=10	=10	=10	=10	=10	=10	=10
 8cc	bien	.	.	.	.	.	.	.	.
-*	*pline:RH2b	*	*	*	*	*	*	*	*
+*	*pline:R2Hb	*	*	*	*	*	*	*	*
 8a	Mon	.	.	.	.	.	.	.	.
 8b	dé-	.	.	.	.	.	.	.	.
 8cc	-vi-	.	.	.	.	.	.	.	.
@@ -100,8 +102,10 @@
 =:|!	=:|!	=:|!	=:|!	=:|!	=:|!	=:|!	=:|!	=:|!	=:|!
 8r	.	.	.	.	.	.	.	.	.
 *	*Xitalic	*	*	*	*	*	*	*	*
+*	*Xrefrain	*	*	*	*	*	*	*	*
 ==	==	==	==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-
 !!!RWG: Upper voice eighth note on 'cc' on last beat of m.8
 !!!RNB: Final eighth rest flipped backward in original
-!!!EED: Samuel Boone
+!!!EED-1: Samuel Boone
+!!!EEV-1: 2026/02/09
