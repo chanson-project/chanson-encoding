@@ -12,89 +12,92 @@
 !!!AGN-Laforte:
 !!!AGN-type:
 !!!AGN-rime:
-**kern
-*clefG2
-*k[]
-*a:
-*M2/4
-*
-*
-=1
-!LO:TX:a:i:t=Les reprises en chœur.
-4a
-4cc
-=2
-(4b/
-4a)
-=3
-2cc
-=4
-4b
-4cc
-=5
-2dd
-=6
-4b
-8r
+**kern	**text	**text	**text	**text	**text	**text
+*clefG2	*	*	*	*	*	*
+*k[]	*	*	*	*	*	*
+*a:	*	*	*	*	*	*
+*M2/4	*	*	*	*	*	*
+*	*v:1	*v:2	*v:3	*v:4	*v:5	*v:6
+*	*pline:1	*pline:5	*pline:9	*pline:13	*pline:17	*pline:21
+=1	=1	=1	=1	=1	=1	=1
+!LO:TX:a:i:t=Les reprises en chœur.	!	!	!	!	!	!
+4a	Nous	Nous	"Oui,	"Hô-	Quand	"Grand
+4cc	é-	en-	vrai-	.	la	mer-
+=2	=2	=2	=2	=2	=2	=2
+(4b/	-tions	-trâm's	-ment,"	-tess',	cho-	-ci!"
+4a)	.	.	.	.	.	.
+=3	=3	=3	=3	=3	=3	=3
+2cc	trois	dans	nous	tire-	-pi-	nous
+=4	=4	=4	=4	=4	=4	=4
+4b	ca-	une	dit	nous	-ne	dit
+4cc	-pi-	au-	l'hô-	cho-	fut	l'hô-
+=5	=5	=5	=5	=5	=5	=5
+2dd	-tai-	-ber-	-tes-	-pi-	bu-	-tes-
+=6	=6	=6	=6	=6	=6	=6
+4b	-nes,	-ge,	-se,	-ne,	-e,	-se,
+8r	.	.	.	.	.	.
 !!LO:PB:g=original
-=7
-4a
-4cc
-=8
-8bqq
-2a
-=9
-2c
-=10
-4b
-4cc
-=11
-2dd
-=12
-4b/
-8r
-=13:|!
-4a
-4a
+*	*pline:2	*pline:6	*pline:10	*pline:14	*pline:18	*pline:22
+=7	=7	=7	=7	=7	=7	=7
+4a	Nous	Nous	"Oui,	Hô-	Quand	"Grand
+4cc	é-	en-	vrai-	.	la	mer-
+=8	=8	=8	=8	=8	=8	=8
+8bqq	.	.	.	.	.	.
+2a	-tions	-trâm's	-ment,"	-tess',	cho-	-ci!"
+=9	=9	=9	=9	=9	=9	=9
+2c	trois	dans	nous	tire-	-pi-	nous
+=10	=10	=10	=10	=10	=10	=10
+4b	ca-	une	dit	nous	-ne	dit
+4cc	-pi-	au-	l'hô-	cho-	fut	l'hô-
+=11	=11	=11	=11	=11	=11	=11
+2dd	-tai-	-ber-	-tes-	-pi-	bu-	-tes-
+=12	=12	=12	=12	=12	=12	=12
+4b/	-nes	-ge:	-se;	-ne,	-e,	-se,
+8r	.	.	.	.	.	.
+*	*pline:H3a	*pline:H7a	*pline:H11a	*pline:H15a	*pline:H19a	*pline:H23a
+=13:|!	=13:|!	=13:|!	=13:|!	=13:|!	=13:|!	=13:|!
+4a	De	"Hô-	"J'en	Cho-	Nous	"Re-
+4a	la	-tesse,	ai	-pi-	ti-	-ve-
 !!LO:PB:g=original
-=14
-4b/
-4b/
-=15
-4cc
-4a
-=16
-2b/
-=17
-4cc
-4b/
-=18
-2a
-=19
-2g
-=20
-4a
-4a
+=14	=14	=14	=14	=14	=14	=14
+4b/	guer-	as-	du	-net-	-râm's	-nez-
+4b/	-re	tu	rouge	-te	trois	y
+=15	=15	=15	=15	=15	=15	=15
+4cc	re-	du	et	de	é-	donc
+4a	-ve-	vin	du	vin	-cus	sou-
+=16	=16	=16	=16	=16	=16	=16
+2b/	-nant,	blanc?	blanc,	blanc,	blancs,	-vent,
+*	*pline:H3b	*pline:H7b	*pline:H11b	*pline:H15b	*pline:H19b	*pline:H23b
+=17	=17	=17	=17	=17	=17	=17
+4cc	Bra-	Bra-	Bra-	Bra-	Bra-	Bra-
+4b/	-ve,	-ve,	-ve,	-ve,	-ve,	-ve,
+=18	=18	=18	=18	=18	=18	=18
+2a	bra-	bra-	bra-	bra-	bra-	bra-
+=19	=19	=19	=19	=19	=19	=19
+2g	-ve,	-ve,	-ve,	-ve,	-ve,	-ve,
+*	*pline:H4a	*pline:H8a	*pline:H12a	*pline:H16a	*pline:H20a	*pline:H24a
+=20	=20	=20	=20	=20	=20	=20
+4a	De	Hô-	J'en	Cho-	Nous	Re-
+4a	la	-tesse,	ai	-pi-	ti-	-ve-
 !!LO:PB:g=original
-=21
-4b/
-4b/
-=22
-4cc
-4a
-=23
-2b/
-=24
-4cc
-4b
-=25
-[2a
-=26
-4a]
-8r
-==:||!
-*
-*
-==|
+=21	=21	=21	=21	=21	=21	=21
+4b/	guer-	as-	du	-net-	-râm's	-nez-
+4b/	-re	tu	rouge	-te	trois	y
+=22	=22	=22	=22	=22	=22	=22
+4cc	re-	du	et	de	é-	donc
+4a	-ve-	vin	du	vin	-cus	sou-
+=23	=23	=23	=23	=23	=23	=23
+2b/	-nant	blanc?	blanc,	blanc,	blancs,	vant,
+*	*pline:H4b	*pline:H8b	*pline:H12b	*pline:H16b	*pline:H20b	*pline:H24b
+=24	=24	=24	=24	=24	=24	=24
+4cc	Bra-	Bra-	Bra-	Bra-	Bra-	Bra-
+4b	-ve-	-ve-	-ve-	-ve-	-ve-	-ve-
+=25	=25	=25	=25	=25	=25	=25
+[2a	-ment.	-ment."	-ment."	-ment."	-ment.	-ment."
+=26	=26	=26	=26	=26	=26	=26
+4a]	.	.	.	.	.	.
+8r	.	.	.	.	.	.
+==:|!	==:|!	==:|!	==:|!	==:|!	==:|!	==:|!
+*-	*-	*-	*-	*-	*-	*-
 !!!RNB: All eighth rests flipped backward in original
-*-
+!!!EED: Samuel Boone
