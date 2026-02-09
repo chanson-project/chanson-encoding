@@ -9,97 +9,101 @@
 !!!PDT: 1865
 !!!SMA:
 !!!OMD:
-!!!AGN-Laforte:
+!!!AGN-Laforte: (verse, chorus)
 !!!AGN-type:
 !!!AGN-rime:
-**kern
-*clefG2
-*k[]
-*C:
-*M3/8
-*
-*
-=1
-8cc
-8cc
-8cc
-=2
-4cc
-8cc
-=3
-8b-qq
-4a
-8b/
-=4
-4.cc
-=5
-8cc
-8cc
-8cc
+**kern	**text	**text	**text	**text	**text	**text	**text	**text	**text
+*clefG2	*	*	*	*	*	*	*	*	*
+*k[]	*	*	*	*	*	*	*	*	*
+*C:	*	*	*	*	*	*	*	*	*
+*M3/8	*	*	*	*	*	*	*	*	*
+*	*v:1	*v:2	*v:3	*v:4	*v:5	*v:6	*v:7	*v:8	*v:9
+*	*pline:1	*pline:4	*pline:7	*pline:10	*pline:13	*pline:16	*pline:19	*pline:22	*pline:25
+=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+8cc	Mon	L'a	Mon	Don-	Ma	De	J'es-	Se-	Et
+8cc	père	fait	pè-	-nez-	fil-	n'ja-	-tim'-	-rait	vous
+8cc	a	bâ-	-re	moi	-le	-mais	-rais	en	mon
+=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+4cc	fait	-tir	fai-	donc	pro-	ai-	mieux	cendre	pèr'
+8cc	bâ-	su'	-tes-	vo-	-met-	-mer	que	et	sur
+=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+8b-qq	.	.	.	.	.	.	.	.	.
+4a	-tir	l'bout	moi-	-tre	-tez-	les	la	en	le
+8b/	mai-	d'un	z-un	mai-	moi	gar-	mai-	char-	pi-
+=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
+4.cc	son,	pont,	don,	-son,	donc,	-çons,	-son,	-bons,	gnon,
+*	*pline:2	*pline:5	*pline:8	*pline:11	*pline:14	*pline:17	*pline:20	*pline:23	*pline:26
+=5	=5	=5	=5	=5	=5	=5	=5	=5	=5
+8cc	Mon	L'a	Mon	Don-	Ma	De	J'es-	Se-	Et
+8cc	père	fait	pè-	-nez-	fil-	n'ja-	-tim'-	-rait	vous
+8cc	a	bâ-	re	moi	-le	-mais	-rais	en	mon
 !!LO:PB:g=original
-=6
-4cc
-8cc
-=7
-8b-qq
-4a
-8b/
-=8
-4.cc
-=9
-8cc
-8cc
-8cc
-=10
-4cc
-8dd
-=11
-4cc
-8a
+=6	=6	=6	=6	=6	=6	=6	=6	=6	=6
+4cc	fait	-tir	fai-	donc	pro-	ai-	mieux	cendre	pèr'
+8cc	bâ-	su'	-tes-	vo-	-met-	-mer	que	et	sur
+=7	=7	=7	=7	=7	=7	=7	=7	=7	=7
+8b-qq	.	.	.	.	.	.	.	.	.
+4a	-tir	l'bout	moi-	-tre	-tez-	les	la	en	le
+8b/	mai-	d'un	z-un	mai-	moi	gar-	mai-	char-	pi-
+=8	=8	=8	=8	=8	=8	=8	=8	=8	=8
+4.cc	-son;	pont.	don;	-son.	donc	-çons.	-son	-bons,	gnon:
+*	*pline:3	*pline:6	*pline:9	*pline:12	*pline:15	*pline:18	*pline:21	*pline:24	*pline:27
+=9	=9	=9	=9	=9	=9	=9	=9	=9	=9
+8cc	L'a	Mon	Don-	Ma	De	J'es-	Se-	Et	Vous
+8cc	fait	pè-	-nez-	fil-	n'ja-	-tim'-	-rait	vous	vous
+8cc	bâ-	-re	moi	-le,	-mais	-rais	en	mon	chauf-
+=10	=10	=10	=10	=10	=10	=10	=10	=10	=10
+4cc	-tir	fai-	donc	pro-	ai-	mieux	cendre	pèr'	-fe-
+8dd	su'	-tes-	vo-	-met-	-mer	que	et	sur	-riez
+=11	=11	=11	=11	=11	=11	=11	=11	=11	=11
+4cc	l'bout	moi-	-tre	-tez-	les	la	en	le	les
+8a	d'un	z-un	mai-	moi	gar-	mai-	char-	pi-	ta-
 !!LO:PB:g=original
-=12
-8.a
-16g
-8f
-=13
-4a
-8a
-=14
-8.a
-16g
-8f
-=15
-4a
-8a
-=16
-4.a
+=12	=12	=12	=12	=12	=12	=12	=12	=12	=12
+8.a	pont.	don.	-son.	donc....	-çons.	-son....	-bons.	-gnon.	-lons.
+*	*RH1a	*	*	*	*	*	*	*	*
+16g	Le	.	.	.	.	.	.	.	.
+8f	beau	.	.	.	.	.	.	.	.
+=13	=13	=13	=13	=13	=13	=13	=13	=13	=13
+4a	temps	.	.	.	.	.	.	.	.
+8a	s'en	.	.	.	.	.	.	.	.
+=14	=14	=14	=14	=14	=14	=14	=14	=14	=14
+8.a	va,	.	.	.	.	.	.	.	.
+*	*RH1b	*	*	*	*	*	*	*	*
+16g	Le	.	.	.	.	.	.	.	.
+8f	mau-	.	.	.	.	.	.	.	.
+=15	=15	=15	=15	=15	=15	=15	=15	=15	=15
+4a	-vais	.	.	.	.	.	.	.	.
+8a	re-	.	.	.	.	.	.	.	.
+=16	=16	=16	=16	=16	=16	=16	=16	=16	=16
+4.a	-vient.	.	.	.	.	.	.	.	.
 !!LO:PB:g=original
-=17
-8.cc
-16b
-8cc
-=18
-4a
-!LO:TX:a:t=2
-.
-4cc
-=19
-4b/
-8b/
-=20
-4.g
-=21
-8b/
-8a
-8b/
-=22
-4g
-8r
-==||
-*
-*
-==|
+*	*RH2a	*	*	*	*	*	*	*	*
+=17	=17	=17	=17	=17	=17	=17	=17	=17	=17
+8.cc	Je	.	.	.	.	.	.	.	.
+16b	n'ai	.	.	.	.	.	.	.	.
+8cc	pas	.	.	.	.	.	.	.	.
+=18	=18	=18	=18	=18	=18	=18	=18	=18	=18
+4a	de	.	.	.	.	.	.	.	.
+!LO:TX:a:t=2	!	!	!	!	!	!	!	!	!
+.	.	.	.	.	.	.	.	.	.
+4cc	barbe	.	.	.	.	.	.	.	.
+=19	=19	=19	=19	=19	=19	=19	=19	=19	=19
+4b/	au	.	.	.	.	.	.	.	.
+8b/	men-	.	.	.	.	.	.	.	.
+=20	=20	=20	=20	=20	=20	=20	=20	=20	=20
+4.g	-ton	.	.	.	.	.	.	.	.
+*	*RH2b	*	*	*	*	*	*	*	*
+=21	=21	=21	=21	=21	=21	=21	=21	=21	=21
+8b/	Mais	.	.	.	.	.	.	.	.
+8a	il	.	.	.	.	.	.	.	.
+8b/	m'en	.	.	.	.	.	.	.	.
+=22	=22	=22	=22	=22	=22	=22	=22	=22	=22
+4g	vient.	.	.	.	.	.	.	.	.
+8r	.	.	.	.	.	.	.	.	.
+==	==	==	==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
 !!!RNB: Key is probably just C Major with modal mixture, but seems a bit ambiguous, especially ending on G
 !!!RNB: Unclear whether the B-flat from the grace notes is intended to make flat all subsequent B's in the respective measure (left those B's as natural for now)
 !!!RWG: Tuplet in m.18 probably encoded incorrectly
-*-
+!!!EED: Samuel Boone
