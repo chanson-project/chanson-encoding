@@ -18,7 +18,7 @@
 *a:	*	*	*	*	*
 *M2/4	*	*	*	*	*
 *	*v:1	*v:2	*v:3	*v:4	*v:5
-*	*pline:H1a	*pline:H4a	*pline:H7a	*pline:H10a	*pline:H13a
+*	*pline:1Ha	*pline:4Ha	*pline:7Ha	*pline:10Ha	*pline:13Ha
 16cc	Pa-	.	Mon-	.	Si
 16b	-pil-	Croy-	-sieur,	Croy-	l'a-
 =1	=1	=1	=1	=1	=1
@@ -29,7 +29,7 @@
 =2	=2	=2	=2	=2	=2
 4ee	-la-	-sel-	-tu-	-sel-	aî-
 8ee	-ge!	-le,	-de,	-le,	-les
-*	*pline:H1b	*pline:H4b	*pline:H7b	*pline:H10b	*pline:H13b
+*	*pline:1Hb	*pline:4Hb	*pline:7Hb	*pline:10Hb	*pline:13Hb
 16dd	Tu	Que	Vo-	Que	Com-
 16ee	res-	je	-tre	je	-me
 =3	=3	=3	=3	=3	=3
@@ -44,7 +44,7 @@
 8ccq	.	.	.	.	.
 4b	-mant.	vous.	pas:	-nir?	-lon,
 8r	.	.	.	.	.
-*	*pline:H2a	*pline:H5a	*pline:H8a	*pline:H11a	*pline:H14a
+*	*pline:2Ha	*pline:5Ha	*pline:8Ha	*pline:11Ha	*pline:14Ha
 16b	L'a-	J'en	Vous	J'es-	Il
 16cc	-mour	ai	a-	-tim'	i-
 =5	=5	=5	=5	=5	=5
@@ -58,7 +58,7 @@
 8ccL	-na-	-man-	-bi-	-teil-	vil-
 8aJ	.	.	-tu-	.	.
 8b	-ge,	-de,	-de,	-le	-le
-*	*pline:H2b	*pline:H5b	*pline:H8b	*pline:H11b	*pline:H14b
+*	*pline:2Hb	*pline:5Hb	*pline:8Hb	*pline:11Hb	*pline:14Hb
 16cc	L'a-	Qui	Bien	A-	Pour
 16b	-mour	sont	sou-	-vec	re-
 =7	=7	=7	=7	=7	=7
@@ -70,14 +70,14 @@
 !!LO:PB:g=original
 =8	=8	=8	=8	=8	=8
 8b	temps;	vous.	-pas.	-mis.	-mant,
-*	*pline:H3a	*pline:H6a	*pline:H9a	*pline:H12a	*pline:H16a
+*	*pline:3Ha	*pline:6Ha	*pline:9Ha	*pline:12Ha	*pline:16Ha
 16b	Quand	Croy-	Croy-	A-	Lui
 16cc	j'ai	-ez-	-ez-	-dieu	faire
 8dd	mon	moi,	moi,	mes	as-
 8b	a-	Mam-	Mon-	a-	-sa-
 =9	=9	=9	=9	=9	=9
 8cc	-mant	-zelle,	-sieur,	-mours!	voir
-*	*pline:H3b	*pline:H6b	*pline:H9b	*pline:H12b	*pline:H16b
+*	*pline:3Hb	*pline:6Hb	*pline:9Hb	*pline:12Hb	*pline:16Hb
 16b	J'ai	Je	N'y	A-	De
 16a	le	me	re-	-dieu	mes
 8b/	cœur	ris	-ve-	mes	com-
@@ -89,5 +89,5 @@
 8r	.	.	.	.	.
 ==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-
-!!!EED: Samuel Boone
-!!!EEV:
+!!!EED-1: Samuel Boone
+!!!EEV-1: 2026/02/09
