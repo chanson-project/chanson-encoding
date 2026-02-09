@@ -12,78 +12,81 @@
 !!!AGN-Laforte:
 !!!AGN-type:
 !!!AGN-rime:
-**kern
-*clefG2
-*k[f#,c#,g#]
-*A:
-*M2/4
-*
-*
-=1
-8a
-16a
-16b/
-8.cc#
-16b/
-=2
-8a
-8cc#
-8b/
-8r
+**kern	**text	**text	**text	**text	**text	**text	**text	**text	**text
+*clefG2	*	*	*	*	*	*	*	*	*
+*k[f#,c#,g#]	*	*	*	*	*	*	*	*	*
+*A:	*	*	*	*	*	*	*	*	*
+*M2/4	*	*	*	*	*	*	*	*	*
+*	*v:1	*v:2	*v:3	*v:4	*v:5	*v:6	*v:7	*v:8	*v:9
+*	*pline:1	*pline:4	*pline:7	*pline:10	*pline:13	*pline:16	*pline:19	*pline:22	*pline:25
+=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+8a	M'en	Dans	Trois	Deux	Ce-	"Où	"Chez	"Vous	"Et
+16a	re-	mon	ca-	à	-lui	i-	moi,	y	un
+16b/	-ve-	che-	-va-	che-	d'à	-rons-	Mon-	trouv'-	bon
+8.cc#	-nant	-min	-liers	-val	pied	nous	-sieur,	-rez	lit
+16b/	de	j'ai	fort	et	m'a	ce	si	un	pour
+=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+8a	la	ren-	bien	l'autre	de-	soir	vous	bon	vous
+8cc#	Ven-	-con-	mon-	à	-man-	cou-	vou-	sou-	cou-
+8b/	-dée,	-tré,	-tés,	pied;	dé:	-cher?"	-lez;"	-per,"	-cher."
+8r	.	.	.	.	.	.	.	.	.
 !!LO:PB:g=original
-=3
-8a
-16a
-16b/
-8.cc#
-16b/
-=4
-8a
-8cc#
-8b
-8r
-=5
-8a
-16a
-16b/
-8.cc#
-16b/
+*	*pline:2	*pline:5	*pline:8	*pline:11	*pline:14	*pline:17	*pline:20	*pline:23	*pline:26
+=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+8a	M'en	Dans	Trois	Deux	Ce-	"Où	"Chez	"Vous	"Et
+16a	re-	mon	ca-	à	-lui	i-	moi,	y	un
+16b/	-ve-	che-	-va-	che-	d'à	-rons-	Mon-	trouv'-	bon
+8.cc#	-nant	-min	-liers	-val	pied	nous	-sieur,	-rez	lit
+16b/	de	j'ai	fort	et	m'a	ce	si	un	pour
+=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
+8a	la	ren-	bien	l'autre	de-	soir	vous	bon	vous
+8cc#	Ven-	-con-	mon-	à	-man-	cou-	vou-	sou-	cou-
+8b	-dée,	-tré,	-tés,	pied;	-dé:	-cher?"	-lez;"	-per,"	-chez."
+8r	.	.	.	.	.	.	.	.	.
+*	*pline:3	*pline:6	*pline:9	*pline:12	*pline:15	*pline:18	*pline:21	*pline:24	*pline:27
+=5	=5	=5	=5	=5	=5	=5	=5	=5	=5
+8a	Dans	Trois	Deux	Ce-	"Où	"Chez	"Vous	"Et	Les
+16a	mon	ca-	à	-lui	i-	moi,	y	un	ca-
+16b/	che-	-va-	che-	d'à	-rons-	Mon-	trouv'-	bon	-va-
+8.cc#	-min	-liers	-val	pied	nous	-sieur,	-rez	lit	-liers
+16b/	j'ai	fort	et	m'a	ce	si	un	pour	ont
 !!LO:PB:g=original
-=6
-8a
-8g#
-8.f#
-16f#
-=7
-8f#
-8e
-4a
-=8
-4cc#
-4b
+=6	=6	=6	=6	=6	=6	=6	=6	=6	=6
+8a	ren-	bien	l'autre	de-	soir	vous	bon	vous	ac-
+8g#	-con-	mon-	à	-man-	cou-	vou-	sou-	cou-	-cep-
+8.f#	-tré....	-tés.	pied.	dé....	-cher?"	-lez."	-per."	-cher."	-té.
+*	*pline:R1	*	*	*	*	*	*	*	*
+16f#	Vous	.	.	.	.	.	.	.	.
+=7	=7	=7	=7	=7	=7	=7	=7	=7	=7
+8f#	m'a-	.	.	.	.	.	.	.	.
+8e	-mu-	.	.	.	.	.	.	.	.
+4a	-sez	.	.	.	.	.	.	.	.
+=8	=8	=8	=8	=8	=8	=8	=8	=8	=8
+4cc#	tou-	.	.	.	.	.	.	.	.
+4b	-jours;	.	.	.	.	.	.	.	.
 !!LO:PB:g=original
-=9
-8a
-16a
-16b/
-8.cc#
-16b/
-=10
-8a
-8g#
-8.f#
-16f#
-=11
-8f#
-8e
-4a
+*	*pline:R2	*	*	*	*	*	*	*	*
+=9	=9	=9	=9	=9	=9	=9	=9	=9	=9
+8a	Ja-	.	.	.	.	.	.	.	.
+16a	-mais	.	.	.	.	.	.	.	.
+16b/	je	.	.	.	.	.	.	.	.
+8.cc#	m'en	.	.	.	.	.	.	.	.
+16b/	i-	.	.	.	.	.	.	.	.
+=10	=10	=10	=10	=10	=10	=10	=10	=10	=10
+8a	-rai	.	.	.	.	.	.	.	.
+8g#	chez	.	.	.	.	.	.	.	.
+8.f#	nous:	.	.	.	.	.	.	.	.
+*	*pline:R3	*	*	*	*	*	*	*	*
+16f#	J'ai	.	.	.	.	.	.	.	.
+=11	=11	=11	=11	=11	=11	=11	=11	=11	=11
+8f#	trop	.	.	.	.	.	.	.	.
+8e	grand'	.	.	.	.	.	.	.	.
+4a	peur	.	.	.	.	.	.	.	.
 !!LO:PB:g=original
-=12
-4b/
-8a
-8r
-==||
-*
-*
-==|
-*-
+=12	=12	=12	=12	=12	=12	=12	=12	=12	=12
+4b/	des	.	.	.	.	.	.	.	.
+8a	loups.	.	.	.	.	.	.	.	.
+8r	.	.	.	.	.	.	.	.	.
+==	==	==	==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!EED: Samuel Boone
