@@ -54,7 +54,7 @@
 =12	=12	=12	=12	=12	=12	=12
 4b/	-nes	-ge:	-se;	-ne,	-e,	-se,
 8r	.	.	.	.	.	.
-*	*pline:H3a	*pline:H7a	*pline:H11a	*pline:H15a	*pline:H19a	*pline:H23a
+*	*pline:3Ha	*pline:7Ha	*pline:11Ha	*pline:15Ha	*pline:19Ha	*pline:23Ha
 =13:|!	=13:|!	=13:|!	=13:|!	=13:|!	=13:|!	=13:|!
 4a	De	"Hô-	"J'en	Cho-	Nous	"Re-
 4a	la	-tesse,	ai	-pi-	ti-	-ve-
@@ -67,7 +67,7 @@
 4a	-ve-	vin	du	vin	-cus	sou-
 =16	=16	=16	=16	=16	=16	=16
 2b/	-nant,	blanc?	blanc,	blanc,	blancs,	-vent,
-*	*pline:H3b	*pline:H7b	*pline:H11b	*pline:H15b	*pline:H19b	*pline:H23b
+*	*pline:3Hb	*pline:7Hb	*pline:11Hb	*pline:15Hb	*pline:19Hb	*pline:23Hb
 =17	=17	=17	=17	=17	=17	=17
 4cc	Bra-	Bra-	Bra-	Bra-	Bra-	Bra-
 4b/	-ve,	-ve,	-ve,	-ve,	-ve,	-ve,
@@ -75,7 +75,7 @@
 2a	bra-	bra-	bra-	bra-	bra-	bra-
 =19	=19	=19	=19	=19	=19	=19
 2g	-ve,	-ve,	-ve,	-ve,	-ve,	-ve,
-*	*pline:H4a	*pline:H8a	*pline:H12a	*pline:H16a	*pline:H20a	*pline:H24a
+*	*pline:4Ha	*pline:8Ha	*pline:12Ha	*pline:16Ha	*pline:20Ha	*pline:24Ha
 =20	=20	=20	=20	=20	=20	=20
 4a	De	Hô-	J'en	Cho-	Nous	Re-
 4a	la	-tesse,	ai	-pi-	ti-	-ve-
@@ -88,7 +88,7 @@
 4a	-ve-	vin	du	vin	-cus	sou-
 =23	=23	=23	=23	=23	=23	=23
 2b/	-nant	blanc?	blanc,	blanc,	blancs,	vant,
-*	*pline:H4b	*pline:H8b	*pline:H12b	*pline:H16b	*pline:H20b	*pline:H24b
+*	*pline:4Hb	*pline:8Hb	*pline:12Hb	*pline:16Hb	*pline:20Hb	*pline:24Hb
 =24	=24	=24	=24	=24	=24	=24
 4cc	Bra-	Bra-	Bra-	Bra-	Bra-	Bra-
 4b	-ve-	-ve-	-ve-	-ve-	-ve-	-ve-
