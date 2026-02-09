@@ -97,8 +97,6 @@ For a list of the different types of record comments, consult: https://www.humdr
 
 </details>
 
-
-
 <details>
 <summary><h3>Music Encoding</h3></summary>
 
@@ -117,6 +115,7 @@ For a list of the different types of record comments, consult: https://www.humdr
      ```
      !!LO:TX:a:t=Majestueux et résolu
      ```
+4. To hide an accidental, add "y".
 
 </details>
 
