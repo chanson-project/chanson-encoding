@@ -26,9 +26,9 @@ Encoding is *diplomatic* and includes the musical score, poetic text, phonemes, 
    !!!AGN-Laforte: Chanson strophique (sans refrain), 8:10(4+6)
    !!!AGN-type: hymne national
    !!!AGN-rime: mixte, aabcbcbc
+   ```
  
 For a list of the different types of record comments, consult: https://www.humdrum.org/reference-records
-  ```
 
 2. **Spine structure**:
    - Melody (Spine 1): `*`
