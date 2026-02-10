@@ -18,7 +18,7 @@
 *d:	*	*	*	*	*	*	*	*	*	*
 *M3/8	*	*	*	*	*	*	*	*	*	*
 *	*v:1	*v:2	*v:3	*v:4	*v:5	*v:6	*v:7	*v:8	*v:9	*v:10
-*	*pline:H1a	*pline:H3a	*pline:H5a	*pline:H7a	*pline:H9a	*pline:H11a	*pline:H13a	*pline:H15a	*pline:H17a	*pline:H19a
+*	*pline:1Ha	*pline:2Har	*pline:3Har	*pline:4Har	*pline:5Har	*pline:6Har	*pline:7Har	*pline:8Har	*pline:9Har	*pline:10Har
 =1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
 8d	Par	Dans	Ce	Un'	L'au-	Le	Où	Nous	Le	A
 8f	der-	la	sont	leur	-tre	roi,	vont-	ne	roi	cha-
@@ -29,7 +29,7 @@
 8d	ma	-te	-moi-	sei-	à	fe-	trois	des	plus	de
 =3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
 4e	tant'	branche	-selles	-gle,	boire	-nêtre,	dames?	dames,	jeune,	danse
-*	*pline:H1b	*pline:H3b	*pline:H5b	*pline:H7b	*pline:H9b	*pline:H11b	*pline:H13b	*pline:H15b	*pline:H17b	*pline:H19b
+*	*pline:1Hb	*pline:2Hbr	*pline:3Hbr	*pline:4Hbr	*pline:5Hbr	*pline:6Hbr	*pline:7Hbr	*pline:8Hbr	*pline:9Hbr	*pline:10Hbr
 8f	Ya-	Trois	Qui	L'au-	Dans	Les	Où	Somm's	Dans	Il
 =4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
 4g	t-un	pi-	leur	-tre,	un	re-	vont-	fill's	la	vou-
@@ -44,7 +44,7 @@
 =6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6
 4e	-té;	-chés;	-ger;	-lé;	-ré.	-ser:	-ner?	-er.	-née;	-ser:
 16r	.	.	.	.	.	.	.	.	.	.
-*	*pline:H2a	*pline:H4a	*pline:H6a	*pline:H8a	*pline:H10a	*pline:H12a	*pline:H14a	*pline:H16a	*pline:H18a	*pline:H20a
+*	*pline:2Ha	*pline:3Ha	*pline:4Ha	*pline:5Ha	*pline:6Ha	*pline:7Ha	*pline:8Ha	*pline:9Ha	*pline:10Ha	*pline:10Ha
 16e	Dans	Ce	Un'	L'au-	Le	Où	Nous	Le	A	Al-
 =7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7
 4e	la	sont	leur	-tre	roi,	vont-	ne	roi	cha-	-lez,
@@ -58,7 +58,7 @@
 =9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9
 [4c	branch'	-selles	gle,	boire	-nêtre,	dames?	dames,	jeune,	danse	prince.
 16c]	.	.	.	.	.	.	.	.	.	.
-*	*pline:H2b	*pline:H4b	*pline:H6b	*pline:H8b	*pline:H10b	*pline:H12b	*pline:H14b	*pline:H16b	*pline:H18b	*pline:H20b
+*	*pline:2Hb	*pline:3Hb	*pline:4Hb	*pline:5Hb	*pline:6Hb	*pline:7Hb	*pline:8Hb	*pline:9Hb	*pline:10Hb	*pline:10Hb
 16d	Trois	Qui	L'au-	Dans	Les	Où	Somm's	Dans	Il	Al-
 !!LO:PB:g=original
 =10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10
@@ -73,7 +73,10 @@
 =12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12
 4d	-chés.	-ger.	-lé.	-ré.	-ser.	-ner?	-er.	-née.	-ser.	-cher.
 8r	.	.	.	.	.	.	.	.	.	.
-*	*pline:RH1a	*	*	*	*	*	*	*	*	*
+*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain
+*	*refrain	*	*	*	*	*	*	*	*	*
+*	*italic	*	*	*	*	*	*	*	*	*
+*	*pline:R1Ha	*	*	*	*	*	*	*	*	*
 =13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13
 4d	Vi-	.	.	.	.	.	.	.	.	.
 8f	-ve	.	.	.	.	.	.	.	.	.
@@ -85,7 +88,7 @@
 8bq	.	.	.	.	.	.	.	.	.	.
 4a	-sier	.	.	.	.	.	.	.	.	.
 !!LO:PB:g=original
-*	*pline:RH1b	*	*	*	*	*	*	*	*	*
+*	*pline:R1Hb	*	*	*	*	*	*	*	*	*
 =16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16
 8g	Du	.	.	.	.	.	.	.	.	.
 8a	jo-	.	.	.	.	.	.	.	.	.
@@ -96,6 +99,8 @@
 8c	de	.	.	.	.	.	.	.	.	.
 =18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18
 4d	mai.	.	.	.	.	.	.	.	.	.
+*	*Xitalic	*	*	*	*	*	*	*	*	*
+*	*Xrefrain	*	*	*	*	*	*	*	*	*
 8r	.	.	.	.	.	.	.	.	.	.
 ==	==	==	==	==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
