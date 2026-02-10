@@ -5,82 +5,84 @@
 !!!PTL@@FR: Chansons Populaires du Canada
 !!!OTL@@FR: Dans Paris ya-t-une brune plus bell' que le jour
 !!!PUB: G. E. Desbarats
-!!!YEM:
 !!!PDT: 1865
-!!!SMA:
-!!!OMD:
 !!!AGN-Laforte:
 !!!AGN-type:
 !!!AGN-rime:
-**kern
-*clefG2
-*k[]
-*d:
-*M2/4
-*
-*
-8.d
-16d
-=1
-8d
-8a
-8a
-8a
-=2
-8b/
-8g
-8g
-8b/
-=3
-4dd
-4cc
+**kern	**text	**text	**text	**text	**text	**text	**text	**text	**text	**text	**text	**text	**text	**text	**text	**text	**text	**text	**text	**text
+*clefG2	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+*k[]	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+*d:	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+*M2/4	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+*	*v:1	*v:1	*v:2	*v:3	*v:4	*v:5	*v:6	*v:7	*v:8	*v:9	*v:10	*v:11	*v:12	*v:13	*v:14	*v:15	*v:16	*v:17	*v:18	*v:19
+*	*pline:1Ha	*pline:1Ha	*pline:2Har	*pline:3Har	*pline:4Har	*pline:5Har	*pline:6Har	*pline:7Har	*pline:8Har	*pline:9Har	*pline:10Har	*pline:11Har	*pline:12Har	*pline:13Har	*pline:14Har	*pline:15Har	*pline:16Har	*pline:17Har	*pline:18Har	*pline:19Har
+8.d	Dans	Dans	Sont	Ils	Le	Je	Et	En-	Al-	Al-	La	Le	Il	Le	A-	Si	Je	Je	Ver-	A
+16d	Pa-	Pa-	trois	se	plus	me	j'i-	-sei-	-lez,	-lez	fil-	ga-	la	che-	-dieu	vous	ne	n'suis	-sez,	la
+=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+8d	-ris,	ris,	bour-	di-	jeun'	f'rai	-rai	-gnez-	Al-	jus-	-lett[e]	-lant	prit	-val	pèr[e]	m'a-	s'rais	point	ver-	san-
+8a	ya-	ya-	-geois	-saient	se	fai-	de	moi	-lez	-qu'à	é-	qu'est	et	blanc	et	-viez	point	bri-	-sez	-té
+8a	t-u-	t-u-	de	l'un	mit	-re	vill[e]	donc,	donc,	la	-tait	fort	il	qui	a-	ma-	dans	-gand,	dans	de
+8a	-ne	-ne	la	à	à	une	en	mes-	ma	bar-	jeu-	a-	l'em-	les	-dieu	-ri-	la	la	mon	la
+=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+8b/	bru-	bru-	vil-	l'au-	di-	sel-	vil-	-da-	fil-	-riè-	-net-	-droit-	-mè-	mè-	mè-	-é-	vil-	bel-	ver-	bel-
+8g	-ne	-ne	-le	-tre:	-re:	-le	-le	-mes,	-le,	-re:	-te,	-te	ne	-ne	-re,	-e	-le	-le,	-re,	-le
+*	*pline:1Hb	*pline:1Hb	*pline:2Hbr	*pline:3Hbr	*pline:4Hbr	*pline:5Hbr	*pline:6Hbr	*pline:7Hbr	*pline:8Hbr	*pline:9Hbr	*pline:10Hbr	*pline:11Hbr	*pline:12Hbr	*pline:13Hbr	*pline:14Hbr	*pline:15Hbr	*pline:16Hbr	*pline:17Hbr	*pline:18Hbr	*pline:19Hbr
+8g	Plus	Plus	Qui	Com-	Moi	Avec	Tou-	Le	A	Re-	Elle a	Lui	Sur	Va	A-	A	Avec	Je	Dans	Et
+8b/	bell'	bell'	lui	-ment	je	tous	-jours	che-	ce	-ve-	'té	a	son	plus	-dieu tous	l'âge	tous	suis	mon	de
+=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+4dd	que	que	font	l'au-	sais	ses	à	-min	pauvre	-nez-	plus	don-	che-	raid'	mes	de	ces	votr[e]	verr',	son
+4cc	le	le	l'a-	-rions-	le	a-	son	des	pas-	vous-	a-	-né la	-val	que le	pa-	quinze	bri-	a-	du	a-
 !!LO:PB:g=original
-=4
-4a
-==|
-8a
-8dd
-=5
-8cc
-8a
-8g
-8a
-=6
-8f
-8d
-8d
-8f
-=7
-4a
-4g
+=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
+4a	jour.	jour;	mour.	nous?	tour:	-tours;	nom.	grands.	-sant;	en.	-vant;	main;	blanc;	vent.	-rents!	ans,	-gands....	-mant.	vin.	-mant;
+*	*pline:2Ha	*pline:2Ha	*pline:3Ha	*pline:4Ha	*pline:5Ha	*pline:6Ha	*pline:7Ha	*pline:8Ha	*pline:9Ha	*pline:10Ha	*pline:11Ha	*pline:12Ha	*pline:13Ha	*pline:14Ha	*pline:15Ha	*pline:16Ha	*pline:17Ha	*pline:18Ha	*pline:19Ha	*pline:20Ha
+==|	==|	==|	==|	==|	==|	==|	==|	==|	==|	==|	==|	==|	==|	==|	==|	==|	==|	==|	==|	==|
+8a	Sont	Sont	Ils	Le	Je	Et	En-	Al-	Al-	La	Le	Il	Le	A-	Si	Je	Je	Ver-	A	A
+8dd	trois	trois	se	plus	me	j'i-	-sei-	-lez,	-lez	fil-	ga-	la	che-	-dieu	vous	ne	n'suis	-sez,	la	son
+=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5
+8cc	bour-	bour-	di-	jeun'	f'rai	-rai	-gnez-	Al-	jus-	-le	-lant	prit	-val	pèr[e]	m'a-	s'rais	point	ver-	san-	pèr[e]
+8a	-geois	-geois	-saient	se	fai-	de	moi	-lez	-qu'à	é-	qu'est	et	blanc	et	-viez	point	bri-	-sez,	-té	et
+8g	de	de	l'un	mit	-re	vill[e]	donc,	donc,	la	-tait	fort	il	qui	a-	ma-	dans	-gand,	dans	de	a
+8a	la	la	à	à	une	en	mes-	ma	bar-	jeu-	a-	l'em-	les	-dieu	-ri-	la	la	mon	la	sa
+=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6
+8f	vil-	vil-	l'au-	di-	sel-	vil-	-da-	fil-	-riè-	-net-	-droit-	-mè-	mè-	mè-	-é-	vil-	bel-	ver-	bel-	mè-
+8d	-le	-le	-tre:	-re:	-le	-le	-mes,	-le,	-re:	-te,	-te	-ne	-ne	-re,	-e	-le	-le,	-re,	-le	-re
+*	*pline:2Hb	*pline:2Hb	*pline:3Hb	*pline:4Hb	*pline:5Hb	*pline:6Hb	*pline:7Hb	*pline:8Hb	*pline:9Hb	*pline:10Hb	*pline:11Hb	*pline:12Hb	*pline:13Hb	*pline:14Hb	*pline:15Hb	*pline:16Hb	*pline:17Hb	*pline:18Hb	*pline:19Hb	*pline:20Hb
+8d	Qui	Qui	Com-	Moi	Avec	Tou-	Le	A	Re-	Elle a	Lui	Sur	Va	A-	A	Avec	Je	Dans	Et	Et à
+8f	lui	lui	-ment	je	tous	-jours	che-	ce	-ve-	'té	a	son	plus	-dieu tous	l'âge	tous	suis	mon	de	tous
+=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7
+4a	font	font	l'au-	sais	ses	à	-min	pauvre	-nez-	plus	don-	che-	raid'	mes	de	ces	votr[e]	verr',	son	ses
+4g	la	l'a-	-rions-	le	a-	son	des	pas-	vous-	a-	-né la	-val	que le	pa-	quinze	bri-	a-	du	a-	pa-
 !!LO:PB:g=original
-=8
-4e
-8f
-8d
-=9
-8c
-8d
-8e
-16f
-16g
-=10
-8.a
-16b
-8cc
-8a
+=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8
+4e	cour.	-mour.	nous?	tour.	-tours.	nom.	grands.	-sant.	en.	-vant.	main.	blanc;	vent.	-rents!	ans....	-gands.	-mant.	vin.	-mant.	-rents.
+*	*pline:2Hbr	*pline:2Hbr	*pline:3Hbr	*pline:4Hbr	*pline:5Hbr	*pline:6Hbr	*pline:7Hbr	*pline:8Hbr	*pline:9Hbr	*pline:10Hbr	*pline:11Hbr	*pline:12Hbr	*pline:13Hbr	*pline:14Hbr	*pline:15Hbr	*pline:16Hbr	*pline:17Hbr	*pline:18Hbr	*pline:19Hbr	*pline:20Hbr
+8f	Qui	Qui	Com-	Moi	Avec	Tou-	Le	A	Re-	Elle a	Lui	Sur	Va	A-	A	Avec	Je	Dans	Et	Et à
+8d	lui	lui	-ment	je	tous	-jours	che-	ce	-ve-	'té	a	son	plus	-dieu tous	l'âge	tous	suis	mon	de	tous
+=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9
+8c	font	font	l'au-	sais	ses	à	-min	pauvre	-nez-	plus	don-	che-	raid'	mes	de	ces	votr[e]	verr',	son	ses
+8d	la	l'a-	-rions-	la	a-	son	des	pas-	vous-	a-	-né la	-val	que le	pa-	quinze	bri-	a-	du	a-	pa-
+8e	cour,	-mour,	nous,	tour,	-tours,	nom,	grands,	-sant,	en,	-vant,	main,	blanc,	vent,	-rents,	ans,	-gands,	-mant,	vin,	-mant,	-rents,
+16f	la	la	la	la	la	la	la	la	la	la	la	la	la	la	la	la	la	la	la	la
+16g	lu-	lu-	lu-	lu-	lu-	lu-	lu-	lu-	lu-	lu-	lu-	lu-	lu-	lu-	lu-	lu-	lu-	lu-	lu-	lu-
+=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10
+8.a	-ret-	-ret-	-ret-	-ret-	-ret-	-ret-	-ret-	-ret-	-ret-	-ret-	-ret-	-ret-	-ret-	-ret-	-ret-	-ret-	-ret-	-ret-	-ret-	-ret-
+16b	-te,	-te,	-te,	-te,	-te,	-te,	-te,	-te,	-te,	-te,	-te,	-te,	-te,	-te,	-te,	-te,	-te,	-te,	-te,	-te,
+*	*pline:2Hbr	*pline:2Hbr	*pline:3Hbr	*pline:4Hbr	*pline:5Hbr	*pline:6Hbr	*pline:7Hbr	*pline:8Hbr	*pline:9Hbr	*pline:10Hbr	*pline:11Hbr	*pline:12Hbr	*pline:13Hbr	*pline:14Hbr	*pline:15Hbr	*pline:16Hbr	*pline:17Hbr	*pline:18Hbr	*pline:19Hbr	*pline:20Hbr
+8cc	Qui	Qui	Com-	Moi	Avec	Tou-	Le	A	Re-	Elle a	Lui	Sur	Va	A-	A	Avec	Je	Dans	Et	Et à
+8a	lui	lui	-ment	je	tous	-jours	che-	ce	-ve-	'té	a	son	plus	-dieu tous	l'âge	tous	suis	mon	de	tous
 !!LO:PB:g=original
-=11
-4a
-4f
-=12
-4d
-==||
-8r
-==||
-*
-*
-==|
-!!!RNB: Key labelled as D Minor w/ empty key sig. but should be D Dorian
+=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11
+4a	font	font	l'au-	sais	ses	à	-min	pauvre	-nez-	plus	don-	che-	raid'	mes	de	ces	votr[e]	verr',	son	ses
+4f	la	l'a-	-rions-	le	a-	son	des	pas-	vous-	a-	-né la	-val	que le	pa-	quinze	bri-	a-	du	a-	pa-
+=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12
+4d	cour.	-mour.	nous?	tour.	-tours.	nom.	grands.	-sant.	en.	-vant.	main.	blanc.	vent.	-rents!	ans....	-gands.	-mant.	vin.	-mant.	-rents.
+==||	==||	==||	==||	==||	==||	==||	==||	==||	==||	==||	==||	==||	==||	==||	==||	==||	==||	==||	==||	==||
+8r	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!RNB: 1st verse is repeated but with the wording slightly varied; therefore, I have included a second iteration of verse 1 (it seems clear to me that they are the same verse but w/ slightly altered lyrics)
+!!!RNB: Phrase from mm.6-8: # of notes frequently does not match # of syllables (5:6); unsure of what to do to make it match
 !!!RNB: Final eighth rest flipped backward in original
-*-
+!!!EED-1: Samuel Boone
+!!!EEV-1: 2026/02/10
