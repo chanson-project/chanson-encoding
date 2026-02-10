@@ -18,7 +18,7 @@
 *a:	*	*	*	*	*	*	*	*	*
 *M2/4	*	*	*	*	*	*	*	*	*
 *	*v:1	*v:2	*v:3	*v:4	*v:5	*v:6	*v:7	*v:8	*v:9
-*	*pline:1	*pline:5	*pline:9	*pline:13	*pline:17	*pline:21	*pline:25	*pline:29	*pline:33
+*	*pline:1	*pline:3r	*pline:5r	*pline:6r	*pline:7r	*pline:8r	*pline:9r	*pline:10r	*pline:11r
 !LO:TX:a:i:t=Voix seule, reprise en chœur.	!	!	!	!	!	!	!	!	!
 8e	Mon	En-	Le	Il	Ma	Nen-	Car	Fil-	'Vou-
 8a	pèr'	-cor	ma-	de-	mi-	-ni,	si	-le	-lez-
@@ -31,7 +31,7 @@
 =2	=2	=2	=2	=2	=2	=2	=2	=2	=2
 8aL	moi,	-voie.	-nait	moi.	moi.	-rais.	-vait,	moi.	-rait?
 8gJ	.	.	.	.	.	.	.	.	.
-*	*pline:2	*pline:6	*pline:10	*pline:14	*pline:18	*pline:22	*pline:26	*pline:30	*pline:34
+*	*pline:2	*pline:2r	*pline:2r	*pline:2r	*pline:2r	*pline:2r	*pline:2r	*pline:2r	*pline:2r
 16e	Je	Je	Je	Je	Je	Je	Je	Je	Je
 16a	le	le	le	le	le	le	le	le	le
 16a	mè-	mè-	mè-	mè-	mè-	mè-	mè-	mè-	mè-
@@ -45,7 +45,7 @@
 =4	=4	=4	=4	=4	=4	=4	=4	=4	=4
 8a	-doi'!	-doi'!	-doi'!	-doi'!	-doi'!	-doi'!	-doi'!	-doi'!	-doi'!
 =:|!;	=:|!;	=:|!;	=:|!;	=:|!;	=:|!;	=:|!;	=:|!;	=:|!;	=:|!;
-*	*pline:3	*pline:7	*pline:11	*pline:15	*pline:19	*pline:23	*pline:27	*pline:31	*pline:35
+*	*pline:3	*pline:5	*pline:6	*pline:7	*pline:8	*pline:9	*pline:10	*pline:11	*pline:12
 !LO:TX:a:i:t=Voix seule.	!	!	!	!	!	!	!	!	!
 8e	En-	Le	Il	Ma	Nen-	Car	Fil-	'Vou-	Ce
 8a	-cor	ma-	de-	mi-	-ni,	si	-le	-lez-	se-
@@ -58,7 +58,7 @@
 !!LO:PB:g=original
 =6	=6	=6	=6	=6	=6	=6	=6	=6	=6
 4b	voi',	-nait	moi.	moi.	-rais.	-vait,	moi.	-rait?	bois.
-*	*pline:4	*pline:8	*pline:12	*pline:16	*pline:20	*pline:24	*pline:28	*pline:32	*pline:36
+*	*pline:4	*pline:4r	*pline:4r	*pline:4r	*pline:4r	*pline:4r	*pline:4r	*pline:4r	*pline:4r
 8cc	Moi-	Moi-	Moi-	Moi-	Moi-	Moi-	Moi-	Moi-	Moi-
 8a	z-et	z-et	z-et	z-et	z-et	z-et	z-et	z-et	z-et
 =7	=7	=7	=7	=7	=7	=7	=7	=7	=7
