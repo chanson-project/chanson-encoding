@@ -5,102 +5,103 @@
 !!!PTL@@FR: Chansons Populaires du Canada
 !!!OTL@@FR: Un jour l'envi m'a pris de déserter de France
 !!!PUB: G. E. Desbarats
-!!!YEM:
 !!!PDT: 1865
-!!!SMA:
-!!!OMD:
 !!!AGN-Laforte:
 !!!AGN-type:
 !!!AGN-rime:
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-*
-*
-8g
-=1
-4b/
-8d
-=2
-4e
-8e
-=3
-[4.g
-=4
-4g]
-8g
-=5
-4cc
-8cc
+**kern	**text	**text	**text	**text	**text	**text
+*clefG2	*	*	*	*	*	*
+*k[f#]	*	*	*	*	*	*
+*G:	*	*	*	*	*	*
+*M3/8	*	*	*	*	*	*
+*	*v:1	*v:2	*v:3	*v:4	*v:5	*v:6
+*	*pline:1Ha	*pline:6Ha	*pline:11Ha	*pline:16Ha	*pline:21Ha	*pline:26Ha
+8g	Un	Je	Le	Ils	Ti-	Ils
+=1	=1	=1	=1	=1	=1	=1
+4b/	jour	vois	pre-	m'ont	-rez-	l'ont
+8d	l'en-	ve-	-mier	pris,	moi	pris,
+=2	=2	=2	=2	=2	=2	=2
+4e	-vie	-nir,	que	ils	droit	ils
+8e	m'a	là-	je	m'em-	au	l'em-
+=3	=3	=3	=3	=3	=3	=3
+[4.g	pris	bas,	tuai,	-mènent,	cœur	-mènent,
+=4	=4	=4	=4	=4	=4	=4
+4g]	.	.	.	.	.	.
+*	*pline:1Hb	*pline:6Hb	*pline:11Hb	*pline:16Hb	*pline:21Hb	*pline:26Hb
+8g	De	Ah!	Ce	C'est	Ou	C'est
+=5	=5	=5	=5	=5	=5	=5
+4cc	dé-	cinq	fut	à	bien	à
+8cc	-ser-	ou	mon	la	dans	la
 !!LO:PB:g=original
-=6
-8ccq
-4dd
-8cc
-=7
-8bq
-4.g
-=8
-4a
-=:|!
-8r
-=9
-8a
-8b/
-8cc
-=10
-4dd
-8dd
+=6	=6	=6	=6	=6	=6	=6
+8ccq	.	.	.	.	.	.
+4dd	-ter	six	ca-	ci-	la	Pla-
+8cc	de	gen-	-pi-	-ta-	cer-	-ce
+=7	=7	=7	=7	=7	=7	=7
+8bq	.	.	.	.	.	.
+4.g	Fran-	-dar-	-tai-	-del-	-vel-	d'Ar-
+=8	=8	=8	=8	=8	=8	=8
+4a	-ce.	-mes.	-ne.	-le.	-le.	-mes.
+=:|!	=:|!	=:|!	=:|!	=:|!	=:|!	=:|!
+8r	.	.	.	.	.	.
+*	*pline:2	*pline:7	*pline:12	*pline:17	*pline:22	*pline:27
+=9	=9	=9	=9	=9	=9	=9
+8a	Dans	J'ai	Mon	Mon	Ce-	Lui
+8b/	mon	.	.	.	.	.
+8cc	che-	mis	ca-	pro-	-lui	ont
+=10	=10	=10	=10	=10	=10	=10
+4dd	-min	mon	-pi-	-cès	qui	ban-
+8dd	j'ai	.	.	.	.	.
 !!LO:PB:g=original
-=11
-4b/
-8g
-=12
-!LO:TX:a:i:t=mesure.
-!LO:TX:a:i:t=passe cette
-!LO:TX:a:i:t=couplets on
-!LO:TX:a:i:t=Dans les autres
-4g
-8.
-=13
-4cc
-8cc
-=14
-8bL
-8ccJ
-8b
-=15
-8aL
-8gJ
-8f#
-=16
-4.g
+=11	=11	=11	=11	=11	=11	=11
+4b/	ren-	ha-	-tain[e]	fut	m'ai-	-dé
+8g	-con-	-bit	est	ju-	-me-	les
+=12	=12	=12	=12	=12	=12	=12
+!LO:TX:a:i:t=mesure.	!	!	!	!	!	!
+!LO:TX:a:i:t=passe cette	!	!	!	!	!	!
+!LO:TX:a:i:t=couplets on	!	!	!	!	!	!
+!LO:TX:a:i:t=Dans les autres	!	!	!	!	!	!
+4g	-tré	bas,	mort,	-gé	-ra,	yeux
+*	*pline:3	*pline:8	*pline:13	*pline:18	*pline:23	*pline:28
+8.	Ma	Mon	Et	Par	Droit	A-
+=13	=13	=13	=13	=13	=13	=13
+4cc	char-	sa-	je	qua-	au	-vec
+8cc	-man-	-bre-	m'en	-tre	cœur	un
+=14	=14	=14	=14	=14	=14	=14
+8bL	-te	z-à	sou-	gre-	ti-	mou-
+8ccJ	.	.	.	.	.	.
+8b	beau-	la	-ci'	-na-	-re-	-choir
+=15	=15	=15	=15	=15	=15	=15
+8aL	-té;	main;	fort;	-diers:	-ra,	blanc....
+8gJ	.	.	.	.	.	.
+*	*pline:4	*pline:9	*pline:14	*pline:19	*pline:24	*pline:29
+8f#	Je	Je	Il	C'est	Pour	Je
+=16	=16	=16	=16	=16	=16	=16
+4.g	me	me	est	d'ê-	me	me
 !!LO:PB:g=original
-=17
-8g
-8a
-8b/
-=18
-4.cc
-=19
-8a
-8cc
-8ee
-=20
-4dd
-8d
-=21
-4g
-==||
-8r
-==||
-*
-*
-==|
+=17	=17	=17	=17	=17	=17	=17
+8g	suis	suis	mort	-tre	fai-	suis
+8a	ar-	bat-	en	fu-	-re	é-
+8b/	-rê-	-tu	ce	-sil-	mou-	-cri-
+=18	=18	=18	=18	=18	=18	=18
+4.cc	-té:	là	jour:	-lé	-rir	-é:
+*	*pline:5	*pline:10	*pline:15	*pline:20	*pline:25	*pline:30
+=19	=19	=19	=19	=19	=19	=19
+8a	C'é-	Comm[e]	De-	Ou	Sans	La
+8cc	-tait	un	-main	bien	me	bell[e]
+8ee	pour	vail-	se-	d'ê-	fair'	est
+=20	=20	=20	=20	=20	=20	=20
+4dd	lui	-lant	-ra	-tre	trop	sans
+8d	par-	sol-	mon	tran-	souf-	a-
+=21	=21	=21	=21	=21	=21	=21
+4g	-ler.	-dat.	tour.	-ché!	-frir.	-mant!...
+==	==	==	==	==	==	==
+8r	.	.	.	.	.	.
+==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-
 !!!RWG: Second note (beat 3) of m.12 completely whited out & unintelligible in original
 !!!RNB: Text formatted a little strangely above m.12 to clearly indicate application to only that particular measure, as is the case in original
 !!!RWG: Grace beamed 16th notes from 'b' to 'dd' on first beat of m.14 in upper voice
 !!!RWG: Final note of m.19 unclear, either 'ee' or 'dd' (I find 'ee' more likely, which is what is currently marked)
-*-
+!!!EED-1: Samuel Boone
+!!!EEV-1: 2026/02/10
