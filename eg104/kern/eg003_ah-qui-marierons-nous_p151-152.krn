@@ -5,83 +5,89 @@
 !!!PTL@@FR: Chansons Populaires du Canada
 !!!OTL@@FR: Ah! Qui marierons-nous?
 !!!PUB: G. E. Desbarats
-!!!YEM:
 !!!PDT: 1865
-!!!SMA:
-!!!OMD:
 !!!AGN-Laforte:
 !!!AGN-type:
 !!!AGN-rime:
-**kern
-*clefG2
-*k[b-]
-*F:
-*M2/4
-*
-*
-8f
-8f
-8a
-=1
-4cc
-4dd
-=2
-8cc
-8dd
-8cc
-8b-
-=3
-4a
-4g
+**kern	**text	**text	**text	**text
+*clefG2	*	*	*	*
+*k[b-]	*	*	*	*
+*F:	*	*	*	*
+*M2/4	*	*	*	*
+*	*v:1	*v:2	*v:3	*v:4
+*	*pline:1	*pline:4	*pline:6	*pline:8
+8f	Ah!	'Lui	A-	A-
+8f	qui	donn'-	-mours,	-mours,
+8a	ma-	-rons	sa-	re-
+=1	=1	=1	=1	=1
+4cc	-ri'-	pour	-lu-	-ti-
+4dd	-rons-	é-	-ez	-rez
+=2	=2	=2	=2	=2
+8cc	nous?	-poux?	vous!	vous!
+*	*pline:1r	*pline:4r	*pline:6r	*pline:8r
+8dd	Ah!	'Lui	A-	A-
+8cc	qui	donn'-	-mours,	-mours,
+8b-	ma-	-rons	sa-	re-
+=3	=3	=3	=3	=3
+4a	-ri'-	-pour	-lu-	-ti-
+4g	-rons-	é-	-ez	-rez
 !!LO:PB:g=original
-=4
-4f
-8g
-16g
-16g
-=5
-8g
-8a
-8b-/
-8b-/
-=6
-8a
-8b-
-8cc
-8a
+=4	=4	=4	=4	=4
+4f	nous?	-poux?	vous!	vous!
+*	*pline:2	*pline:5	*pline:7	*pline:9
+8g	Ma-	Mon	Sa-	Re-
+16g	-de-	doux	-lu-	-ti-
+16g	-moi-	mon-	-ez	-rez
+=5	=5	=5	=5	=5
+8g	-sell',	-sieur,	vous	vous
+8a	ce	ce	cinq	cha-
+8b-/	se-	se-	ou	-cun
+8b-/	-ra	-ra	six	chez
+=6	=6	=6	=6	=6
+8a	vous,	vous,	coups,	vous,
+*	*pline:3	*pline:3r	*pline:3r	*pline:3r
+8b-	Par	Par	Par	Par
+8cc	l'as-	l'as-	l'as-	l'as-
+8a	-sem-	-sem-	-sem-	-sem-
 !!LO:PB:g=original
-=7
-4f
-4g
-=8
-4c
-8g
-16g
-16g
-=9
-8g
-8a
-8b-/
-8b-/
+=7	=7	=7	=7	=7
+4f	-blé'	-blé'	-blé'	-blé'
+4g	d'a-	d'a-	d'a-	d'a-
+=8	=8	=8	=8	=8
+4c	-mour.	-mour.	-mour.	-mour.
+*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain
+*	*refrain	*	*	*
+*	*italic	*	*	*
+*	*pline:R1	*	*	*
+8g	Oui	.	.	.
+16g	j'ai-	.	.	.
+16g	-me-	.	.	.
+=9	=9	=9	=9	=9
+8g	-rai	.	.	.
+8a	qui	.	.	.
+8b-/	m'aim....	.	.	.
+8b-/	qui	.	.	.
 !!LO:PB:g=original
-=10
-8a
-8f
-8cc
-16dd
-16ee
-=11
-8ff
-8b-
-4a
-=12
-4g
-8f
-8r
-==||
-*
-*
-==|
+=10	=10	=10	=10	=10
+8a	m'ai-	.	.	.
+8f	-me....	.	.	.
+*	*pline:R1r	*	*	*
+8cc	Oui	.	.	.
+16dd	j'ai-	.	.	.
+16ee	-me-	.	.	.
+=11	=11	=11	=11	=11
+8ff	-rai	.	.	.
+8b-	qui	.	.	.
+4a	m'ai-	.	.	.
+=12	=12	=12	=12	=12
+4g	-me-	.	.	.
+8f	-ra.	.	.	.
+8r	.	.	.	.
+*	*Xitalic	*	*	*
+*	*Xrefrain	*	*	*
+==	==	==	==	==
+*-	*-	*-	*-	*-
 !!!RNB: First measure not a full two beats so counted as pickup, despite final measure being complete
 !!!RNB: Upper voice quarter note 'ff' above 'dd' in m.1b2
-*-
+!!!EEV-1: Samuel Boone
+!!!EED-1: 2026/03/09
