@@ -5,87 +5,92 @@
 !!!PTL@@FR: Chansons Populaires du Canada
 !!!OTL@@FR: En revenant de la joli' Rochelle
 !!!PUB: G. E. Desbarats
-!!!YEM:
 !!!PDT: 1865
-!!!SMA:
-!!!OMD:
 !!!AGN-Laforte:
 !!!AGN-type:
 !!!AGN-rime:
-**kern
-*clefG2
-*k[]
-*d:
-*M2/4
-*
-*
-=1
-2f
-=2
-4g
-4e
-=3
-4.d
-8e
-=4
-4f
-4a
-=5
-4g
-4a
-=6
-4f
-4d
+**kern	**text	**text	**text	**text	**text	**text	**text	**text	**text	**text	**text	**text
+*clefG2	*	*	*	*	*	*	*	*	*	*	*	*
+*k[]	*	*	*	*	*	*	*	*	*	*	*	*
+*d:	*	*	*	*	*	*	*	*	*	*	*	*
+*M2/4	*	*	*	*	*	*	*	*	*	*	*	*
+*	*v:1	*v:2	*v:3	*v:4	*v:5	*v:6	*v:7	*v:8	*v:9	*v:10	*v:11	*v:12
+*	*pline:1	*pline:2r	*pline:3r	*pline:4r	*pline:5r	*pline:6r	*pline:7r	*pline:8r	*pline:9r	*pline:10r	*pline:11r	*pline:12r
+=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+2f	En	J'ai	J'ai	J'l'y	J'y	Au	Je	Quand	Je	Quand	À	À
+=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+4g	re-	ren-	point	fis	fis	bout	l'ai	ell'	l'ai	ell'	la	la
+4e	-ve-	-con-	choi-	mon-	cent	des	me-	fut	me-	fut	san-	san-
+=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+4.d	-nant	tré	-si,	-ter	lieu's	cent	-né[e]	là,	-né[e]	là,	-té	-té
+8e	de	trois	mais	der-	sans	lieu's	au-	ell'	au	ell'	de	de
+=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
+4f	la	jo-	j'ai	-rièr'	par-	ell'	-près	ne	lo-	bu-	son	ses
+4a	jo-	-li's	pris	moi	-ler	m'd'man-	d'u-	vou-	-gis	-vait	père	sœurs
+=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5
+4g	-li'	de-	la	sur	a-	-dit	-ne	-lut	de	à	et	et
+4a	Ro-	-moi-	plus	ma	-vec	à	fon-	point	son	pleins	sa	ses
+=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6
+4f	-chel-	-sel-	bel-	sel-	el-	boi-	-tai-	boi-	pè-	ver-	mè-	frè-
+4d	-le,	-les;	-le;	-le;	-le;	-re;	-ne;	-re;	-re;	-res;	-re;	-res;
+*	*pline:2	*pline:3	*pline:4	*pline:5	*pline:6	*pline:7	*pline:8	*pline:9	*pline:10	*pline:11	*pline:12	*pline:13
 !!LO:PB:g=original
-=7:|!
-2a
-=8
-4b/
-4a
-=9
-4.g
-8f
-=10
-4e
-4f
-=11
-4g
-4a
-=12
-4f
-8d
-8d
-=13
-4f
-4a
+=7:|!	=7:|!	=7:|!	=7:|!	=7:|!	=7:|!	=7:|!	=7:|!	=7:|!	=7:|!	=7:|!	=7:|!	=7:|!
+2a	J'ai	J'ai	J'l'y	J'y	Au	Je	Quand	Je	Quand	À	À	À
+=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8
+4b/	ren-	point	fis	fis	bout	l'ai	ell'	l'ai	ell'	la	la	la
+4a	-con-	choi-	mon-	cent	des	me-	fut	me-	fut	san-	san-	san-
+=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9
+4.g	-tré	-si,	-ter	lieu's	cent	-né[e]	là,	-né[e]	là,	-té	-té	-té
+8f	trois	mais	der-	sans	lieu's	au-	ell'	au	ell'	de	de	d'ce-
+=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10
+4e	jo-	j'ai	-rièr'	par-	ell'	-près	ne	lo-	bu-	son	ses	-lui
+4f	-li's	pris	moi	-ler	m'd'man-	d'u-	vou-	-gis	-vait	père	sœurs	que
+=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11
+4g	de-	la	sur	a-	-dit	-ne	-lut	de	à	et	et	son
+4a	-moi-	plus	ma	-vec	à	fon-	point	son	pleins	sa	ses	cœur
+=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12
+4f	-sell's.	belle.	selle.	elle.	boire.	-taine.	boire.	père.	verres.	mère.	frères.	aime.
+*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain
+*	*refrain	*	*	*	*	*	*	*	*	*	*	*
+*	*italic	*	*	*	*	*	*	*	*	*	*	*
+*	*pline:R1	*	*	*	*	*	*	*	*	*	*	*
+8d	La	.	.	.	.	.	.	.	.	.	.	.
+8d	voi-	.	.	.	.	.	.	.	.	.	.	.
+=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13
+4f	-là	.	.	.	.	.	.	.	.	.	.	.
+4a	ma	.	.	.	.	.	.	.	.	.	.	.
 !!LO:PB:g=original
-=14
-4a
-8g
-8f
-=15
-4e
-4e
-=16
-4f
-8e
-8d
-=17
-4f
-4a
+=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14
+4a	mi'	.	.	.	.	.	.	.	.	.	.	.
+8g	qu'mon	.	.	.	.	.	.	.	.	.	.	.
+8f	cœur	.	.	.	.	.	.	.	.	.	.	.
+=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15
+4e	ai-	.	.	.	.	.	.	.	.	.	.	.
+4e	-me	.	.	.	.	.	.	.	.	.	.	.
+=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16
+4f	tant,	.	.	.	.	.	.	.	.	.	.	.
+*	*pline:R1r	*	*	*	*	*	*	*	*	*	*	*
+8e	La	.	.	.	.	.	.	.	.	.	.	.
+8d	voi-	.	.	.	.	.	.	.	.	.	.	.
+=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17
+4f	-là	.	.	.	.	.	.	.	.	.	.	.
+4a	ma	.	.	.	.	.	.	.	.	.	.	.
 !!LO:PB:g=original
-=18
-4a
-8g
-8e
-=19
-(4.f
-8e)
-=20
-2d
-==||
-*
-*
-==|
-!!!RNB: Key should be in D Dorian but labelled as D Minor with empty key sig.
-*-
+=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18
+4a	mi'	.	.	.	.	.	.	.	.	.	.	.
+8g	qu'mon	.	.	.	.	.	.	.	.	.	.	.
+8e	cœur	.	.	.	.	.	.	.	.	.	.	.
+=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19
+(4.f	ai-	.	.	.	.	.	.	.	.	.	.	.
+8e)	.	.	.	.	.	.	.	.	.	.	.	.
+=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20
+2d	-me!	.	.	.	.	.	.	.	.	.	.	.
+*	*Xitalic	*	*	*	*	*	*	*	*	*	*	*
+*	*Xrefrain	*	*	*	*	*	*	*	*	*	*	*
+==	==	==	==	==	==	==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!RWG: Too many syllables in second half of verse 5 (& first half of verse 6), so put "me" and "d'man-" on the same syllable (to "m'd'man-")
+!!!RWG: Misspelling in final lines of song; changed "A la santé..." to "À la santé..."
+!!!EEV-1: Samuel Boone
+!!!EED-1: 2026/03/09
