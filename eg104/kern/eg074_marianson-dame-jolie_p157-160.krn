@@ -5,76 +5,74 @@
 !!!PTL@@FR: Chansons Populaires du Canada
 !!!OTL@@FR: Marianson, dame jolie
 !!!PUB: G. E. Desbarats
-!!!YEM:
 !!!PDT: 1865
-!!!SMA:
-!!!OMD:
 !!!AGN-Laforte:
 !!!AGN-type:
 !!!AGN-rime:
-**kern
-*clefG2
-*k[]
-*C:
-*M2/4
-*
-*
-16cc
-8cc
-8cc
-=1
-8ccq
-8.b
-16cc
-8dd
-8dd
-=2
-8ddq
-8.a
-16b
-8cc
-8cc
+**kern	**text	**text	**text	**text	**text	**text	**text	**text	**text	**text	**text	**text	**text	**text	**text	**text	**text	**text	**text	**text	**text	**text	**text	**text	**text	**text	**text	**text	**text
+*clefG2	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+*k[]	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+*C:	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+*M2/4	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+*	*v:1	*v:2	*v:3	*v:4	*v:5	*v:6	*v:7	*v:8	*v:9	*v:10	*v:11	*v:12	*v:13	*v:14	*v:15	*v:16	*v:17	*v:18	*v:19	*v:20	*v:21	*v:22	*v:23	*v:24	*v:25	*v:26	*v:27	*v:28	*v:29
+*	*pline:1Ha	*pline:2Ha	*pline:3Ha	*pline:4Ha	*pline:5Ha	*pline:6Ha	*pline:7Ha	*pline:8Ha	*pline:9Ha	*pline:10Ha	*pline:11Ha	*pline:12Ha	*pline:13Ha	*pline:14Ha	*pline:15Ha	*pline:16Ha	*pline:17Ha	*pline:18Ha	*pline:19Ha	*pline:20Ha	*pline:21Ha	*pline:22Ha	*pline:23Ha	*pline:24Ha	*pline:25Ha	*pline:26Ha	*pline:27Ha	*pline:28Ha	*pline:29Ha
+16cc	Ma-	Mon	Ma-	Il	Bel	Qu'ils	Quand	Le	Ah!	Ah!	Ma-	Oui,	Tu	Sa	Il	Ah!	Ah!	A	A	Ma-	Il	Au	Ma-	Ils	Il	Ma-	Le	Ma-	Oui
+8cc	-ri-	ma-	-ri-	sont	or-	soy-	il	pre-	bon-	des	-ri-	je	as	femm'	est	ma-	tiens,	l'en-	pris	-ri-	a	bout	-ri-	sont	n'eut	-ri-	bon	-ri-	ma
+8cc	-an-	-ri	-an-	dans	-fé-	-ent	a	-mier	-jour	nou-	-an-	le	men-	qu'é-	ma-	-man	mon	-fant	l'en-	-an-	mar-	des	-an-	dans	pas	-an-	chi-	-an-	mort
+=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+8ccq	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+8.b	-son,	est	-son,	l'coffr[e],	-vrier,	faits	eu	qu'il	donc	-vell's	-son,	crois,	-ti!	-tait	-lade	mon-	fils,	je	-fant	-son,	-ché	trois	-son,	l'coffr[e],	fait	-son,	-rur-	-son,	vous
+16cc	da-	al-	da-	au	bel	aus-	ses	a	franc	je	da-	je	franc	sur	ou	-tre-	voi-	donn'-	par	par	trois	jours	da-	au	trois	da-	-gien	da-	est
+8dd	-me	-lé-	-me	pied	or-	-si	trois	ren-	ca-	n'en	-me	le	ca-	les	bien	lui	-là	-rai	le	les	jours,	et	-me	pied	tours	-me	qu'il	-me	par-
+8dd	jo-	z-en	Jo-	du	-fé-	par-	an-	-con-	-va-	ai	jo-	dé-	-va-	ram-	fa-	son	ton	un	mai-	che-	trois	trois	jo-	du	de	jo-	me	jo-	-don-
+=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+8ddq	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+8.a	-li[e],	guerr[e],	-li[e],	lit;	-vrier,	-faits	-neaux,	-tré,	-lier;	pas,	-li[e],	-crois:	-lier:	-parts,	-ché,	fils:	fils.	nom,	-llot,	-veux,	nuits,	nuits,	-li[e],	lit;	clef,	-lie,	faut,	-lie,	-née,
+*	*pline:1Hb	*pline:2Hb	*pline:3Hb	*pline:4Hb	*pline:5Hb	*pline:6Hb	*pline:7Hb	*pline:8Hb	*pline:9Hb	*pline:10Hb	*pline:11Hb	*pline:12Hb	*pline:13Hb	*pline:14Hb	*pline:15Hb	*pline:16Hb	*pline:17Hb	*pline:18Hb	*pline:19Hb	*pline:20Hb	*pline:21Hb	*pline:22Hb	*pline:23Hb	*pline:24Hb	*pline:25Hb	*pline:26Hb	*pline:27Hb	*pline:28Hb	*pline:29Hb
+16b	Où	Ah!	Prê-	Ah!	Fai-	Comm'	Sur	C'é-	Quell'	Que	Ell'	Voi	Ma	Et	C'est	Ça	Quel	A	Trois	A	Sans	A	Où	Ah!	Ses	Quel	C'est	Vo-	Non
+8cc	est	je	-tez-	prends	-tes-	les	son	-tait	nou-	les	m'a	à	fem-	qui	u-	lui	nom	la	fois	son	re-	re-	sont	prends	trois	bon	un	-tre	pas
+8cc	al-	ne	moi	les	moi	ceuz'	che-	l'ma-	-vell'	ceuz'	é-	les	-me	le	-ne	ré-	donn'-	mèr[e],	par	che-	-gar-	-gar-	les	les	an-	chi-	bon	mort	la
 !!LO:PB:g=original
-=3
-8ccq
-8.b
-16b
-8g
-8g
-=4
-8a
-16r
-16g
-8e\
-8g\
-=5
-8.g\
-16a\
-8b
-8cc
+=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+8ccq	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+8.b	-lé	sais	vos	clefs	des	de	-val	-ri	m'as-	de	-té	an-	m'est	voit	chos'	-jou-	-ras-	un	terr[e]	-val	-der	-dé	an-	clefs	-neaux	-rur-	drap	m'est-	cell'
+16b	vo-	s'il	an-	et	an-	Ma-	est	d'Maa-	tu	Ma-	fi-	-neaux	fi-	ve-	bien	-i-	tu	mau-	il	l'a-	par	par	-neaux	et	d'or	-gien	pour	ell'	du
+8g	-tre	re-	-neaux	va	-neaux	-ri-	em-	-ri-	ap-	-ri-	-dèl[e]	de	-dèl[e]	-nir	as-	-ra	à	-vais	l'a	t-at-	der-	der-	de	va	a	vous	m'en-	par-	nou-
+8g	ma-	-vien-	do-	les	do-	-an-	-bar-	-an-	-por-	-an-	as-	ses	as-	là-	-su-	l'es-	ton	re-	je-	-ta-	-rièr'	-rièr'	tes	les	trou-	faut-	-sev'-	-don-	-veau-
+=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
+8a	-ri?	-dra.	-rés.	qu'ri'.	-rés.	-son.	-qué.	-son.	-tée?	-son.	-sez.	doigts.	-sez.	bas:	-rée.	-prit.	fils?	-nom.	-té.	-chée.	lui.	lui.	doigts?	qu'ri'.	-vés.	il?	-lir.	-née?	né....
+16r	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+*	*pline:1Har	*pline:2Har	*pline:3Har	*pline:4Har	*pline:5Har	*pline:6Har	*pline:7Har	*pline:8Har	*pline:9Har	*pline:10Har	*pline:11Har	*pline:12Har	*pline:13Har	*pline:14Har	*pline:15Har	*pline:16Har	*pline:17Har	*pline:18Har	*pline:19Har	*pline:20Har	*pline:21Har	*pline:22Har	*pline:23Har	*pline:24Har	*pline:25Har	*pline:26Har	*pline:27Har	*pline:28Har	*pline:29Har
+16g	Ma-	Mon	Ma-	Il	Bel	Qu'ils	Quand	Le	Ah!	Ah!	Ma-	Oui,	Tu	Sa	Il	Ah!	Ah!	A	A	Ma-	Il	Au	Ma-	Ils	Il	Ma-	Le	Ma-	Oui
+8e\	-ri-	ma-	-ri-	sont	or-	soy-	il	pre-	bon-	des	-ri-	je	as	femm'	est	ma-	tiens,	l'en-	pris	-ri-	a	bout	-ri-	sont	n'eut	-ri-	bon	-ri-	ma
+8g\	-an-	-ri	-an-	dans	-fé-	-ent	a	-mier	-jour	nou-	-an-	le	men-	qu'é-	ma-	-man	mon	-fent	l'en-	-an-	mar-	des	-an-	dans	pas	-an-	chi-	-an-	mort
+=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5
+8.g\	-son,	est	-son,	l'coffr[e],	-vrier,	faits	eu	qu'il	donc	-vell's	-son,	crois,	-ti!	-tait	-lade	mon-	fils,	je	-fant	-son,	-ché	trois	-son,	l'coffr[e],	fait	-son,	-rur-	-son,	vous
+16a\	da-	al-	da-	au	bel	aus-	ses	a	franc	je	da-	je	franc	sur	ou	-tre-	voi-	donn'-	par	par	trois	jours	da-	au	trois	da-	-gien	da-	est
+8b	-me	-lé-	-me	pied	or-	-si	trois	ren-	ca-	n'en	-me	le	ca-	les	bien	lui	-là	-rai	le	les	jours,	et	-me	pied	tours	-me	qu'il	-me	par-
+8cc	jo-	z-en	jo-	du	-fé-	par-	an-	-con-	-va-	ai	jo-	dé-	-va-	ram-	fa-	son	ton	un	mai-	che-	trois	trois	jo-	du	de	jo-	me	jo-	-don-
 !!LO:PB:g=original
-=6
-8.dd
-16cc
-8a
-8cc
-=7
-4.dd
-16cc
-8a
-8dd
-=8
-8cc
-16r
-==||
-16r
-8r
-==||
-*
-*
-==|
+=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6
+8.dd	-li[e],	guerr[e],	-li[e],	lit;	-vrier,	-faits	-neaux,	-tré,	-lier;	pas,	-li[e],	-crois:	-lier:	-parts,	-ché,	fils:	fils.	nom,	-llot,	-veux,	nuits,	nuits,	-li[e],	lit;	clef,	-lie,	faut,	-lie,	-née,
+*	*pline:1Hbr	*pline:2Hbr	*pline:3Hbr	*pline:4Hbr	*pline:5Hbr	*pline:6Hbr	*pline:7Hbr	*pline:8Hbr	*pline:9Hbr	*pline:10Hbr	*pline:11Hbr	*pline:12Hbr	*pline:13Hbr	*pline:14Hbr	*pline:15Hbr	*pline:16Hbr	*pline:17Hbr	*pline:18Hbr	*pline:19Hbr	*pline:20Hbr	*pline:21Hbr	*pline:22Hbr	*pline:23Hbr	*pline:24Hbr	*pline:25Hbr	*pline:26Hbr	*pline:27Hbr	*pline:28Hbr	*pline:29Hbr
+16cc	Où	Ah!	Prê-	Ah!	Fai-	Comm'	Sur	C'é-	Quell'	Que	Ell'	Voi	Ma	Et	C'est	Ça	Quel	A	Trois	A	Sans	A	Où	Ah!	Ses	Quel	C'est	Vo-	Non
+8a	est	je	-tez-	prends	-tes-	les	son	-tait	nou-	les	m'a	à	fem-	qui	u-	lui	nom	la	fois	son	re-	re-	sont	prends	trois	bon	un	-tre	pas
+8cc	al-	ne	moi	les	moi	ceuz'	che-	l'ma-	-vell'	ceuz'	é-	les	-me	le	-ne	ré-	donn'-	mèr[e],	par	che-	-gar-	-gar-	les	les	an-	chi-	bon	mort	la
+=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7
+4.dd	-lé	sais	vos	clefs	des	de	-val	-ri	m'as-	de	-té	an-	m'est	voit	chos'	-jou-	-ras-	un	terr[e]	-val	-der	-dé	an-	clefs	-neaux	-rur-	drap	m'est-	cell'
+16cc	vo-	s'il	an-	et	an-	Ma-	est	d'Ma-	tu	Ma-	fi-	-neaux	fi-	ve-	bien	-i-	tu	mau-	il	l'a-	par	par	-neaux	et	d'or	-gien	pour	ell'	du
+8a	-tre	re-	-neaux	va	-neaux	-ri-	em-	-ri-	ap-	-ri-	dèl[e]	de	dèl[e]	-nir	as-	-ra	à	-vais	l'a	t-at-	der-	der-	de	va	a	vous	m'en-	par-	nou-
+8dd	ma-	-vien-	do-	les	do-	-an-	-bar-	-an-	-por-	-an-	as-	ses	as-	là-	-su-	l'es-	ton	re-	je-	-ta-	-rièr'	-rièr'	tes	les	trou-	faut-	-sev'-	-don-	-veau-
+=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8
+8cc	-ri?	-dra.	-rés.	qu'ri'.	-rés.	-son.	-qué.	-son.	-tée?	-son.	-sez.	doigts.	-sez.	bas:	-rée.	-prit.	fils?	-nom.	-té.	-chée.	lui.	lui.	doigts?	qu'ri'.	-vés.	il?	-lir.	-née?	né....
+16r	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+==||	==||	==||	==||	==||	==||	==||	==||	==||	==||	==||	==||	==||	==||	==||	==||	==||	==||	==||	==||	==||	==||	==||	==||	==||	==||	==||	==||	==||	==||
+16r	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+4r	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
 !!!RWG: Third note of pickup measure probably a 'cc' but slightly unclear in original
 !!!RNB: Choice of pickup measure designated by original seems a little odd but preserved nonetheless
-!!!RWG: Notes with upper voices are written as "[note value][pitch name]" above notes on score until second voice is added
-!!!RNB: Final eighth rest flipped backward in original
-*-
+!!!RWG: Notes with upper voices still need to be added
+!!!EEV-1: Samuel Boone
+!!!EED-1: 2026/03/08
