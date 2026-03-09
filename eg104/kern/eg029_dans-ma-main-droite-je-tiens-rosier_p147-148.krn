@@ -5,86 +5,86 @@
 !!!PTL@@FR: Chansons Populaires du Canada
 !!!OTL@@FR: Dans ma main droite je tiens rosier
 !!!PUB: G. E. Desbarats
-!!!YEM:
 !!!PDT: 1865
-!!!SMA:
-!!!OMD:
 !!!AGN-Laforte:
 !!!AGN-type:
 !!!AGN-rime:
-**kern
-*clefG2
-*k[f#]
-*G:
-*M2/8
-*
-*
-8b/
-=1
-8g
-8a
-=2
-4b/
-=3
-8a
-8b/
-=4
-8cc
-8b
-=5
-8a
-8b/
+**kern	**text	**text
+*clefG2	*	*
+*k[f#]	*	*
+*G:	*	*
+*M2/8	*	*
+*	*v:1	*v:2
+*	*pline:1	*pline:4
+8b/	Dans	En-
+=1	=1	=1
+8g	ma	-trez
+8a	main	en
+=2	=2	=2
+4b/	droi-	dan-
+=3	=3	=3
+8a	-te	-se,
+8b/	je	jo-
+=4	=4	=4
+8cc	tiens	-li
+8b	ro-	ro-
+=5	=5	=5
+8a	-sier,	-sier!
+*	*pline:1r	*pline:4r
+8b/	Dans	En-
 !!LO:PB:g=original
-=6
-8g
-8a
-=7
-4b/
-=8
-8a
-8b/
-=9
-8cc
-8b
-=10
-4a
-=11
-8r
-8b/
-=12
-8a
-8b/
+=6	=6	=6
+8g	ma	-trez
+8a	main	en
+=7	=7	=7
+4b/	droi-	dan-
+=8	=8	=8
+8a	-te	-se,
+8b/	je	jo-
+=9	=9	=9
+8cc	tiens	-li
+8b	ro-	ro-
+=10	=10	=10
+4a	-sier,	-sier!
+=11	=11	=11
+8r	.	.
+*	*pline:2	*pline:5
+8b/	Qui	Et
+=12	=12	=12
+8a	fleu-	em-
+8b/	-ri-	-bras-
 !!LO:PB:g=original
-=13
-4g
-=14
-4a
-=15
-8g
-8e
-=16
-8.g
-16g
-=17
-8g
-8b/
-=18
-4g
-=19
-4a
+=13	=13	=13
+4g	-ra,	-sez
+=14	=14	=14
+4a	ma-	ma-
+=15	=15	=15
+8g	-non	-non
+8e	lon	lon
+=16	=16	=16
+8.g	la,	la,
+*	*pline:3	*pline:6
+16g	Qui	Et
+=17	=17	=17
+8g	fleu-	em-
+8b/	-ri-	-bras-
+=18	=18	=18
+4g	-ra	-sez
+=19	=19	=19
+4a	au	qui
 !!LO:PB:g=original
-=20
-8g
-8e
-=21
-4g
-=22
-8r
-==||
-8r
-==||
-*
-*
-==|
+=20	=20	=20
+8g	mois	vous
+8e	de	plai-
+=21	=21	=21
+4g	mai.	-ra.
+=22	=22	=22
+8r	.	.
+==||	==||	==||
+8r	.	.
+==	==	==
+*-	*-	*-
 !!!RWG: Eighth note in m.11 unclear, presumed 'b'
-*-
+!!!RWG: Alternate lyric option of "saluez" instead of "embrassez" in second verse; not sure how to encode, however
+!!!EEV-1: Samuel Boone
+!!!EED-1: 2026/03/09
