@@ -5,77 +5,76 @@
 !!!PTL@@FR: Chansons Populaires du Canada
 !!!OTL@@FR: J'ai tant d'enfants à marier!
 !!!PUB: G. E. Desbarats
-!!!YEM:
 !!!PDT: 1865
-!!!SMA:
-!!!OMD:
 !!!AGN-Laforte:
 !!!AGN-type:
 !!!AGN-rime:
-**kern
-*clefG2
-*k[f#,c#,g#]
-*A:
-*M6/8
-*
-*
-8a
-8a
-8a
-=1
-4g#
-8a
-4b/
-!LO:TX:a:t=2
-.
-4b/
-=2
-(4cc#
-8b)
-8a
-8a
-8a
+**kern	**text	**text
+*clefG2	*	*
+*k[f#,c#,g#]	*	*
+*A:	*	*
+*M6/8	*	*
+*	*v:1	*v:2
+*	*pline:1	*pline:5
+8a	J'ai	Ma-
+8a	tant	-de-
+8a	d'en-	-moi-
+=1	=1	=1
+4g#	-fants	-sell[e],
+8a	à	on
+4b/	ma-	parl[e]
+!LO:TX:a:t=2	!	!
+.	.	.
+4b/	-ri-	à
+=2	=2	=2
+(4cc#	-er!....	vous;
+8b)	.	.
+*	*pline:2	*pline:6
+8a	J'ai	On
+8a	tant	dit
+8a	d'en-	que
 !!LO:PB:g=original
-=3
-4g#
-8a
-4b
-!LO:TX:a:t=2
-.
-4cc#
-=4
-4a
-8r
-4ee
-8ee
-=5
-4b
-4cc#
-4dd
-8cc#
+=3	=3	=3
+4g#	-fants	vous
+8a	à	ai-
+4b	ma-	-mez
+!LO:TX:a:t=2	!	!
+.	.	.
+4cc#	-ri-	beau-
+=4	=4	=4
+4a	-er!....	-coup.
+8r	.	.
+*	*pline:3	*pline:7
+4ee	Grand	Si
+8ee	.	c'est
+=5	=5	=5
+4b	Dieu!	vrai
+4cc#	je	que
+4dd	n'sais	vous
+8cc#	com-	ai-
 !!LO:PB:g=original
-=6
-4.b
-4cc#
-8a
-=7
-8aL
-8g#J
-8a
-4b
-!LO:TX:a:t=2
-.
-4cc#
-=8
-4.a
-==||
-8r
-8r
-==||
-*
-*
-==|
+=6	=6	=6
+4.b	-ment	-mez,
+*	*pline:4	*pline:8
+4cc#	Pou-	En-
+8a	-voir	-trez
+=7	=7	=7
+8aL	en	dans
+8g#J	.	.
+8a	ma-	la
+4b	-ri-	dans[e],
+!LO:TX:a:t=2	!	!
+.	.	.
+4cc#	-ez	en-
+=8	=8	=8
+4.a	tant.	-trez!
+==||	==||	==||
+4r	.	.
+8r	.	.
+==	==	==
+*-	*-	*-
 !!!RNB: Two-note tuplets assumed to be encoded incorrectly
 !!!RWG: 'ee' in m.4 doubled in upper voice by a dotted quarter in original
-!!!RNB: Penultimate eighth rest flipped backward in original
-*-
+!!!RWG: A third verse exists, but uses a slightly altered score & I wasn't sure how we wanted to encode this
+!!!EEV-1: Samuel Boone
+!!!EED-1: 2026/03/09
