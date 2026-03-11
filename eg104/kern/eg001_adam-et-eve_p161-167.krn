@@ -16,11 +16,11 @@
 *	*v:1	*v:2	*v:3	*v:4	*v:5	*v:6	*v:7	*v:8	*v:9	*v:10	*v:11	*v:12	*v:13	*v:14	*v:15	*v:16	*v:17	*v:18	*v:19	*v:20	*v:21	*v:22	*v:23
 *	*pline:1Ha	*pline:4Ha	*pline:7Ha	*pline:10Ha	*pline:13Ha	*pline:16Ha	*pline:19Ha	*pline:22Ha	*pline:25Ha	*pline:28Ha	*pline:31Ha	*pline:34Ha	*pline:37Ha	*pline:40Ha	*pline:43Ha	*pline:46Ha	*pline:49Ha	*pline:52Ha	*pline:55Ha	*pline:58Ha	*pline:61Ha	*pline:64Ha	*pline:67Ha
 =1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
-8d	Dans	A-	Pen-	A-	A-	Dieu	Dieu	De	A-	Ev'	Sa-	Je	Man-	Mal-	A-	Mon	Ap-	"T'as	"Tu	"A-	Je	Un	En-
+8d	Dans	A-	Pen-	A-	A-	Dieu	Dieu	De	A-	Ev[e]	Sa-	Je	Man-	Mal-	A-	Mon	Ap-	"T[u] as	"Tu	"A-	Je	Un	En-
 8e	un	-dam	-dant	-dam	-dam,	bé-	prit	ce	-dam	s'é-	-lut	te	-ge	-heu-	-dam,	Cré-	-pro-	ser-	n'as	-dam,	te	an-	-fin
 8f#	jar-	é-	qu'il	la	pè-	-nit	A-	lieu	prit	-tant	à	fe-	ce	-reu-	A-	-a-	-che-	-vi	pas	tu	fais	-ge	le
 =2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
-4.g	-din	-tait	dort,	voy-	-re	ce	-dam	je	Eve	é-	la	-rai	fruit	-se,	-dam,	-teur,	toi,	d'or-	é-	man-	mes	vint	temps
+4.g	-din	-tait	dort,	voy-	-re	ce	-dam	je	Ev[e]	é-	la	-rai	fruit	-se,	-dam,	-teur,	toi,	d'or-	é-	man-	mes	vint	temps
 =3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
 8a	cou-	as-	son	-ant,	du	coup-	et	te	et	-car-	di-	part	dé-	d'où	en-	j'ai	monstr[e]	-gan[e]	-cou-	-ge-	der-	le	si
 8g	-vert	-sis	Cré-	s'é-	genr[e]	-le	le	fais	lui	-té,	-vi-	d'un	-li-	vi-	-tends	re-	in-	au	-té	-ras	-niers	con-	dé-
@@ -30,7 +30,7 @@
 *	*pline:1Hb	*pline:4Hb	*pline:7Hb	*pline:10Hb	*pline:13Hb	*pline:16Hb	*pline:19Hb	*pline:22Hb	*pline:25Hb	*pline:28Hb	*pline:31Hb	*pline:34Hb	*pline:37Hb	*pline:40Hb	*pline:43Hb	*pline:46Hb	*pline:49Hb	*pline:52Hb	*pline:55Hb	*pline:58Hb	*pline:61Hb	*pline:64Hb	*pline:67Hb
 =5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5
 8g	Plein	Sous	Et	Ah!	Prit	Dans	Au-	Tout	Cet	Dans	Ra-	Dans	Ou-	Je	Sors	Que	Au-	Point	Fem-	A-	Les	Et	Est
-8b/	de	un	son	la	par	le	-près	est	ar-	un	-re	ce	-vre	suis	de	j'é-	-teur	de	-me,	-vec	larm's	lui	ar-
+8b/	de	un	son	la	par	le	-près	est	ar-	un	-re	ce	-vre	suis	de	j'é-	-teur	de	-me,	-vec	larm[e]s	lui	ar-
 8a	dou-	til-	Au-	voi-	la	mo-	d'un	à	-bre-	dé-	beau-	bos-	les	per-	ce	-tais	du	par-	pour-	cha-	aux	par-	-ri-
 !!LO:PB:g=original
 =6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6
@@ -40,12 +40,12 @@
 =7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7
 8g	Dieu	E-	Lui	Ah!	E-	Un	Lui	Mais	Lui	Le	Per-	J'ai	La	Quel	Dis-	Mais	Si	La	Mè-	Va	Jar-	Lui	Dieu
 8a	cré-	-tant	en-	la	-ve,	ber-	di-	sou-	di-	ser-	-le	ac-	fri-	est	moi	mon	tu	ter-	-ne	cul-	-din	an-	tou-
-8b/	-a	cou-	-l'va	voi-	cet-	-ceau	-sant:	-viens-	-sant:	-pent	sans	-quis	-an-	ce	donc	Au-	as	-re	une	-ti-	char-	-non-	-ché
+8b/	-a	cou-	-l[e]va	voi-	cet-	-ceau	-sant:	-viens-	-sant:	-pent	sans	-quis	-an-	ce	donc	Au-	as	-re	une	-ti-	char-	-non-	-ché
 =8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8
 4cc	l'homme	-ché	dou-	-là	-te	tis-	Mon	toi	Mon	re-	prix,	de	-de	fruit?	pour-	-teur,	dé-	pour	vi-	-ver	-mant,	-çant	de
 8b	à	sur	-ce-	cel-	char-	-su	fils,	de	é-	-con-	vi-	la	cueil-	et	-quoi	mon	-truit	ta	-e	la	heu-	que	no-
 =9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9
-4a	son	l'her-	-ment	-le	-man-	de	prend	ma	-pous'	-tra	-vant[e]	con-	-lit	où	tu	di-	l'in-	nour-	pé-	terr[e]	-reux	le	-tre
+4a	son	l'her-	-ment	-le	-man-	de	prend	ma	-pous[e]	-tra	-vant[e]	con-	-lit	où	tu	di-	l'in-	nour-	pé-	terr[e]	-reux	le	-tre
 8b/	i-	-be	un'	que	-te	ver-	bien	dé-	ché-	la	i-	-nais-	la	est	te	-vin	-no-	-ri-	-ni-	in-	par-	Mes-	mi-
 =10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10
 4a	-ma-	ten-	cô-	j'ai-	bel-	-du-	gar-	-fen-	-ri-	bel-	-ma-	-san-	pom-	l'ar-	ca-	Maî-	-cen-	-tu-	-ten-	-gra-	-ter-	-si-	-sè-
@@ -62,21 +62,21 @@
 =13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13
 8g	E-	Un	En	Don-	De-	De	A	Et	De	Le	L'or-	Viens	Ell[e]	Mon	Et	J'ai	Je	L'hom-	Tu	Et	Je	Naî-	Et
 8a	-tait	doux	for-	-nez-	-vant	fleurs	ce	res-	tou-	dis-	-ne-	donc,	en	cœur	ne	hon-	vais	-me,	souf-	n'at-	m'en	-tre	voi-
-8b/	la	som-	-ma	moi-	Dieu	j'ai-	beau	-pect'	-cher	-cours	-ment,	tu	por-	de-	crois-	-te	pro-	dans	-fri-	-tends	vais	de	-là
+8b/	la	som-	-ma	moi-	Dieu	j'ai-	beau	-pect[e]	-cher	-cours	-ment,	tu	por-	de-	crois-	-te	pro-	dans	-fri-	-tends	vais	de	-là
 =14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14
-4cc	preuve	-meil	un'	la,	se	-me	fruit	l'ar-	là,	qu'il	le	sau-	-ta	vient	tu	de	-non-	sa	-ras,	plus	cul-	la	le
+4cc	preuv[e]	-meil	un[e]	la,	se	-me	fruit	l'ar-	là,	qu'il	le	sau-	-ta	vient	tu	de	-non-	sa	-ras,	plus	cul-	la	le
 8b	et	vint	char-	bon-	jett[e]	la	que	-bre	je	eut	plus	-ras	à	froid	pas	fai-	-cer	jus-	lors-	que	-ti-	Vier-	fruit
 =15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15
-4a	le	le	-man-	-té	a-	bi-	tu	de	t'en	a-	bel	la	son	com-	que	-re	la	-te	-qu'	je	-ver	-ge	sa-
+4a	le	le	-man-	-té	a-	bi-	tu	de	t'en	a-	bel	la	son	com-	que	-re	la	-te	-qu[e]	je	-ver	-ge	sa-
 8b/	vrai	sur-	-te	su-	-vec	-gar-	re-	sci-	sup-	-vec	ou-	sci-	cher	-me	je	con-	sen-	co-	t'en-	te	la	Ma-	-lu-
 !!LO:PB:g=original
 =16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16
 4a	ga-	-pren-	fem-	-prê-	el-	-ru-	-gar-	-en-	-pli-	el-	-vra-	-en-	hom-	mar-	sa-	-naî-	-ten-	-lè-	-fan-	flat-	ter-	-ri-	-tai-
-8g	-ge	-dre	-me	-me,	-le	-re	-des,	-ce,	-e,	-le	ge	-ce	-me	-bre;	-che	-tre	-ce;	-re,	-t'ras,	-te:	-re	-e,	-re
+8g	-ge	-dre	-me	-me,	-le	-re	-des,	-ce,	-e,	-le	ge	-ce	-me	-bre;	-che	-tre	-ce;	-re,	-t[e]ras,	-te:	-re	-e,	-re
 *	*pline:3Hb	*pline:6Hb	*pline:9Hb	*pline:12Hb	*pline:15Hb	*pline:18Hb	*pline:21Hb	*pline:24Hb	*pline:27Hb	*pline:30Hb	*pline:33Hb	*pline:36Hb	*pline:39Hb	*pline:42Hb	*pline:45Hb	*pline:48Hb	*pline:51Hb	*pline:54Hb	*pline:57Hb	*pline:60Hb	*pline:63Hb	*pline:66Hb	*pline:69Hb
 =17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17
 8a	De	Dans	Rare	Pour	A	De	Crains	D'peur	Pour	Cher	De	Qu'il	Qui	Dis-	Ta	Ma	E-	T'é-	De	Je	Jusqu'	Pour	Qu'il
-8g	son	ce	en	mon	deux	leur	le	de	no-	nous	ce	en	s'af-	moi	tra-	nu-	-cou-	-cra-	grand'	suis	à	leur	a
+8g	son	ce	en	mon	deux	leur	le	de	no-	nous	ce	en	s'af-	moi	tra-	nu-	-cou-	-cra-	grand[e]	suis	à	leur	a
 8f#	a-	mo-	beau-	re-	ge-	ta-	tré-	mou-	-tre	coû-	jar-	pro-	-fli-	pour-	-bi-	-di-	-te-	-se-	dou-	ton	la	a-	pro-
 =18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18
 4g	-mour.	-ment.	-té.	-pos.	-noux.	-pis.	-pas.	-rir.	bien.	-ta.	din.	-duit.	-gea.	-quoi!	-son?	-té.	-moi!	-ra."	-leurs."	Dieu."	mort!	-mour.	-mis.
@@ -86,3 +86,4 @@
 !!!RWG: Time signature (clearly 3/8) absent in original, absence preserved
 !!!EEV-1: Samuel Boone
 !!!EED-1: 2026/02/10
+!!!EEV-2: Isaac Howie
