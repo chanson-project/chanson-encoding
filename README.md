@@ -53,15 +53,18 @@ For a list of the different types of record comments, consult: https://www.humdr
    - Ensure each spine on the same row includes an exclamation mark.
 
 6. **Encoding completion info**:
+   - Use the format "First Last" for name.
+   - Use the format "year/mm/dd" for date of completion.
    ```
    !!!EED: Ève Poudrier
-   !!!EEV: 2025/May/06
+   !!!EEV: 2025/05/06
    ```
-7. **Encoding editorial comments**:
+8. **Encoding editorial comments**:
    ```
    !!!RNB (Representation note) can be used to encode any modifications to the representation of the score. For example, replacing dal segno symbols by repeats.
    !!!RWG (Representation warning) can be use to point out an unusual representation in the poriginal score. For example the use of two double barlines at the end of eg003_cest-la-belle-francoise_p8-9.
    ```
+## Text Encoding Procedure
 
 <details>
 <summary><h3>Text Encoding</h3></summary>
@@ -95,7 +98,7 @@ For a list of the different types of record comments, consult: https://www.humdr
      *pline:1b    ← end
      ```
 
-</details>
+## Music Encoding Procedure
 
 <details>
 <summary><h3>Music Encoding</h3></summary>
@@ -138,10 +141,10 @@ For a list of the different types of record comments, consult: https://www.humdr
    - Surround with `*bis` ... `*Xbis`
 
 
-</details>
-
-
 ## Additional Notes
+
+<details>
+<summary><h3>Additional Notes</h3></summary>
 
 - Ensure consistent use of tabs and columns in spines.
 - Avoid use of trailing whitespace unless intentional.
