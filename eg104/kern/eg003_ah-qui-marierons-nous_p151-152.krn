@@ -17,19 +17,19 @@
 *	*v:1	*v:2	*v:3	*v:4
 *	*pline:1	*pline:4	*pline:6	*pline:8
 8f	Ah!	'Lui	A-	A-
-8f	qui	donn'-	-mours,	-mours,
+8f	qui	donn[e]-	-mours,	-mours,
 8a	ma-	-rons	sa-	re-
 =1	=1	=1	=1	=1
-4cc	-ri'-	pour	-lu-	-ti-
-4dd	-rons-	é-	-ez	-rez
+4cc	-ri[e]-	pour	-lu-	-ti-
+4dd ff	-rons-	é-	-ez	-rez
 =2	=2	=2	=2	=2
 8cc	nous?	-poux?	vous!	vous!
 *	*pline:1r	*pline:4r	*pline:6r	*pline:8r
 8dd	Ah!	'Lui	A-	A-
-8cc	qui	donn'-	-mours,	-mours,
+8cc	qui	donn[e]-	-mours,	-mours,
 8b-	ma-	-rons	sa-	re-
 =3	=3	=3	=3	=3
-4a	-ri'-	-pour	-lu-	-ti-
+4a	-ri[e]-	-pour	-lu-	-ti-
 4g	-rons-	é-	-ez	-rez
 !!LO:PB:g=original
 =4	=4	=4	=4	=4
@@ -39,7 +39,7 @@
 16g	-de-	doux	-lu-	-ti-
 16g	-moi-	mon-	-ez	-rez
 =5	=5	=5	=5	=5
-8g	-sell',	-sieur,	vous	vous
+8g	-sell[e],	-sieur,	vous	vous
 8a	ce	ce	cinq	cha-
 8b-/	se-	se-	ou	-cun
 8b-/	-ra	-ra	six	chez
@@ -87,7 +87,6 @@
 *	*Xrefrain	*	*	*
 ==	==	==	==	==
 *-	*-	*-	*-	*-
-!!!RNB: First measure not a full two beats so counted as pickup, despite final measure being complete
-!!!RNB: Upper voice quarter note 'ff' above 'dd' in m.1b2
 !!!EEV-1: Samuel Boone
 !!!EED-1: 2026/03/09
+!!!EEV-2: Isaac Howie
