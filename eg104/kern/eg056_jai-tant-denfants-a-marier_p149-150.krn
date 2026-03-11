@@ -22,10 +22,8 @@
 =1	=1	=1
 4g#	-fants	-sell[e],
 8a	à	on
-4b/	ma-	parl[e]
-!LO:TX:a:t=2	!	!
-.	.	.
-4b/	-ri-	à
+8%3b	ma-	parl[e]
+8%3b	-ri-	à
 =2	=2	=2
 (4cc#	-er!....	vous;
 8b)	.	.
@@ -37,10 +35,8 @@
 =3	=3	=3
 4g#	-fants	vous
 8a	à	ai-
-4b	ma-	-mez
-!LO:TX:a:t=2	!	!
-.	.	.
-4cc#	-ri-	beau-
+8%3b	ma-	-mez
+8%3cc#	-ri-	beau-
 =4	=4	=4
 4a	-er!....	-coup.
 8r	.	.
@@ -62,10 +58,8 @@
 8aL	en	dans
 8g#J	.	.
 8a	ma-	la
-4b	-ri-	dans[e],
-!LO:TX:a:t=2	!	!
-.	.	.
-4cc#	-ez	en-
+8%3b	-ri-	dans[e],
+8%3cc#	-ez	en-
 =8	=8	=8
 4.a	tant.	-trez!
 ==||	==||	==||
@@ -73,8 +67,8 @@
 8r	.	.
 ==	==	==
 *-	*-	*-
-!!!RNB: Two-note tuplets assumed to be encoded incorrectly
 !!!RWG: 'ee' in m.4 doubled in upper voice by a dotted quarter in original
 !!!RWG: A third verse exists, but uses a slightly altered score & I wasn't sure how we wanted to encode this
 !!!EEV-1: Samuel Boone
 !!!EED-1: 2026/03/09
+!!!EEV-2: Isaac Howie
