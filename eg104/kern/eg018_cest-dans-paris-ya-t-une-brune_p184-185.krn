@@ -20,17 +20,17 @@
 *	*v:1	*v:2	*v:3	*v:4	*v:5	*v:6
 *	*pline:1Ha	*pline:4Ha	*pline:7Ha	*pline:10Ha	*pline:13Ha	*pline:16Ha
 =1	=1	=1	=1	=1	=1	=1
-8g	C'est	Ell'	Quand	Le	Dans	Ell'
+8g	C'est	Ell[e]	Quand	Le	Dans	Ell[e]
 8a	dans	s'en	vous	len-	son	s'en
-8f#	Pa-	va	se-	-de-	che-	r'tourne
+8f#	Pa-	va	se-	-de-	che-	re-
 =2	=2	=2	=2	=2	=2	=2
-4.g	-ris	chez	-rez	-main,	-min,	à
+4.g	-ris	chez	-rez	-main,	-min,	-tourn[e]
 =3	=3	=3	=3	=3	=3	=3
-8b/	ya-	l'a-	pour	de	a	l'a-
-8g	t-u-	-po-	vous	grand	ren-	-po-
+8b/	ya-	l'a-	pour	de	a	à
+8g	t-u-	-po-	vous	grand	ren-	l'[a]po-
 8b/	-ne	-thi-	far-	ma-	-con-	-the-
 =4	=4	=4	=4	=4	=4	=4
-4.dd	brun'	-caire:	-der,	-tin,	-tré.	-caire:
+4.dd	brun[e]	-caire:	-der,	-tin,	-tré.	-caire:
 !!LO:PB:g=original
 *	*pline:1Hb	*pline:4Hb	*pline:7Hb	*pline:10Hb	*pline:13Hb	*pline:16Hb
 =5	=5	=5	=5	=5	=5	=5
@@ -38,7 +38,7 @@
 8b	est	-bien	-nez	belle	jo-	-sieur,
 8dd	plus	ven-	bien	a	-li	que
 =6	=6	=6	=6	=6	=6	=6
-4ee	bel-	-dez-	gard'	mis	ten-	a-
+4ee	bel-	-dez-	gard[e]	mis	ten-	a-
 8dd	-le	vous	de	ses	-dre	-vez
 =7	=7	=7	=7	=7	=7	=7
 8ddq	.	.	.	.	.	.
@@ -62,9 +62,9 @@
 8a	-van-	on-	-del-	-pon	-quet-	-ra-
 8a	-te	-ces;	-le....	vert,	-te,	-ge
 *	*pline:2Hb	*pline:5Hb	*pline:8Hb	*pline:11Hb	*pline:14Hb	*pline:17Hb
-8a	Qu'au-	C'est	Bar-	Son	Tout'	Pour
+8a	Qu'au-	C'est	Bar-	Son	Tout[e]	Pour
 =13	=13	=13	=13	=13	=13	=13
-4d	-rait,	deux,	-bouill....	blanc,	noir'	vos,
+4d	-rait,	deux,	-bouill....	blanc,	noir[e]	vos,
 8g	Qu'au-	c'est	bar-	son	tout	pour
 =14	=14	=14	=14	=14	=14	=14
 8gL	-rait	deux	-bouill-	blanc	bar-	vos
@@ -76,14 +76,14 @@
 8r	.	.	.	.	.	.
 *	*pline:3Ha	*pline:6Ha	*pline:9Ha	*pline:12Ha	*pline:15Ha	*pline:18Ha
 =16	=16	=16	=16	=16	=16	=16
-8a	Etre	Pe-	Le	Pour	Vous	C'ap-
+8a	Etr[e]	Pe-	Le	Pour	Vous	C'ap-
 8b	aus-	-sez	len-	al-	a-	-par-
 8cc	-si	moi-	-de-	-lez	-vez	-ti-
 =17	=17	=17	=17	=17	=17	=17
 4dd	bell'	z-en	-main	faire	la	-ent
 8g	que	un	vous	un	fi-	pas
 =18	=18	=18	=18	=18	=18	=18
-4c	sa	de-	se-	tour	-gur'	une
+4cc	sa	de-	se-	tour	-gur[e]	une
 8b	maî-	-mi-	-rez	en	plus	ser-
 =19	=19	=19	=19	=19	=19	=19
 4a	-tres-	on-	bel-	vil-	noi-	-van-
@@ -93,7 +93,7 @@
 =20	=20	=20	=20	=20	=20	=20
 8d	Mais	Voi-	Com-	S'y	Que	De
 8e	ell'	-là	-me	pro-	la	se
-8f#	n'a	l'é-	le	-me-	ch'm'-	far-
+8f#	n'a	l'é-	le	-me-	ch[e]mi-	far-
 =21	=21	=21	=21	=21	=21	=21
 4g	pu.	-cu.	jour.	-ner.	-née!	-der.
 8r	.	.	.	.	.	.
@@ -103,3 +103,4 @@
 *-	*-	*-	*-	*-	*-	*-
 !!!EED-1: Samuel Boone
 !!!EEV-1: 2026/02/08
+!!!EEV-2: Isaac Howie
