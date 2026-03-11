@@ -1,9 +1,9 @@
-!!!id: EG101
-!!!page: 310
+!!!id: EG031
+!!!page: 291
 !!!COM: Anonymous
 !!!LYR: Anonymous
 !!!PTL@@FR: Chansons Populaires du Canada
-!!!OTL@@FR: Celle que mon coeur aime
+!!!OTL@@FR: Dans tous les cantons
 !!!PUB: G. E. Desbarats
 !!!YEM:
 !!!PDT: 1865
@@ -12,107 +12,116 @@
 !!!AGN-Laforte:
 !!!AGN-type:
 !!!AGN-rime:
-**kern	**text	**text
-*clefG2	*	*
-*k[b-e-]	*	*
-*M2/4	*	*
-*B-:	*	*
-*	*v:1	*v:2
-*	*pline:1	*
-8f	.	Jeu-
-8b-	Dans	-nes
-8cc	tous	fill[e]s,
-=1	=1	=1
-4dd	les	é-
-4dd	can-	-cou-
-=2	=2	=2
-4dd	-tons	-tez,
-8ee-	Ya	Qui
-8dd	des	vou-
-=3	=3	=3
-8cc	fill[e]s	-lez
-8b-	et	vous
-8cc	des	ma-
-8dd	gar-	-ri-
-=4	=4	=4
-8cc	-çons	-er:
-8f	Qui	.
-8b-	veul[e]nt	Vo-
-8cc	se	-tre
-=5	=5	=5
-4dd	ma-	en-
-4dd	-ri-	-gage-
-=6	=6	=6
-4dd	-er,	-ment
-8ee-	C'est	Vous
-8dd	la	cau-
-=7	=7	=7
-8cc	pu-	-se-
-8b-	-re	-ra
-8cc	vé-	du
-8dd	-ri-	tour-
-=8	=8	=8
-4b-	-té.	-ment.
-8r	.	.
-8f	Les	Vous
-=8	=8	=8
-8b-	gar-	pre-
-8dd	-çons	-nez
-8ff	vont	un
-8ff	les	é-
-=9	=9	=9
-4ff	voir,	-tat
-8r	.	.
-8ff	le	De
-=10	=10	=10
-8gg	plus	pein[e]s
-8ff	sou-	et
-8ee-	-vent	d'em-
-8dd	le	-bar-
-=11	=11	=11
-4ee-	soir;	-ras;
-8r	.	.
-8ee-	Les	Bien
-=12	=12	=12
-8ff	fill[e]s	sou-
-8dd	se	-vent
-8b-	ré-	du
-8dd	-jou-	cha-
-=13	=13	=13
-4cc	-iss[e]nt	-grin,
-8r	.	.
-8dd	Quand	Sans
-=14	=14	=14
-8ff	ell[e]s	en
-8dd	voi[e]nt	con-
-8b-	leurs	-naîtr[e]
-8dd	a-	la
-=15	=15	=15
-4cc	-mis;	fin,
-4r	.	.
-=16	=16	=16
-8r	.	.
-8f	Ell[e]s	Qui
-8b-	se	vous
-8cc	dis[e]nt	f'ra
-=17	=17	=17
-4dd	en	re-
-4dd	sou-	-gret-
-=18	=18	=18
-8dd	-riant:	-ter
-8cc	Le	La
-8b-	voi-	mai-
-8ee-	-là	-son
-=19	=19	=19
-4dd	mon	qu'vous
-4cc	a-	quit-
-=20	=20	=20
-2b-	-mant!	-tez.
-=21	=21	=21
-2r	.	.
-=22	=22	=22
-8r	.	.
-==	==	==
-*-	*-	*-
+**kern	**text	**text	**text	**text	**text	**text	**text	**text	**text	**text
+*clefG2	*	*	*	*	*	*	*	*	*	*
+*k[b-e-]	*	*	*	*	*	*	*	*	*	*
+*M2/4	*	*	*	*	*	*	*	*	*	*
+*B-:	*	*	*	*	*	*	*	*	*	*
+*	*v:1	*v:2	*v:3	*v:4	*v:5	*v:6	*v:7	*v:8	*v:9	*v:10
+*	*pline:1	*pline:11	*pline:21	*pline:31	*pline:41	*pline:51	*pline:61	*pline:71	*pline:81	*pline:91
+8f	.	Jeu-	.	.	.	.	.	.	La	Qu'en a
+8b-	Dans	-nes	É-	S'il	Le	Vous,	Mais	Mais	se-	com-
+8cc	tous	fill[e]s,	-tant	est	soir	à	com-	si	-maine,	-po-
+=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+4dd	les	é-	ma-	com-	ar-	la	-me	les	au	-sé l[a]
+4dd	can-	-cou-	-ri-	-plai-	-ri-	mai-	ce-	ma-	lo-	chan-
+=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+4dd	-tons	-tez,	-ée,	-sant,	-vé,	-son,	-la	-ris	-gis,	-son,
+*	*pline:2	*pline:12	*pline:22	*pline:32	*pline:42	*pline:52	*pline:62	*pline:72	*pline:82	*pline:92
+8ee-	Ya	Qui	Il	Vous	Ils	Ni	Tous	Ne	Ell[e]s	C'est
+8dd	des	vou-	faut	au-	re-	pain,	les	sont	ont	un
+=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+8cc	fill[e]s	-lez	tous	-rez	-vienn[e]nt	ni	hom-	pas	l'air	vieil-
+8b-	et	vous	a-	de	à	lard,	-mes	tous	tout	-lard d[e]
+8cc	des	ma-	-ban-	l'a-	leur	ni	ne	ga-	é-	ce
+8dd	gar-	-ri-	-don-	-gré-	lo-	pois-	sont	-ran-	-tour-	can-
+=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
+8cc	-çons	-er:	-ner,	-ment,	-gis	-son,	pas:	-tis,	-dies;	-ton
+*	*pline:3	*pline:13	*pline:23	*pline:33	*pline:43	*pline:53	*pline:63	*pline:73	*pline:83	*pline:93
+8f	Qui	.	.	.	.	.	.	.	Mal	Qui
+8b-	veul[e]nt	Vo-	Tous	Mais	Tout	N'a-	Car	C'est	pei-	n'a
+8cc	se	-tre	les	s'il	en	-yant	tous	qu'il	-gné[e]s,	pas
+=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5
+4dd	ma-	en-	a-	est	fu-	pas	ces	yen	mal	re-
+4dd	-ri-	-gage-	-gré-	ja-	-ri-	le	dè-	a	chaus-	-gret-
+=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6
+4dd	-er,	-ment	-ments	-loux,	-bons	sou	-fauts,	trop	-sées,	-té
+*	*pline:4	*pline:14	*pline:24	*pline:34	*pline:44	*pline:54	*pline:64	*pline:74	*pline:84	*pline:94
+8ee-	C'est	Vous	D'êtr[e]	Vous	En	Et	Pour	De	Et	Le
+8dd	la	cau-	a-	n'en	men-	sou-	un	ces	sou-	jour
+=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7
+8cc	pu-	-se-	-vec	au-	-ant	-vent	seul,	femm[e]s	-vent	qu'il
+8b-	-re	-ra	les	-rez	le	man-	ce	qu'ont	mal	s'est
+8cc	vé-	du	jeu-	pas	ca-	-quant	se-	des	ar-	ma-
+8dd	-ri-	tour-	-nes	beau-	-ril-	de	-rait	dé-	-ran-	-ri-
+=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8
+4b-	-té.	-ment.	gens.	-coup.	-lon;	tout...	trop!	-fauts...	-gées.	-é.
+*	*pline:5	*pline:15	*pline:25	*pline:35	*pline:45	*pline:55	*pline:65	*pline:75	*pline:85	*pline:95
+8r	.	.	.	.	.	.	.	.	.	.
+8f	Les	Vous	Faut	Com-	Di-	Et	Yen	De	Le	Il
+=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8
+8b-	gar-	pre-	res-	-bien	-sant	vos	a,	ces	di-	a
+8dd	-çons	-nez	-ter	y	d'un	pe-	as-	hu-	-manch[e]	pris
+8ff	vont	un	au	en	air	-tit	-su-	-meur[e]s	ar-	un
+8ff	les	é-	lo-	a-	fâ-	en-	-ré-	mar[a]-	-ri-	gi-
+=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9
+4ff	voir,	-tat	-gis	-t-il	-ché:	-fants	-ment,	-bouts,	-vé,	-bier
+*	*pline:6	*pline:16	*pline:26	*pline:36	*pline:46	*pline:56	*pline:66	*pline:76	*pline:86	*pline:96
+8r	.	.	.	.	.	.	.	.	.	.
+8ff	le	De	Pour	De	"Don-	Qui	Qui	Que	Vous	Qu'il
+=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10
+8gg	plus	pein[e]s	plaire	ces	-ne-	vous	sont	rien	les	a
+8ff	sou-	et	à	mé-	-moi	di-	plus	n'est	vo-	su
+8ee-	-vent	d'em-	son	-chant	à	-ront:	com-	à	-yez	con-
+8dd	le	-bar-	ma-	ma-	sou-	"Ma-	-plai-	leur	fri-	-ser-
+=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11
+4ee-	soir;	-ras;	-ri;	-ris,	-per!	-man,	-sants:	goût;	-sées,	-ver;
+*	*pline:7	*pline:17	*pline:27	*pline:37	*pline:47	*pline:57	*pline:67	*pline:77	*pline:87	*pline:97
+8r	.	.	.	.	.	.	.	.	.	.
+8ee-	Les	Bien	Vous	Que	Prom-	Don-	Ils	Quand	Que	Ell[e]
+=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12
+8ff	fill[e]s	sou-	ê-	tout	-pte-	-nez-	aim[e]nt	on	tout[e]s	a
+8dd	se	-vent	-tes	leur	-ment	-nous	leurs	veut	leurs	des
+8b-	ré-	du	ma-	in-	fais	donc	com-	leur	qua-	qua-
+8dd	-jou-	cha-	-ri-	-té-	mon	du	-pa-	par-	-li-	-li-
+=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13
+4cc	-iss[e]nt	-grin,	-ée	-rêt	lit,	pain,	-gnées	-ler	-tés	-tés
+*	*pline:8	*pline:18	*pline:28	*pline:38	*pline:48	*pline:58	*pline:68	*pline:78	*pline:88	*pline:98
+8r	.	.	.	.	.	.	.	.	.	.
+8dd	Quand	Sans	Par	C'est	Car	Car	Puis-	Dans	N'est	Qu'il
+=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14
+8ff	ell[e]s	en	votr[e]	d'al-	j'ai	nous	-qu'ils	un	qu'pour	n'a
+8dd	voi[e]nt	con-	propr[e]	-ler au	be-	mou-	l[es] ont	coin	la	point
+8b-	leurs	-naîtr[e]	vo-	ca-	-soin	-rons	é-	s'[en] vont	va-	pu-
+8dd	a-	la	-lon-	-ba-	d'dor-	de	-pou-	bou-	-ni-	-bli-
+=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15
+4cc	-mis;	fin,	-té;	-ret,	-mir!"	faim!"	-sées,	-der.	-té.	-ées.
+*	*pline:9	*pline:19	*pline:29	*pline:39	*pline:49	*pline:59	*pline:69	*pline:79	*pline:89	*pline:99
+4r	.	.	.	.	.	.	.	.	.	.
+=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16
+8r	.	.	.	.	.	.	.	.	.	.
+8f	Ell[e]s	Qui	Vous a-	Pour	Com-	Hé-	Ils	Com-	Ell[e]s	Que
+8b-	se	vous	-ves	y	-ment	-las,	veul[e]nt	-ment	n'ont	cha-
+8cc	dis[e]nt	f'ra	pris	pas-	pou-	quel	les	n'pas	au-	-cun
+=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17
+4dd	en	re-	un	-ser	-voir	crè-	sou-	fair[e]	-cun	fass[e]
+4dd	sou-	-gret-	ma-	leur	ché-	-ve-	-la-	cour-	sou-	comm[e]
+=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18
+8dd	-riant:	-ter	-ri,	temps,	-rir	-coeur	-ger:	-roux	-ci	moi,
+*	*pline:10	*pline:20	*pline:30	*pline:40	*pline:50	*pline:60	*pline:70	*pline:80	*pline:90	*pline:100
+8cc	Le	La	C'est	A	Un	Vous	C'est	A-	Pour	Qu'il
+8b-	voi-	mai-	pour	boir[e]	si	f[e]ra	pour	-vec	l'af-	chan-
+8ee-	-là	-son	lui	tout	bru-	ver-	se	un	-fair[e]	-te
+=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19
+4dd	mon	qu'vous	o-	leur	-tal	-ser	fair[e]	tel	du	ce
+4cc	a-	quit-	-bé-	ar-	ma-	des	ai-	hi-	lo-	qu'il
+=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20
+2b-	-mant!	-tez.	-ir.	-gent!	-ri?	pleurs!	-mer.	-bou?	-gis.	sait.
+=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21
+2r	.	.	.	.	.	.	.	.	.	.
+=22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22
+8r	.	.	.	.	.	.	.	.	.	.
+==	==	==	==	==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
 !!!EED-1: Isaac Howie
 !!!EEV-1: 2026/01/18
