@@ -141,7 +141,7 @@ For a list of the different types of record comments, consult: https://www.humdr
 ## Additional Notes
 
 <details>
-<summary><h3>Additional Notes</h3></summary>
+<summary><h3>Formatting</h3></summary>
 
 - Ensure consistent use of tabs and columns in spines.
 - Avoid use of trailing whitespace unless intentional.
