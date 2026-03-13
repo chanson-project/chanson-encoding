@@ -6,69 +6,123 @@
 !!!OTL@@FR: J'ai tant d'enfants à marier!
 !!!PUB: G. E. Desbarats
 !!!PDT: 1865
-!!!AGN-Laforte:
-!!!AGN-type:
-!!!AGN-rime:
-**kern	**text	**text
-*clefG2	*	*
-*k[f#,c#,g#]	*	*
-*A:	*	*
-*M6/8	*	*
-*	*v:1	*v:2
-*	*pline:1	*pline:5
-8a	J'ai	Ma-
-8a	tant	-de-
-8a	d'en-	-moi-
-=1	=1	=1
-4g#	-fants	-sell[e],
-8a	à	on
-8%3b	ma-	parl[e]
-8%3b	-ri-	à
-=2	=2	=2
-(4cc#	-er!....	vous;
-8b)	.	.
-*	*pline:2	*pline:6
-8a	J'ai	On
-8a	tant	dit
-8a	d'en-	que
+!!!AGN-Laforte: Strophique (sans refrain), 2:4(2*8,2*7);1:4(2*7,2*8)
+!!!AGN-type: marriage
+!!!AGN-rime: suivies, v:1-2, mm; v:3, fm.
+**kern	**text	**text	**text
+*clefG2	*	*	*
+*k[f#,c#,g#]	*	*	*
+*A:	*	*	*
+*M6/8	*	*	*
+*	*v:1	*v:2	*
+*	*pline:1	*pline:4	*
+8a	J'ai	Ma-	.
+8a	tant	-de-	.
+8a	d'en-	-moi-	.
+=1	=1	=1	=1
+4g#	-fants	-sell[e],	.
+8a	à	on	.
+8%3b	ma-	parl[e]	.
+8%3b	-ri-	à	.
+=2	=2	=2	=2
+(4cc#	-er!....	vous;	.
+8b)	.	.	.
+*	*pline:1r	*pline:5	*
+8a	J'ai	On	.
+8a	tant	dit	.
+8a	d'en-	que	.
 !!LO:PB:g=original
-=3	=3	=3
-4g#	-fants	vous
-8a	à	ai-
-8%3b	ma-	-mez
-8%3cc#	-ri-	beau-
-=4	=4	=4
-4a	-er!....	-coup.
-8r	.	.
-*	*pline:3	*pline:7
-4ee	Grand	Si
-8ee	.	c'est
-=5	=5	=5
-4b	Dieu!	vrai
-4cc#	je	que
-4dd	n'sais	vous
-8cc#	com-	ai-
+=3	=3	=3	=3
+4g#	-fants	vous	.
+8a	à	ai-	.
+8%3b	ma-	-mez	.
+8%3cc#	-ri-	beau-	.
+=4	=4	=4	=4
+4a	-er!....	-coup.	.
+8r	.	.	.
+*	*pline:2	*pline:6	*
+!!LO:S:dash
+(4ee	Grand	Si	.
+8ee)	.	c'est	.
+=5	=5	=5	=5
+4b	Dieu!	vrai	.
+4cc#	je	que	.
+4dd	n'sais	vous	.
+8cc#	com-	ai-	.
 !!LO:PB:g=original
-=6	=6	=6
-4.b	-ment	-mez,
-*	*pline:4	*pline:8
-4cc#	Pou-	En-
-8a	-voir	-trez
-=7	=7	=7
-8aL	en	dans
-8g#J	.	.
-8a	ma-	la
-8%3b	-ri-	dans[e],
-8%3cc#	-ez	en-
-=8	=8	=8
-4.a	tant.	-trez!
-==||	==||	==||
-4r	.	.
-8r	.	.
-==	==	==
-*-	*-	*-
-!!!RWG: 'ee' in m.4 doubled in upper voice by a dotted quarter in original
-!!!RWG: A third verse exists, but uses a slightly altered score & I wasn't sure how we wanted to encode this
+=6	=6	=6	=6
+4.b	-ment	-mez,	.
+*	*pline:3	*pline:7	*
+!!Errata in text setting v:1 in original (p=P)
+4cc#	Pou-	En-	.
+8a	-voir	-trez	.
+=7	=7	=7	=7
+8aL	en	dans	.
+8g#J	.	.	.
+8a	ma-	la	.
+8%3b	-ri-	dans[e],	.
+*	*	*bis`	*
+8%3cc#	-er	en-	.
+=8	=8	=8	=8
+4.a	tant.	-trez!	.
+*	*	*Xbis	*
+!!LO:PB:g=original
+=||	=||	=||	=||
+*	*	*	*v:3
+*	*	*	*pline:8
+4a	.	.	Fai-
+8a	.	.	-tes
+=9	=9	=9	=9
+4g#	.	.	le
+8a	.	.	pot
+8%3b	.	.	à
+8%3b	.	.	deux
+=10	=10	=10	=10
+!!Unnecessary two-note slur in original
+4cc#	.	.	an-
+8b	.	.	-ses;
+*	*	*	*pline:9
+4a	.	.	Re-
+8a	.	.	-gar-
+!!LO:PB:g=original
+=11	=11	=11	=11
+4g#	.	.	-dez
+8g#	.	.	com-
+8%3b	.	.	-me
+8%3b	.	.	l'on
+=12	=12	=12	=12
+4cc#	.	.	dan-
+8b	.	.	-se;
+*	*	*	*pline:10
+8ee	.	.	Fer-
+8ee	.	.	-mez
+8ee	.	.	la
+=13	=13	=13	=13
+4b	.	.	bouch[e];
+8cc#	.	.	ou-
+4dd	.	.	-vrez
+8cc#	.	.	les
+!!LO:PB:g=original
+=14	=14	=14	=14
+4.b	.	.	yeux;
+*	*	*	*pline:11
+*	*	*	*^
+4cc#	.	.	Em-	(Sa-
+8a	.	.	-bras-	-lu-
+=15	=15	=15	=15	=15
+8a	.	.	-sez	-ez)
+*	*	*	*v	*v
+8g#	.	.	qui
+8a	.	.	vous
+8%3b	.	.	plai-
+8%3cc#	.	.	-ra
+=16	=16	=16	=16
+4.a	.	.	mieux.
+==	==	==	==
+*-	*-	*-	*-
+!!!ONB: Replaced dotted quarter alternate by dotted slur in m. 4; deleted partial rests measure following m.8, added double barlines, and added music and text for v:3; removed unnecessary two-note slur in m. 9.
 !!!EED-1: Samuel Boone
 !!!EEV-1: 2026/03/09
 !!!EED-2: Isaac Howie
+!!!EED-3: Ève Poudrier
+!!!EEV-3: 2026/03/13
