@@ -66,7 +66,7 @@ For a list of the different types of record comments, consult: https://www.humdr
    ```
 
 
-<details>
+</details>
 <summary><h3>Text Encoding</h3></summary>
 
 1. **Syllabification**:
