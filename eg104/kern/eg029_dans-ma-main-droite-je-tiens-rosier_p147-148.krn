@@ -51,11 +51,13 @@
 *	*pline:2	*pline:5
 8b/	Qui	Et
 =12	=12	=12
-8a	fleu-	em-
-8b/	-ri-	-bras-
+*	*	*^
+8a	fleu-	em-	(sa-
+8b/	-ri-	-bras-	-lu-
 !!LO:PB:g=original
-=13	=13	=13
-4g	-ra,	-sez
+=13	=13	=13	=13
+4g	-ra,	-sez	-ez)
+*	*	*v	*v
 =14	=14	=14
 4a	ma-	ma-
 =15	=15	=15
@@ -66,10 +68,12 @@
 *	*pline:3	*pline:6
 16g	Qui	Et
 =17	=17	=17
-8g	fleu-	em-
-8b/	-ri-	-bras-
-=18	=18	=18
-4g	-ra	-sez
+*	*	*^
+8g	fleu-	em-	(sa-
+8b/	-ri-	-bras-	-lu-
+=18	=18	=18	=18
+4g	-ra	-sez	-ez)
+*	*	*v	*v
 =19	=19	=19
 4a	au	qui
 !!LO:PB:g=original
