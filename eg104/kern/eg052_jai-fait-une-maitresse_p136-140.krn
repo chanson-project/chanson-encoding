@@ -5,101 +5,100 @@
 !!!PTL@@FR: Chansons Populaires du Canada
 !!!OTL@@FR: J'ai fait une maitresse
 !!!PUB: G. E. Desbarats
-!!!YEM:
 !!!PDT: 1865
-!!!SMA:
-!!!OMD:
 !!!AGN-Laforte:
 !!!AGN-type:
 !!!AGN-rime:
-**kern
-*clefG2
-*k[b-]
-*F:
-*M3/8
-*
-*
-8c
-=1
-4f
-8g
-=2
-4a
-8b-/
-=3
-4cc
-8a
-=4
-4.b-
-=5
-4dd
-8b-
+**kern	**text	**text	**text	**text	**text	**text	**text	**text	**text	**text	**text	**text
+*clefG2	*	*	*	*	*	*	*	*	*	*	*	*
+*k[b-]	*	*	*	*	*	*	*	*	*	*	*	*
+*F:	*	*	*	*	*	*	*	*	*	*	*	*
+*M3/8	*	*	*	*	*	*	*	*	*	*	*	*
+*	*v:1	*v:2	*v:3	*v:4	*v:5	*v:6	*v:7	*v:8	*v:9	*v:10	*v:11	*v:12
+*	*pline:1	*pline:4	*pline:7	*pline:10	*pline:13	*pline:16	*pline:19	*pline:22	*pline:25	*pline:28	*pline:31	*pline:34
+8c	J'ai	Ah!	Ah!	Si	Ah!	Si	Si	Si	Ah!	Si	Si	Si
+=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+4f	fait	si	si	tu	si	tu	tu	tu	si	tu	tu	tu
+8g	u-	tu	tu	te	tu	te	te	te	tu	te	te	te
+=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+4a	-ne	viens	te	mets	te	mets	mets	mets	te	mets	mets	mets
+8b-/	maî-	di-	mets	chas-	mets	pê-	ma-	doc-	mets	prê-	so-	nu-
+=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+4cc	-tres-	-man-	bic-	-seu-	car-	-cheu-	-la-	-teu-	sœu-	-cheu-	-lei-	-a-
+8a	-se,	-che,	-che	-re	-pe	-re	-de	-re	-re	-re	-lle	-ge
+=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
+4.b-	ya	j'n'y	dans	pour	dans	pour	dans	pour	dans	pout	au	pour
+=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5
+4dd	pas	se-	un	me	un	me	un	me	un	me	fir-	me
+8b-	long-	-rai	beau	chas-	é-	pê-	lit	soi-	cou-	prê-	-ma-	ca-
 !!LO:PB:g=original
-=6
-4cc
-8a
-=7
-4f
-8g
-=8
-4a
-8b-/
-=9
-4cc
-8a
-=10
-4.b-
-=11
-4dd
-8b-
+=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6
+4cc	-temps,	pas;	champ,	-ser,	-tang,	-cher,	blanc,	-gner,	-vent,	-cher,	-ment,	-cher,
+*	*pline:1r	*pline:4r	*pline:7r	*pline:10r	*pline:13r	*pline:16r	*pline:19r	*pline:22r	*pline:25r	*pline:28r	*pline:31r	*pline:34r
+8a	J'ai	Ah!	Ah!	Si	Ah!	Si	Si	Si	Ah!	Si	Si	Si
+=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7
+4f	fait	si	si	tu	si	tu	tu	tu	si	tu	tu	tu
+8g	u-	tu	tu	te	tu	te	te	te	tu	te	te	te
+=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8
+4a	-ne	viens	te	mets	te	mets	mets	mets	te	mets	mets	mets
+8b-/	maî-	di-	mets	chas-	mets	pê-	ma-	doc-	mets	prê-	so-	nu-
+=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9
+4cc	-tres-	-man-	bi-	-seu	car-	-cheu-	-la-	-teu-	sœu-	-cheu-	-lei-	-a-
+8a	-se,	-che,	-che	-re	-pe	-re	-de	-re	-re	-re	-lle	-ge
+=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10
+4.b-	ya	j'n'y	dans	pour	dans	pour	dans	pour	dans	pour	au	pour
+=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11
+4dd	pas	se-	un	me	un	me	un	me	un	me	fir-	me
+8b-	long-	-rai	beau	chas-	é-	pê-	lit	soi-	cou-	prê-	-ma-	ca-
 !!LO:PB:g=original
-=12
-4.cc;
-==13
-4.cc
-=14
-4a
-8cc
-=15
-4dd
-8cc
-=16
-4b-/
-8g
-=17
-4.b-/
+=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12
+4.cc;	-temps:	pas;	champ,	-ser,	-tang,	-cher,	blanc,	-gner,	-vent,	-cher,	-ment,	-cher,
+*	*pline:2	*pline:5	*pline:8	*pline:11	*pline:14	*pline:17	*pline:20	*pline:23	*pline:26	*pline:29	*pline:32	*pline:35
+==13	==13	==13	==13	==13	==13	==13	==13	==13	==13	==13	==13	==13
+4.cc	J'i-	Je	Je	Je	Je	Je	Je	Je	Je	Je	Je	Je
+=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14
+4a	-rai	me	me	me	me	me	me	me	me	me	me	me
+8cc	la	met-	met-	met-	met-	met-	met-	met-	met-	met-	met-	met-
+=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15
+4dd	voir	-te-	-trai	-te-	-trai	-trai	-trai	-te-	-trai	-trai	-trai	-trai
+8cc	di-	-rai	chas-	-rai	pê-	ma-	doc-	-rai	prê-	so-	nu-	Saint
+=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16
+4b-/	-man-	bi-	-seu-	car-	-cheu-	-la-	-teu-	sœu-	-cheu-	-lei-	-a-	Pier-
+8g	-che,	-che	-re,	-pe,	-re	-de	-re	-re	-re;	-lle,	-ge	-re
+=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17
+4.b-/	di-	dans	j'i-	dans	pour	dans	pour	dans	j'i-	au	pour	au
 !!LO:PB:g=original
-=18
-4b-/
-8a
-=19
-[4.g
-=20
-4g]
-8b-/
-=21
-4a
-8b-/
-=22
-8ccL
-8ddJ
-8ee
-=23
-4ff
-8a
+=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18
+4b-/	-manch'	un	-rai	un	te	un	te	un	-rai	fir-	te	pa-
+8a	j'i-	beau	chas-	é-	pê-	lit	soi-	cou-	prê-	-ma-	ca-	-ra-
+=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19
+[4.g	-rai;	champ;	-ser;	-tang:	-cher:	blanc:	-gner:	-vent:	-cher;	-ment:	-cher:	-dis:
+=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20
+4g]	.	.	.	.	.	.	.	.	.	.	.	.
+*	*pline:3	*pline:6	*pline:9	*pline:12	*pline:15	*pline:18	*pline:21	*pline:24	*pline:27	*pline:30	*pline:33	*pline:36
+8b-/	Je	De	Je	De	Je	De	Je	De	Je	De	Je	Je
+=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21
+4a	fe-	moi	chas-	moi	pê-	moi	soi-	moi	prê-	moi	ca-	n'ou-
+8b-/	-rai	tu	-se-	tu	-che-	tu	-gne-	tu	-che-	tu	-che-	-vri-
+=22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22
+8ccL	la	n'au-	-rai	n'au-	-rai	n'au-	-rai	n'au-	-rai	n'au-	-rai	-rai
+8ddJ	.	.	.	.	.	.	.	.	.	.	.	.
+8ee	de-	-ras	la	-ras	la	-ras	la	-ras	le	-ras	la	la
+=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23
+4ff	-man-	pas	bi-	pas	car-	pas	bel-	pas	cœur	pas	bel-	por-
+8a	-de	de	-che	de	-pe,	de	-le,	de	de	de	-le,	-te
 !!LO:PB:g=original
-=24
-4a
-8a
-=25
-4b-/
-8g
-=26
-4f
-==||
-8r
-==||
-*
-*
-==|
-*-
+=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24
+4a	à	con-	ma	con-	ma	con-	ma	con-	ma	con-	ma	qu'à
+8a	ma	.	.	.	.	.	.	.	.	.	.	mes
+=25	=25	=25	=25	=25	=25	=25	=25	=25	=25	=25	=25	=25
+4b-/	bien-	-ten-	bien-	-ten-	bien-	-ten-	bien-	-ten-	bien-	-ten-	bien-	bons
+8g	ai-	-te-	ai-	-te-	ai-	-te-	ai-	-te-	ai-	-te-	ai-	a-
+=26	=26	=26	=26	=26	=26	=26	=26	=26	=26	=26	=26	=26
+4f	-mée.	-ment.	-mée.	-ment.	-mée.	-ment.	-mée.	-ment.	mée.	-ment.	-mée.	-mis.
+==	==	==	==	==	==	==	==	==	==	==	==	==
+8r	.	.	.	.	.	.	.	.	.	.	.	.
+==	==	==	==	==	==	==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!EED-1: Samuel Boone
+!!!EEV-1: 2026/03/16
