@@ -5,120 +5,128 @@
 !!!PTL@@FR: Chansons Populaires du Canada
 !!!OTL@@FR: Et moi je m'enfouiyais
 !!!PUB: G. E. Desbarats
-!!!YEM:
 !!!PDT: 1865
-!!!SMA:
-!!!OMD:
 !!!AGN-Laforte:
 !!!AGN-type:
 !!!AGN-rime:
-**kern
-*clefG2
-*k[b-,e-]
-*g:
-*M2/4
-*
-*
-8g
-8b-/
-=1
-8a
-8b-/
-8cc
-8b-
-=2
-8.a
-16a
-8a
-8a
+**kern	**text	**text	**text	**text
+*clefG2	*	*	*	*
+*k[b-,e-]	*	*	*	*
+*g:	*	*	*	*
+*M2/4	*	*	*	*
+*	*v:1	*v:2	*v:3	*v:4
+*	*pline:1	*pline:5	*pline:9	*pline:13
+8g	En	En	En	En
+8b-/	pas-	pas-	pas-	pas-
+=1	=1	=1	=1	=1
+8a	-sant	-sant	-sant	-sant
+8b-/	près	près	près	près
+8cc	d'un	d'un'	d'un[e]	d'un
+8b-	mou-	prai-	é-	pou-
+=2	=2	=2	=2	=2
+8.a	-lin,	-rie,	-glise,	-lailler,
+*	*pline:2	*pline:6	*pline:10	*pline:14
+16a	Que	Que	Que	Que
+8a	le	les	les	les
+8a	mou-	fau-	chan-	pou-
 !!LO:PB:g=original
-=3
-4d
-4g
-=4
-8.a
-16a
-8a
-8g
-=5
-4dd
-4d
-=6
-8g
-16r
-16g
-8g
-8b-/
+=3	=3	=3	=3	=3
+4d	-lin	-cheurs	-tres	-les
+4g	mar-	fau-	chan-	chan-
+=4	=4	=4	=4	=4
+8.a	-chait,	-chaient,	-taient,	-taient,
+*	*pline:2r	*pline:6r	*pline:10r	*pline:14r
+16a	Que	Que	Que	Que
+8a	le	les	les	les
+8g	mou-	fau-	chan-	pou-
+=5	=5	=5	=5	=5
+4dd	-lin	-cheurs	-tres	-les
+4d	mar-	fau-	chan-	chan-
+=6	=6	=6	=6	=6
+8g	-chait,	-chaient,	-taient,	-taient,
+16r	.	.	.	.
+*	*pline:3Ha	*pline:7Ha	*pline:11Ha	*pline:15Ha
+16g	Et	Et	Et	Et
+8g	dans	dans	dans	dans
+8b-/	son	leur	leur	leur
 !!LO:PB:g=original
-=7
-8a
-8b-/
-8cc
-8b-
-=8
-8a
-8dd
-16cc
-16dd
-16cc
-16b-
-=9
-8a
-8dd
-16cc
-16dd
-16cc
-16b-
+=7	=7	=7	=7	=7
+8a	jo-	jo-	jo-	jo-
+8b-/	-li	-li	-li	-li
+8cc	chant	chant	chant	chant
+8b-	di-	di-	di-	di-
+=8	=8	=8	=8	=8
+8a	-sait:	-saient:	-saient:	-saient:
+*	*pline:3Hb	*pline:7Hb	*pline:11Hb	*pline:15Hb
+8dd	Ke-	Ah!	Al-	Cou-
+16cc	-ti-	l'beau	-le-	-cou-
+16dd	-ke-	.	.	.
+16cc	-ti-	.	.	.
+16b-	-ke-	fau-	-lu-	-ri-
+=9	=9	=9	=9	=9
+8a	-tac,	-cheur!	-ia!	-cou,
+8dd	ke-	ah!	Al-	cou-
+16cc	-ti-	l'beau	-le-	-cou-
+16dd	-ke-	.	.	.
+16cc	-ti-	.	.	.
+16b-	-ke	fau-	-lu-	-ri-
 !!LO:PB:g=original
-=10
-8a
-8a
-8a
-8a
-=11
-4d
-8g
-8g
-=12
-8a
-8dd
-16cc
-16dd
-16cc
-16b-
+=10	=10	=10	=10	=10
+8a	-tac;	-cheur!	-ia!	-cou;
+*	*pline:4Ha	*pline:8Ha	*pline:12Ha	*pline:16Ha
+8a	Moi	Moi	Moi	Moi
+8a	je	je	je	je
+8a	croy-	croy-	croy-	croy-
+=11	=11	=11	=11	=11
+4d	-ais	-ais	-ais	-ais
+8g	qu'il	qu'ils	qu'ils	qu'ell's
+8g	di-	di-	di-	di-
+=12	=12	=12	=12	=12
+8a	-sait:	-saient:	-saient:	-saient:
+*	*pline:4Hb	*pline:8Hb	*pline:12Hb	*pline:16Hb
+8dd	At-	Ah!	Ah!	Cou-
+16cc	-trapp[e],	v'là	le	-pons-
+16dd	at-	.	.	.
+16cc	-trapp[e],	.	.	.
+16b-	at-	l'vo-	voi-	y
 !!LO:PB:g=original
-=13
-8a
-8dd
-16cc
-16dd
-16cc
-16b-
-=14
-8a
-8a
-8a
-8a
-=15
-4d
-4g
+=13	=13	=13	=13	=13
+8a	-trapp[e]!	-leur!	-là!	l'cou!
+8dd	at-	ah!	ah!	cou-
+16cc	-trapp[e],	v'là	le	-pons-
+16dd	at-	.	.	.
+16cc	-trapp[e],	.	.	.
+16b-	at-	l'vo-	voi-	y
+=14	=14	=14	=14	=14
+8a	-trapp[e]!	-leur!	-là!	l'cou!
+*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain
+*	*refrain	*	*	*
+*	*italic	*	*	*
+*	*pline:R1Ha	*	*	*
+8a	Et	.	.	.
+8a	moi	.	.	.
+8a	je	.	.	.
+=15	=15	=15	=15	=15
+4d	m'en-	.	.	.
+4g	-foui-	.	.	.
 !!LO:PB:g=original
-=16
-8a
-8a
-8g
-8b-/
-=17
-4dd
-4d
-=18
-4g
-==||
-8r
-==||
-*
-*
-==|
+=16	=16	=16	=16	=16
+8a	foui...	.	.	.
+*	*pline:R1Hb	*	*	*
+8a	Et	.	.	.
+8g	moi	.	.	.
+8b-/	je	.	.	.
+=17	=17	=17	=17	=17
+4dd	men-	.	.	.
+4d	-foui-	.	.	.
+=18	=18	=18	=18	=18
+4g	-yais.	.	.	.
+*	*Xitalic	*	*	*
+*	*Xrefrain	*	*	*
+==	==	==	==	==
+8r	.	.	.	.
+==	==	==	==	==
+*-	*-	*-	*-	*-
 !!!RWG: Third note of m.4 unclear, presumed 'a'
-!!!RNB: Final eighth rest flipped backward in original
-*-
+!!!EED-1: Samuel Boone
+!!!EEV-1: 2026/03/15
