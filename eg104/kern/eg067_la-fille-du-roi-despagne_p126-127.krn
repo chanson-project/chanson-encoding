@@ -5,92 +5,93 @@
 !!!PTL@@FR: Chansons Populaires du Canada
 !!!OTL@@FR: La fille du roi d'Espagne
 !!!PUB: G. E. Desbarats
-!!!YEM:
 !!!PDT: 1865
-!!!SMA:
-!!!OMD:
 !!!AGN-Laforte:
 !!!AGN-type:
 !!!AGN-rime:
-**kern
-*clefG2
-*k[f#,c#,g#]
-*A:
-*M3/8
-*
-*
-8e
-=1
-4a
-8g#
-=2
-4f#
-8g#
-=3
-4.a
-=4
-4e
-8r
-=5
-4f#
-8e
+**kern	**text	**text
+*clefG2	*	*
+*k[f#,c#,g#]	*	*
+*A:	*	*
+*M3/8	*	*
+*	*v:1	*v:2
+*	*pline:1	*pline:5
+8e	La	À
+=1	=1	=1
+4a	fill'	bat-
+8g#	du	-re
+=2	=2	=2
+4f#	roi	la
+8g#	d'Es-	les-
+=3	=3	=3
+4.a	-pa-	-si-
+=4	=4	=4
+4e	-gne,	-ve,
+8r	.	.
+*	*pline:2	*pline:6
+=5	=5	=5
+4f#	Vo-	Vo-
+8e	-gue,	-gue,
 !!LO:PB:g=original
-=6
-8f#
-8g#
-8a
-=7
-(4g#
-8f#)
-=8
-4e
-8e
-=9
-4a
-8b/
-=10
-4cc#
-8dd
-=11
-(4cc#
-8b)
+=6	=6	=6
+8f#	ma-	ma-
+8g#	-ri-	-ri-
+8a	-nier,	-nier,
+=7	=7	=7
+(4g#	vo-	vo-
+8f#)	.	.
+=8	=8	=8
+4e	gue!	-gue!
+*	*pline:3Ha	*pline:7Ha
+8e	Veut	La
+=9	=9	=9
+4a	ap-	battr[e]
+8b/	-prendr[e]	et
+=10	=10	=10
+4cc#	un	la
+8dd	mé-	cou-
+=11	=11	=11
+(4cc#	-tier,	-ler,
+8b)	.	.
+*	*pline:3Hb	*pline:7Hb
 !!LO:PB:g=original
-=12
-4b/
-8a
-=13
-4f#
-8a
-=14
-[4.b
-=15
-4b]
-8e
-=16
-4a
-8b/
-=17
-4cc#
-8dd
+=12	=12	=12
+4b/	Vo-	Vo-
+8a	-gue,	-gue,
+=13	=13	=13
+4f#	ma-	ma-
+8a	-ri-	-ri-
+=14	=14	=14
+[4.b	-nier!	-nier!
+=15	=15	=15
+4b]	.	.
+*	*pline:4Ha	*pline:8Ha
+8e	Veut	La
+=16	=16	=16
+4a	Ap-	battr[e]
+8b/	-prendr[e]	et
+=17	=17	=17
+4cc#	un	la
+8dd	mé-	cou-
 !!LO:PB:g=original
-=18
-(4cc#
-8b)
-=19
-4b/
-8a
-=20
-4f#
-8g#
-=21
-[4.a
-=22
-8a]
-8r
-==||
-8r
-==||
-*
-*
-==|
-*-
+=18	=18	=18
+(4cc#	-tier.	-ler.
+8b)	.	.
+*	*pline:4Hb	*pline:8Hb
+=19	=19	=19
+4b/	Vo-	Vo-
+8a	-gue,	-gue,
+=20	=20	=20
+4f#	ma-	ma-
+8g#	-ri-	-ri-
+=21	=21	=21
+[4.a	-nier!	-nier!
+=22	=22	=22
+8a]	.	.
+8r	.	.
+==	==	==
+8r	.	.
+==	==	==
+*-	*-	*-
+!!!EED-1: Samuel Boone
+!!!EEV-1: 2026/03/17
