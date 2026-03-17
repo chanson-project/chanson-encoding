@@ -5,134 +5,146 @@
 !!!PTL@@FR: Chansons Populaires du Canada
 !!!OTL@@FR: Ah! Si mon moine voulait danser!
 !!!PUB: G. E. Desbarats
-!!!YEM:
 !!!PDT: 1865
-!!!SMA:
-!!!OMD:
 !!!AGN-Laforte:
 !!!AGN-type:
 !!!AGN-rime:
-**kern
-*clefG2
-*k[f#]
-*G:
-*M2/8
-*
-*
-8d
-=1
-8g
-8b/
-=2
-8b/
-16a
-16g
-=3
-8a
-8b/
-=4
-8.b/
-16a
+**kern	**text	**text	**text	**text	**text	**text
+*clefG2	*	*	*	*	*	*
+*k[f#]	*	*	*	*	*	*
+*G:	*	*	*	*	*	*
+*M2/8	*	*	*	*	*	*
+*	*v:1	*v:2	*v:3	*v:4	*v:5	*v:6
+*	*pline:1	*pline:3	*pline:5	*pline:7	*pline:9	*pline:11
+8d	Ah!	Ah!	Ah!	Ah!	Ah!	S'il!
+=1	=1	=1	=1	=1	=1	=1
+8g	si	si	si	si	si	n'a-
+8b/	mon	mon	mon	mon	mon	-vait
+=2	=2	=2	=2	=2	=2	=2
+8b/	moi-	moi-	moi-	moi-	moi-	fait
+16a	-ne	-ne	-ne	-ne	-ne	vœu
+16g	vou-	vou-	vou-	vou-	vou-	de
+=3	=3	=3	=3	=3	=3	=3
+8a	-lait	-lait	-lait	-lait	-lait	pau-
+8a	dan-	dan-	dan-	dan-	dan-	-vre-
+=4	=4	=4	=4	=4	=4	=4
+8.b/	-ser!	-ser!	-ser!	-ser!	-ser!	-té!
+*	*pline:1r	*pline:3r	*pline:5r	*pline:7r	*pline:9r	*pline:11r
+16a	Ah!	Ah!	Ah!	Ah!	Ah!	S'il!
 !!LO:PB:g=original
-=5
-8g
-8b/
-=6
-8b/
-16a
-16g
-=7
-8a
-8b/
-=8
-8g
-16r
-16d
-=9
-8g
-8b/
+=5	=5	=5	=5	=5	=5	=5
+8g	si	si	si	si	si	n'a-
+8b/	mon	mon	mon	mon	mon	-vait
+=6	=6	=6	=6	=6	=6	=6
+8b/	moi-	moi-	moi-	moi-	moi-	fait
+16a	-ne	-ne	-ne	-ne	-ne	vœu
+16g	vou-	vou-	vou-	vou-	vou-	de
+=7	=7	=7	=7	=7	=7	=7
+8a	-lait	-lait	-lait	-lait	-lait	pau-
+8b/	dan-	dan-	dan-	dan-	dan-	-vre-
+=8	=8	=8	=8	=8	=8	=8
+8g	-ser!	-ser!	-ser!	-ser!	-ser!	-té!
+16r	.	.	.	.	.	.
+*	*pline:2	*pline:4	*pline:6	*pline:8	*pline:10	*pline:12
+16d	Un	Un	Un	Un	Un	Bien
+=9	=9	=9	=9	=9	=9	=9
+8g	ca-	cein-	cha-	froc	beau	d'au-
+8b/	-pu-	-tu-	-pe-	de	psau-	-tres
 !!LO:PB:g=original
-=10
-8b/
-16a
-16g
-=11
-8a
-8a
-=12
-8.b/
-16a
-=13
-8g
-8b/
-=14
-8b/
-16a
-16g
-=15
-8a
-8b/
+=10	=10	=10	=10	=10	=10	=10
+8b/	-chon	-ron	-let	bur'	-tier	chos'
+16a	je	je	je	je	je	je
+16g	lui	lui	lui	lui	lui	lui
+=11	=11	=11	=11	=11	=11	=11
+8a	don-	don-	don-	don-	don-	don-
+8a	-ne-	-ne-	-ne-	-ne-	-ne-	-ne-
+=12	=12	=12	=12	=12	=12	=12
+*	*	*	*	*	*	*
+8.b/	-rais,	-rais!	-rais.	-rais.	-rais.	-rais.
+*	*	*	*	*	*	*
+*	*pline:2r	*pline:4r	*pline:6r	*pline:8r	*pline:10r	*pline:12r
+16a	Un	Un	Un	Un	Un	Bien
+=13	=13	=13	=13	=13	=13	=13
+8g	ca-	cein-	cha-	froc	beau	d'au-
+8b/	-pu-	-tu-	-pe-	de	psau-	-tres
+=14	=14	=14	=14	=14	=14	=14
+8b/	-chon	-ron	-let	bur'	-tier	chos'
+16a	je	je	je	je	je	je
+16g	lui	lui	lui	lui	lui	lui
+=15	=15	=15	=15	=15	=15	=15
+8a	don-	don-	don-	don-	don-	don-
+8b/	-ne-	-ne-	-ne-	-ne-	-ne-	-ne-
 !!LO:PB:g=original
-=16
-8g
-8r
-==17
-1r
-==18
-8.g
-16b/
-=19
-8dd
-8dd
-=20
-4cc
-=21
-8.b
-16a
+=16	=16	=16	=16	=16	=16	=16
+*	*	*	*	*	*	*
+8g	-rais,	-rais!	-rais.	-rais.	-rais.	-rais.
+*	*	*	*	*	*	*
+8r	.	.	.	.	.	.
+==17	==17	==17	==17	==17	==17	==17
+1r	.	.	.	.	.	.
+*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain
+*	*refrain	*	*	*	*	*
+*	*italic	*	*	*	*	*
+*	*pline:R1	*	*	*	*	*
+==18	==18	==18	==18	==18	==18	==18
+8.g	Dan-	.	.	.	.	.
+16b/	-se,	.	.	.	.	.
+=19	=19	=19	=19	=19	=19	=19
+8dd	mon	.	.	.	.	.
+8dd	moin',	.	.	.	.	.
+=20	=20	=20	=20	=20	=20	=20
+4cc	dan-	.	.	.	.	.
+=21	=21	=21	=21	=21	=21	=21
+8.b	-se!	.	.	.	.	.
+*	*pline:R2	*	*	*	*	*
+16a	Tu	.	.	.	.	.
 !!LO:PB:g=original
-=22
-8.g
-16b/
-=23
-8dd
-8dd
-=24
-4cc
-=25
-8.b/
-16a
-=26
-8g
-8b/
-=27
-8b/
-16a
-16g
+=22	=22	=22	=22	=22	=22	=22
+8.g	n'en-	.	.	.	.	.
+16b/	-tends	.	.	.	.	.
+=23	=23	=23	=23	=23	=23	=23
+8dd	pas	.	.	.	.	.
+8dd	la	.	.	.	.	.
+=24	=24	=24	=24	=24	=24	=24
+4cc	dan-	.	.	.	.	.
+=25	=25	=25	=25	=25	=25	=25
+8.b/	-se,	.	.	.	.	.
+*	*pline:R3Ha	*	*	*	*	*
+16a	Tu	.	.	.	.	.
+=26	=26	=26	=26	=26	=26	=26
+8g	n'en-	.	.	.	.	.
+8b/	-tends	.	.	.	.	.
+=27	=27	=27	=27	=27	=27	=27
+8b/	pas	.	.	.	.	.
+16a	mon	.	.	.	.	.
+16g	mou-	.	.	.	.	.
 !!LO:PB:g=original
-=28
-8a
-8a
-=29
-8.b/
-16a
-=30
-8g
-8b/
-=31
-8b/
-16a
-16g
-=32
-8a
-8b/
-=33
-8g
-==||
-8r
-==||
-*
-*
-==|
-!!!RWG: First eighth note of m. 3 unclear in original (either 'a' or 'b', 'a' falls in line with later similar passage)
-!!!RWG: Same issue as above with second note (16th) in m.10 and first note of m.12 (presumed 'a' and 'b' respectively, consistent with similar passages)
-*-
+=28	=28	=28	=28	=28	=28	=28
+8a	-lin,	.	.	.	.	.
+8a	lon,	.	.	.	.	.
+=29	=29	=29	=29	=29	=29	=29
+8.b/	la,	.	.	.	.	.
+*	*pline:R3Hb	*	*	*	*	*
+16a	Tu	.	.	.	.	.
+=30	=30	=30	=30	=30	=30	=30
+8g	n'en-	.	.	.	.	.
+8b/	-tends	.	.	.	.	.
+=31	=31	=31	=31	=31	=31	=31
+8b/	pas	.	.	.	.	.
+16a	mon	.	.	.	.	.
+16g	mou-	.	.	.	.	.
+=32	=32	=32	=32	=32	=32	=32
+8a	-lin	.	.	.	.	.
+8b/	mar-	.	.	.	.	.
+=33	=33	=33	=33	=33	=33	=33
+8g	-cher.	.	.	.	.	.
+==	==	==	==	==	==	==
+8r	.	.	.	.	.	.
+*	*Xitalic	*	*	*	*	*
+*	*Xrefrain	*	*	*	*	*
+==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-
+!!!RWG: Some notes unclear in original, but assumed to be what they are because of similar passages
+!!!RWG: Alternate lyric "donneré" should exist under "donnerais" in every verse but could not figure out a way to make that work
+!!!EED-1: Samuel Boone
+!!!EEV-1: 2026/03/17
