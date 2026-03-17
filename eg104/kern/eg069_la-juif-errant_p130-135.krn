@@ -5,90 +5,87 @@
 !!!PTL@@FR: Chansons Populaires du Canada
 !!!OTL@@FR: Le Juif-Errant
 !!!PUB: G. E. Desbarats
-!!!YEM:
 !!!PDT: 1865
-!!!SMA:
-!!!OMD:
 !!!AGN-Laforte:
 !!!AGN-type:
 !!!AGN-rime:
-**kern
-*clefG2
-*k[f#]
-*G:
-*M6/8
-*
-*
-8g
-=1
-4a
-8b
-8ccL
-8bJ
-8a
-=2
-4.g
-8f#
-8r
-8g
-=3
-4a
-8b
-8ccL
-8bJ
-8a
+**kern	**text	**text	**text	**text	**text	**text	**text	**text	**text	**text	**text	**text	**text	**text	**text	**text	**text	**text	**text	**text	**text	**text	**text	**text
+*clefG2	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+*k[f#]	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+*G:	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+*M6/8	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+*	*v:1	*v:2	*v:3	*v:4	*v:5	*v:6	*v:7	*v:8	*v:9	*v:10	*v:11	*v:12	*v:13	*v:14	*v:15	*v:16	*v:17	*v:18	*v:19	*v:20	*v:21	*v:22	*v:23	*v:24
+*	*pline:1Ha	*pline:4Ha	*pline:7Ha	*pline:10Ha	*pline:13Ha	*pline:16Ha	*pline:19Ha	*pline:22Ha	*pline:25Ha	*pline:28Ha	*pline:31Ha	*pline:34Ha	*pline:37Ha	*pline:40Ha	*pline:43Ha	*pline:46Ha	*pline:49Ha	*pline:52Ha	*pline:55Ha	*pline:58Ha	*pline:61Ha	*pline:64Ha	*pline:67Ha	*pline:70Ha
+8g	Est-	Un	Son	On	Mes-	En-	J'ac-	Ah!	La	N'ê-	I-	Jus-	Je	J'ai	J'ai	Je	Nous	Vous	C'est	Sur	Moi	Jé-	De	Mes-
+=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+4a	il	jour	ha-	lui	-sieurs,	-trez	-cep-	de	viei-	-tes-	-sa-	-te	tra-	vu	vu	n'ai	pen-	é-	ma	le	bru-	-sus,	chez	-sieurs
+8b	rien	près	-bit,	dit:	je	dans	-te-	sa-	-lles-	vous	-ac	ciel,	-ver-	de-	dans	point	-sions	-tiez	cru-	mont	-tal	la	moi,	le
+8ccL	sur	de	tour	Bon-	vous	cet-	-rais	-voir	-se	point	La-	que	-se	-dans	l'A-	de	com-	donc	-el-	du	et	bon-	à	temps
+8bJ	.	.	.	.	.	-te	.	vo-	.	.	.	.	.	.	.	.	-me	.	-le	.	.	.	.	.
+8a	la	la	dif-	-jour	pro-	au-	de	-tre	me	cet	-que-	me	les	l'Eu-	-mé-	res-	un	cou-	au-	Cal-	re-	-té	l'heur'	me
+=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+4.g	ter-	vil-	-for-	maî-	-tes-	-ber-	boi-	â-	gê-	hom-	-dem-	ron-	mer-	-ro-	-ri-	-sour-	son-	-pa-	-da-	-vai-	-bel-	mê-	mê-	pres-
+8f#	-re	-le	-me	-tre,	-te	-ge,	-re	-ge	-ne;	-me	-me	-de	-res,	-pe	-que,	-ce	-ge	-ble	-ce	-re	-le,	-me,	-me,	-se;
+8r	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+*	*pline:1Hb	*pline:4Hb	*pline:7Hb	*pline:10Hb	*pline:13Hb	*pline:16Hb	*pline:19Hb	*pline:22Hb	*pline:25Hb	*pline:28Hb	*pline:31Hb	*pline:34Hb	*pline:37Hb	*pline:40Hb	*pline:43Hb	*pline:46Hb	*pline:49Hb	*pline:52Hb	*pline:55Hb	*pline:58Hb	*pline:61Hb	*pline:64Hb	*pline:67Hb	*pline:70Hb
+8g	Qui	De	Et	De	Que	Vé-	Deux	Nous	J'ai	De	Pour	Est	Les	Ain-	C'est	En	Le	De	Qui	Jé-	Je	Me	Je	A-
+=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+4a	soit	Bru-	très-	grâ-	j'ai	-né-	coups	se-	bien	qui	nom	pé-	ri-	-si	u-	mai-	ré-	quel-	cau-	-sus	lui	dit	sor-	-dieu
+8b	plus	-xell's,	mal	-ce	bien	-ra-	a-	-ri-	dix-	l'on	me	-ni-	-vièr's,	que	-ne	-son	-cit	-que	-se	por-	dis	en	-tis	la
+8ccL	sur-	en	ar-	ac-	du	-ble	-vec-	-ons	huit	par-	fut	-ble	les	dans	vé-	ni	de	grand	mon	-tait	sans	sou-	bien	com-
+8bJ	.	.	.	-cor-	.	.	.	fort	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+8a	-pre-	Bra-	-ran-	-dez-	mal-	viei-	-que	cu-	cents	-le	don-	pour	ruis-	l'A-	-ri-	en	vos	pé-	mal-	sa	rai-	-pi-	cha-	-pa-
 !!LO:PB:g=original
-=4
-4.g
-8r
-8g
-=5
-4g
-8dd
-4dd
-8dd
-=6
-4.ee
-4cc
-8dd
-=7
-4ee
-8dd
-4cc
-8b
+=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
+4.g	-nant	-bant,	-gé,	nous	-heur:	-llard;	vous,	-rieux;	ans.	tant?	né;	moi!	-seaux,	-sie,	-té,	bien;	maux;	-ché	-heur;	croix;	-son:	-tant:	-grin;	-gnie;
+4r	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+*	*pline:2Ha	*pline:5Ha	*pline:8Ha	*pline:11Ha	*pline:14Ha	*pline:17Ha	*pline:20Ha	*pline:23Ha	*pline:26Ha	*pline:29Ha	*pline:32Ha	*pline:35Ha	*pline:38Ha	*pline:41Ha	*pline:44Ha	*pline:47Ha	*pline:50Ha	*pline:53Ha	*pline:56Ha	*pline:59Ha	*pline:62Ha	*pline:65Ha	*pline:68Ha	*pline:71Ha
+8g	Que	Des	Leur	La	Ja-	D'un	Mais	A	Cho-	Que	Né	Je	Les	Des	Ain-	J'ai	Nous	Pour	Si	Il	"O-	"Tu	A-	Grâc[e]
+=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5
+4g	la	bour-	fit	sa-	-mais	pot	je	voir	-se	l'É-	à	fais	fo-	ba-	-si	cinq	trai-	que	mon	me	-tes-	mar-	-vec	à
+8dd	gran-	-geois	croir'	-tis-	je	de	ne	vo-	sûr[e]	-cri-	Jé-	le	-rêts,	-taill's	que	sous	-tions	Dieu	cri-	dit,	toi,	-che-	dou-	votr'
+4dd	-de	fort	que	-fac-	ne	biè-	puis	-tre	et	-tu-	-ru-	tour	les	et	dans	dans	de	tout	-me	dé-	cri-	-ras	-leur	po-
+8dd	mi-	do-	cet	-tion	m'ar-	-re	m'as-	vi-	cer-	-re	-sa-	du	dé-	des	l'A-	ma	men-	ai-	s'ef-	-bon-	-mi-	toi-	ex-	-li-
+=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6
+4.ee	-sè-	-ci-	hom-	d'êt-	-rê-	fraî-	-seoi-	-sa-	-tai-	nom-	-lem-	mon-	-ser-	choc-	-fri-	bour-	-son-	-ma-	-fa-	-nai-	-nel-	mê-	-trê-	-tes-
+4cc	-re	-les	-me	-re	-te	-che	-re,	-ge,	-ne,	-me	-me,	-de	-res,	-ques	-que	-se,	-ges	-ble	-ce,	-re,	-le,	-me	-me	-se!
+*	*pline:2Hb	*pline:5Hb	*pline:8Hb	*pline:11Hb	*pline:14Hb	*pline:17Hb	*pline:20Hb	*pline:23Hb	*pline:26Hb	*pline:29Hb	*pline:32Hb	*pline:35Hb	*pline:38Hb	*pline:41Hb	*pline:44Hb	*pline:47Hb	*pline:50Hb	*pline:53Hb	*pline:56Hb	*pline:59Hb	*pline:62Hb	*pline:65Hb	*pline:68Hb	*pline:71Hb
+8dd	Du	L'ac-	É-	Un	Ni	Vous	Je	Vous	Je	I-	Vil-	Pour	Les	Qui	Gran-	Voi-	Tous	Vous	J'au-	Pas-	De	Pen-	Je	Je
+=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7
+4ee	pau-	-cos-	-tait	mo-	i-	pren-	dois	pa-	pass[e]	sa'c,	-le	la	mon-	coû-	-de	-là	vos	ait	-rai	-sant	de-	-dant	me	vous
+8dd	-vre	-tèr'	fort	-ment	-ci,	-drez	res-	-rais-	en-	le	bien	cin-	-tagn's,	-tai'nt	mor-	tout	plus	tant	bien	de-	-vant	plus	mis	en
+4cc	Juif-	en	é-	a-	ni	vot-	-ter	-sez	-core	Juif-	re-	-quiè-	les	bien	-ta-	mon	grands	af-	du	-vant	ma	de	en	re-
+8b	Er-	pas-	-tran-	-vec	ai-	-re	de-	bien	douze	Er-	-nom-	-me	cô-	des	-li-	mo-	tra-	-fli-	bon-	chez	mai-	mill[e]	che-	-mer-
 !!LO:PB:g=original
-=8
-4a
-8cc
-4b
-!LO:TX:a:t=2
-.
-4dd
-=9
-4.g
-4.a
-=10
-4g
-8a
-4b
-!LO:TX:a:t=2
-.
-4dd
-=11
-8ddq
-4.cc
-4.a
+=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8
+4a	-rant?	-sant.	-ger;	vous;	-lleurs;	part;	-bout.	vieux;	ans:	-rant?	-mé[e].	fois!	-teaux,	vies:	-té:	-yen;	-vaux:	-gé?	-heur:	moi:	-son;	ans!	-min.	-cie:
+*	*pline:3Ha	*pline:6Ha	*pline:9Ha	*pline:12Ha	*pline:15Ha	*pline:18Ha	*pline:21Ha	*pline:24Ha	*pline:27Ha	*pline:30Ha	*pline:33Ha	*pline:36Ha	*pline:39Ha	*pline:42Ha	*pline:45Ha	*pline:48Ha	*pline:51Ha	*pline:54Ha	*pline:57Ha	*pline:60Ha	*pline:63Ha	*pline:66Ha	*pline:69Ha	*pline:72Ha
+8cc	Que	Ja-	Por-	Ne	Par	Nous	Je	Vous	J'a-	De	Oui,	Cha-	Les	Je	La	En	Au-	Di-	J'ai	"Veux-	A-	Le	De	Je
+16%3bL	sont	-mais	-tant,	nous	beau	vous	suis	a-	-vais	grâ-	c'est	-cun	plai-	les	mort	tout	-jourd'-	-tes-	trai-	tu	-vanc[e]	der-	ce	suis
+16%3ddJ	sort	ils	comm[e]	re-	ou	ré-	en	-vez	douz[e]	-ce,	moi,	meurt	-nes,	ai	ne	lieux,	hui	nous	-té	bien,	et	-nier	jour-	trop
+=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9
+4.g	mal-	n'a-	ouv-	-fu-	mau-	-ga-	vé-	bien	ans	di-	mes	a	les	tra-	me	en	nous	l'oc-	mon	mon	mar-	ju-	là	tour-
+4.a	-heu-	-vai'nt	-ri-	-sez	-vais	-le-	-ri-	cent	pas-	-tes-	en-	son	val-	-ver-	peut	tous	vo-	-ca-	Sau-	a-	-che	-ge-	je	-men-
+=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10
+4g	-reux	va	-er,	pas,	temps	-rons	-té	ans,	-sé	nous,	-fants,	tour,	-lons:	-sés	rien,	temps	-yons	-sion	-veur	-mi,	donc,	-ment	suis	-té
+*	*pline:3Hb	*pline:6Hb	*pline:9Hb	*pline:12Hb	*pline:15Hb	*pline:18Hb	*pline:21Hb	*pline:24Hb	*pline:27Hb	*pline:30Hb	*pline:33Hb	*pline:36Hb	*pline:39Hb	*pline:42Hb	*pline:45Hb	*pline:48Hb	*pline:51Hb	*pline:54Hb	*pline:57Hb	*pline:60Hb	*pline:63Hb	*pline:66Hb	*pline:69Hb	*pline:72Hb
+8a	Pa-	Un	D'vant	Tar-	Je	Le	Con-	Vous	Quand	Si	Qui	Et	Tous	Sans	Je	J'en	Que	De	A-	Que	Car	Fi-	En	Quand
+16%3bL	-raît	hom-	lui	-dez	march[e]	mieux	-fus	mon-	Jé-	c'est	suis	moi	che-	y	m'en	ai	nous	cet-	-vec	je	tu	-ni-	mar-	je
+16%3ddJ	trist[e]	-me	un	un	in-	que	de	-trez	-sus-	sû-	le	je	-mins	ê-	a-	tou-	vous	-te	trop	re-	me	-ra	-che	suis
+=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11
+8ddq	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+4.cc	et	si	tab-	peu	-ces-	nous	vos	bien	Christ	-re-	Juif-	vis	me	-tre	-per-	-jours	mé-	pu-	de	-pos[e]	fais	ton	jour	ar-
+4.a	fâ-	bar-	-li-	vos	-sam-	pour-	bon-	au-	est	-ment	-Er-	tou-	sont	bles-	-çois	au-	-pre-	-ni-	ri-	i-	af-	tour-	et	-rê-
 !!LO:PB:g=original
-=12
-4g
-8r
-8r
-==13
-8r
-==||
-*
-*
-==|
-!!!RNB: Eighth rests in m.4 and m.12b2 (final rest in m.12) flipped backward in original
-!!!RWG: Two-note tuplets in mm.8 & 10 presumed encoded incorrectly
-*-
+=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12
+4g	-cheux!	-bu!	-er.	pas.	-ment.	-rons.	-tés.	-tant.	né.	vous.	-rant.	-jours.	bons.	-sé.	bien.	-tant.	-nions.	-tion.	-gueur.	-ci?"	-front!"	-ment."	nuit.	-té.
+8r	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+4r	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==
+8r	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!RWG: Two-note tuplets in mm.8 & 10 encoded as correct value (eighth notes instead of quarter notes as in original)
+!!!RWG: Added missing quote marks at end of v20
+!!!EED-1: Samuel Boone
+!!!EEV-1: 2026/03/16
