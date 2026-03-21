@@ -73,28 +73,54 @@ For a list of the different types of record comments, consult: https://www.humdr
    - Use `*pline:n` (e.g., `*pline:1`)
    - Refrains use `*pline:R1`, `*pline:R2`, etc.
 
-3. **Refrain formatting** (italics): NOTE: Implementation of automatic italics with *refrain to be added.
-   - Begin: `*italic`
-   - End: `*Xitalic`
+3. **Refrain formatting** (italics):
+   - All refrains are encoded with the interpretations *refrain and *italic before the first refrain syllable and and the interpretations *Xitalic and *Xrefrain after the last refrain syllable.
+   - Refrain lines may be initial, inserted, and final based on their position within the song.
+   - Text of initial and final refrains that are repeated in alternation with verses are encoded only once and further identified with *>Refrain markings.
+   - NOTE: Implementation of automatic italics with *refrain to be added.
 
-4. **Syllable spacing**:
-   - Prefix with a space.
-   - Exception: Mute “e” at the end of a word before a vowel-initial word.
+7. **Joint syllables**:
+   - Notes that are set with two or more joined syllables (e.g., "il y  a" formulated as "ya") should be set with a space to add a slur joining the two syllables. 
 
-5. **Elisions**:
-   - Same spacing rules as above.
-   - Exception: mute “e” is replaces by apostrophe when the following word begins with a vowel;
-   - Add the comment '!elision not in original' above the elided "e"
+8. **Elisions**:
+   - Final "e" (/ə/) that are elided and not replaced by an apostrophe in the original should be put in square brackets. For example: If the word group "danse avec moi" is set to three notes, with "danse" set to a single note, the final "e" is elided and th word should be encoded as "dans[e]".
+   - Use the same procedures for plural endings, such as "es" and "ent", which are pronounced as /ə/.
 
-6. **Repetitions**:
-   - Full: `*bis` and `*Xbis` around the repeated line.
-   - Partial: Use suffixes:
+9. **Repetitions**:
+   - Full line repetition should be numbered as original with the suffix "r", e.g., *pline:1r
+   - Partial line repetitions should be labeled with the following suffixes:
      ```
-     *pline:1a    ← start
-     *pline:1c    ← middle
-     *pline:1b    ← end
+     *pline:1a    ← start (add last repeated syllable number)
+     *pline:1c    ← middle (add first and last repeated syllables numbers)
+     *pline:1b    ← end (add first repeated syllable number)
      ```
-     
+   - Repetitions that are not accommodated by the above rules (e.g., single word repeitions) should be preceded by *bis and followed by *Xbis interpretations.
+  
+10. **Text analysis
+    - Line endings are marked with three interpretations, i.e., *r:, *rf, and *rs.
+    ```
+    *rp:ø
+    *rf:jø
+    *rs:a
+   ```
+   - These are to be interpreted as follows:
+   ```
+   interpretation | meaning | examples |
+   |------------| --------  | ---------|
+   | rp | phoneme | vowel of rhyme |
+   | rf | phoneme group | full rhyme |
+   | rs | lowercase letter | structure label |  
+   ```
+   - Note that structure label is based on the rhyming vowel; in cases where the same vowel is used with a different consonants, the rhythm is given a suffix number corresponding to each vowel/consonant combination. For example:
+```
+ending | rhyme vowel | full rhyme | label |
+|------| -------------| ------------| -----------|
+| vent | *rp:ɑ̃ | *rf:vɑ̃ | *rs:a1 |
+| gens | *rp:ɑ̃ | *rf:ʒɑ̃ | *rs:a2 |
+| ange | *rp:ɑ̃ | *rf:ɑ̃ʒ,ə | *rs:a3 |
+```
+- Mute "e" are added to the full rhyme and set apart from full rhyme by a comma.
+
 <summary><h3>Music Encoding</h3></summary>
 
 1. **Melodic grouping** (segmentation levels):
