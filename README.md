@@ -5,7 +5,7 @@ Encoding is *diplomatic* and includes the musical score, poetic text, phonemes, 
 
 
 ## Encoding Procedure
-
+<details>
 <summary><h3>General Encoding</h3></summary>
 
 1. **Record comments** (preceding each song):  
@@ -38,7 +38,6 @@ For a list of the different types of record comments, consult: https://www.humdr
    ```
    extract -s 1-$,0
    ```
-
 4. **Preserve visual layout** of original:
    - Insert `!!LO:PB:g=original` above the measure that appears on the next system.
    - Use the alignment button to preserve layout.
@@ -58,12 +57,14 @@ For a list of the different types of record comments, consult: https://www.humdr
    !!!EED: Ève Poudrier
    !!!EEV: 2025/05/06
    ```
-8. **Encoding editorial comments**:
+7. **Encoding editorial comments**:
    ```
    !!!RNB (Representation note) can be used to encode any modifications to the representation of the score. For example, replacing dal segno symbols by repeats.
    !!!RWG (Representation warning) can be use to point out an unusual representation in the poriginal score. For example the use of two double barlines at the end of eg003_cest-la-belle-francoise_p8-9.
    ```
+</details>
 
+<details>
 <summary><h3>Text Encoding</h3></summary>
 
 1. **Syllabification**:
@@ -79,14 +80,14 @@ For a list of the different types of record comments, consult: https://www.humdr
    - Text of initial and final refrains that are repeated in alternation with verses are encoded only once and further identified with *>Refrain markings.
    - NOTE: Implementation of automatic italics with *refrain to be added.
 
-7. **Joint syllables**:
+4. **Joint syllables**:
    - Notes that are set with two or more joined syllables (e.g., "il y  a" formulated as "ya") should be set with a space to add a slur joining the two syllables. 
 
-8. **Elisions**:
+5. **Elisions**:
    - Final "e" (/ə/) that are elided and not replaced by an apostrophe in the original should be put in square brackets. For example: If the word group "danse avec moi" is set to three notes, with "danse" set to a single note, the final "e" is elided and th word should be encoded as "dans[e]".
    - Use the same procedures for plural endings, such as "es" and "ent", which are pronounced as /ə/.
 
-9. **Repetitions**:
+6. **Repetitions**:
    - Full line repetition should be numbered as original with the suffix "r", e.g., *pline:1r
    - Partial line repetitions should be labeled with the following suffixes:
      ```
@@ -96,7 +97,7 @@ For a list of the different types of record comments, consult: https://www.humdr
      ```
    - Repetitions that are not accommodated by the above rules (e.g., single word repeitions) should be preceded by *bis and followed by *Xbis interpretations.
   
-10. **Text analysis
+7. **Text analysis**:
     - Line endings are marked with three interpretations, i.e., *r:, *rf, and *rs.
     ```
     *rp:ø
@@ -120,7 +121,9 @@ ending | rhyme vowel | full rhyme | label |
 | ange | *rp:ɑ̃ | *rf:ɑ̃ʒ,ə | *rs:a3 |
 ```
 - Mute "e" are added to the full rhyme and set apart from full rhyme by a comma.
+</details>
 
+<details>
 <summary><h3>Music Encoding</h3></summary>
 
 1. **Melodic grouping** (segmentation levels):
@@ -138,10 +141,11 @@ ending | rhyme vowel | full rhyme | label |
      ```
      !!LO:TX:a:t=Majestueux et résolu
      ```
-4. To hide an accidental, add "y".
-
+4. **Accidentals**:
+   - To hide an accidental, add "y".
 </details>
 
+<details>
 <summary><h3>Text Analysis</h3></summary>
 
 1. **Rhyme Marking** (after final word of each line):
@@ -156,16 +160,17 @@ ending | rhyme vowel | full rhyme | label |
 
 2. **Repeated words**:
    - Surround with `*bis` ... `*Xbis`
-
+</details>
 
 ## Additional Notes
 
-
+<details>
 <summary><h3>Formatting</h3></summary>
 
 - Ensure consistent use of tabs and columns in spines.
 - Avoid use of trailing whitespace unless intentional.
 - All metadata records (`!!!key: value`) should have a single space after the colon.
+</details>
 
 
 
