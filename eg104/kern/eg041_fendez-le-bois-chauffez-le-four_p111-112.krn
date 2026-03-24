@@ -5,78 +5,83 @@
 !!!PTL@@FR: Chansons Populaires du Canada
 !!!OTL@@FR: Fendez le bois, chauffez le four
 !!!PUB: G. E. Desbarats
-!!!YEM:
 !!!PDT: 1865
-!!!SMA:
-!!!OMD:
 !!!AGN-Laforte:
 !!!AGN-type:
 !!!AGN-rime:
-**kern
-*clefG2
-*k[f#]
-*e:
-*M2/2
-*
-*
-=1
-4b
-8b
-8cc
-4b
-4g
-=2
-4e
-4g
-2b
+**kern	**text	**text	**text	**text	**text
+*clefG2	*	*	*	*	*
+*k[f#]	*	*	*	*	*
+*e:	*	*	*	*	*
+*M2/2	*	*	*	*	*
+*	*v:1	*v:2	*v:3	*v:4	*v:5
+*	*pline:1	*pline:2r	*pline:3r	*pline:4r	*pline:5
+=1	=1	=1	=1	=1	=1
+4b	Der-	J'en	J'en	Tous	Ce-
+8b	-rièr'	cuei-	fus	mes	-lui
+8cc	chez	-llis	ma-	pa-	que
+4b	nous,	deux,	-lad[e]	-rents	j'ai-
+4g	ya	j'en	au	ve-	-me
+=2	=2	=2	=2	=2	=2
+4e	champ	man-	lit,	-naient	ne
+4g	de	-geai	trois	m'y	vient
+2b	pois,	trois;	mois;	voir;	pas....
+*	*pline:1r	*pline:2r	*pline:3r	*pline:4r	*pline:5r
 !!LO:PB:g=original
-=3
-4a
-8b
-8cc
-4b
-4g
-=4
-4e
-4g
-2b
-=5
-4a
-8b
-8cc
-4.b
-8a
+=3	=3	=3	=3	=3	=3
+4a	Der-	J'en	J'en	Tous	Ce-
+8b	-rièr'	cuei-	fus	mes	-lui
+8cc	chez	-llis	ma-	pa-	que
+4b	nous,	deux,	-lad[e]	-rents	j'ai-
+4g	ya	J'en	au	ve-	-me
+=4	=4	=4	=4	=4	=4
+4e	champ	man-	lit,	-naient	ne
+4g	de	-geai	trois	m'y	vient
+2b	pois:	trois.	mois;	voir;	pas....
+*	*pline:2	*pline:3	*pline:4	*pline:5	*pline:6
+=5	=5	=5	=5	=5	=5
+4a	J'en	J'en	Tous	Ce-	Je
+8b	cuei-	fus	mes	-lui	l'a-
+8cc	-llis	ma-	pa-	que	-per-
+4.b	deux,	-lad[e]	-rents	j'ai-	-çois
+8a	j'en	au	ve-	-me	ve-
 !!LO:PB:g=original
-=6
-4a
-4g
-2e
-=!|:7
-4a
-8g
-8f#
-2g
-=8
-4e
-8e
-8e
-2g
+=6	=6	=6	=6	=6	=6
+4a	man-	lit,	-naient	ne	-nir
+4g	-geai	trois	m'y	vient	là-
+2e	trois.	mois.	voir.	pas.	bas.
+*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain
+*	*refrain	*	*	*	*
+*	*italic	*	*	*	*
+*	*pline:R1	*	*	*	*
+=!|:7	=!|:7	=!|:7	=!|:7	=!|:7	=!|:7
+4a	Fen-	.	.	.	.
+8g	-dez	.	.	.	.
+8f#	le	.	.	.	.
+2g	bois,	.	.	.	.
+=8	=8	=8	=8	=8	=8
+4e	chauf-	.	.	.	.
+8e	-fez	.	.	.	.
+8e	le	.	.	.	.
+2g	four,	.	.	.	.
+*	*pline:R2	*	*	*	*
 !!LO:PB:g=original
-=9
-4b
-8b
-8dd
-4.b/
-8a
-=10
-4a
-4g
-2e
-!LO:TX:b:i:t=Reprise de la dernière partie à volanté.
-==:||
-*
-*
-==|
+=9	=9	=9	=9	=9	=9
+4b	Dor-	.	.	.	.
+8b	-mez	.	.	.	.
+8dd	la	.	.	.	.
+4.b/	belle,	.	.	.	.
+8a	il	.	.	.	.
+=10	=10	=10	=10	=10	=10
+4a	n'est	.	.	.	.
+4g	point	.	.	.	.
+2e	jour.	.	.	.	.
+*	*Xitalic	*	*	*	*
+*	*Xrefrain	*	*	*	*
+!LO:TX:a:i:t=Reprise de la dernière partie à volanté.	!	!	!	!	!
+==:|	==:|	==:|	==:|	==:|	==:|
+*-	*-	*-	*-	*-	*-
 !!!RWG: Time sig marked simply as '2' in original
-!!!RNB: "Reprise…" score direction located after the final repeat sign in original
-*-
+!!!RNB: "Reprise…" score direction located visually after the final repeat sign in original
+!!!EED-1: Samuel Boone
+!!!EEV-1: 2026/03/23
