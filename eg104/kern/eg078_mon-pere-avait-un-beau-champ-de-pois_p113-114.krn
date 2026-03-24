@@ -5,92 +5,105 @@
 !!!PTL@@FR: Chansons Populaires du Canada
 !!!OTL@@FR: Mon père avait un beau champ de pois
 !!!PUB: G. E. Desbarats
-!!!YEM:
 !!!PDT: 1865
-!!!SMA:
-!!!OMD:
 !!!AGN-Laforte:
 !!!AGN-type:
 !!!AGN-rime:
-**kern
-*clefG2
-*k[f#]
-*G:
-*M2/4
-*
-*
-=1
-16b
-16b
-16a\
-8g
-16g
-16e
-=2
-8d
-8e
-4g
+**kern	**text	**text	**text	**text	**text
+*clefG2	*	*	*	*	*
+*k[f#]	*	*	*	*	*
+*G:	*	*	*	*	*
+*M2/4	*	*	*	*	*
+*	*v:1	*v:2	*v:3	*v:4	*v:5
+*	*pline:1	*pline:2r	*pline:3r	*pline:4r	*pline:5r
+=1	=1	=1	=1	=1	=1
+16b	Mon	J'en	J'en	Tous	Ce-
+16b	pèr'	cui-	fus	mes	-lui
+16a\	a-	-lla	ma-	pa-	que
+*^	*	*	*	*	*
+8g/	8g\	-vait	deux,	-lad[e]	-rents	j'ai-
+*v	*v	*	*	*	*	*
+16g	un	j'en	au	ve-	-me
+16e	beau	.	.	.	.
+=2	=2	=2	=2	=2	=2
+8d	champ	man-	lit	-naient	ne
+8e	de	-geai	trois	m'y	vient
+4g	pois,	trois.	mois;	voir;	pas....
+*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain
+*	*refrain	*	*	*	*
+*	*italic	*	*	*	*
+*	*pline:R1	*	*	*	*
 !!LO:PB:g=original
-=3
-16b/
-16cc/
-16b/
-16a
-8g
-8e
-=4
-8d
-8e
-4g
-==5
-8g
-16g
-16b/
-8dd
-8ee
+=3	=3	=3	=3	=3	=3
+16b/	Doux,	.	.	.	.
+16cc/	ve-	.	.	.	.
+16b/	-nez	.	.	.	.
+16a	vous	.	.	.	.
+8g	promm'-	.	.	.	.
+8e	-ner	.	.	.	.
+=4	=4	=4	=4	=4	=4
+8d	a-	.	.	.	.
+8e	-vec	.	.	.	.
+4g	moi.	.	.	.	.
+*	*Xrefrain	*	*	*	*
+*	*Xitalic	*	*	*	*
+*	*pline:2	*pline:3	*pline:4	*pline:5	*pline:6
+==5	==5	==5	==5	==5	==5
+8g	J'en	J'en	Tous	Ce-	Je
+16g	cui-	fus	mes	-lui	l'a-
+16b/	-lla	ma-	pa-	que	-per-
+8dd	deux,	-lad[e]	-rents	j'ai-	-çois
+8ee	j'en	au	ve-	-me	ve-
 !!LO:PB:g=original
-=6
-8dd
-8b
-8aqq
-4g
-=7
-16b
-16cc
-16b
-16a
-8g
-8a
+=6	=6	=6	=6	=6	=6
+8dd	man-	lit,	-naient	ne	-nir
+8b	-gis	trois	m'y	vient	là-
+8aqq	.	.	.	.	.
+4g	trois.	mois.	voir.	pas.	bas.
+*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain
+*	*refrain	*	*	*	*
+*	*italic	*	*	*	*
+*	*pline:R2Ha	*	*	*	*
+=7	=7	=7	=7	=7	=7
+16b	D'où	.	.	.	.
+16cc	ve-	.	.	.	.
+16b	-nez-	.	.	.	.
+16a	vous,	.	.	.	.
+8g	bel-	.	.	.	.
+8a	-le?	.	.	.	.
+*	*pline:R2Hb	*	*	*	*
 !!LO:PB:g=original
-=8
-16b
-16cc
-16b
-16a
-8g
-8e
-=9
-16e
-16f#
-16e
-16d
-8g
-8a
+=8	=8	=8	=8	=8	=8
+16b	Doux,	.	.	.	.
+16cc	ve-	.	.	.	.
+16b	-nez	.	.	.	.
+16a	vous	.	.	.	.
+8g	promm'-	.	.	.	.
+*	*pline:R2Ha	*	*	*	*
+8e	D'où	.	.	.	.
+=9	=9	=9	=9	=9	=9
+16e	-ner;	.	.	.	.
+16f#	ve-	.	.	.	.
+16e	-nez-	.	.	.	.
+16d	vous	.	.	.	.
+8g	bel-	.	.	.	.
+8a	-le?	.	.	.	.
+*	*pline:R1r	*	*	*	*
 !!LO:PB:g=original
-=10
-16b
-16cc
-16b
-16a
-8g
-8e
-=11
-8d
-8e
-4g
-==||
-*
-*
-==|
-!!!RNB: First 'g' in m.1 has a stem both up & down in original
-*-
+=10	=10	=10	=10	=10	=10
+16b	Doux,	.	.	.	.
+16cc	ve-	.	.	.	.
+16b	-nez	.	.	.	.
+16a	vous	.	.	.	.
+8g	promm'-	.	.	.	.
+8e	-ner	.	.	.	.
+=11	=11	=11	=11	=11	=11
+8d	a-	.	.	.	.
+8e	-vec	.	.	.	.
+4g	moi.	.	.	.	.
+*	*Xitalic	*	*	*	*
+*	*Xrefrain	*	*	*	*
+==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-
+!!!EED-1: Samuel Boone
+!!!EEV-1: 2026/03/24
