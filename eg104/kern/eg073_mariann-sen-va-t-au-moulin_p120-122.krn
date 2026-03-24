@@ -5,130 +5,141 @@
 !!!PTL@@FR: Chansons Populaires du Canada
 !!!OTL@@FR: Mariann' s'en va-t-au moulin
 !!!PUB: G. E. Desbarats
-!!!YEM:
 !!!PDT: 1865
-!!!SMA:
-!!!OMD:
 !!!AGN-Laforte:
 !!!AGN-type:
 !!!AGN-rime:
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-*
-*
-8d
-=1
-4g
-8g
-=2
-4g
-8a
-=3
-4b/
-8b/
-=4
-4g
-8b/
+**kern	**text	**text	**text	**text	**text	**text
+*clefG2	*	*	*	*	*	*
+*k[f#]	*	*	*	*	*	*
+*G:	*	*	*	*	*	*
+*M3/8	*	*	*	*	*	*
+*	*v:1	*v:2	*v:3	*v:4	*v:5	*v:6
+*	*pline:1	*pline:6	*pline:11	*pline:16	*pline:21	*pline:26
+8d	Ma-	Le	Pen-	Ma-	Son	C'est
+=1	=1	=1	=1	=1	=1	=1
+4g	-ri-	meu-	-dant	-ri-	pè-	au-
+8g	-ann'	-nier,	que	-ann'	-re	-jourd'-
+=2	=2	=2	=2	=2	=2	=2
+4g	s'en	qui	le	se	qui	-hui
+8a	va-	la	mou-	mit	la	la
+=3	=3	=3	=3	=3	=3	=3
+4b/	t-au	voit	-lin	à	voit	Saint
+8b/	mou-	ve-	mar-	pleu-	ve-	Mi-
+=4	=4	=4	=4	=4	=4	=4
+4g	-lin,	-nir,	-chait,	-rer.	-nir	-chel,
+*	*pline:1r	*pline:6r	*pline:11r	*pline:16r	*pline:21r	*pline:26r
+8b/	Ma-	Le	Pen-	Ma-	Son	C'est
 !!LO:PB:g=original
-=5
-4dd
-8dd
-=6
-4cc
-8cc
-=7
-4dd
-8cc
-=8
-4b
-8d
-=9
-4g
-8g
-=10
-4g
-8a
+=5	=5	=5	=5	=5	=5	=5
+4dd	-ri-	meu-	-dant	-ri-	pè-	au-
+8dd	-ann'	-nier,	que	-ann'	-re	-jourd'-
+=6	=6	=6	=6	=6	=6	=6
+4cc	s'en	qui	le	se	qui	-hui
+8cc	va-	la	mou-	mit	la	la
+=7	=7	=7	=7	=7	=7	=7
+4dd	t-au	voit	-lin	à	voit	Saint
+8cc	mou-	ve-	mar-	pleu-	ve-	Mi-
+=8	=8	=8	=8	=8	=8	=8
+4b	-lin,	-nir,	-chait,	-rer.	-nir	-chel,
+*	*pline:2	*pline:7	*pline:12	*pline:17	*pline:22	*pline:27
+8d	C'est	S'em-	Le	Cent	Ne	Que
+=9	=9	=9	=9	=9	=9	=9
+4g	pour	-press[e]	loup	é-	put	tous
+8g	y	aus-	tout	-cus	s'em-	les
+=10	=10	=10	=10	=10	=10	=10
+4g	fair'	-si-	à	d'or	-pê-	ân's
+8a	mou-	-tôt	l'en-	lui	-cher	chan-
 !!LO:PB:g=original
-=11
-4b/
-8b/
-=12
-4g
-8b/
-=13
-4dd
-8dd
-=14
-4cc
-8cc
-=15
-4dd
-8cc
-=16
-[4.b
+=11	=11	=11	=11	=11	=11	=11
+4b/	-dre	de	-tour	a	de	-gent
+8b/	son	lui	rô-	don-	lui	de
+=12	=12	=12	=12	=12	=12	=12
+4g	grain,	dire:	-dait.	-né	dire:	poil.
+*	*pline:2r	*pline:7r	*pline:12r	*pline:17r	*pline:22r	*pline:27r
+8b/	C'est	S'em-	Le	Cent	Ne	Que
+=13	=13	=13	=13	=13	=13	=13
+4dd	pour	-press[e]	loup	é-	put	tous
+8dd	y	aus-	tout	-cus	s'em-	les
+=14	=14	=14	=14	=14	=14	=14
+4cc	fair'	-si-	à	d'or	-pê-	ân's
+8cc	mou-	-tôt	l'en-	lui	-cher	chan-
+=15	=15	=15	=15	=15	=15	=15
+4dd	-dre	de	-tour	a	de	-gent
+8cc	son	lui	rô-	don-	lui	de
+=16	=16	=16	=16	=16	=16	=16
+[4.b	grain,	dire:	-dait.	-né	dire:	poil.
 !!LO:PB:g=original
-=17
-8b]
-8r
-8b
-=18
-4b
-8b
-=19
-8b
-8b
-=20
-4.dd
-=21
-4cc
-8b/
-=22
-4a
-8a
+=17	=17	=17	=17	=17	=17	=17
+8b]	.	.	.	.	.	.
+8r	.	.	.	.	.	.
+*	*pline:3	*pline:8	*pline:13	*pline:18	*pline:23	*pline:28
+8b	À	At-	Le	Pour	Qu'a-	J'vous
+=18	=18	=18	=18	=18	=18	=18
+4b	che-	-ta-	loup	a-	-vez-	ra-
+8b	-val	-chez-	a	-che-	vous	-mèn'
+=19	=19	=19	=19	=19	=19	=19
+4b	sur	donc	man-	-ter	fait	la
+8b	son	votr[e]	-gé	en	d'votr[e]	mêm[e]
+=20	=20	=20	=20	=20	=20	=20
+4.dd	â-	â-	l'â-	â-	â-	â-
+=21	=21	=21	=21	=21	=21	=21
+4cc	-ne,	-ne,	-ne,	-ne,	-ne,	-ne,
+*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain
+*	*refrain	*	*	*	*	*
+*	*italic	*	*	*	*	*
+*	*pline:R1	*	*	*	*	*
+8b/	Ma	.	.	.	.	.
+=22	=22	=22	=22	=22	=22	=22
+4a	p'tit'	.	.	.	.	.
+8a	mam-	.	.	.	.	.
 !!LO:PB:g=original
-=23
-4a
-8a
-=24
-4.cc
-=25
-4b
-8a
-=26
-4g
-8g
-=27
-4d
-8g
-=28
-8b/
-8b/
-8b/
+=23	=23	=23	=23	=23	=23	=23
+4a	-zell'	.	.	.	.	.
+8a	Ma-	.	.	.	.	.
+=24	=24	=24	=24	=24	=24	=24
+4.cc	-rian-	.	.	.	.	.
+=25	=25	=25	=25	=25	=25	=25
+4b	-ne,	.	.	.	.	.
+*	*Xitalic	*	*	*	*	*
+*	*Xrefrain	*	*	*	*	*
+*	*pline:4	*pline:9	*pline:14	*pline:19	*pline:24	*pline:29
+8a	À	At-	Le	Pour	Qu'a-	J'vous
+=26	=26	=26	=26	=26	=26	=26
+4g	che-	-ta-	loup	a-	-vez-	ra-
+8g	-val	-chez-	a	-che-	vous	-mèn'
+=27	=27	=27	=27	=27	=27	=27
+4d	sur	donc	man-	-ter	fait	le
+8g	son	votr[e]	-gé	un	d'votr[e]	mêm[e]
+=28	=28	=28	=28	=28	=28	=28
+8b/	â-	â-	l'â-	â-	â-	â-
+8b/	-ne	-ne	-ne	-ne,	-ne	-ne,
+8b/	Ca-	Ca-	Ca-	Ca-	Ca-	Ca-
 !!LO:PB:g=original
-=29
-4.g
-=30
-4.dd
-=31
-4cc
-8b/
-=32
-4a
-8f#
-=33
-4g
-8r
-=34
-8r
-==||
-8r
-==||
-*
-*
-==|
-!!!RNB: First beat of m.32 contains a beamed pair of eighth grace notes in lower voice from 'a' to 'g'
-!!!RNB: Penultimate eighth rest flipped backward in original
-*-
+=29	=29	=29	=29	=29	=29	=29
+4.g	-tin,	-tin,	-tin,	-tin,	-tin,	-tin,
+*	*pline:5	*pline:10	*pline:15	*pline:20	*pline:25	*pline:30
+=30	=30	=30	=30	=30	=30	=30
+4.dd	S'en	Par	Par	En	En	Qui
+=31	=31	=31	=31	=31	=31	=31
+4cc	al-	der-	der-	r've-	al-	m'por-
+8b/	-lant	-rièr'	-rièr'	-nant	-lant	-ta
+=32	=32	=32	=32	=32	=32	=32
+*^	*	*	*	*	*	*
+4a	8aL	au	le	le	du	au	au
+.	8gJ	.	.	.	.	.	.
+*v	*v	*	*	*	*	*	*
+8f#	mou-	mou-	mou-	mou-	mou-	mou-
+=33	=33	=33	=33	=33	=33	=33
+4g	-lin.	-lin.	-lin.	-lin.	-lin?	-lin.
+8r	.	.	.	.	.	.
+=34	=34	=34	=34	=34	=34	=34
+4r	.	.	.	.	.	.
+==	==	==	==	==	==	==
+8r	.	.	.	.	.	.
+==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-
+!!!RNB: First beat of m.32 lower voice are grace notes in original
+!!!RWG: Second line of verse 2 not labelled as "(bis)" in original (even though it should be)
+!!!EED-1: Samuel Boone
+!!!EEV-1: 2026/03/23
