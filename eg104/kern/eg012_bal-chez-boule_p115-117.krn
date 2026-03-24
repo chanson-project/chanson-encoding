@@ -5,83 +5,88 @@
 !!!PTL@@FR: Chansons Populaires du Canada
 !!!OTL@@FR: Bal chez boulé
 !!!PUB: G. E. Desbarats
-!!!YEM:
 !!!PDT: 1865
-!!!SMA:
-!!!OMD:
 !!!AGN-Laforte:
 !!!AGN-type:
 !!!AGN-rime:
-**kern
-*clefG2
-*k[b-]
-*F:
-*M3/8
-*
-*
-8f
-=1
-4a
-8a
-=2
-4cc
-8a
-=3
-4a
-8g
-=4
-4a
-8a
+**kern	**text	**text	**text	**text	**text	**text	**text	**text	**text	**text	**text	**text
+*clefG2	*	*	*	*	*	*	*	*	*	*	*	*
+*k[b-]	*	*	*	*	*	*	*	*	*	*	*	*
+*F:	*	*	*	*	*	*	*	*	*	*	*	*
+*M3/8	*	*	*	*	*	*	*	*	*	*	*	*
+*	*v:1	*v:2	*v:3	*v:4	*v:5	*v:6	*v:7	*v:8	*v:9	*v:10	*v:11	*v:12
+*	*pline:1	*pline:2r	*pline:3r	*pline:4r	*pline:5r	*pline:6r	*pline:7r	*pline:8r	*pline:9r	*pline:10r	*pline:11r	*pline:12r
+8f	Di-	Mais	Jo-	Non,	Il	Prit	Il	Se	Mit	Mit	S'en	On
+=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+4a	-manch[e],	il	-sé	lui	s'en	Bar-	saut[e]	sauv[e]	sa	son	va	le
+8a	a-	n'i-	Blais,	dit	fut	-rett'	à	à	bell'	beau	cher-	mit
+=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+4cc	-près	-ra	comm'	sa	à	par	l'é-	la	ves-	fi-	-cher	à
+8a	les	per-	les	mai-	l'é-	la	-cu-	mai-	-te	-chu	Li-	la
+=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+4a	vêpr's,	-sonn'	autr's,	-tress',	-tabl'	corn[e]	-ri'	-son	roug[e]	noir	-sett'	port'
+8g	yau-	que	vou-	t'i-	ses	et	pour	quand	et	et	quand	pour
+=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
+4a	-ra	ceux	-lut	-ras	a-	Rou-	les	ils	son	ses	il	ap-
+8a	bal	qui	i-	quand	-ni-	-gett'	che-	fur'nt	ca-	sou-	fut	-prendr[e]
 !!LO:PB:g=original
-=5
-4cc
-8a
-=6
-4a
-8a
-=7
-4cc
-8a
-=8
-4cc
-8a
-=9
-4cc
-8a
+=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5
+4cc	chez	sav'nt	-tou	l'train	-maux	par	-vaux	é-	-pot	-liers	ben	à
+8a	Bou-	dan-	yal-	s'ra	soi-	le	grat-	-tri-	bar-	fran-	gre-	dan-
+=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6
+4a	-lé,	-ser.	-ler.	fé.	-gner;	pied;	-ter;	-llés;	-ré;	-cés,	-yé.	-ser.
+*	*pline:2	*pline:3	*pline:4	*pline:5	*pline:6	*pline:7	*pline:8	*pline:9	*pline:10	*pline:11	*pline:12	*pline:13
+8a	Mais	Jo-	Non,	Il	Prit	Il	Se	Mit	Mit	S'en	On	Mais
+=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7
+4cc	il	-sé	lui	s'en	Bar-	saut[e]	sauv[e]	sa	son	va	le	on
+*^	*	*	*	*	*	*	*	*	*	*	*	*
+8cc	8a	n'i-	Blais,	dit	fut	-rett'	à	à	bell'	beau	cher-	mit	gar-
+*v	*v	*	*	*	*	*	*	*	*	*	*	*	*
+=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8
+4cc	-ra	comm'	sa	à	par	l'é-	la	ves-	fi-	-cher	à	-da
+*^	*	*	*	*	*	*	*	*	*	*	*	*
+8cc	8a	per-	les	mai-	l'é-	la	-cu-	mai-	-te	-chu	Li-	la	Li-
+*v	*v	*	*	*	*	*	*	*	*	*	*	*	*
+=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9
+4cc	-sonn'	autr's,	-tress',	-tabl'	corn[e]	-ri'	-son	roug[e]	noir	-sett'	port'	-sett'
+8a	que	vou-	t'i-	ses	et	pour	quand	et	et	quand	pour	qui
 !!LO:PB:g=original
-=10
-4cc
-8a
-=11
-4cc
-8a
-=12
-4.f
-=13
-4a
-8g
-=14
-8a
-8b-/
-8cc
+=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10
+4cc	ceux	-lut	-ras	a-	Rou-	les	ils	son	ses	il	ap-	s'est
+8a	qui	i-	quand	-ni-	-gett'	che-	fur'nt	ca-	sou-	fut	-prendr[e]	ben
+=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11
+4cc	sav'nt	-tou	l'train	-maux	par	-vaux	é-	-pot	-liers	ben	à	con-
+8a	dan-	yal-	s'ra	soi-	le	grat-	-tri-	bar-	fran-	gre-	dan-	-so-
+=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12
+4.f	-ser,	-ler.	fé.	-gner.	pied.	-ter.	-llés.	-ré.	-cés.	-yé.	-ser.	-lée.
+*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain
+*	*refrain	*	*	*	*	*	*	*	*	*	*	*
+*	*italic	*	*	*	*	*	*	*	*	*	*	*
+*	*pline:R1Ha	*	*	*	*	*	*	*	*	*	*	*
+=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13
+4a	Vo-	.	.	.	.	.	.	.	.	.	.	.
+8g	-gue,	.	.	.	.	.	.	.	.	.	.	.
+=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14
+8a	ma-	.	.	.	.	.	.	.	.	.	.	.
+8b-/	-ri-	.	.	.	.	.	.	.	.	.	.	.
+8cc	-nier,	.	.	.	.	.	.	.	.	.	.	.
 !!LO:PB:g=original
-=15
-4dd
-8cc
-=16
-8dd
-8ee
-8ff
-=17
-4cc
-8a
-=18
-4f
-=:|!
-8r
-==||
-*
-*
-==|
-!!!RNB: Final eighth notes of mm.7 & 8 also have an eighth note in an upper voice on 'cc' above them in original
-*-
+=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15
+4dd	vo-	.	.	.	.	.	.	.	.	.	.	.
+8cc	-gue,	.	.	.	.	.	.	.	.	.	.	.
+*	*pline:R1Hb	*	*	*	*	*	*	*	*	*	*	*
+=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16
+8dd	Vo-	.	.	.	.	.	.	.	.	.	.	.
+8ee	-gue	.	.	.	.	.	.	.	.	.	.	.
+8ff	beau	.	.	.	.	.	.	.	.	.	.	.
+=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17
+4cc	ma-	.	.	.	.	.	.	.	.	.	.	.
+8a	-ri-	.	.	.	.	.	.	.	.	.	.	.
+=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18
+4f	-nier.	.	.	.	.	.	.	.	.	.	.	.
+=:|!	=:|!	=:|!	=:|!	=:|!	=:|!	=:|!	=:|!	=:|!	=:|!	=:|!	=:|!	=:|!
+8r	.	.	.	.	.	.	.	.	.	.	.	.
+==	==	==	==	==	==	==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!EED-1: Samuel Boone
+!!!EEV-1: 2026/03/23
