@@ -3,6 +3,9 @@
 !!!COM: GADBOIS, Chs-Emile
 !!!LYR: GADBOIS, Chs-Emile
 !!!OTR@@FR: Le Soir sur l'eau
+!!!AGN-type: Chanson strophique (avec refrain intégré), 3:5(10/12)
+!!!AGN-theme: spiritual, nature
+!!!AGN-rime: abbab, except v:1 = abcab
 **kern	**text	**text	**text
 *part1	*	*	*
 *clefG2	*	*	*
@@ -20,14 +23,14 @@
 8g	sur	sur	sur
 =2	=2	=2	=2
 4.a	l'eau,	l'eau,	l'eau,
+*	*Xitalic	*Xitalic	*Xitalic
+*	*Xrefrain	*Xrefrain	*Xrefrain
 *	*pline:1Hb	*pline:5Hb	*pline:9Hb
 8g	oh!	oh!	oh!
 =3	=3	=3	=3
 8e	qu'il	qu'il	qu'il
 8g	fait	fait	fait
 8e	bon	bon	bon
-*	*Xitalic	*Xitalic	*Xitalic
-*	*Xrefrain	*Xrefrain	*Xrefrain
 8g	chan-	rê-	d'ai-
 =4	=4	=4	=4
 4.a}	-ter,	-ver,	-mer,
@@ -75,16 +78,12 @@
 !!LO:PB:g=original
 =14	=14	=14	=14
 8e	beaux,	dort,	cieux,
-*	*refrain	*refrain	*refrain
-*	*italic	*italic	*italic
 *	*pline:4Hb=1Hbr	*pline:8Hb=1Hbr	*pline:12Hb=1Hbr
 8g	oh!	oh!	oh!
 8a	qu'il	qu'il	qu'il
 8cc	fait	fait	fait
 =15	=15	=15	=15
 4.dd	bon	bon	bon
-*	*Xitalic	*Xitalic	*Xitalic
-*	*Xrefrain	*Xrefrain	*Xrefrain
 8ee	chan-	rê-	d'ai-
 =16	=16	=16	=16
 [2cc	-ter,	-ver,	-mer,
@@ -92,13 +91,19 @@
 4cc]	.	.	.
 8r}	.	.	.
 *	*pline:1a4	*pline:1a4	*pline:1a4
-{8a	Le	Le	Le
+*>Refrain	*>Refrain	*>Refrain	*>Refrain
+*	*pline:R1=1Har	*	*
+*	*refrain	*	*
+*	*italic	*	*
+{8a	Le	.	.
 =18	=18	=18	=18
-2cc	soir,	soir,	soir,
+2cc	soir,	.	.
 =19	=19	=19	=19
-2dd	sur	sur	sur
+2dd	sur	.	.
 =20	=20	=20	=20
-4cc;	l'eau!	l'eau!	l'eau!
+4cc;	l'eau!	.	.
+*	*Xitalic	*	*
+*	*Xrefrain	*	*
 8r}}	.	.	.
 ==	==	==	==
 *-	*-	*-	*-
@@ -107,4 +112,4 @@
 !!!EED-1: Avery Yewon Hong
 !!!EEV-1: 2026/01/21
 !!!EED-2: Ève Poudrier
-!!!EEV-2: 2026/02/23
+!!!EEV-2: 2026/03/28
