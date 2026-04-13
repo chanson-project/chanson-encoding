@@ -12,99 +12,113 @@
 !!!AGN-Laforte:
 !!!AGN-type:
 !!!AGN-rime:
-**kern
-*clefG2
-*k[f#,c#,g#]
-*A:
-*M3/8
-*
-*
-8e
-=1
-4a
-8b
-=2
-4cc#
-8dd
-=3
-4ee
-8cc#
-=4
-4.ee
+**kern	**text
+*clefG2	*
+*k[f#,c#,g#]	*
+*A:	*
+*M3/8	*
+*	*
+*	*
+8e	C'est
+=1	=1
+4a	la
+8b	bel-
+=2	=2
+4cc#	-le
+8dd	Fran-
+=3	=3
+4ee	-çoi-
+8cc#	-se,
+=4	=4
+*	*refrain
+*	*italic
+4.ee	blanc,
 !!LO:PB:g=original
-=5
-8ee
-8dd
-8cc#
-=6
-4b
-8cc#
-=7
-4a
-8b
-=8
-4cc#
-8dd
-=9
-4ee
-8ddq
-8cc#
+=5	=5
+8ee	blanc
+8dd	loup-
+8cc#	-ma-
+=6	=6
+4b	-rin,
+*	*Xitalic
+*	*Xrefrain
+8cc#	C'est
+=7	=7
+4a	la
+8b	bel-
+=8	=8
+4cc#	-le
+8dd	Fran-
+=9	=9
+4ee	-çoi-
+8ddq	.
+8cc#	-se
 !!LO:PB:g=original
-=10
-4.ee
-=11
-8ee
-8dd
-8cc#
-=12
-4b
-8ee
-=13
-4ee
-8cc#
-=14
-4a
-8b
-=15
-4.a
+=10	=10
+*	*refrain
+*	*italic
+4.ee	blanc,
+=11	=11
+8ee	blanc
+8dd	loup-
+8cc#	-ma-
+=12	=12
+4b	-rin,
+*	*Xitalic
+*	*Xrefrain
+8ee	Qui
+=13	=13
+4ee	veut
+8cc#	s'y
+=14	=14
+4a	ma-
+8b	-ri-
+=15	=15
+4.a	-er,
 !!LO:PB:g=original
-=16
-8f#
-8g#
-8a
-=17
-8b/
-8a
-8b/
-=18
-4b/
-8ee
-=19
-4ee
-8cc#
+=16	=16
+*	*refrain
+*	*italic
+8f#	blanc,
+8g#	blanc
+8a	loup-
+=17	=17
+8b/	-ma-
+8a	-rin,
+8b/	ma
+=18	=18
+4b/	lon
+8ee	la,
+*	*Xitalic
+*	*Xrefrain
+=19	=19
+4ee	Qui
+8cc#	veut
 !!LO:PB:g=original
-=20
-4a
-8b/
-=21
-4.a
-=22
-8f#
-8g#
-8a
-=23
-4b
-!LO:TX:a:B:t=2
-.
-4cc#
+=20	=20
+4a	s'y
+8b/	ma-
+=21	=21
+4.a	-ri-
+=22	=22
+8f#	-er,
+*	*refrain
+*	*italic
+8g#	blanc
+8a	loup-
+=23	=23
+4b	-ma-
+!LO:TX:a:B:t=2	!
+.	-rin
+4cc#	chan-
 !!LO:PB:g=original
-=24
-4a
-==||
-8r
-==||
-*
-*
-==|
+=24	=24
+4a	gé.
+*	*Xitalic
+*	*Xrefrain
+==||	==||
+*-	*-
 !!!RWG: Tuplet in m.23 matches score but might not be encoded quite the right way
-*-
+!!!RNB: Last measure with eighth rest not encoded (editorial policy).
+!!!EED: Ève Poudrier
+!!!EEV: 2026/04/12
