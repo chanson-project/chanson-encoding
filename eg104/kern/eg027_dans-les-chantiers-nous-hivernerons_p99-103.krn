@@ -5,98 +5,106 @@
 !!!PTL@@FR: Chansons Populaires du Canada
 !!!OTL@@FR: Dans les chantiers nous hivernerons
 !!!PUB: G. E. Desbarats
-!!!YEM:
 !!!PDT: 1865
-!!!SMA:
-!!!OMD:
 !!!AGN-Laforte:
 !!!AGN-type:
 !!!AGN-rime:
-**kern
-*clefG2
-*k[]
-*C:
-*M2/4
-*
-*
-=1
-4g
-4cc
-=2
-4.cc
-8ee
-=3
-4dd
-4cc
-=4
-2a
-=5
-4g
-4dd
-=6
-4dd
-4cc
+**kern	**text	**text	**text	**text	**text	**text
+*clefG2	*	*	*	*	*	*
+*k[]	*	*	*	*	*	*
+*C:	*	*	*	*	*	*
+*M2/4	*	*	*	*	*	*
+*	*v:1	*v:2	*v:3	*v:4	*v:5	*v:6
+*	*pline:1	*pline:5	*pline:9	*pline:13	*pline:17	*pline:21
+=1	=1	=1	=1	=1	=1	=1
+4g	Voi-	Pauv'	Quand	Je	Quand	Ah! bon-
+4cc	-ci	voya-	tu	vou-	tu	-jour
+=2	=2	=2	=2	=2	=2	=2
+4.cc	l'hi-	-geur	ar-	-drais	re-	donc,
+8ee	-ver	que t'as	-riv'	ê-	-tourn'	mon
+=3	=3	=3	=3	=3	=3	=3
+4dd	ar-	d'la	à	-tre	chez	cher
+4cc	-ri-	mi-	Qué-	pa-	ton	en-
+=4	=4	=4	=4	=4	=4	=4
+2a	-vé,	-sère!	-bec,	-yé	pèr[e],	-fant!
+*	*pline:2	*pline:6	*pline:10	*pline:14	*pline:18	*pline:22
+=5	=5	=5	=5	=5	=5	=5
+4g	Les	Sou-	Sou-	Pour	Aus-	Nous
+4dd	ri-	-vent	-vent	le	-si	ap-
+=6	=6	=6	=6	=6	=6	=6
+4dd	-viè-	tu	tu	temps	pour	-port'
+4cc	-res	couches	fais	que	re-	-tu
 !!LO:PB:g=original
-=7
-4ee
-4dd
-=8
-2cc
-==9
-4ff
-4ee
-=10
-4dd
-4ff
-=11
-4ee
-4dd
-=12
-2cc
+=7	=7	=7	=7	=7	=7	=7
+4ee	sont	par	un	j'ai	-voir	ben
+*^	*	*	*	*	*	*
+4gg	4dd	ge-	ter-	gros	don-	ta	d'l'ar-
+*v	*v	*	*	*	*	*	*
+=8	=8	=8	=8	=8	=8	=8
+2cc	-lées.	-re;	bec.	-né.	mère;	-gent?
+*	*pline:3	*pline:7	*pline:11	*pline:15	*pline:19	*pline:23
+==9	==9	==9	==9	==9	==9	==9
+4ff	C'est	À	Tu	Quand	Le	Que
+4ee	le	la	vas	l'bour-	bon-	l'diabl[e]
+=10	=10	=10	=10	=10	=10	=10
+4dd	temps	pluie,	trou-	-geois	-homm[e]	em-
+4ff	d'al-	au	-ver	est	est	-port
+=11	=11	=11	=11	=11	=11	=11
+4ee	-ler	mau-	ton	en	à	les
+*^	*	*	*	*	*	*
+4gg	4dd	aux	-vais	bour-	banq'-	la	chan-
+*v	*v	*	*	*	*	*	*
+=12	=12	=12	=12	=12	=12	=12
+2cc	bois	temps,	-geois	-route,	porte,	-tiers!
+*	*pline:4	*pline:8	*pline:12	*pline:16	*pline:20	*pline:24
 !!LO:PB:g=original
-=13
-4a
-8bL
-8ccJ
-=14
-4dd
-4cc
-=15
-4b/
-4a
-=16
-4.g
-8f
-=17
-4e
-4g
+=13	=13	=13	=13	=13	=13	=13
+4a	Man-	À	Qu'est	Il	La	Ja-
+8bL	-ger	la	là,	t'ren-	bonn'-	-mais
+8ccJ	.	ri-	.	.	.	d'ma
+=14	=14	=14	=14	=14	=14	=14
+4dd	du	-gueur	as-	-voi'	-femm'	vie
+4cc	lard	de	-sis	man-	fait	j'y
+=15	=15	=15	=15	=15	=15	=15
+4b/	et	tous	au	-ger	la	r'tour-
+4a	des	les	comp-	des	gar-	-ne-
+=16	=16	=16	=16	=16	=16	=16
+4.g	pois!	temps!	-toi'.	croûtes.	-gotte.	-rai!
+*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain
+*	*italic	*	*	*	*	*
+*	*pline:R1	*	*	*	*	*
+8f	Dans	.	.	.	.	.
+=17	=17	=17	=17	=17	=17	=17
+4e	les	.	.	.	.	.
+4g	chan-	.	.	.	.	.
 !!LO:PB:g=original
-=18
-4cc
-8cc
-8cc
-=19
-4a
-4a
-=20
-4.dd
-8cc
-=21
-4dd
-4ee
-=22
-4dd
-8cc
-8cc
+=18	=18	=18	=18	=18	=18	=18
+4cc	-tiers	.	.	.	.	.
+8cc	nous	.	.	.	.	.
+8cc	hi-	.	.	.	.	.
+=19	=19	=19	=19	=19	=19	=19
+4a	-ver-	.	.	.	.	.
+4a	-ne-	.	.	.	.	.
+=20	=20	=20	=20	=20	=20	=20
+4.dd	-rons!	.	.	.	.	.
+*	*pline:R1r	*	*	*	*	*
+8cc	Dans	.	.	.	.	.
+=21	=21	=21	=21	=21	=21	=21
+4dd	les	.	.	.	.	.
+4ee	chan-	.	.	.	.	.
+=22	=22	=22	=22	=22	=22	=22
+4dd	-tiers	.	.	.	.	.
+8cc	nous	.	.	.	.	.
+8cc	hi-	.	.	.	.	.
 !!LO:PB:g=original
-=23
-4.a
-8b/
-=24
-2cc
-==||
-*
-*
-==|
-!!!RNB: Original contains added quarter note on gg in upper voice, over final quarter notes of mm. 7 & 11
-*-
+=23	=23	=23	=23	=23	=23	=23
+4.a	-ver-	.	.	.	.	.
+8b/	-ne-	.	.	.	.	.
+=24	=24	=24	=24	=24	=24	=24
+2cc	-rons!	.	.	.	.	.
+*	*Xitalic	*	*	*	*	*
+==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-
+!!!RWG: First line of verse 2 & verse 6 syllable count is too high for the notes (syllable setting might warrant a second look)
+!!!EED-1: Samuel Boone
+!!!EEV-1: 2026/04/14
