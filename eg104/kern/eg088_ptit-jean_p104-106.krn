@@ -5,108 +5,120 @@
 !!!PTL@@FR: Chansons Populaires du Canada
 !!!OTL@@FR: P'tit Jean
 !!!PUB: G. E. Desbarats
-!!!YEM:
 !!!PDT: 1865
-!!!SMA:
-!!!OMD:
 !!!AGN-Laforte:
 !!!AGN-type:
 !!!AGN-rime:
-**kern
-*clefG2
-*k[b-]
-*g:
-*M2/8
-*
-*
-!LO:TX:a:i:t=Voix seule, puis la reprise en chœur.
-=1
-8g
-16g
-16g
-=2
-8b-
-8dd
-=3
-8dd
-8cc
-=4
-!LO:TX:a:t=LJ3
-8a^
-16f
-16f
+**kern	**text	**text	**text	**text	**text	**text	**text	**text	**text	**text	**text	**text
+*clefG2	*	*	*	*	*	*	*	*	*	*	*	*
+*k[b-]	*	*	*	*	*	*	*	*	*	*	*	*
+*g:	*	*	*	*	*	*	*	*	*	*	*	*
+*M2/8	*	*	*	*	*	*	*	*	*	*	*	*
+*	*v:1	*v:2	*v:3	*v:4	*v:5	*v:6	*v:7	*v:8	*v:9	*v:10	*v:11	*v:12
+*	*pline:1	*pline:3	*pline:5	*pline:7	*pline:9	*pline:11	*pline:13	*pline:15	*pline:17	*pline:19	*pline:21	*pline:23
+=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+8g	Quand	Je	À	Ell'	Quand	Je	Ren-	Sou-	J'ai	Les	P'tit	Brai-
+16g	j'é-	n'a-	pré-	m'en-	je	m'as-	-tre,	-pe,	man-	os	Jean	-lle,
+16g	-tais	-vais	-sent	-voi'-	re-	-seois	pe-	pe-	-gé	sont	bais-	pe-
+=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+8b-	chez	rien	j'en	t-à	-viens	sur	-tit	-tit	deux	sous	-se	-tit
+8dd	mon	à	ai-	l'ou-	d'l'ou-	la	Jean,	Jean,	oi's	la	la	Jean,
+=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+8dd	pè-	fai-	t-u-	-vra-	-vra-	por-	ren-	sou-	gras-	ta-	tê-	brai-
+8cc	-re,	-re,	-ne	-ge	-ge	-te,	-tre,	-pe,	-ses,	-ble,	-te,	-lle!
+*	*pline:R	*	*	*	*	*	*	*	*	*	*	*
+*	*refrain	*	*	*	*	*	*	*	*	*	*	*
+*	*italic	*	*	*	*	*	*	*	*	*	*	*
+=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
+*^	*	*	*	*	*	*	*	*	*	*	*	*
+8a^	16aLN	Li,	.	.	.	.	.	.	.	.	.	.	.
+.	16fJN	.	.	.	.	.	.	.	.	.	.	.	.
+*v	*v	*	*	*	*	*	*	*	*	*	*	*	*
+16f	li	.	.	.	.	.	.	.	.	.	.	.
+16f	li	.	.	.	.	.	.	.	.	.	.	.
 !!LO:PB:g=original
-=5
-!LO:TX:a:t=LJ3
-8a^
-16f
-16f
-=6
-!LO:TX:a:t=LJ3
-8a^
-!LO:TX:a:t=LJ3
-8cc/^
-=7
-!LO:TX:a:t=LJ3
-8b-/^
-8g
-=8
-8g
-16g
-16g
-=9
-8b-
-8dd
+=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5
+*^	*	*	*	*	*	*	*	*	*	*	*	*
+8a^>	16aLN	lil,	.	.	.	.	.	.	.	.	.	.	.
+.	16fJN	.	.	.	.	.	.	.	.	.	.	.	.
+*v	*v	*	*	*	*	*	*	*	*	*	*	*	*
+16f	li	.	.	.	.	.	.	.	.	.	.	.
+16f	li	.	.	.	.	.	.	.	.	.	.	.
+=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6
+*^	*	*	*	*	*	*	*	*	*	*	*	*
+8a^>	16aLN	lil,	.	.	.	.	.	.	.	.	.	.	.
+.	16fJN	.	.	.	.	.	.	.	.	.	.	.	.
+*v	*v	*	*	*	*	*	*	*	*	*	*	*	*
+*^	*	*	*	*	*	*	*	*	*	*	*	*
+8cc/^>	16ccLN	lil,	.	.	.	.	.	.	.	.	.	.	.
+.	16aJN	.	.	.	.	.	.	.	.	.	.	.	.
+*v	*v	*	*	*	*	*	*	*	*	*	*	*	*
+=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7
+*^	*	*	*	*	*	*	*	*	*	*	*	*
+8b-/^>	16b-LN	lil,	.	.	.	.	.	.	.	.	.	.	.
+.	16gJN	.	.	.	.	.	.	.	.	.	.	.	.
+*v	*v	*	*	*	*	*	*	*	*	*	*	*	*
+8g	li.	.	.	.	.	.	.	.	.	.	.	.
+*	*Xitalic	*	*	*	*	*	*	*	*	*	*	*
+*	*Xrefrain	*	*	*	*	*	*	*	*	*	*	*
+*	*pline:1r	*pline:3r	*pline:5r	*pline:7r	*pline:9r	*pline:11r	*pline:13r	*pline:15r	*pline:17r	*pline:19r	*pline:21r	*pline:23r
+=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8
+8g	Quand	Je	À	Ell'	Quand	Je	Ren-	Sou-	J'ai	Les	P'tit	Brai-
+16g	j'é-	n'a-	pré-	m'en-	je	m'as-	-tre,	-pe,	man-	os	Jean	-lle,
+16g	-tais	-vais	-sent	-voi'-	re-	-seois	pe-	pe-	-gé	sont	bais-	pe-
+=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9
+8b-	chez	rien	j'en	t-à	-viens	sur	-tit	-tit	deux	sous	-se	-tit
+8dd	mon	à	ai-	l'ou-	d'l'ou-	la	Jean,	Jean,	oi's	la	la	Jean,
 !!LO:PB:g=original
-=10
-8dd
-8b-
-=11
-8dd
-16cc
-16b-/
-=12
-8a
-8b-/
-=13
-[4g
-=14
-8g]
-8r
-==15
-8g
-16g
-16g
+=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10
+8dd	pè-	fai-	t-u-	-vra-	-vra-	por-	ren-	sou-	gras-	ta-	tê-	brai-
+8b-	-re,	-re	-ne	-ge	-ge	-te,	-tre,	-pe,	-ses,	-ble,	-te	-lle,
+*	*pline:2	*pline:4	*pline:6	*pline:8	*pline:10	*pline:12	*pline:14	*pline:16	*pline:18	*pline:20	*pline:22	*pline:24
+=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11
+8dd	Gar-	Qu'une	Qui	Sans	Tout	Comm[e]	Ren-	Pour	Et	Si	Et	Et
+16cc	-çon	fem-	me	boir'	moui-	un	-tre	moi	trois	tu	se	moi
+*^	*	*	*	*	*	*	*	*	*	*	*	*
+16b-	16f	à	-me	fait	ni	-llé,	pauvr[e]	te	j'ai	pi-	veux	met	je
+*v	*v	*	*	*	*	*	*	*	*	*	*	*	*
+=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12
+8a	ma-	à	en-	sans	tout	é-	ré-	bien	-geons	les	à	vais
+8b-/	-ri-	cher-	-ra-	man-	gla-	-tran-	-chauf-	sou-	lar-	ron-	brai-	chan-
+=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13
+[4g	-er;	-cher.	ger.	-ger.	-cé....	-ger.	-fer!	-pé.	-dés.	-ger.	-ller.	-ter!
+=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14
+8g]	.	.	.	.	.	.	.	.	.	.	.	.
+8r	.	.	.	.	.	.	.	.	.	.	.	.
+*	*pline:2r	*pline:4r	*pline:6r	*pline:8r	*pline:10r	*pline:12r	*pline:14r	*pline:16r	*pline:18r	*pline:20r	*pline:22r	*pline:24r
+==15	==15	==15	==15	==15	==15	==15	==15	==15	==15	==15	==15	==15
+8g	Gar-	Qu'une	Qui	Sans	Tout	Comm[e]	Ren-	Pour	Et	Si	Et	Et
+16g	-çon	fem-	me	boir'	moui-	un	-tre	moi	trois	tu	se	moi
+16g	à	-me	fait	ni	-llé,	pauvr[e]	te	j'ai	pi-	veux	met	je
 !!LO:PB:g=original
-=16
-8b-
-8dd
-=17
-!LO:TX:a:t=rall molto
-8ddL^
-8b-J^
-=18
-4dd;^
-=19
-8cc
-16a
-16f
-=20
-8a
-8b-/
-=21
-[4g
-=22
-8g]
-8r
-==||
-*
-*
-==|
-!!!RWG: Key labelled as 'g' but appears to be G Dorian, as score contains B-flat (however there is neither E-nat nor E-flat present for context, so could well just be in G Minor)
-!!!RWG: Black line over mm. 4-7, as well as mm. 17-19b1 in original, unsure of significance
-!!!RWG: Eighth notes marked with 'LJ3' in text contain a diatonic descending 3rd beamed 16th grace note motive within that beat
-!!!RWG: Sixteenth note 'f' under B-flat in a lower voice in m.11
-!!!RWG: All accents are above notes in original
-!!!RWG: Fermata in m.18 under accent in original
-*-
+=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16
+8b-	ma-	à	en-	sans	tout	é-	ré-	bien	-geons	les	à	vais
+8dd	-ri-	cher-	-ra-	man-	gla-	-tran-	-chauf-	sou-	lar-	ron-	brai-	chan-
+=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17
+8ddL^	-er-	-cher-	-ger-	-ger-	-cé-	-ger-	-fer-	-pé-	-dé-	-ger-	-ller-	-ter-
+8b-J^	-er-	-er-	-er-	-er-	-é-	-er-	-er-	-é-	-é-	-er-	-er-	-er-
+!LO:TX:a:i:rj:t=rall. molto	!	!	!	!	!	!	!	!	!	!	!	!
+=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18
+4dd;^	-er,	-er,	-er,	-er,	-é,	-er,	-er,	-é.	-és,	-er,	-er,	-er,
+*	*pline:2r	*pline:4r	*pline:6r	*pline:8r	*pline:10r	*pline:12r	*pline:14r	*pline:16r	*pline:18r	*pline:20r	*pline:22r	*pline:24r
+=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19
+8cc	Gar-	Qu'une	Qui	Sans	Tout	Comm[e]	Ren-	Pour	Et	Si	Et	Et
+16a	-çon	fem-	me	boir'	moui-	un	-tre	moi	trois	tu	se	moi
+16f	à	-me	fait	ni	-llé,	pauvr[e]	te	j'ai	pi-	veux	met	je
+=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20
+8a	ma-	à	en-	sans	tout	é-	ré-	bien	-geons	les	à	vais
+8b-/	-ri-	cher-	-ra-	man-	gla-	-tran-	-chauf-	sou-	lar-	ron-	brai-	chan-
+=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21
+[4g	-er....	-cher.	-ger.	-ger.	-cé....	-ger.	-fer!	-pé.	-dés.	-ger.	-ller.	-ter!
+=22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22
+8g]	.	.	.	.	.	.	.	.	.	.	.	.
+8r	.	.	.	.	.	.	.	.	.	.	.	.
+==	==	==	==	==	==	==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!RDF**kern: > = above
+!!!RDF**kern: N = cue size
+!!!EED-1: Samuel Boone
+!!!EEV-1: 2026/04/14
