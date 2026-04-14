@@ -5,80 +5,80 @@
 !!!PTL@@FR: Chansons Populaires du Canada
 !!!OTL@@FR: Sur le pont d'Avignon tout le monde y passe
 !!!PUB: G. E. Desbarats
-!!!YEM:
 !!!PDT: 1865
-!!!SMA:
-!!!OMD:
 !!!AGN-Laforte:
 !!!AGN-type:
 !!!AGN-rime:
-**kern
-*clefG2
-*k[f#]
-*G:
-*M2/4
-*
-*
-=1
-8g
-8g
-4g
-=2
-8a
-8a
-4a
-=3
-8.b
-16cc
-8dd
-8g
-=4
-(4a
-8g)
-8r
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M2/4	*
+*	*v:1
+*	*pline:R1Ha
+=1	=1
+8g	Sur
+8g	le
+4g	pont
+=2	=2
+8a	d'A-
+8a	-vi-
+4a	-gnon
+*	*pline:R1Hb
+=3	=3
+8.b	Tout
+16cc	le
+8dd	mond[e]
+8g	y
+=4	=4
+(4a	pas-
+8g)	-se,
+8r	.
+*	*pline:R1Har
 !!LO:PB:g=original
-=5
-8g
-8g
-4g
-=6
-8a
-8a
-4a
-=7
-8.b
-16cc
-8dd
-8g
-=8
-(4a
-8g)
-8r
-!LO:TX:a:B:t=FIN.
+=5	=5
+8g	Sur
+8g	le
+4g	pont
+=6	=6
+8a	d'A-
+8a	-vi-
+4a	-gnon
+*	*pline:R1Hbr
+=7	=7
+8.b	Tout
+16cc	le
+8dd	mond[e]
+8g	y
+=8	=8
+(4a	pas-
+8g)	-se.
+8r	.
+!LO:TX:a:B:t=FIN.	!
+*	*pline:1Ha
 !!LO:PB:g=original
-=9
-8a
-16a
-16a
-8a
-8a
-=10
-4e
-8r
-=11
-8a
-16a
-16a
-8a
-8a
+==9	==9
+8a	Les
+16a	mes-
+16a	-sieurs
+8a	font
+8a	comm'
+=10	=10
+4e	ci,
+4r	.
+*	*pline:1Hb
+=11	=11
+8a	Les
+16a	da-
+16a	-mes
+8a	font
+8a	comm'
 !!LO:PB:g=original
-=12
-4d
-8r
-!LO:TX:b:t=D.C.
-==||
-*
-*
-==|
-!!!RNB: Final eighth rest & one in m.10 flipped backward in original
-*-
+=12	=12
+4d	ça.
+4r	.
+!LO:TX:b:t=D.C.	!
+==	==
+*-	*-
+!!!EED-1: Samuel Boone
+!!!EEV-1: 2026/04/14
