@@ -5,119 +5,126 @@
 !!!PTL@@FR: Chansons Populaires du Canada
 !!!OTL@@FR: Au bois du rossignolet
 !!!PUB: G. E. Desbarats
-!!!YEM:
 !!!PDT: 1865
-!!!SMA:
-!!!OMD:
 !!!AGN-Laforte:
 !!!AGN-type:
 !!!AGN-rime:
-**kern
-*clefG2
-*k[b-]
-*F:
-*M2/4
-*
-*
-8c
-=1
-8f
-8g
-8a
-8b-/
-=2
-16cc
-16dd
-16cc
-16b-
-8a\
-8b-
+**kern	**text	**text	**text	**text	**text	**text	**text	**text
+*clefG2	*	*	*	*	*	*	*	*
+*k[b-]	*	*	*	*	*	*	*	*
+*F:	*	*	*	*	*	*	*	*
+*M2/4	*	*	*	*	*	*	*	*
+*	*v:1	*v:2	*v:3	*v:4	*v:5	*v:6	*v:7	*v:8
+*	*pline:1Ha	*pline:2Har	*pline:3Har	*pline:4Har	*pline:5Har	*pline:6Har	*pline:7Har	*pline:8Har
+8c	M'en	Je	Je	Ah!	Je	M'en	Ah!	"Ah!
+=1	=1	=1	=1	=1	=1	=1	=1	=1
+8f	al-	me	me	j'ai	m'en	al-	sa-	qu'il
+8g	-lant	suis	suis	pris	fis	-lant	-vez-	est
+8a	pro-	en-	ré-	mon	un	en	vous,	doux
+8b-/	-me-	-dor-	-vei-	cou-	flû-	chan-	mes-	d'ai-
+=2	=2	=2	=2	=2	=2	=2	=2	=2
+16cc	-ner	-mi	-llé	-teau	-tiau	-tant	-sieurs,	-mer
+16dd	(re-	(re-	(re-	(re-	(re-	(re-	(re-	(re-
+16cc	-lé	-li	-lé	-lo	-lo	-lan	-leu	lé
+16b-	re-	re-	re-	re-	re-	re-	re-	re-
+8a\	-lé)	-li)	-lé),	-lo),	-lo),	-lan)	-leu)	-lé)
+*	*pline:1Hb	*pline:2Hbr	*pline:3Hbr	*pline:4Hbr	*pline:5Hbr	*pline:6Hbr	*pline:7Hbr	*pline:8Hbr
+8b-	Le	À	Le	La	Un	Le	Ce	La
 !!LO:PB:g=original
-=3
-8g
-8b-/
-8a
-8b-/
-=4
-16cc
-16dd
-16cc
-16b-
-8a\
-8b-
-=5
-8.g
-16b-
-8a\
-8cc
+=3	=3	=3	=3	=3	=3	=3	=3	=3
+8g	long	l'om-	pin	bran-	fla-	long	que	fill'
+8b-/	du	-bre,	é-	-che	-geo-	du	m'a	de
+8a	grand	sous	-tait	j'ai	-let	grand	flût[e]	son
+8b-/	che-	un	fleu-	cou-	aus-	che-	a	voi-
+=4	=4	=4	=4	=4	=4	=4	=4	=4
+16cc	-min	pin	-ri	-pé	-si	-min	dit	-sin
+16dd	(re-	(re-	(re-	(re-	(re-	(re-	(re-	(re-
+16cc	-lin	-lin	-li	-lé	-li	-lin	-li,	-lin
+16b-	re-	re-	re-	re-	re-	re-	re-	re-
+8a\	-lin)	-lin)	-li)	-lé)	-li)	-lin)	-li)	-lin)
+*	*pline:1Hbr	*pline:2Hbr	*pline:3Hbr	*pline:4Hbr	*pline:5Hbr	*pline:6Hbr	*pline:7Hbr	*pline:8Hbr
+8b-	Le	À	Le	La	Un	Le	Ce	La
+=5	=5	=5	=5	=5	=5	=5	=5	=5
+8.g	long	l'om-	pin	bran-	fla-	long	que	fill'
+16b-	du	-bre,	é-	-che	-geo-	du	m'an	de
+8a\	grand	sous	-tait	j'ai	-let	grand	flût[e]	son
+8cc	che-	un	fleu-	cou-	aus-	che-	a	voi-
 !!LO:PB:g=original
-=6
-4g
-8r
-8f
-=7
-8g
-8b-/
-8a
-8cc
-=8
-16f
-16g
-16f
-16e
-8f
-8a
+=6	=6	=6	=6	=6	=6	=6	=6	=6
+4g	-min,	pin.	-ri.	-pé;	-si;	-min.	dit?	-sin!
+8r	.	.	.	.	.	.	.	.
+*	*pline:2Ha	*pline:3Ha	*pline:4Ha	*pline:5Ha	*pline:6Ha	*pline:7Ha	*pline:8Ha	*pline:9Ha
+8f	Je	Je	Ah!	Je	M'en	Ah!	"Ah!	Quand
+=7	=7	=7	=7	=7	=7	=7	=7	=7
+8g	me	me	j'ai	m'en	al-	sa-	qu'il	on
+8b-/	suis	suis	pris	fis	-lant	-vez-	est	l'a
+8a	en-	ré-	mon	un	en	vous,	doux	va'
+8cc	-dor-	-vei-	cou-	flû-	chan-	mes-	d'ai-	le
+=8	=8	=8	=8	=8	=8	=8	=8	=8
+16f	-mi'	-lle	-teau	-tiau	-tant	-sieurs,	-mer	soi-
+16g	(re-	(re-	(re-	(re-	(re-	(re-	(re-	-(re-
+16f	-li	-lé	-lo	-lo	-lan	-leu	-lé	-la
+16e	re-	re-	re-	re-	re-	re-	re-	re-
+8f	-li)	-lé),	-lo),	-lo),	-lan)	-leu)	-lé)	-la)-r
+*	*pline:2Hb	*pline:3Hb	*pline:4Hb	*pline:5Hb	*pline:6Hb	*pline:7Hb	*pline:8Hb	*pline:9Hb
+8a	À	Le	La	Un	Le	Ce	La	On
 !!LO:PB:g=original
-=9
-16f
-16g
-16f
-16e
-8f
-8a
-=10
-16f
-16g
-16f
-16e
-8f
-8g
+=9	=9	=9	=9	=9	=9	=9	=9	=9
+16f	l'om-	pin	branch[e]-	fla-	long	que	fi-	la
+16g	-(re-	(re-	-(re-	-(re-	(re-	(re-	-(re-	(re-
+16f	-lom	-lin	-lan	-la	-lon	-le	-li	-la
+16e	re-	re-	re-	re-	re-	re-	re-	re-
+8f	-lom)-	-lin)	-lan)-	-la)-	-lon)	-le)	-li)-	-la)
+8a	-bre	é-	-ché	geo-	du	ma	-ll' de	voit
+=10	=10	=10	=10	=10	=10	=10	=10	=10
+16f	sous	-tait	j'ai	-let	grand	flû-	son	le
+16g	(re-	(re-	(re-	(re-	(re-	-(re-	(re-	(re-
+16f	-lou	-lait	-lé	-let	-lan	-lu	-lon	-le
+16e	re-	re-	re-	re-	re-	re-	re-	re-
+8f	-lou)-	-lait)	-lé)	-let)	-lan)	-lu)-	-lon)	-le)
+8g	z-un	fleu-	cou-	aus-	che-	-t[e] a	voi-	ma-
 !!LO:PB:g=original
-=11
-16a
-16b-/
-16a
-16g
-8a
-8a
-=12
-8b-/
-16b-/
-16b-/
-8a
-8b-/
-=13
-16cc
-16dd
-16cc
-16b-/
-8a
-8a
+=11	=11	=11	=11	=11	=11	=11	=11	=11
+16a	pin	-ri	-pé	-si	-min	dit	-sin	-tin
+16b-/	(re-	(re-	(re-	(re-	(re-	(re-	(re-	(re-
+16a	-lin	-li	-lé	-li	-lin	-li	-lin	-lin
+16g	re-	re-	re-	re-	re-	re-	re-	re-
+8a	-lin)	-li).	-lé).	-li).	-lin).	-li)?	-lin)!	-lin).
+*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain
+*	*refrain	*	*	*	*	*	*	*
+*	*italic	*	*	*	*	*	*	*
+*	*pline:R1Ha	*	*	*	*	*	*	*
+8a	Au	.	.	.	.	.	.	.
+=12	=12	=12	=12	=12	=12	=12	=12	=12
+8b-/	bois	.	.	.	.	.	.	.
+16b-/	du	.	.	.	.	.	.	.
+16b-/	ros-	.	.	.	.	.	.	.
+8a	-si-	.	.	.	.	.	.	.
+8b-/	-gno-	.	.	.	.	.	.	.
+=13	=13	=13	=13	=13	=13	=13	=13	=13
+16cc	-let	.	.	.	.	.	.	.
+16dd	(re-	.	.	.	.	.	.	.
+16cc	-let	.	.	.	.	.	.	.
+16b-/	re-	.	.	.	.	.	.	.
+8a	-let)	.	.	.	.	.	.	.
+*	*pline:R1Hb	*	*	*	*	*	*	*
+8a	Au	.	.	.	.	.	.	.
 !!LO:PB:g=original
-=14
-8a
-16g
-16f
-8g
-8a
-=15
-[4f
-8f]
-8r
-=16
-1r
-==||
-*
-*
-==|
-*-
+=14	=14	=14	=14	=14	=14	=14	=14	=14
+8a	bois	.	.	.	.	.	.	.
+16g	du	.	.	.	.	.	.	.
+16f	ros-	.	.	.	.	.	.	.
+8g	-si-	.	.	.	.	.	.	.
+8a	-gno-	.	.	.	.	.	.	.
+=15	=15	=15	=15	=15	=15	=15	=15	=15
+[4f	-let.	.	.	.	.	.	.	.
+*	*Xitalic	*	*	*	*	*	*	*
+*	*Xrefrain	*	*	*	*	*	*	*
+8f]	.	.	.	.	.	.	.	.
+8r	.	.	.	.	.	.	.	.
+=16	=16	=16	=16	=16	=16	=16	=16	=16
+1r	.	.	.	.	.	.	.	.
+==	==	==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!EED-1: Samuel Boone
+!!!EEV-1: 2026/04/14
