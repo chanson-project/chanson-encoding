@@ -5,75 +5,86 @@
 !!!PTL@@FR: Chansons Populaires du Canada
 !!!OTL@@FR: Sur le pont d'Avignon
 !!!PUB: G. E. Desbarats
-!!!YEM:
 !!!PDT: 1865
-!!!SMA:
-!!!OMD:
 !!!AGN-Laforte:
 !!!AGN-type:
 !!!AGN-rime:
-**kern
-*clefG2
-*k[]
-*C:
-*M2/4
-*
-*
-8ee
-=1
-8ee
-8cc
-8dd
-8ee
-=2
-*M2/8
-8dd
-8ee
+**kern	**text	**text	**text	**text	**text	**text	**text	**text	**text	**text
+*clefG2	*	*	*	*	*	*	*	*	*	*
+*k[]	*	*	*	*	*	*	*	*	*	*
+*C:	*	*	*	*	*	*	*	*	*	*
+*M2/4	*	*	*	*	*	*	*	*	*	*
+*	*v:1	*v:2	*v:3	*v:4	*v:5	*v:6	*v:7	*v:8	*v:9	*v:10
+*	*pline:1	*pline:3	*pline:5	*pline:7	*pline:9	*pline:11	*pline:13	*pline:15	*pline:17	*pline:19
+8ee	Sur	Tout's	Trois	Al-	Ton	Quel	Prends-	Mais	On	Et
+=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+*^	*	*	*	*	*	*	*	*	*	*
+8gg	8ee	le	trois	al-	-le-	peign'	pa-	en	ne	les	des
+*v	*v	*	*	*	*	*	*	*	*	*	*
+8cc	pont	s'y	-le-	-mands,	tu	-ye-	un,	t'en	es-	pe-
+8dd	d'A-	pro-	-mands	al-	n'au-	-ment	prends-	van-	-ti-	-tits
+8ee	-vi-	-me-	pas-	-le-	-ras	veux-	en	-te	-me	en-
+=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+*M2/8	*	*	*	*	*	*	*	*	*	*
+8dd	-gnon,	-nant,	-sant,	-mands,	pas,	tu,	deux,	pas,	pas,	-fants,
+*	*pline:1r	*pline:3r	*pline:5r	*pline:7r	*pline:9r	*pline:11r	*pline:13r	*pline:15r	*pline:17r	*pline:19r
+*^	*	*	*	*	*	*	*	*	*	*
+8gg	8ee	Sur	Tout's	Trois	Al-	Ton	Quel	Prends-	Mais	On	Et
+*v	*v	*	*	*	*	*	*	*	*	*	*
 !!LO:PB:g=original
-=3
-*M2/4
-8ee
-8cc
-8dd
-8ee
-=4
-4dd
-8r
-8dd
-=5
-8.dd
-16cc
-8a
-8cc
+=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+*M2/4	*	*	*	*	*	*	*	*	*	*
+8ee	le	trois	al-	-le-	peign'	pa-	-en	ne	les	des
+8cc	pont	s'y	-le-	-mands,	tu	-ye-	un,	t'en	es-	pe-
+8dd	d'A-	pro-	-mands	al-	n'au-	-ment	prends-	ven-	-ti-	-tits
+8ee	-vi-	-me-	pas-	-le-	-ras	veux-	en	-te	-me	en-
+=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
+4dd	-gnon	-nant	-sant	-mands,	pas	tu	deux	pas:	pas,	-fants
+8r	.	.	.	.	.	.	.	.	.	.
+*	*pline:2	*pline:4	*pline:6	*pline:8	*pline:10	*pline:12	*pline:14	*pline:16	*pline:18	*pline:20
+8dd	Trois	Lais-	Ont	Ah!	Qu'tu	Un	Prends-	Tout	Car	Qui
+=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5
+8.dd	da-	-sent	ra-	ren-	n'ai'	bai-	en	gar-	ils	vont
+16cc	-mes	tom-	-mas-	-dez-	pa-	-ser	trois	-çon	ont	battr[e]
+8a	s'y	-ber	-sé	moi	-yé	de	à	qui	femm[e]	à
+8cc	pro-	leurs	les	mon	mes	toi,	ton	se	en	la
 !!LO:PB:g=original
-=6
-8.dd
-16cc
-8dd
-8ee
-=7
-(4dd
-8cc)
-8cc
-=8
-8.dd
-16cc
-8a
-8cc
+=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6
+8.dd	-mè-	pei-	pei-	pei-	pei-	bel-	ai-	van-	Fran-	gran-
+16cc	-nent,	-gnes,	-gnes,	-gnes,	-nes,	-le,	-se,	-te,	-ce,	-ge,
+*	*refrain	*	*	*	*	*	*	*	*	*
+*	*italic	*	*	*	*	*	*	*	*	*
+8dd	Ma	.	.	.	.	.	.	.	.	.
+8ee	don-	.	.	.	.	.	.	.	.	.
+=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7
+(4dd	dai-	.	.	.	.	.	.	.	.	.
+8cc)	-ne,	.	.	.	.	.	.	.	.	.
+*	*Xitalic	*	*	*	*	*	*	*	*	*
+*	*Xrefrain	*	*	*	*	*	*	*	*	*
+*	*pline:2r	*pline:4r	*pline:6r	*pline:8r	*pline:10r	*pline:12r	*pline:14r	*pline:16r	*pline:18r	*pline:20r
+8cc	Trois	Lais-	Ont	Ah!	Qu'tu	Un	Prends-	Tout	Car	Qui
+=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8
+8.dd	da-	-sent	ra-	ren-	n'ai'	bai-	en	gar-	ils	vont
+16cc	-mes	tom-	-mas-	-dez-	pa-	-ser	trois	-çon	ont	battr[e]
+8a	s'y	-ber	-sé	moi	-yé	de	à	qui	femm[e]	à
+8cc	pro-	leurs	les	mon	mes	toi,	ton	se	en	la
 !!LO:PB:g=original
-=9
-8.dd
-16cc
-8dd
-8ee
-=10
-4cc
-8r
-==||
-8r
-==||
-*
-*
-==|
-!!!RNB: first eighth note in m.1 and last in m.2 have a second eighth note in upper voice, on gg
-*-
+=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9
+8.dd	-mè-	pei-	pei-	pei-	pei-	bel-	ai-	van-	Fran-	gran-
+16cc	-nent,	-gnes,	-gnes,	-gne,	-nes,	-le,	-se,	-te,	-ce,	-ge,
+*	*refrain	*	*	*	*	*	*	*	*	*
+*	*italic	*	*	*	*	*	*	*	*	*
+8dd	Ma	.	.	.	.	.	.	.	.	.
+8ee	don-	.	.	.	.	.	.	.	.	.
+=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10
+4cc	-dé.	.	.	.	.	.	.	.	.	.
+*	*Xitalic	*	*	*	*	*	*	*	*	*
+*	*Xrefrain	*	*	*	*	*	*	*	*	*
+8r	.	.	.	.	.	.	.	.	.	.
+==||	==||	==||	==||	==||	==||	==||	==||	==||	==||	==||
+8r	.	.	.	.	.	.	.	.	.	.
+==	==	==	==	==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!RWG: Verse 6's "payement" spelled "pa-ye-ment" in original manuscript
+!!!EED-1: Samuel Boone
+!!!EEV-1: 2026/04/15
