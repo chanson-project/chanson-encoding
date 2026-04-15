@@ -19,7 +19,7 @@
 *g:	*
 *M6/8	*
 *	*v:1
-*	*pline:1
+*	*pline:1H1
 8dd	C'est
 =1	=1
 4dd	la
@@ -39,7 +39,7 @@
 4g	gai,
 *	*Xitalic
 *	*Xrefrain
-*	*pline:1r
+*	*pline:1H1r
 8dd	C'est
 =3	=3
 4dd	la
@@ -57,7 +57,7 @@
 *	*rs:a
 8r	.
 =5	=5
-*	*pline:2
+*	*pline:1H2
 4.b-	Qui
 4.f	veut
 =6	=6
@@ -83,7 +83,7 @@
 *	*Xrefrain
 !!LO:PB:g=original
 =8	=8
-*	*pline:2r
+*	*pline:1H2r
 4.b-/	Qui
 4.f	veut
 =9	=9
