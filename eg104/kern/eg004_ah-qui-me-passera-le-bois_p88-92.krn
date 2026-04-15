@@ -5,93 +5,95 @@
 !!!PTL@@FR: Chansons Populaires du Canada
 !!!OTL@@FR: Ah! Qui me passera le bois
 !!!PUB: G. E. Desbarats
-!!!YEM:
 !!!PDT: 1865
-!!!SMA:
-!!!OMD:
 !!!AGN-Laforte:
 !!!AGN-type:
 !!!AGN-rime:
-**kern
-*clefG2
-*k[b-]
-*g:
-*M6/8
-*
-*
-=1
-8.g
-16f
-8g
-4a
-8a
-=2
-4b-/
-8b-/
-4.a
-=3
-8.a
-16f
-8g
-4a
-!LO:TX:a:B:t=2
-.
-4a
+**kern	**text	**text	**text	**text	**text	**text	**text	**text
+*clefG2	*	*	*	*	*	*	*	*
+*k[b-]	*	*	*	*	*	*	*	*
+*g:	*	*	*	*	*	*	*	*
+*M6/8	*	*	*	*	*	*	*	*
+*	*v:1	*v:2	*v:3	*v:4	*v:5	*v:6	*v:7	*v:8
+*	*pline:1Ha	*pline:2Har	*pline:3Har	*pline:4Har	*pline:5Har	*pline:6Har	*pline:7Har	*pline:8Har
+=1	=1	=1	=1	=1	=1	=1	=1	=1
+8.g	Ah!	Ce	Quand	Oh!	J'en-	Quand	Bell'	Je
+16f	qui	se-	nous	qu'a'-	-tends	ils	qu'a-	ris
+8g	me	-ra	fûm's	vous	ve-	eur'nt	-vez-	de
+4a	pas-	mon-	au	donc,	-nir	tra-	vous,	toi,
+8a	-se-	-sieur	mi-	mon	des	-ver-	bell'	je
+=2	=2	=2	=2	=2	=2	=2	=2	=2
+4b-/	-ra	que	-lieu	bon	loups,	-sé	qu'a-	ris
+8b-/	le	voi-	du	mon-	là-	le	-vez-	de
+4.a	bois,	-là:	bois,	-sieur,	bas,	bois	vous,	moi,
+*	*pline:1Hb	*pline:2Hbr	*pline:3Hbr	*pline:4Hbr	*pline:5Hbr	*pline:6Hbr	*pline:7Hbr	*pline:8Hbr
+=3	=3	=3	=3	=3	=3	=3	=3	=3
+8.a	Moi	N'a-	Il	Qu'a'-	Qui	La	Qu'a-	De
+16f	qui	t-il	se	vous	nous	bell'	-vez-	ta
+8g	suis	pas	mit	à	suiv'	se	vous	pol-
+16%3a	si	bon-	à	tant	à	mit	à	-tron-
+16%3a	pe-	-ne	cou-	cou-	la	à	tant	-ner-
 !!LO:PB:g=original
-=4
-4.b-/
-4a
-8r
-=5
-8g
-8a
-8b-/
-4a
-8a
-=6
-8gL
-8fJ
-8e
-4f
-8g
-=7
-4a
-8f
-4g
-8a
+=4	=4	=4	=4	=4	=4	=4	=4	=4
+4.b-/	-ti-	mi-	-ri-	-ri-	ri-	ri-	ri-	-ri-
+4a	-te?	-ne?	-re.	-re?	-ve.	-re.	-re?	-e;
+8r	.	.	.	.	.	.	.	.
+*	*pline:2Ha	*pline:3Ha	*pline:4Ha	*pline:5Ha	*pline:6Ha	*pline:7Ha	*pline:8Ha	*pline:9Ha
+=5	=5	=5	=5	=5	=5	=5	=5	=5
+8g	Ce	Quand	Oh!	J'en-	Quand	Bell'	Je	D'a-
+8a	se-	nous	qu'a'-	-tends	ils	qu'a-	ris	-voir
+8b-/	-ra	fûm's-	vous	ve-	eur'nt	-vez-	de	pris
+4a	mon-	au	donc,	-nir	tra-	vous,	toi,	les
+8a	-sieur	mi-	mon	des	-ver-	bell'	je	per-
+=6	=6	=6	=6	=6	=6	=6	=6	=6
+8gL	que	-lieu	bon	loups,	-sé	qu'a-	ris	-drix
+8fJ	.	.	.	.	.	.	.	.
+8e	voi-	du	mon-	là-	le	-vez-	de	du
+4f	-là:	bois?	-sieur,	bas,	bois	vous,	moi,	bois
+*	*pline:2Hb	*pline:3Hb	*pline:4Hb	*pline:5Hb	*pline:6Hb	*pline:7Hb	*pline:8Hb	*pline:9Hb
+8g	N'a-	Il	Qu'a'-	Qui	La	Qu'a-	De	Pour
+=7	=7	=7	=7	=7	=7	=7	=7	=7
+4a	t-il	se	vous	nous	bell'	-vez-	la	des
+8f	pas	mit	à	suiv'	se	vous	pol-	loups
+4g	bon-	à	tant	à	mit	à	-tron-	en
+8a	-ne	cou-	cou-	la	à	tant	-ne-	fu-
 !!LO:PB:g=original
-=8
-4a
-8f
-4d
-8r
-=9
-4d
-8f
-4.a
-=10
-8g
-8a
-8b-/
-4.a
+=8	=8	=8	=8	=8	=8	=8	=8	=8
+4a	mi-	-ri-	-ri-	ri-	ri-	ri-	-ri-	-ri-
+8f	-ne?	-re,	-re,	-ve,	-re,	-re?	-e,	-e,
+*	*refrain	*	*	*	*	*	*	*
+*	*italic	*	*	*	*	*	*	*
+4d	là!	.	.	.	.	.	.	.
+*	*Xitalic	*	*	*	*	*	*	*
+*	*Xrefrain	*	*	*	*	*	*	*
+8r	.	.	.	.	.	.	.	.
+*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain
+*	*italic	*	*	*	*	*	*	*
+=9	=9	=9	=9	=9	=9	=9	=9	=9
+4d	Somm's-	.	.	.	.	.	.	.
+8f	nous	.	.	.	.	.	.	.
+4.a	au	.	.	.	.	.	.	.
+=10	=10	=10	=10	=10	=10	=10	=10	=10
+8g	mi-	.	.	.	.	.	.	.
+8a	-lieu	.	.	.	.	.	.	.
+8b-/	du	.	.	.	.	.	.	.
+4.a	bois?	.	.	.	.	.	.	.
 !!LO:PB:g=original
-=11
-4d
-8d
-4f
-!LO:TX:a:B:t=2
-.
-4a
-=12
-([4g
-16g]
-16f
-4g)
-8r
-==||
-*
-*
-==|
-!!!RWG: Key labelled as 'g' but should be G Dorian
-!!!RWG: Tuplets of final two quarter notes of both mm. 3 & 11 probably labelled improperly (unsure how)
-*-
+=11	=11	=11	=11	=11	=11	=11	=11	=11
+4d	Somm's-	.	.	.	.	.	.	.
+8d	nous	.	.	.	.	.	.	.
+16%3f	à	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.
+16%3a	la	.	.	.	.	.	.	.
+=12	=12	=12	=12	=12	=12	=12	=12	=12
+([4g	ri-	.	.	.	.	.	.	.
+16g]	.	.	.	.	.	.	.	.
+16f	.	.	.	.	.	.	.	.
+4g)	-ve?	.	.	.	.	.	.	.
+*	*Xitalic	*	*	*	*	*	*	*
+8r	.	.	.	.	.	.	.	.
+==	==	==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!RNB: Tuplets' note values encoded as "16%3"
+!!!EED-1: Samuel Boone
+!!!EEV-1: 2026/04/15
