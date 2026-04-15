@@ -5,75 +5,78 @@
 !!!PTL@@FR: Chansons Populaires du Canada
 !!!OTL@@FR: Hier sur le pont d'Avignon
 !!!PUB: G. E. Desbarats
-!!!YEM:
 !!!PDT: 1865
-!!!SMA:
-!!!OMD:
 !!!AGN-Laforte:
 !!!AGN-type:
 !!!AGN-rime:
-**kern
-*clefG2
-*k[f#]
-*G:
-*M2/4
-*
-*
-8d
-=1
-8.g
-16a
-8b
-8b
-=2
-8a
-8dd
-8g
-16r
-16d
-=3
-8.g
-16a
-8b
-8b
+**kern	**text	**text	**text	**text	**text	**text	**text
+*clefG2	*	*	*	*	*	*	*
+*k[f#]	*	*	*	*	*	*	*
+*G:	*	*	*	*	*	*	*
+*M2/4	*	*	*	*	*	*	*
+*	*v:1	*v:2	*v:3	*v:4	*v:5	*v:6	*v:7
+*	*pline:1	*pline:3	*pline:5	*pline:7	*pline:9	*pline:11	*pline:13
+8d	Hi-	El-	Que	Il	Çà	Mon-	Ber-
+=1	=1	=1	=1	=1	=1	=1	=1
+8.g	-er,	-le	le	ap-	que	-sieur,	-gèr[e]
+16a	sur	chan-	fils	-pe-	l'on	où	ou
+8b	le	-tait	du	-la	bri-	vou-	non
+8b	pont	d'un	roi	ses	-de	-lez-	je
+=2	=2	=2	=2	=2	=2	=2	=2
+8a	d'A-	ton	l'en-	ser-	mon	vous	veux
+8dd	-vi-	si	-ten-	-vi-	che-	al-	la
+8g	-gnon,	doux,	-dit,	-teurs,	-val,	-ler,	voir,
+16r	.	.	.	.	.	.	.
+*	*pline:1r	*pline:3r	*pline:5r	*pline:7r	*pline:9r	*pline:11r	*pline:13r
+16d	Hi-	El-	Que	Il	Çà	Mon-	Ber-
+=3	=3	=3	=3	=3	=3	=3	=3
+8.g	-er,	-le	le	ap-	que	-sieur,	-gèr[e]
+16a	sur	chan-	fils	-pe-	l'on	où	ou
+8b	le	-tait	du	-la	bri-	vou-	non
+8b	pont	d'un	roi	ses	-de	-lez-	je
 !!LO:PB:g=original
-=4
-8a
-8dd
-8g
-16r
-16g
-==5
-*M3/8
-4a
-8g
-=6
-4e
-8g
-=7
-8a
-8g
-8a
-=8
-4b/
-8a
+=4	=4	=4	=4	=4	=4	=4	=4
+8a	d'A-	ton	l'en-	ser-	mon	vous	veux
+8dd	-vi-	si	-ten-	-vi-	che-	al-	la
+8g	-gnon,	doux:	-dit	-teurs,	-val	-ler?	voir,
+16r	.	.	.	.	.	.	.
+*	*pline:2	*pline:4	*pline:6	*pline:8	*pline:10	*pline:12	*pline:14
+16g	J'ai	Com-	Du	Va-	Et	Ce	Ou
+==5	==5	==5	==5	==5	==5	==5	==5
+*M3/8	*	*	*	*	*	*	*
+4a	ouï	-me	lo-	-lets	lui	n'est	que
+8g	chan-	une	-gis	et	met-	qu'u-	mon
+=6	=6	=6	=6	=6	=6	=6	=6
+4e	-ter	de-	de	cham-	-te	-ne	che-
+8g	la	-moi-	son	-bri-	sa	ber-	-val
+=7	=7	=7	=7	=7	=7	=7	=7
+8a	bel-	-sel-	pè-	-è-	sel-	-gè-	crè-
+8g	-le,	-le,	-re,	-res,	-le,	-re,	-ve,
+*	*refrain	*	*	*	*	*	*
+*	*italic	*	*	*	*	*	*
+8a	Lon	.	.	.	.	.	.
+=8	=8	=8	=8	=8	=8	=8	=8
+4b/	la,	.	.	.	.	.	.
+*	*Xitalic	*	*	*	*	*	*
+*	*Xrefrain	*	*	*	*	*	*
+*	*pline:2r	*pline:4r	*pline:6r	*pline:8r	*pline:10r	*pline:12r	*pline:14r
+8a	J'ai	Com-	Du	Va-	Et	Ce	Ou
 !!LO:PB:g=original
-=9
-4g
-8f#
-=10
-4e
-8g
-=11
-(4.a
-=12
-8g)
-8r
-==||
-8r
-==||
-*
-*
-==|
+=9	=9	=9	=9	=9	=9	=9	=9
+4g	ouï	-me	lo-	-lets	lui	n'est	que
+8f#	chan-	une	-gis	et	met-	qu'u-	mon
+=10	=10	=10	=10	=10	=10	=10	=10
+4e	-ter	de-	de	cham-	-te	-ne	che-
+8g	la	-moi-	son	-bri-	sa	ber-	-val
+=11	=11	=11	=11	=11	=11	=11	=11
+(4.a	bel-	-sel-	pè-	-è-	sel-	-gè-	crè-
+=12	=12	=12	=12	=12	=12	=12	=12
+8g)	-le.	-le.	-re.	-res.	-le.	-re.	-ve.
+8r	.	.	.	.	.	.	.
+==||	==||	==||	==||	==||	==||	==||	==||
+8r	.	.	.	.	.	.	.
+==	==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-	*-
 !!!RNB: A variant included underneath but on the same page & in 6/8 time (ignored for now)
-*-
+!!!EED-1: Samuel Boone
+!!!EEV-1: 2026/04/14
