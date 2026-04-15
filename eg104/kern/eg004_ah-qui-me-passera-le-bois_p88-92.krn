@@ -69,6 +69,7 @@
 8r	.	.	.	.	.	.	.	.
 *>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain
 *	*italic	*	*	*	*	*	*	*
+*	*pline:R1	*	*	*	*	*	*	*
 =9	=9	=9	=9	=9	=9	=9	=9	=9
 4d	Somm's-	.	.	.	.	.	.	.
 8f	nous	.	.	.	.	.	.	.
@@ -78,6 +79,7 @@
 8a	-lieu	.	.	.	.	.	.	.
 8b-/	du	.	.	.	.	.	.	.
 4.a	bois?	.	.	.	.	.	.	.
+*	*pline:R2	*	*	*	*	*	*	*
 !!LO:PB:g=original
 =11	=11	=11	=11	=11	=11	=11	=11	=11
 4d	Somm's-	.	.	.	.	.	.	.
@@ -95,5 +97,6 @@
 ==	==	==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-	*-	*-
 !!!RNB: Tuplets' note values encoded as "16%3"
+!!!RNB: Small inserted refrain of "là!" before larger end-refrain not assigned pline number
 !!!EED-1: Samuel Boone
 !!!EEV-1: 2026/04/15
