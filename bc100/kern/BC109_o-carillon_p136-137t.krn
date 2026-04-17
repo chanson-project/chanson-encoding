@@ -1,0 +1,191 @@
+!!!id: BC109
+!!!page: 136-137t
+!!!COM: Sabatier, Charles-Wugk
+!!!LYR: Crémazie, Octave
+!!!OPR@@FR: Ô Carillon
+!!!AGN-Chamberland: patrie
+!!!AGN-Laforte: composée (strophique)
+!!!AGN-refrain: integrated/final
+!!!AGN-metre: 3:8(10)
+!!!AGN-rime: croisées {ababcdcd}
+**kern	**dynam	**text	**text	**text
+*clefG2	*	*	*	*
+*k[]	*	*	*	*
+*a	*	*	*	*
+!!LO:TX:a:t=Largement
+*M12/8	*	*	*	*
+*	*	*v:1	*v:2	*v:3
+*	*	*pline:1	*pline:9	*pline:16
+=1	=1	=1	=1	=1
+4.a	.	Ô	Cet	Qu'ils
+4g#	.	Ca-	é-	sont
+8a	.	-ril-	-tan-	heu-
+4e	.	-lon,	-dard	-reux
+8r	.	.	.	.
+4r	.	.	.	.
+8e	.	je	qu'au	ceux
+=2	=2	=2	=2	=2
+4cc	>	te	grand	qui,
+8b	)	re-	jour	dans
+4a	)	-vois	de	la
+8g#	]	en-	ba-	mê-
+4.a	.	-co-	-tail-	-lé-
+4e	.	-re,	-les,	e,
+8r	.	.	.	.
+!!LO:PB:g=original
+=3	=3	=3	=3	=3
+*	*	*pline:2	*pline:10	*pline:17
+4.a	.	Non	No-	Près
+4g#	.	plus,	-ble	de
+8a	.	hé-	Mont-	Lé-
+4e	.	-las!	-calm,	-vis,
+8r	.	.	.	.
+4r	.	.	.	.
+8e	.	Comm[e]	tu	mou-
+=4	=4	=4	=4	=4
+4gn	.	en	pla-	-ru-
+8a	.	ces	-ças	-rent
+!	!	!	!	!elision not applied 
+4g	.	jours	dans	en
+8f	.	bé-	ma	sol-
+2.e	.	-nis	main,	-dats!
+!!LO:PB:g=original
+=5	=5	=5	=5	=5
+*	*	*pline:3	*pline:11	*pline:18
+4.a	.	Où,	Cet	En
+4g#	.	dans	é-	ex-
+8a	.	tes	-tan-	-pi-
+4e	.	murs,	-dard	-rant,
+8r	.	.	.	.
+4r	.	.	.	.
+!	!	!Capital "L" in original.	!	!
+8e	.	la	qu'au	leur
+=6	=6	=6	=6	=6
+4cc	.	trom-	por-	â-
+8b	.	-pet-	-tes	-me
+4a	.	-te	de	con-
+8g#	.	so-	Ver-	-so-
+4.a	.	-no-	-sail-	-lé-
+4.e	.	-re,	-les,	-e
+!!LO:PB:g=original
+=7	=7	=7	=7	=7
+*	*	*pline:4	*pline:12	*pline:19
+4.a	.	Pour	Na-	Voy-
+4a	.	nous	-guèr[e],	-ait
+8a	.	sau-	hé-	la
+4.b-	.	-ver	-las!	gloir[e]
+4b-	.	nous	je	a-
+8b-	.	a-	dé-	-dou-
+=8	.	=8	=8	=8
+4.bn	.	-vait	-ploy-	-cir
+4cc	.	ré-	-ais	leur
+8b	.	-u-	en	tré-
+*^	*	*	*	*
+*join	*join	*	*	*	*
+2.ee	2.e	.	-nis.	vain,	-pas;
+*v	*v	*	*	*	*
+!!LO:PB:g=original
+=||9	=||9	=||9	=||9	=||9
+*k[f#c#g#]	*	*	*	*
+*	*	*pline:5	*pline:13	*pline:20
+!!LO:TX:a:B:t=Agitato espressivo
+2.cc#	.	Je	Je	Vous
+[4.b	.	viens	le	qui
+4b]	.	.	.	dor-
+8a	.	à	re-	-mez
+=10	=10	=10	=10	=10
+2.e	.	toi	-mets	dans
+4r	.	.	.	.
+8r	.	.	.	.
+4.e	.	quand	au	vo-
+=11	=11	=11	=11	=11
+4.f#	.	mon	champ,	-tre
+4.e	.	â-	où,	froi-
+[4.a	.	-me	de	-de
+4a]	.	.	.	.
+8b	.	suc-	ta	bi-
+!!LO:PB:g=original
+=12	=12	=12	=12	=12
+2.a	.	-com-	gloi-	-è-
+4g#	.	-be,	-re,	-re,
+8r	.	.	.	.
+4r	.	.	.	.
+8r	.	.	.	.
+=13	.	=13	=13	=13
+*	*	*pline:6	*pline:14	*pline:21
+2.dd	.	Et	Vi-	Vous
+[4.cc#	.	sent	-vra	que
+4cc#]	.	.	.	.
+8b#	.	dé-	tou-	j'im-
+=14	=14	=14	=14	=14
+2.cc#	.	-jà	-jours	-plor[e]
+[4.bn	.	son	l'im-	à
+4bn]	.	.	.	.
+8a	.	cou-	-mor-	mon
+!!LO:PB:g=original
+=15	=15	=15	=15	=15
+(4.g#	.	-ra-	-tel	der-
+4.b)	.	.	.	.
+4.f#	.	-ge	sou-	-nier
+(4cc#	.	fai-	-ve-	sou-
+8b)	.	.	.	.
+=16	=16	=16	=16	=16
+2.e	.	-blir.	-nir,	-pir,
+2.r	.	.	.	.
+=17	.	=17	=17	=17
+*	*	*pline:7	*pline:15	*pline:22
+2.cc#	.	Oui,	Et	Ré-
+[4.b	.	près	dans	-veil-
+4b]	.	.	.	.
+8a	.	de	la	-lez--
+!!LO:PB:g=original
+=18	=18	=18	=18	=18
+[2.e	.	toi,	tomb[e]	vous;
+4e]	.	.	.	.
+8r	.	.	.	.
+4.e	.	ve-	em-	ap-
+=19	=19	=19	=19	=19
+4.gn	.	-nant	-por-	-por-
+4.f#	<	cher-	-tant	-tant
+[4.cc#	(	-cher	ta	ma
+4cc#]	(	.	.	.
+8dd	[	ma	mé-	ban-
+=20	=20	=20	=20	=20
+2.cc#	.	tom-	-moi-	-niè-
+4b	.	-be,	-re,	-re,
+8r	.	.	.	.
+4r	.	.	.	.
+8r	.	.	.	.
+!!LO:PB:g=original
+=21	=21	=21	=21	=21
+!!LO:TX:a:i:t=rall.
+*	*	*pline:8	*pline:8r	*pline:23
+2.dd	.	Pour	Pour	Sur
+[4.fn	.	mon	mon	vos
+4fn]	.	.	.	.
+8b	.	dra-	dra-	tom-
+=22	=22	=22	=22	=22
+2.a	.	-peau	-peau	-beaux
+4r	.	.	.	.
+8r	.	.	.	.
+*	*	*refrain	*refrain	*refrain
+*	*	*italic	*italic	*italic
+4.e	.	je	je	je
+=23	=23	=23	=23	=23
+(4.f#X	.	viens	viens	viens
+4g#)	.	.	.	.
+8a	.	i-	i-	i-
+(4.b	.	-ci	-ci	-ci
+4cc#)	.	.	.	.
+8b	.	mou-	mou-	mou-
+=24	=24	=24	=24	=24
+[4.a	.	-rir!	-rir!	-rir!
+*	*	*Xitalic	*Xitalic	*Xitalic
+*	*	*Xrefrain	*Xrefrain	*Xrefrain
+4a]	.	.	.	.
+8r	.	.	.	.
+2r	.	.	.	.
+==	==	==	==	==
+*-	*-	*-	*-	*-
+!!!EED: Ève Poudrier
+!!!EEV: 2026/04/16
