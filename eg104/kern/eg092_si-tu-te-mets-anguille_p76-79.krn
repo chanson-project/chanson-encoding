@@ -5,102 +5,104 @@
 !!!PTL@@FR: Chansons Populaires du Canada
 !!!OTL@@FR: Si tu mets anguille
 !!!PUB: G. E. Desbarats
-!!!YEM:
 !!!PDT: 1865
-!!!SMA:
-!!!OMD:
 !!!AGN-Laforte:
 !!!AGN-type:
 !!!AGN-rime:
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-*
-*
-=1
-8g
-8g
-8g
-=2
-4d
-8g
-=3
-4.b
-=4
-8b/
-8a
-8b/
-=5
-4cc
-8b
+**kern	**text	**text	**text	**text	**text	**text	**text
+*clefG2	*	*	*	*	*	*	*
+*k[f#]	*	*	*	*	*	*	*
+*G:	*	*	*	*	*	*	*
+*M3/8	*	*	*	*	*	*	*
+*	*v:1	*v:2	*v:3	*v:4	*v:5	*v:6	*v:7
+*	*pline:1Ha	*pline:3Ha	*pline:5Ha	*pline:7Ha	*pline:9Ha	*pline:11Ha	*pline:13Ha
+=1	=1	=1	=1	=1	=1	=1	=1
+8g	Par	Si	Si	Si	Si	Si	Si
+8g	der-	tu	tu	tu	tu	tu	tu
+8g	-rièr'	te	te	te	te	te	te
+=2	=2	=2	=2	=2	=2	=2	=2
+4d	chez	mets	mets	mets	mets	mets	mets
+8g	ma	an-	pê-	al-	chas-	non-	prê-
+=3	=3	=3	=3	=3	=3	=3	=3
+4.b	tante	-guille	-cheur	-louett[e]	-seur	-nette	-cheur
+*	*pline:1Hb	*pline:3Hb	*pline:5Hb	*pline:7Hb	*pline:9Hb	*pline:11Hb	*pline:13Hb
+=4	=4	=4	=4	=4	=4	=4	=4
+8b/	Il	An-	Pour	Al-	Pour	Non-	Pour
+8a	lui	-gui-	m'a-	-louet-	m'a-	-nett'	m'a-
+8b/	ya-	-lle	-voir	-te	-voir	dans	-voir
+=5	=5	=5	=5	=5	=5	=5	=5
+4cc	t-un	dans	en	dans	en	un	en
+8b	é-	l'é-	pê-	les	chas-	cou-	prê-
 !!LO:PB:g=original
-=6
-4a
-8r
-=7
-8g
-8g
-8g
-=8
-4d
-8g
-=9
-4.b
-=10
-8b/
-8a
-8b/
-=11
-4cc
-8b
+=6	=6	=6	=6	=6	=6	=6	=6
+4a	-tang,	-tang,	-chant,	champs,	-sant,	-vent,	-chant,
+8r	.	.	.	.	.	.	.
+*	*pline:1Har	*pline:3Har	*pline:5Har	*pline:7Har	*pline:9Har	*pline:11Har	*pline:13Har
+=7	=7	=7	=7	=7	=7	=7	=7
+8g	Par	Si	Si	Si	Si	Si	Si
+8g	der-	tu	tu	tu	tu	tu	tu
+8g	-rièr'	te	te	te	te	te	te
+=8	=8	=8	=8	=8	=8	=8	=8
+4d	chez	mets	mets	mets	mets	mets	mets
+8g	ma	an-	pê-	Al-	chas-	non-	prê-
+=9	=9	=9	=9	=9	=9	=9	=9
+4.b	tante	-guille	-cheur	-louett[e]	-seur	-nette	-cheur
+*	*pline:1Hbr	*pline:3Hbr	*pline:5Hbr	*pline:7Hbr	*pline:9Hbr	*pline:11Hbr	*pline:13Hbr
+=10	=10	=10	=10	=10	=10	=10	=10
+8b/	Il	An-	Pour	Al-	Pour	Non-	Pour
+8a	lui	-gui-	m'a-	-louet-	m'a-	-nett'	m'a-
+8b/	ya-	-lle	-voir	-te	-voir	dans	-voir
+=11	=11	=11	=11	=11	=11	=11	=11
+4cc	t-un	dans	en	dans	en	un	en
+8b	é-	l'é-	pê-	les	chas-	cou-	prê-
 !!LO:PB:g=original
-=12
-4.a
-=13
-8a
-8a
-8a
-=14
-8b
-8cc
-=15
-4.dd
-=16
-8cc
-8cc
-8cc
-=17
-4b/
-8a
+=12	=12	=12	=12	=12	=12	=12	=12
+4.a	-tang....	-tang,	-chant,	champs,	-sant,	-vent,	-chant,
+*	*pline:2Ha	*pline:4Ha	*pline:6Ha	*pline:8Ha	*pline:10Ha	*pline:12Ha	*pline:14Ha
+=13	=13	=13	=13	=13	=13	=13	=13
+8a	Je	Je	Je	Je	Je	Je	Je
+8a	me	me	me	me	me	me	me
+8a	met-	met-	met-	mat-	met-	met-	donn'-
+=14	=14	=14	=14	=14	=14	=14	=14
+8b	-trai	-trai	-trai	-trai	-trai	-trai	-rai
+8cc	an-	pê-	al-	chas-	non-	prê-	à
+=15	=15	=15	=15	=15	=15	=15	=15
+4.dd	-guill[e],	-cheurs	-louett[e]	-seur:	-nette	-cheur:	toi
+*	*pline:2Hb	*pline:4Hb	*pline:6Hb	*pline:8Hb	*pline:10Hb	*pline:12Hb	*pline:14Hb
+=16	=16	=16	=16	=16	=16	=16	=16
+8cc	An-	Je	Al-	Je	Non-	Je	Puis-
+8cc	-guil-	t'au-	-louet-	t'au-	-ett'	t'au-	-que
+8cc	-le	-rai	-te	-rai	dans	-rai	tu
+=17	=17	=17	=17	=17	=17	=17	=17
+4b/	dans	en	dans	en	un	en	m'ai-
+8a	l'é-	pê-	les	chas-	cou-	prê-	-mes
 !!LO:PB:g=original
-=18
-4g
-8r
-=19
-8g
-8g
-8g
-=20
-4ee
-8dd
-=21
-4.dd
-=22
-8cc
-8cc
-8cc
-=23
-4b/
-8a
+=18	=18	=18	=18	=18	=18	=18	=18
+4g	-tang,	-chant,	champs	-sant.	-vent.	-chant.	tant!
+8r	.	.	.	.	.	.	.
+*	*pline:2Har	*pline:4Har	*pline:6Har	*pline:8Har	*pline:10Har	*pline:12Har	*pline:14Har
+=19	=19	=19	=19	=19	=19	=19	=19
+8g	Je	Je	Je	Je	Je	Je	Je
+8g	me	me	me	me	me	me	me
+8g	met-	met-	met-	met-	met-	met-	donn-'
+=20	=20	=20	=20	=20	=20	=20	=20
+4ee	-trai	-trai	-trai	-trai	-trai	-trai	-rai
+8dd	an-	pê-	al-	chas-	non-	prê-	à
+=21	=21	=21	=21	=21	=21	=21	=21
+4.dd	-guill[e],	-cheurs	-louett[e]	-seur:	-nette	-cheur:	toi
+*	*pline:2Hbr	*pline:4Hbr	*pline:6Hbr	*pline:8Hbr	*pline:10Hbr	*pline:12Hbr	*pline:14Hbr
+=22	=22	=22	=22	=22	=22	=22	=22
+8cc	An-	Je	Al-	Je	Non-	Je	Puis-
+8cc	-guil-	t'au-	-louet-	t'au-	-nett'	t'au-	-que
+8cc	-le	-rai	-te	-rai	dans	-rai	tu
+=23	=23	=23	=23	=23	=23	=23	=23
+4b/	dans	en	dans	en	un	en	m'ai-
+8a	l'é-	pê-	les	chas-	cou-	prê-	-mes
 !!LO:PB:g=original
-=24
-4g
-8r
-==||
-*
-*
-==|
-!!!RNB: Final eighth rest flipped backward in original
-*-
+=24	=24	=24	=24	=24	=24	=24	=24
+4g	-tang.	-chant.	champs.	-sant.	-vent.	-chant.	tant!
+4r	.	.	.	.	.	.	.
+==	==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-	*-
+!!!EED-1: Samuel Boone
+!!!EEV-1: 2026/04/16
