@@ -5,111 +5,118 @@
 !!!PTL@@FR: Chansons Populaires du Canada
 !!!OTL@@FR: J'ai cueilli la belle rose
 !!!PUB: G. E. Desbarats
-!!!YEM:
 !!!PDT: 1865
-!!!SMA:
-!!!OMD:
 !!!AGN-Laforte:
 !!!AGN-type:
 !!!AGN-rime:
-**kern
-*clefG2
-*k[]
-*C:
-*M2/4
-*
-*
-=1
-4cc
-4b
-=2
-(4a
-4g)
-=3
-2cc
-=4
-4dd
-4dd
-=5
-(4ee
-4cc)
-=6
-4b
-8r
+**kern	**text	**text	**text	**text	**text	**text	**text	**text	**text	**text	**text
+*clefG2	*	*	*	*	*	*	*	*	*	*	*
+*k[]	*	*	*	*	*	*	*	*	*	*	*
+*C:	*	*	*	*	*	*	*	*	*	*	*
+*M2/4	*	*	*	*	*	*	*	*	*	*	*
+*	*v:1	*v:2	*v:3	*v:4	*v:5	*v:6	*v:7	*v:8	*v:9	*v:10	*v:11
+*	*pline:1	*pline:3	*pline:5	*pline:7	*pline:8	*pline:9	*pline:11	*pline:13	*pline:15	*pline:17	*pline:19
+=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+4cc	J'ai	Je	Je	Je	Qui	Com-	Ni	Je	Com-	Je	Ve-
+4b	cueil-	l'ai	l'ai	n'ai	me	-ment	mon	m'en	-bien	ga-	-nez
+=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+(4a	-li	cueil-	por-	pas	dit	veux-	pè-	i-	ga-	-gne	a-
+4g)	.	-li'	.	.	.	.	.	.	.	.	.
+=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+2cc	la	feui-	-té'	trou-	dans	tu	-re,	-rai	-gnez-	bien	-vec
+=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
+4dd	bel-	-lle	chez	-vé	son	que	ni	en	vous,	cinq	nous,
+4dd	-le	à	mon	per-	lan-	j'm'y	ma	ser-	la	cents	la
+=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5
+(4ee	ro-	feui-	pè-	-son-	-ga-	ma-	mè-	-vi-	bel-	li-	bel-
+4cc)	.	.	.	.	.	-ri-	.	.	.	.	.
+=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6
+4b	-se,	-lle,	-re,	-ne,	-ge,	-e,	-re,	-ce,	-le,	-vres,	-le,
+4r	.	.	.	.	.	.	.	.	.	.	.
+*	*pline:1r	*pline:3r	*pline:5r	*pline:7r	*pline:9r	*pline:11r	*pline:13r	*pline:15r	*pline:17r	*pline:19r	*pline:21r
 !!LO:PB:g=original
-=7
-4ee
-4cc
-=8
-(4a
-4g)
-=9
-2cc
-=10
-4dd
-4dd
-=11
-(4ee
-4cc)
-=12
-4dd
-8r
-=13
-4cc
-4dd
+=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7
+4ee	J'ai	Je	Je	Je	Qui	Com-	Ni	Je	Com-	Je	Ve-
+4cc	cueil-	l'ai	l'ai	n'ai	me	-ment	mon	m'en	-bien	ga-	-nez
+=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8
+(4a	-li	cueil-	por-	pas	dit	veux-	pè-	i-	ga-	-gne	a-
+4g)	.	-li'	.	.	.	.	.	.	.	.	.
+=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9
+2cc	la	feui-	-té'	trou-	dans	tu	-re,	-rai	-gnez-	bien	-vec
+=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10
+4dd	bel-	-lle	chez	-vé	son	que	ni	en	vous,	cinq	nous,
+4dd	-le	à	mon	per-	lan-	j'm'y	ma	ser-	la	cents	la
+=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11
+(4ee	ro-	feui-	pè-	-son-	-ga-	ma-	mè-	-vi-	bel-	li-	bel-
+4cc)	.	.	.	.	.	-ri-	.	.	.	.	.
+=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12
+4dd	-se	-lle,	-re	-ne....	-ge:	-e?	-re,	-ce,	-le,	-vres,	-le,
+4r	.	.	.	.	.	.	.	.	.	.	.
+*	*pline:2	*pline:4	*pline:6	*pline:8	*pline:10	*pline:12	*pline:14	*pline:16	*pline:18	*pline:20	*pline:22
+=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13
+4cc	Qui	Mis	En-	Que	Ma-	Mon	Ni	En	Com-	Cinq	Nous
+4dd	pen-	dans	-tre	le	-ri'-	pèr[e]	au-	ser-	-bien	cents	vous
 !!LO:PB:g=original
-=14
-4dd
-4ee
-=15
-4cc
-4ee
-=16
-4dd
-8r
-=17
-4ee
-8cc
-8cc
-=18
-(2a
-=19
-4g)
-8r
+=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14
+4dd	-dait	mon	Pa-	ros-	toi,	en	-cun	-vi-	ga-	livr's	en
+4ee	au	ta-	-ris	-si-	car	est	de	-ce	-gnez-	en	donn'-
+=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15
+4cc	ro-	-bli-	et	-gnol	il	pas	mes	pour	vous	ar-	-rons
+4ee	-sier	-er	Rou-	chan-	est	con-	pa-	un	par	-gent	six
+=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16
+4dd	blanc,	blanc,	-en,	-tant,	temps,	-tent,	-rents,	an,	an?	blanc,	cents,
+4r	.	.	.	.	.	.	.	.	.	.	.
+*	*refrain	*	*	*	*	*	*	*	*	*	*
+*	*italic	*	*	*	*	*	*	*	*	*	*
+*	*pline:R1	*	*	*	*	*	*	*	*	*	*
+=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17
+4ee	La	.	.	.	.	.	.	.	.	.	.
+8cc	bel-	.	.	.	.	.	.	.	.	.	.
+8cc	-le	.	.	.	.	.	.	.	.	.	.
+=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18
+(2a	ro-	.	.	.	.	.	.	.	.	.	.
+=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19
+4g)	-se,	.	.	.	.	.	.	.	.	.	.
+4r	.	.	.	.	.	.	.	.	.	.	.
+*	*Xitalic	*	*	*	*	*	*	*	*	*	*
+*	*Xrefrain	*	*	*	*	*	*	*	*	*	*
+*	*pline:2r	*pline:4r	*pline:6r	*pline:8r	*pline:10r	*pline:12r	*pline:14r	*pline:16r	*pline:18r	*pline:20r	*pline:22r
 !!LO:PB:g=original
-=20
-4cc
-4dd
-=21
-4dd
-4ee
-=22
-4cc
-4ee
-=23
-4dd
-8r
-=24
-4ee
-8cc
-8b
-=25
-4.a
-8g
+=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20
+4cc	Qui	Mis	En-	Que	Ma-	Mon	Ni	En	Com-	Cinq	Nous
+4dd	pen-	dans	-tre	le	-ri'-	pèr[e]	au-	ser-	-bien	cents	vous
+=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21
+4dd	-dait	mon	Pa-	ros-	toi,	en	-cun	-vi-	ga-	livr's	en
+4ee	au	ta-	-ris	-si-	car	est	de	-ce	-gnez-	en	donn'-
+=22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22
+4cc	ro-	-bli-	et	-gnol	il	pas	mes	pour	vous	ar-	-rons
+4ee	-sier	-er	Rou-	chan-	est	con-	pa-	un	par	-gent	six
+=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23
+4dd	blanc,	blanc,	-en,	-tant,	temps,	-tent,	-rents,	an,	an?	blanc,	cents,
+*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain
+*	*italic	*	*	*	*	*	*	*	*	*	*
+*	*pline:R1r	*	*	*	*	*	*	*	*	*	*
+4r	.	.	.	.	.	.	.	.	.	.	.
+=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24
+4ee	La	.	.	.	.	.	.	.	.	.	.
+8cc	bel-	.	.	.	.	.	.	.	.	.	.
+8b	-le	.	.	.	.	.	.	.	.	.	.
+=25	=25	=25	=25	=25	=25	=25	=25	=25	=25	=25	=25
+4.a	ros'	.	.	.	.	.	.	.	.	.	.
+8g	du	.	.	.	.	.	.	.	.	.	.
 !!LO:PB:g=original
-=26
-4dd
-4ee
-=27
-8eeq
-[2cc
-=28
-4cc]
-8r
-==||
-*
-*
-==|
-!!!RNB: Eighth rests in mm.6, 16, 19, 23, and 28 flipped backward in original
-!!!RWG: Eight rest in m.12 in original should be quarter rest
-*-
+=26	=26	=26	=26	=26	=26	=26	=26	=26	=26	=26	=26
+4dd	ro-	.	.	.	.	.	.	.	.	.	.
+4ee	-sier	.	.	.	.	.	.	.	.	.	.
+=27	=27	=27	=27	=27	=27	=27	=27	=27	=27	=27	=27
+8eeq	.	.	.	.	.	.	.	.	.	.	.
+[2cc	blanc.	.	.	.	.	.	.	.	.	.	.
+=28	=28	=28	=28	=28	=28	=28	=28	=28	=28	=28	=28
+4cc]	.	.	.	.	.	.	.	.	.	.	.
+4r	.	.	.	.	.	.	.	.	.	.	.
+*	*Xitalic	*	*	*	*	*	*	*	*	*	*
+==	==	==	==	==	==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!RWG: Eight rest in m.12 in original should be quarter rest instead of eighth rest (encoded as such)
+!!!EED-1: Samuel Boone
+!!!EEV-1: 2026/04/16
