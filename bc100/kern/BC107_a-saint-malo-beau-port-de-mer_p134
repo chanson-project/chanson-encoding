@@ -1,0 +1,117 @@
+!!!id: BC107
+!!!page: 134
+!!!COM: Anonymous
+!!!LYR: Anonymous
+!!!OPR@@FR: À Saint-Malo, beau port de mer
+!!!AGN-Chamberland: n/a
+!!!AGN-Laforte: Chanson en laisse (dialogue)
+!!!AGN-refrain: final
+!!!AGN-metre: 10:2(8); R:3(5,6,7)
+!!!AGN-rime: mono /e/
+**kern	**text	**text	**text	**text	**text	**text	**text	**text	**text	**text
+*clefG2	*	*	*	*	*	*	*	*	*	*
+!!LO:TX:a:t=Allegro
+*M2/4	*	*	*	*	*	*	*	*	*	*
+*k[f#]	*	*	*	*	*	*	*	*	*	*
+*G:	*	*	*	*	*	*	*	*	*	*
+*	*v:1	*v:2	*v:3	*v:4	*v:5	*v:6	*v:7	*v:8	*v:9	*v:10
+*	*pline:1	*pline:2r	*pline:3r	*pline:4r	*pline:5r	*pline:6r	*pline:7r	*pline:8r	*pline:9r	*pline:10r
+{8g	À	Trois	Char-	Trois	Mar-	Trois	C'est	Mon-	Mar-	Si
+16g	Saint--	gros	-gés	dam's	-chand,	francs	"ben"	-tez,	-chant,	je
+16g	Ma-	na-	d'a-	s'en	mar-	l'a-	trop	mes-	tu	l'vends
+=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+8g	-lo,	-vir's	-voin',	vont	-chand,	-voin',	cher	-dam's,	n'ven-	pas,
+8b/	beau	sont	char-	les	com-	six	d'un'	vous	-dras	je
+8g	port	ar-	-gés	mar-	-bien	francs	bonn'	le	pas	l'don-
+8b/	de	-ri-	de	-chan-	ton	le	moi-	ver-	ton	-ne-
+=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+4a}	mer,	vés,	blé.	-der.	blé?	blé.	-tié,	-rez.	blé.	-rai.
+*	*rp:x	*rp:e	*rp:e	*rp:e	*rp:e	*rp:e	*rp:e	*rp:e	*rp:e	*rp:e
+*	*rf:x	*rf:ve	*rf:ble	*rf:de	*rf:ble	*rf:ble	*rf:tje	*rf:ʁe	*rf:ble	*rf:ʁe
+*	*rs:x	*rs:a1	*rs:a3	*rs:a4	*rs:a3	*rs:a3	*rs:a5	*rs:a6	*rs:a3	*rs:a6
+*	*pline:1r	*pline:2r	*pline:3r	*pline:4r	*pline:5r	*pline:6r	*pline:7r	*pline:8r	*pline:9r	*pline:10r
+{8g	À	Trois	Char-	Trois	Mar-	Trois	C'est	Mon-	Mar-	Si
+16g	Saint--	gros	-gés	dam's	-chand,	francs	"ben"	-tez,	-chant,	je
+16g	Ma-	na-	d'a-	s'en	mar-	l'a-	trop	mes-	tu	l'vends
+!!LO:PB:g=original
+=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+8g	-lo,	-vir's	-voin',	vont	-chand,	-voin',	cher	-dam's,	n'ven-	pas,
+8b/	beau	sont	char-	les	com-	six	d'un'	vous	-dras	je
+8g	port	ar-	-gés	mar-	-bien	francs	bonn'	le	pas	l'don-
+8b/	de	-ri-	de	-chan-	ton	le	moi-	ver-	ton	-ne-
+=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
+4a}	mer,	-vés,	blé.	-der.	blé?	blé.	-tié.	-rez.	blé.	-rai.
+*	*rp:x	*rp:e	*rp:e	*rp:e	*rp:e	*rp:e	*rp:e	*rp:e	*rp:e	*rp:e
+*	*rf:x	*rf:ve	*rf:ble	*rf:de	*rf:ble	*rf:ble	*rf:tje	*rf:ʁe	*rf:blé	*rf:ʁe
+*	*rs:x	*rs:a1	*rs:a3	*rs:a4	*rs:a3	*rs:a3	*rs:a5	*rs:a6	*rs:a3	*rs:a6
+*	*pline:2	*pline:3	*pline:4	*pline:5	*pline:6	*pline:7	*pline:8	*pline:9	*pline:10	*pline:11
+{8a	Trois	Char-	Trois	–Mar-	–Trois	–C'est	–Mon-	–Mar-	–Si	–À
+16b	gros	-gés	dam's	-chand,	francs	"ben"	-tez,	-chand,	je	c'prix--
+16cc	na-	d'a-	s'en	mar-	l'a-	trop	mes-	tu	l'vends	là,
+=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5
+8dd	-vir's	-voin',	vont	chand,	-voin',	cher	-dam's,	n'ven-	pas,	on
+8dd	sont	char-	les	com-	six	d'un'	vous	-dras	je	va
+8dd	-ar-	-gés	mar-	-bien	francs	bonn'	le	pas	l'don-	s'ar-
+8dd	-ri-	de	-chan-	ton	le	moi-	ver-	ton	-ne-	-ran-
+!!LO:PB:g=original
+=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6
+8b}	-vés.	blé.	-der.	blé?	blé.	-tié.	-rez.	blé.	-rai.	-ger.
+*	*rp:e	*rp:e	*rp:e	*rp:e	*rp:e	*rp:e	*rp:e	*rp:e	*rp:e	*rp:e
+*	*rf:ve	*rf:ble	*rf:de	*rf:ble	*rf:ble	*rf:tje	*rf:ʁe	*rf:ble	*rf:ʁe	*rf:ʒe
+*	*rs:a1	*rs:a3	*rs:a4	*rs:a3	*rs:a3	*rs:a5	*rs:a6	*rs:a3	*rs:a6	*rs:a7
+*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain
+*	*pline:R1	*	*	*	*	*	*	*	*	*
+*	*refrain	*	*	*	*	*	*	*	*	*
+*	*italic	*	*	*	*	*	*	*	*	*
+{{16g	Nous	.	.	.	.	.	.	.	.	.
+16a	i-	.	.	.	.	.	.	.	.	.
+8b	-rons	.	.	.	.	.	.	.	.	.
+8b	sur	.	.	.	.	.	.	.	.	.
+=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7
+8b	l'eau,	.	.	.	.	.	.	.	.	.
+*	*rp:x	*	*	*	*	*	*	*	*	*
+*	*rf:x	*	*	*	*	*	*	*	*	*
+*	*rs:x	*	*	*	*	*	*	*	*	*
+*	*pline:R2	*	*	*	*	*	*	*	*	*
+16a	Nous	.	.	.	.	.	.	.	.	.
+16g	y	.	.	.	.	.	.	.	.	.
+8a	prom',	.	.	.	.	.	.	.	.	.
+*	*bis	*	*	*	*	*	*	*	*	*
+16a	pro-	.	.	.	.	.	.	.	.	.
+16b/	-me-	.	.	.	.	.	.	.	.	.
+*	*Xbis	*	*	*	*	*	*	*	*	*
+!!LO:PB:g=original
+=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8
+8a}	-ner,	.	.	.	.	.	.	.	.	.
+*	*rp:e	*	*	*	*	*	*	*	*	*
+*	*rf:ne	*	*	*	*	*	*	*	*	*
+*	*rs:a2	*	*	*	*	*	*	*	*	*
+*	*pline:R3	*	*	*	*	*	*	*	*	*
+{16g	Nous	.	.	.	.	.	.	.	.	.
+16a	i-	.	.	.	.	.	.	.	.	.
+8b.	-rons	.	.	.	.	.	.	.	.	.
+16dd	-jou-	.	.	.	.	.	.	.	.	.
+=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9
+8dd	-er	.	.	.	.	.	.	.	.	.
+8cc	dans	.	.	.	.	.	.	.	.	.
+(8bL	l'î-	.	.	.	.	.	.	.	.	.
+8aJ)	.	.	.	.	.	.	.	.	.	.
+=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10
+4g}}	-le.	.	.	.	.	.	.	.	.	.
+*	*rp:x	*	*	*	*	*	*	*	*	*
+*	*rf:x	*	*	*	*	*	*	*	*	*
+*	*rs:x	*	*	*	*	*	*	*	*	*
+*	*Xitalic	*	*	*	*	*	*	*	*	*
+*	*Xrefrain	*	*	*	*	*	*	*	*	*
+==	==	==	==	==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!EED-1: Bethany Cheung
+!!!EEV-1: 2026/01/13
+!!!EED-2: Judith Valerie Engel
+!!!EEV-2: 2026/01/22
+!!!EED-3: Bethany Cheung
+!!!EEV-3: 2026/02/03
+!!!EED-4: Jack Etchegary
+!!!EEV-4: 2026/02/03
+!!!EED-5: Ève Poudrier
+!!!EEV-5: 2026/04/16
