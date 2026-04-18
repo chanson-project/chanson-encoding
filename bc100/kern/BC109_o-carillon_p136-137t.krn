@@ -5,9 +5,9 @@
 !!!OPR@@FR: Ô Carillon
 !!!AGN-Chamberland: patrie
 !!!AGN-Laforte: composée (strophique)
-!!!AGN-refrain: integrated/final
+!!!AGN-refrain: final
 !!!AGN-metre: 3:8(10)
-!!!AGN-rime: croisées {ababcdcd}
+!!!AGN-rime: croisées (ababcdcd)
 **kern	**dynam	**text	**text	**text
 *clefG2	*	*	*	*
 *k[]	*	*	*	*
@@ -31,6 +31,9 @@
 8g#	]	en-	ba-	mê-
 4.a	.	-co-	-tail-	-lé-
 4e	.	-re,	-les,	e,
+*	*	*rp:ɔ	*rp:a	*rp:e
+*	*	*rf:ɔʁ,ə	*rf:aj,ə	*rf:le,ə
+*	*	*rs:a	*rs:e	*rs:h
 8r	.	.	.	.
 !!LO:PB:g=original
 =3	=3	=3	=3	=3
@@ -49,6 +52,9 @@
 4g	.	jours	dans	en
 8f	.	bé-	ma	sol-
 2.e	.	-nis	main,	-dats!
+*	*	*rp:i	*rp:ẽ	*rp:a
+*	*	*rf:ni	*rf:ẽ	*rf:a
+*	*	*rs:b	*rs:f	*rs:i
 !!LO:PB:g=original
 =5	=5	=5	=5	=5
 *	*	*pline:3	*pline:11	*pline:18
@@ -67,6 +73,9 @@
 8g#	.	so-	Ver-	-so-
 4.a	.	-no-	-sail-	-lé-
 4.e	.	-re,	-les,	-e
+*	*	*rp:ɔ	*rp:a	*rp:e
+*	*	*rf:ɔʁ,ə	*rf:aj,ə	*rf:le,ə
+*	*	*rs:a	*rs:e	*rs:h
 !!LO:PB:g=original
 =7	=7	=7	=7	=7
 *	*	*pline:4	*pline:12	*pline:19
@@ -83,6 +92,9 @@
 *^	*	*	*	*
 *join	*join	*	*	*	*
 2.ee	2.e	.	-nis.	vain,	-pas;
+*	*	*	*rp:i	*rp:ẽ	*rp:a
+*	*	*	*rf:ni	*rf:ẽ	*rf:a
+*	*	*	*rs:b	*rs:f	*rs:i
 *v	*v	*	*	*	*
 !!LO:PB:g=original
 =||9	=||9	=||9	=||9	=||9
@@ -108,6 +120,9 @@
 =12	=12	=12	=12	=12
 2.a	.	-com-	gloi-	-è-
 4g#	.	-be,	-re,	-re,
+*	*	*rp:ɔ̃	*rp:a	*rp:ɛː
+*	*	*rf:ɔ̃b,ə	*rf:waʁ,ə	*rf:jɛːʁ,ə
+*	*	*rs:c	*rs:g	*rs:j
 8r	.	.	.	.
 4r	.	.	.	.
 8r	.	.	.	.
@@ -131,6 +146,9 @@
 8b)	.	.	.	.
 =16	=16	=16	=16	=16
 2.e	.	-blir.	-nir,	-pir,
+*	*	*rp:i	*rp:i	*rp:i
+*	*	*rf:iʁ	*rf:iʁ	*rf:iʁ
+*	*	*rs:d	*rs:d	*rs:d
 2.r	.	.	.	.
 =17	.	=17	=17	=17
 *	*	*pline:7	*pline:15	*pline:22
@@ -153,13 +171,16 @@
 =20	=20	=20	=20	=20
 2.cc#	.	tom-	-moi-	-niè-
 4b	.	-be,	-re,	-re,
+*	*	*rp:ɔ̃	*rp:a	*rp:ɛː
+*	*	*rf:ɔ̃b,ə	*rf:waʁ,ə	*rf:jɛːʁ,ə
+*	*	*rs:c	*rs:g	*rs:j
 8r	.	.	.	.
 4r	.	.	.	.
 8r	.	.	.	.
 !!LO:PB:g=original
 =21	=21	=21	=21	=21
 !!LO:TX:a:i:t=rall.
-*	*	*pline:8	*pline:8r	*pline:23
+*	*	*pline:8	*pline:8r	*pline:8rc6
 2.dd	.	Pour	Pour	Sur
 [4.fn	.	mon	mon	vos
 4fn]	.	.	.	.
@@ -180,6 +201,9 @@
 8b	.	mou-	mou-	mou-
 =24	=24	=24	=24	=24
 [4.a	.	-rir!	-rir!	-rir!
+*	*	*rp:i	*rp:i	*rp:i
+*	*	*rf:iʁ	*rf:iʁ	*rf:iʁ
+*	*	*rs:d	*rs:d	*rs:d
 *	*	*Xitalic	*Xitalic	*Xitalic
 *	*	*Xrefrain	*Xrefrain	*Xrefrain
 4a]	.	.	.	.
@@ -188,4 +212,4 @@
 ==	==	==	==	==
 *-	*-	*-	*-	*-
 !!!EED: Ève Poudrier
-!!!EEV: 2026/04/16
+!!!EEV: 2026/04/17
