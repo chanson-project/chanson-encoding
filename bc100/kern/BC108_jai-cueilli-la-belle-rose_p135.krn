@@ -37,7 +37,7 @@
 *	*rf:x	*rf:x	*rf:x	*rf:x	*rf:x	*rf:x	*rf:ʁã
 *	*rs:x	*rs:x	*rs:x	*rs:x	*rs:x	*rs:x	*rs:x
 8r}	.	.	.	.	.	.	.
-*	*pline:1H1r	*pline:2H1r	*pline:3H1r	*pline:4H1r	*pline:5H1r	*6H1r	*pline:7H1r
+*	*pline:1H1r	*pline:2H1r	*pline:3H1r	*pline:4H1r	*pline:5H1r	*pline:6H1r	*pline:7H1r
 {8dd	J'ai	Je	Je	Je	Qui	Com-	Ni
 8b-	cueil-	l'ai	l'ai	n'ai	me	-ment	mon
 !!LO:PB:g=original
@@ -52,7 +52,8 @@
 8b-J)	.	.	.	.	.	.	.
 8cc	-se	-le,	-re,	-ne,	-ge:	-ri'?	-re,
 *	*rp:o	*rp:o	*rp:o	*rp:o	*rp:o	*rp:o	*rp:o
-*	*rf:x	*rf:x	*rf:x	*rf:x	*rf:x	*rf:x	*rf:ʁã
+*	*rf:x	*rf:x	*rf:x	*rf:x	*rf:x	*rf:x	*rf:x
+*	*rs:x	*rs:x	*rs:x	*rs:x	*rs:x	*rs:x	*rs:x
 8r}	.	.	.	.	.	.	.
 *	*pline:1H2	*pline:2H2	*pline:3H2	*pline:4H2	*pline:5H2	*pline:6H2	*pline:7H2
 {8b-	Qui	Mis	En-	Que	–Ma-	Mon	Ni
@@ -68,7 +69,7 @@
 8cc	blanc,	blanc,	-en,	-tant,	temps,	-tent,	-rents,
 *	*rp:ã	*rp:ã	*rp:ã	*rp:ã	*rp:ã	*rp:ã	*rp:ã
 *	*rf:blã	*rf:blã	*rf:ã	*rf:tã	*rf:tã	*rf:tã	*rf:ʁã
-*	*rs:a1	*rs:a1	*rs:a0	*rp:a2	*rs:ã	*rp:ã	*rs:a3
+*	*rs:a1	*rs:a1	*rs:a0	*rs:a2	*rs:a2	*rs:a2	*rs:a3
 8r}	.	.	.	.	.	.	.
 *	*refrain	*refrain	*refrain	*refrain	*refrain	*refrain	*refrain
 *	*italic	*italic	*italic	*italic	*italic	*italic	*italic
@@ -82,7 +83,7 @@
 *	*Xitalic	*Xitalic	*Xitalic	*Xitalic	*Xitalic	*Xitalic	*Xitalic
 *	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain
 8r}	.	.	.	.	.	.	.
-*	*pline:1H2r	*pline:2H2r	*pline:3H2r	*pline:4H2r	*pline:5H2r	*6H2r	*7H2r
+*	*pline:1H2r	*pline:2H2r	*pline:3H2r	*pline:4H2r	*pline:5H2r	*pline:6H2r	*pline:7H2r
 {8b-	Qui	Mis	En-	Que	Ma-	Mon	Ni
 8cc	pen-	dans	-tre	le	-ri'--	pèr[e]	au-
 =8||	=8	=8||	=8||	=8||	=8||	=8||	=8||
@@ -96,8 +97,8 @@
 !	!	!	!	!	!	!Fixed tyo	!
 8cc	blanc,	blanc,	-en,	-tant,	temps,	-tent,	-rents,
 *	*rp:ã	*rp:ã	*rp:ã	*rp:ã	*rp:ã	*rp:ã	*rp:ã
-*	*rp:ã	*rp:ã	*rp:ã	*rf:tã	*rf:tã	*rf:tã	*rf:ʁã
-*	*rp:ã	*rp:ã	*rp:ã	*rs:a2	*rs:a2	*rs:a2	*rf:a3
+*	*rf:blã	*rf:blã	*rf:ã	*rf:tã	*rf:tã	*rf:tã	*rf:ʁã
+*	*rs:a1	*rs:a1	*rs:a0	*rs:a2	*rs:a2	*rs:a2	*rs:a3
 8r}	.	.	.	.	.	.	.
 *>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain
 *	*pline:R1	*	*	*	*	*	*
@@ -117,6 +118,9 @@
 4b-	blanc.	.	.	.	.	.	.
 *	*Xitalic	*	*	*	*	*	*
 *	*Xrefrain	*	*	*	*	*	*
+*	*rp:ã	*	*	*	*	*	*
+*	*rf:blã	*	*	*	*	*	*
+*	*rs:a1	*	*	*	*	*	*
 4r}	.	.	.	.	.	.	.
 ==	==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-	*-
@@ -124,5 +128,5 @@
 !!!EEV-1: 2026/02/03
 !!!EED-2: Bethany Cheung
 !!!EEV-2: 2026/02/03
-!!EED-3: Ève Poudrier
+!!!EED-3: Ève Poudrier
 !!!EEV-3: 2026/04/17
