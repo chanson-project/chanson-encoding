@@ -1,126 +1,146 @@
 !!!id: BC016
 !!!page: 24
 !!!COM: Anonymous
-!!!LYR: Burque, F.-X., ptre
+!!!LYR: Burque, F.-X.
 !!!PTL@@FR: Les 100 plus belles chansons
 !!!OTL@@FR: Vive la Canadienne
 !!!PUB:La Bonne Chanson, inc.
 !!!YEM: On ne peut reproduire, enregistrer ou diffuser en tout ou en partie le présent ouvrage, sous quelque procédé que ce soit, électronique, mécanique, photographique, sonore, magnétique ou autre, sans avoir obtenu au préalable l'autorisation écrite de l'éditrice.
 !!!PDT: 2011
 !!!SMA:2012 Bibliothèque nationale du Québec; Biblothèque nationale du Canada
-!!!AGN-Laforte: Chanson en laisse (with refrain), 10:1(6+6)
+!!!AGN-Laforte: laisse
+!!!AGN-metre:10:1(6+6)
 !!!AGN-type: Anthem
-!!!AGN-rime: suivies (aRb)
+!!!AGN-rime: simple /u/
 !!!REF: https://www.thecanadianencyclopedia.ca/fr/article/vive-la-canadienne
 **kern	**text	**text	**text	**text	**text	**text	**text	**text	**text	**text
 *clefG2	*	*	*	*	*	*	*	*	*	*
-*k[b-,e-,a-]	*	*	*	*	*	*	*	*	*	*
+*k[b-e-a-]	*	*	*	*	*	*	*	*	*	*
 *E-:	*	*	*	*	*	*	*	*	*	*
+!!LO:TX:a:i:t=Avec fierté
 *M2/4	*	*	*	*	*	*	*	*	*	*
 *	*v:1	*v:2	*v:3	*v:4	*v:5	*v:6	*v:7	*v:8	*v:9	*v:10
-*	*pline:1	*pline:2	*pline:3	*pline:4	*pline:5	*pline:6	*pline:7	*pline:8	*pline:9	*pline:10
+*	*pline:1h1	*pline:2h1	*pline:3h1	*pline:4h1	*pline:5h1	*pline:6h1	*pline:7h1	*pline:8h1	*pline:9h1	*pline:10h1
 =1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
-!!LO:TX:a:i:t=Avec fierté
-!	!	!elision not in original	!	!	!	!	!	!	!	!
-{8b-	Vi-	Ell'	El-	C'est	Que	.	.	.	.	.
-16b-	-ve	est	-le	à	d'en-	.	.	.	.	.
-16b-	la	vrai-	ra-	qui	-fants	.	.	.	.	.
-!	!	!	!elision not in original	!	!	!	!	!	!	!
-8b-	Ca-	-ment	yonn'	la	el-	.	.	.	.	.
-8ee-	-na-	chré-	et	ma-	-le	.	.	.	.	.
+{8b-	Vi-	Ell[e]	El-	C'est	Que	El-	El-	Jus-	Ce	Al-
+16b-	-ve	est	-le	à	d'en-	-le	le	-qu'à	n'est	-lons
+16b-	la	vrai-	ra-	qui	-fants	fait	fait	l'heu-	qu'au	fleu-
+8b-	Ca-	-ment	yonn[e]	la	el-	à	à	-re	ci-	-rir
+8ee-	-na-	chré-	et	ma-	-le	l'ai-	mer-	der-	-me-	sa
 =2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
-(8.b-L	-dien-	tien-	bril-	ri-	don-	.	.	.	.	.
+(8.b-L	-dien-	tien-	bril-	ri-	don-	-guil-	veil-	-niè-	-tiè-	tom-
 16a-J)	.	.	.	.	.	.	.	.	.	.
-8g	-ne,	-ne,	-le,	e,	-ne,	.	.	.	.	.
+8g	-ne,	-ne,	-le,	e,	-ne,	-le,	-le,	-re,	-re,	-be,
 8r}	.	.	.	.	.	.	.	.	.	.
 =3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
 *	*refrain	*refrain	*refrain	*refrain	*refrain	*refrain	*refrain	*refrain	*refrain	*refrain
-*	*italic	*	*	*	*	*	*	*	*	*
-{8.e-	Vo-	.	.	.	.	.	.	.	.	.
-16f	-le,	.	.	.	.	.	.	.	.	.
-8g	mon	.	.	.	.	.	.	.	.	.
-8b-	coeur,	.	.	.	.	.	.	.	.	.
+*	*italic	*italic	*italic	*italic	*italic	*italic	*italic	*italic	*italic	*italic
+*	*pline:r1	*pline:r1	*pline:r1	*pline:r1	*pline:r1	*pline:r1	*pline:r1	*pline:r1	*pline:r1	*pline:r1
+{8.e-	Vo-	Vo-	Vo-	Vo-	Vo-	Vo-	Vo-	Vo-	Vo-	Vo-
+16f	-le,	-le,	-le,	-le,	-le,	-le,	-le,	-le,	-le,	-le,
+8g	mon	mon	mon	mon	mon	mon	mon	mon	mon	mon
+8b-	coeur,	coeur,	coeur,	coeur,	coeur,	coeur,	coeur,	coeur,	coeur,	coeur,
 !!LO:PB:g=original
 =4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
-*	*bis	*	*	*	*	*	*	*	*	*
-(16b-L	vo-	.	.	.	.	.	.	.	.	.
+(16b-L	vo-	vo-	vo-	vo-	vo-	vo-	vo-	vo-	vo-	vo-
 16a-	.	.	.	.	.	.	.	.	.	.
 16g	.	.	.	.	.	.	.	.	.	.
 16a-J)	.	.	.	.	.	.	.	.	.	.
-8f	-le,	.	.	.	.	.	.	.	.	.
-*	*Xbis	*	*	*	*	*	*	*	*	*
+8f	-le,	-le,	-le,	-le,	-le,	-le,	-le,	-le,	-le,	-le,
 8r}	.	.	.	.	.	.	.	.	.	.
 =5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5
-*	*Xitalic	*	*	*	*	*	*	*	*	*
+*	*Xitalic	*Xitalic	*Xitalic	*Xitalic	*Xitalic	*Xitalic	*Xitalic	*Xitalic	*Xitalic	*Xitalic
 *	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain
-*	*bis	*bis	*bis	*bis	*bis	*bis	*bis	*bis	*bis	*bis
-!	!	!elision not in original	!	!	!	!	!	!	!	!
-{8b-	Vi-	Ell'	El-	C'est	Que	.	.	.	.	.
-16b-	-ve	est	-le	à	d'en-	.	.	.	.	.
-16b-	la	vrai-	ra-	qui	-fants	.	.	.	.	.
-!	!	!	!elision not in original	!	!	!	!	!	!	!
-8b-	Ca-	-ment	yonn'	la	el-	.	.	.	.	.
-8e-	-na-	chré-	et	ma-	-le	.	.	.	.	.
+*	*pline:1h1r	*pline:2h1r	*pline:3h1r	*pline:4h1r	*pline:5h1r	*pline:6h1r	*pline:7h1r	*pline:8h1r	*pline:9h1r	*pline:10h1r
+{8b-	Vi-	Ell[e]	El-	C'est	Que	El-	El-	Jus-	Ce	Al-
+16b-	-ve	est	-le	à	d'en-	-le	-le	qu'à	n'est	-lons
+16b-	la	vrai-	ra-	qui	-fants	fait	fait	l'heu-	qu'au	fleu-
+8b-	Ca-	-ment	yonn[e]	la	el-	à	à	-re	ci-	-rir
+8e-	-na-	chré-	et	ma-	-le	l'ai-	mer-	der-	-me-	sa
 =6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6
-(8.b-L	-dien-	tien-	bril-	-ri-	don-	.	.	.	.	.
+(8.b-L	-dien-	tien-	bril-	-ri-	don-	-guil-	-veil-	-niè-	-tiè-	tom-
 16a-J)	.	.	.	.	.	.	.	.	.	.
-8g	-ne	-ne,	le,	e,	-ne,	.	.	.	.	.
-*	*Xbis	*Xbis	*Xbis	*Xbis	*Xbis	*Xbis	*Xbis	*Xbis	*Xbis	*Xbis
-8e-	Et	Tré-	A-	Les	À	.	.	.	.	.
+8g	-ne	-ne,	le,	e,	-ne,	-le,	-le,	-re,	-re,	-be,
+*	*pline:1h2	*pline:2h2	*pline:3h2	*pline:4h2	*pline:5h2	*pline:6h2	*pline:7h2	*pline:8h2	*pline:9h2	*pline:10h2
+8e-	Et	Tré-	A-	Les	À	Nos	La	Sa	Que	Un
 =7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7
-8f	ses	-sor	-vec	gar-	son	.	.	.	.	.
-(16gL	jo-	de	ou	-çons	jo-	.	.	.	.	.
+8f	ses	-sor	-vec	gar-	son	ha-	bon-	vie	son	grand
+(16gL	jo-	de	ou	-çons	jo-	-bits,	-ne	est	règn[e]	coeur
 16a-J)	.	.	.	.	.	.	.	.	.	.
-8g	-lis	son	sans	en	-yeux	.	.	.	.	.
-8f	yeux	é-	bi-	sont	é-	.	.	.	.	.
+8g	-lis	son	sans	en	-yeux	nos	soup[e]	tout[e]	est	est
+8f	yeux	é-	bi-	sont	é-	sur-	aux	à	dis-	des-
 !!LO:PB:g=original
 =8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8
 !!LO:TX:a:B:t=FIN
-8.e-}	doux!	poux,	-joux,	fous,	-poux,	.	.	.	.	.
+8.e-}	doux!	poux,	-joux,	fous,	-poux,	-touts,	choux,	nous,	-sous,	-sous,
 *	*rp:u	*rp:u	*rp:u	*rp:u	*rp:u	*rp:u	*rp:u	*rp:u	*rp:u	*rp:u
-*	*rf:u	*rf:u	*rf:u	*rf:u	*rf:u	*rf:u	*rf:u	*rf:u	*rf:u	*rf:u
-*	*rs:a	*rs:a	*rs:a	*rs:a	*rs:a	*rs:a	*rs:a	*rs:a	*rs:a	*rs:a
+*	*rf:du	*rf:pu	*rf:ʒu	*rf:fu	*rf:pu	*rf:tu	*rf:ʃu	*rf:nu	*rf:su	*rf:su
+*	*rs:a1	*rs:a2	*rs:a3	*rs:a4	*rs:a2	*rs:a5	*rs:a6	*rs:a7	*rs:a8	*rs:b8
 =||	=||	=||	=||	=||	=||	=||	=||	=||	=||	=||
-*	*bis	*bis	*bis	*bis	*bis	*bis	*bis	*bis	*bis	*bis
-{16e-	Et	Tré-	A-	Les	À	.	.	.	.	.
-8e-	ses	-sor	-vec	gar-	son	.	.	.	.	.
-8g	jo-	de	ou	-çons	jo-	.	.	.	.	.
+*	*pline:1h2r	*pline:2h2r	*pline:3h2r	*pline:4h2r	*pline:5h2r	*pline:6h2r	*pline:7h2r	*pline:8h2r	*pline:9h2r	*pline:10h2r
+{16e-	Et	Tré-	A-	Les	À	Nos	La	Sa	Que	Un
+8e-	ses	-sor	-vec	gar-	son	ha-	bon-	vie	son	grand
+8g	jo-	de	ou	-çons	jo-	-bits,	-ne	est	règn[e]	coeur
 =9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9
-8b-	-lis	son	sans	en	-yeux	.	.	.	.	.
-8b-	yeux	é-	bi-	sont	é-	.	.	.	.	.
-8b-	doux,	-poux,	-joux,	fous,	-poux,	.	.	.	.	.
-8cc	doux,	-poux,	-joux,	fous,	-poux,	.	.	.	.	.
+8b-	-lis	son	sans	en	-yeux	nos	soup[e]	tout[e]	est	est
+8b-	yeux	é-	bi-	sont	é-	sur-	aux	à	dis-	des-
+8b-	doux,	-poux,	-joux,	fous,	-poux,	-touts,	choux,	nous,	-sous,	-sous,
+*	*rp:u	*rp:u	*rp:u	*rp:u	*rp:u	*rp:u	*rp:u	*rp:u	*rp:u	*rp:u
+*	*rf:du	*rf:pu	*rf:ʒu	*rf:fu	*rf:pu	*rf:tu	*rf:ʃu	*rf:nu	*rf:su	*rf:su
+*	*rs:a1	*rs:a2	*rs:a3	*rs:a4	*rs:a2	*rs:a5	*rs:a6	*rs:a7	*rs:a8	*rs:b8
+*	*bis	*bis	*bis	*bis	*bis	*bis	*bis	*bis	*bis	*bis
+*	*italic	*italic	*italic	*italic	*italic	*italic	*italic	*italic	*italic	*italic
+8cc	doux,	-poux,	-joux,	fous,	-poux,	-touts,	choux,	nous,	sous,	-sous,
 =10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10
-8b-	doux,	-poux,	-joux,	fous,	-poux,	.	.	.	.	.
-8a-	Et	Tré-	A-	Les	À	.	.	.	.	.
-8g	ses	-sor	-vec	gar-	son	.	.	.	.	.
-8a-	jo-	de	ou	-çons	jo-	.	.	.	.	.
+8b-	doux,	-poux,	-joux,	fous,	-poux,	-touts,	choux,	nous,	sous,	-sous,
+*	*Xitalic	*Xitalic	*Xitalic	*Xitalic	*Xitalic	*Xitalic	*Xitalic	*Xitalic	*Xitalic	*Xitalic
+*	*Xbis	*Xbis	*Xbis	*Xbis	*Xbis	*Xbis	*Xbis	*Xbis	*Xbis	*Xbis
+*	*pline:1h2r	*pline:2h2r	*pline:3h2r	*pline:4h2r	*pline:5h2r	*pline:6h2r	*pline:7h2r	*pline:8h2r	*pline:9h2r	*pline:10h2r
+8a-	Et	Tré-	A-	Les	À	Nos	La	Sa	Que	Un
+8g	ses	-sor	-vec	gar-	son	ha-	bon-	vie	son	grand
+8a-	jo-	de	ou	-çons	jo-	-bits,	-ne	est	règn[e]	coeur
 =11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11
-4b-	-lis	son	sans	en	-yeux	.	.	.	.	.
-4cc	yeux	é-	bi-	sont	é-	.	.	.	.	.
+4b-	-lis	son	sans	en	-yeux	nos	soup[e]	tout[e]	est	est
+4cc	yeux	é-	bi-	sont	é-	sur-	aux	à	dis-	des-
 !!LO:PB:g=original
 =12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12
-8b-	doux,	poux,	joux,	fous,	-poux,	.	.	.	.	.
+8b-	doux,	poux,	joux,	fous,	-poux,	-touts,	choux,	nous,	-sous,	-sous,
+*	*rp:u	*rp:u	*rp:u	*rp:u	*rp:u	*rp:u	*rp:u	*rp:u	*rp:u	*rp:u
+*	*rf:du	*rf:pu	*rf:ʒu	*rf:fu	*rf:pu	*rf:tu	*rf:ʃu	*rf:nu	*rf:su	*rf:su
+*	*rs:a1	*rs:a2	*rs:a3	*rs:a4	*rs:a2	*rs:a5	*rs:a6	*rs:a7	*rs:a8	*rs:b8
 16r}	.	.	.	.	.	.	.	.	.	.
-{16e-	Et	Tré-	A-	Les	À	.	.	.	.	.
-8e-	ses	-sor	vec	gar-	son	.	.	.	.	.
-8g	jo-	de	ou	-çons	jo-	.	.	.	.	.
+*	*pline:1h2r	*pline:2h2r	*pline:3h2r	*pline:4h2r	*pline:5h2r	*pline:6h2r	*pline:7h2r	*pline:8h2r	*pline:9h2r	*pline:10h2r
+{16e-	Et	Tré-	A-	Les	À	Nos	La	Sa	Que	Un
+8e-	ses	-sor	vec	gar-	son	ha-	bon-	vie	son	grand
+8g	jo-	de	ou	-çons	jo-	-bits,	-ne	est	règn[e]	coeur
 =13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13
-8b-	-lis	son	sans	en	yeux	.	.	.	.	.
-8b-	yeux	é-	bi-	sont	é-	.	.	.	.	.
-8b-	doux,	-poux,	-joux,	fous,	-poux,	.	.	.	.	.
-8cc	doux,	-poux,	-joux,	fous,	-poux,	.	.	.	.	.
+8b-	-lis	son	sans	en	yeux	nos	soup[e]	tout[e]	est	est
+8b-	yeux	é-	bi-	sont	é-	sur-	aux	à	dis-	des-
+8b-	doux,	-poux,	-joux,	fous,	-poux,	-touts,	choux,	nous,	-sous,	-sous,
+*	*rp:u	*rp:u	*rp:u	*rp:u	*rp:u	*rp:u	*rp:u	*rp:u	*rp:u	*rp:u
+*	*rf:du	*rf:pu	*rf:ʒu	*rf:fu	*rf:pu	*rf:tu	*rf:ʃu	*rf:nu	*rf:su	*rf:su
+*	*rs:a1	*rs:a2	*rs:a3	*rs:a4	*rs:a2	*rs:a5	*rs:a6	*rs:a7	*rs:a8	*rs:b8
+*	*bis	*bis	*bis	*bis	*bis	*bis	*bis	*bis	*bis	*bis
+*	*italic	*italic	*italic	*italic	*italic	*italic	*italic	*italic	*italic	*italic
+8cc	doux,	-poux,	-joux,	fous,	-poux,	-touts,	choux,	nous,	-sous,	-sous,
 =14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14
-8b-	doux,	-poux,	-joux,	fous,	-poux,	.	.	.	.	.
-8a-	Et	Tré-	A	Les	À	.	.	.	.	.
-8g	ses	-sor	vec	gar-	son	.	.	.	.	.
-8a-	jo-	de	ou	-çons	jo-	.	.	.	.	.
-=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15
-4b-	-lis	son	sans	en	-yeux	.	.	.	.	.
-4cc	yeux	é-	bi-	sont	é-	.	.	.	.	.
-=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16
-4.b-	doux!	-poux!	joux!	fous!	-poux!	.	.	.	.	.
+8b-	doux,	-poux,	-joux,	fous,	-poux,	-touts,	choux	nous,	-sous,	-sous,
+*	*Xitalic	*Xitalic	*Xitalic	*Xitalic	*Xitalic	*Xitalic	*Xitalic	*Xitalic	*Xitalic	*Xitalic
 *	*Xbis	*Xbis	*Xbis	*Xbis	*Xbis	*Xbis	*Xbis	*Xbis	*Xbis	*Xbis
+*	*pline:1h2r	*pline:2h2r	*pline:3h2r	*pline:4h2r	*pline:5h2r	*pline:6h2r	*pline:7h2r	*pline:8h2r	*pline:9h2r	*pline:10h2r
+8a-	Et	Tré-	A	Les	À	Nos	La	Sa	Que	Un
+8g	ses	-sor	vec	gar-	son	ha-	bon-	vie	son	grand
+8a-	jo-	de	ou	-çons	jo-	-bits,	-ne	est	règn[e]	coeur
+=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15
+4b-	-lis	son	sans	en	-yeux	nos	soup[e]	tout[e]	est	est
+4cc	yeux	é-	bi-	sont	é-	sur-	aux	à	dis-	des-
+=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16
+4.b-	doux!	-poux!	joux!	fous!	-poux!	-touts!	choux!	nous!	-sous!	-sous!
+*	*rp:u	*rp:u	*rp:u	*rp:u	*rp:u	*rp:u	*rp:u	*rp:u	*rp:u	*rp:u
+*	*rf:du	*rf:pu	*rf:ʒu	*rf:fu	*rf:pu	*rf:tu	*rf:ʃu	*rf:nu	*rf:su	*rf:su
+*	*rs:a1	*rs:a2	*rs:a3	*rs:a4	*rs:a2	*rs:a5	*rs:a6	*rs:a7	*rs:a8	*rs:b8
 8r}	.	.	.	.	.	.	.	.	.	.
 ==	==	==	==	==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!EED: Ève Poudrier
+!!!EEV: 2026/04/20
