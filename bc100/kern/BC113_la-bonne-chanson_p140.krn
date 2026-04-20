@@ -1,0 +1,104 @@
+!!!id: BC113
+!!!page: 140
+!!!COM: Georges, Raoul
+!!!LYR: Favard, E.
+!!!PTL@@FR: Les 100 plus belles chansons
+!!!OTL@@FR: Nos souvenirs
+!!!PUB: La Bonne Chanson, inc.
+!!!YEM: On ne peut reproduire, enregistrer ou diffuser en tout ou en partie le présent ouvrage, sous quelque procédé que ce soit, électronique, mécanique, photographique, sonore, magnétique ou autre, sans avoir obtenu au préalable l'autorisation écrite de l'éditrice.
+!!!PDT: 2011
+!!!SMA: 2012 Bibliothèque nationale du Québec; Biblothèque nationale du Canada
+!!!AGN-Laforte: courte
+!!!AGN-refrain: none
+!!!AGN-metre: 1:5(10)
+!!!AGN-topic:
+!!!AGN-rime: suivies (aabba)
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/4	*
+*	*v:1
+=1	=1
+*	*pline:1
+4cc	De-
+4cc	-puis
+4cc	long-
+=2	=2
+4b	-temps
+4b	c'est
+4b	la
+=3	=3
+4a	Bon-
+4b	-ne
+4c	Chan-
+=4	=4
+2.g	-son
+!!LO:PB:g=original
+=5	=5
+*	*pline:2
+4f	Qui
+4f	trou-
+4f	-ve
+=6	=6
+4e	pla-
+4e	-ce
+4e	dans
+=7	=7
+4d	tou-
+4d	-te
+4d	mai-
+=8	=8
+2.c	-son;
+!!LO:PB:g=original
+=9	=9
+*	*pline:3
+4c	Un
+4d	peu
+4e	par-
+=10	=10
+4c	-tout,
+4d	à
+4e	l'é-
+=11	=11
+4c	col[e],
+4d	au
+4e	foy-
+=12	=12
+2.g	-er,
+!!LO:PB:g=original
+=13	=13
+*	*pline:4
+4d	Dans
+4e	les
+4f	sa-
+=14	=14
+4d	-lons,
+4e	on
+4f	se
+=15	=15
+4d	plaît
+4e	à
+4f	chan-
+=16	=16
+2.g	-ter
+!!LO:PB:g=original
+=17	=17
+*	*pline:5
+4cc	Les
+4b	beaux
+4a	re-
+=18	=18
+4g	-frains
+4f	de
+4e	la
+=19	=19
+4d	Bon-
+4c	-ne
+4B	Chan-
+=20	=20
+2.c	-son.
+==	==
+*-	*-
+!!!EED: Ève Poudrier
+!!EEV: 2026/04/20
