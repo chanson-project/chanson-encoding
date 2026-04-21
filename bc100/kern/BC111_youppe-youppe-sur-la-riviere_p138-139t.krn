@@ -10,17 +10,17 @@
 !!!SMA: 2012 Bibliothèque nationale du Québec; Biblothèque nationale du Canada
 !!!AGN-Laforte: strophique
 !!!AGN-refrain: final
-!!!AGN-metre: 5:4(6+6)
+!!!AGN-metre: 5:4(6+6); R:1(8+6)
 !!!AGN-topic: [amour, us et coutumes]
-!!!AGN-rime: mixte: v:1, simple /e/; R1-2, partial (aaab); v:2-5, suivie (aabb)
+!!!AGN-rime: mixte: v:1, simple /e/; R1-2, partial (aaax); v:2-5, suivie (aabb)
 **kern	**text	**text	**text	**text	**text
 *clefG2	*	*	*	*	*
 *k[f#]	*	*	*	*	*
 *G:	*	*	*	*	*
 !!LO:TX:a:i:t=Gai
 *M2/4	*	*	*	*	*
-*	*v:1h1	*v:2h1	*v:3h1	*v:4h1	*v:5h1
-*	*pline:1	*pline:5	*pline:9	*pline:13	*pline:17
+*	*v:1	*v:2	*v:3	*v:4	*v:5
+*	*pline:1h1	*pline:5h1	*pline:9h1	*pline:13h1	*pline:17h1
 8d	Par	J'y	"Ah!	Re-	J'n'at-
 =1	=1	=1	=1	=1	=1
 8g	un	al-	oui,	-ve-	-tends
@@ -30,7 +30,7 @@
 =2	=2	=2	=2	=2	=2
 [4g	soir,	pip[e],	ell[e],	-homm'	l'dis[e]
 8g]	.	.	.	.	.
-*	*v:1h2	*v:5h2	*v:9h2	*v:13h2	*v:17h2
+*	*pline:1h2	*pline:5h2	*pline:9h2	*pline:13h2	*pline:17h2
 !	!Capitalized in original	!	!	!	!
 8d	m'en	comm'	a-	qu'est	pour
 =3	=3	=3	=3	=3	=3
@@ -44,7 +44,7 @@
 4.g	-ner,	-çon,	-sir,	-ché,	fois,
 *	*rp:e	*rp:ɔ̃	*rp:i	*rp:e	*rp:a
 *	*rf:ne	*rf:sɔ̃	*rf:iʁ	*rf:ʃe	*rf:wa
-*	*rs:a1	*rs:b	*rs:	*rs:	*rs:
+*	*rs:a1	*rs:b	*rs:d	*rs:a5	*rs:e
 *	*pline:2h1	*pline:6h1	*pline:10h1	*pline:14h1	*pline:18h1
 8g	Et	Di-	Tu	Cri-	Et
 =5	=5	=5	=5	=5	=5
@@ -54,7 +54,7 @@
 8g	Fran-	pa-	ce	-te	Fran-
 =6	=6	=6	=6	=6	=6
 8.g	-çois,	-rol's	soir,	voix:	-çois:
-*	*v:2h2	*v:6h2	*v:10h2	*v:14h2	*v:18h2
+*	*pline:2h2	*pline:6h2	*pline:10h2	*pline:14h2	*pline:18h2
 16f#	tous	aux	c'est	"Li-	"T'en
 8g	deux	gens	seul'-	-ma,	viens--
 8a	de	de	-ment	va	tu
@@ -66,7 +66,7 @@
 4d	-gnée,	-son,	rir[e];	-cher!	moi?
 *	*rp:e	*rp:ɔ̃	*rp:i	*rp:e	*rp:a
 *	*rf:ɲe	*rf:zɔ̃	*rf:iʁ	*rf:ʃe	*rf:wa
-*	*rs:a2	*rs:b'	*rs:	*rs:	*rs:
+*	*rs:a2	*rs:b'	*rs:d	*rs:a5	*rs:e
 8r	.	.	.	.	.
 *	*pline:3h1	*pline:7h1	*pline:11h1	*pline:15h1	*pline:19h1
 8b	Chez	Je	Tu	Les	Bon-
@@ -79,7 +79,7 @@
 =10	=10	=10	=10	=10	=10
 (4b	-thier	-ma:	-dèl[e]	pagn[e],	-ma,
 8dd)	.	.	.	.	.
-*	*v:3h2	*v:7h2	*v:11h2	*v:15h2	*v:19h2
+*	*pline:3h2	*pline:7h2	*pline:11h2	*pline:15h2	*pline:19h2
 !!LO:TX:a:B:t=a Tempo
 8b	nous	"Me	pour	des	je
 =11	=11	=11	=11	=11	=11
@@ -90,9 +90,9 @@
 !!LO:PB:g=original
 =12	=12	=12	=12	=12	=12
 4d	-ler,	vous	-mour:	-bourgs,	-min!"
-*	*rp:e	*rp:u	*rp:	*rp:	*rp:
-*	*rf:je	*rf:vu	*rf:	*rf:	*rf:
-*	*rs:a3	*rs:c	*rs:	*rs:	*rs:
+*	*rp:e	*rp:u	*rp:u	*rp:u	*rp:ẽ
+*	*rf:je	*rf:vu	*rf:uʁ	*rf:uʁ	*rf:mẽ
+*	*rs:a3	*rs:c1	*rs:c2	*rs:c3	*rs:f
 8r	.	.	.	.	.
 *	*pline:4h1	*pline:8h1	*pline:12h1	*pline:16h1	*pline:20h1
 8d	Je	De	T'as	Re-	Je
@@ -104,7 +104,7 @@
 8g	-con-	des	-ré-	d'i-	nu--
 =14	=14	=14	=14	=14	=14
 8a	-ter	autr's	-mie	-ci,	têt[e],
-*	*v:4h2	*v:8h2	*v:12h2	*v:16h2	*v:20h2
+*	*pline:4h2	*pline:8h2	*pline:12h2	*pline:16h2	*pline:20h2
 8b	l'tour	pour	que	car	mon
 8cc	qui	m'ap-	tu	il	cha-
 8a	m'est	-pro-	ai-	fait	-peau
@@ -115,16 +115,16 @@
 =||16	=||16	=||16	=||16	=||16	=||16
 *M6/8	*	*	*	*	*
 4g	-vé.	vous?"	-jours."	jour!"	main.
-*	*rp:e	*rp:u	*rp:	*rp:	*rp:
-*	*rf:ve	*rf:vu	*rf:	*rf:	*rf:
-*	*rs:a4	*rs:c	*rs:	*rs:	*rs:
+*	*rp:e	*rp:u	*rp:u	*rp:u	*rp:ẽ
+*	*rf:ve	*rf:vu	*rf:uʁ	*rf:uʁ	*rf:mẽ
+*	*rs:a4	*rs:c1	*rs:c2	*rs:c3	*rs:f
 8r	.	.	.	.	.
 !!LO:TX:a:B:t= Refrain
 =||	=||	=||	=||	=||	=||
 *>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain
 *	*refrain	*	*	*	*
 *	*italic	*	*	*	*
-*	*pline:R1	*	*	*	*
+*	*pline:R1h1	*	*	*	*
 8b	Youp-	.	.	.	.
 8r	.	.	.	.	.
 8b	-pe!	.	.	.	.
@@ -144,8 +144,8 @@
 8a	-re,	.	.	.	.
 *	*rp:ɛː	*	*	*	*
 *	*rf:ɛːʁ,ə	*	*	*	*
-*	*rs:Ra	*	*	*	*
-*	*pline:R2	*	*	*	*
+*	*rs:g	*	*	*	*
+*	*pline:R1h2	*	*	*	*
 8a	Vous	.	.	.	.
 8a	ne	.	.	.	.
 8a	m'en-	.	.	.	.
@@ -157,8 +157,8 @@
 8g	-re,	.	.	.	.
 *	*rp:ɛː	*	*	*	*
 *	*rf:ɛːʁ,ə	*	*	*	*
-*	*rs:Ra	*	*	*	*
-*	*pline:R1r	*	*	*	*
+*	*rs:g	*	*	*	*
+*	*pline:R1hr	*	*	*	*
 8b	Youp-	.	.	.	.
 8r	.	.	.	.	.
 8b	-pe!	.	.	.	.
@@ -178,8 +178,8 @@
 8a	-re,	.	.	.	.
 *	*rp:ɛː	*	*	*	*
 *	*rf:ɛːʁ,ə	*	*	*	*
-*	*rs:Ra	*	*	*	*
-*	*pline:R2r(v6)	*	*	*	*
+*	*rs:g	*	*	*	*
+*	*pline:R1h2r(v6)	*	*	*	*
 8a	Vous	.	.	.	.
 8a	ne	.	.	.	.
 4b	m'en-	.	.	.	.
@@ -191,7 +191,7 @@
 8r	pas.	.	.	.	.
 *	*rp:a	*	*	*	*
 *	*rf:pa	*	*	*	*
-*	*rs:Rx	*	*	*	*
+*	*rs:x	*	*	*	*
 *	*Xitalic	*	*	*	*
 *	*Xrefrain	*	*	*	*
 ==	==	==	==	==	==
