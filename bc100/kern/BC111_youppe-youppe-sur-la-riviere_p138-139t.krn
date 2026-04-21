@@ -13,144 +13,158 @@
 !!!AGN-metre: 5:4(12)
 !!!AGN-topic: [us et coutumes]
 !!!AGN-rime: suivies (aabb)
-**kern
-*clefG2
-*k[f#]
-*G:
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
 !!LO:TX:a:i:t=Gai
-*M2/4
-*
-*
-8d
-=1
-8g
-8a
-8b
-8a
-=2
-[4g
-8g]
-8d
-=3
-8g
-8a
-8b
-8a
+*M2/4	*
+*	*v:1
+*	*pline:1
+8d	Par
+=1	=1
+8g	un
+8a	di-
+8b	-manch[e]
+8a	au
+=2	=2
+[4g	soir,
+8g]	.
+!	!Capitalized in original
+8d	m'en
+=3	=3
+8g	al-
+8a	-lant
+8b	pro-
+8a	-me-
 !!LO:PB:g=original
-=4
-4.g
-8g
-=5
-8.g
-16g
-8g
-8g
-=6
-8.g
-16f#
-8g
-8a
-=7
-4b
-4g
+=4	=4
+4.g	-ner,
+*	*pline:2
+8g	Et
+=5	=5
+8.g	moi
+16g	et
+8g	puis
+8g	Fran-
+=6	=6
+8.g	-çois,
+16f#	tous
+8g	deux
+8a	de
+=7	=7
+4b	com-
+4g	-pa-
 !!LO:PB:g=original
-=8
-4d
-8r
-8b
-=9
+=8	=8
+4d	-gnée,
+8r	.
+*	*pline:3
+8b	Chez
+=9	=9
 !!LO:TX:a:i:t=rall.
-8.b
-16a
-8b
-8cc
-=10
-(4b
-8dd)
+8.b	le
+16a	bon-
+8b	-homm'
+8cc	Gau-
+=10	=10
+(4b	-thier
+8dd)	.
 !!LO:TX:a:B:t=a Tempo
-8b
-=11
-8cc
-8b
-8a
-8g
+8b	nous
+=11	=11
+8cc	a-
+8b	-vons
+8a	'té
+8g	veil-
 !!LO:PB:g=original
-=12
-4d
-8r
-8d
-=13
-8.d
-16e
-8f#
-8g
-=14
-8a
-8b
-8cc
-8a
+=12	=12
+4d	-ler,
+8r	.
+*	*pline:4
+8d	Je
+=13	=13
+8.d	vais
+16e	vous
+8f#	ra-
+8g	-con-
+=14	=14
+8a	-ter
+8b	l'tour
+8cc	qui
+8a	m'est
 !!LO:PB:g=original
-=15
-4f#
-4a
-=||16
-*M6/8
-4g
-8r
+=15	=15
+4f#	ar-
+4a	-ri-
+=||16	=||16
+*M6/8	*
+4g	-vé.
+8r	.
 !!LO:TX:a:B:t= Refrain
-=||
-*>Refrain
-*
-*
-*
-8b
-8r
-8b
-=17
-8b
-8r
-8b
-8b
-8b
-8b
+=||	=||
+*>Refrain	*>Refrain
+*	*refrain
+*	*italic
+*	*pline:R1
+8b	Youp-
+8r	.
+8b	-pe!
+=17	=17
+*	*bis
+8b	Youp-
+8r	.
+8b	-pe!
+*	*Xbis
+8b	sur
+8b	la
+8b	ri-
 !!LO:PB:g=original
-=||18
-*M9/8
-4b
-8a
-8a
-8a
-8a
-4b
-8a
-=||19
-*M6/8
-4a
-8g
-8b
-8r
-8b
+=||18	=||18
+*M9/8	*
+4b	-viè-
+8a	-re,
+*	*pline:R2
+8a	Vous
+8a	ne
+8a	m'en-
+4b	-ten-
+8a	-dez
+=||19	=||19
+*M6/8	*
+4a	guè-
+8g	-re,
+*	*pline:R1r
+8b	Youp-
+8r	.
+8b	-pe!
 !!LO:PB:g=original
-=20
-8b
-8r
-8b
-8b
-8b
-=||21
-*M9/8
-4b
-8a
-8a
-8a
-8a
-4b
-8a
-=||22
-*M2/4
-4g
-8r
-==
-*-
+=20	=20
+*	*bis
+8b	Youp-
+8r	.
+8b	-pe!
+*	*Xbis
+8b	sur
+8b	la
+=||21	=||21
+*M9/8	*
+4b	ri-
+8a	-viè-
+8a	-re,
+*	*pline:R2rv6
+8a	Vous
+8a	ne
+4b	m'en-
+8a	-ten-
+=||22	=||22
+*M2/4	*
+4g	-dez
+!	!final word variant
+8r	pas.
+*	*Xitalic
+*	*Xrefrain
+==	==
+*-	*-
 !!!EED: Ève Poudrier
 !!!EEV: 2026/04/20
