@@ -8,102 +8,139 @@
 !!!YEM: On ne peut reproduire, enregistrer ou diffuser en tout ou en partie le présent ouvrage, sous quelque procédé que ce soit, électronique, mécanique, photographique, sonore, magnétique ou autre, sans avoir obtenu au préalable l'autorisation écrite de l'éditrice.
 !!!PDT: 2011
 !!!SMA:2012 Bibliothèque nationale du Québec; Biblothèque nationale du Canada
-!!!AGN-Laforte:
-!!!AGN-type:
-!!!AGN-rime: 
-**kern
-*clefG2
-*k[f#]
-*D:
-*M6/8
+!!!AGN-Laforte: strophique (composée)
+!!!AGN-refrain: n/a
+!!!AGN-topic: [amour]
+!!!AGN-metre: 2:8(8)
+!!!AGN-rime: suivie (aabbccdd)
+**kern	**text	**text
+*clefG2	*	*
+*k[f#]	*	*
+*D:	*	*
 !!LO:TX:a:t=Berceur
-8d
-8g
-8a
-=1
-4b
-8cc
-4a
-8b
-=2
-4.g
-8d
-8g
-8b
+*M6/8	*	*
+*	*v:1	*v:2
+*	*pline:1	*pline:9
+8d	Sur	Dans
+8g	l'on-	la
+8a	-de	splen-
+=1	=1	=1
+4b	pur[e]	-deur
+8cc	al-	d'un
+4a	-lons	si
+8b	sans	beau
+=2	=2	=2
+4.g	bruit,	soir,
+*	*rp:i	*rp:a
+*	*rf:ɥ1	*rf:waʁ
+*	*rs:a	*rs:e
+*	*pline:2	*pline:10
+8d	Dans	Comm[e]
+8g	le	il
+8b	si-	fait
 !!LO:PB:g=original
-=3
-4dd
-8ee
-4cc
-8dd
-=4
-4.b
-8b
-8a
-8b
-=5
-4dd
-8cc
-4a
-8b
-=6
-4.g
-8g
-8f#
-8g
+=3	=3	=3
+4dd	-len-	bon
+8ee	-ce	de
+4cc	de	nous
+8dd	la	re-
+=4	=4	=4
+4.b	nuit,	-voir!
+*	*rp:i	*rp:a
+*	*rf:ɥ1	*rf:waʁ
+*	*rs:a	*rs:e
+*	*pline:3	*pline:11
+8b	Pen-	Au-
+8a	-dant	-tour
+8b	qu'au	de
+=5	=5	=5
+4dd	ciel	nous
+8cc	les	tout
+4a	as-	est
+8b	-tres	beau-
+=6	=6	=6
+4.g	d'or	-té:
+*	*rp:ɔ	*rp:e
+*	*rf:ɔʁ	*rf:e
+*	*rs:b	*rs:d0
+*	*pline:4	*pline:12
+8g	À	Le
+8f#	nos	ciel
+8g	a-	d'a-
 !!LO:PB:g=original
-=7
-4a
-8a
-4cc
-8b
-=8
-4a
-8r
-8d
-8g
-8a
-=9
-4b
-8cc
-4a
-8b
+=7	=7	=7
+4a	-mours	-zur,
+8a	font	le
+4cc	un	lac
+8b	dé-	do-
+=8	=8	=8
+4a	-cor.	-ré.
+*	*rp:ɔ	*rp:e
+*	*rf:ɔʁ	*rf:e
+*	*rs:b	*rs:d0
+8r	.	.
+*	*pline:5	*pline:13
+8d	Le	Lais-
+8g	flot	-sons
+8a	nous	nos
+=9	=9	=9
+4b	ber-	coeurs
+8cc	-ce	goû-
+4a	dou-	-ter
+8b	-ce-	en
 !!LO:PB:g=original
-=10
-4.g
-8d
-8g
-8b
-=11
-4dd
-8ee
-4cc
-8dd
-=12
-4.b
-8b
-8a
-8b
+=10	=10	=10
+4.g	-ment,	paix
+*	*rp:ɑ̃	*rp:ɛ
+*	*rf:mɑ̃	*rf:ɛ
+*	*rs:c	*rs:f
+*	*pline:6	*pline:14
+8d	La	Le
+8g	lu-	charm[e]
+8b	-ne	ex-
+=11	=11	=11
+4dd	brill[e]	-quis
+8ee	au	de
+4cc	fir-	nos
+8dd	-ma-	se-
+=12	=12	=12
+4.b	-ment;	-crets.
+*	*rp:ɑ̃	*rp:ɛ
+*	*rf:mɑ̃	*rf:ɛ
+*	*rs:c	*rs:f
+*	*pline:7	*pline:15
+8b	L'oi-	Si
+8a	-seau	nous
+8b	du	pou-
 !!LO:PB:g=original
-=13
-4dd
-8cc
-4a
-8b
-=14
-4.g
-8g
-8f#
-8g
-=15
-4a
-8cc
-4b
-8a
-=16
-4g
-8r
-==
-*-
+=13	=13	=13
+4dd	soir,	-vions
+8cc	l'air	res-
+4a	em-	-ter
+8b	-bau-	tou-
+=14	=14	=14
+4.g	mé,	-jours
+*	*rp:e	*rp:u
+*	*rf:me	*rf:uʁ
+*	*rs:d1	*rs:g
+*	*pline:8	*pline:16
+8g	Tout	Sur
+8f#	nous	ce
+8g	in-	beau
+=15	=15	=15
+4a	-vit[e]	lac
+8cc	à	de
+4b	nous	nos
+8a	ai-	a-
+=16	=16	=16
+4g	-mer.	mours!
+*	*rp:e	*rp:u
+*	*rf:me	*rf:uʁ
+*	*rs:d1	*rs:g
+8r	.	.
+==	==	==
+*-	*-	*-
 !!!EED: Isaac Howie
 !!!EEV: 2025/08/12
+!!!EED: Ève Poudrier
+!!!EEV: 2026/04/21
