@@ -1,1 +1,1 @@
-This collection of folk songs was collected by Ernest Gagnon and published in 1865. It contains 104 songs, some with variants. The folder eg104 contains a sub-folder with the source materials in PDF format ("pdf") and a sub-folder with encoded folk songs in KERN format ("kern").
+This collection of folk songs was collected by Ernest Gagnon and published in 1865. It contains 104 songs (115 including variants). The folder eg104 contains a sub-folder with the source materials in PDF format ("pdf") and a sub-folder with encoded folk songs in KERN format ("kern").
