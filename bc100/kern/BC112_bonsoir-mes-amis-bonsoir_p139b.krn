@@ -20,7 +20,6 @@
 *M2/4	*
 *	*
 *>Refrain	*>Refrain
-*	*refrain
 *	*italic
 *	*rline:1
 8d	Bon-
@@ -79,7 +78,6 @@
 *met(c)	*
 2gg;	-voir!
 *	*Xitalic
-*	*Xrefrain
 4r	.
 !!LO:TX:a:B:t=Fin:rj
 =||	=||
@@ -135,5 +133,5 @@
 =:||	=:||
 *-	*-
 !!!EED: Ève Poudrier
-!!!EEV: 2026/04/20
+!!!EEV: 2026/04/22
 !!!RNB: Dal segno replaced by repeats.
