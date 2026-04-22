@@ -77,7 +77,7 @@
 *	*rs:a2	*rs:a3	*rs:a4	*rs:a4	*rs:a5	*rs:a4	*rs:a1
 16r	.	.	.	.	.	.	.
 *>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain
-*italic	*	*	*	*	*	*	*
+*	*italic	*	*	*	*	*	*
 *	*pline:R1	*	*	*	*	*	*
 16cc	Ah!	.	.	.	.	.	.
 8cc	je	.	.	.	.	.	.
@@ -92,7 +92,7 @@
 8.gJ	.	.	.	.	.	.	.
 !!LO:PB:g=original
 =10	=10	=10	=10	=10	=10	=10	=10
-*	*bis	*	*		*	*	*
+*	*bis	*	*	*	*	*	*
 8.a	gai,	.	.	.	.	.	.
 *	*Xbis	*	*	*	*	*	*
 *	*pline:R2	*	*	*	*	*	*
@@ -110,8 +110,9 @@
 *	*rf:le	*	*	*	*	*	*
 *	*rs:Ra2	*	*	*	*	*	*
 16r;	.	.	.	.	.	.	.
+*	*Xitalic	*	*	*	*	*	*
 ==	==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-	*-
 !!!EED: Ève Poudrier
 !!!EEV: 2026/04/22
-!!!RNB: Gagnon identifies two versions depending on whether a man or a woman are at the center of the dance; the version ended here is the woman's version. Each version also has two variants based on whether or not the potential danse partner accepts or not the invitation of the speaker (see: "Ou bien, si la danseuse n'est pas agréée:"). Both these variants are encoded. Variant 1 comprises v:1-4 and variant 2 substitutes an alternate line for v:4 and adds v:5-6.
+!!!RNB: Gagnon identifies two versions depending on whether a man or a woman are at the center of the dance; the version ended here is the woman's version. Each version also has two variants based on whether or not the potential danse partner accepts or not the invitation of the speaker (see: "Ou bien, si la danseuse n'est pas agréée:"). Both these variants are encoded. Variant 1 comprises v:1-4 and variant 2 adds an alternate v:4 and adds v:5-6.
