@@ -184,11 +184,11 @@
 !!LO:PB:g=original
 =||	=||	=||
 *>Refrain	*>Refrain	*>Refrain
-!!LO:TX:a:B:t=REFRAIN
 *	*refrain	*
 *	*italic	*
 *^	*	*
 *	*	*pline:R1	*
+!!LO:TX:a:t=REFRAIN
 8d	8d	Fer-	.
 =21	=21	=21	=21
 4dd	4b	-me	.
@@ -246,12 +246,12 @@
 *	*	*pline:R1r	*
 8d	8d	Fer-	.
 !!LO:PB:g=original
-=28	=28	=28	=28
+=29	=29	=29	=29
 4dd	4b	-me	.
 8dd	8b	tes	.
 4dd	4b	jo-	.
 8cc	8a	-lis	.
-=29	=29	=29	=29
+=30	=30	=30	=30
 [4.b	[4.g	yeux,	.
 *	*	*rp:ø	*
 *	*	*rf:jø	*
@@ -263,7 +263,7 @@
 8b	8g	n'est	.
 4cc	4a	que	.
 8dd	8b	men-	.
-=30	=30	=30	=30
+=31	=31	=31	=31
 (4.dd#	(4.b	-son-	.
 4ee)	4cc)	-ge;	.
 8r	8ryy	.	.
@@ -271,14 +271,14 @@
 *	*	*rf:ɔ̃ʒ,ə	*
 *	*	*rs:f2	*
 !!LO:PB:g=original
-=31	=31	=31	=31
+=32	=32	=32	=32
 *	*	*pline:R6	*
 4ee	4cc	Le	.
 8ee	8cc	bon-	.
 8ee	8cc	-heur	.
 8ddn	8b	est	.
 8cc	8a	un	.
-=30	=30	=30	=30
+=33	=33	=33	=33
 (4.b	(4.g	son-	.
 4dd)	4b)	-ge,	.
 *	*	*rp:ɔ̃	*
@@ -286,12 +286,12 @@
 *	*	*rs:f2	*
 *	*	*pline:R1r	*
 8b	8g	Fer-	.
-=32	=32	=32	=33
+=34	=34	=34	=34
 4dd	4b	-me	.
 8cc	8a	tes	.
 4a	4cc	jo-	.
 8b	8dd	-lis	.
-=33	=33	=33	=33
+=35	=35	=35	=35
 (16bL	(16ddL	yeux.	.
 *	*	*rp:ø	*
 *	*	*rf:jø	*
