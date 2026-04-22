@@ -1,0 +1,117 @@
+!!!id: EG002
+!!!page: 216-217
+!!!COM: Anonymous
+!!!LYR: Anonymous
+!!!PTL@@FR: Chansons populaires du Canada
+!!!OTL@@FR: Ah! je m'en vais entrer en danse
+!!!PUB: E. G. Desbarats, Foyer Canadien
+!!!PDT: 1965
+!!!AGN-Gagnon: ronde
+!!!AGN-Laforte: laisse
+!!!AGN-refrain: final
+!!!AGN-metre: V4:2(8+8), à cheval; R1:2(5,7)
+!!!AGN-topic: [danse]
+!!!AGN-rime: simple /e/
+**kern	**text	**text	**text	**text	**text	**text	**text
+*clefG2	*	*	*	*	*	*	*
+*k[]	*	*	*	*	*	*	*
+*C:	*	*	*	*	*	*	*
+*M2/4	*	*	*	*	*	*	*
+*>Verse	*>Verse	*>Verse	*>Verse	*>Verse	*>Verse	*>Verse	*>Verse
+*	*v:1	*v:2	*v:3	*v:4	*v:4v	*v:5	*v:6
+*	*pline:1h1	*pline:2h1r	*pline:3h1r	*pline:4h1r	*pline:4h1r	*pline:5h1vr	*pline:6h1r
+16cc	Ah!	Je	Ah!	En	En	Ah!	Je
+8cc	je	me	j'en	vous	vous	re-	le
+8g	m'en	re-	vois	fai-	fai-	-gar-	vois
+=1	=1	=1	=1	=1	=1	=1	=1
+8.a	vais	tourn',	un	-sant	-sant	-dez	bien
+16cc	en-	je	de	la	la	ce	à
+8b	-trer	me	bon-	ré-	ré-	beau	vo-
+8dd	en	re-	-ne	-vé-	-vé-	Mon-	-tre
+=2	=2	=2	=2	=2	=2	=2	=2
+!!LO:T:dash
+[8.cc	dan-	-vi-	mi-	-ren-	-ren-	-sieur!	mi-
+16cc]	-se:	-re;	-ne:	-ce:	-ce:	.	-ne:
+*	*pline:1h2	*pline:2h2r	*pline:3h2r	*pline:4h2r	*pline:4h2r	*pline:5h2vr	*pline:6h2r
+8cc	C'est	J'en	Je	Ça	Ça	Il	Ce
+8g	pour	ai	vais	vous	vous	n'a	n'est
+!!LO:PB:g=original
+=3	=3	=3	=3	=3	=3	=3	=3
+8.a	un	pas	al-	plai-	plai-	pas	pas
+16cc	a-	trou-	-ler	-rait--	-rait--	dai-	moi
+!!editorial elision, v:6
+8b	-mant	-ver	le	il	il	-gné	qu' vous
+!!editorial elisions, v:2-v:5
+8dd	cher-	d' mon	d'man-	d' m'ai-	d' m'ai	m' sa-	ai-
+=4	=4	=4	=4	=4	=4	=4	=4
+8cc	-cher.	gré.	-der.	-mer?	-mer?	luer!	-mer.
+*	*rp:e	*rp:e	*rp:e	*rp:e	*rp:e	*rp:e	*rp:e
+*	*rf:ʃe	*rf:gʁe	*rf:de	*rf:me	*rf:me	*rf:lye	*rf:me
+*	*rs:a1	*rs:a2	*rs:a3	*rs:a4	*rs:a4	*rs:a5	*rs:a4
+16r	.	.	.	.	.	.	.
+*	*pline:2h1	*pline:3h1	*pline:4h1	*pline:5h1	*pline:5h1v	*pline:6h1	*pline:7h1
+16cc	Je	Ah!	–En	Ah!	Ah!	Je	Ah!
+8cc	me	j'en	vous	je	re-	le	re-
+8cc	re-	vois	fai-	vois	-gar-	vois	-tour-
+=5	=5	=5	=5	=5	=5	=5	=5
+8.dd	-tourn',	un	-sant	bien	-dez	bien	-nez
+16dd	je	de	la	par	ce	à	à
+8dd	me	bonn[e]	ré-	votr[e]	beau	votr[e]	votr[e]
+8dd	re-	mi-	-vé-	mi-	Mon-	mi-	pla-
+!!LO:PB:g=original
+=6	=6	=6	=6	=6	=6	=6	=6
+8.ee	vir';	-ne:	-renc[e]:	-ne:	-sieur!	-ne:	-ce:
+*	*pline:2h2	*pline:3h2	*pline:4h2	*pline:5h2	*pline:5h2v	*pline:6h2	*pline:7h2
+16dd	J'en	Je	Ça	Que	Il	Ce	Un
+8dd	ai	vais	vous	c'est	n'a	n'est	autr[e]
+8dd	pas	al-	plai-	bien	pas	pas	a-
+=7	=7	=7	=7	=7	=7	=7	=7
+8.ee	trou-	-ler	-rait--	moi	dai-	moi	-mant
+16dd	-vé	le	il	que	-gné	que	je
+8cc	de	de-	de	vous	me	vous	vais
+8b	mon	-man-	m'ai-	ai-	sa-	ai-	cher-
+=8	=8	=8	=8	=8	=8	=8	=8
+8a	gré.	-der.	-mer?	-mer.	-luer!	-mez.	-cher.
+*	*rp:e	*rp:e	*rp:e	*rp:e	*rp:e	*rp:e	*rp:e
+*	*rf:gʁe	*rf:de	*rf:me	*rf:me	*rf:lye	*rf:me	*rf:ʃe
+*	*rs:a2	*rs:a3	*rs:a4	*rs:a4	*rs:a5	*rs:a4	*rs:a1
+16r	.	.	.	.	.	.	.
+*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain
+*italic	*	*	*	*	*	*	*
+*	*pline:R1	*	*	*	*	*	*
+16cc	Ah!	.	.	.	.	.	.
+8cc	je	.	.	.	.	.	.
+8cc	ne	.	.	.	.	.	.
+=9	=9	=9	=9	=9	=9	=9	=9
+16ccL	puis,	.	.	.	.	.	.
+8.bJ	.	.	.	.	.	.	.
+16aL	gai,	.	.	.	.	.	.
+*	*rp:e	*	*	*	*	*	*
+*	*rf:ge	*	*	*	*	*	*
+*	*rs:Ra1	*	*	*	*	*	*
+8.gJ	.	.	.	.	.	.	.
+!!LO:PB:g=original
+=10	=10	=10	=10	=10	=10	=10	=10
+*	*bis	*	*		*	*	*
+8.a	gai,	.	.	.	.	.	.
+*	*Xbis	*	*	*	*	*	*
+*	*pline:R2	*	*	*	*	*	*
+16cc	Ah!	.	.	.	.	.	.
+8cc	je	.	.	.	.	.	.
+8cc	ne	.	.	.	.	.	.
+=11	=11	=11	=11	=11	=11	=11	=11
+16ccL	puis	.	.	.	.	.	.
+8.bJ	.	.	.	.	.	.	.
+8.a	m'en	.	.	.	.	.	.
+16g	al-	.	.	.	.	.	.
+=12	=12	=12	=12	=12	=12	=12	=12
+8cc	-ler.	.	.	.	.	.	.
+*	*rp:e	*	*	*	*	*	*
+*	*rf:le	*	*	*	*	*	*
+*	*rs:Ra2	*	*	*	*	*	*
+16r;	.	.	.	.	.	.	.
+==	==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-	*-
+!!!EED: Ève Poudrier
+!!!EEV: 2026/04/22
+!!!RNB: Gagnon identifies two versions depending on whether a man or a woman are at the center of the dance; the version ended here is the woman's version. Each version also has two variants based on whether or not the potential danse partner accepts or not the invitation of the speaker (see: "Ou bien, si la danseuse n'est pas agréée:"). Both these variants are encoded. Variant 1 comprises v:1-4 and variant 2 substitutes an alternate line for v:4 and adds v:5-6.
