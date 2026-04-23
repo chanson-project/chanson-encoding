@@ -1,98 +1,120 @@
-!!!id: EG002
+!!!id: EG002b
 !!!page: 216-217
 !!!COM: Anonymous
 !!!LYR: Anonymous
 !!!PTL@@FR: Chansons populaires du Canada
-!!!OTL@@FR: Ah! Je m'en vais entrer en danse
+!!!OTL@@FR: Ah! je m'en vais entrer en danse
 !!!PUB: E. G. Desbarats, Foyer Canadien
-!!!PDT: 1965
+!!!PDT: 1865
 !!!AGN-Gagnon: ronde
 !!!AGN-Laforte: laisse
 !!!AGN-refrain: final
-!!!AGN-metre: V4:2(8+8), R1:2(5,7)
+!!!AGN-metre: V4:2(8+8), à cheval; R1:2(5,7)
 !!!AGN-topic: [danse]
 !!!AGN-rime: simple /e/
-**kern
-*clefG2
-*k[]
-*C:
-*M2/4
-*>Verse
-*
-*
-16cc
-8cc
-8g
-=1
-8.a
-16cc
-8b
-8dd
-=2
-8.cc
-16cc
-8cc
-8g
+**kern	**text	**text	**text	**text	**text	**text	**text
+*clefG2	*	*	*	*	*	*	*
+*k[]	*	*	*	*	*	*	*
+*C:	*	*	*	*	*	*	*
+*M2/4	*	*	*	*	*	*	*
+*>Verse	*>Verse	*>Verse	*>Verse	*>Verse	*>Verse	*>Verse	*>Verse
+*	*v:1	*v:2	*v:3	*v:4	*v:4v	*v:5	*v:6
+*	*pline:1h1	*pline:2h1r	*pline:3h1r	*pline:4h1r	*pline:4h1r	*pline:5h1vr	*pline:6h1r
+16cc	Ah!	Je	Ah!	Pré-	Pré-	Ah!	Je
+8cc	je	me	j'en	-sen-	-sen-	re-	le
+8g	m'en	re-	vois	-tez--	-tez--	-gar-	vois
+=1	=1	=1	=1	=1	=1	=1	=1
+8.a	vais	tourn',	un[e]	moi	moi	-dez	bien
+16cc	en-	je	de	vo-	vo-	cett[e]	à
+8b	-trer	me	bon-	-tre	-tre	De-	vo-
+8dd	en	re-	-ne	main	main	-moi-	-tre
+=2	=2	=2	=2	=2	=2	=2	=2
+!!LO:T:dash
+[8.cc	dan-	-vi-	mi-	blan-	blan-	-sel-	mi-
+16cc]	-se:	-re;	-ne:	-che,	-che,	-le!	-ne:
+*	*pline:1h2	*pline:2h2r	*pline:3h2r	*pline:4h2r	*pline:4h2r	*pline:5h2vr	*pline:6h2r
+8cc	C'est	J'en	Je	A-	A-	Ell[e]	Ce
+8g	pour	ai	vais	-vecqu[e]	-vecqu[e]	n'a	n'est
 !!LO:PB:g=original
-=3
-8.a
-16cc
-8b
-8dd
-=4
-8cc
-16r
-16cc
-8c
-8c
-=5
-8.dd
-16dd
-8dd
-8dd
+=3	=3	=3	=3	=3	=3	=3	=3
+8.a	un[e]	pas	al-	moi	moi	pas	pas
+16cc	a-	trou-	-ler	ve-	ve-	dai-	moi
+!!editorial elision, v:6
+!	!	!	!"le" changed to "la"	!	!	!	!
+8b	-mant[e]	-ver	la	-nez	-nez	-gné	qu' vous
+!!editorial elisions, v:2-v:5
+8dd	cher-	d' mon	d'man-	dan-	dan-	m' sa-	ai-
+=4	=4	=4	=4	=4	=4	=4	=4
+8cc	-cher.	gré.	-der.	-ser.	-ser.	luer!	-mer.
+*	*rp:e	*rp:e	*rp:e	*rp:e	*rp:e	*rp:e	*rp:e
+*	*rf:ʃe	*rf:gʁe	*rf:de	*rf:me	*rf:me	*rf:lye	*rf:me
+*	*rs:a1	*rs:a2	*rs:a3	*rs:a4	*rs:a4	*rs:a5	*rs:a4
+16r	.	.	.	.	.	.	.
+*	*pline:2h1	*pline:3h1	*pline:4h1	*pline:5h1	*pline:5h1v	*pline:6h1	*pline:7h1
+16cc	Je	Ah!	–Pré-	Ah!	Ah!	Je	Ah!
+8cc	me	j'en	-sen-	je	re-	le	re-
+8cc	re-	vois	-tez--	vois	-gar-	vois	-tour-
+=5	=5	=5	=5	=5	=5	=5	=5
+8.dd	-tourn',	un[e]	moi	bien	-dez	bien	-nez
+16dd	je	de	votr[e]	par	cett[e]	à	à
+8dd	me	bonn[e]	main	votr[e]	De-	votr[e]	votr[e]
+8dd	re-	mi-	blan-	mi-	-moi-	mi-	pla-
 !!LO:PB:g=original
-=6
-8.ee
-16dd
-8dd
-8dd
-=7
-8.ee
-16dd
-8cc
-8b
-=8
-8a
-16r
-*>Refrain
-*italic
-!!LO:TX:a:t=[REFRAIN]
-*rline:1
-16cc
-8cc
-8cc
-=9
-16ccL
-8.bJ
-16aL
-8.gJ
+=6	=6	=6	=6	=6	=6	=6	=6
+8.ee	vir';	-ne:	-che,	-ne:	-sell[e]!	-ne:	-ce:
+*	*pline:2h2	*pline:3h2	*pline:4h2	*pline:5h2	*pline:5h2v	*pline:6h2	*pline:7h2
+16dd	J'en	Je	A-	Que	Ell[e]	Ce	Une
+8dd	ai	vais	-vec-	c'est	n'a	n'est	autr[e]
+8dd	pas	al-	que	bien	pas	pas	a-
+=7	=7	=7	=7	=7	=7	=7	=7
+8.ee	trou-	-ler	moi	moi	dai-	moi	-mant[e]
+!	!	!"le" changed to "la"	!	!	!	!	!
+16dd	-vé	la	ve-	que	-gné	que	je
+8cc	de	de-	-nez	vous	me	vous	vais
+8b	mon	-man-	dan-	ai-	sa-	ai-	cher-
+=8	=8	=8	=8	=8	=8	=8	=8
+8a	gré.	-der.	-ser.	-mer.	-luer!	-mez.	-cher.
+*	*rp:e	*rp:e	*rp:e	*rp:e	*rp:e	*rp:e	*rp:e
+*	*rf:gʁe	*rf:de	*rf:me	*rf:me	*rf:lye	*rf:me	*rf:ʃe
+*	*rs:a2	*rs:a3	*rs:a4	*rs:a4	*rs:a5	*rs:a4	*rs:a1
+16r	.	.	.	.	.	.	.
+*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain
+*	*italic	*	*	*	*	*	*
+*	*pline:R1	*	*	*	*	*	*
+16cc	Ah!	.	.	.	.	.	.
+8cc	je	.	.	.	.	.	.
+8cc	ne	.	.	.	.	.	.
+=9	=9	=9	=9	=9	=9	=9	=9
+16ccL	puis,	.	.	.	.	.	.
+8.bJ	.	.	.	.	.	.	.
+16aL	gai,	.	.	.	.	.	.
+*	*rp:e	*	*	*	*	*	*
+*	*rf:ge	*	*	*	*	*	*
+*	*rs:Ra1	*	*	*	*	*	*
+8.gJ	.	.	.	.	.	.	.
 !!LO:PB:g=original
-=10
-8.a
-*rline:2
-16cc
-8cc
-8cc
-=11
-16ccL
-8.bJ
-8.a
-16g
-=12
-8cc
-16r;
-==
-*-
+=10	=10	=10	=10	=10	=10	=10	=10
+*	*bis	*	*	*	*	*	*
+8.a	gai,	.	.	.	.	.	.
+*	*Xbis	*	*	*	*	*	*
+*	*pline:R2	*	*	*	*	*	*
+16cc	Ah!	.	.	.	.	.	.
+8cc	je	.	.	.	.	.	.
+8cc	ne	.	.	.	.	.	.
+=11	=11	=11	=11	=11	=11	=11	=11
+16ccL	puis	.	.	.	.	.	.
+8.bJ	.	.	.	.	.	.	.
+8.a	m'en	.	.	.	.	.	.
+16g	al-	.	.	.	.	.	.
+=12	=12	=12	=12	=12	=12	=12	=12
+8cc	-ler.	.	.	.	.	.	.
+*	*rp:e	*	*	*	*	*	*
+*	*rf:le	*	*	*	*	*	*
+*	*rs:Ra2	*	*	*	*	*	*
+16r;	.	.	.	.	.	.	.
+*	*Xitalic	*	*	*	*	*	*
+==	==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-	*-
 !!!EED: Ève Poudrier
 !!!EEV: 2026/04/22
-!!!RNB: Gagnon identifies two versions depending on whether a man or a woman are at the center of the dance; the version ended here is the man's version. Each version also has two variants based on whether or not the potential danse partner accepts or not the invitation of the speaker. Both these variants are encoded. Variant 1 comprises v:1-4 and variant 2 replaces v:4 and adds v:5-6.
+!!!RNB: Gagnon identifies two versions depending on whether a man or a woman are at the center of the dance; the version ended here is the man's version. Each version also has two variants based on whether or not the potential danse partner accepts or not the invitation of the speaker (see: "Ou bien, si la danseuse n'est pas agréée:"). Both these variants are encoded. Variant 1 comprises v:1-4 and variant 2 replaces v:4 and adds v:5-6.
