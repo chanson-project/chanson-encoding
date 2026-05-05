@@ -18,7 +18,7 @@
 !!LO:TX:a:B:t=Larghetto
 *M2/4	*	*
 *	*v:1	*v:2
-*	*pline:1Ha	*pline:2Har
+*	*pline:1	*pline:2r
 =1	=1	=1
 {8r	.	.
 8d	Au	J'ai
@@ -30,7 +30,6 @@
 8bJ)	.	.
 =3	=3	=3
 8.dd	lun',	-nett'
-*	*pline:1Hb	*pline:2Hbr
 16b	m'en	qui
 8cc	al-	al-
 8ee	-lant	-lait
@@ -47,7 +46,7 @@
 *	*rp:e	*rp:e
 *	*rf:ne	*rf:ɲe
 *	*rs:a1	*rs:a2
-*	*pline:2Ha	*pline:3Ha
+*	*pline:2	*pline:3
 {4g	J'ai	Je
 8b	ren-	lui
 8dd	-con-	ai
@@ -55,7 +54,6 @@
 8.b	-tré	dit:
 16dd	Na-	"Na-
 8.dd	-nett'	-nett',
-*	*pline:2Hb	*pline:3Hb
 16ee	qui	prends
 !!LO:PB:g=original
 =8	=8	=8
@@ -68,11 +66,11 @@
 (8.bL	-gner.	-er.
 *	*rp:e	*rp:e
 *	*rf:ɲe	*rf:je
-*	*rs:a2	*rs:a3
+*	*rs:a2	*rs:a4
 16aJ)}	.	.
 =||;	=||;	=||;
 *>Refrain	*>Refrain	*>Refrain
-*	*pline:R1Ha	*
+*	*pline:R1h1	*
 !!LO:TX:a:B:t=REFRAIN
 {8d	Gai	.
 16g	fa-	.
@@ -86,7 +84,7 @@
 =11	=11	=11
 8b	-dai-	.
 8g	-ne,	.
-*	*pline:R1Hb	*
+*	*pline:R1h2	*
 8dd	Gai	.
 16cc	fa-	.
 16b	-lu-	.
@@ -100,8 +98,8 @@
 2g}	-dé	.
 *	*rp:e	*
 *	*rf:de	*
-*	*rs:Ra	*
+*	*rs:a3	*
 ==	==	==
 *-	*-	*-
 !!!EED: Ève Poudrier
-!!!EEV: 2025/July/01
+!!!EEV: 2026/05/05
