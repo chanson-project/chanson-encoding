@@ -5,123 +5,142 @@
 !!!PTL@@FR: Chansons Populaires du Canada
 !!!OTL@@FR: Genticorum
 !!!PUB: G. E. Desbarats
-!!!YEM:
 !!!PDT: 1865
-!!!SMA:
-!!!OMD:
 !!!AGN-Laforte:
 !!!AGN-type:
 !!!AGN-rime:
-**kern
-*clefG2
-*k[b-,e-]
-*g:
-*M2/4
-*
-*
-=1
-8b-/
-16a
-16b-/
-8g
-8dd
-=2
-8dd
-8cc
-4dd
-=3
-8b-/
-8b-/
-8g
-8dd
+**kern	**text
+*clefG2	*
+*k[b-,e-]	*
+*g:	*
+*M2/4	*
+*	*v:1
+*	*pline:1
+=1	=1
+8b-/	Mon
+16a	pèr[e]
+16b-/	a
+8g	fair
+8dd	bâ-
+=2	=2
+8dd	-tir
+8cc	mai-
+4dd	-son,
+*	*refrain
+*	*italic
+*	*pline:R1
+=3	=3
+8b-/	Vir-
+8b-/	-gé
+8g	var-
+8dd	-gé
 !!LO:PB:g=original
-=4
-8dd
-8cc
-4dd
-=5
-8dd
-16dd
-16ee
-8ff
-8dd
-=6
-8cc
-8cc
-8a
-16a
-16b-/
+=4	=4
+8dd	var-
+8cc	-gen-
+4dd	-ton,
+*	*Xitalic
+*	*Xrefrain
+*	*pline:2
+=5	=5
+8dd	L'a
+16dd	fait
+16ee	bâ-
+8ff	-tir
+8dd	à
+=6	=6
+8cc	trois
+8cc	pi-
+8a	-gnons,
+*>Refrain	*>Refrain
+*	*italic
+*	*pline:R2
+16a	Sur
+16b-/	le
 !!LO:PB:g=original
-=7
-8cc
-16cc
-16b-/
-8a
-16a
-16b-/
-=8
-8cc
-8cc
-8a
-16a
-16b-/
+=7	=7
+8cc	bri,
+8cc	sur
+16b-/	le
+8a	brin,
+16a	sur
+16b-/	le
+=8	=8
+8cc	sin-
+*^	*
+16ccLN	8cc	-tou-
+16b-JN	.	.
+*v	*v	*
+8a	-ri,
+*	*pline:R3
+16a	Sur
+16b-/	le
 !!LO:PB:g=original
-=9
-8cc
-8cc
-8a
-16a
-16b-/
-=10
-8cc
-8cc
-8a
-8r
-=11
-8b-/
-16a
-16b-/
-8g
-8dd
+=9	=9
+8cc	cu-
+*^	*
+16ccLN	8cc	-lo-
+16b-JN	.	.
+*v	*v	*
+8a	-rum,
+16a	sur
+16b-/	le
+=10	=10
+8cc	sin-
+*^	*
+16ccLN	8cc	-to-
+16b-JN	.	.
+*v	*v	*
+8a	-rum,
+8r	.
+*	*pline:R4
+=11	=11
+8b-/	Gen-
+16a	-ti-
+16b-/	-co-
+8g	-rum
+8dd	sur
 !!LO:PB:g=original
-=12
-8.dd
-16cc
-8.dd
-16g
-=13
-8g
-8a
-8b-/
-16a
-16b-/
-=14
-8cc
-16cc
-16b-/
-8a
-8r
+=12	=12
+8.dd	gé-
+16cc	-lo-
+8.dd	-rum,
+16g	mi-
+=13	=13
+8g	-ron
+8a	flon
+8b-/	flon
+16a	sur
+16b-/	la
+=14	=14
+8cc	vert
+16cc	bat-
+16b-/	-te-
+8a	-ri'
+8r	.
+*	*pline:R5
 !!LO:PB:g=original
-=15
-8b-/
-16a
-16b-/
-8g
-8dd
-=16
-8dd
-8ff
-8dd
-16cc/
-16b-/
-=17
-8a
-16b-/
-16a
-4g
-==||
-*
-*
-==|
-!!!RNB: At second eighth notes of mm.8, 9, & 10; there are upper voice cue notes of C & Bb occuring simultaneously with the C
-*-
+=15	=15
+8b-/	Viv'
+16a	l'a-
+16b-/	-mou-
+8g	-rett[e]
+8dd	en
+=16	=16
+8dd	var-
+8ff	-gen-
+8dd	-ton,
+16cc/	ma
+16b-/	lu-
+=17	=17
+8a	-ron
+16b-/	ma
+16a	lu-
+4g	-ré.
+*	*Xitalic
+*	*Xrefrain
+==	==
+*-	*-
+!!!RDF**kern: N = cue size
+!!!EED-1: Samuel Boone
+!!!EEV-1: 2026/05/05
