@@ -5,115 +5,139 @@
 !!!PTL@@FR: Chansons Populaires du Canada
 !!!OTL@@FR: Vive Napoléon!
 !!!PUB: G. E. Desbarats
-!!!YEM:
 !!!PDT: 1865
-!!!SMA:
-!!!OMD:
 !!!AGN-Laforte:
 !!!AGN-type:
 !!!AGN-rime:
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-*
-*
-8d
-=1
-4g
-8a
-=2
-4b
-8cc
-=3
-4dd
-8b
-=4
-4.dd
-=5
-8ee
-8ee
-8ee
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+*	*v:1
+*	*pline:1
+8d	Quand
+=1	=1
+4g	j'é-
+8a	-tais
+=2	=2
+4b	chez
+8cc	mon
+=3	=3
+*^	*
+8ddNL	4dd	pè-
+8ccNJ	.	.
+*v	*v	*
+8b	-re,
+*	*refrain
+*	*italic
+*	*pline:R1
+=4	=4
+4.dd	Gai,
+=5	=5
+8ee	vi-
+8ee	-ve
+8ee	le
 !!LO:PB:g=original
-=6
-4dd
-8r
-8d
-=7
-4g
-8a
-=8
-4b
-8cc
-=9
-4dd
-8b
-=10
-4.dd
-=11
-8ee
-8ee
-8ee
+=6	=6
+4dd	roi!
+8r	.
+*	*Xitalic
+*	*Xrefrain
+*	*pline:1r
+8d	Quand
+=7	=7
+4g	j'é-
+8a	-tais
+=8	=8
+4b	chez
+8cc	mon
+=9	=9
+*^	*
+8ddNL	4dd	pè-
+8ccNJ	.	.
+*v	*v	*
+8b	-re,
+*	*refrain
+*	*italic
+*	*pline:R1r
+=10	=10
+4.dd	Gai
+=11	=11
+8ee	vi-
+8ee	-ve
+8ee	le
 !!LO:PB:g=original
-=12
-[4.dd
-=13
-8dd]
-8r
-8b
-=14
-4dd
-8dd
-=15
-8ddq
-4cc
-8b
-=16
-4.cc
-=17
-8a
-8b/
-8cc
+=12	=12
+[4.dd	roi!
+=13	=13
+8dd]	.
+*	*Xitalic
+*	*Xrefrain
+*	*pline:2
+8r	.
+8b	Pe-
+=14	=14
+4dd	-ti-
+8dd	-te
+=15	=15
+8ddq	.
+4cc	Jean-
+8b	-ne-
+=16	=16
+4.cc	-ton,
+*	*refrain
+*	*italic
+*	*pline:R2
+=17	=17
+8a	Vi-
+8b/	-ve-
+8cc	le
 !!LO:PB:g=original
-=18
-8b/
-8a
-8g
-=19
-4.b/
-=20
-8a
-8r
-8b/
-=21
-4dd
-8dd
-=22
-8ddqq
-4cc
-8b
-=23
-4cc
+=18	=18
+8b/	roi
+8a	de
+8g	la
+=19	=19
+4.b/	rei-
+=20	=20
+8a	-ne.
+8r	.
+*	*Xitalic
+*	*Xrefrain
+*	*pline:2r
+8b/	Pe-
+=21	=21
+4dd	-ti-
+8dd	-te
+=22	=22
+8ddqq	.
+4cc	Jean-
+8b	-ne-
+=23	=23
+4.cc	-ton,
+*Refrain	*Refrain
+*	*italic
+*	*pline:R3
 !!LO:PB:g=original
-=24
-8a
-8b/
-8cc
-=25
-4dd
-8d
-=26
-[4.g
-=27
-8g]
-8r
-==||
-8r
-==||
-*
-*
-==|
-!!!RWG: m.3 and m.9 contain a pair of beamed 16th grace notes in upper voice on dd & cc
-!!!RWG: m.23 contains a solitary quarter note instead of the more appropriate dotted quarter in original, likely due to a print error
-*-
+=24	=24
+8a	Vi-
+8b/	-ve
+8cc	Na-
+=25	=25
+4dd	-po-
+8d	-lé-
+=26	=26
+[4.g	-on!
+=27	=27
+8g]	.
+8r	.
+*	*Xitalic
+*	*Xrefrain
+==	==
+*-	*-
+!!!RDF**kern: N = cue size
+!!!RWG: Upper voice grace eighth notes in m.3 and m.9 incorrectly spelled as sixteenth notes in original
+!!!RWG: m.23 contains a solitary quarter note instead of the more appropriate dotted quarter in original (likely a print error; fixed here)
+!!!EED-1: Samuel Boone
+!!!EEV-1: 2026/05/05
