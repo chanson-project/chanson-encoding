@@ -5,79 +5,87 @@
 !!!PTL@@FR: Chansons Populaires du Canada
 !!!OTL@@FR: Quand j'étais chez mon père
 !!!PUB: G. E. Desbarats
-!!!YEM:
 !!!PDT: 1865
-!!!SMA:
-!!!OMD:
 !!!AGN-Laforte:
 !!!AGN-type:
 !!!AGN-rime:
-**kern
-*clefG2
-*k[b-]
-*g:
-*M2/4
-*
-*
-=1
-8d
-16g
-16g
-8g
-8a
-=2
-4b-
-8b-
-8r
-=3
-8dd
-16cc
-16b-
-8cc
-8dd
+**kern	**text	**text	**text	**text	**text	**text	**text	**text	**text	**text	**text	**text
+*clefG2	*	*	*	*	*	*	*	*	*	*	*	*
+*k[b-]	*	*	*	*	*	*	*	*	*	*	*	*
+*g:	*	*	*	*	*	*	*	*	*	*	*	*
+*M2/4	*	*	*	*	*	*	*	*	*	*	*	*
+*	*v:1	*v:2	*v:3	*v:4	*v:5	*v:6	*v:7	*v:8	*v:9	*v:10	*v:11	*v:12
+*	*pline:1	*pline:3	*pline:5	*pline:7	*pline:9	*pline:11	*pline:13	*pline:15	*pline:17	*pline:19	*pline:21	*pline:23
+=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+8d	Quand	M'en-	La	Par	Que	Ti-	Quand	S'as-	Ce	C'est	Mon	Ma
+16g	j'é-	-voi'-	fon-	i-	don-	-rez,	la	-sit	n'est	vo-	pe-	mè-
+16g	-tais	t-à	-tain[e]	-ci-	-ne-	ti-	bell'	sur	pas	-tre	-tit	-re
+8g	chez	la	est	t-il	-riez-	-rez,	fut	la	ça,	cœur	cœur	me
+8a	mon	fon-	pro-	y	vous,	dit-	ti-	fe-	la	en	en	le
+=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+4b-	pè-	-tai-	-fon-	pas-	bel-	-el-	-ré-	-nê-	bel-	ga-	ga-	gar-
+8b-	-re,	-ne	-de,	-se,	-le,	-le,	-e,	-tre,	-le,	-ge,	-ge,	-de,
+8r	.	.	.	.	.	.	.	.	.	.	.	.
+*	*pline:1r	*pline:3r	*pline:5r	*pline:7r	*pline:9r	*pline:11r	*pline:13r	*pline:15r	*pline:17r	*pline:19r	*pline:21r	*pline:23r
+=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+8dd	Quand	M'en-	La	Par	Que	Ti-	Quand	S'as-	Ce	C'est	Mon	Ma
+16cc	j'é-	-roi'-	fon-	i-	don-	-rez,	la	-sit	n'est	vo-	pe-	mè-
+16b-	-tais	t-à	-tain[e]	-ci-	-ne-	ti-	bell'	sur	pas	-tre	-tit	-re
+8cc	chez	la	est	t-il	-riez-	-rez,	fut	la	ça,	cœur	cœur	me
+8dd	mon	fon-	pro-	y	vous,	dit-	ti-	fe-	la	en	en	le
 !!LO:PB:g=original
-=4
-8b-L
-8aJ
-8g
-8r
-=5
-8d
-16e
-16f
-8g
-8a
-=6
-*M2/8
-8gqq
-4f
-=7
-*M2/4
-8g
-16f
-16e
-8d
-8r
+=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
+8b-L	pè-	-tai-	-fon-	pas-	bel-	el-	-ré-	-nê-	bel-	ga-	ga-	gar-
+8aJ	.	.	.	.	.	.	.	.	.	.	.	.
+8g	-re	-ne	-de,	-se	-le,	-le,	-e,	-tre,	-le,	-ge,	-ge,	-de
+8r	.	.	.	.	.	.	.	.	.	.	.	.
+*	*pline:2	*pline:4	*pline:6	*pline:8	*pline:10	*pline:12	*pline:14	*pline:16	*pline:18	*pline:20	*pline:22	*pline:24
+=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5
+8d	Pe-|Pe-	Pour	J'me	Trois	Qui	A-	S'en	Com-	Que	Sa-	N'est	Pour
+16e	-tit[e]|-ti-	pê-	suis	ca-	vous	-près	fut	-pos[e]	nous	-voir	pas	mon
+16f	et|-te	-cher	cou-	-va-	tir'-	ça,	à	u-	vous	si	pour	jo-
+8g	jeun'|Jean-	du	-lée	-liers	-rait	nous	la	-ne	de-	nous	en	-li
+8a	é-|-ne-	pois-	au	ba-	du	ver-	mai-	chan-	-man-	l'au-	ba-	mi-
+=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6
+*M2/8	*	*	*	*	*	*	*	*	*	*	*	*
+8gqq	.	.	.	.	.	.	.	.	.	.	.	.
+4f	-tions,|-ton,	-son,	fond,	-rons,	fond?	-rons....	-son,	-son,	-dons,	-rons,	-ron,	-gnon,
+*	*refrain	*	*	*	*	*	*	*	*	*	*	*
+*	*italic	*	*	*	*	*	*	*	*	*	*	*
+*	*pline:R1	*	*	*	*	*	*	*	*	*	*	*
+=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7
+*M2/4	*	*	*	*	*	*	*	*	*	*	*	*
+8g	Don-	.	.	.	.	.	.	.	.	.	.	.
+16f	-dai-	.	.	.	.	.	.	.	.	.	.	.
+16e	-ne,	.	.	.	.	.	.	.	.	.	.	.
+8d	don,	.	.	.	.	.	.	.	.	.	.	.
+8r	.	.	.	.	.	.	.	.	.	.	.	.
+*	*Xitalic	*	*	*	*	*	*	*	*	*	*	*
+*	*Xrefrain	*	*	*	*	*	*	*	*	*	*	*
+*	*pline:2r	*pline:4r	*pline:6r	*pline:8r	*pline:10r	*pline:12r	*pline:14r	*pline:16r	*pline:18r	*pline:20r	*pline:22r	*pline:24r
 !!LO:PB:g=original
-=8
-8d
-16e
-16f
-8g
-8a
-=9
-*M2/8
-8gqq
-8f
-8g
-=10
-*M2/4
-4d
-8g
-8r
-==||
-*
-*
-==|
-!!!RWG: Key labelled as 'g' but intended to be G Dorian
-*-
+=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8
+8d	Pe-|Pe-	Pour	J'me	Trois	Qui	A-	S'en	Com-	Que	Sa-	N'est	Pour
+16e	-tit[e]|-ti-	pê-	suis	ca-	vous	-près	fut	-pos[e]	nous	-voir	pas	mon
+16f	et|-te	-cher	cou-	-va-	tir'-	ça,	à	u-	vous	si	pour	jo-
+8g	jeun[e]|Jean-	du	-lée	-liers	-rait	nous	la	-ne	de-	nous	un	-li
+8a	é-|-ne-	pois-	au	ba-	du	ver-	mai-	chan-	-man-	l'au-	ba-	mi-
+=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9
+*M2/8	*	*	*	*	*	*	*	*	*	*	*	*
+8gqq	.	.	.	.	.	.	.	.	.	.	.	.
+8f	-tions,|-ton,	-son	fond,	-rons,	fond?	-rons....	-son,	-son,	-dons,	-rons,	-ron,	-gnon,
+*	*refrain	*	*	*	*	*	*	*	*	*	*	*
+*	*italic	*	*	*	*	*	*	*	*	*	*	*
+*	*pline:R1r	*	*	*	*	*	*	*	*	*	*	*
+8g	Don-	.	.	.	.	.	.	.	.	.	.	.
+=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10
+*M2/4	*	*	*	*	*	*	*	*	*	*	*	*
+4d	-dai-	.	.	.	.	.	.	.	.	.	.	.
+8g	-ne.	.	.	.	.	.	.	.	.	.	.	.
+8r	.	.	.	.	.	.	.	.	.	.	.	.
+*	*Xitalic	*	*	*	*	*	*	*	*	*	*	*
+*	*Xrefrain	*	*	*	*	*	*	*	*	*	*	*
+==	==	==	==	==	==	==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!EED-1: Samuel Boone
+!!!EEV-1: 2026/05/05
