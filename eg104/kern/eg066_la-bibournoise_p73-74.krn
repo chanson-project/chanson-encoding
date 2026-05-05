@@ -5,168 +5,171 @@
 !!!PTL@@FR: Chansons Populaires du Canada
 !!!OTL@@FR: La bibournoise
 !!!PUB: G. E. Desbarats
-!!!YEM:
 !!!PDT: 1865
-!!!SMA:
-!!!OMD:
 !!!AGN-Laforte:
 !!!AGN-type:
 !!!AGN-rime:
-**kern
-*clefG2
-*k[f#]
-*e:
-*M6/8
-*
-*
-8B
-=1
-4e
-8f#
-4g
-8a
-=2
-[4.b/
-8b/]
-8r
-8a#
-=3
-4b
-8cc#
-4dd
-8cc#
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*e:	*
+*M6/8	*
+*	*v:1
+*	*pline:1
+8B	Quand
+=1	=1
+4e	j'é-
+8f#	-tais
+4g	chez
+8a	mon
+=2	=2
+[4.b/	pè-
+8b/]	-re,
+8r	.
+*	*
+8a#	Pe-
+=3	=3
+4b	-ti-
+8cc#	-te
+4dd	Jean-
+8cc#	-ne-
 !!LO:PB:g=original
-=4
-*M3/8
-4b
-8cc#
-=5
-*M6/8
-4.dd
-4.cc
-=6
-[4.b
-8b]
-8r
-8b
-=7
-4cc
-8b/
-4a
-8g
-=8
-4.g
-4f#
-8g
+=4	=4
+*M3/8	*
+4b	-ton,
+8cc#	la
+=5	=5
+*M6/8	*
+4.dd	glin,
+4.cc	glan,
+=6	=6
+[4.b	glon,
+8b]	.
+8r	.
+*	*
+8b	M'en-
+=7	=7
+4yncc	-voi'-
+8b/	t-à
+4a	la
+8g	fon-
+=8	=8
+4.g	-tai-
+4f#	-ne
+*	*
+8g	Pour
 !!LO:PB:g=original
-=9
-4a
-8b/
-4g
-8e
-=10
-4f#
-8r
-8b/
-8b/
-8b/
-=11
-4g
-8e
-4b/
-8b/
+=9	=9
+4a	em-
+8b/	-plir
+4g	mon
+8e	cru-
+=10	=10
+4f#	-chon,
+8r	.
+*	*
+8b/	La
+8b/	Bi-
+8b/	-bour-
+=11	=11
+4g	-noi-
+8e	-se,
+*	*
+4b/	Sont-
+8b/	c'des
 !!LO:PB:g=original
-=12
-4b
-8b
-4b
-8b
-=13
-4b/
-8b/
-8b/
-8a
-8g
-=14
-4f#
-8r
-4a
-8a
+=12	=12
+4b	pois,
+8b	des
+4b	pois,
+8b	des
+=13	=13
+4b/	fêv's,
+8b/	des
+8b/	fêv's
+8a	et
+8g	d'l'o-
+=14	=14
+4f#	-gnon?
+8r	.
+*	*
+4a	N'ya-
+8a	t-i
 !!LO:PB:g=original
-=15
-8a
-8b/
-8cc/
-4b/
-8g
-=16
-4f#
-8r
-4g
-8g
-=17
-4f#
-8r
-4g
-8g
+=15	=15
+8a	pas
+8b/	de
+8cc/	la
+4b/	glin
+8g	glan
+=16	=16
+4f#	glon?
+8r	.
+*	*
+4g	Bon,
+8g	bon,
+=17	=17
+4f#	bon,
+8r	.
+4g	bon,
+8g	bon,
 !!LO:PB:g=original
-=18
-4f#
-8r
-8e
-8e
-8e
-=19
-8e
-8e
-8e
-8eL
-8dJ
-8c
-=20
-4B
-8r
-4.g
+=18	=18
+4f#	bon,
+8r	.
+*	*
+8e	Da-
+8e	-ril-
+8e	-lon,
+=19	=19
+8e	da-
+8e	-ril-
+8e	-lon,
+8eL	da-
+8dJ	.
+8c	-ril-
+=20	=20
+4B	-lon,
+8r	.
+*	*
+4.g	Oh!
 !!LO:PB:g=original
-=21
-4.g
-8g
-8g
-8g
-=22
-8g
-8g
-8g
-4a
-8d
-=23
-4.a
-4.a
+=21	=21
+4.g	la
+8g	gar-
+8g	-ga-
+8g	-ran-
+=22	=22
+8g	-çon
+8g	bi-
+8g	-bour-
+4a	-noi-
+8d	-se,
+=23	=23
+4.a	bon,
+4.a	bon,
 !!LO:PB:g=original
-=24
-8a
-8a
-8a
-8a
-8a
-8a
-=25
-8a
-8b
-8cc
-8b
-8cc
-8a
-=26
-(4g
-8f#)
-4e
+=24	=24
+8a	fai-
+8a	-sons
+8a	le
+8a	saut
+8a	de
+8a	la
+=25	=25
+8a	gar-
+8b	-ga-
+8cc	-ran-
+8b	-çon
+8cc	bi-
+8a	-bour-
+=26	=26
+(4g	-noi-
+8f#)	.
+4e	-se.
 !!LO:PB:g=original
-==||
-8r
-==||
-*
-*
-==|
-!!!RNB: Coutesy C-natural accidental at beginning of m.7
-*-
+==||	==||
+*-	*-
+!!!RWG: Slightly confused at what counts as verse vs. refrain, and where line breaks are (score unclear)
+!!!EED-1: Samuel Boone
+!!!EEV-1: 2026/05/05
