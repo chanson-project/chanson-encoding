@@ -16,6 +16,8 @@
 *M3/8	*
 *	*v:1
 *	*pline:R1h1
+*	*refrain
+*	*italic
 !LO:TX:a:i:t=Voix seule, puis la reprise en chœur.	!
 8r	.
 =1	=1
@@ -45,6 +47,8 @@
 8b/	-vi-
 =8	=8
 4g	-ron.
+*	*Xitalic
+*	*Xrefrain
 !LO:TX:a:B:t=FIN.	!
 *	*pline:1
 =:|!|:	=:|!|:
@@ -65,6 +69,8 @@
 =12	=12
 4g	-son,
 8r	.
+*	*refrain
+*	*italic
 *	*pline:R1h2r
 =13	=13
 4b	Frin-
@@ -79,6 +85,8 @@
 !!LO:PB:g=original
 =16	=16
 4g	-ron.
+*	*Xitalic
+*	*Xrefrain
 *	*pline:2
 =:|!	=:|!
 !LO:TX:a:i:t=Voix seule.	!
@@ -94,6 +102,8 @@
 8dd	pi-
 =20	=20
 4b	-gnons,
+*>Refrain	*>Refrain
+*	*italic
 *	*pline:R2
 8dd	Tor-
 !!LO:PB:g=original
@@ -130,6 +140,8 @@
 =28	=28
 4.b/	-tin!
 !LO:TX:b:B:t=D.C.	!
+*	*Xitalic
+*	*Xrefrain
 ==	==
 *-	*-
 !!!RWG: pline labelling might need a second look
