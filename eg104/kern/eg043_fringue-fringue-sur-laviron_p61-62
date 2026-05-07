@@ -5,128 +5,134 @@
 !!!PTL@@FR: Chansons Populaires du Canada
 !!!OTL@@FR: Fringue, fringue sur l'aviron
 !!!PUB: G. E. Desbarats
-!!!YEM:
 !!!PDT: 1865
-!!!SMA:
-!!!OMD:
 !!!AGN-Laforte:
 !!!AGN-type:
 !!!AGN-rime:
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-*
-*
-!LO:TX:a:i:t=Voix seule, puis la reprise en chœur.
-8r
-=1
-4b/
-8g
-=2
-4a
-8g
-=3
-8b/
-8b/
-8b/
-=4
-4a
-8g
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+*	*v:1
+*	*pline:R1h1
+!LO:TX:a:i:t=Voix seule, puis la reprise en chœur.	!
+8r	.
+=1	=1
+4b/	Frin-
+8g	-gue,
+=2	=2
+4a	frin-
+8g	-gue
+=3	=3
+8b/	sur
+8b/	la
+8b/	ri-
+=4	=4
+4a	-viè-
+8g	-re,
+*	*pline:R1h2
 !!LO:PB:g=original
-=5
-4b/
-8g
-=6
-4a
-8g
-=7
-8b
-8dd
-8b/
-=8
-4g
-!LO:TX:a:B:t=FIN.
-=:|!|:
-8g
-=9
-!LO:TX:a:i:t=Voix seule, la reprise en chœur.
-4b
-8dd
+=5	=5
+4b/	Frin-
+8g	-gue,
+=6	=6
+4a	frin-
+8g	-gue
+=7	=7
+8b	sur
+8dd	l'a-
+8b/	-vi-
+=8	=8
+4g	-ron.
+!LO:TX:a:B:t=FIN.	!
+*	*pline:1
+=:|!|:	=:|!|:
+*^	*
+8r	8g	Mon
+*v	*v	*
+=9	=9
+!LO:TX:a:i:t=Voix seule, la reprise en chœur.	!
+4b	pèr[e]
+8dd	a
 !!LO:PB:g=original
-=10
-4b/
-8g
-=11
-4a
-8a
-=12
-4g
-8r
-=13
-4b
-8dd
-=14
-4b/
-8g
-=15
-8a
-8a
-8a
+=10	=10
+4b/	fait
+8g	bâ-
+=11	=11
+4a	-tir
+8a	mai-
+=12	=12
+4g	-son,
+8r	.
+*	*pline:R1h2r
+=13	=13
+4b	Frin-
+8dd	-gue,
+=14	=14
+4b/	frin-
+8g	-gue
+=15	=15
+8a	sur
+8a	l'a-
+8a	-vi-
 !!LO:PB:g=original
-=16
-4g
-=:|!
-!LO:TX:a:i:t=Voix seule.
-8g
-=17
-4g
-8b/
-=18
-4dd
-8dd
-=19
-4dd
-8dd
-=20
-4b
-8dd
+=16	=16
+4g	-ron.
+*	*pline:2
+=:|!	=:|!
+!LO:TX:a:i:t=Voix seule.	!
+8g	L'a
+=17	=17
+4g	fait
+8b/	bâ-
+=18	=18
+4dd	-tir
+8dd	à
+=19	=19
+4dd	trois
+8dd	pi-
+=20	=20
+4b	-gnons,
+*	*pline:R2
+8dd	Tor-
 !!LO:PB:g=original
-=21
-8dd
-8dd
-8dd
-=22
-8dd
-8dd
-8dd
-=23
-8dd
-8dd
-8dd
-=24
-8dd
-8dd
-8dd
-=25
-8dd
-8dd
-8dd
+=21	=21
+8dd	-til-
+8dd	-le
+8dd	mor-
+=22	=22
+8dd	-fil,
+*	*pline:R3
+8dd	Ar-
+8dd	-ran-
+=23	=23
+8dd	-geur
+8dd	de
+8dd	fau-
+=24	=24
+8dd	-cil-
+8dd	-les,
+*	*pline:R4h1
+8dd	Tri-
+=25	=25
+8dd	-bou-
+8dd	-ille
+8dd	mar-
 !!LO:PB:g=original
-=26
-4dd
-8dd
-=27
-4dd
-8dd
-=28
-4.b/
-!LO:TX:b:B:t=D.C.
-==||
-*
-*
-==|
-!!!RNB: Additional eighth rest in upper voice on last beat of m.8 not included
+=26	=26
+4dd	-teau,
+*	*pline:R4h2
+8dd	Bon-
+=27	=27
+4dd	-soir
+8dd	lu-
+=28	=28
+4.b/	-tin!
+!LO:TX:b:B:t=D.C.	!
+==	==
+*-	*-
+!!!RWG: pline labelling might need a second look
 !!!RNB: D.C. substituted for segno symbols (at beginning and end of original)
-*-
+!!!EED-1: Samuel Boone
+!!!EEV-1: 2026/05/07
