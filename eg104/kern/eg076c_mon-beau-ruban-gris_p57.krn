@@ -5,91 +5,97 @@
 !!!PTL@@FR: Chansons Populaires du Canada
 !!!OTL@@FR: Mon beau ruban gris
 !!!PUB: G. E. Desbarats
-!!!YEM:
 !!!PDT: 1865
-!!!SMA:
-!!!OMD:
 !!!AGN-Laforte:
 !!!AGN-type:
 !!!AGN-rime:
-**kern
-*clefG2
-*k[]
-*a:
-*M6/8
-*
-*
-8a
-8a
-8a
-=1
-4a
-8cc
-4ee
-8ee
-=2
-(4ee
-8dd)
-8b
-8cc
-8dd
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M6/8	*
+*	*v:1
+*	*pline:1
+8a	Ce
+8a	sont
+8a	les
+=1	=1
+4a	da-
+8cc	-mes
+4ee	de
+8ee	Pa-
+=2	=2
+(4ee	-ris,
+8dd)	.
+*	*pline:1r
+8b	Ce
+8cc	sont
+8dd	les
 !!LO:PB:g=original
-=3
-4ee
-8dd
-4cc
-8b
-=4
-4a
-8r
-8a
-8b
-8cc
-=5
-4dd
-8cc
-4b/
-8a
+=3	=3
+4ee	da-
+8dd	-mes
+4cc	de
+8b	Pa-
+=4	=4
+4a	-ris
+8r	.
+*	*pline:2
+8a	Qui
+8b	font
+8cc	blan-
+=5	=5
+4dd	-chi-
+8cc	-re
+4b/	leurs
+8a	lo-
 !!LO:PB:g=original
-=6
-4b
-8b
-8cc
-8b/
-8a
-=7
-4.b
-4ee
-8ee
-=8
-8dd
-8cc
-8b
-8a
-8g
-8a
+=6	=6
+4b	-gis,
+*>Refrain	*>Refrain
+*	*italic
+*	*pline:R1
+8b	Mon
+8cc	beau
+8b/	ru-
+8a	-ban
+=7	=7
+4.b	gris.
+*	*pline:R2
+4ee	Ah!
+8ee	mon
+=8	=8
+8dd	beau
+8cc	ru-
+8b	-ban
+8a	jau-
+8g	-ne,
+*	*pline:R3
+8a	Mon
 !!LO:PB:g=original
-=9
-8b
-8cc
-8dd
-8ee
-8ee
-8ee
-=10
-4a
-8a
-8b
-8cc
-8dd
-=11
-8cc
-8b
-8cc
-4a
-8r
-==||
-*
-*
-==|
-*-
+=9	=9
+8b	jo-
+8cc	-li
+8dd	gris
+8ee	jau-
+8ee	-ne,
+8ee	mon
+=10	=10
+4a	gris,
+*	*pline:R4
+8a	Mon
+8b	beau
+8cc	ru-
+8dd	-ban
+=11	=11
+8cc	jau-
+8b	-ne
+8cc	jo-
+4a	-li.
+8r	.
+*	*Xitalic
+*	*Xrefrain
+==	==
+*-	*-
+!!!EED-1: Samuel Boone
+!!!EEV-1: 2026/05/07
