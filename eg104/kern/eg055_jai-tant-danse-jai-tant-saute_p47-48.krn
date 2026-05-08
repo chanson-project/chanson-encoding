@@ -5,88 +5,97 @@
 !!!PTL@@FR: Chansons Populaires du Canada
 !!!OTL@@FR: J'ai tant dansé, j'ai tant santé
 !!!PUB: G. E. Desbarats
-!!!YEM:
 !!!PDT: 1865
-!!!SMA:
-!!!OMD:
 !!!AGN-Laforte:
 !!!AGN-type:
 !!!AGN-rime:
-**kern
-*clefG2
-*k[]
-*C:
-*M2/4
-*
-*
-!LO:TX:a:i:t=Voix seule.
-8cc
-=1
-8ee
-8cc
-8cc
-8g
-=2
-8cc
-8ee
-4dd
-=3
-8ee
-8cc
-8b/
-8g
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M2/4	*
+*	*v:1
+*	*pline:1
+!LO:TX:a:i:t=Voix seule.	!
+8cc	J'ai
+=1	=1
+8ee	tant
+8cc	dan-
+8cc	-sé,
+8g	j'ai
+=2	=2
+8cc	tant
+8ee	sau-
+4dd	té,
+*	*refrain
+*	*italic
+*	*pline:R1
+=3	=3
+8ee	Dan-
+8cc	-sons
+8b/	ma
+8g	ber-
 !!LO:PB:g=original
-=4
-8b
-8dd
-4cc
-=5
-8r
-8r
-8cc
-=6
-8dd
-8ee
-8ff
-8dd
-=7
-8ee
-8cc
-8a
-8dd
+=4	=4
+8b	-gèr[e],
+8dd	oh!
+4cc	gai.
+*	*Xitalic
+*	*Xrefrain
+=5	=5
+4r	.
+8r	.
+*	*pline:2
+8cc	J'en
+=6	=6
+8dd	ai
+8ee	dé-
+8ff	-cou-
+8dd	-su
+=7	=7
+8ee	mon
+8cc	sou-
+8a	-lier,
+*	*refrain
+*	*italic
+*	*pline:R2
+8dd	à
 !!LO:PB:g=original
-=8
-(8ddL
-8bJ)
-8g
-8r
-=9
-=!|:
-!LO:TX:a:i:t=Voix seule, puis la reprise en chœur.
-8g
-8cc
-8cc
-8g
-=10
-8cc
-16ee
-16cc
-8dd
-16r
-16ee
+=8	=8
+(8ddL	l'om-
+8bJ)	.
+8g	-bre,
+8r	.
+*	*pline:R3
+=9	=9
+=!|:	=!|:
+!LO:TX:a:i:t=Voix seule, puis la reprise en chœur.	!
+8g	Dan-
+8cc	-son
+8cc	ma
+8g	ber-
+=10	=10
+8cc	-gèr'
+16ee	jo-
+16cc	-li-
+8dd	-ment,
+16r	.
+*	*pline:R4
+16ee	que
 !!LO:PB:g=original
-=11
-8ff
-8dd
-8ee
-8cc
-=12
-4b
-8cc
-8r
-==:|!
-*
-*
-==|
-!!!RNB: first eighth rest in m.5 flipped backwards in original
-*-
+=11	=11
+8ff	le
+8dd	plan-
+8ee	-cher
+8cc	en
+=12	=12
+4b	rom-
+8cc	-pe!
+8r	.
+*	*Xitalic
+*	*Xrefrain
+==:|!	==:|!
+*-	*-
+!!!RWG: Refrain sections otherwise similar but contain different inserted exclamations at end of line (e.g., "oh! gai", "joliment"); currently classified as separate lines
+!!!EED-1: Samuel Boone
+!!!EEV-1: 2026/05/07
