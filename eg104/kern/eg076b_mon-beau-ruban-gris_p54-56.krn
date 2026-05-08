@@ -5,114 +5,120 @@
 !!!PTL@@FR: Chansons Populaires du Canada
 !!!OTL@@FR: Mon beau ruban gris
 !!!PUB: G. E. Desbarats
-!!!YEM:
 !!!PDT: 1865
-!!!SMA:
-!!!OMD:
 !!!AGN-Laforte:
 !!!AGN-type:
 !!!AGN-rime:
-**kern
-*clefG2
-*k[]
-*C:
-*M3/8
-*
-*
-8g
-=1
-4cc
-8dd
-=2
-(4cc
-8b)
-=3
-(4a
-8g)
-=4
-4a
-8b/
-=5
-4cc
-8g
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/8	*
+*	*v:1
+*	*pline:1
+8g	Ce
+=1	=1
+4cc	sont
+8dd	les
+=2	=2
+(4cc	da-
+8b)	.
+=3	=3
+(4a	-mes
+8g)	.
+=4	=4
+4a	de
+8b/	Pa-
+=5	=5
+4cc	-ris,
+*	*pline:1r
+8g	Ce
 !!LO:PB:g=original
-=6
-4cc
-8dd
-=7
-(4cc
-8b)
-=8
-(4a
-8g)
-=9
-4a
-8b/
-=10
-8cc
-8r
-8g
-=11
-4cc
-8dd
+=6	=6
+4cc	sont
+8dd	les
+=7	=7
+(4cc	da-
+8b)	.
+=8	=8
+(4a	-mes
+8g)	.
+=9	=9
+4a	de
+8b/	Pa-
+=10	=10
+8cc	-ris
+8r	.
+*	*pline:2
+8g	Qui
+=11	=11
+4cc	font
+8dd	blan-
 !!LO:PB:g=original
-=12
-4dd
-8ee
-=13
-4ff
-8ee
-=14
-4dd
-8dd
-=15
-8cc
-8dd
-8ee
-=16
-4dd
-8dd
-=17
-8cc
-8b
-8a
+=12	=12
+4dd	-chi-
+8ee	-re
+=13	=13
+4ff	leurs
+8ee	lo-
+=14	=14
+4dd	-gis,
+*>Refrain	*>Refrain
+*	*italic
+*	*pline:R1
+8dd	Mon
+=15	=15
+8cc	beau
+8dd	ru-
+8ee	-ban
+=16	=16
+4dd	gris,
+*	*pline:R1r
+8dd	Mon
+=17	=17
+8cc	beau
+8b	ru-
+8a	-ban
 !!LO:PB:g=original
-=18
-8g
-8r
-8g
-=19
-8cc
-8cc
-8cc
-=20
-4cc
-8cc
-=21
-8cc
-8cc
-8cc
-=22
-4cc
-8cc
+=18	=18
+8g	gris.
+8r	.
+*	*pline:R2
+8g	Mon
+=19	=19
+8cc	beau
+8cc	ru-
+8cc	-ban
+=20	=20
+4cc	jaun',
+*	*pline:R3
+8cc	Mon
+=21	=21
+8cc	jo-
+8cc	-li
+8cc	gris-
+=22	=22
+4cc	jaun',
+*	*pline:R4
+8cc	Mon
 !!LO:PB:g=original
-=23
-4b
-8dd
-=24
-4gg
-8gg
-=25
-8ff
-8ee
-8dd
-=26
-4cc
-==||
-8r
-==||
-*
-*
-==|
-!!!RNB: Final eighth rest flipped backward in original
-*-
+=23	=23
+4b	gris
+8dd	jo-
+=24	=24
+4gg	-li,
+*	*pline:R5
+8gg	Mon
+=25	=25
+8ff	beau
+8ee	ru-
+8dd	-ban
+=26	=26
+4cc	gris.
+*	*Xitalic
+*	*Xrefrain
+==	==
+*-	*-
+!!!RNB: Final quarter rest omitted as extra, redundant measure
+!!!EED-1: Samuel Boone
+!!!EEV-1: 2026/05/07
