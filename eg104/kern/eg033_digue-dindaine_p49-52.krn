@@ -5,78 +5,85 @@
 !!!PTL@@FR: Chansons Populaires du Canada
 !!!OTL@@FR: Digue dindaine
 !!!PUB: G. E. Desbarats
-!!!YEM:
 !!!PDT: 1865
-!!!SMA:
-!!!OMD:
 !!!AGN-Laforte:
 !!!AGN-type:
 !!!AGN-rime:
-**kern
-*clefG2
-*k[b-]
-*F:
-*M2/4
-*
-*
-8.cc
-16cc
-=1
-8.cc
-16dd
-8.a
-16a
-=2
-8.g
-16f
-12g
-12f
-12g
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M2/4	*
+*	*v:1
+*	*pline:1
+8.cc	Quand
+16cc	j'é-
+=1	=1
+8.cc	-tais
+16dd	de
+8.a	chez
+16a	mon
+=2	=2
+8.g	pè-
+16f	-re,
+*	*refrain
+*	*italic
+*	*pline:R1
+12g	di-
+12f	-gue
+12g	din-
 !!LO:PB:g=original
-=3
-8a
-8a
-8.cc
-16cc
-=4
-8.cc
-16dd
-8.a
-16a
-=5
-8.gL
-16fJ
-12g
-12f
-12g
+=3	=3
+8a	-dai-
+8a	-ne,
+*	*Xitalic
+*	*Xrefrain
+*	*pline:2
+8.cc	Jeu-
+16cc	-ne
+=4	=4
+8.cc	fill[e]
+16dd	à
+8.a	ma-
+16a	-ri-
+=5	=5
+8.gL	-er,
+16fJ	.
+*	*refrain
+*	*italic
+*	*pline:R2
+12g	di-
+12f	-gue
+12g	din-
 !!LO:PB:g=original
-=6
-4a
-8.a
-16b
-=7
-8.cc
-16b
-8cc
-8dd
-=8
-4cc
-8.dd
-16dd
-=9
-8.cc
-16b
-8a\
-8dd
+=6	=6
+4a	-dé,
+*	*Xitalic
+*	*Xrefrain
+*	*pline:2r
+8.a	Jeu-
+16b	-ne
+=7	=7
+8.cc	fill[e]
+16b	à
+8cc	ma-
+8dd	-ri-
+=8	=8
+4cc	-er,
+*	*pline:2r
+8.dd	Jeu-
+16dd	-ne
+=9	=9
+8.cc	fill[e]
+16b	à
+8a\	ma-
+8dd	-ri-
 !!LO:PB:g=original
-=10
-4cc
-==||
-8r
-==||
-*
-*
-==|
+=10	=10
+4cc	-er.
+==	==
+*-	*-
 !!!RNB: Unbeamed triplets are preserved
-!!!RNB: Final eighth rest flipped backward in original
-*-
+!!!RNB: Final eighth rest omitted, as measure is empty and redundant
+!!!EED-1: Samuel Boone
+!!!EEV-1: 2026/05/07
