@@ -26,6 +26,8 @@
 8b/	é-
 =2	=2
 4cc	-tang,
+*	*refrain
+*	*italic
 *	*rline:R1
 8a	Sui-
 16b/	-vons
@@ -38,6 +40,8 @@
 =4	=4
 8a	-ment,
 16r	.
+*	*Xitalic
+*	*Xrefrain
 *	*pline:2
 16a	Trois
 8a	beaux
@@ -50,6 +54,8 @@
 !!LO:PB:g=original
 =6	=6
 4g	-gnant,
+*>Refrain	*>Refrain
+*	*italic
 *	*rline:R2
 8.b/	Tout
 16a	le
@@ -85,7 +91,9 @@
 !!LO:PB:g=original
 =12	=12
 8.g	-ment.
-==||	==||
+*	*Xitalic
+*	*Xrefrain
+==	==
 16r	.
 4r	.
 ==	==
