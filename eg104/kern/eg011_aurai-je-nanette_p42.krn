@@ -60,6 +60,8 @@
 =13	=13
 4f	nuit.
 8r	.
+*	*refrain
+*	*italic
 *	*rline:R1
 =14	=14
 4d	Au-
@@ -96,6 +98,8 @@
 =23	=23
 8ddq	.
 4.b-	oui.
+*	*Xitalic
+*	*Xrefrain
 =24	=24
 4r	.
 ==	==
