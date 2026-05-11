@@ -40,6 +40,8 @@
 8ccJ	.
 8b	-tes
 16r	.
+*>Refrain	*>Refrain
+*	*italic
 *	*rline:R1
 16dd	Lui
 =5	=5
@@ -74,7 +76,9 @@
 8a	don-
 =11	=11
 4.g	-dé.
-==||	==||
+*	*Xitalic
+*	*Xrefrain
+==	==
 8r	.
 ==	==
 *-	*-
