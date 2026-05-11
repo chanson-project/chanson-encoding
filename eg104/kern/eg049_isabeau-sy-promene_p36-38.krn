@@ -55,6 +55,8 @@
 !!LO:PB:g=original
 =11	=11
 8dd	-din,
+*	*refrain
+*	*italic
 *	*rline:R1
 8b-	Sur
 8g	le
@@ -67,6 +69,8 @@
 =14	=14
 4a	-le,
 8r	.
+*	*Xitalic
+*	*Xrefrain
 *	*pline:1h2r
 =15	=15
 8g	Du
@@ -78,6 +82,8 @@
 8dd	jar-
 =17	=17
 8dd	-din,
+*>Refrain	*>Refrain
+*	*italic
 *	*rline:R2
 8b-	Sur
 8g	le
@@ -97,9 +103,11 @@
 !!LO:PB:g=original
 =21	=21
 (4.g	-seau....
+*	*Xitalic
+*	*Xrefrain
 =22	=22
 4g)	.
-==||	==||
+==	==
 8r	.
 ==	==
 *-	*-
