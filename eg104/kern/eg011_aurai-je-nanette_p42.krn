@@ -5,102 +5,101 @@
 !!!PTL@@FR: Chansons Populaires du Canada
 !!!OTL@@FR: Aurai-je Nanette?
 !!!PUB: G. E. Desbarats
-!!!YEM:
 !!!PDT: 1865
-!!!SMA:
-!!!OMD:
 !!!AGN-Laforte:
 !!!AGN-type:
 !!!AGN-rime:
-**kern
-*clefG2
-*k[b-,e-]
-*g:
-*M3/8
-*
-*
-8b-
-=1
-4b-
-8f
-=2
-4d
-8e-
-=3
-4f
-8b-
-=4
-4b-
-8f
+**kern	**text
+*clefG2	*
+*k[b-,e-]	*
+*g:	*
+*M3/8	*
+*	*v:1
+*	*pline:1h1
+8b-	Par
+=1	=1
+4b-	der-
+8f	-rièr'
+=2	=2
+4d	chez
+8e-	mon
+=3	=3
+4f	pèr'
+*	*pline:1h2
+8b-	Lui
+=4	=4
+4b-	ya-
+8f	t-un
 !!LO:PB:g=original
-=5
-4d
-8e-
-=6
-4.f
-=7
-8r
-8f
-=8
-4b-
-8cc
-=9
-4dd
-8b-
-=10
-4g
-8a
+=5	=5
+4d	bois
+8e-	jo-
+=6	=6
+4.f	-li;
+=7	=7
+4r	.
+*	*pline:2h1
+8f	Le
+=8	=8
+4b-	ros-
+8cc	-si-
+=9	=9
+4dd	-gnol
+8b-	y
+=10	=10
+4g	chant[e]
+*	*pline:2h2
+8a	Et
 !!LO:PB:g=original
-=11
-4b-
-8dd
-=12
-4cc
-8a
-=13
-4f
-8r
-=14
-4d
-8e-
-=15
-8fL
-8gJ
-8a
-=16
-4b-
-8f
+=11	=11
+4b-	le
+8dd	jour
+=12	=12
+4cc	et
+8a	la
+=13	=13
+4f	nuit.
+8r	.
+*	*rline:R1
+=14	=14
+4d	Au-
+8e-	-rai-
+=15	=15
+8fL	je
+8gJ	.
+8a	Na-
+=16	=16
+4b-	-nett'?
+8f	Je
 !!LO:PB:g=original
-=17
-4f
-8e-
-=18
-4d
-8r
-=19
-4B-
-8c
-=20
-4d
-8e-
-=21
-8f
-8f
-8f
-=22
-4cc
-8dd
+=17	=17
+4f	crois
+8e-	que
+=18	=18
+4d	non.
+8r	.
+*	*rline:R2
+=19	=19
+4B-	Au-
+8c	-rai-
+=20	=20
+4d	je
+8e-	Na-
+=21	=21
+8f	-net-
+8f	-te?
+8f	Je
+=22	=22
+4cc	crois
+8dd	que
 !!LO:PB:g=original
-=23
-8ddq
-4.b-
-=24
-8r
-==||
-8r
-==||
-*
-*
-==|
-!!!RNB: eighth rest in m.7 and penultimate eighth rest in m.24 both flipped backwards in original
-*-
+=23	=23
+8ddq	.
+4.b-	oui.
+=24	=24
+4r	.
+==	==
+*-	*-
+!!!RNB: Final partial measure with solitary eighth rest omitted
+!!!EED1: Samuel Boone
+!!!EEV1: 2026/05/11
