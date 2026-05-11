@@ -5,89 +5,90 @@
 !!!PTL@@FR: Chansons Populaires du Canada
 !!!OTL@@FR: Suivons le vent
 !!!PUB: G. E. Desbarats
-!!!YEM:
 !!!PDT: 1865
-!!!SMA:
-!!!OMD:
 !!!AGN-Laforte:
 !!!AGN-type:
 !!!AGN-rime:
-**kern
-*clefG2
-*k[f#]
-*G:
-*M2/4
-*
-*
-16g
-8g
-8g
-=1
-8a
-8g
-8a
-8b/
-=2
-4cc
-8a
-16b/
-16cc/
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M2/4	*
+*	*v:1
+*	*pline:1
+16g	Der-
+8g	-rièr'
+8g	chez
+=1	=1
+8a	nous
+8g	ya-
+8a	t-un
+8b/	é-
+=2	=2
+4cc	-tang,
+*	*rline:R1
+8a	Sui-
+16b/	-vons
+16cc/	le
 !!LO:PB:g=original
-=3
-4dd
-8cc
-8b
-=4
-8a
-16r
-16a
-8a
-8dd
-=5
-8dd
-8b
-8cc
-8a
+=3	=3
+4dd	vent,
+8cc	gaî-
+8b	gaî-
+=4	=4
+8a	-ment,
+16r	.
+*	*pline:2
+16a	Trois
+8a	beaux
+8dd	ca-
+=5	=5
+8dd	-nards
+8b	s'en
+8cc	vont
+8a	bai-
 !!LO:PB:g=original
-=6
-4g
-8.b/
-16a
-=7
-8a
-8g
-8e
-8g
-=8
-8a
-8g
-8b/
-16a
-16a
+=6	=6
+4g	-gnant,
+*	*rline:R2
+8.b/	Tout
+16a	le
+=7	=7
+8a	long
+8g	de
+8e	la
+8g	ri-
+=8	=8
+8a	-viè-
+8g	-re,
+*	*rline:R3
+8b/	Sui-
+16a	-vons
+16a	le
 !!LO:PB:g=original
-=9
-8aL
-8gJ
-8e
-8g
-=10
-8a
-8g
-8g
-16a
-16b/
-=11
-4cc
-8dd
-8b
+=9	=9
+8aL	vent
+8gJ	.
+8e	mon
+8g	com-
+=10	=10
+8a	-pè-
+8g	-re,
+*	*rline:R1r
+8g	Sui-
+16a	-vons
+16b/	le
+=11	=11
+4cc	vent,
+8dd	gaî-
+8b	gaî-
 !!LO:PB:g=original
-=12
-8.g
-==||
-16r
-8r
-!LO:TX:a:t=(backwards 8R at end)
-==||
-*
-*
-==|
+=12	=12
+8.g	-ment.
+==||	==||
+16r	.
+4r	.
+==	==
+*-	*-
+!!!EED1: Samuel Boone
+!!!EEV1: 2026/05/11
