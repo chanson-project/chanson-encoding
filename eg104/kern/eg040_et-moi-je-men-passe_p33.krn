@@ -56,6 +56,8 @@
 8cc	il
 8cc	m'en-
 4cc	-voie,
+*>Refrain	*>Refrain
+*	*italic
 *	*rline:R1
 !!LO:PB:g=original
 =8	=8
@@ -95,7 +97,9 @@
 8d]	.
 4r	.
 !!LO:PB:g=original
-==||	==||
+*	*Xitalic
+*	*Xrefrain
+==	==
 8r	.
 ==	==
 *-	*-
