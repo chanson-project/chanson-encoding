@@ -5,86 +5,84 @@
 !!!PTL@@FR: Chansons Populaires du Canada
 !!!OTL@@FR: Dans les prisons de Nantes
 !!!PUB: G. E. Desbarats
-!!!YEM:
 !!!PDT: 1865
-!!!SMA:
-!!!OMD:
 !!!AGN-Laforte:
 !!!AGN-type:
 !!!AGN-rime:
-**kern
-*clefG2
-*k[]
-*a:
-*M2/4
-*
-*
-8e
-=1
-8.a
-16g#
-8a
-8b/
-=2
-8ccL/
-8aJ/
-8b
-8cc
-=3
-8.a
-16g#
-8a
-8b/
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M2/4	*
+*	*v:1
+*	*pline:1
+8e	Dans
+=1	=1
+8.a	les
+16g#	pri-
+8a	-sons
+8b/	de
+=2	=2
+8ccL/	Nan-
+8aJ/	.
+8b	-tes,
+*	*pline:1r
+8cc	Dans
+=3	=3
+8.a	les
+16g#	pri-
+8a	-sons
+8b/	de
 !!LO:PB:g=original
-=4
-8ccL
-8aJ
-8b
-8b
-=5
-8b
-8b
-4gn
-=6
-4b/
-8aL
-8gJ
-=7
-8e
-16a
-16a
-8a
-16a
-16b/
+=4	=4
+8ccL	Nan-
+8aJ	.
+8b	-tes
+*	*rline:R1
+8b	Lui
+=5	=5
+8b	ya-
+8b	t-un
+4gn	pri-
+=6	=6
+4b/	-son-
+8aL	-nier,
+8gJ	.
+=7	=7
+8e	gai,
+16a	fa-
+16a	-lu-
+8a	-ron
+16a	fa-
+16b/	-lu-
 !!LO:PB:g=original
-=8
-4cc
-8b
-8b
-=9
-8b
-8b
-4g
-=10
-4b/
-8aL
-8gJ
-=11
-8e
-16a
-16a
-8a
-8b/
-16ccqL
-16bqJ
+=8	=8
+4cc	-ret-
+8b	-te,
+*	*rline:R1r
+8b	Lui
+=9	=9
+8b	ya-
+8b	t-un
+4g	pri-
+=10	=10
+4b/	-son-
+8aL	-nier,
+8gJ	.
+=11	=11
+8e	gai,
+16a	fa-
+16a	-lu-
+8a	-ron
+8b/	don-
+16ccqL	.
+16bqJ	.
 !!LO:PB:g=original
-=12
-4.a
-==||
-8r
-==||
-*
-*
-==|
-!!!RDF**kern: i = editorial accidental
-*-
+=12	=12
+4.a	-dé.
+==||	==||
+8r	.
+==	==
+*-	*-
+!!!EED1: Samuel Boone
+!!!EEV1: 2026/05/11
