@@ -5,88 +5,88 @@
 !!!PTL@@FR: Chansons Populaires du Canada
 !!!OTL@@FR: Gai lon la, gai le rosier
 !!!PUB: G. E. Desbarats
-!!!YEM:
 !!!PDT: 1865
-!!!SMA:
-!!!OMD:
 !!!AGN-Laforte:
 !!!AGN-type:
 !!!AGN-rime:
-**kern
-*clefG2
-*k[b-]
-*F:
-*M3/8
-*
-*
-=1
-8cc
-8cc
-8cc
-=2
-4dd
-8cc
-=3
-4cc
-8a
-=4
-8cc
-8cc
-8cc
-=5
-4dd
-8cc
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M3/8	*
+*	*v:1
+*	*pline:1h1
+=1	=1
+8cc	Par
+8cc	der-
+8cc	-rièr'
+=2	=2
+4dd	chez
+8cc	ma
+=3	=3
+4cc	tan-
+8a	-te
+*	*pline:1h2
+=4	=4
+8cc	Lui
+8cc	ya-
+8cc	t-un
+=5	=5
+4dd	bois
+8cc	jo-
 !!LO:PB:g=original
-=6
-4cc
-8r
-=7
-8cc
-8cc
-8cc
-=8
-4ff
-8cc
-=9
-4cc
-8a
-=10
-8a
-8a
-8a
-=11
-4cc
-8a
+=6	=6
+4cc	-li,
+8r	.
+*	*pline:2h1
+=7	=7
+8cc	Le
+8cc	ros-
+8cc	-si-
+=8	=8
+4ff	-gnol
+8cc	y
+=9	=9
+4cc	chan-
+8a	-te
+*	*pline:2h2
+=10	=10
+8a	Et
+8a	le
+8a	jour
+=11	=11
+4cc	et
+8a	la
 !!LO:PB:g=original
-=12
-4.g
-=13
-4f
-8a
-=14
-4.cc
-=15
-8dd
-8dd
-8dd
-=16
-4.cc
-=17
-8b-
-8b-
-8b-
+=12	=12
+4.g	nuit.
+*	*rline:R1
+=13	=13
+4f	Gai
+8a	lon
+=14	=14
+4.cc	la,
+=15	=15
+8dd	gai
+8dd	le
+8dd	ro-
+=16	=16
+4.cc	-sier
+*	*rline:R2
+=17	=17
+8b-	Du
+8b-	jo-
+8b-	-li
 !!LO:PB:g=original
-=18
-4a
-8g
-=19
-(4.f
-=20
-8f)
-8r
-==||
-*
-*
-==|
-!!!RNB: final eighth rest flipped backwards in original
-*-
+=18	=18
+4a	mois
+8g	de
+=19	=19
+(4.f	mai.
+=20	=20
+8f)	.
+4r	.
+==	==
+*-	*-
+!!!EED1: Samuel Boone
+!!!EEV1: 2026/05/11
