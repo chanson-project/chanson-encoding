@@ -5,98 +5,112 @@
 !!!PTL@@FR: Chansons Populaires du Canada
 !!!OTL@@FR: C'est l'vent frivolant
 !!!PUB: G. E. Desbarats
-!!!YEM:
 !!!PDT: 1865
-!!!SMA:
-!!!OMD:
 !!!AGN-Laforte:
 !!!AGN-type:
 !!!AGN-rime:
-**kern
-*clefG2
-*k[]
-*C:
-*M2/4
-*
-*
-=1
-!LO:TX:a:i:t=Voix seule.
-8e
-8g
-8a
-8a
-=2
-8.b
-16g
-4cc
-==||
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M2/4	*
+*	*v:1
+*>Refrain	*>Refrain
+*	*italic
+*	*rline:R1
+=1	=1
+!LO:TX:a:i:t=Voix seule.	!
+8e	C'est
+8g	l'vent,
+8a	c'est
+8a	l'vent
+=2	=2
+8.b	fri-
+16g	-vo-
+4cc	-lant.
 !!LO:PB:g=original
-=3
-!LO:TX:a:i:t=Chœur.
-8e
-8g
-8a
-8b/
-=4
-(8ddL
-16ccJ)
-16b
-8cc
-!LO:TX:a:t=FIN.
-=|!|:
-!LO:TX:a:t=(8th R, top).
-8g
-=5
-!LO:TX:a:i:t=Voix seule, puis la reprise en chœur.
-8g
-8g
-*cue
-8b/
-*Xcue
-8a
-8g
+*	*rline:R1r
+==3	==3
+!LO:TX:a:i:t=Chœur.	!
+8e	C'est
+8g	l'vent,
+8a	c'est
+8b/	l'vent
+=4	=4
+(8ddL	fri-
+16ccJ)	.
+16b	-vo-
+8cc	-lant.
+!LO:TX:a:t=FIN.	!
+*	*Xitalic
+*	*Xrefrain
+*	*pline:1
+=|!|:	=|!|:
+*^	*
+8r	8g/	Der-
+*v	*v	*
+=5	=5
+!LO:TX:a:i:t=Voix seule, puis la reprise en chœur.	!
+8g	-rièr'
+8g	chez
+*cue	*
+8b/	.
+*Xcue	*
+8a	nous,
+8g	ya-
 !!LO:PB:g=original
-=6
-8a
-8b/
-4cc
-=7
-8g
-8g
-8a
-8g
-=8
-8.a
-16b/
-8cc
-=:|!|
+=6	=6
+8a	t-un
+8b/	é-
+4cc	-tang,
+*	*refrain
+*	*italic
+*	*rline:R1r
+=7	=7
+8g	C'est
+8g	l'vent,
+8a	c'est
+8g	l'vent
+=8	=8
+8.a	fri-
+16b/	-vo-
+8cc	-lant,
+*	*Xitalic
+*	*Xrefrain
+*	*pline:2
+=:|!|	=:|!|
 !!LO:PB:g=original
-!LO:TX:a:i:t=Voix seule.
-8g
-=9
-8cc
-8ee
-8gg
-8ee
-=10
-8dd
-8cc
-8a
-(16bL
-16ccJ)
+!LO:TX:a:i:t=Voix seule.	!
+8g	Trois
+=9	=9
+8cc	beaux
+8ee	ca-
+8gg	-nards
+8ee	s'en
+=10	=10
+8dd	vont
+8cc	bai-
+8a	-gnant,
+*	*refrain
+*	*italic
+*	*rline:R2
+(16bL	C'est
+16ccJ)	.
 !!LO:PB:g=original
-=11
-8.dd
-16cc
-8.b/
-16cc
-=12
-8.a
-16b/
-8g
-8f
-!LO:TX:b:t=D.C.
-==||
-*
-*
-==|
+=11	=11
+8.dd	l'vent
+16cc	qui
+8.b/	vo-
+16cc	-le
+=12	=12
+8.a	qui
+16b/	fri-
+8g	-vo-
+8f	-le.
+*	*Xitalic
+*	*Xrefrain
+!LO:TX:b:t=D.C.	!
+==	==
+*-	*-
+!!!EED1: Samuel Boone
+!!!EEV1: 2026/05/11
