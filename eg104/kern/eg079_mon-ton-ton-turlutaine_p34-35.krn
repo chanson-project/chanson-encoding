@@ -5,87 +5,87 @@
 !!!PTL@@FR: Chansons Populaires du Canada
 !!!OTL@@FR: Mon, ton, ton, turlutaine
 !!!PUB: G. E. Desbarats
-!!!YEM:
 !!!PDT: 1865
-!!!SMA:
-!!!OMD:
 !!!AGN-Laforte:
 !!!AGN-type:
 !!!AGN-rime:
-**kern
-*clefG2
-*k[b-]
-*F:
-*M6/8
-*
-*
-8g
-=1
-8.dL
-16eJ
-8f
-4.g
-=2
-4.b-/
-4a
-8a
-=3
-*M3/8
-4g
-8g
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M6/8	*
+*	*v:1
+*	*pline:1
+8g	Mon
+=1	=1
+8.dL	pèr'
+16eJ	.
+8f	n'a-
+4.g	-vait
+=2	=2
+4.b-/	fil-
+4a	-le
+8a	que
+=3	=3
+*M3/8	*
+4g	moi.
+*	*pline:1r
+8g	Mon
 !!LO:PB:g=original
-=4
-*M6/8
-8.dL
-16eJ
-8f
-4.g
-=5
-4.b-/
-4a
-8a
-=6
-[4.g
-8g]
-8r
-8g
-=7
-4g
-8a
-4b-
-8b-
+=4	=4
+*M6/8	*
+8.dL	pèr'
+16eJ	.
+8f	n'a-
+4.g	-vait
+=5	=5
+4.b-/	fil-
+4a	-le
+8a	que
+=6	=6
+[4.g	moi;
+8g]	.
+8r	.
+*	*pline:2
+8g	En-
+=7	=7
+4g	-cor
+8a	sur
+4b-	la
+8b-	mer
 !!LO:PB:g=original
-=8
-8b-q
-4dd
-8b-
-4.a
-=9
-4a
-8a
-8.a
-16a
-8g
-=10
-4a
-8a
-(4g
-8f)
+=8	=8
+8b-q	.
+4dd	il
+8b-	m'en-
+4.a	-voie.
+*	*rline:R1
+=9	=9
+4a	Mon
+8a	ton
+8.a	ton
+16a	tur-
+8g	-lu-
+=10	=10
+4a	-tain[e],
+8a	oh!
+(4g	gai,
+8f)	.
+*	*rline:R1r
 !!LO:PB:g=original
-=11
-4g
-8a
-8.a
-16b-/
-8g
-=12
-(4g
-8f
-4g)
-==||
-8r
-==||
-*
-*
-==|
-*-
+=11	=11
+4g	Mon
+8a	ton
+8.a	ton
+16b-/	tur-
+8g	-lu-
+=12	=12
+(4g	-tai-
+8f	.
+4g)	ne.
+==||	==||
+8r	.
+==	==
+*-	*-
+!!!EED1: Samuel Boone
+!!!EEV1: 2026/05/11
