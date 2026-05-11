@@ -28,7 +28,6 @@
 4dd	-son,
 *	*refrain
 *	*italic
-*	*pline:R1
 =3	=3
 8b-/	Vir-
 8b-/	-gé
@@ -54,7 +53,7 @@
 8a	-gnons,
 *>Refrain	*>Refrain
 *	*italic
-*	*pline:R2
+*	*rline:R1
 16a	Sur
 16b-/	le
 !!LO:PB:g=original
@@ -72,8 +71,7 @@
 16b-JN	.	.
 *v	*v	*
 8a	-ri,
-*	*pline:R3
-16a	Sur
+16a	sur
 16b-/	le
 !!LO:PB:g=original
 =9	=9
@@ -93,7 +91,7 @@
 *v	*v	*
 8a	-rum,
 8r	.
-*	*pline:R4
+*	*rline:R2
 =11	=11
 8b-/	Gen-
 16a	-ti-
@@ -118,7 +116,7 @@
 16b-/	-te-
 8a	-ri'
 8r	.
-*	*pline:R5
+*	*rline:R3
 !!LO:PB:g=original
 =15	=15
 8b-/	Viv'
@@ -142,6 +140,6 @@
 ==	==
 *-	*-
 !!!RDF**kern: N = cue size
-!!!RWG: Refrain line labelling needs to be addressed
-!!!EED-1: Samuel Boone
-!!!EEV-1: 2026/05/05
+!!!RNB: Refrain line labelling should be addressed, but might be fine for now (was reviewed during 26/05/11 meeting)
+!!!EED1: Samuel Boone
+!!!EEV1: 2026/05/05
