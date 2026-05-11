@@ -1,7 +1,7 @@
 # Chanson Repository
 
 This repository contains Francophone folk songs encoded as **Humdrum `**kern`** files.  
-Encoding is *diplomatic* and includes the musical score, poetic text, phonemes, and rhyme analysis.
+Initial encoding is *diplomatic* and includes the musical score, poetic text, phonemes, and rhyme analysis. Editorial policies are being developed through the initial stage of encoding BC100 and EG104 datasets.
 
 
 ## Encoding Procedure
