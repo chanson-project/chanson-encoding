@@ -1,0 +1,114 @@
+!!!id: EG032b
+!!!page: 16-17
+!!!COM: Anonymous
+!!!LYR: Anonymous
+!!!PTL@@FR: Chansons Populaires du Canada
+!!!OTL@@FR: Descendez à l'ombre
+!!!PUB: G. E. Desbarats
+!!!PDT: 1865
+!!!AGN-Laforte:
+!!!AGN-type:
+!!!AGN-rime:
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M2/8	*
+*	*v:1
+*>Refrain	*>Refrain
+*	*italic
+*	*rline:R1
+=1	=1
+8g	Des-
+8b-/	-cen-
+=2	=2
+8a	-dez
+8g	à
+=3	=3
+8g	l'om-
+8f	-bre,
+=4	=4
+8d	ma
+16e	jo-
+16f	-lie
+!!LO:PB:g=original
+=5	=5
+8.g	blon-
+16f	-de,
+*	*rline:R2
+=6	=6
+8g	Des-
+8b-/	-cen-
+=7	=7
+8a	-dez
+8g	à
+=8	=8
+8gL	l'om-
+8fJ	.
+=9	=9
+8g	-bre
+8g	d'un
+!!LO:PB:g=original
+=10	=10
+[4f	bois....
+=11	=11
+4f_	.
+=12	=12
+8f]	.
+!LO:TX:a:t=FIN.	!
+*	*Xitalic
+*	*Xrefrain
+*	*pline:1
+==	==
+*^	*
+8r	8b-/	Der-
+*v	*v	*
+=13	=13
+8a	-rièr'
+8g	chez
+=14	=14
+4f	nous
+=15	=15
+8b-L	ya-
+8gJ	.
+!!LO:PB:g=original
+=16	=16
+8a	t-un
+8b-/	é-
+=17	=17
+8g	-tang,
+*	*pline:1r
+8b-/	Der-
+=18	=18
+8a	-rièr'
+8g	chez
+=19	=19
+4f	nous
+=20	=20
+8b-L	ya-
+8gJ	.
+=21	=21
+8a	t-un
+8b-/	é-
+!!LO:PB:g=original
+=22	=22
+8g;	-tang.
+*	*pline:2
+8d	Trois
+=23	=23
+8g	beaux
+8a	ca-
+=24	=24
+8b-	-nards
+8cc	s'en
+=26	=26
+8b-/	vont
+8g	bai-
+=27	=27
+4f	-gnant.
+!LO:TX:b:t=D.C.	!
+==	==
+*-	*-
+!!!RNB: Final measure left open beyond the double bar line in original, deemed unnecessary so ignored here
+!!!EED1: Samuel Boone
+!!!EEV1: 2026/05/12
