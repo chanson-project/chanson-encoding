@@ -5,93 +5,93 @@
 !!!PTL@@FR: Chansons Populaires du Canada
 !!!OTL@@FR: J'aim'rai tendrement ces amants constant
 !!!PUB: G. E. Desbarats
-!!!YEM:
 !!!PDT: 1865
-!!!SMA:
-!!!OMD:
 !!!AGN-Laforte:
 !!!AGN-type:
 !!!AGN-rime:
-**kern
-*clefG2
-*k[]
-*C:
-*M2/4
-*
-*
-8cc
-=1
-8cc
-8a
-4g
-=2
-4cc
-8a\
-8b
-=3
-*M2/8
-8cc
-8dd
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M2/4	*
+*	*v:1
+*	*pline:1
+8cc	Der-
+=1	=1
+8cc	-rièr'
+8a	chez
+4g	nous,
+=2	=2
+4cc	ya-
+8a\	t-un
+8b	é-
+=3	=3
+*M2/8	*
+8cc	-tang,
+*	*pline:1r
+8dd	Der-
 !!LO:PB:g=original
-=4
-*M2/4
-8cc
-8a\
-4g
-=5
-4cc
-8a\
-8b
-=6
-4cc
-8r
-=||
-8g
+=4	=4
+*M2/4	*
+8cc	-tièr'
+8a\	chez
+4g	nous,
+=5	=5
+4cc	ya-
+8a\	t-un
+8b	é-
+=6	=6
+4cc	-tang.
+8r	.
+*	*pline:2
+==	==
+8g	Trois
 !!LO:PB:g=original
-=7
-8cc
-8dd
-8dd
-8ee
-=8
-8cc
-8ee
-4dd
-=9
-8.cc
-16b
-8a\
-8b
+=7	=7
+8cc	beaux
+8dd	ca-
+8dd	-nards
+8ee	s'en
+=8	=8
+8cc	vont
+8ee	bai-
+4dd	-gnant.
+*>Refrain	*>Refrain
+*	*italic
+*	*rline:R1
+=9	=9
+8.cc	J'ai-
+16b	-me-
+8a\	-rai
+8b	ja-
 !!LO:PB:g=original
-=10
-4g
-8e
-8g
-=11
-8a\
-8b
-8.cc
-16cc
-=12
-8cc
-8ee
-8dd
-8cc
+=10	=10
+4g	-mais
+8e	ces
+8g	a-
+=11	=11
+8a\	-mants
+8b	vo-
+8.cc	-la-
+16cc	-ges,
+*	*rline:R2
+=12	=12
+8cc	J'aim'-
+8ee	-rai
+8dd	ten-
+8cc	-dre-
 !!LO:PB:g=original
-=13
-(4a
-*cue
-8g)
-*Xcue
-8e
-8g
-=14
-8a
-8b
-8cc
-=||
-8r
-==||
-*
-*
-==|
+=13	=13
+(4a	-ment
+8gq)	.
+8e	ces
+8g	a-
+=14	=14
+8a	-mants
+8b	con-
+8cc	-stants.
+==	==
+8r	.
+==	==
+!!!EED1: Samuel Boone
+!!!EEV1: 2026/05/12
