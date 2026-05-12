@@ -5,88 +5,100 @@
 !!!PTL@@FR: Chansons Populaires du Canada
 !!!OTL@@FR: Lève ton pied
 !!!PUB: G. E. Desbarats
-!!!YEM:
 !!!PDT: 1865
-!!!SMA:
-!!!OMD:
 !!!AGN-Laforte:
 !!!AGN-type:
 !!!AGN-rime:
-**kern
-*clefG2
-*k[]
-*a:
-*M6/8
-*
-*
-!LO:TX:a:i:t=Voix seule, puis la reprise en chœur.
-=1
-8r
-!LO:TX:a:t=(segno)
-4a
-8a
-=2
-4cc
-8a
-4b
-8cc
-=3
-4a
-8g
-4a
-8a
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M6/8	*
+*	*v:1
+*>Refrain	*>Refrain
+*	*italic
+*	*rline:R1
+!LO:TX:a:i:t=Voix seule, puis la reprise en chœur.	!
+=1	=1
+8r	.
+4a	Lèv'
+8a	ton
+=2	=2
+4cc	pied
+8a	lé-
+4b	-ger'
+8cc	ber-
+=3	=3
+4a	-gè-
+8g	-re,
+*	*rline:R2
+4a	Lèv'
+8a	ton
 !!LO:PB:g=original
-=4
-4cc
-8a
-4b
-8cc
-=5
-4a
-!LO:TX:a:t=FIN.
-=:|!|:
-!LO:TX:a:i:t=Voix seule, puis la reprise en chœur.
-8e
-4a
-8b
-=6
-4cc
-8a
-4b
-8cc
+=4	=4
+4cc	pied
+8a	lé-
+4b	-gè-
+8cc	-re-
+=5	=5
+4a	-ment.
+!LO:TX:a:t=FIN.	!
+*	*Xitalic
+*	*Xrefrain
+*	*pline:1
+=:|!|:	=:|!|:
+!LO:TX:a:i:t=Voix seule, puis la reprise en chœur.	!
+8e	Der-
+4a	-rièr'
+8b	chez
+=6	=6
+4cc	nous,
+8a	ya-
+4b	t-un
+8cc	é-
 !!LO:PB:g=original
-=7
-(4a
-8g)
-4a
-8a
-=8
-4cc
-8a
-4b
-8cc
-=9
-4a
-!LO:TX:a:i:t=Voix seule.
-=:|!|
-8e
-4a
-8cc
+=7	=7
+(4a	-tang,
+8g)	.
+*	*refrain
+*	*italic
+*	*rline:R2r
+4a	Lèv'
+8a	ton
+=8	=8
+4cc	pied
+8a	lé-
+4b	-gè-
+8cc	-re-
+=9	=9
+4a	-ment.
+!LO:TX:a:i:t=Voix seule.	!
+*	*Xitalic
+*	*Xrefrain
+*	*pline:2
+=:|!	=:|!
+8e	Trois
+4a	beaux
+8cc	ca-
 !!LO:PB:g=original
-=10
-4ee
-8ee
-4dd
-8b
-=11
-4g
-8b
-4dd
-8b
-=12
-4.g
-!LO:TX:a:t=(segno)
-==||
-*
-*
-==|
+=10	=10
+4ee	-nards
+8ee	s'en
+4dd	vont
+8b	bai-
+=11	=11
+4g	-gnant,
+*	*refrain
+*	*italic
+*	*rline:R2r
+8b	Lé-
+4dd	-gè-
+8b	-re-
+=12	=12
+4.g	-ment.
+*	*Xitalic
+*	*Xrefrain
+!LO:TX:a:i:t=D.C. al fine.	!
+==	==
+!!!EED1: Samuel Boone
+!!!EEV1: 2026/05/12
