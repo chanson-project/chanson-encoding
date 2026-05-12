@@ -5,102 +5,105 @@
 !!!PTL@@FR: Chansons Populaires du Canada
 !!!OTL@@FR: V'la l'bon vent
 !!!PUB: G. E. Desbarats
-!!!YEM:
 !!!PDT: 1865
-!!!SMA:
-!!!OMD:
 !!!AGN-Laforte:
 !!!AGN-type:
 !!!AGN-rime:
-**kern
-*clefG2
-*k[]
-*a:
-*M2/4
-*
-*
-=1
-!LO:TX:a:i:t=Chœur.
-8e
-8a
-4a
-=2
-8e
-16a
-16a
-4a
-=3
-8e
-8a
-8a
-(16aL
-16bJ)
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M2/4	*
+*	*v:1
+*>Refrain	*>Refrain
+*	*italic
+*	*rline:R1h1
+=1	=1
+!LO:TX:a:i:t=Chœur.	!
+8e	V'là
+8a	l'bon
+4a	vent,
+=2	=2
+8e	v'là
+16a	l'jo-
+16a	-li
+4a	vent,
+=3	=3
+8e	v'là
+8a	l'bon
+8a	vent,
+(16aL	ma
+16bJ)	.
 !!LO:PB:g=original
-=4
-8cc
-8cc
-8b
-8b
-=5
-8e
-8a
-4a
-=6
-8e
-16a
-16a
-4a
+=4	=4
+8cc	mie
+8cc	m'ap-
+8b	-pel-
+8b	-le,
+*	*rline:R1h2
+=5	=5
+8e	V'là
+8a	l'bon
+4a	vent,
+=6	=6
+8e	v'là
+16a	l'jo-
+16a	-li
+4a	vent,
 !!LO:PB:g=original
-=7
-8e
-8a
-8a
-(16aL
-!LO:TX:a:t=in original)
-!LO:TX:a:t=(no slur here
-16bJ)
-=8
-8cc
-8b
-8a
-=||
-!LO:TX:a:t=FIN.
-!LO:TX:a:t=(8th R, top)
-8e
-=9
-!LO:TX:a:i:t=Voix seule.
-8a
-8cc
-8b
-8a
+=7	=7
+8e	v'là
+8a	l'bon
+8a	vent,
+16aL	ma
+16bJ	.
+=8	=8
+8cc	mie
+8b	m'at-
+8a	-tend.
+*	*Xitalic
+*	*Xrefrain
+*	*pline:1
+==	==
+!LO:TX:a:t=FIN.	!
+*^	*
+8r	8e/	Der-
+*v	*v	*
+=9	=9
+!LO:TX:a:i:t=Voix seule.	!
+8a	-rièr'
+8cc	chez
+8b	nous
+8a	ya-
 !!LO:PB:g=original
-=10
-8g
-8b/
-8a
-8e
-=11
-8a
-8cc
-8b
-8a
-=12
-8g
-8b/
-8a
-8e
+=10	=10
+8g	t-un
+8b/	é-
+8a	-tang,
+*	*pline:1r
+8e	Der-
+=11	=11
+8a	-rièr'
+8cc	chez
+8b	nous
+8a	ya-
+=12	=12
+8g	t-un
+8b/	é-
+8a	-tang,
+*	*pline:2
+8e	Trois
 !!LO:PB:g=original
-=13
-8a
-8cc
-8b/
-8a
-=14
-8a
-8g
-4g
-!LO:TX:b:t=D.C.
-==||
-*
-*
-==|
+=13	=13
+8a	beaux
+8cc	ca-
+8b/	-nards
+8a	s'en
+=14	=14
+8a	vont
+8g	bai-
+4g	-gnant.
+!LO:TX:b:t=D.C.	!
+==	==
+!!!EED1: Samuel Boone
+!!!EEV1: 2026/05/12
