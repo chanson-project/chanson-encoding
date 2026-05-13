@@ -5,92 +5,105 @@
 !!!PTL@@FR: Chansons Populaires du Canada
 !!!OTL@@FR: En roulant ma boule
 !!!PUB: G. E. Desbarats
-!!!YEM:
 !!!PDT: 1865
-!!!SMA:
-!!!OMD:
 !!!AGN-Laforte:
 !!!AGN-type:
 !!!AGN-rime:
-**kern
-*clefG2
-*k[]
-*C:
-*M6/8
-*
-*
-!LO:TX:a:i:t=Voix seule, puis la reprise en chœur.
-8r
-!LO:TX:a:t=(segno)
-=1
-4ee
-8dd
-4cc
-8g
-=2
-8a
-8g
-8a
-4.g
-=3
-4ee
-8dd
-4cc
-8g
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M6/8	*
+*	*v:1
+*>Refrain	*>Refrain
+*	*italic
+*	*rline:R1
+!LO:TX:a:i:t=Voix seule, puis la reprise en chœur.	!
+8r	.
+=1	=1
+4ee	En
+8dd	rou-
+4cc	-lant
+8g	ma
+=2	=2
+8a	bou-
+8g	-le
+8a	rou-
+4.g	-lant,
+*	*rline:R2
+=3	=3
+4ee	En
+8dd	rou-
+4cc	-lant
+8g	ma
 !!LO:PB:g=original
-=4
-(4a
-8b/)
-4cc
-!LO:TX:a:t=FIN.
-=:|!|:
-!LO:TX:a:t=(eighth rest, upper voice)
-8g
-!LO:TX:a:i:t=Voix seule, reprise en chœur.
-=5
-4cc
-8dd
-4cc
-8g
-=6
-4a
-8a
-4.g
+=4	=4
+(4a	bou-
+8b/)	.
+4cc	-le.
+!LO:TX:a:t=FIN.	!
+*	*Xitalic
+*	*Xrefrain
+*	*pline:1
+=:|!|:	=:|!|:
+*^	*
+8r	8g/	Der-
+*v	*v	*
+!LO:TX:a:i:t=Voix seule, reprise en chœur.	!
+=5	=5
+4cc	-rièr'
+8dd	chez
+4cc	nous
+8g	ya-
+=6	=6
+4a	t-un
+8a	é-
+4.g	-tang,
+*	*refrain
+*	*italic
+*	*rline:R1r
 !!LO:PB:g=original
-=7
-4cc
-8dd
-4cc
-8g
-=8
-(4.a
-4g)
-=:|!|
-!LO:TX:a:i:t=Voix seule.
-8g
-=9
-4cc
-8cc
-4dd
-8cc
+=7	=7
+4cc	En
+8dd	rou-
+4cc	-lant
+8g	ma
+=8	=8
+(4.a	bou-
+4g)	-le.
+*	*Xitalic
+*	*Xrefrain
+*	*pline:2
+=:|!	=:|!
+!LO:TX:a:i:t=Voix seule.	!
+8g	Trois
+=9	=9
+4cc	beaux
+8cc	ca-
+4dd	-nards
+8cc	s'en
 !!LO:PB:g=original
-=10
-4ee
-8cc
-4dd
-8cc
-=11
-4ee
-8cc
-4dd
-8cc
-=12
-8ee
-8dd
-8cc
-4.dd
-!LO:TX:a:t=(segno)
-==||
-*
-*
-==|
+=10	=10
+4ee	vont
+8cc	bai-
+4dd	-gnant,
+*	*refrain
+*	*italic
+*	*rline:R3
+8cc	Rou-
+=11	=11
+4ee	-li
+8cc	rou-
+4dd	-lant,
+8cc	ma
+=12	=12
+8ee	bou-
+8dd	-le
+8cc	rou-
+4.dd	-lant.
+*	*Xitalic
+*	*Xrefrain
+==	==
+!!!RNB: Segno changed to repeat signs
+!!!EED1: Samuel Boone
+!!!EEV1: 2026/05/13
