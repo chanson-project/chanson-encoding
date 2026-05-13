@@ -5,88 +5,97 @@
 !!!PTL@@FR: Chansons Populaires du Canada
 !!!OTL@@FR: Par derrièr' chez mon père
 !!!PUB: G. E. Desbarats
-!!!YEM:
 !!!PDT: 1865
-!!!SMA:
-!!!OMD:
 !!!AGN-Laforte: Chanson en laisse (avec refrain et vers à cheval), 9:2(6+6), R:1(7+7)
 !!!AGN-type:
 !!!AGN-rime: monorime, /e/
-**kern
-*clefG2
-*k[b-]
-*F:
-*M2/4
-*
-*
-8cc
-=1
-!LO:TX:a:i:t=Voix seule d'abord, puis la reprise en chœur.
-8.cc
-16b-
-8a
-8cc
-=2
-(8ccL
-8b-J\)
-8a
-8r
-=3
-8.f
-16g
-8a
-8cc
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M2/4	*
+*	*v:1
+*	*pline:1
+8cc	Par
+=1	=1
+!LO:TX:a:i:t=Voix seule d'abord, puis la reprise en chœur.	!
+8.cc	der-
+16b-	-rièr
+8a	chez
+8cc	mon
+=2	=2
+(8ccL	pè-
+8b-J\)	.
+8a	-re,
+8r	.
+*	*refrain
+*	*italic
+*	*rline:R1
+=3	=3
+8.f	Vo-
+16g	-le,
+8a	mon
+8cc	cœur,
 !!LO:PB:g=original
-=4
-4cc
-*cue
-(16b-L
-16aJ\)
-*Xcue
-8g\
-8cc
-=5
-8.cc
-16b-
-8a\
-8cc
-=6
-(8ccL
-8b-J\)
-8a
-8f
-=7
-8g
-8b-/
-8a
-8g
+=4	=4
+4cc	vo-
+*cue	*
+(16b-L	.
+16aJ\)	.
+*Xcue	*
+8g\	-le,
+*	*Xitalic
+*	*Xrefrain
+*	*pline:1r
+8cc	Par
+=5	=5
+8.cc	der-
+16b-	-rièr'
+8a\	chez
+8cc	mon
+=6	=6
+(8ccL	pè-
+8b-J\)	.
+8a	-re,
+*	*pline:2
+8f	Lui
+=7	=7
+8g	ya-
+8b-/	t-un
+8a	pom-
+8g	-mier
 !!LO:PB:g=original
-=8
-4f
-8r
-=:|!|:
-!LO:TX:a:t=FIN.
-!LO:TX:a:t=[eighth rest, upper voice]
-8c
-=9
-!LO:TX:a:i:t=Voix seule, puis la reprise en chœur.
-8f
-8a
-8cc
-8cc
-=10
-8cc
-8dd
-8cc
-8b-
+=8	=8
+4f	doux.
+8r	.
+!LO:TX:a:t=FIN.	!
+*	*pline:2r
+=:|!|:	=:|!|:
+*^	*
+8r	8c/	Lui
+*v	*v	*
+=9	=9
+!LO:TX:a:i:t=Voix seule, puis la reprise en chœur.	!
+8f	ya-
+8a	t-un
+8cc	pom-
+8cc	-mier
+=10	=10
+8cc	doux,
+8dd	doux,
+8cc	doux,
+*	*pline:2r
+8b-	Lui
 !!LO:PB:g=original
-=11
-8a
-8b-/
-4cc
-=12
-4dd
-8cc
-*
-*
-==:|!
+=11	=11
+8a	ya-
+8b-/	t-un
+4cc	pom-
+=12	=12
+4dd	-mier
+8cc	doux.
+!LO:TX:b:t=D.C.	!
+==:|!	==:|!
+*-	*-
+!!!EED1: Samuel Boone
+!!!EEV1: 2026/05/13
