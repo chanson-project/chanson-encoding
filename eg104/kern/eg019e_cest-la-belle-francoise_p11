@@ -1,76 +1,74 @@
-!!!id: EG019d
+!!!id: EG019e
 !!!page: 11
 !!!COM: Anonymous
 !!!LYR: Anonymous
 !!!PTL@@FR: Chansons Populaires du Canada
 !!!OTL@@FR: C'est la belle Françoise (autre air)
 !!!PUB: G. E. Desbarats
-!!!YEM:
 !!!PDT: 1865
-!!!SMA:
-!!!OMD:
 !!!AGN-Laforte:
 !!!AGN-type:
 !!!AGN-rime:
-**kern
-*clefG2
-*k[]
-*C:
-*M6/8
-*
-*
-8cc
-=1
-4cc
-8b
-4a
-8cc
-=2
-8.dd
-16dd
-8dd
-4cc
-8cc
-=3
-4ee
-8cc
-4a
-8cc
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M6/8	*
+*	*v:1
+*	*pline:1
+8cc	C'est
+=1	=1
+4cc	la
+8b	bel-
+4a	-le
+8cc	Fran-
+=2	=2
+8.dd	-çoi-
+16dd	-se,
+8dd	lon
+4cc	gai,
+*	*pline:1r
+8cc	C'est
+=3	=3
+4ee	la
+8cc	bel-
+4a	-le
+8cc	Fran-
 !!LO:PB:g=original
-=4
-4.dd
-4cc
-8cc
-=5
-4.ee
-8cc
-8dd
-8ee
-=6
-4.cc
-4a
-8cc
-=7
-4.dd
-4cc
-8cc
+=4	=4
+4.dd	-çoi-
+4cc	-se
+*	*pline:2
+8cc	Qui
+=5	=5
+4.ee	veut
+8cc	se
+8dd	ma-
+8ee	-ri-
+=6	=6
+4.cc	-er,
+4a	ma
+8cc	don-
+=7	=7
+4.dd	-dai-
+4cc	-ne,
+*	*pline:2r
+8cc	Qui
 !!LO:PB:g=original
-=8
-4.ee
-8cc
-8dd
-8ee
-=9
-4.cc
-4a
-8b
-=10
-4cc
-8r
-8r
-==||
-*
-*
-==|
-!!!RNB: Final eighth rest flipped backward in original
-*-
+=8	=8
+4.ee	veut
+8cc	se
+8dd	ma-
+8ee	-ri-
+=9	=9
+4.cc	-er,
+4a	me
+8b	don-
+=10	=10
+4cc	-dé.
+8r	.
+4r	.
+==	==
+*-	*-
+!!!EED1: Samuel Boone
+!!!EEV1: 2026/05/13
