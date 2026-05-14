@@ -3,7 +3,7 @@
 !!!COM: Lavallée, Calixa
 !!!LYR: Routhier, juge A.-B.
 !!!PTL@@FR: Les 100 plus belles chansons
-!!!OTL@@FR:O Canada, Terre de nos aïeux
+!!!OTL@@FR:Ô Canada, Terre de nos aïeux
 !!!PUB:La Bonne Chanson, inc.
 !!!YEM: On ne peut reproduire, enregistrer ou diffuser en tout ou en partie le présent ouvrage, sous quelque procédé que ce soit, électronique, mécanique, photographique, sonore, magnétique ou autre, sans avoir obtenu au préalable l'autorisation écrite de l'éditrice.
 !!!PDT: 2011
@@ -19,7 +19,7 @@
 *M4/4	*	*	*	*
 *	*v:1	*v:2	*v:3	*v:4
 *	*pline:1	*pline:9	*pline:17	*pline:25
-{{2a	O	Sous	De	A-
+{{2a	Ô	Sous	De	A-
 4.cc	Ca-	l'oeil	son	-mour
 8cc	-na-	de	pa-	sa-
 =2	=2	=2	=2	=2
@@ -128,7 +128,8 @@
 2f	-leur,	-dé	-fort	-tons
 2r}	.	.	.	.
 =19	=19	=19	=19	=19
-{2b-	De	par	de	com-
+!	!capitalized in original	!	!	!
+{2b-	de	par	de	com-
 4.dd	foi	sa	son	-me
 8dd	trem-	lu-	gé-	nos
 =20	=20	=20	=20	=20
@@ -181,4 +182,4 @@
 ==	==	==	==	==
 *-	*-	*-	*-	*-
 !!!EED: Ève Poudrier
-!!!EEV: 2025/05/05
+!!!EEV: 2026/05/14
