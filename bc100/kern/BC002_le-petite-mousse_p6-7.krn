@@ -36,7 +36,7 @@
 4.c	-vet-	mè-	mè-	mous-
 4c	-te,	-re	-re,	-se,
 *	*rp:ɛ	*rp:ɛː	*rp:ɛː	*rp:u
-*	*rf:et,ə	*rf:ɛːʁ,ə	*rf:ɛːʁ,ə	*rf:us,ə
+*	*rf:ɛt,ə	*rf:ɛːʁ,ə	*rf:ɛːʁ,ə	*rf:us,ə
 *	*rs:a	*rs:e	*rs:e	*rs:h
 *	*pline:2	*pline:8	*pline:14	*pline:20
 8f	Un	Me	Quand	Sur
@@ -69,7 +69,7 @@
 =6	=6	=6	=6	=6
 4.c	-è-	-miè-	-sè-	dou-
 4c	-te,	-re	-re	-ce
-*	*rp:ɛ	*rp:ɛː	*rp:ɛː	*rp:u
+*	*rp:ɛː	*rp:ɛː	*rp:ɛː	*rp:u
 *	*rf:ɛːt,ə	*rf:ɛːʁ,ə	*rf:ɛːʁ,ə	*rf:us,ə
 *	*rs:a'	*rs:e	*rs:e	*rs:h
 *	*pline:4	*pline:10	*pline:16	*pline:22
@@ -125,7 +125,7 @@
 *>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain
 *	*refrain	*	*	*
 *	*italic	*	*	*
-*	*rline:R1h	*	*	*
+*	*rline:R1	*	*	*
 !!LO:TX:a:B:t=Refrain
 ==13	==13	=13	==13	==13
 *^	*	*	*	*
@@ -204,5 +204,5 @@
 ==	==	==	==	==
 *-	*-	*-	*-	*-
 !!!EED: Ève Poudrier
-!!!EEV: 2026/04/16
-!!Editorial Note: Nouvelle avec paroles plus conformes aux exigences du rythme, arrangées par La Bonne Chanson. La reproduction de ce texte est donc interdite.
+!!!EEV: 2026/05/14
+!!RBB-original: Nouvelle avec paroles plus conformes aux exigences du rythme, arrangées par La Bonne Chanson. La reproduction de ce texte est donc interdite.
