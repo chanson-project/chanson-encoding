@@ -1,0 +1,101 @@
+!!!id: EG101
+!!!page: 4-7
+!!!COM: Anonymous
+!!!LYR: Anonymous
+!!!PTL@@FR: Chansons Populaires du Canada
+!!!OTL@@FR: Vive la Canadienne
+!!!PUB: G. E. Desbarats
+!!!PDT: 1865
+!!!AGN-Laforte: Chanson en laisse (avec refrain et vers à cheval), 9:2(6+6), R:1(7+7)
+!!!AGN-type:
+!!!AGN-rime: monorime, /e/
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M2/4	*
+*	*v:1
+*	*pline:1
+8cc	Vi-
+=1	=1
+!LO:TX:a:i:t=Voix seule d'abord, puis la reprise en chœur.	!
+8.cc	-ve
+16b-	la
+8a	Ca-
+8cc	-na-
+=2	=2
+(8ccL	-dien-
+8b-J\)	.
+8a	-ne,
+8r	.
+*	*refrain
+*	*italic
+*	*rline:R1
+=3	=3
+8.f	Vo-
+16g	-le,
+8a	mon
+8cc	cœur,
+!!LO:PB:g=original
+=4	=4
+4cc	vo-
+*cue	*
+(16b-L	.
+16aJ\)	.
+*Xcue	*
+8g\	-le,
+*	*Xitalic
+*	*Xrefrain
+*	*pline:1r
+8cc	Vi-
+=5	=5
+8.cc	-ve
+16b-	la
+8a\	Ca-
+8cc	-na-
+=6	=6
+(8ccL	-dien-
+8b-J\)	.
+8a	-ne,
+*	*pline:2
+8f	Et
+=7	=7
+8g	ses
+8b-/	jo-
+8a	-lis
+8g	yeux
+!!LO:PB:g=original
+=8	=8
+4f	doux.
+8r	.
+!LO:TX:a:t=FIN.	!
+*	*pline:2r
+=:|!|:	=:|!|:
+*^	*
+8r	8c/	Et
+*v	*v	*
+=9	=9
+!LO:TX:a:i:t=Voix seule, puis la reprise en chœur.	!
+8f	ses
+8a	jo-
+8cc	-lis
+8cc	yeux
+=10	=10
+8cc	doux,
+8dd	doux,
+8cc	doux,
+*	*pline:2r
+8b-	Et
+!!LO:PB:g=original
+=11	=11
+8a	ses
+8b-/	jo-
+4cc	-lis
+=12	=12
+4dd	yeux
+8cc	doux.
+!LO:TX:b:t=D.C.	!
+==:|!	==:|!
+*-	*-
+!!!EED1: Samuel Boone
+!!!EEV1: 2026/05/13
