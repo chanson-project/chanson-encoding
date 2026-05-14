@@ -35,6 +35,9 @@
 =2	=2	=2	=2	=2
 4.c	-vet-	mè-	mè-	mous-
 4c	-te,	-re	-re,	-se,
+*	*rp:ɛ	*rp:ɛː	*rp:ɛː	*rp:u
+*	*rf:et,ə	*rf:ɛːʁ,ə	*rf:ɛːʁ,ə	*rf:us,ə
+*	*rs:a	*rs:e	*rs:e	*rs:h
 *	*pline:2	*pline:8	*pline:14	*pline:20
 8f	Un	Me	Quand	Sur
 4f	pe-	dit:	je	le
@@ -48,6 +51,9 @@
 8g	chan-	-tres	de	des
 =4	=4	=4	=4	=4
 [4.f	-tait;	cieux;	toi.	flots;
+*	*rp:ɛ	*rp:ø	*rp:a	*rp:o
+*	*rf:tɛ	*rf:jø	*rf:twa	*rf:lo
+*	*rs:b	*rs:f	*rs:g	*rs:i
 4f]	.	.	.	.
 *	*pline:3	*pline:9	*pline:15	*pline:21
 8c	Il	Ton	Pour-	Et
@@ -63,6 +69,9 @@
 =6	=6	=6	=6	=6
 4.c	-è-	-miè-	-sè-	dou-
 4c	-te,	-re	-re	-ce
+*	*rp:ɛ	*rp:ɛː	*rp:ɛː	*rp:u
+*	*rf:ɛːt,ə	*rf:ɛːʁ,ə	*rf:ɛːʁ,ə	*rf:us,ə
+*	*rs:a'	*rs:e	*rs:e	*rs:h
 *	*pline:4	*pline:10	*pline:16	*pline:22
 8f	Ces	Se-	M'ait	Sem-
 4f	mots	-ront	é-	-blait
@@ -75,6 +84,9 @@
 8g	por-	tes	-tre	san-
 =8	=8	=8	=8	=8
 [4.f	-tait:	yeux.	toit?	-glot.
+*	*rp:ɛ	*rp:ø	*rp:a	*rp:o
+*	*rf:tɛ	*rf:jø	*rf:twa	*rf:lo
+*	*rs:b	*rs:f	*rs:g	*rs:i
 4f]	.	.	.	.
 *	*pline:5	*pline:11	*pline:17	*pline:23
 8a	Qui	Quand	Bien-	Sou-
@@ -90,6 +102,9 @@
 =10	=10	=10	=10	=10
 4.e	-ri-	-vi-	va	-li-
 4d	-re,	-re,	luir[e],	-re:
+*	*rp:i	*rp:i	*rp:i	*rp:i
+*	*rf:iʁ,ə	*rf:iʁ,ə	*rf:iʁ,ə	*rf:iʁ,ə
+*	*rs:c	*rs:c	*rs:c	*rs:c
 *	*pline:6	*pline:12	*pline:18	*pline:24
 8g	Heu-	Tu	Où	"Voi-
 4g	-reu-	m'é-	ton	-ci
@@ -103,11 +118,14 @@
 !!LO:PB:g=original
 =12	=12	=12	=12	=12
 [4.c	bras?"	gars!"	-dra.	gars!"
+*	*rp:a	*rp:a	*rp:a	*rp:a
+*	*rf:a	*rf:a	*rf:a	*rf:a
+*	*rs:d	*rs:d	*rs:d	*rs:d
 4c]	.	.	.	.
 *>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain
 *	*refrain	*	*	*
 *	*italic	*	*	*
-*	*pline:R1	*	*	*
+*	*rline:R1h	*	*	*
 !!LO:TX:a:B:t=Refrain
 ==13	==13	=13	==13	==13
 *^	*	*	*	*
@@ -125,7 +143,10 @@
 =15	=15	=15	=15	=15	=15
 4.dd	4.b-	-vi-	.	.	.
 4dd	4b-	-re,	.	.	.
-*	*	*pline:R2	*	*	*
+*	*	*rp:i	*	*	*
+*	*	*rf:iʁ,ə	*	*	*
+*	*	*rs:c	*	*	*
+*	*	*rline:R2	*	*	*
 8dd	8b-	Car	.	.	.
 4dd	4b-	le	.	.	.
 8dd	8b-	bon-	.	.	.
@@ -138,8 +159,11 @@
 8cc	8a	là--	.	.	.
 =17	=17	=17	=17	=17	=17
 [4a.	[4f.	bas;	.	.	.
+*	*	*rp:a	*	*	*
+*	*	*rf:a	*	*	*
+*	*	*rs:d	*	*	*
 4a]	4f]	.	.	.	.
-*	*	*pline:R1r	*	*	*
+*	*	*rline:R1r	*	*	*
 8a	8f	Fi-	.	.	.
 4a	4f	-lez,	.	.	.
 *	*	*bis	*	*	*
@@ -155,7 +179,10 @@
 =19	=19	=19	=19	=19	=19
 4dd.	4b-.	-vi-	.	.	.
 4dd	4b-	-re,	.	.	.
-*	*	*pline:R2r	*	*	*
+*	*	*rp:i	*	*	*
+*	*	*rf:iʁ,ə	*	*	*
+*	*	*rs:c	*	*	*
+*	*	*rline:R2r	*	*	*
 8dd	8b-	Car	.	.	.
 4ff	4dd	le	.	.	.
 8dd	8b-	bon-	.	.	.
@@ -167,6 +194,9 @@
 8g	8B-	là--	.	.	.
 =21	=21	=21	=21	=21	=21
 [4f.	[4A.	bas!	.	.	.
+*	*	*rp:a	*	*	*
+*	*	*rf:a	*	*	*
+*	*	*rs:d	*	*	*
 4f]	4A]	.	.	.	.
 *v	*v	*	*	*	*
 *	*Xitalic	*	*	*
