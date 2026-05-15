@@ -1,0 +1,98 @@
+!!!id: EG024
+!!!page: 275-278
+!!!COM: Anonymous
+!!!LYR: Anonymous
+!!!PTL@@FR: Chansons Populaires du Canada
+!!!OTL@@FR: C'est pinson avec cendrouille
+!!!PUB: G. E. Desbarats
+!!!PDT: 1865
+!!!AGN-Laforte:
+!!!AGN-type:
+!!!AGN-rime:
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M2/4	*
+*	*v:1
+*	*pline:1h1
+8b/	C'est
+8b/	Pin-
+=1	=1
+8dd	-son
+8b	a-
+8b/	-vec
+8a	Cen-
+=2	=2
+8b/	-drouil-
+8b/	-le
+*	*pline:1h2
+8b/	Qui
+8b/	vou-
+!!LO:PB:g=original
+=3	=3
+8dd	-drait
+8b	se
+8b/	ma-
+8a	-ri-
+=4	=4
+4b/	-er;
+*	*pline:2h1
+8e	Ils
+8e	vou-
+=5	=5
+8g	-draient
+8g	fai-
+8g	-re
+8b/	des
+!!LO:PB:g=original
+=6	=6
+8b/	no-
+8a	-ces
+*	*pline:2h2
+8b/	Mais
+8g	n'ont
+=7	=7
+8g	pas
+8g	de
+8g	quoi
+8a	man-
+=8	=8
+8gL	-ger.
+8fJ	.
+*>Refrain	*>Refrain
+*	*italic
+*	*rline:R1h1
+8e	Gai
+8g	lon
+!!LO:PB:g=original
+=9	=9
+4b/	la,
+*	*rline:R1h2
+16b/	Ti-
+16a	-re
+16b/	la
+16cc/	li-
+=10	=10
+8b/	-ret-
+8g	-re,
+*	*rline:R2h1
+8a	Des
+8a	trom-
+=11	=11
+8b/	-pett's,
+*	*rline:R2h2
+8g	Il
+8.g	yen
+16f	au-
+!!LO:PB:g=original
+=12	=12
+4g	-ra.
+*	*Xitalic
+*	*Xrefrain
+==	==
+*-	*-
+!!!RNB: Rhyme scheme hemistiche labelling in second half of refrain might need another look (overall refrain structure is ABBA, don't know if that needs to be represented in rline labelling)
+!!!RNB: Final partial measure omitted as per rest policy
+!!!EED1: Samuel Boone
+!!!EEV1: 2026/05/14
