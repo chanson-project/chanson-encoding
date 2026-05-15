@@ -1,0 +1,85 @@
+!!!id: EG026
+!!!page: 282-286
+!!!COM: Anonymous
+!!!LYR: Anonymous
+!!!PTL@@FR: Chansons Populaires du Canada
+!!!OTL@@FR: Chez mon père ya trois filles
+!!!PUB: G. E. Desbarats
+!!!PDT: 1865
+!!!AGN-Laforte:
+!!!AGN-type:
+!!!AGN-rime:
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M4/4	*
+*	*v:1
+*	*pline:1h1
+8a	Chez
+=1	=1
+4.cc	mon
+8cc	pèr'
+4cc	ya
+4cc	trois
+=2	=2
+2b	fil-
+4b	-les,
+*	*refrain
+*	*italic
+*	*rline:R1
+8cc	Les
+8b	voi-
+!!LO:PB:g=original
+=3	=3
+4a	-ci,
+8a	les
+8a	voi-
+4a	là,
+*	*rline:R2
+8b	Tra
+8cc	la
+=4	=4
+4dd	la
+8g	tra
+8g	la
+4g;	la,
+*	*Xitalic
+*	*Xrefrain
+*	*pline:1h1r
+8ccL	Chez
+8ddJ	.
+=5	=5
+4.ee	mon
+8ee	pèr'
+4ee	ya
+4ee	trois
+!!LO:PB:g=original
+=6	=6
+8eeq	.
+2dd	fil-
+4dd	-les,
+*	*pline:1h2
+8eeL	Tout's
+8ddJ	.
+=7	=7
+4.cc	trois
+8cc	à
+4.cc	ma-
+8b	-ri-
+=8	=8
+4a	-er,
+*	*pline:1h2r
+4cc	Tout's
+4g	trois
+4a	à
+=9	=9
+4.e	ma-
+8e	-ri-
+[4a	-er.
+8a]	.
+==	==
+*-	*-
+!!!RNB: Assumed, given the structure of each stanza & syllable count, that "Chez mon père ya trois filles" follows just the "Andante" section of "Perrette" (eg084), and that the "Presto" section's music for that song does not feature for this one (despite them being grouped together in original manuscript))
+!!!EED1: Samuel Boone
+!!!EEV1: 2026/05/14
