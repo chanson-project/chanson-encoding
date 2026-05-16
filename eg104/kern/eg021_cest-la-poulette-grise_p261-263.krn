@@ -1,0 +1,105 @@
+!!!id: EG021
+!!!page: 261-263
+!!!COM: Anonymous
+!!!LYR: Anonymous
+!!!PTL@@FR: Chansons Populaires du Canada
+!!!OTL@@FR: C'est la poulette grise
+!!!PUB: G. E. Desbarats
+!!!PDT: 1865
+!!!AGN-Laforte:
+!!!AGN-type:
+!!!AGN-rime:
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M2/4	*
+*	*v:1
+*	*pline:1
+8g	C'est
+=1	=1
+8g	la
+8cc	pou-
+8cc	-let-
+8cc	-te
+=2	=2
+4ee	gri-
+8dd	-se
+8r	.
+*	*pline:2
+=3	=3
+8g	Qui
+8cc	pond
+8cc	dans
+8cc	l'é-
+!!LO:PB:g=original
+=4	=4
+4ee	-gli-
+8dd	-se,
+8r	.
+*>Refrain	*>Refrain
+*	*italic
+*	*rline:R1
+=5	=5
+8dd	Ell'
+8dd	va
+4dd	pondr[e]
+=6	=6
+16ee	un
+16dd	beau
+16cc	p'tit
+16cc	co-
+8dd	-co
+8r	.
+*	*rline:R2
+!!LO:PB:g=original
+=7	=7
+8a	Pour
+8dd	son
+8dd	p'tit
+16cc	qui
+16dd	va
+=8	=8
+8ee	fair'
+8dd	do-
+8cc	-di-
+8g	-che,
+*	*rline:R1r
+=9	=9
+8dd	Ell'
+8dd	va
+4dd	pondr[e]
+!!LO:PB:g=original
+=10	=10
+16ee	un
+16dd	beau
+16cc	p'tit
+16cc	co-
+4dd	-co
+*	*rline:R2r
+=11	=11
+8a	Pour
+8dd	son
+8dd	p'tit
+16cc	qui
+16dd	va
+=12	=12
+8ee	fair
+8dd	do-
+8cc	-do.
+8r	.
+!!LO:PB:g=original
+=13	=13
+4ee	Do-
+8dd	-di-
+8cc	-che,
+=14	=14
+4dd	do-
+8cc	-do.
+*	*Xitalic
+*	*Xrefrain
+==	==
+*-	*-
+!!!RNB: Final rednundant partial measure removed as per policy
+!!!EED1: Samuel Boone
+!!!EEV1: 2026/05/16
