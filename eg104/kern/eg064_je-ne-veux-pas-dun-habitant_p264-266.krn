@@ -1,0 +1,121 @@
+!!!id: EG064
+!!!page: 264-266
+!!!COM: Anonymous
+!!!LYR: Anonymous
+!!!PTL@@FR: Chansons Populaires du Canada
+!!!OTL@@FR: Je ne veux pas d'un habitant
+!!!PUB: G. E. Desbarats
+!!!PDT: 1865
+!!!AGN-Laforte:
+!!!AGN-type:
+!!!AGN-rime:
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M6/8	*
+*	*v:1
+*	*pline:1
+8a	Je
+8a	vou-
+8a	-drais
+=1	=1
+4a	bien
+8b/	me
+4cc	ma-
+8cc	-ri-
+=2	=2
+4.b	-er,
+*	*pline:1r
+8cc	Je
+8b	vou-
+8b	-drais
+!!LO:PB:g=original
+=3	=3
+4a	bien
+8a	me
+4b/	ma-
+8g#	-ri-
+=4	=4
+4a	-er,
+8r	.
+*	*pline:2
+8a	Mais
+8a	j'ai
+8a	grand'
+=5	=5
+4a	peur
+8b/	de
+4cc	me
+8cc	trom-
+!!LO:PB:g=original
+=6	=6
+4.b/	-per,
+*	*pline:2r
+8cc	Mais
+8b	j'ai
+8b	grand'
+=7	=7
+4a	peur
+8a	de
+4b/	me
+8g#	trom-
+=8	=8
+[4.a	-per:
+8a]	.
+8r	.
+*	*pline:3
+8a	Ils
+!!LO:PB:g=original
+=9	=9
+4a	sont
+8cc	si
+4ee	mal-
+8cc	-hon-
+=10	=10
+4.ee	-nê-
+4.dd	-tes!
+*	*refrain
+*	*italic
+*	*rline:R1
+=11	=11
+8b	Ma
+8cc	lu-
+8dd	-ron,
+4cc	ma
+8a	lu-
+=12	=12
+4.cc	-ret-
+4b/	-te,
+*	*Xitalic
+*	*Xrefrain
+*	*pline:3r
+8a	Ils
+!!LO:PB:g=original
+=13	=13
+4a	sont
+8cc	si
+4ee	mal-
+8cc	-hon-
+=14	=14
+4.ee	-nê-
+4.dd	-tes!
+*	*refrain
+*	*italic
+*	*rline:R1r
+=15	=15
+8b	Ma
+8cc	lu-
+8dd	-ron,
+4cc	ma
+8b	lu-
+=16	=16
+[4.a	-ré.
+8a]	.
+4r	.
+*	*Xitalic
+*	*Xrefrain
+==	==
+*-	*-
+!!!EED1: Samuel Boone
+!!!EEV1: 2026/05/16
