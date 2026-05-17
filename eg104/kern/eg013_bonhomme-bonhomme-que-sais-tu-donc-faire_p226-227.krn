@@ -1,0 +1,112 @@
+!!!id: EG013
+!!!page: 226-227
+!!!COM: Anonymous
+!!!LYR: Anonymous
+!!!PTL@@FR: Chansons Populaires du Canada
+!!!OTL@@FR: Bonhomme, bonhomme, que sait-tu donc faire?
+!!!PUB: G. E. Desbarats
+!!!PDT: 1865
+!!!AGN-Laforte:
+!!!AGN-type:
+!!!AGN-rime:
+**kern	**text
+*clefG2	*
+*k[b-,e-]	*
+*Gm:	*
+*M2/4	*
+*	*v:1
+*	*pline:1h1
+=1	=1
+8g	Bon-
+8a	-hom-
+8b-	-me,
+8cc	bon-
+=2	=2
+4dd	-hom-
+8dd	-me,
+8r	.
+*	*pline:1h2
+=3	=3
+8ee-	Que
+8dd	sais-
+8cc	tu
+8dd	donc
+!!LO:PB:g=original
+=4	=4
+(8.b-L	fai-
+16aJ	.
+8g)	-re?
+8r	.
+*	*pline:2h1
+=5	=5
+8g	Sais-
+8a	tu
+8b-	bien
+8cc	jou-
+=6	=6
+[4dd	-er
+8dd]	.
+8r	.
+*	*pline:2h2
+=7	=7
+8ee-	Du
+8dd	ge-
+8cc	-noux
+8dd	par
+!!LO:PB:g=original
+=8	=8
+(8.b-L	ter-
+16aJ	.
+8g)	-re?
+8r	.
+*>Refrain	*>Refrain
+*	*italic
+*	*rline:R1
+=9	=9
+8g	Ter-
+8g	-re,
+8g	ter-
+8g	-re,
+=10	=10
+(8.fL	ter-
+16e-J	.
+8d)	-re,
+8r	.
+*	*rline:R2
+=11	=11
+8g	Du
+8g	ge-
+8g	-noux
+8g	par
+!!LO:PB:g=original
+=12	=12
+(8.fL	ter-
+16e-J	.
+8d)	-re,
+8r	.
+*	*rline:R3
+=13	=13
+4b-	Ah!
+4cc	ah!
+=14	=14
+[4dd	ah!
+8dd]	.
+8r	.
+*	*rline:R2r
+=15	=15
+8.cc	Du
+16cc	ge-
+8cc	-noux
+8dd	par
+!!LO:PB:g=original
+=16	=16
+(8.b-L	ter-
+16aJ	.
+8g)	-re!
+8r	.
+*	*Xitalic
+*	*Xrefrain
+==	==
+*-	*-
+!!!EED1: Samuel Boone
+!!!EEV1: 2026/05/17
