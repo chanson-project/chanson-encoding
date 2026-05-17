@@ -1,0 +1,112 @@
+!!!id: EG060c
+!!!page: 236
+!!!COM: Anonymous
+!!!LYR: Anonymous
+!!!PTL@@FR: Chansons Populaires du Canada
+!!!OTL@@FR: Jamais je nourrirai de geai
+!!!PUB: G. E. Desbarats
+!!!PDT: 1865
+!!!AGN-Laforte:
+!!!AGN-type:
+!!!AGN-rime:
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+*	*v:1
+*	*pline:1h1
+=1	=1
+8g	J'ai
+8g	bien
+8g	nour-
+=2	=2
+4g	-ri
+8b/	le
+=3	=3
+4dd	geai
+8b/	sept
+=4	=4
+4a	ans
+*	*pline:1h2
+8a	De-
+=5	=5
+4a	-dans
+8g	ma
+!!LO:PB:g=original
+=6	=6
+4f#	ca-
+8a	-ge
+=7	=7
+(4cc	ron-
+8b)	.
+=8	=8
+4a	-de;
+8r	.
+*	*pline:2h1
+=9	=9
+8g	Au
+8g	bout
+8g	de
+=10	=10
+4g	la
+8b/	sep-
+=11	=11
+4dd	-tièm[e]
+8b/	an-
+=12	=12
+4a	-né'
+*	*pline:2h2
+8a	Mon
+!!LO:PB:g=original
+=13	=13
+4a	geai
+8g	a
+=14	=14
+4f#	pris
+8a	son
+=15	=15
+4cc	vol,
+*	*refrian
+*	*italic
+8b	oh!
+=16	=16
+4g	gai.
+8r	.
+*	*Xitalic
+*	*Xrefrain
+*>Refrain	*>Refrain
+*	*italic
+*	*rline:R1
+=17	=17
+8g	Ja-
+8g	-mais
+8g	je
+=18	=18
+4g	nour-
+8b/	-ri-
+!!LO:PB:g=original
+=19	=19
+4dd	-rai
+8b/	de
+=20	=20
+4a	geai,
+8r	.
+*	*rline:R2
+=21	=21
+8a	De
+8a	geai
+8g	ja-
+=22	=22
+4f#	-mais
+8a	je
+=23	=23
+4cc	nour-
+8b/	-ri-
+=24	=24
+4g	-rai.
+8r	.
+==	==
+*-	*-
+!!!EED1: Samuel Boone
+!!!EEV1: 2026/05/17
