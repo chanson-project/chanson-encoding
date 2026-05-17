@@ -1,0 +1,81 @@
+!!!id: EG065
+!!!page: 222-223
+!!!COM: Anonymous
+!!!LYR: Anonymous
+!!!PTL@@FR: Chansons Populaires du Canada
+!!!OTL@@FR: J'entends le moulin tique, tique, taque
+!!!PUB: G. E. Desbarats
+!!!PDT: 1865
+!!!AGN-Laforte:
+!!!AGN-type:
+!!!AGN-rime:
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M2/4	*
+*	*v:1
+*	*pline:1
+=1	=1
+8cc	J'en-
+16b	-tends
+16cc	le
+8a	mou-
+8a	-lin,
+=2	=2
+16e	ti-
+16e	-que,
+16e	ti-
+16e	-que,
+8a	ta-
+8a	-que,
+*	*pline:2
+!!LO:PB:g=original
+=3	=3
+8cc	J'en-
+16b	-tends
+16cc	le
+8a	mou-
+8a	-lin
+=4	=4
+4e	ta-
+8a	-que.
+8r	.
+*>Refrain	*>Refrain
+*	*italic
+*	*rline:R1
+!LO:TX:a:t=FIN.	!
+==5	==5
+16a	Ti-
+16b	-que,
+16cc	ti-
+16dd	-que,
+8ee	ta-
+8ee	-que,
+*	*rline:R1r
+!!LO:PB:g=original
+=6	=6
+16dd	Ti-
+16ee	-que,
+16dd	ti-
+16cc	-que,
+8b	ta-
+8b	-que,
+*	*rline:R1r
+=7	=7
+16a	Ti-
+16b/	-que,
+16cc	ti-
+16dd	-que,
+8ee	ta-
+8ee	-que,
+=8	=8
+8.dd	ta-
+16cc	-que-
+4b/	-té.
+!LO:TX:b:t=D.C.	!
+==	==
+*-	*-
+!!!RNB: Not sure if lyrics of "Mon père à fait bâtir maison" should be added, for now just encoded the first & only given first
+!!!EED1: Samuel Boone
+!!!EEV1: 2026/05/17
