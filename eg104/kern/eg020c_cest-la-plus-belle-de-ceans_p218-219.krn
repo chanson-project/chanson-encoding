@@ -1,0 +1,128 @@
+!!!id: EG020c
+!!!page: 218-219
+!!!COM: Anonymous
+!!!LYR: Anonymous
+!!!PTL@@FR: Chansons Populaires du Canada
+!!!OTL@@FR: C'est la plus belle de céans
+!!!PUB: G. E. Desbarats
+!!!PDT: 1865
+!!!AGN-Laforte:
+!!!AGN-type:
+!!!AGN-rime:
+**kern	**text
+*clefG2	*
+*k[b-,e-]	*
+*Gm:	*
+*M6/8	*
+*	*v:1
+*	*pline:1
+8g	C'est
+8g	la
+8g	plus
+=1	=1
+4.b-	bel-
+8cc	-le
+8b-	de
+8cc	cé-
+=2	=2
+4.dd	-ans,
+*	*pline:1r
+8cc	C'est
+8dd	la
+8ee-	plus
+!!LO:PB:g=original
+=3	=3
+8ee-q	.
+4dd	bel-
+8cc	-le
+8ccqq	.
+4b-	de
+8a	sé-
+=4	=4
+8aqq	.
+4g	-ans,
+8r	.
+*	*pline:2
+4g	Par
+8g	la
+=5	=5
+4.b-	main
+8cc	je
+4b-	vous
+8cc	la
+!!LO:PB:g=original
+=6	=6
+4.dd	prends,
+*	*pline:2r
+4ee-	Par
+8ee-	la
+=7	=7
+8ee-q	.
+4dd	main
+8cc	je
+8ccq	.
+4b-	vous
+8a	la
+=8	=8
+8aqq	.
+4g	prends.
+8r	.
+*	*pline:3
+!!LO:PB:g=original
+==	==
+4dd	Ell'
+8dd	va
+=9	=9
+4b-	pas-
+8cc	-ser
+4dd	par
+8dd	der-
+=10	=10
+4b-/	-riè-
+8g	-re,
+*	*pline:4
+8dd	Ra-
+8dd	-ma-
+8dd	-nez
+!!LO:PB:g=original
+=11	=11
+4b-	vos
+8cc	mou-
+4dd	-tons
+8cc	ber-
+=12	=12
+4b-/	-gè-
+8g	-re;
+*	*pline:5
+8g	Ra-
+8a	-me-
+8b-/	-nez,
+=13	=13
+8g	ra-
+8g	-me-
+8g	-nez,
+8d	ra-
+8d	-me-
+8d	-nez,
+!!LO:PB:g=original
+=14	=14
+4g	bel-
+8g	-le,
+*	*pline:6
+8g	Ra-
+8a	-me-
+8b-/	-nez
+=15	=15
+4g	vos
+8g	mou-
+4d	-tons
+8d	des
+=16	=16
+4g	champs.
+8r	.
+==	==
+*-	*-
+!!!RNB: Potential typo in m.10 of this variation in original ("der-rièr'-re" should just be "der-riè-re", and encoded as such)
+!!!RNB: Final empty partial measure omitted as per policy
+!!!EED1: Samuel Boone
+!!!EEV1: 2026/05/18
