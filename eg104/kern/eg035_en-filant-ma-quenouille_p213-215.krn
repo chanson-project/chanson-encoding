@@ -1,0 +1,103 @@
+!!!id: EG035
+!!!page: 213-215
+!!!COM: Anonymous
+!!!LYR: Anonymous
+!!!PTL@@FR: Chansons Populaires du Canada
+!!!OTL@@FR: En filant ma quenouille
+!!!PUB: G. E. Desbarats
+!!!PDT: 1865
+!!!AGN-Laforte:
+!!!AGN-type:
+!!!AGN-rime:
+**kern	**text
+*clefG2	*
+*k[f#,c#,g#]	*
+*A:	*
+*M2/4	*
+*	*v:1
+*	*pline:1
+8e	Mon
+=1	=1
+8a	pèr[e]
+8b/	aus-
+8cc#	-si
+16bL	m'a
+16cc#J	.
+=2	=2
+8dd	ma-
+8cc#	-ri-
+4b	-é',
+*	*refrain
+*	*italic
+*	*rline:R1
+!!LO:PB:g=original
+=3	=3
+8a	Gai
+8b/	lon
+8cc#	la
+16b	je
+16cc#	m'en
+=4	=4
+8dd	vais
+8cc#	rou-
+8b/	-ler;
+16r	.
+*	*Xitalic
+*	*Xrefrain
+*	*pline:2
+16e	Un
+=5	=5
+8a	in-
+8b/	-ci-
+8cc#	-vil
+8cc#	il
+!!LO:PB:g=original
+=6	=6
+8b/	m'a
+8a	don-
+8f#	-né.
+*>Refrain	*>Refrain
+*	*italic
+*	*rline:R2
+16g#	Je
+16a	me
+=7	=7
+4b/	rou-
+8b/	-le,
+16b/	je
+16a	me
+=8	=8
+8g#L	rou-
+8f#J	.
+4e	-le;
+*	*rline:R1r
+!!LO:PB:g=original
+=9	=9
+8a	Gai
+8b/	lon
+8cc#	la
+16b	je
+16cc#	m'en
+=10	=10
+8ee	vais
+8cc#	rou-
+8.b/	-ler
+*	*rline:R3
+16a	En
+=11	=11
+8cc#	fi-
+8a	-lant
+8f#	ma
+8b/	que-
+!!LO:PB:g=original
+=12	=12
+8aq	.
+(4g#	-nouil-
+8a)	-le.
+*	*Xitalic
+*	*Xrefrain
+==	==
+*-	*-
+!!!RNB: Final empty partial measure omitted as per policy
+!!!EED1: Samuel Boone
+!!!EEV1: 2026/05/18
