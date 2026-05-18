@@ -1,89 +1,93 @@
 !!!id: EG006b
-!!!page: 2
+!!!page: 1-3
 !!!COM: Anonymous
 !!!PTL@@FR: Chansons Populaires du Canada
 !!!OTL@@FR: À la claire fontaine
 !!!PUB: 1865
-!!! YEM:
+!!!YEM:
 !!!SMA:
 !!!AGN-Laforte:
 !!!AGN-type:
 !!!AGN-rime: monorime /e/, including refrain verse
 !!!LYR-elision: Final "e" pluriel (mêm's); "Lui" = "Il"
-**kern	**text	**text	**text	**text	**text	**text	**text	**text
-*clefG2	*	*	*	*	*	*	*	*
-*k[b-]	*	*	*	*	*	*	*	*
-*F:	*	*	*	*	*	*	*	*
-*M2/4	*	*	*	*	*	*	*	*
-*	*v:1	*v:2	*v:3	*v:4	*v:5	*v:6	*v:7	*v:8
-=1	=1	=1	=1	=1	=1	=1	=1	=1
-*	*pline:1Ha	*pline:4Ha	*pline:7Ha	*pline:9Ha	*pline:11Ha	*pline:13Ha	*pline:15Ha	*pline:17Ha
-4f	À	J'ai	Sous	Sur	Chan-	J'ai	Pour	Je
-8f	la	trou-	les	la	-te,	per-	un	vou-
-8a	clai-	-vé	feuil-	plus	ros-	-du	bou-	-drais
-=2	=2	=2	=2	=2	=2	=2	=2	=2
-8a	-re	l'eau	-les	hau-	-si-	ma	-quet	que
-8g	fon-	si	d'un	-te	-gnol,	maî-	de	la
-8a	-tai-	bel-	chê-	bran-	chan-	-tres-	ro-	ro-
-8g	-ne	-le	-ne	-che	-te,	-se	-ses	-se
-=3	=3	=3	=3	=3	=3	=3	=3	=3
-*	*pline:1Hb	*pline:4Hb	*pline:7Hb	*pline:9Hb	*pline:11Hb	*pline:13Hb	*pline:15Hb	*pline:17Hb
-4f	M'en	Que	Je	Le	Toi	Sans	Que	Fût
-8f	al-	je	me	ros-	qui	l'a-	je	en-
-8a	-lant	m'y	suis	-si-	as	-voir	lui	-core 
-=4	=4	=4	=4	=4	=4	=4	=4	=4
-8a	pro-	suis	fait	-gnol	le	mé-	re-	au
-8g	-me-	bai-	sé-	chan-	cœur	-ri-	-fu-	ro-
-4a	-ner,	-gné;	-cher;	-tait.	gai;	-té,	-sai.	-sier,
+**kern	**text	**text	**text	**text	**text	**text	**text	**text	**text
+*clefG2	*	*	*	*	*	*	*	*	*
+*k[b-]	*	*	*	*	*	*	*	*	*
+*F:	*	*	*	*	*	*	*	*	*
+*M2/4	*	*	*	*	*	*	*	*	*
+*	*v:1	*v:2	*v:3	*v:4	*v:5	*v:6	*v:7	*v:8	*v:9
+=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+*	*pline:1h1	*pline:2h1r	*pline:3h1r	*pline:4h1r	*pline:5h1r	*pline:6h1r	*pline:7h1r	*pline:8h1r	*pline:9h1r
+4f	À	J'ai	Sous	Sur	Chan-	Tu	J'ai	Pour	Je
+8f	la	trou-	les	la	-te,	as	per-	un	vou-
+8a	clai-	-vé	feuil-	plus	ros-	le	-du	bou-	-drais
+=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+8a	-re	l'eau	-les	hau-	-si-	cœur	ma	-quet	que
+8g	fon-	si	d'un	-te	-gnol,	à	maî-	de	la
+8a	-tai-	bel-	chê-	bran-	chan-	ri-	-tres-	ro-	ro-
+8g	-ne	-le	-ne	-che	-te,	-re,	-se	-ses	-se
+=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+*	*pline:1h2	*pline:2h2r	*pline:3h2r	*pline:4h2r	*pline:5h2r	*pline:6h2r	*pline:7h2r	*pline:8h2r	*pline:9h2r
+4f	M'en	Que	Je	Le	Toi	Moi	Sans	Que	Fût
+8f	al-	je	me	ros-	qui	je	l'a-	je	en-
+8a	-lant	m'y	suis	-si-	as	l'ai-	-voir	lui	-core
+=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
+8a	pro-	suis	fait	-gnol	le	t-à	mé-	re-	au
+8g	-me-	bai-	sé-	chan-	cœur	pleu-	-ri-	-fu-	ro-
+4a	-ner,	-gné;	-cher;	-tait.	gai;	-rer:	-té,	-sai.	-sier,
 !!Add text variant in verse 8 for m.5-8
 !!LO:PB:g=original
-=5	=5	=5	=5	=5	=5	=5	=5	=5
-*	*pline:2Ha	*pline:5Ha	*pline:8Ha	*pline:10Ha	*pline:12Ha	*pline:14Ha	*pline:16Ha	*pline:18Ha
-4a	J'ai	Sous	Sur	Chan-	Tu	Pour	Je	Et
-8a	trou-	les	la	-te,	as	un	vou-	moi
-8g	-vé	feuil-	plus	ros-	le	bou-	-drais	et
-=6	=6	=6	=6	=6	=6	=6	=6	=6
-8f	l'eau	-les	hau-	-si-	cœur	-quet	que	ma
-8a	si	d'un	-te	-gnol,	à	de	la	maî-
-8cc	bel-	chê-	bran-	chan-	ri-	ro-	ro-	-tres-
-8a	-le	-ne	-che	-te,	-re,	-ses	-se	-se
-=7	=7	=7	=7	=7	=7	=7	=7	=7
-*	*pline:2Hb	*pline:5Hb	*pline:8Hb	*pline:10Hb	*pline:12Hb	*pline:14Hb	*pline:16Hb	*pline:18Hb
-4cc	Que	Je	Le	Toi	Moi	Que	Fût	Dans
-8cc	je	me	ros-	qui	je	je	en-	les
-8a	m'y	suis	-si-	as	l'ai-	lui	-core	mêm[e]s
-=8	=8	=8	=8	=8	=8	=8	=8	=8
-8f	suis	fait	-gnol	le	-t-à	re-	au	a-
-8a	bai-	sé-	chan-	cœur	pleu-	-fu-	ro-	-mi-
-4g	-gné.	-cher.	-tait.	gai.	-rer	-sai.	-sier.	-tiés.
+=5	=5	=5	=5	=5	=5	=5	=5	=5	=5
+*	*pline:2h1	*pline:3h1	*pline:4h1	*pline:5h1	*pline:6h1	*pline:7h1	*pline:8h1	*pline:9h1	*pline:10h1
+4a	J'ai	Sous	Sur	Chan-	Tu	J'ai	Pour	Je	Et
+8a	trou-	les	la	-te,	as	per-	un	vou-	moi
+8g	-vé	feuil-	plus	ros-	le	-du	bou-	-drais	et
+=6	=6	=6	=6	=6	=6	=6	=6	=6	=6
+8f	l'eau	-les	hau-	-si-	cœur	ma	-quet	que	ma
+8a	si	d'un	-te	-gnol,	à	maî-	de	la	maî-
+8cc	bel-	chê-	bran-	chan-	ri-	-tres-	ro-	ro-	-tres-
+8a	-le	-ne	-che	-te,	-re,	-se	-ses	-se	-se
+=7	=7	=7	=7	=7	=7	=7	=7	=7	=7
+*	*pline:2h2	*pline:3h2	*pline:4h2	*pline:5h2	*pline:6h2	*pline:7h2	*pline:8h2	*pline:9h2	*
+4cc	Que	Je	Le	Toi	Moi	Sans	Que	Fût	Dans
+8cc	je	me	ros-	qui	je	l'a-	je	en-	les
+8a	m'y	suis	-si-	as	l'ai-	-voir	lui	-core	mêm[es]
+=8	=8	=8	=8	=8	=8	=8	=8	=8	=8
+8f	suis	fait	-gnol	le	t-à	mé-	re-	au	a-
+8a	bai-	sé-	chan-	cœur	pleu-	-ri-	-fu-	ro-	-mi-
+4g	-gné.	-cher.	-tait.	gai.	-rer	-té.	-sai.	-sier.	-tiés.
 !!Variant for m.9
 !!LO:PB:g=original
-=9	=9	=9	=9	=9	=9	=9	=9	=9
-*	*refrain	*	*	*	*	*	*	*
-*	*italic	*	*	*	*	*	*	*
-*	*pline:R1Ha	*	*	*	*	*	*	*
+=9	=9	=9	=9	=9	=9	=9	=9	=9	=9
+*	*refrain	*	*	*	*	*	*	*	*
+*	*italic	*	*	*	*	*	*	*	*
+*	*pline:R1h1	*	*	*	*	*	*	*	*
 !!LO:TX:a:B:t=REFRAIN
-4c	Lui	.	.	.	.	.	.	.
-8f	y a	.	.	.	.	.	.	.
-8a	long-	.	.	.	.	.	.	.
-=10	=10	=10	=10	=10	=10	=10	=10	=10
-8a	-temps	.	.	.	.	.	.	.
-16g	que	.	.	.	.	.	.	.
-16f	je	.	.	.	.	.	.	.
-8a	t'ai-	.	.	.	.	.	.	.
-8f	-me,	.	.	.	.	.	.	.
-=11	=11	=11	=11	=11	=11	=11	=11	=11
-*	*pline:R1Hb	*	*	*	*	*	*	*
-4a	Ja-	.	.	.	.	.	.	.
-8a	-mais	.	.	.	.	.	.	.
-16g	je	.	.	.	.	.	.	.
-16f	ne	.	.	.	.	.	.	.
-=12	=12	=12	=12	=12	=12	=12	=12	=12
-8a	t'ou-	.	.	.	.	.	.	.
-8g	-blie-	.	.	.	.	.	.	.
-4f	-rai.	.	.	.	.	.	.	.
-*	*Xitalic	*	*	*	*	*	*	*
-*	*Xrefrain	*	*	*	*	*	*	*
-==	==	==	==	==	==	==	==	==
-*-	*-	*-	*-	*-	*-	*-	*-	*-
-!!!EEV-2: Isaac Howie
+4c	Lui	.	.	.	.	.	.	.	.
+8f	y a	.	.	.	.	.	.	.	.
+8a	long-	.	.	.	.	.	.	.	.
+=10	=10	=10	=10	=10	=10	=10	=10	=10	=10
+8a	-temps	.	.	.	.	.	.	.	.
+16g	que	.	.	.	.	.	.	.	.
+16f	je	.	.	.	.	.	.	.	.
+8a	t'ai-	.	.	.	.	.	.	.	.
+8f	-me,	.	.	.	.	.	.	.	.
+=11	=11	=11	=11	=11	=11	=11	=11	=11	=11
+*	*pline:R1h2	*	*	*	*	*	*	*	*
+4a	Ja-	.	.	.	.	.	.	.	.
+8a	-mais	.	.	.	.	.	.	.	.
+16g	je	.	.	.	.	.	.	.	.
+16f	ne	.	.	.	.	.	.	.	.
+=12	=12	=12	=12	=12	=12	=12	=12	=12	=12
+8a	t'ou-	.	.	.	.	.	.	.	.
+8g	-blie-	.	.	.	.	.	.	.	.
+4f	-rai.	.	.	.	.	.	.	.	.
+*	*Xitalic	*	*	*	*	*	*	*	*
+*	*Xrefrain	*	*	*	*	*	*	*	*
+==	==	==	==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!RWG: Variant of initial measure given, but unsure of where it would fit
+!!!RWG: Variant stanza given at the bottom, also unsure as to how it fits into the song
+!!!EED2: Isaac Howie
+!!!EED3: Sam Boone
+!!!EEV3: 2026/05/18
