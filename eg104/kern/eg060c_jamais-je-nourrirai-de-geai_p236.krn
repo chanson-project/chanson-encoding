@@ -76,6 +76,7 @@
 *	*Xitalic
 *	*Xrefrain
 *>Refrain	*>Refrain
+*	*refrain
 *	*italic
 *	*rline:R1
 =17	=17
@@ -94,8 +95,10 @@
 8r	.
 *	*rline:R2
 =21	=21
+*	*bis
 8a	De
 8a	geai
+*	*Xbis
 8g	ja-
 =22	=22
 4f#	-mais
