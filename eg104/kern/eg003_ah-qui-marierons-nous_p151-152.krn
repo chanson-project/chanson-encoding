@@ -15,37 +15,39 @@
 *F:	*	*	*	*
 *M2/4	*	*	*	*
 *	*v:1	*v:2	*v:3	*v:4
-*	*pline:1	*pline:4	*pline:6	*pline:8
+*	*pline:1	*pline:3	*pline:5	*pline:7
 8f	Ah!	'Lui	A-	A-
-8f	qui	donn[e]-	-mours,	-mours,
+8f	qui	donn'-	-mours,	-mours,
 8a	ma-	-rons	sa-	re-
 =1	=1	=1	=1	=1
-4cc	-ri[e]-	pour	-lu-	-ti-
+4cc	-ri'-	pour	-lu-	-ti-
 4dd ff	-rons-	é-	-ez	-rez
 =2	=2	=2	=2	=2
 8cc	nous?	-poux?	vous!	vous!
-*	*pline:1r	*pline:4r	*pline:6r	*pline:8r
+*	*pline:1r	*pline:3r	*pline:5r	*pline:7r
 8dd	Ah!	'Lui	A-	A-
-8cc	qui	donn[e]-	-mours,	-mours,
+8cc	qui	donn'-	-mours,	-mours,
 8b-	ma-	-rons	sa-	re-
 =3	=3	=3	=3	=3
-4a	-ri[e]-	-pour	-lu-	-ti-
+4a	-ri'-	-pour	-lu-	-ti-
 4g	-rons-	é-	-ez	-rez
 !!LO:PB:g=original
 =4	=4	=4	=4	=4
 4f	nous?	-poux?	vous!	vous!
-*	*pline:2	*pline:5	*pline:7	*pline:9
+*	*pline:2	*pline:4	*pline:6	*pline:8
 8g	Ma-	Mon	Sa-	Re-
 16g	-de-	doux	-lu-	-ti-
 16g	-moi-	mon-	-ez	-rez
 =5	=5	=5	=5	=5
-8g	-sell[e],	-sieur,	vous	vous
+8g	-sell',	-sieur,	vous	vous
 8a	ce	ce	cinq	cha-
 8b-/	se-	se-	ou	-cun
 8b-/	-ra	-ra	six	chez
 =6	=6	=6	=6	=6
 8a	vous,	vous,	coups,	vous,
-*	*pline:3	*pline:3r	*pline:3r	*pline:3r
+*	*refrain	*refrain	*refrain	*refrain
+*	*italic	*italic	*italic	*italic
+*	*rline:R1	*rline:R1r	*rline:R1r	*rline:R1r
 8b-	Par	Par	Par	Par
 8cc	l'as-	l'as-	l'as-	l'as-
 8a	-sem-	-sem-	-sem-	-sem-
@@ -55,10 +57,12 @@
 4g	d'a-	d'a-	d'a-	d'a-
 =8	=8	=8	=8	=8
 4c	-mour.	-mour.	-mour.	-mour.
+*	*Xitalic	*Xitalic	*Xitalic	*Xitalic
+*	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain
 *>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain
 *	*refrain	*	*	*
 *	*italic	*	*	*
-*	*pline:R1	*	*	*
+*	*rline:R2	*	*	*
 8g	Oui	.	.	.
 16g	j'ai-	.	.	.
 16g	-me-	.	.	.
@@ -71,7 +75,7 @@
 =10	=10	=10	=10	=10
 8a	m'ai-	.	.	.
 8f	-me....	.	.	.
-*	*pline:R1r	*	*	*
+*	*rline:R3	*	*	*
 8cc	Oui	.	.	.
 16dd	j'ai-	.	.	.
 16ee	-me-	.	.	.
@@ -87,6 +91,7 @@
 *	*Xrefrain	*	*	*
 ==	==	==	==	==
 *-	*-	*-	*-	*-
-!!!EED-1: Samuel Boone
-!!!EEV-1: 2026/03/09
-!!!EED-2: Isaac Howie
+!!!EED1: Samuel Boone
+!!!EEV1: 2026/05/19
+!!!EED2: Isaac Howie
+!!!EEV2: 2026/03/10
