@@ -3,12 +3,18 @@
 This repository contains Francophone folk songs encoded as **Humdrum `**kern`** files.  
 Initial encoding is *diplomatic* and includes the musical score, poetic text, phonemes, and rhyme analysis. Editorial policies are being developed through the initial stage of encoding BC100 and EG104 datasets.
 
+Both collections are also integrated into Verovio Humdrum View as "Monophonic Songs" under the "Scores" menu, as well as on the website https://folklore-vivant.humdrum.org, from which they can be viewed locally, downloaded from github, and exported to VHV.
+
+Metadata for all encoded materials can be accessed at: https://docs.google.com/spreadsheets/d/16E5ZaTv--7Ketd5Lpgcbk11aKRj9T2hDjjRUiRHiAOY/edit?usp=sharing
+
 
 ## Encoding Procedure
 <details>
 <summary><h3>General Encoding</h3></summary>
 
-1. **Record comments** (preceding each song):  
+1. **Reference Records**:  
+   Work information, authorship information, and imprint information (including copyrights, if any) are encoded preceding each song.
+   
    Example from “O Canada!” (note the space after each colon); for page numbers, add "t" for songs that end on a second page and are followed by another song on the same page; add "b" for songs that are preceded by the end of a song on the same page.
 
    ```
@@ -16,52 +22,60 @@ Initial encoding is *diplomatic* and includes the musical score, poetic text, ph
    !!!page: 4-5
    !!!COM: Lavallée, Calixa
    !!!LYR: Routhier, juge A.-B.
-   !!!PTL@@FR: Les 100 plus belles chansons
    !!!OTL@@FR: O Canada, terre de nos aïeux
+   !!!PTL@@FR: Les 100 plus belles chansons
    !!!PUB: La Bonne Chanson, inc.
    !!!YEM: On ne peut reproduire, enregistrer ou diffuser en tout ou en partie le présent ouvrage, sous quelque procédé que ce soit, électronique, mécanique, photographique, sonore, magnétique ou autre, sans avoir obtenu au préalable l'autorisation écrite de l'éditrice.
    !!!PDT: 2011
    !!!SMA: 2012 Bibliothèque nationale du Québec; Biblothèque nationale du Canada
-   !!!AGN-Laforte: Chanson strophique (sans refrain), 8:10(4+6)
-   !!!AGN-type: hymne national
-   !!!AGN-rime: mixte, aabcbcbc
    ```
- 
+Representation information, electronic editing information are encoded below the **kern and **text encoding. Analysis information is collected on the master spreadsheet, from which they will be exported to kern files upon completion.
+
 For a list of the different types of record comments, consult: https://www.humdrum.org/reference-records
+To view the current master spreadsheet, see: https://docs.google.com/spreadsheets/d/16E5ZaTv--7Ketd5Lpgcbk11aKRj9T2hDjjRUiRHiAOY/edit?usp=sharing
+
 
 2. **Spine structure**:
-   - Melody (Spine 1): `*`
-   - Verse 1 (Spine 2): `*v:1`
-   - Verse 2 (Spine 3): `*v:2`
+   **kern = melody and rhythm, including slurs, ties, and accents; tempo and structure markings can be encoded above the note where they appear using `!!LO:TX:a:t=text` (for italics, add `i:`; for boldface, add `B:`).
+   **dynam = dynamic markings, such as crescendi (`<`...`]`) and decrescendi (`>`...`]`).
+   **text = lyrics
 
-3. **To add an empty spine** after the first is completed:
+   NOTE: Text can be viewed above or below the graphic representation in the right pane as you are encoding. Use the filter `text` for the default view below the score; adding `-a`will show it above.
+   
+4. **To add an empty spine** after the first is completed:
    ```
    extract -s 1-$,0
    ```
-4. **Preserve visual layout** of original:
+   This will add a **blank spine. To encode dynamics, change to **dynam; to encode text, change to **text
+   
+6. **Preserving visual layout** of original:
    - Insert `!!LO:PB:g=original` above the measure that appears on the next system.
    - Use the alignment button to preserve layout.
-   - For longer songs (>4 systems), switch to “continuous” view on the toolbar.
+   - For longer songs (>4 systems), you may wish to switch to “continuous” view on the toolbar.
 
-5. **Add editorial comments** (e.g., pitch variants):
+7. **Add editorial comments** (e.g., pitch variants):
    - Place above the relevant line with a `!`:
      ```
      !pitch variant:b
      ```
-   - Ensure each spine on the same row includes an exclamation mark.
+   Ensure each spine on the same row includes an exclamation mark.
 
-6. **Encoding completion info**:
+8. **Encoding completion info**:
    - Use the format "First Last" for name.
    - Use the format "year/mm/dd" for date of completion.
    ```
    !!!EED: Ève Poudrier
    !!!EEV: 2025/05/06
    ```
-7. **Encoding editorial comments**:
+   Multiple editors are shows as `!!!EED1`, `!!!EED2`, etc.
+   
+10. **Encoding editorial comments**:
    ```
    !!!RNB (Representation note) can be used to encode any modifications to the representation of the score. For example, replacing dal segno symbols by repeats.
    !!!RWG (Representation warning) can be use to point out an unusual representation in the poriginal score. For example the use of two double barlines at the end of eg003_cest-la-belle-francoise_p8-9.
    ```
+Additional notes should be recorded in the master spreadsheet in column AQ: Notes.
+
 </details>
 
 <details>
