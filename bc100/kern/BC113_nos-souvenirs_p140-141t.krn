@@ -8,30 +8,34 @@
 !!!YEM: On ne peut reproduire, enregistrer ou diffuser en tout ou en partie le présent ouvrage, sous quelque procédé que ce soit, électronique, mécanique, photographique, sonore, magnétique ou autre, sans avoir obtenu au préalable l'autorisation écrite de l'éditrice.
 !!!PDT: 2011
 !!!SMA: 2012 Bibliothèque nationale du Québec; Biblothèque nationale du Canada
-!!!AGN-Laforte: strophique
-!!!AGN-refrain: none
-!!!AGN-metre: 4:8(8)
-!!!AGN-type: amour
-!!!AGN-rime: suivies (aabbccdd)
 **kern	**text	**text	**text	**text
 *clefG2	*	*	*	*
 *k[]	*	*	*	*
 *C:	*	*	*	*
 *M3/4	*	*	*	*
 *	*v:1	*v:2	*v:3	*v:4
-*	*pline:1	*pline:7(1a4)	*pline:13(1a6)	*pline:19(1a6)
+*	*pline:1	*pline:7	*pline:13	*pline:19
+*	*refrain	*refrain	*refrain	*refrain
+*	*italic	*italic	*italic	*italic
 8g	Les	Les	Les	Les
 =1	=1	=1	=1	=1
 8g	sou-	sou-	sou-	sou-
 8a	-ve-	-ve-	-ve-	-ve-
 8a	-nirs	-nirs	-nirs	-nirs
+*	*Xitalic	*Xitalic	*Xitalic	*Xitalic
+*	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain
 8g	de	des	de	de
 8g	nos	jours	nos	nos
 8cc	vingt	heu-	sou-	a-
 =2	=2	=2	=2	=2
 [2cc	ans	-reux	-cis	-mours
+*	*rp:ɑ̃	*rp:ø	*rp:i	*rp:u
+*	*rf:ɑ̃	*rf:ø	*rf:i	*rf:uʁ
+*	*rs:a	*rs:d	*rs:g	*rs:c
 4cc]	.	.	.	.
-*	*pline:2	*pline:8(2a7)	*pline:14(2a2b6-8)	*pline:20
+*	*pline:2	*pline:8	*pline:14	*pline:20
+*	*refrain	*refrain	*refrain	*
+*	*italic	*italic	*italic	*
 8b	Sont	Sont	Sont	Sont
 !!LO:PB:g=original
 =3	=3	=3	=3	=3
@@ -41,8 +45,13 @@
 8g	pa-	pa-	pa-	-lons
 8g	-pil-	-pil-	-pil-	de
 8b	-lons	-lons	-lons	ve-
+*	*Xitalic	*Xitalic	*Xitalic	*Xitalic
+*	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain
 =4	=4	=4	=4	=4
 [2b/	blancs	bleus;	gris;	-lours
+*	*rp:ɑ̃	*rp:ø	*rp:i	*rp:u
+*	*rf:ɑ̃	*rf:ø	*rf:i	*rf:uʁ
+*	*rs:a	*rs:d	*rs:g	*rs:c
 8b]/	.	.	.	.
 *	*pline:3	*pline:9	*pline:15	*pline:21
 8f	Qui	No-	On	Qui
@@ -57,6 +66,9 @@
 =6	=6	=6	=6	=6
 4b	ai-	-pa-	chas-	-bi-
 4b	-les	-re,	-se,	-le
+*	*rp:ɛ	*rp:a	*rp:a	*rp:i
+*	*rf:ɛl,ə	*rf:aʁ,ə	*rf:as,ə	*rf:il,ə
+*	*rs:b	*rs:e	*rs:h	*rs:j
 8r	.	.	.	.
 *	*pline:4	*pline:10	*pline:16	*pline:22
 8b	Du	Car	À	En
@@ -71,6 +83,9 @@
 =8	=8	=8	=8	=8
 4a	-vel-	ra-	-na-	-ci-
 4g	-les!	-res.	-ces.	-le;
+*	*rp:ɛ	*rp:a	*rp:a	*rp:i
+*	*rf:ɛl,ə	*rf:aʁ,ə	*rf:as,ə	*rf:il,ə
+*	*rs:b	*rs:e	*rs:h	*rs:j
 8r	.	.	.	.
 *	*pline:5	*pline:11	*pline:17	*pline:23
 8g	Ils	A-	Mais	On
@@ -83,6 +98,9 @@
 8cc	un	mal-	beaux	-fi-
 =10	=10	=10	=10	=10
 [2cc	tour,	-heur!	jours	-ni:
+*	*rp:u	*rp:œ	*rp:u	*rp:i
+*	*rf:uʁ	*rf:œʁ	*rf:ʒuʁ	*rf:ni
+*	*rs:c	*rs:f	*rs:i	*rs:k
 8cc]	.	.	.	.
 *	*pline:6	*pline:12	*pline:18	*pline:24
 8cc	Mais	Ils	Ils	Dans
@@ -91,27 +109,39 @@
 8cc	ils	vien-	dis-	no-
 8b-	nous	-nent	-pa-	-tre
 !	!	!missing elision	!	!
-8b-	re-	é-	-res-	coeur
+8b-	re-	é-	-rais-	coeur
 8a	-vien-	-gay-	-sent	ils
 8a	-nent	-er	pour	ont
 8ee	tou-	nos	tou-	leur
 =12	=12	=12	=12	=12
 [2dd	-jours,	coeurs.	-jours.	nid.
+*	*rp:u	*rp:œ	*rp:u	*rp:i
+*	*rf:uʁ	*rf:œʁ	*rf:ʒuʁ	*rf:ni
+*	*rs:c	*rs:f	*rs:i	*rs:k
 8dd]	.	.	.	.
-*	*pline:1r	*pline:7(1a4)r	*pline:13(1a6)r	*pline:19(1a6)r
+*	*pline:1r	*pline:7r	*pline:13r	*pline:19r
+*	*refrain	*refrain	*refrain	*refrain
+*	*italic	*italic	*italic	*italic
 8cc	Les	Les	Les	Les
 =13	=13	=13	=13	=13
 8cc	sou-	sou-	sou-	sou-
 8a-	-ve-	-ve-	-ve-	-ve-
 8a-	-nirs	-nirs	-nirs	-nirs
+*	*Xitalic	*Xitalic	*Xitalic	*Xitalic
+*	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain
 8cc	de	des	de	de
 8cc	nos	jours	nos	nos
 8g	vingt	heu-	sou-	a-
 !!LO:PB:g=original
 =14	=14	=14	=14	=14
 [2g	ans	-reux	-cis	-mours
+*	*rp:ɑ̃	*rp:ø	*rp:i	*rp:u
+*	*rf:ɑ̃	*rf:ø	*rf:i	*rf:uʁ
+*	*rs:a	*rs:d	*rs:g	*rs:c
 8g]	.	.	.	.
-*	*pline:2r	*pline:8(2a7)r	*pline:14(a2b6-8)	*pline:20r
+*	*pline:2r	*pline:8r	*pline:14	*pline:20r
+*	*refrain	*refrain	*refrain	*
+*	*italic	*italic	*italic	*
 8g	Sont	Sont	Sont	Sont
 =15	=15	=15	=15	=15
 8g	de	de	de	des
@@ -120,12 +150,17 @@
 8b	pa-	pa-	pa-	-lons
 8b	-pil-	-pil-	-pil-	de
 8ee	-lons	-lons	-lons	ve-
+*	*Xitalic	*Xitalic	*Xitalic	*
+*	*Xrefrain	*Xrefrain	*Xrefrain	*
 =16	=16	=16	=16	=16
 2cc	blancs.	bleus.	gris.	-lours.
+*	*rp:ɑ̃	*rp:ø	*rp:i	*rp:u
+*	*rf:ɑ̃	*rf:ø	*rf:i	*rf:uʁ
+*	*rs:a	*rs:d	*rs:g	*rs:c
 8r	.	.	.	.
 ==	==	==	==	==
 *-	*-	*-	*-	*-
-!!!EED-1: Junny Chen
-!!!EEV-1: 2026/04/09
-!!!EED-2: Ève Poudrier
-!!!EEV-2: 2026/04/20
+!!!EED1: Junny Chen
+!!!EEV1: 2026/04/09
+!!!EED2: Ève Poudrier
+!!!EEV2: 2026/05/19
