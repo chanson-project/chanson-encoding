@@ -9,94 +9,96 @@
 !!!AGN-Laforte:
 !!!AGN-type:
 !!!AGN-rime:
-**kern	**text
-*clefG2	*
-*k[f#]	*
-*G:	*
-*M3/4	*
-*	*v:1
-*	*pline:1h1
-=1	=1
-2g	Sur
-4a	vo-
-=2	=2
-(4a	-tre
-4g)	.
-4f#	bon-
-=3	=3
-2g	-té
-4r	.
-*	*pline:1h2
-=4	=4
-2b/	Ah!
-4a	je
+**kern	**text	**text	**text	**text	**text	**text	**text	**text	**text	**text
+*clefG2	*	*	*	*	*	*	*	*	*	*
+*k[f#]	*	*	*	*	*	*	*	*	*	*
+*G:	*	*	*	*	*	*	*	*	*	*
+*M3/4	*	*	*	*	*	*	*	*	*	*
+*	*v:1	*v:2	*v:3	*v:4	*v:5	*v:6	*v:7	*v:8	*v:9	*v:10
+*	*pline:1h1	*pline:5h1	*pline:9h1	*pline:13h1	*pline:17h1	*pline:21h1	*pline:25h1	*pline:29h1	*pline:33h1	*pline:37h1
+=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+2g	Sur	Je	Vous	Mes-	Vous,	Pour	Tu	Vous	Jeun'	Mes-
+4a	vo-	ne	a-	-sieurs	jeu-	vous	ne	vous	femm(e)	-sieurs,
+=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+(4a	-tre	par-	-vez	jus-	-nes	con-	dois	êt's	é-	c'est
+4g)	.	.	.	.	.	.	.	.	.	.
+4f#	bon-	-le	dit:	-qu'i-	a-	-ser-	ai-	ai-	-cou-	as-
+=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+*	*	*	*italic	*	*	*	*	*	*	*
+2g	-té	pas	oui,	-ci,	-mants,	-ver	-mer	-més,	-tez!	-sez
+*	*	*	*Xitalic	*	*	*	*	*	*	*
+4r	.	.	.	.	.	.	.	.	.	.
+*	*pline:1h2	*pline:5h2	*pline:9h2	*pline:13h2	*pline:17h2	*pline:21h2	*pline:25h2	*pline:29h2	*pline:33h2	*pline:37h2
+=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
+2b/	Ah!	I-	Mot	Jus-	Qui	Beaux	Que	Ai-	Vous	Sur
+4a	je	-ci	très-	-qu'à	cher-	jours	ta	-mez-	fe-	le
 !!LO:PB:g=original
-=5	=5
-(4cc	me
-4b)	.
-4a	re-
-=6	=6
-2.b/	-po-
-=7	=7
-2a	-se.
-4r	.
-*	*pline:2h1
-=8	=8
-2g	Puis-
-4a	-que
-=9	=9
-(4a	vous
-4g)	.
-4f#	vou-
+=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5
+(4cc	me	du	a-	vos	-chez	et	chè-	vous	-rez	ma-
+4b)	.	.	.	.	.	.	.	.	.	.
+4a	re-	breu-	-gré-	o-	des	bon	-re	en-	de	-ri-
+=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6
+2.b/	-po-	-va-	-a-	-reil-	bel-	rô-	fem-	-co-	mê-	-a-
+=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7
+2a	-se.	-ge,	-ble;	-les,	-les,	-le,	-me,	-re!	-me;	-ge.
+4r	.	.	.	.	.	.	.	.	.	.
+*	*pline:2h1	*pline:6h1	*pline:10h1	*pline:14h1	*pline:18h1	*pline:22h1	*pline:26h1	*pline:30h1	*pline:34h1	*pline:38h1
+=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8
+2g	Puis-	Ni	Mais	Je	Veil-	Vous	Que	Vous	De	Dai-
+4a	-que	de	il	puis	-lez	d'vez	Dieu	se-	Dieu	-gnez
+=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9
+(4a	vous	ce	est	bien	sa-	ré-	t'a	-rez	sup-	me
+4g)	.	.	.	.	.	.	.	.	.	.
+4f#	vou-	re-	aus-	par-	-ge-	-pé-	don-	char-	-pli-	ver-
 !!LO:PB:g=original
-=10	=10
-2g	-lez
-4r	.
-*	*pline:2h2
-=11	=11
-2b/	Tous
-4a	i-
-=12	=12
-(4cc	-ci
-4b)	.
-4a	que
-=13	=13
-2.b/	j'o-
-=14	=14
-2a	-se
-4r	.
-*	*pline:3
+=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10
+2g	-lez	-pas,	-si	-ler	-ment,	-ter	-née	-més	-ez	-ser
+4r	.	.	.	.	.	.	.	.	.	.
+*	*pline:2h2	*pline:6h2	*pline:10h2	*pline:14h2	*pline:18h2	*pline:22h2	*pline:26h2	*pline:30h2	*pline:34h2	*pline:38h2
+=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11
+2b/	Tous	Mais	Sou-	De	So-	Sou-	Pour	De	La	De
+4a	i-	du	-vent	tous	-yez-	-vent	fi-	re-	bon-	ce
+=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12
+(4cc	-ci	ma-	re-	ceux	leur	ces	-dèl'	-voir	-té	doux
+4b)	.	.	.	.	.	.	.	.	.	.
+4a	que	-ri-	-gret-	et	fi-	pa-	com-	l'ac-	su-	breu-
+=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13
+2.b/	j'o-	-a-	-ta-	cel-	-dè-	-ro-	-pa-	-cor'-	-prê-	-va-
+=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14
+2a	-se	-ge;	-ble,	-les	-les,	-les:	-gne;	-e	-me.	-ge:
+4r	.	.	.	.	.	.	.	.	.	.
+*	*pline:3	*pline:7	*pline:11	*pline:15	*pline:19	*pline:23	*pline:27	*pline:31	*pline:35	*pline:39
 !!LO:PB:g=original
-=15	=15
-2a	Vous
-4b/	chan-
-=16	=16
-(4cc	-ter
-4b)	.
-4a	u-
-=17	=17
-2%3g	-ne
-2%3b/	chan-
-=18	=18
-2a	-son,
-4r	.
-*	*pline:4
-=19	=19
-2a	Don-
-4b/	-nez
+=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15
+2a	Vous	Je	Et	Qui	Car	Dieu	Tu	Ré-	Qu'il	Que
+4b/	chan-	ne	jus-	se	vous	veuil-	dois	-gner	vous	je
+=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16
+(4cc	-ter	par-	-que	pren-	pour-	-le	tou-	dans	bé-	boiv[e]
+4b)	.	.	.	.	.	.	.	.	.	.
+4a	u-	-le	dans	-nent	-riez	que	-jours	vo-	-nis-	à
+=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17
+2%3g	-ne	main-	le	sans	êtr[e]	je	é-	-tre	-se	la
+2%3b/	chan-	-te-	tom-	s'ai-	en-	sois	-vi-	mai-	tous	san-
+=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18
+2a	-son,	-nant	-beau	-mer	-fin	doux	-ter	-son	deux	-té
+4r	.	.	.	.	.	.	.	.	.	.
+*	*pline:4	*pline:8	*pline:12	*pline:16	*pline:20	*pline:24	*pline:28	*pline:32	*pline:36	*pline:40
+=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19
+2a	Don-	Que	On	Et	Ac-	À	Cell'	A-	Et	De
+4b/	-nez	de	se	meur'nt	-ca-	cell'	qui	-vec	vous	ces
 !!LO:PB:g=original
-=20	=20
-(4g	vo-
-4f#)	-tre
-4g	at-
-=21	=21
-2%3a	-ten-
-2%3b/	-ti
-=22	=22
-8bq	.
-2g	-on.
-4r	.
-==	==
-*-	*-
+=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20
+(4g	vo-	ces	re-	sans	-blés	dont	pour-	la	donne	jeu-
+4f#)	-tre	.	.	.	.	.	.	.	.	.
+4g	at-	jeu-	-pend	se	de	je	-rait	paix	des	-nes
+=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21
+2%3a	-ten-	-nes	de	re-	grand	suis	te	et	jours	ma-
+2%3b/	-ti	a-	ce	-gret-	cha-	l'é-	char-	l'u-	heu-	-ri-
+=22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22
+8bq	.	.	.	.	.	.	.	.	.	.
+2g	-on.	-mants.	mot.	-ter.	-grin.	-poux!	-mer.	-nion.	-reux.	-és.
+4r	.	.	.	.	.	.	.	.	.	.
+==	==	==	==	==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
 !!!EED1: Samuel Boone
 !!!EEV1: 2026/05/14
