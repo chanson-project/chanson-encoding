@@ -1,215 +1,141 @@
-!!!id: BC109
-!!!page: 136-137t
-!!!COM: Sabatier, Charles-Wugk
-!!!LYR: Crémazie, Octave
+!!!id: BC102
+!!!page: 128
+!!!COM: GADBOIS, Charles-Emile
+!!!LYR: GADBOIS, Charles-Emile
 !!!PTL@@FR: Les 100 plus belles chansons
-!!!OTL@@FR: Ô Carillon
-!!!PUB:La Bonne Chanson, inc.
+!!!OTL@@FR: Le lac des amours
+!!!PUB: La Bonne Chanson, inc.
 !!!YEM: On ne peut reproduire, enregistrer ou diffuser en tout ou en partie le présent ouvrage, sous quelque procédé que ce soit, électronique, mécanique, photographique, sonore, magnétique ou autre, sans avoir obtenu au préalable l'autorisation écrite de l'éditrice.
 !!!PDT: 2011
 !!!SMA:2012 Bibliothèque nationale du Québec; Biblothèque nationale du Canada
-**kern	**dynam	**text	**text	**text
-*clefG2	*	*	*	*
-*k[]	*	*	*	*
-*a	*	*	*	*
-!!LO:TX:a:t=Largement
-*M12/8	*	*	*	*
-*	*	*v:1	*v:2	*v:3
-*	*	*pline:1	*pline:9	*pline:16
-=1	=1	=1	=1	=1
-4.a	.	Ô	Cet	Qu'ils
-4g#	.	Ca-	é-	sont
-8a	.	-ril-	-tan-	heu-
-4e	.	-lon,	-dard	-reux
-8r	.	.	.	.
-4r	.	.	.	.
-8e	.	je	qu'au	ceux
-=2	=2	=2	=2	=2
-4cc	>	te	grand	qui,
-8b	)	re-	jour	dans
-4a	)	-vois	de	la
-8g#	]	en-	ba-	mê-
-4.a	.	-co-	-tail-	-lé-
-4e	.	-re,	-les,	-e,
-*	*	*rp:ɔ	*rp:a	*rp:e
-*	*	*rf:ɔʁ,ə	*rf:aj,ə	*rf:le,ə
-*	*	*rs:a	*rs:e	*rs:h
-8r	.	.	.	.
+**kern	**text	**text
+*clefG2	*	*
+*k[f#]	*	*
+*D:	*	*
+!!LO:TX:a:t=Berceur
+*M6/8	*	*
+*	*v:1	*v:2
+*	*pline:1	*pline:9
+{8d	Sur	Dans
+8g	l'on-	la
+8a	-de	splen-
+=1	=1	=1
+4b	pur[e]	-deur
+8cc	al-	d'un
+4a	-lons	si
+8b	sans	beau
+=2	=2	=2
+4.g}	bruit,	soir,
+*	*rp:i	*rp:a
+*	*rf:ɥ1	*rf:waʁ
+*	*rs:a	*rs:e
+*	*pline:2	*pline:10
+{8d	Dans	Comm[e]
+8g	le	il
+8b	si-	fait
 !!LO:PB:g=original
-=3	=3	=3	=3	=3
-*	*	*pline:2	*pline:10	*pline:17
-4.a	.	Non	No-	Près
-4g#	.	plus,	-ble	de
-8a	.	hé-	Mont-	Lé-
-4e	.	-las!	-calm,	-vis,
-8r	.	.	.	.
-4r	.	.	.	.
-8e	.	Comm[e]	tu	mou-
-=4	=4	=4	=4	=4
-4gn	.	en	pla-	-ru-
-8a	.	ces	-ças	-rent
-!	!	!	!	!elision not applied 
-4g	.	jours	dans	en
-8f	.	bé-	ma	sol-
-2.e	.	-nis	main,	-dats!
-*	*	*rp:i	*rp:ẽ	*rp:a
-*	*	*rf:ni	*rf:ẽ	*rf:a
-*	*	*rs:b	*rs:f	*rs:i
+=3	=3	=3
+4dd	-len-	bon
+8ee	-ce	de
+4cc	de	nous
+8dd	la	re-
+=4	=4	=4
+4.b}	nuit,	-voir!
+*	*rp:i	*rp:a
+*	*rf:ɥ1	*rf:waʁ
+*	*rs:a	*rs:e
+*	*pline:3	*pline:11
+{8b	Pen-	Au-
+8a	-dant	-tour
+8b	qu'au	de
+=5	=5	=5
+4dd	ciel	nous
+8cc	les	tout
+4a	as-	est
+8b	-tres	beau-
+=6	=6	=6
+4.g}	d'or	-té:
+*	*rp:ɔ	*rp:e
+*	*rf:ɔʁ	*rf:e
+*	*rs:b	*rs:f
+*	*pline:4	*pline:12
+{8g	À	Le
+8f#	nos	ciel
+8g	a-	d'a-
 !!LO:PB:g=original
-=5	=5	=5	=5	=5
-*	*	*pline:3	*pline:11	*pline:18
-4.a	.	Où,	Cet	En
-4g#	.	dans	é-	ex-
-8a	.	tes	-tan-	-pi-
-4e	.	murs,	-dard	-rant,
-8r	.	.	.	.
-4r	.	.	.	.
-!	!	!Capital "L" in original.	!	!
-8e	.	la	qu'aux	leur
-=6	=6	=6	=6	=6
-4cc	.	trom-	por-	â-
-8b	.	-pet-	-tes	-me
-4a	.	-te	de	con-
-8g#	.	so-	Ver-	-so-
-4.a	.	-no-	-sail-	-lé-
-4.e	.	-re,	-les,	-e
-*	*	*rp:ɔ	*rp:a	*rp:e
-*	*	*rf:ɔʁ,ə	*rf:aj,ə	*rf:le,ə
-*	*	*rs:a	*rs:e	*rs:h
+=7	=7	=7
+4a	-mours	-zur,
+8a	font	le
+4cc	un	lac
+8b	dé-	do-
+=8	=8	=8
+4a	-cor.	-ré.
+*	*rp:ɔ	*rp:e
+*	*rf:ɔʁ	*rf:e
+*	*rs:b	*rs:f
+8r}	.	.
+*	*pline:5	*pline:13
+{8d	Le	Lais-
+8g	flot	-sons
+8a	nous	nos
+=9	=9	=9
+4b	ber-	coeurs
+8cc	-ce	goû-
+4a	dou-	-ter
+8b	-ce-	en
 !!LO:PB:g=original
-=7	=7	=7	=7	=7
-*	*	*pline:4	*pline:12	*pline:19
-4.a	.	Pour	Na-	Voy-
-4a	.	nous	-guèr[e],	-ait
-8a	.	sau-	hé-	la
-4.b-	.	-ver	-las!	gloir[e]
-4b-	.	nous	je	a-
-8b-	.	a-	dé-	-dou-
-=8	.	=8	=8	=8
-4.bn	.	-vait	-ploy-	-cir
-4cc	.	ré-	-ais	leur
-8b	.	-u-	en	tré-
-*^	*	*	*	*
-*join	*join	*	*	*	*
-2.ee	2.e	.	-nis.	vain,	-pas;
-*	*	*	*rp:i	*rp:ẽ	*rp:a
-*	*	*	*rf:ni	*rf:ẽ	*rf:a
-*	*	*	*rs:b	*rs:f	*rs:i
-*v	*v	*	*	*	*
+=10	=10	=10
+4.g}	-ment,	paix
+*	*rp:ɑ̃	*rp:ɛ
+*	*rf:mɑ̃	*rf:ɛ
+*	*rs:c	*rs:g
+*	*pline:6	*pline:14
+{8d	La	Le
+8g	lu-	charm[e]
+8b	-ne	ex-
+=11	=11	=11
+4dd	brill[e]	-quis
+8ee	au	de
+4cc	fir-	nos
+8dd	-ma-	se-
+=12	=12	=12
+4.b}	-ment;	-crets.
+*	*rp:ɑ̃	*rp:ɛ
+*	*rf:mɑ̃	*rf:ɛ
+*	*rs:c	*rs:g
+*	*pline:7	*pline:15
+{8b	L'oi-	Si
+8a	-seau	nous
+8b	du	pou-
 !!LO:PB:g=original
-=||9	=||9	=||9	=||9	=||9
-*k[f#c#g#]	*	*	*	*
-*	*	*pline:5	*pline:13	*pline:20
-!!LO:TX:a:B:t=Agitato espressivo
-2.cc#	.	Je	Je	Vous
-[4.b	.	viens	le	qui
-4b]	.	.	.	dor-
-8a	.	à	re-	-mez
-=10	=10	=10	=10	=10
-2.e	.	toi	-mets	dans
-4r	.	.	.	.
-8r	.	.	.	.
-4.e	.	quand	au	vo-
-=11	=11	=11	=11	=11
-4.f#	.	mon	champ,	-tre
-4.e	.	â-	où,	froi-
-[4.a	.	-me	de	-de
-4a]	.	.	.	.
-8b	.	suc-	ta	bi-
-!!LO:PB:g=original
-=12	=12	=12	=12	=12
-2.a	.	-com-	gloi-	-è-
-4g#	.	-be,	-re,	-re,
-*	*	*rp:ɔ̃	*rp:a	*rp:ɛː
-*	*	*rf:ɔ̃b,ə	*rf:waʁ,ə	*rf:jɛːʁ,ə
-*	*	*rs:c	*rs:g	*rs:j
-8r	.	.	.	.
-4r	.	.	.	.
-8r	.	.	.	.
-=13	.	=13	=13	=13
-*	*	*pline:6	*pline:14	*pline:21
-2.dd	.	Et	Vi-	Vous
-[4.cc#	.	sent	-vra	que
-4cc#]	.	.	.	.
-8b#	.	dé-	tou-	j'im-
-=14	=14	=14	=14	=14
-2.cc#	.	-jà	-jours	-plor[e]
-[4.bn	.	son	l'im-	à
-4bn]	.	.	.	.
-8a	.	cou-	-mor-	mon
-!!LO:PB:g=original
-=15	=15	=15	=15	=15
-(4.g#	.	-ra-	-tel	der-
-4.b)	.	.	.	.
-4.f#	.	-ge	sou-	-nier
-(4cc#	.	fai-	-ve-	sou-
-8b)	.	.	.	.
-=16	=16	=16	=16	=16
-2.e	.	-blir.	-nir,	-pir,
-*	*	*rp:i	*rp:i	*rp:i
-*	*	*rf:iʁ	*rf:iʁ	*rf:iʁ
-*	*	*rs:d	*rs:d	*rs:d
-2.r	.	.	.	.
-=17	.	=17	=17	=17
-*	*	*pline:7	*pline:15	*pline:22
-2.cc#	.	Oui,	Et	Ré-
-[4.b	.	près	dans	-veil-
-4b]	.	.	.	.
-8a	.	de	la	-lez--
-!!LO:PB:g=original
-=18	=18	=18	=18	=18
-[2.e	.	toi,	tomb[e]	vous;
-4e]	.	.	.	.
-8r	.	.	.	.
-4.e	.	ve-	em-	ap-
-=19	=19	=19	=19	=19
-4.gn	.	-nant	-por-	-por-
-4.f#	<	cher-	-tant	-tant
-[4.cc#	(	-cher	ta	ma
-4cc#]	(	.	.	.
-8dd	[	ma	mé-	ban-
-=20	=20	=20	=20	=20
-2.cc#	.	tom-	-moi-	-niè-
-4b	.	-be,	-re,	-re,
-*	*	*rp:ɔ̃	*rp:a	*rp:ɛː
-*	*	*rf:ɔ̃b,ə	*rf:waʁ,ə	*rf:jɛːʁ,ə
-*	*	*rs:c	*rs:g	*rs:j
-8r	.	.	.	.
-4r	.	.	.	.
-8r	.	.	.	.
-!!LO:PB:g=original
-=21	=21	=21	=21	=21
-!!LO:TX:a:i:t=rall.
-*	*	*pline:8	*pline:8r	*pline:23
-2.dd	.	Pour	Pour	Sur
-[4.fn	.	mon	mon	vos
-4fn]	.	.	.	.
-8b	.	dra-	dra-	tom-
-=22	=22	=22	=22	=22
-2.a	.	-peau	-peau	-beaux
-4r	.	.	.	.
-8r	.	.	.	.
-*	*	*refrain	*refrain	*refrain
-*	*	*italic	*italic	*italic
-4.e	.	je	je	je
-=23	=23	=23	=23	=23
-(4.f#X	.	viens	viens	viens
-4g#)	.	.	.	.
-8a	.	i-	i-	i-
-(4.b	.	-ci	-ci	-ci
-4cc#)	.	.	.	.
-8b	.	mou-	mou-	mou-
-=24	=24	=24	=24	=24
-[4.a	.	-rir!	-rir!	-rir!
-*	*	*rp:i	*rp:i	*rp:i
-*	*	*rf:iʁ	*rf:iʁ	*rf:iʁ
-*	*	*rs:d	*rs:d	*rs:d
-*	*	*Xitalic	*Xitalic	*Xitalic
-*	*	*Xrefrain	*Xrefrain	*Xrefrain
-4a]	.	.	.	.
-8r	.	.	.	.
-2r	.	.	.	.
-==	==	==	==	==
-*-	*-	*-	*-	*-
+=13	=13	=13
+4dd	soir,	-vions
+8cc	l'air	res-
+4a	em-	-ter
+8b	-bau-	tou-
+=14	=14	=14
+4.g}	-mé,	-jours
+*	*rp:e	*rp:u
+*	*rf:me	*rf:uʁ
+*	*rs:d	*rs:h
+*	*pline:8	*pline:16
+{8g	Tout	Sur
+8f#	nous	ce
+8g	in-	beau
+=15	=15	=15
+4a	-vit[e]	lac
+8cc	à	de
+4b	nous	nos
+8a	ai-	a-
+=16	=16	=16
+4g	-mer.	-mours!
+*	*rp:e	*rp:u
+*	*rf:me	*rf:uʁ
+*	*rs:d	*rs:h
+8r}	.	.
+==	==	==
+*-	*-	*-
+!!!EED: Isaac Howie
+!!!EEV: 2025/08/12
 !!!EED: Ève Poudrier
 !!!EEV: 2026/05/19
