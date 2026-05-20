@@ -16,6 +16,7 @@
 *M2/4	*
 *	*v:1
 *>Refrain	*>Refrain
+*	*refrain
 *	*italic
 *	*rline:R1
 =1	=1
@@ -57,7 +58,7 @@
 8b/	.
 *Xcue	*
 8a	nous,
-8g	ya-
+8g	y a-
 !!LO:PB:g=original
 =6	=6
 8a	t-un
@@ -113,4 +114,4 @@
 ==	==
 *-	*-
 !!!EED1: Samuel Boone
-!!!EEV1: 2026/05/11
+!!!EEV1: 2026/05/20
