@@ -5,10 +5,7 @@
 !!!PTL@@FR: Chansons Populaires du Canada
 !!!OTL@@FR: C'est la belle Françoise (autre air)
 !!!PUB: G. E. Desbarats
-!!!YEM:
 !!!PDT: 1865
-!!!SMA:
-!!!OMD:
 !!!AGN-Laforte:
 !!!AGN-type:
 !!!AGN-rime:
@@ -17,8 +14,8 @@
 *k[f#,c#,g#]	*
 *A:	*
 *M3/8	*
-*	*
-*	*
+*	*v:1
+*	*pline:1h1
 8e	C'est
 =1	=1
 4a	la
@@ -42,6 +39,7 @@
 4b	-rin,
 *	*Xitalic
 *	*Xrefrain
+*	*pline:1h1r
 8cc#	C'est
 =7	=7
 4a	la
@@ -53,10 +51,10 @@
 4ee	-çoi-
 8ddq	.
 8cc#	-se
-!!LO:PB:g=original
-=10	=10
 *	*refrain
 *	*italic
+!!LO:PB:g=original
+=10	=10
 4.ee	blanc,
 =11	=11
 8ee	blanc
@@ -66,6 +64,7 @@
 4b	-rin,
 *	*Xitalic
 *	*Xrefrain
+*	*pline:1h2
 8ee	Qui
 =13	=13
 4ee	veut
@@ -75,11 +74,11 @@
 8b	-ri-
 =15	=15
 4.a	-er,
-!!LO:PB:g=original
-=16	=16
 *	*refrain
 *	*italic
-8f#	blanc,
+!!LO:PB:g=original
+=16	=16
+8f#	blanc
 8g#	loup-
 8a	-ma-
 =17	=17
@@ -90,6 +89,7 @@
 4b/	la,
 *	*Xitalic
 *	*Xrefrain
+*	*pline:1h2r
 8ee	Qui
 =19	=19
 4ee	veut
@@ -100,25 +100,24 @@
 8b/	-ri-
 =21	=21
 4.a	-er,
-=22	=22
 *	*refrain
 *	*italic
+=22	=22
 8f#	blanc
 8g#	loup-
 8a	-ma-
 =23	=23
-4b	-rin
-!LO:TX:a:B:t=2	!
-.	.
-4cc#	chan-
+8%3b	-rin
+8%3cc#	chan-
 !!LO:PB:g=original
 =24	=24
 4a	-gé.
 *	*Xitalic
 *	*Xrefrain
-==||	==||
+==	==
 *-	*-
-!!!RWG: Tuplet in m.23 matches score but might not be encoded quite the right way
 !!!RNB: Last measure with eighth rest not encoded (editorial policy).
-!!!EED: Ève Poudrier
-!!!EEV: 2026/04/12
+!!!EED1: Ève Poudrier
+!!!EEV1: 2026/04/12
+!!!EED2: Samuel Boone
+!!!EEV2: 2026/05/20
