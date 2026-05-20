@@ -41,11 +41,12 @@
 8b	-tes
 16r	.
 *>Refrain	*>Refrain
+*	*refrain
 *	*italic
 *	*rline:R1
 16dd	Lui
 =5	=5
-8dd	ya-
+8dd	y a-
 8b	t-un
 4cc	pri-
 =6	=6
@@ -61,9 +62,9 @@
 =8	=8
 8b	-ne,
 16r	.
-*	*rline:R1r
+*	*rline:R2
 16dd	Lui
-8dd	ya-
+8dd	y a-
 8b	t-un
 =9	=9
 4cc	pri-
@@ -83,4 +84,4 @@
 ==	==
 *-	*-
 !!!EED1: Samuel Boone
-!!!EEV1: 2026/05/11
+!!!EEV1: 2026/05/20
