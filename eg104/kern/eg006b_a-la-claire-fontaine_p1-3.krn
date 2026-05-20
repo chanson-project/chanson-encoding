@@ -4,8 +4,6 @@
 !!!PTL@@FR: Chansons Populaires du Canada
 !!!OTL@@FR: À la claire fontaine
 !!!PUB: 1865
-!!!YEM:
-!!!SMA:
 !!!AGN-Laforte:
 !!!AGN-type:
 !!!AGN-rime: monorime /e/, including refrain verse
@@ -30,7 +28,7 @@
 *	*pline:1h2	*pline:2h2r	*pline:3h2r	*pline:4h2r	*pline:5h2r	*pline:6h2r	*pline:7h2r	*pline:8h2r	*pline:9h2r
 4f	M'en	Que	Je	Le	Toi	Moi	Sans	Que	Fût
 8f	al-	je	me	ros-	qui	je	l'a-	je	en-
-8a	-lant	m'y	suis	-si-	as	l'ai-	-voir	lui	-core
+8a	-lant	m'y	suis	-si-	as	l'ai-	-voir	lui	-cor[e]
 =4	=4	=4	=4	=4	=4	=4	=4	=4	=4
 8a	pro-	suis	fait	-gnol	le	t-à	mé-	re-	au
 8g	-me-	bai-	sé-	chan-	cœur	pleu-	-ri-	-fu-	ro-
@@ -48,7 +46,7 @@
 8cc	bel-	chê-	bran-	chan-	ri-	-tres-	ro-	ro-	-tres-
 8a	-le	-ne	-che	-te,	-re,	-se	-ses	-se	-se
 =7	=7	=7	=7	=7	=7	=7	=7	=7	=7
-*	*pline:2h2	*pline:3h2	*pline:4h2	*pline:5h2	*pline:6h2	*pline:7h2	*pline:8h2	*pline:9h2	*
+*	*pline:2h2	*pline:3h2	*pline:4h2	*pline:5h2	*pline:6h2	*pline:7h2	*pline:8h2	*pline:9h2	*pline:10h2
 4cc	Que	Je	Le	Toi	Moi	Sans	Que	Fût	Dans
 8cc	je	me	ros-	qui	je	l'a-	je	en-	les
 8a	m'y	suis	-si-	as	l'ai-	-voir	lui	-cor[e]	mêm's
@@ -59,6 +57,7 @@
 !!Variant for m.9
 !!LO:PB:g=original
 =9	=9	=9	=9	=9	=9	=9	=9	=9	=9
+*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain
 *	*refrain	*	*	*	*	*	*	*	*
 *	*italic	*	*	*	*	*	*	*	*
 *	*pline:R1h1	*	*	*	*	*	*	*	*
@@ -89,5 +88,6 @@
 !!!RWG: Variant of initial measure given, but unsure of where it would fit
 !!!RWG: Variant stanza given at the bottom, also unsure as to how it fits into the song
 !!!EED2: Isaac Howie
+!!!EEV2: 2026/03/10
 !!!EED3: Sam Boone
-!!!EEV3: 2026/05/18
+!!!EEV3: 2026/05/19
