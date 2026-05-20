@@ -3,11 +3,6 @@
 !!!COM: Sabatier, Charles-Wugk
 !!!LYR: Crémazie, Octave
 !!!OPR@@FR: Ô Carillon
-!!!AGN-Chamberland: patrie
-!!!AGN-Laforte: composée (strophique)
-!!!AGN-refrain: final
-!!!AGN-metre: 3:8(10)
-!!!AGN-rime: croisées (ababcdcd)
 **kern	**dynam	**text	**text	**text
 *clefG2	*	*	*	*
 *k[]	*	*	*	*
@@ -30,7 +25,7 @@
 4a	)	-vois	de	la
 8g#	]	en-	ba-	mê-
 4.a	.	-co-	-tail-	-lé-
-4e	.	-re,	-les,	e,
+4e	.	-re,	-les,	-e,
 *	*	*rp:ɔ	*rp:a	*rp:e
 *	*	*rf:ɔʁ,ə	*rf:aj,ə	*rf:le,ə
 *	*	*rs:a	*rs:e	*rs:h
@@ -65,7 +60,7 @@
 8r	.	.	.	.
 4r	.	.	.	.
 !	!	!Capital "L" in original.	!	!
-8e	.	la	qu'au	leur
+8e	.	la	qu'aux	leur
 =6	=6	=6	=6	=6
 4cc	.	trom-	por-	â-
 8b	.	-pet-	-tes	-me
@@ -180,7 +175,7 @@
 !!LO:PB:g=original
 =21	=21	=21	=21	=21
 !!LO:TX:a:i:t=rall.
-*	*	*pline:8	*pline:8r	*pline:8rc6
+*	*	*pline:8	*pline:8r	*pline:23
 2.dd	.	Pour	Pour	Sur
 [4.fn	.	mon	mon	vos
 4fn]	.	.	.	.
@@ -212,4 +207,4 @@
 ==	==	==	==	==
 *-	*-	*-	*-	*-
 !!!EED: Ève Poudrier
-!!!EEV: 2026/04/17
+!!!EEV: 2026/05/19
