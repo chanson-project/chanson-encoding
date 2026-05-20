@@ -61,6 +61,7 @@
 8gL	-ger.
 8fJ	.
 *>Refrain	*>Refrain
+*	*refrain
 *	*italic
 *	*rline:R1h1
 8e	Gai
@@ -92,7 +93,7 @@
 *	*Xrefrain
 ==	==
 *-	*-
-!!!RNB: Rhyme scheme hemistiche labelling in second half of refrain might need another look (overall refrain structure is ABBA, don't know if that needs to be represented in rline labelling)
+!!!RNB: Rhyme scheme hemistiche labelling in second half of refrain might need another look (overall refrain structure seems like is ABBA, don't know if that needs to be represented in rline labelling)
 !!!RNB: Final partial measure omitted as per rest policy
 !!!EED1: Samuel Boone
 !!!EEV1: 2026/05/14
