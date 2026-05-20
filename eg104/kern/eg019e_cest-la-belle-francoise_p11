@@ -15,7 +15,7 @@
 *C:	*
 *M6/8	*
 *	*v:1
-*	*pline:1
+*	*pline:1h1
 8cc	C'est
 =1	=1
 4cc	la
@@ -27,7 +27,7 @@
 16dd	-se,
 8dd	lon
 4cc	gai,
-*	*pline:1r
+*	*pline:1h1r
 8cc	C'est
 =3	=3
 4ee	la
@@ -38,7 +38,7 @@
 =4	=4
 4.dd	-çoi-
 4cc	-se
-*	*pline:2
+*	*pline:1h2
 8cc	Qui
 =5	=5
 4.ee	veut
@@ -52,7 +52,7 @@
 =7	=7
 4.dd	-dai-
 4cc	-ne,
-*	*pline:2r
+*	*pline:1h2r
 8cc	Qui
 !!LO:PB:g=original
 =8	=8
