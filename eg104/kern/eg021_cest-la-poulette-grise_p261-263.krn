@@ -38,6 +38,7 @@
 8dd	-se,
 8r	.
 *>Refrain	*>Refrain
+*	*refrain
 *	*italic
 *	*rline:R1
 =5	=5
@@ -100,6 +101,6 @@
 *	*Xrefrain
 ==	==
 *-	*-
-!!!RNB: Final rednundant partial measure removed as per policy
+!!!RNB: Final redundant partial measure removed as per policy
 !!!EED1: Samuel Boone
-!!!EEV1: 2026/05/16
+!!!EEV1: 2026/05/20
