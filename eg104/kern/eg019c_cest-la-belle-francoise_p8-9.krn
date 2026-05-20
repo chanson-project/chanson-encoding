@@ -5,11 +5,8 @@
 !!!PTL@@FR: Chansons Populaires du Canada
 !!!OTL@@FR: C'est la belle françoise
 !!!PUB: G. E. Desbarats
-!!!YEM:
 !!!PDT: 1865
-!!!SMA:
-!!!OMD:
-!!!AGN-Laforte: Chanson strophique (avec refrain intégreé et final
+!!!AGN-Laforte: Chanson strophique (avec refrain intégreé et final)
 !!!AGN-metre: 5:2*2(6); R:3(2,5,5)
 !!!AGN-type: mariage
 !!!AGN-rime: aabb (without refrain)
@@ -23,9 +20,9 @@
 8dd	C'est
 =1	=1
 4dd	la
-8b-/	bel-
-4dd	-le
-8cc	Fran-
+8een	bel-
+4ff	-le
+8a	Fran-
 =2	=2
 (8ccN/	.
 8b-)	-çoi-
@@ -39,7 +36,7 @@
 4g	gai,
 *	*Xitalic
 *	*Xrefrain
-*	*pline:1r
+*	*pline:1h1r
 8dd	C'est
 =3	=3
 4dd	la
@@ -56,12 +53,12 @@
 *	*rf:waz,ə
 *	*rs:a
 8r	.
-=5	=5
 *	*pline:2
+=5	=5
 4.b-	Qui
 4.f	veut
 =6	=6
-8g	se
+8g	s'y
 8a	ma-
 8b-/	-ri-
 8cc	-er,
@@ -81,16 +78,15 @@
 8g	-te,
 *	*Xitalic
 *	*Xrefrain
+*	*pline:2h1r
 !!LO:PB:g=original
 =8	=8
-*	*pline:2r
 4.b-/	Qui
 4.f	veut
 =9	=9
 8g	s'y
 8a	ma-
 8b-/	-ri-
-8cc	-er,
 8cc	-er,
 *	*rp:e
 *	*rf:je
@@ -111,5 +107,7 @@
 ==||	==||
 *-	*-
 !!!RDF**kern: N = cue size
-!!!EED: Ève Poudrier
-!!!EEV: 2026/04/13
+!!!EED1: Ève Poudrier
+!!!EEV1: 2026/04/13
+!!!EED2: Samuel Boone
+!!!EEV2: 2026/05/20
