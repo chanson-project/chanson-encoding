@@ -28,7 +28,7 @@
 *	*pline:1h2
 8b-	Lui
 =4	=4
-4b-	ya-
+4b-	y a-
 8f	t-un
 !!LO:PB:g=original
 =5	=5
@@ -60,6 +60,7 @@
 =13	=13
 4f	nuit.
 8r	.
+*>Refrain	*>Refrain
 *	*refrain
 *	*italic
 *	*rline:R1
@@ -106,4 +107,4 @@
 *-	*-
 !!!RNB: Final partial measure with solitary eighth rest omitted
 !!!EED1: Samuel Boone
-!!!EEV1: 2026/05/11
+!!!EEV1: 2026/05/19
