@@ -60,6 +60,7 @@
 8g)	-re?
 8r	.
 *>Refrain	*>Refrain
+*	*refrain
 *	*italic
 *	*rline:R1
 =9	=9
@@ -109,4 +110,4 @@
 ==	==
 *-	*-
 !!!EED1: Samuel Boone
-!!!EEV1: 2026/05/17
+!!!EEV1: 2026/05/19
