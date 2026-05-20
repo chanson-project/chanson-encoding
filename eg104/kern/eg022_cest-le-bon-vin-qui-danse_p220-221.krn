@@ -15,7 +15,7 @@
 *E-:	*	*
 *M3/8	*	*
 *	*v:1	*v:2
-*	*pline:1h1	*pline:3h1
+*	*pline:1h1	*pline:2h1
 8g	Ce	Pass'
 =1	=1	=1
 4cc	n'est	par
@@ -28,7 +28,7 @@
 8b-/	pour-	par
 =4	=4	=4
 4.g	-ri,	là,
-*	*pline:1h2	*pline:3h2
+*	*pline:1h2	*pline:2h2
 !!LO:PB:g=original
 =5	=5	=5
 8cc	C'est	Ce
@@ -43,7 +43,7 @@
 =8	=8	=8
 4cc	-se!	-rettes?
 8r	.	.
-*	*pline:2h1	*pline:4h1
+*	*pline:1h2r	*pline:2h2r
 ==9	==9	==9
 8g	C'est	Ce n'est
 8g	le	point
@@ -54,10 +54,14 @@
 8f	qui	amou-
 =11	=11	=11
 4b-/	dans[e]	-rett'
+*	*refrain	*refrain
+*	*italic	*italic
 8b-/	i-	i-
 =12	=12	=12
 4.e-	-ci,	-ci,
-*	*pline:1h2r	*pline:3h2r
+*	*Xitalic	*Xitalic
+*	*Xrefrain	*Xrefrain
+*	*pline:1h2r	*pline:2h2r
 =13	=13	=13
 8g	C'est	Ce
 8g	le	n'est
@@ -75,4 +79,4 @@
 !!!RWG: Second verse has more syllables than first, unsure if encoded properly & needs a second look
 !!!RNB: Final empty partial measure omitted as per policy
 !!!EED1: Samuel Boone
-!!!EEV1: 2026/05/17
+!!!EEV1: 2026/05/20
