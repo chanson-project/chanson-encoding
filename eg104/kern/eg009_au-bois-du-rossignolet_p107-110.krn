@@ -15,20 +15,20 @@
 *F:	*	*	*	*	*	*	*	*
 *M2/4	*	*	*	*	*	*	*	*
 *	*v:1	*v:2	*v:3	*v:4	*v:5	*v:6	*v:7	*v:8
-*	*pline:1Ha	*pline:2Har	*pline:3Har	*pline:4Har	*pline:5Har	*pline:6Har	*pline:7Har	*pline:8Har
+*	*pline:1h1	*pline:2h1r	*pline:3h1r	*pline:4h1r	*pline:5h1r	*pline:6h1r	*pline:7h1r	*pline:8h1r
 8c	M'en	Je	Je	Ah!	Je	M'en	Ah!	"Ah!
 =1	=1	=1	=1	=1	=1	=1	=1	=1
 8f	al-	me	me	j'ai	m'en	al-	sa-	qu'il
 8g	-lant	suis	suis	pris	fis	-lant	-vez-	est
 8a	pro-	en-	ré-	mon	un	en	vous,	doux
-8b-/	-me-	-dor-	-vei-	cou-	flû-	chan-	mes-	d'ai-
+8b-/	-me-	-dor-	-veil-	cou-	flû-	chan-	mes-	d'ai-
 =2	=2	=2	=2	=2	=2	=2	=2	=2
-16cc	-ner	-mi	-llé	-teau	-tiau	-tant	-sieurs,	-mer
+16cc	-ner	-mi	-lé	-teau	-tiau	-tant	-sieurs,	-mer
 16dd	(re-	(re-	(re-	(re-	(re-	(re-	(re-	(re-
-16cc	-lé	-li	-lé	-lo	-lo	-lan	-leu	lé
+16cc	-lé	-li	-lé	-lo	-lo	-lan	-leu	-lé
 16b-	re-	re-	re-	re-	re-	re-	re-	re-
 8a\	-lé)	-li)	-lé),	-lo),	-lo),	-lan)	-leu)	-lé)
-*	*pline:1Hb	*pline:2Hbr	*pline:3Hbr	*pline:4Hbr	*pline:5Hbr	*pline:6Hbr	*pline:7Hbr	*pline:8Hbr
+*	*pline:1h2	*pline:2h2r	*pline:3h2r	*pline:4h2r	*pline:5h2r	*pline:6h2r	*pline:7h2r	*pline:8h2r
 8b-	Le	À	Le	La	Un	Le	Ce	La
 !!LO:PB:g=original
 =3	=3	=3	=3	=3	=3	=3	=3	=3
@@ -42,7 +42,7 @@
 16cc	-lin	-lin	-li	-lé	-li	-lin	-li,	-lin
 16b-	re-	re-	re-	re-	re-	re-	re-	re-
 8a\	-lin)	-lin)	-li)	-lé)	-li)	-lin)	-li)	-lin)
-*	*pline:1Hbr	*pline:2Hbr	*pline:3Hbr	*pline:4Hbr	*pline:5Hbr	*pline:6Hbr	*pline:7Hbr	*pline:8Hbr
+*	*pline:1h2r	*pline:2h2r	*pline:3h2r	*pline:4h2r	*pline:5h2r	*pline:6h2r	*pline:7h2r	*pline:8h2r
 8b-	Le	À	Le	La	Un	Le	Ce	La
 =5	=5	=5	=5	=5	=5	=5	=5	=5
 8.g	long	l'om-	pin	bran-	fla-	long	que	fill'
@@ -53,29 +53,29 @@
 =6	=6	=6	=6	=6	=6	=6	=6	=6
 4g	-min,	pin.	-ri.	-pé;	-si;	-min.	dit?	-sin!
 8r	.	.	.	.	.	.	.	.
-*	*pline:2Ha	*pline:3Ha	*pline:4Ha	*pline:5Ha	*pline:6Ha	*pline:7Ha	*pline:8Ha	*pline:9Ha
+*	*pline:2h1	*pline:3h1	*pline:4h1	*pline:5h1	*pline:6h1	*pline:7h1	*pline:8h1	*pline:9h1
 8f	Je	Je	Ah!	Je	M'en	Ah!	"Ah!	Quand
 =7	=7	=7	=7	=7	=7	=7	=7	=7
 8g	me	me	j'ai	m'en	al-	sa-	qu'il	on
 8b-/	suis	suis	pris	fis	-lant	-vez-	est	l'a
 8a	en-	ré-	mon	un	en	vous,	doux	va'
-8cc	-dor-	-vei-	cou-	flû-	chan-	mes-	d'ai-	le
+8cc	-dor-	-veil-	cou-	flû-	chan-	mes-	d'ai-	le
 =8	=8	=8	=8	=8	=8	=8	=8	=8
-16f	-mi'	-lle	-teau	-tiau	-tant	-sieurs,	-mer	soi-
+16f	-mi'	-le	-teau	-tiau	-tant	-sieurs,	-mer	soi-
 16g	(re-	(re-	(re-	(re-	(re-	(re-	(re-	-(re-
 16f	-li	-lé	-lo	-lo	-lan	-leu	-lé	-la
 16e	re-	re-	re-	re-	re-	re-	re-	re-
-8f	-li)	-lé),	-lo),	-lo),	-lan)	-leu)	-lé)	-la)-r
-*	*pline:2Hb	*pline:3Hb	*pline:4Hb	*pline:5Hb	*pline:6Hb	*pline:7Hb	*pline:8Hb	*pline:9Hb
+8f	-li)	-lé),	-lo),	-lo),	-lan)	-leu)	-lé)	-la)r
+*	*pline:2h2	*pline:3h2	*pline:4h2	*pline:5h2	*pline:6h2	*pline:7h2	*pline:8h2	*pline:9h2
 8a	À	Le	La	Un	Le	Ce	La	On
 !!LO:PB:g=original
 =9	=9	=9	=9	=9	=9	=9	=9	=9
-16f	l'om-	pin	branch[e]-	fla-	long	que	fi-	la
+16f	l'om-	pin	branche-	fla-	long	que	fi-	la
 16g	-(re-	(re-	-(re-	-(re-	(re-	(re-	-(re-	(re-
 16f	-lom	-lin	-lan	-la	-lon	-le	-li	-la
 16e	re-	re-	re-	re-	re-	re-	re-	re-
 8f	-lom)-	-lin)	-lan)-	-la)-	-lon)	-le)	-li)-	-la)
-8a	-bre	é-	-ché	geo-	du	ma	-ll' de	voit
+8a	-bre	é-	-ché	-geo-	du	ma	-ll' de	voit
 =10	=10	=10	=10	=10	=10	=10	=10	=10
 16f	sous	-tait	j'ai	-let	grand	flû-	son	le
 16g	(re-	(re-	(re-	(re-	(re-	-(re-	(re-	(re-
@@ -93,7 +93,7 @@
 *>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain
 *	*refrain	*	*	*	*	*	*	*
 *	*italic	*	*	*	*	*	*	*
-*	*pline:R1Ha	*	*	*	*	*	*	*
+*	*rline:R1h1	*	*	*	*	*	*	*
 8a	Au	.	.	.	.	.	.	.
 =12	=12	=12	=12	=12	=12	=12	=12	=12
 8b-/	bois	.	.	.	.	.	.	.
@@ -107,7 +107,7 @@
 16cc	-let	.	.	.	.	.	.	.
 16b-/	re-	.	.	.	.	.	.	.
 8a	-let)	.	.	.	.	.	.	.
-*	*pline:R1Hb	*	*	*	*	*	*	*
+*	*rline:R1h2	*	*	*	*	*	*	*
 8a	Au	.	.	.	.	.	.	.
 !!LO:PB:g=original
 =14	=14	=14	=14	=14	=14	=14	=14	=14
@@ -126,5 +126,5 @@
 1r	.	.	.	.	.	.	.	.
 ==	==	==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-	*-	*-
-!!!EED-1: Samuel Boone
-!!!EEV-1: 2026/04/14
+!!!EED1: Samuel Boone
+!!!EEV1: 2026/05/19
