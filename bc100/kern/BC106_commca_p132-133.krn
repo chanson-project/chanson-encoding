@@ -8,9 +8,6 @@
 !!!YEM: On ne peut reproduire, enregistrer ou diffuser en tout ou en partie le présent ouvrage, sous quelque procédé que ce soit, électronique, mécanique, photographique, sonore, magnétique ou autre, sans avoir obtenu au préalable l'autorisation écrite de l'éditrice.
 !!!PDT: 2011
 !!!SMA:2012 Bibliothèque nationale du Québec; Biblothèque nationale du Canada
-!!!AGN-Laforte: Strophique (with integrated refrain), 5:8(6)
-!!!AGN-type: peasant, courtship
-!!!AGN-rime: croisées
 **kern	**text	**text	**text	**text	**text
 *clefG2	*	*	*	*	*
 *k[b-e-]	*	*	*	*	*
@@ -18,68 +15,67 @@
 !!LO:TX:a:t=Allegro
 *M2/4	*	*	*	*	*
 *	*v:1	*v:2	*v:3	*v:4	*v:5
-*	*pline:1	*pline:9	*	*	*
+*	*pline:1	*pline:9	*pline:17	*pline:25	*pline:33
 {8f	Dans	En	"C'est	"Mais	"Ah!
 =1	=1	=1	=1	=1	=1
 8dd	l'rang	ar-	que,	que	"ben"
-8dd	d'Saint--	-ri-	mam'	di-	mon
+8dd	d'Saint--	-ri-	mam'-	di-	mon
 8dd	Do-	-vant	-zell'	-ra	Ma-
 8dd	-mi-	chez	Phon-	votr'	-jo-
 =2	=2	=2	=2	=2	=2
-!! mi should be hyphenated to niqu(e)
-8b-	-niqu[e],	ell[e],	-sin[e],	pèr[e]	riqu[e],
-*	*rp:i	*rp:e	*	*	*
-*	*rf:ik,ə	*	*	*	*
-*	*rs:a	*	*	*	*
-*	*pline:2	*pline:10	*	*	*
+8b-	-niqu[e],	ell[e],	-sin[e],	pèr[e]	-riqu[e],
+*	*rp:i	*rp:ɛ	*rp:i	*rp:ɛː	*rp:i
+*	*rf:ik,[ə]	*rf:ɛl,[ə]	*rf:in,[ə]	*rf:pɛːʁ,[ə]	*rf:ik,[ə]
+*	*rs:a	*rs:d	*rs:c	*rs:g	*rs:a
+*	*pline:2	*pline:10	*pline:18	*pline:26	*pline:34
 8b-	Par	Il	Je	D'un	Moi
 8b-	un	se	vous	beau	je
 8b-	beau	gour-	di-	pro-	n'pens[e]
 !!LO:PB:g=original
 =3	=3	=3	=3	=3	=3
 4f	soir,	-mait	-rai,	-jet	pas
-*	*refrain	*	*	*	*
-*	*italic	*	*	*	*
+*	*refrain	*refrain	*refrain	*refrain	*refrain
+*	*italic	*italic	*italic	*italic	*italic
 !!LO:TX:a:i:t=rall.
 4d	comm'	comm'	comm'	comm'	comm'
 =4	=4	=4	=4	=4	=4
 4.e-}	ça!	ça!	ça!	ça!	ça!
-*	*rp:a	*	*	*	*
-*	*rf:sa	*	*	*	*
-*	*rs:b	*	*	*	*
-*	*Xitalic	*	*	*	*
-*	*Xrefrain	*	*	*	*
-*	*pline:3	*	*	*	*
+*	*Xitalic	*Xitalic	*Xitalic	*Xitalic	*Xitalic
+*	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain
+*	*rp:a	*rp:a	*rp:a	*rp:a	*rp:a
+*	*rf:sa	*rf:sa	*rf:sa	*rf:sa	*rf:sa
+*	*rs:b	*rs:b	*rs:b	*rs:b	*rs:b
+*	*pline:3	*pline:11	*pline:19	*pline:27	*pline:35
 {8e-	S'en	"Bon-	Un	Je	L'ar-
 =5	=5	=5	=5	=5	=5
 8cc	al-	-soir,	grand	sens	-gent,
 8cc	-lait	la	se-	que	c'est
-8cc	Ma-	de-	-cret	j'le-	"ben"
+8cc	Ma-	de-	-cret	j'l'e-	"ben"
 8b-	-jo-	-moi-	m'ta-	-xas-	ma-
 =6	=6	=6	=6	=6	=6
 8a	-riqu[e],	-sell[e],"	-quin[e],	-pèr[e],	-giqu[e],
-*	*rp:i	*	*	*	*
-*	*rf:ik,ə	*	*	*	*
-*	*rs:a	*	*	*	*
-*	*pline:4	*	*	*	*
+*	*rp:i	*rp:ɛ	*rp:i	*rp:ɛː	*rp:i
+*	*rf:ik,[ə]	*rf:ɛl,[ə]	*rf:in,[ə]	*rf:pɛːʁ,[ə]	*rf:ik,[ə]
+*	*rs:a	*rs:d	*rs:c	*rs:g	*rs:a
+*	*pline:4	*pline:12	*pline:20	*pline:28	*pline:36
 8a	Un	Qu'il	Je	Moi,	Mais
 8a	vrai	mur-	n'puis	pau-	ça
 8g	bon	-mu-	res-	-vre	s'en
 !!LO:PB:g=original
 =7	=7	=7	=7	=7	=7
 4f	gars,	-rait	-ter	gueux	va
-*	*refrain	*	*	*	*
-*	*italic	*	*	*	*
+*	*refrain	*refrain	*refrain	*refrain	*refrain
+*	*italic	*italic	*italic	*italic	*italic
 !!LO:TX:a:i:t=rall.
 4c	comm'	comm'	comm'	comm'	comm'
 =8	=8	=8	=8	=8	=8
 4.d}	ça!	ça!	ça!	ça!	ça!
-*	*rp:a	*	*	*	*
-*	*rf:sa	*	*	*	*
-*	*rs:b	*	*	*	*
-*	*Xitalic	*	*	*	*
-*	*Xrefrain	*	*	*	*
-*	*pline:5	*	*	*	*
+*	*Xitalic	*Xitalic	*Xitalic	*Xitalic	*Xitalic
+*	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain
+*	*rp:a	*rp:a	*rp:a	*rp:a	*rp:a
+*	*rf:sa	*rf:sa	*rf:sa	*rf:sa	*rf:sa
+*	*rs:b	*rs:b	*rs:b	*rs:b	*rs:b
+*	*pline:5	*pline:13	*pline:21	*pline:29	*pline:37
 !!LO:TX:a:B:t=a Tempo
 {8f	Voir	Tous	Je	"Ben"	Faut
 =9	=9	=9	=9	=9	=9
@@ -89,28 +85,28 @@
 8dd	Phon-	ber-	p'tit'	-ra:	et
 !!LO:PB:g=original
 =10	=10	=10	=10	=10	=10
-8b-	-sin[e]	-ceus[e]	femm[e]	"Trèv[e]	sag[e],
-*	*rp:i	*	*	*	*
-*	*rf:in,ə	*	*	*	*
-*	*rs:c	*	*	*	*
-*	*pline:6	*	*	*	*
+8b-	-sin[e]	-ceus[e],	femm[e]	"Trèv[e]	sag[e],
+*	*rp:i	*rp:ø	*rp:ɑ	*rp:ɛ	*rp:a
+*	*rf:in,[ə]	*rf:øz,[ə]	*rf:am,[ə]	*rf:ʁɛv,[ə]	*rf:aʒ,[ə]
+*	*rs:c	*rs:e	*rs:f	*rs:h	*rs:i
+*	*pline:6	*pline:14	*pline:22	*pline:30	*pline:38
 8b-	Qu'il	Ils	Qui	À	Dans
 8b-	ché-	se	m'ché-	des	un'
 8b-	-ris-	ber-	-ri-	a-	ques-
 =11	=11	=11	=11	=11	=11
 4f	-sait	-çaient	-rait	-mours	-tion
-*	*refrain	*	*	*	*
-*	*italic	*	*	*	*
+*	*refrain	*refrain	*refrain	*refrain	*refrain
+*	*italic	*italic	*italic	*italic	*italic
 !!LO:TX:a:i:t=rall.
 4d	comm'	comm'	comm'	comm'	comm'
 =12	=12	=12	=12	=12	=12
 4.g}	ça!	ça!	ça!	ça!	ça!
-*	*rp:a	*	*	*	*
-*	*rf:sa	*	*	*	*
-*	*rs:b	*	*	*	*
-*	*Xitalic	*	*	*	*
-*	*Xrefrain	*	*	*	*
-*	*pline:7	*	*	*	*
+*	*Xitalic	*Xitalic	*Xitalic	*Xitalic	*Xitalic
+*	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain
+*	*rp:a	*rp:a	*rp:a	*rp:a	*rp:a
+*	*rf:sa	*rf:sa	*rf:sa	*rf:sa	*rf:sa
+*	*rs:b	*rs:b	*rs:b	*rs:b	*rs:b
+*	*pline:7	*pline:15	*pline:23	*pline:31	*pline:39
 !!LO:TX:a:B:t=a Tempo
 {8g	Qu'il	"Que	Je	Pour	Pour
 =13	=13	=13	=13	=13	=13
@@ -120,28 +116,28 @@
 8b-	donc	heu-	votr[e]	il	mé-
 !!LO:PB:g=original
 =14	=14	=14	=14	=14	=14
-8a	fin[e],	-reus[e]	âm[e]	rêv[e]	-nag[e],
-*	*rp:i	*	*	*	*
-*	*rf:in,ə	*	*	*	*
-*	*rs:c	*	*	*	*
-*	*pline:8	*	*	*	*
+8a	fin[e],	-reus[e],	âm[e]	rêv[e]	-nag[e],
+*	*rp:i	*rp:ø	*rp:ɑ	*rp:ɛ	*rp:a
+*	*rf:in,[ə]	*rf:øz,[ə]	*rf:am,[ə]	*rf:ʁɛv,[ə]	*rf:aʒ,[ə]
+*	*rs:c	*rs:e	*rs:f	*rs:h	*rs:i
+*	*pline:8	*pline:16	*pline:24	*pline:32	*pline:40
 8a	Il	Quand	Qu'on	Quèqu'	Il
 8a	le	vous	i-	gros	faut
 8g	di-	m'ja-	-rait	ri-	s'ai-
 =15	=15	=15	=15	=15	=15
 4f	-sait	-sez	"ben"	-chard	-mer
-*	*refrain	*	*	*	*
-*	*italic	*	*	*	*
+*	*refrain	*refrain	*refrain	*refrain	*refrain
+*	*italic	*italic	*italic	*italic	*italic
 !!LO:TX:a:i:t=rall.
 4ee-	comm'	comm'	comm'	comm'	comm'
 =16	=16	=16	=16	=16	=16
 4.dd}	ça!	ça!	ça!	ça!	ça!
-*	*rp:a	*	*	*	*
-*	*rf:sa	*	*	*	*
-*	*rs:b	*	*	*	*
-*	*Xitalic	*	*	*	*
-*	*Xrefrain	*	*	*	*
-*	*pline:7r	*	*	*	*
+*	*Xitalic	*Xitalic	*Xitalic	*Xitalic	*Xitalic
+*	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain
+*	*rp:a	*rp:a	*rp:a	*rp:a	*rp:a
+*	*rf:sa	*rf:sa	*rf:sa	*rf:sa	*rf:sa
+*	*rs:b	*rs:b	*rs:b	*rs:b	*rs:b
+*	*pline:7r	*pline:15r	*pline:23r	*pline:31r	*pline:39r
 !!LO:TX:a:B:t=a Tempo
 {{8dd	Qu'il	Que	Je	Pour	Pour
 =17	=17	=17	=17	=17	=17
@@ -151,23 +147,23 @@
 8ee-	donc	heu-	votr[e]	il	mé-
 !!LO:PB:g=original
 =18	=18	=18	=18	=18	=18
-4.g}	fin[e],	-reus[e]	âm[e]	rêv[e]	-nag[e],
-*	*pline:7r	*	*	*	*
-*	*rp:i	*	*	*	*
-*	*rf:in,ə	*	*	*	*
-*	*rs:c	*	*	*	*
+4.g}	fin[e],	-reus[e],	âm[e]	rêv[e]	-nag[e],
+*	*rp:i	*rp:ø	*rp:ɑ	*rp:ɛ	*rp:a
+*	*rf:in,[ə]	*rf:øz,[ə]	*rf:am,[ə]	*rf:ʁɛv,[ə]	*rf:aʒ,[ə]
+*	*rs:c	*rs:e	*rs:f	*rs:h	*rs:i
+*	*pline:7r	*pline:15r	*pline:23r	*pline:31r	*pline:39r
 {8g	Qu'il	Que	Je	Pour	Pour
 =19	=19	=19	=19	=19	=19
 8cc	la	vous	crois	sa	fair[e]
 8cc	trou-	m'ren-	lir[e]	Phon-	un
-8cc	-vait	-dez	en	sin[e]	bon
+8cc	-vait	-dez	en	-sin[e]	bon
 8cc	donc	heu-	votr[e]	il	mé-
 =20	=20	=20	=20	=20	=20
-4.f}	fin[e],	-reus[e]	âm[e]	rêv[e]	-nag[e],
-*	*rp:i	*	*	*	*
-*	*rf:in,ə	*	*	*	*
-*	*rs:c	*	*	*	*
-*	*pline:7r	*	*	*	*
+4.f}	fin[e],	-reus[e],	âm[e]	rêv[e]	-nag[e],
+*	*rp:i	*rp:ø	*rp:ɑ	*rp:ɛ	*rp:a
+*	*rf:in,[ə]	*rf:øz,[ə]	*rf:am,[ə]	*rf:ʁɛv,[ə]	*rf:aʒ,[ə]
+*	*rs:c	*rs:e	*rs:f	*rs:h	*rs:i
+*	*pline:7r	*pline:15r	*pline:23r	*pline:31r	*pline:39r
 {8f	Qu'il	Que	Je	Pour	Pour
 !!LO:PB:g=original
 =21	=21	=21	=21	=21	=21
@@ -176,35 +172,33 @@
 8b-	-vait	-dez	en	-sin[e]	bon
 8b-	donc	heu-	votr[e]	il	mé-
 =22	=22	=22	=22	=22	=22
-8a	fin[e],	-reus[e]	âm[e]	rêv[e]	-nag[e],
-*	*rp:i	*	*	*	*
-*	*rf:in,ə	*	*	*	*
-*	*rs:c	*	*	*	*
-*	*pline:8r	*	*	*	*
+8a	fin[e],	-reus[e],	âm[e]	rêv[e]	-nag[e],
+*	*rp:i	*rp:ø	*rp:ɑ	*rp:ɛ	*rp:a
+*	*rf:in,[ə]	*rf:øz,[ə]	*rf:am,[ə]	*rf:ʁɛv,[ə]	*rf:aʒ,[ə]
+*	*rs:c	*rs:e	*rs:f	*rs:h	*rs:i
+*	*pline:8r	*pline:16r	*pline:24r	*pline:32r	*pline:40r
 8f	Il	Quand	Qu'on	Quèqu'	Il
 8f	le	vous	i-	gros	faut
-8f	di-	m'ja-	-rait	re-	s'ai-
+8f	di-	m'ja-	-rait	ri-	s'ai-
 =23	=23	=23	=23	=23	=23
 4g	-sait	-sez	"ben"	-chard	-mer
-*	*refrain	*	*	*	*
-*	*italic	*	*	*	*
+*	*refrain	*refrain	*refrain	*refrain	*refrain
+*	*italic	*italic	*italic	*italic	*italic
 !!LO:TX:a:i:t=rall.
 4a	comm'	comm'	comm'	comm'	comm'
 =24	=24	=24	=24	=24	=24
 4.b-;	ça!	ça!"	ça!"	ça!"	ça!"
-*	*rp:a	*	*	*	*
-*	*rf:sa	*	*	*	*
-*	*rs:b	*	*	*	*
-*	*Xitalic	*	*	*	*
-*	*Xrefrain	*	*	*	*
+*	*Xitalic	*Xitalic	*Xitalic	*Xitalic	*Xitalic
+*	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain
+*	*rp:a	*rp:a	*rp:a	*rp:a	*rp:a
+*	*rf:sa	*rf:sa	*rf:sa	*rf:sa	*rf:sa
+*	*rs:b	*rs:b	*rs:b	*rs:b	*rs:b
 8r}}	.	.	.	.	.
 ==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-
-!!!EED-1: Gavin Topnik
-!!!EEV-1: 2026/01/13
-!!!EED-2: Jack Etchegary
-!!!EEV-2: 2026/01/22
-!!!EEV-3: Judith Valerie Engel
-!!!EEV-3: 2026/02/04
-!!!EED-4: Ève Poudrier
-!!!EEV-4: 2026/04/10
+!!!EED1: Gavin Topnik
+!!!EEV1: 2026/01/13
+!!!EEV2: Judith Valerie Engel
+!!!EEV2: 2026/02/04
+!!!EED3: Ève Poudrier
+!!!EEV3: 2026/05/19
