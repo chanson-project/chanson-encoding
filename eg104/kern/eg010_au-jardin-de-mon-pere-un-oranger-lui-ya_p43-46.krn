@@ -37,7 +37,6 @@
 8cc	ya
 *	*refrain
 *	*italic
-*	*pline:R1
 16dd	li-
 16b	-mou-
 8cc	-za;
@@ -68,13 +67,16 @@
 8ee	-pra,
 *	*refrain
 *	*italic
-*	*pline:R1r
 16dd	li-
 16cc	-mou-
 (8eeL	-za,
 8ddJ)	.
+*	*Xitalic
+*	*Xrefrain
 *>Refrain	*>Refrain
-*	*pline:R2
+*	*refrain
+*	*italic
+*	*rline:R1
 =9	=9
 8cc	J'ai-
 8cc	-me,
@@ -85,14 +87,14 @@
 8cc	gai,
 8cc	gai,
 8b	gai,
-*	*pline:R3
+*	*rline:R2
 16b	J'ai
 16b	le
 =11	=11
 8a	cœur
 8a	san
 4g	gai;
-*	*pline:R4
+*	*rline:R3
 =12	=12
 8g	J'en-
 8dd	-ten-
@@ -103,7 +105,7 @@
 8ee	-ter,
 8gg	dan-
 8cc	-ser
-*	*pline:R5
+*	*rline:R4
 16cc	Les
 16cc	mou-
 =14	=14
@@ -115,7 +117,7 @@
 =15	=15
 8g	-dé;
 8r	.
-*	*pline:R6
+*	*rline:R5h1
 4cc	Dou,
 !!LO:PB:g=original
 =16	=16
@@ -127,7 +129,8 @@
 16a	mou-
 =17	=17
 8a\	-tons,
-16b	les
+*	*rline:R5h2
+16b	Les
 16cc	mou-
 8dd	-tons,
 16dd	les
@@ -142,7 +145,7 @@
 =19	=19
 8cc	-dé,
 8r	.
-*	*pline:R6r
+*	*rline:R5h1r
 4cc	Dou,
 =20	=20
 8b	dou,
@@ -154,7 +157,8 @@
 !!LO:PB:g=original
 =21	=21
 8a	-tons,
-16b	les
+*	*rline:R5h2r
+16b	Les
 16cc	mou-
 8dd	-tons,
 16dd	les
@@ -175,5 +179,5 @@
 *-	*-
 !!!RWG: Unsure if articulation in measure 8 is decrescendo or accent; left out for now
 !!!RNB: Final, empty measure omitted
-!!!EED-1: Samuel Boone
-!!!EEV-1: 2026/05/07
+!!!EED1: Samuel Boone
+!!!EEV1: 2026/05/19
