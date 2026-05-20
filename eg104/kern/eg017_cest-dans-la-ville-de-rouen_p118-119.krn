@@ -56,7 +56,7 @@
 *>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain
 *	*refrain	*	*	*
 *	*italic	*	*	*
-*	*pline:R1	*	*	*
+*	*rline:R1	*	*	*
 8g	L'en-	.	.	.
 !!LO:PB:g=original
 =9	=9	=9	=9	=9
@@ -68,7 +68,7 @@
 4a	-lou-	.	.	.
 8g	-re,	.	.	.
 8r	.	.	.	.
-*	*pline:R2	*	*	*
+*	*rline:R2	*	*	*
 =11	=11	=11	=11	=11
 8c	Dan-	.	.	.
 8g	-sons	.	.	.
@@ -78,7 +78,7 @@
 8g	-tour,	.	.	.
 8g	tour-	.	.	.
 4g	-lour,	.	.	.
-*	*pline:R3	*	*	*
+*	*rline:R3	*	*	*
 !!LO:PB:g=original
 =13	=13	=13	=13	=13
 8g	Dan-	.	.	.
@@ -98,5 +98,5 @@
 4r	.	.	.	.
 ==	==	==	==	==
 *-	*-	*-	*-	*-
-!!!EED-1: Samuel Boone
-!!!EEV-1: 2026/03/23
+!!!EED1: Samuel Boone
+!!!EEV1: 2026/05/20
