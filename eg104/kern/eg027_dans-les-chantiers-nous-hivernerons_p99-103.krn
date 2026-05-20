@@ -32,8 +32,8 @@
 4g	Les	Sou-	Sou-	Pour	Aus-	Nous
 4dd	ri-	-vent	-vent	le	-si	ap-
 =6	=6	=6	=6	=6	=6	=6
-4dd	-viè-	tu	tu	temps	pour	-port'
-4cc	-res	couches	fais	que	re-	-tu
+4dd	-viè-	tu	tu	temps	pour	-port'-
+4cc	-res	couches	fais	que	re-	tu
 !!LO:PB:g=original
 =7	=7	=7	=7	=7	=7	=7
 4ee	sont	par	un	j'ai	-voir	ben
@@ -47,7 +47,7 @@
 4ff	C'est	À	Tu	Quand	Le	Que
 4ee	le	la	vas	l'bour-	bon-	l'diabl[e]
 =10	=10	=10	=10	=10	=10	=10
-4dd	temps	pluie,	trou-	-geois	-homm[e]	em-
+4dd	temps	plui[e],	trou-	-geois	-homm[e]	em-
 4ff	d'al-	au	-ver	est	est	-port
 =11	=11	=11	=11	=11	=11	=11
 4ee	-ler	mau-	ton	en	à	les
@@ -55,7 +55,7 @@
 4gg	4dd	aux	-vais	bour-	banq'-	la	chan-
 *v	*v	*	*	*	*	*	*
 =12	=12	=12	=12	=12	=12	=12
-2cc	bois	temps,	-geois	-route,	porte,	-tiers!
+2cc	bois	temps,	-geois	-rout[e],	porte,	-tiers!
 *	*pline:4	*pline:8	*pline:12	*pline:16	*pline:20	*pline:24
 !!LO:PB:g=original
 =13	=13	=13	=13	=13	=13	=13
@@ -71,8 +71,9 @@
 =16	=16	=16	=16	=16	=16	=16
 4.g	pois!	temps!	-toi'.	croûtes.	-gotte.	-rai!
 *>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain
+*	*refrain	*	*	*	*	*
 *	*italic	*	*	*	*	*
-*	*pline:R1	*	*	*	*	*
+*	*rline:R1	*	*	*	*	*
 8f	Dans	.	.	.	.	.
 =17	=17	=17	=17	=17	=17	=17
 4e	les	.	.	.	.	.
@@ -87,7 +88,7 @@
 4a	-ne-	.	.	.	.	.
 =20	=20	=20	=20	=20	=20	=20
 4.dd	-rons!	.	.	.	.	.
-*	*pline:R1r	*	*	*	*	*
+*	*rline:R1r	*	*	*	*	*
 8cc	Dans	.	.	.	.	.
 =21	=21	=21	=21	=21	=21	=21
 4dd	les	.	.	.	.	.
@@ -103,8 +104,9 @@
 =24	=24	=24	=24	=24	=24	=24
 2cc	-rons!	.	.	.	.	.
 *	*Xitalic	*	*	*	*	*
+*	*Xrefrain	*	*	*	*	*
 ==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-
 !!!RWG: First line of verse 2 & verse 6 syllable count is too high for the notes (syllable setting might warrant a second look)
-!!!EED-1: Samuel Boone
-!!!EEV-1: 2026/04/14
+!!!EED1: Samuel Boone
+!!!EEV1: 2026/05/20
