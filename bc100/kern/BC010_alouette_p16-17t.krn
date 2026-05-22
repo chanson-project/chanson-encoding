@@ -11,151 +11,162 @@
 !!!AGN-Laforte: énumératif (avec refrain), ???
 !!!AGN-type: alouette?
 !!!AGN-rime: none; refrain, none
-!!!EED: Isaac Howie
-!!!EEV: 2025/May/13
-**kern		**text
-*>[A,R,V,E,F,R]	*>[A,R,V,E,F,R]
-*>A		*>A
-*clefG2		*
-*k[f#]		*
-*D:		*
-*M2/4		*
-!LO:TX:a:t=Solo	!
-8.g		A-
-16a		-lou-
-=||1		=||1
-*>R		*>R
-!!!Is there a better way to encode the structure?
-!LO:TX:a:t=[segno]	!
-8b		-et-
-8b		-te,
-16a		gen-
-16g		-tille
-16a		a-
-16b		-lou-
-=2		=2
-8g		-et-
-8d		-te,
-8.g		A-
-16a		-lou-
+
+**kern	**text	**text	**text	**text	**text	**text	**text	**text
+*clefG2	*	*	*	*	*	*	*	*
+*k[f#]	*	*	*	*	*	*	*	*
+*D:	*	*	*	*	*	*	*	*
+*M2/4	*	*	*	*	*	*	*	*
+*>Refrain1	*>Refrain1	*>Refrain1	*>Refrain1	*>Refrain1	*>Refrain1	*>Refrain1	*>Refrain1	*>Refrain1
+*	*rline:R1	*	*	*	*	*	*	*
+*	*refrain	*	*	*	*	*	*	*
+*	*italic	*	*	*	*	*	*	*
+!!LO:TX:a:B:t=Solo
+!!LO:TX:a:B:t=Refrain
+{8.g	A-	.	.	.	.	.	.	.
+16a	-lou-	.	.	.	.	.	.	.
+=|:1	=|:	=|:	=|:	=|:	=|:	=|:	=|:	=|:
+8b	-et-	.	.	.	.	.	.	.
+8b	-te,	.	.	.	.	.	.	.
+16a	gen-	.	.	.	.	.	.	.
+16g	-tille	.	.	.	.	.	.	.
+16a	a-	.	.	.	.	.	.	.
+16b	-lou-	.	.	.	.	.	.	.
+=2	=2	=2	=2	=2	=2	=2	=2	=2
+8g	-et-	.	.	.	.	.	.	.
+8d}	-te,	.	.	.	.	.	.	.
+*	*rline:R2	*	*	*	*	*	*	*
+{8.g	A-	.	.	.	.	.	.	.
+16a	-lou-	.	.	.	.	.	.	.
 !!LO:PB:g=original
-=3		=3
-8b		-et-
-8b		-te,
-16a		je
-16g		t'y
-16a		plu-
-16b		-me-
-=4		=4
-8g		-rai.
-8r		.
-!LO:TX:a:t=Choeur	!
-8.g		A-
-16a		-lou-
+=3	=3	=3	=3	=3	=3	=3	=3	=3
+8b	-et-	.	.	.	.	.	.	.
+8b	-te,	.	.	.	.	.	.	.
+16a	je	.	.	.	.	.	.	.
+16g	t'y	.	.	.	.	.	.	.
+16a	plu-	.	.	.	.	.	.	.
+16b	-me-	.	.	.	.	.	.	.
+=4	=4	=4	=4	=4	=4	=4	=4	=4
+8g	-rai.	.	.	.	.	.	.	.
+8r}	.	.	.	.	.	.	.	.
+*	*rline:R1r	*	*	*	*	*	*	*
+!!LO:TX:a:B:t=Choeur
+{8.g	A-	.	.	.	.	.	.	.
+16a	-lou-	.	.	.	.	.	.	.
 !!LO:PB:g=original
-=5		=5
-8b		-et-
-8b		-te,
-16a		gen-
-16g		-tille
-16a		a-
-16b		-lou-
-=6		=6
-8g		-et-
-8d		-te,
-8.g		A-
-16a		-lou-
+=5	=5	=5	=5	=5	=5	=5	=5	=5
+8b	-et-	.	.	.	.	.	.	.
+8b	-te,	.	.	.	.	.	.	.
+16a	gen-	.	.	.	.	.	.	.
+16g	-tille	.	.	.	.	.	.	.
+16a	a-	.	.	.	.	.	.	.
+16b	-lou-	.	.	.	.	.	.	.
+=6	=6	=6	=6	=6	=6	=6	=6	=6
+8g	-et-	.	.	.	.	.	.	.
+8d}	-te,	.	.	.	.	.	.	.
+*	*rline:R2r	*	*	*	*	*	*	*
+{8.g	A-	.	.	.	.	.	.	.
+16a	-lou-	.	.	.	.	.	.	.
 !!LO:PB:g=original
-=7		=7
-8b		-et-
-8b		-te
-16a		je
-16g		t'y
-16a		plu-
-16b		-me-
-=8		=8
-8g		-rai.
-!LO:TX:a:t=Solo	!
-=||		=||
-*>V		*>V
-*		*^
-*		*^	*
-*		*^	*	*
-*		*^	*	*	*
-*		*^	*	*	*	*
-*		*^	*	*	*	*	*
-*		*^	*	*	*	*	*	*
-*		*join	*join	*join	*join	*join	*join	*join	*join
-*		*v:1	*v:2	*v:3	*v:4	*v:5	*v:6	*v:7	*v:8
-*		*pline:1	*pline:2	*pline:3	*pline:4	*pline:5	*pline:6	*pline:7	*pline:8
-16g		Je	Je	Je	Je	Je	Je	Je	Je
-16g		t'y	t'y	t'y	t'y	t'y	t'y	t'y	t'y
-16g		plu-	plu-	plu-	plu-	plu-	plu-	plu-	plu-
-16g		-mer-	-mer-	-mer-	-mer-	-mer-	-mer-	-mer-	-mer-
-16g		-ai	-ai	-ai	-ai	-ai	-ai	-ai	-ai
-16b		la	les	le	le	les	les	le	la
+=7	=7	=7	=7	=7	=7	=7	=7	=7
+8b	-et-	.	.	.	.	.	.	.
+8b	-te,	.	.	.	.	.	.	.
+16a	je	.	.	.	.	.	.	.
+16g	t'y	.	.	.	.	.	.	.
+16a	plu-	.	.	.	.	.	.	.
+16b	-me-	.	.	.	.	.	.	.
+=8	=8	=8	=8	=8	=8	=8	=8	=8
+!!LO:TX:a:B:t=Fin
+8.g}	-rai.	.	.	.	.	.	.	.
+*	*Xitalic	*	*	*	*	*	*	*
+*	*Xrefrain	*	*	*	*	*	*	*
+=||	=||	=||	=||	=||	=||	=||	=||	=||
+*	*v:1	*v:2	*v:3	*v:4	*v:5	*v:6	*v:7	*v:8
+*	*pline:1h1	*pline:2h1	*pline:3h1	*pline:4h1	*pline:5h1	*pline:6h1	*pline:7h1	*pline:8h1
+!!LO:TX:a:B:t=Solo
+{16g	Je	Je	Je	Je	Je	Je	Je	Je
+16g	t'y	t'y	t'y	t'y	t'y	t'y	t'y	t'y
+16g	plu-	plu-	plu-	plu-	plu-	plu-	plu-	plu-
+16g	-me-	-me-	-me-	-me-	-me-	-me-	-me-	-me-
+16g	-rai	-rai	-rai	-rai	-rai	-rai	-rai	-rai
+16b	la	les	le	le	les	les	le	la
 !!LO:PB:g=original
-=9		=	=	=	=	=	=	=	=
-8dd		têt',	yeux,	bec,	cou,	ail's,	patt's,	dos,	queue,
-16dd		Je	Je	Je	Je	Je	Je	Je	Je
-16ee		t'y	t'y	t'y	t'y	t'y	t'y	t'y	t'y
-16dd		plu-	plu-	plu-	plu-	plu-	plu-	plu-	plu-
-16cc		-mer-	-mer-	-mer-	-mer-	-mer-	-mer-	-mer-	-mer-
-16b		-ai	-ai	-ai	-ai	-ai	-ai	-ai	-ai
-16a		la	les	le	le	les	les	le	la
-=10		=10	=10	=	=	=	=	=	=
-8g		têt',	yeux,	bec,	cou,	ail's,	patt's,	dos,	queue,
-!!LO:TX:a:t=Choeur
-16g		Je	Je	Je	Je	Je	Je	Je	Je
-16g		t'y	t'y	t'y	t'y	t'y	t'y	t'y	t'y
-16g		plu-	plu-	plu-	plu-	plu-	plu-	plu-	plu-
-16g		-mer-	-mer-	-mer-	-mer-	-mer-	-mer-	-mer-	-mer-
-16g		-ai	-ai	-ai	-ai	-ai	-ai	-ai	-ai
-16b		la	les	le	le	les	les	le	la
+=9	=9	=9	=9	=9	=9	=9	=9	=9
+8dd	têt',	yeux,	bec,	cou,	ail's,	patt's,	dos,	queue,
+*	*pline:1h1r	*pline:2h1r	*pline:3h1r	*pline:4h1r	*pline:5h1r	*pline:6h1r	*pline:7h1r	*pline:8h1r
+16dd	Je	Je	Je	Je	Je	Je	Je	Je
+16ee	t'y	t'y	t'y	t'y	t'y	t'y	t'y	t'y
+16dd	plu-	plu-	plu-	plu-	plu-	plu-	plu-	plu-
+16cc	-me-	-me-	-me-	-me-	-me-	-me-	-me-	-me-
+16b	-rai	-rai	-rai	-rai	-rai	-rai	-rai	-rai
+16a	la	les	le	le	les	les	le	la
+=10	=10	=10	=10	=10	=10	=10	=10	=10
+8g}	têt',	yeux,	bec,	cou,	ail's,	patt's,	dos,	queue,
+*	*pline:1h1r	*pline:2h1r	*pline:3h1r	*pline:4h1r	*pline:5h1r	*pline:6h1r	*pline:7h1r	*pline:8h1r
+!!LO:TX:a:B:t=Choeur
+{16g	Je	Je	Je	Je	Je	Je	Je	Je
+16g	t'y	t'y	t'y	t'y	t'y	t'y	t'y	t'y
+16g	plu-	plu-	plu-	plu-	plu-	plu-	plu-	plu-
+16g	-me-	-me-	-me-	-me-	-me-	-me-	-me-	-me-
+16g	-rai	-rai	-rai	-rai	-rai	-rai	-rai	-rai
+16b	la	les	le	le	les	les	le	la
 !!LO:PB:g=original
-=11		=11	=11	=	=	=	=	=	=
-8dd		têt',	yeux,	bec,	cou,	ail's,	patt's,	dos,	queue,
-16dd		Je	Je	Je	Je	Je	Je	Je	Je
-16ee		t'y	t'y	t'y	t'y	t'y	t'y	t'y	t'y
-16dd		plu-	plu-	plu-	plu-	plu-	plu-	plu-	plu-
-16cc		-mer-	-mer-	-mer-	-mer-	-mer-	-mer-	-mer-	-mer-
-16b		-ai	-ai	-ai	-ai	-ai	-ai	-ai	-ai
-16a		la	les	le	le	les	les	le	la
-=12		=12	=13	=	=	=	=	=	=
-8g		têt',	yeux,	bec,	cou,	ail's,	patt's,	dos,	queue,
-=||:		=||:	=||:	=	=	=	=	=	=
-*>E		*>E	*>E	*>E	*>E	*>E	*>E	*>E	*>E
-!!LO:TX:a:t=Solo
-16dd		Et	Et	Et	Et	Et	Et	Et	Et
-16dd		la	les	le	le	les	les	le	la
-8dd		têt',	yeux,	bec,	cou,	ail's,	patt's,	dos,	queue,
-!!LO:TX:a:t=Choeur
-16dd		Et	Et	Et	Et	Et	Et	Et	Et
-16dd		la	les	le	le	les	les	le	la
+=11	=11	=11	=11	=11	=11	=11	=11	=11
+8dd	têt',	yeux,	bec,	cou,	ail's,	patt's,	dos,	queue,
+*	*pline:1h1r	*pline:2h1r	*pline:3h1r	*pline:4h1r	*pline:5h1r	*pline:6h1r	*pline:7h1r	*pline:8h1r
+16dd	Je	Je	Je	Je	Je	Je	Je	Je
+16ee	t'y	t'y	t'y	t'y	t'y	t'y	t'y	t'y
+16dd	plu-	plu-	plu-	plu-	plu-	plu-	plu-	plu-
+16cc	-me-	-me-	-me-	-me-	-me-	-me-	-me-	-me-
+16b	-rai	-rai	-rai	-rai	-rai	-rai	-rai	-rai
+16a	la	les	le	le	les	les	le	la
+=12	=12	=12	=12	=12	=12	=12	=12	=12
+8g}	têt',	yeux,	bec,	cou,	ail's,	patt's,	dos,	queue,
+=|:	=|:	=|:	=|:	=|:	=|:	=|:	=|:	=|:
+*	*pline:1h2	*pline:2h2	*pline:3h2	*pline:4h2	*pline:5h2	*pline:6h2	*pline:7h2	*pline:8h2
+!!LO:TX:a:i:t=[à reprendre au besoin]
+!!LO:TX:a:B:t=Solo
+16dd	Et	Et	Et	Et	Et	Et	Et	Et
+*	*bis	*bis	*bis	*bis	*bis	*bis	*bis	*bis
+16dd	la	les	le	le	les	les	le	la
+8dd	têt',	yeux,	bec,	cou,	ail's,	patt's,	dos,	queue,
+*	*Xbis	*Xbis	*Xbis	*Xbis	*Xbis	*Xbis	*Xbis	*Xbis
+*	*pline:1h2r	*pline:2h2r	*pline:3h2r	*pline:4h2r	*pline:5h2r	*pline:6h2r	*pline:7h2r	*pline:8h2r
+!!LO:TX:a:B:t=Choeur
+16dd	Et	Et	Et	Et	Et	Et	Et	Et
+16dd	la	les	le	le	les	les	le	la
 !!LO:PB:g=original
-=13		=13	=13	=	=	=	=	=	=
-8dd		têt',	yeux,	bec,	cou,	ail's,	patt's,	dos,	queue,
-*		*Xjoin	*Xjoin	*Xjoin	*Xjoin	*Xjoin	*Xjoin	*Xjoin	*Xjoin
-*		*v	*v	*v	*v	*v	*v	*v	*v
-=:||		=:||
-*>F		*>F
-!LO:TX:a:t=Solo	!
-16dd		A-
-16dd		-lou-
-8dd		-ett',
-!LO:TX:a:t=Choeur	!
-16dd		A-
-16dd		-lou-
-=14		=14
-8dd		-ett',
-8r		.
-[4dd^		Ah!
-=15		=15
-4dd];		.
-8.g		A-
-16a		-lou-
-!!!actually a D.S. but this preserves the original score
-!LO:TX:a:t=[segno]	!
-!!!COMMENT
-==		==
-*-		*-
+=13	=13	=13	=13	=13	=13	=13	=13	=13
+8dd	têt',	yeux,	bec,	cou,	ail's,	patt's,	dos,	queue,
+*>Refrain2	*>Refrain2	*>Refrain2	*>Refrain2	*>Refrain2	*>Refrain2	*>Refrain2	*>Refrain2	*>Refrain2
+=:|	=:|	=:|	=:|	=:|	=:|	=:|	=:|	=:|
+*	*rline:R1a3	*	*	*	*	*	*	*
+!!LO:TX:a:B:t=Solo
+16dd	A-	.	.	.	.	.	.	.
+16dd	-lou-	.	.	.	.	.	.	.
+8dd	-ett',	.	.	.	.	.	.	.
+*	*rline:R1a3r	*	*	*	*	*	*	*
+*	*bis	*	*	*	*	*	*	*
+!!LO:TX:a:B:t=Choeur
+16dd	A-	.	.	.	.	.	.	.
+16dd	-lou-	.	.	.	.	.	.	.
+=14	=14	=14	=14	=14	=14	=14	=14	=14
+8dd	-ett',	.	.	.	.	.	.	.
+*	*Xbis	*	*	*	*	*	*	*
+8r	.	.	.	.	.	.	.	.
+[4dd^	Ah!	.	.	.	.	.	.	.
+=15	=15	=15	=15	=15	=15	=15	=15	=15
+4dd];	.	.	.	.	.	.	.	.
+*	*rline:R1a2	*	*	*	*	*	*	*
+*	*refrain	*	*	*	*	*	*	*
+*	*italic	*	*	*	*	*	*	*
+8.g	A-	.	.	.	.	.	.	.
+16a	-lou-	.	.	.	.	.	.	.
+!!LO:TX:i:t=[reprendre du début]
+=:|	=:|	=:|	=:|	=:|	=:|	=:|	=:|	=:|
+*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!RNB: Dal segno have been replaced by repeats and performance notes have been added to match other enumerative songs (e.g., BC105).
+!!!EED1: Isaac Howie
+!!!EEV1: 2025/05/13
+!!!EED2: Ève Poudrier
+!!!EEV2: 2026/05/21
