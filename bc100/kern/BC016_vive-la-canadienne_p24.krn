@@ -8,11 +8,6 @@
 !!!YEM: On ne peut reproduire, enregistrer ou diffuser en tout ou en partie le présent ouvrage, sous quelque procédé que ce soit, électronique, mécanique, photographique, sonore, magnétique ou autre, sans avoir obtenu au préalable l'autorisation écrite de l'éditrice.
 !!!PDT: 2011
 !!!SMA:2012 Bibliothèque nationale du Québec; Biblothèque nationale du Canada
-!!!AGN-Laforte: laisse
-!!!AGN-metre:10:1(6+6)
-!!!AGN-type: Anthem
-!!!AGN-rime: simple /u/
-!!!REF: https://www.thecanadianencyclopedia.ca/fr/article/vive-la-canadienne
 **kern	**text	**text	**text	**text	**text	**text	**text	**text	**text	**text
 *clefG2	*	*	*	*	*	*	*	*	*	*
 *k[b-e-a-]	*	*	*	*	*	*	*	*	*	*
@@ -23,14 +18,14 @@
 *	*pline:1h1	*pline:2h1	*pline:3h1	*pline:4h1	*pline:5h1	*pline:6h1	*pline:7h1	*pline:8h1	*pline:9h1	*pline:10h1
 =1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
 {8b-	Vi-	Ell[e]	El-	C'est	Que	El-	El-	Jus-	Ce	Al-
-16b-	-ve	est	-le	à	d'en-	-le	le	-qu'à	n'est	-lons
+16b-	-ve	est	-le	à	d'en-	-le	-le	-qu'à	n'est	-lons
 16b-	la	vrai-	ra-	qui	-fants	fait	fait	l'heu-	qu'au	fleu-
 8b-	Ca-	-ment	yonn[e]	la	el-	à	à	-re	ci-	-rir
 8ee-	-na-	chré-	et	ma-	-le	l'ai-	mer-	der-	-me-	sa
 =2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
-(8.b-L	-dien-	tien-	bril-	ri-	don-	-guil-	veil-	-niè-	-tiè-	tom-
+(8.b-L	-dien-	-tien-	bril-	-ri-	don-	-guil-	veil-	-niè-	-tiè-	tom-
 16a-J)	.	.	.	.	.	.	.	.	.	.
-8g	-ne,	-ne,	-le,	e,	-ne,	-le,	-le,	-re,	-re,	-be,
+8g	-ne,	-ne,	-le,	-e,	-ne,	-le,	-le,	-re,	-re,	-be,
 8r}	.	.	.	.	.	.	.	.	.	.
 =3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
 *	*refrain	*refrain	*refrain	*refrain	*refrain	*refrain	*refrain	*refrain	*refrain	*refrain
@@ -42,11 +37,13 @@
 8b-	coeur,	coeur,	coeur,	coeur,	coeur,	coeur,	coeur,	coeur,	coeur,	coeur,
 !!LO:PB:g=original
 =4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
+*	*bis	*bis	*bis	*bis	*bis	*bis	*bis	*bis	*bis	*bis
 (16b-L	vo-	vo-	vo-	vo-	vo-	vo-	vo-	vo-	vo-	vo-
 16a-	.	.	.	.	.	.	.	.	.	.
 16g	.	.	.	.	.	.	.	.	.	.
 16a-J)	.	.	.	.	.	.	.	.	.	.
 8f	-le,	-le,	-le,	-le,	-le,	-le,	-le,	-le,	-le,	-le,
+*	*Xbis	*Xbis	*Xbis	*Xbis	*Xbis	*Xbis	*Xbis	*Xbis	*Xbis	*Xbis
 8r}	.	.	.	.	.	.	.	.	.	.
 =5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5
 *	*Xitalic	*Xitalic	*Xitalic	*Xitalic	*Xitalic	*Xitalic	*Xitalic	*Xitalic	*Xitalic	*Xitalic
@@ -55,12 +52,12 @@
 {8b-	Vi-	Ell[e]	El-	C'est	Que	El-	El-	Jus-	Ce	Al-
 16b-	-ve	est	-le	à	d'en-	-le	-le	qu'à	n'est	-lons
 16b-	la	vrai-	ra-	qui	-fants	fait	fait	l'heu-	qu'au	fleu-
-8b-	Ca-	-ment	yonn[e]	la	el-	à	à	-re	ci-	-rir
+8b-	Ca-	-ment	-yonn[e]	la	el-	à	à	-re	ci-	-rir
 8e-	-na-	chré-	et	ma-	-le	l'ai-	mer-	der-	-me-	sa
 =6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6
-(8.b-L	-dien-	tien-	bril-	-ri-	don-	-guil-	-veil-	-niè-	-tiè-	tom-
+(8.b-L	-dien-	-tien-	bril-	-ri-	don-	-guil-	-veil-	-niè-	-tiè-	tom-
 16a-J)	.	.	.	.	.	.	.	.	.	.
-8g	-ne	-ne,	le,	e,	-ne,	-le,	-le,	-re,	-re,	-be,
+8g	-ne	-ne,	-le,	-e,	-ne,	-le,	-le,	-re,	-re,	-be,
 *	*pline:1h2	*pline:2h2	*pline:3h2	*pline:4h2	*pline:5h2	*pline:6h2	*pline:7h2	*pline:8h2	*pline:9h2	*pline:10h2
 8e-	Et	Tré-	A-	Les	À	Nos	La	Sa	Que	Un
 =7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7
@@ -72,7 +69,7 @@
 !!LO:PB:g=original
 =8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8
 !!LO:TX:a:B:t=FIN
-8.e-}	doux!	poux,	-joux,	fous,	-poux,	-touts,	choux,	nous,	-sous,	-sous,
+8.e-}	doux!	-poux,	-joux,	fous,	-poux,	-touts,	choux,	nous,	-sous,	-sous,
 *	*rp:u	*rp:u	*rp:u	*rp:u	*rp:u	*rp:u	*rp:u	*rp:u	*rp:u	*rp:u
 *	*rf:du	*rf:pu	*rf:ʒu	*rf:fu	*rf:pu	*rf:tu	*rf:ʃu	*rf:nu	*rf:su	*rf:su
 *	*rs:a1	*rs:a2	*rs:a3	*rs:a4	*rs:a2	*rs:a5	*rs:a6	*rs:a7	*rs:a8	*rs:b8
@@ -90,9 +87,9 @@
 *	*rs:a1	*rs:a2	*rs:a3	*rs:a4	*rs:a2	*rs:a5	*rs:a6	*rs:a7	*rs:a8	*rs:b8
 *	*bis	*bis	*bis	*bis	*bis	*bis	*bis	*bis	*bis	*bis
 *	*italic	*italic	*italic	*italic	*italic	*italic	*italic	*italic	*italic	*italic
-8cc	doux,	-poux,	-joux,	fous,	-poux,	-touts,	choux,	nous,	sous,	-sous,
+8cc	doux,	--poux,	--joux,	fous,	--poux,	--touts,	choux,	nous,	--sous,	--sous,
 =10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10
-8b-	doux,	-poux,	-joux,	fous,	-poux,	-touts,	choux,	nous,	sous,	-sous,
+8b-	doux,	--poux,	--joux,	fous,	--poux,	--touts,	choux,	nous,	--sous,	--sous,
 *	*Xitalic	*Xitalic	*Xitalic	*Xitalic	*Xitalic	*Xitalic	*Xitalic	*Xitalic	*Xitalic	*Xitalic
 *	*Xbis	*Xbis	*Xbis	*Xbis	*Xbis	*Xbis	*Xbis	*Xbis	*Xbis	*Xbis
 *	*pline:1h2r	*pline:2h2r	*pline:3h2r	*pline:4h2r	*pline:5h2r	*pline:6h2r	*pline:7h2r	*pline:8h2r	*pline:9h2r	*pline:10h2r
@@ -104,14 +101,14 @@
 4cc	yeux	é-	bi-	sont	é-	sur-	aux	à	dis-	des-
 !!LO:PB:g=original
 =12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12
-8b-	doux,	poux,	joux,	fous,	-poux,	-touts,	choux,	nous,	-sous,	-sous,
+8b-	doux,	-poux,	-joux,	fous,	-poux,	-touts,	choux,	nous,	-sous,	-sous,
 *	*rp:u	*rp:u	*rp:u	*rp:u	*rp:u	*rp:u	*rp:u	*rp:u	*rp:u	*rp:u
 *	*rf:du	*rf:pu	*rf:ʒu	*rf:fu	*rf:pu	*rf:tu	*rf:ʃu	*rf:nu	*rf:su	*rf:su
 *	*rs:a1	*rs:a2	*rs:a3	*rs:a4	*rs:a2	*rs:a5	*rs:a6	*rs:a7	*rs:a8	*rs:b8
 16r}	.	.	.	.	.	.	.	.	.	.
 *	*pline:1h2r	*pline:2h2r	*pline:3h2r	*pline:4h2r	*pline:5h2r	*pline:6h2r	*pline:7h2r	*pline:8h2r	*pline:9h2r	*pline:10h2r
 {16e-	Et	Tré-	A-	Les	À	Nos	La	Sa	Que	Un
-8e-	ses	-sor	vec	gar-	son	ha-	bon-	vie	son	grand
+8e-	ses	-sor	-vec	gar-	son	ha-	bon-	vie	son	grand
 8g	jo-	de	ou	-çons	jo-	-bits,	-ne	est	règn[e]	coeur
 =13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13
 8b-	-lis	son	sans	en	yeux	nos	soup[e]	tout[e]	est	est
@@ -122,20 +119,20 @@
 *	*rs:a1	*rs:a2	*rs:a3	*rs:a4	*rs:a2	*rs:a5	*rs:a6	*rs:a7	*rs:a8	*rs:b8
 *	*bis	*bis	*bis	*bis	*bis	*bis	*bis	*bis	*bis	*bis
 *	*italic	*italic	*italic	*italic	*italic	*italic	*italic	*italic	*italic	*italic
-8cc	doux,	-poux,	-joux,	fous,	-poux,	-touts,	choux,	nous,	-sous,	-sous,
+8cc	doux,	--poux,	--joux,	fous,	--poux,	--touts,	choux,	nous,	--sous,	--sous,
 =14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14
-8b-	doux,	-poux,	-joux,	fous,	-poux,	-touts,	choux	nous,	-sous,	-sous,
+8b-	doux,	--poux,	--joux,	fous,	--poux,	--touts,	choux	nous,	--sous,	--sous,
 *	*Xitalic	*Xitalic	*Xitalic	*Xitalic	*Xitalic	*Xitalic	*Xitalic	*Xitalic	*Xitalic	*Xitalic
 *	*Xbis	*Xbis	*Xbis	*Xbis	*Xbis	*Xbis	*Xbis	*Xbis	*Xbis	*Xbis
 *	*pline:1h2r	*pline:2h2r	*pline:3h2r	*pline:4h2r	*pline:5h2r	*pline:6h2r	*pline:7h2r	*pline:8h2r	*pline:9h2r	*pline:10h2r
-8a-	Et	Tré-	A	Les	À	Nos	La	Sa	Que	Un
-8g	ses	-sor	vec	gar-	son	ha-	bon-	vie	son	grand
+8a-	Et	Tré-	A-	Les	À	Nos	La	Sa	Que	Un
+8g	ses	-sor	-ec	gar-	son	ha-	bon-	vie	son	grand
 8a-	jo-	de	ou	-çons	jo-	-bits,	-ne	est	règn[e]	coeur
 =15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15
 4b-	-lis	son	sans	en	-yeux	nos	soup[e]	tout[e]	est	est
 4cc	yeux	é-	bi-	sont	é-	sur-	aux	à	dis-	des-
 =16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16
-4.b-	doux!	-poux!	joux!	fous!	-poux!	-touts!	choux!	nous!	-sous!	-sous!
+4.b-	doux!	-poux!	-joux!	fous!	-poux!	-touts!	choux!	nous!	-sous!	-sous!
 *	*rp:u	*rp:u	*rp:u	*rp:u	*rp:u	*rp:u	*rp:u	*rp:u	*rp:u	*rp:u
 *	*rf:du	*rf:pu	*rf:ʒu	*rf:fu	*rf:pu	*rf:tu	*rf:ʃu	*rf:nu	*rf:su	*rf:su
 *	*rs:a1	*rs:a2	*rs:a3	*rs:a4	*rs:a2	*rs:a5	*rs:a6	*rs:a7	*rs:a8	*rs:b8
@@ -143,4 +140,4 @@
 ==	==	==	==	==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
 !!!EED: Ève Poudrier
-!!!EEV: 2026/04/20
+!!!EEV: 2026/05/22
