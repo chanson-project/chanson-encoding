@@ -56,6 +56,7 @@
 *	*italic
 *	*pline:3
 !!LO:TX:a:B:t=C
+*	*italic
 2c	dong!
 =5	=5
 *	*bis
@@ -64,6 +65,7 @@
 =6	=6
 4c	dong!"
 *	*Xbis
+*	*Xitalic
 *	*rp:ɔ̃
 *	*rf:dɔ̃
 *	*rs:b
@@ -80,6 +82,7 @@
 8cc	ré-
 =7	=7
 8cc`	-pond:
+*	*italic
 8cc	"Ding--
 8cc`	don!
 *	*bis
@@ -91,6 +94,7 @@
 =8	=8
 2cc	-don!"
 *	*Xbis
+*	*Xitalic
 *	*rp:ɔ̃
 *	*rf:dɔ̃
 *	*rs:b
