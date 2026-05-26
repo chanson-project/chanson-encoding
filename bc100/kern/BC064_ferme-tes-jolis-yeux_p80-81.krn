@@ -183,7 +183,7 @@
 *	*refrain	*
 *	*italic	*
 *^	*	*
-*	*	*pline:R1	*
+*	*	*rline:R1	*
 !!LO:TX:a:t=REFRAIN
 8d	8d	Fer-	.
 =21	=21	=21	=21
@@ -226,7 +226,7 @@
 *	*	*rs:f	*
 !!printing error: "ve" after merveilleux
 4a]	4f#]	.	.
-*	*	*pline:R4	*
+*	*	*rline:R4	*
 8b	8g	Au	.
 =27	=27	=27	=27
 4cc	4a	beau	.
@@ -254,7 +254,7 @@
 *	*	*rf:jø	*
 *	*	*rs:f	*
 4b]	4g]	.	.
-*	*	*pline:R5	*
+*	*	*rline:R5	*
 8cc	8a	Car	.
 4dd	4b	tout	.
 8b	8g	n'est	.
@@ -269,7 +269,7 @@
 *	*	*rs:h	*
 !!LO:PB:g=original
 =32	=32	=32	=32
-*	*	*pline:R6	*
+*	*	*rline:R6	*
 4ee	4cc	Le	.
 8ee	8cc	bon-	.
 8ee	8cc	-heur	.
@@ -281,7 +281,7 @@
 *	*	*rp:ɔ̃	*
 *	*	*rf:ɔ̃ʒ,ə	*
 *	*	*rs:h	*
-*	*	*pline:R1r	*
+*	*	*rline:R1r	*
 8b	8g	Fer-	.
 =34	=34	=34	=34
 4dd	4b	-me	.
@@ -304,4 +304,4 @@
 !!!RDF**kern: < = below
 !!!RDF**kern: > = above
 !!!EED: Ève Poudrier
-!!!EEV: 2026/05/25
+!!!EEV: 2026/05/26
