@@ -203,8 +203,9 @@ NOTE: Tese should alsop be entered in the corresponding columns in the master ne
     *rs:a
    ```
    These are to be interpreted as follows:
+   
    ```
-   interpretation | meaning | examples |
+   | interpretation | meaning | examples |
    |------------| --------  | ---------|
    | rp | phoneme | vowel of rhyme |
    | rf | phoneme group | full rhyme |
@@ -212,12 +213,14 @@ NOTE: Tese should alsop be entered in the corresponding columns in the master ne
    ```
  
    - Note that structure label is based on the rhyming vowel or combination of consonant(s) and vowel sound; in cases where the rhyme is simple, same vowel will typically be used with a variety of consonants (same or different); in these cases, `*rs:` is given a suffix number corresponding to each vowel/consonant combination. For example:
+   - 
 ```
-ending | rhyme vowel | full rhyme | label |
+| ending | rhyme vowel | full rhyme | label |
 |------| -------------| ------------| -----------|
 | vent | *rp:ɑ̃ | *rf:vɑ̃ | *rs:a1 |
 | gens | *rp:ɑ̃ | *rf:ʒɑ̃ | *rs:a2 |
 ```
+
    - Mute "e" are added to the full rhyme and set apart from full rhyme by a comma. These are not counted in the metre.
 
    - Use [Dictionnaire de rimes](https://www.rimessolides.com) for guidance.
