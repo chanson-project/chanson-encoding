@@ -56,19 +56,19 @@ To view the current master spreadsheet, see: https://docs.google.com/spreadsheet
 
     NOTE: Make sure to double-check whether there are dynamics that require a `**dynam` spine before adding text. Adding a **dynam spine after text has been entered requires manual editing that is very time consuming!
    
-3. **Preserving visual layout** of original:
+3. **Preserving visual layout**:
    - Insert `!!LO:PB:g=original` above the measure that appears on the next system.
    - Use the alignment button to preserve layout.
    - For longer songs (>4 systems), you may wish to switch to “continuous” view on the toolbar.
 
-4. **Add editorial comments** (e.g., pitch variants):
+4. **Add editorial comments**:
    - Place above the relevant line with a `!`:
      ```
      !pitch variant:b
      ```
    Ensure each spine on the same row includes an exclamation mark.
 
-5. **Encoding completion info**:
+5. **Encoding status**:
    - Use the format "First Last" for name.
    - Use the format "year/mm/dd" for date of completion.
    ```
@@ -79,7 +79,7 @@ To view the current master spreadsheet, see: https://docs.google.com/spreadsheet
    
    NOTE: This information should also be updated on the master metadata spreadsheet.
    
-6. **Encoding editorial comments**:
+6. **Editorial comments**:
    ```
    !!!RNB (Representation note) can be used to encode any modifications to the representation of the score. For example, replacing dal segno symbols by repeats.
 
