@@ -1,17 +1,13 @@
 !!!id: BC064
 !!!page: 80-81
 !!!COM: Buxeuil, René de
-!!!LYR: Thomas, Vigile; Buxeuil, René de
+!!!LYR: Thomas, Virgile; Buxeuil, René de
 !!!PTL@@FR: Les 100 plus belles chansons
-!!!OTL@@FR: La rim doum dim
+!!!OTL@@FR: Ferme tes jolis yeux
 !!!PUB: La Bonne Chanson, inc.
 !!!YEM: On ne peut reproduire, enregistrer ou diffuser en tout ou en partie le présent ouvrage, sous quelque procédé que ce soit, électronique, mécanique, photographique, sonore, magnétique ou autre, sans avoir obtenu au préalable l'autorisation écrite de l'éditrice.
 !!!PDT: 2011
 !!!SMA: 2012 Bibliothèque nationale du Québec; Biblothèque nationale du Canada
-!!!AGN-Laforte: strophique, 2:10(8)
-!!!AGN-refrain: final, R:6(6)
-!!!AGN-topic: [maman, amour]
-!!!AGN-rime: mixtes: v: croisée (ababcdcd) + suivie (ee); R: mixte, croisée (hihi) + embrassée (hffh)
 **kern	**text	**text
 *clefG2	*	*
 *k[f#]	*	*
@@ -32,7 +28,7 @@
 4b)	-se,	-le,
 *	*rp:o	*rp:i
 *	*rf:oz,ə	*rf:ij,ə
-*	*rs:a	*rs:c3
+*	*rs:a	*rs:i
 *	*pline:2	*pline:12
 8b	Su-	Su-
 !!LO:PB:g=original
@@ -47,8 +43,8 @@
 [4.g	-ant,	-roir,
 4g]	.	.
 *	*rp:ɑ̃	*rp:a
-*	*rf:ɑ̃	*rf:wa
-*	*rs:b	*rs:e
+*	*rf:ɑ̃	*rf:waʁ
+*	*rs:b	*rs:j
 *	*pline:3	*pline:13
 8g	El-	À
 =5	=5	=5
@@ -65,7 +61,7 @@
 4a)	-ses	-le,
 *	*rp:o	*rp:i
 *	*rf:oz,ə	*rf:ij,ə
-*	*rs:a	*rs:c3
+*	*rs:a	*rs:i
 *	*pline: 4	*pline:14
 8a	À	Vient
 =7	=7	=7
@@ -79,8 +75,8 @@
 =8	=8	=8
 [4.a	-man;	soir;
 *	*rp:ɑ̃	*rp:a
-*	*rf:ɑ̃	*rf:wa
-*	*rs:b	*rs:e
+*	*rf:ɑ̃	*rf:waʁ
+*	*rs:b	*rs:j
 4a]	.	.
 *	*pline:5	*pline:15
 8dd	Mais	Ell[e]
@@ -94,10 +90,10 @@
 8a	bien	-ge
 =10	=10	=10
 (4.b	vi-	ron-
-4b)	-te,	de,
+4b)	-te,	-de,
 *	*rp:i	*rp:ɔ̃
 *	*rf:it,ə	*rf:ɔ̃d,ə
-*	*rs:c1	*rs:f1
+*	*rs:c	*rs:k
 *	*pline:6	*pline:16
 8e	Nous	Son
 =11	=11	=11
@@ -113,7 +109,7 @@
 [4.cc	-dé	-seau
 *	*rp:e	*rp:o
 *	*rf:de	*rf:o
-*	*rs:d	*rs:g
+*	*rs:d	*rs:l
 4cc]	.	.
 *	*pline:7	*pline:17
 8cc	Fai-	Et
@@ -130,7 +126,7 @@
 4b)	-te,	-de
 *	*rp:i	*rp:ɔ̃
 *	*rf:it,ə	*rf:ɔ̃d,ə
-*	*rs:c1	*rs:f1
+*	*rs:c	*rs:k
 *	*pline:8	*pline:18
 8b	Car	Nais-
 !!LO:PB:g=original
@@ -145,7 +141,7 @@
 [4.dd	-der.	-veaux.
 *	*rp:e	*rp:o
 *	*rf:de	*rf:o
-*	*rs:d	*rs:g
+*	*rs:d	*rs:l
 8dd]	.	.
 8r	.	.
 *	*pline:9	*pline:19
@@ -164,7 +160,7 @@
 4a)	-ne,	-es,
 *	*rp:i	*rp:e
 *	*rf:in,ə	*rf:e
-*	*rs:c2	*rs:d0
+*	*rs:e	*rs:m
 *	*pline:10	*pline:20
 8dd	La	Gen-
 =19	=19	=19
@@ -179,7 +175,7 @@
 8a)	-ne:	-e:
 *	*rp:i	*rp:e
 *	*rf:in,ə	*rf:e
-*	*rs:c2	*rs:d0
+*	*rs:e	*rs:m
 8r;	.	.
 !!LO:PB:g=original
 =||	=||	=||
@@ -200,7 +196,7 @@
 4b]	4g]	.	.
 *	*	*rp:ø	*
 *	*	*rf:jø	*
-*	*	*rs:h	*
+*	*	*rs:f	*
 *	*	*pline:R2	*
 8cc	8a	Car	.
 =23	=23	=23	=23
@@ -214,7 +210,7 @@
 4ccn)	4an)	-ves	.
 *	*	*rp:ɛ	*
 *	*	*rf:ɛv,ə	*
-*	*	*rs:i	*
+*	*	*rs:g	*
 *	*	*pline:R3	*
 8d	8d	Au	.
 !!LO:PB:g=original
@@ -224,25 +220,26 @@
 4cc	4a	mer-	.
 8b	8g	-veil-	.
 =26	=26	=26	=26
-[4.b	[4.g	-leux,	.
+[4.a	[4.f#	-leux,	.
 *	*	*rp:ø	*
 *	*	*rf:jø	*
-*	*	*rs:h	*
-!	!	!typo "ve"	!
-4b]	4g]	.	.
+*	*	*rs:f	*
+!!printing error: "ve" after merveilleux
+4a]	4f#]	.	.
 *	*	*pline:R4	*
-8cc	8a	Au	.
+8b	8g	Au	.
 =27	=27	=27	=27
-4dd	4b	beau	.
-8b	8g	pa-	.
+4cc	4a	beau	.
+8b	8g#	pa-	.
 4cc	4a	-ys	.
 8dd	8b	du	.
 =28	=28	=28	=28
-(4.dd#	(4.b	rê-	.
-4ee)	4cc)	-ve;	.
+(4b	(4gn	rê-	.
+8cc	8a	.	.
+4dd)	4b)	-ve;	.
 *	*	*rp:ɛ	*
 *	*	*rf:ɛv,ə	*
-*	*	*rs:i	*
+*	*	*rs:g	*
 *	*	*pline:R1r	*
 8d	8d	Fer-	.
 !!LO:PB:g=original
@@ -255,7 +252,7 @@
 [4.b	[4.g	yeux,	.
 *	*	*rp:ø	*
 *	*	*rf:jø	*
-*	*	*rs:h	*
+*	*	*rs:f	*
 4b]	4g]	.	.
 *	*	*pline:R5	*
 8cc	8a	Car	.
@@ -269,7 +266,7 @@
 8r	8ryy	.	.
 *	*	*rp:ɔ̃	*
 *	*	*rf:ɔ̃ʒ,ə	*
-*	*	*rs:f2	*
+*	*	*rs:h	*
 !!LO:PB:g=original
 =32	=32	=32	=32
 *	*	*pline:R6	*
@@ -283,7 +280,7 @@
 4dd)	4b)	-ge,	.
 *	*	*rp:ɔ̃	*
 *	*	*rf:ɔ̃ʒ,ə	*
-*	*	*rs:f2	*
+*	*	*rs:h	*
 *	*	*pline:R1r	*
 8b	8g	Fer-	.
 =34	=34	=34	=34
@@ -295,7 +292,7 @@
 (16bL	(16ddL	yeux.	.
 *	*	*rp:ø	*
 *	*	*rf:jø	*
-*	*	*rs:h	*
+*	*	*rs:f	*
 16aJ	16ccJ	.	.
 [<4g	[>4b	.	.
 4g])	4b])	.	.
@@ -307,4 +304,4 @@
 !!!RDF**kern: < = below
 !!!RDF**kern: > = above
 !!!EED: Ève Poudrier
-!!!EEV: 2026/04/21
+!!!EEV: 2026/05/25
