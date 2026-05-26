@@ -39,24 +39,22 @@ To view the current master spreadsheet, see: https://docs.google.com/spreadsheet
 2. **Spine structure**:
    - We use three types of spines:
      
-   **kern = melody and rhythm, including slurs, ties, and accents; tempo and structure markings can be encoded above the note where they appear using `!!LO:TX:a:t=text` (for italics, add `i:`; for boldface, add `B:`).
+   `**kern` = melody and rhythm, including slurs, ties, and accents; tempo and structure markings can be encoded above the note where they appear using `!!LO:TX:a:t=text` (for italics, add `i:`; for boldface, add `B:`).
    
-   **dynam = dynamic markings, such as crescendi (`<`...`]`) and decrescendi (`>`...`]`).
+   `**dynam` = dynamic markings, such as crescendi (`<`...`]`) and decrescendi (`>`...`]`).
    
-   **text = lyrics
-
-
+   `**text` = lyrics
    
    - To add an empty spine** after the first is completed:
-   - 
+   
    ```
    extract -s 1-$,0
    ```
-   This will add a **blank spine. To encode dynamics, change to **dynam; to encode text, change to **text
+   This will add a `**blank` spine. To encode dynamics, change to `**dynam`; to encode text, change to `**text`
 
    - Text can be viewed above or below the graphic representation in the right pane as you are encoding. Use the filter `text` for the default view below the score; adding the filter option `-a` will show it above.
 
-    NOTE: Make sure to double-check whether there are dynamics that require a **dynam spine before addint text. Adding a **dynam spine after text has been entered requires manual editing that is very time consuming!
+    NOTE: Make sure to double-check whether there are dynamics that require a `**dynam` spine before adding text. Adding a **dynam spine after text has been entered requires manual editing that is very time consuming!
    
 3. **Preserving visual layout** of original:
    - Insert `!!LO:PB:g=original` above the measure that appears on the next system.
