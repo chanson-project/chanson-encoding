@@ -36,7 +36,7 @@ For a list of the different types of record comments, consult: https://www.humdr
 To view the current master spreadsheet, see: https://docs.google.com/spreadsheets/d/16E5ZaTv--7Ketd5Lpgcbk11aKRj9T2hDjjRUiRHiAOY/edit?usp=sharing
 
 
-2. **Spine structure**:
+2. **Spine Structure**:
    - We use three types of spines:
      
    `**kern` = melody and rhythm, including slurs, ties, and accents; tempo and structure markings can be encoded above the note where they appear using `!!LO:TX:a:t=text` (for italics, add `i:`; for boldface, add `B:`).
@@ -56,19 +56,19 @@ To view the current master spreadsheet, see: https://docs.google.com/spreadsheet
 
     NOTE: Make sure to double-check whether there are dynamics that require a `**dynam` spine before adding text. Adding a **dynam spine after text has been entered requires manual editing that is very time consuming!
    
-3. **Preserving visual layout**:
+3. **Preserving Visual Layout**:
    - Insert `!!LO:PB:g=original` above the measure that appears on the next system.
    - Use the alignment button to preserve layout.
    - For longer songs (>4 systems), you may wish to switch to “continuous” view on the toolbar.
 
-4. **Add editorial comments**:
+4. **Local Editorial Comments**:
    - Place above the relevant line with a `!`:
      ```
      !pitch variant:b
      ```
    Ensure each spine on the same row includes an exclamation mark.
 
-5. **Encoding status**:
+5. **Encoding Status**:
    - Use the format "First Last" for name.
    - Use the format "year/mm/dd" for date of completion.
    ```
@@ -79,7 +79,7 @@ To view the current master spreadsheet, see: https://docs.google.com/spreadsheet
    
    NOTE: This information should also be updated on the master metadata spreadsheet.
    
-6. **Editorial comments**:
+6. **Other Editorial Comments**:
    ```
    !!!RNB (Representation note) can be used to encode any modifications to the representation of the score. For example, replacing dal segno symbols by repeats.
 
@@ -100,14 +100,14 @@ NOTE: Tese should alsop be entered in the corresponding columns in the master ne
   
      NOTE: Syllabification can be reviewed withb the filter option `-y` on VHV.
 
-2. **Line numbering** (across all verses):
+2. **Line Labeling** (across all verses):
    - Use `*pline:n` (e.g., `*pline:1`)
    - Stand-alone refrain lines are labeled `*rline:R1`, `*rline:R2`, etc.
    - Integrated refrains are labeled using `*pline:` format
   
      NOTE: Refrains can be reviewed using the filter option `-refrains` on VHV. If the refrain does not appear, the line encoding may need to be edited (i.e., changing *pline: for *rline:).
 
-3. **Refrain formatting** (italics):
+3. **Refrain Formatting** (italics):
    - All refrain types (stand-alone and integrated) are encoded with the interpretations *refrain and *italic before the first refrain syllable and the interpretations *Xitalic and *Xrefrain after the last refrain syllable.
    - Refrain lines may be initial, medial, and final based on their position within the song.
    - Text of initial and final refrains that are repeated in alternation with verses are encoded only once and further identified with `*>Refrain` markings.
@@ -144,7 +144,7 @@ NOTE: Tese should alsop be entered in the corresponding columns in the master ne
      -re,
      *Xbis
      ```
-6. **Text filter options**:
+6. **Text Filter Options**:
    There are several ways to view the song lyrics; these are very helpful for review and editing as well as to create a .txt file with the raw text:
 
     ```
@@ -163,14 +163,14 @@ NOTE: Tese should alsop be entered in the corresponding columns in the master ne
 <details>
 <summary><h3>Music Encoding</h3></summary>
 
-1. **Melodic grouping** (segmentation levels):
+1. **Melodic Grouping** (segmentation levels):
    - First: `{...}`
    - Second: `{{...}}`
    - Third: `{{{...}}}`
   
      NOTE: We are only using first level segmentation in tbhis round of encoding. If you see multip[le levels, delete the higher levels.
      
-2. **Segmentation guidance**:
+2. **Segmentation Rules**:
    Segmentation is based on the following criteria:
      - rest
      - longer duration
@@ -181,7 +181,7 @@ NOTE: Tese should alsop be entered in the corresponding columns in the master ne
    - Phrases = melodic contour, textual line ends, or longer duration
    - Periods = ≥2 phrases that are related, the second of which ends with a melodic cadence (SD 2-1 and SD 5-1 seems to be the most common)
 
-4. **Tempo marking**:
+4. **Tempo Markinga**:
    - Insert under first measure:
      ```
      !!LO:TX:a:t=Majestueux et résolu
@@ -195,7 +195,7 @@ NOTE: Tese should alsop be entered in the corresponding columns in the master ne
 <details>
 <summary><h3>Text Analysis</h3></summary>
 
-1. **Rhyme Marking** (after final word of each line):
+1. **Rhyme Labeling** (after final word of each line):
     - Line endings with rhymes are marked with three interpretations, i.e., `*rp:`, `*rf:`, and `*rs`.
     ```
     *rp:ø
@@ -231,7 +231,8 @@ ending | rhyme vowel | full rhyme | label |
 
 - Ensure consistent use of tabs and columns in spines.
 - Avoid use of trailing whitespace unless intentional.
-- All mreference records (`!!!key: value`) should have a single space after the colon.
+- All reference records (`!!!key: value`) should have a single space after the colon.
+- Note that any reference record in the kern file may be deleted when we import the metadata from the master spreadsheet. Because of that, all information should be entered in the master spreadsheet and only essential information should be encoded in the kern file.
 </details>
 
 
