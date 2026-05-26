@@ -148,7 +148,7 @@ NOTE: Tese should alsop be entered in the corresponding columns in the master ne
    There are several ways to view the song lyrics; these are very helpful for review and editing as well as to create a .txt file with the raw text:
 
     ```
-   filter option | meaning |
+   | filter option | meaning |
    |------------| --------  |
    | -a | show text above score |
    | -y | show hyphenation |
