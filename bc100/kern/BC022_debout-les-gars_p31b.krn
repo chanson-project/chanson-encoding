@@ -3,22 +3,21 @@
 !!!COM: Anonymous
 !!!PTL@@FR: Les 100 plus belles chansons
 !!!OTL@@FR: Debout, les Gars!
+!!!OTL2: Canon à trois parties
 !!!PUB: La Bonne Chanson, inc.
 !!!YEM: On ne peut reproduire, enregistrer ou diffuser en tout ou en partie le présent ouvrage, sous quelque procédé que ce soit, électronique, mécanique, photographique, sonore, magnétique ou autre, sans avoir obtenu au préalable l'autorisation écrite de l'éditrice.
 !!!PDT: 2011
 !!!SMA: 2012 Bibliothèque nationale du Québec; Biblothèque nationale du Canada
-!!!AGN-Laforte: Canon (à trois parties), 3:4/2(6), v:1-2=4, v:3=2
-!!!AGN-type: Chanson de guerre
-!!!AGN-rime: mixtes, v:1-2 = croisées, with partial repetition (abab), v:3 = suivies/repetition (aa)
 **kern	**text
 *clefG2	*
 *k[b-]	*
 *F:	*
 *M2/4	*
+*	*v:1
 *	*pline:1
 *>A	*>A
 !!LO:TX:a:B:t=A
-{{{8c	De-
+{8c	De-
 =1	=1
 8f	-bout,
 8a	les
@@ -26,7 +25,7 @@
 8a	en
 =2	=2
 4f	rou-
-8f,}	te!
+8f,}	-te!
 *	*rp:u
 *	*rf:ut,ə
 *	*rs:a
@@ -40,13 +39,13 @@
 8a	le-
 !!LO:PB:g=original
 =4	=4
-4f	vé...
+4f	-vé...
 *	*rp:e
 *	*rf:e
 *	*rs:b
-8r}}	.
+8r}	.
 *	*pline:3
-{{8c	Al-
+{8c	Al-
 =5	=5
 8f	-lons,
 8a	mau-
@@ -67,16 +66,16 @@
 8a	-tra-
 !!LO:PB:g=original
 =8	=8
-4f	per.
+4f	-per.
 *	*rp:e
 *	*rf:e
 *	*rs:b
-8r}}}	.
+8r}	.
 *	*v:2
 *	*pline:5
 *>B	*>B
 !!LO:TX:a:B:t=B
-{{8cc	En
+{8cc	En
 =9	=9
 4cc	rou-
 8a	-te!
@@ -84,14 +83,14 @@
 8ff	En
 =10	=10
 4ff	rou-
-8cc	-te!
+8cc}	-te!
 *	*Xbis
 *	*rp:u
 *	*rf:ut,ə
 *	*rs:a
-*	*pline:6=2
+*	*pline:2r
 *	*bis
-8cc	Le
+{8cc	Le
 =11	=11
 8b-	so-
 8a	-leil
@@ -103,37 +102,40 @@
 *	*rf:e
 *	*rs:b
 !breath mark here (bold comma)	!
-*	*pline:6=5
+*	*pline:5r
 {8cc	En
 !!LO:PB:g=original
 =13	=13
 4cc	rou-
 8a	-te!
+*	*bis
 8ff	En
 =14	=14
 4ff	rou-
-8cc	-te!
+8cc}	-te!
+*	*Xbis
 *	*rp:u
 *	*rf:ut,ə
 *	*rs:a
-*	*pline:7=4
-8cc	Il
+*	*pline:4r
+{8cc	Il
 =15	=15
 8b-	faut
 8a	le
 8b-	rat-
-8cc	tra-
+8cc	-tra-
 =16	=16
 4a	-per.
 *	*rp:e
 *	*rf:e
 *	*rs:b
 *	*Xbis
-8r}}	.
-*	*pline:8
+8r}	.
+*	*v:3
+*	*pline:6
 *>C	*>C
 !!LO:TX:a:B:t=C
-{{8cc	Au
+{8cc	Au
 =17	=17
 8a	pas,
 8r	.
@@ -143,6 +145,7 @@
 !!LO:PB:g=original
 =18	=18
 8a	pas,
+*	*Xbis
 8r	.
 8r	.
 8cc	en
@@ -154,15 +157,17 @@
 *	*rf:ut,ə
 *	*rs:a
 8r}	.
-*	*pline:9=8
+*	*pline:6r
 {8cc	Au
 =21	=21
 8a	pas,
+*	*bis
 8r	.
 8r	.
 8cc	au
 =22	=22
 8a	pas,
+*	*Xbis
 8r	.
 8r	.
 8cc	en
@@ -177,8 +182,8 @@
 *	*	*rs:a
 *	*cue	*
 *v	*v	*
-4r}}	.
+4r}	.
 ==	==
 *-	*-
 !!!EED: Ève Poudrier
-!!!EEV: 2025/May/30
+!!!EEV: 2026/05/26
