@@ -16,6 +16,7 @@
 *M2/8	*
 *	*v:1
 *>Refrain	*>Refrain
+*	*refrain
 *	*italic
 *	*rline:R1
 =1	=1
@@ -111,4 +112,4 @@
 *-	*-
 !!!RNB: Final measure left open beyond the double bar line in original, deemed unnecessary so ignored here
 !!!EED1: Samuel Boone
-!!!EEV1: 2026/05/12
+!!!EEV1: 2026/05/29
