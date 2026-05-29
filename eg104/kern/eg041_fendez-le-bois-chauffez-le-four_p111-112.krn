@@ -15,13 +15,13 @@
 *e:	*	*	*	*	*
 *M2/2	*	*	*	*	*
 *	*v:1	*v:2	*v:3	*v:4	*v:5
-*	*pline:1	*pline:2r	*pline:3r	*pline:4r	*pline:5
+*	*pline:1	*pline:2r	*pline:3r	*pline:4r	*pline:5r
 =1	=1	=1	=1	=1	=1
 4b	Der-	J'en	J'en	Tous	Ce-
-8b	-rièr'	cuei-	fus	mes	-lui
-8cc	chez	-llis	ma-	pa-	que
+8b	-rièr'	cueil-	fus	mes	-lui
+8cc	chez	-lis	ma-	pa-	que
 4b	nous,	deux,	-lad[e]	-rents	j'ai-
-4g	ya	j'en	au	ve-	-me
+4g	y a	j'en	au	ve-	-me
 =2	=2	=2	=2	=2	=2
 4e	champ	man-	lit,	-naient	ne
 4g	de	-geai	trois	m'y	vient
@@ -30,10 +30,10 @@
 !!LO:PB:g=original
 =3	=3	=3	=3	=3	=3
 4a	Der-	J'en	J'en	Tous	Ce-
-8b	-rièr'	cuei-	fus	mes	-lui
-8cc	chez	-llis	ma-	pa-	que
+8b	-rièr'	cueil-	fus	mes	-lui
+8cc	chez	-lis	ma-	pa-	que
 4b	nous,	deux,	-lad[e]	-rents	j'ai-
-4g	ya	J'en	au	ve-	-me
+4g	y a	J'en	au	ve-	-me
 =4	=4	=4	=4	=4	=4
 4e	champ	man-	lit,	-naient	ne
 4g	de	-geai	trois	m'y	vient
@@ -41,8 +41,8 @@
 *	*pline:2	*pline:3	*pline:4	*pline:5	*pline:6
 =5	=5	=5	=5	=5	=5
 4a	J'en	J'en	Tous	Ce-	Je
-8b	cuei-	fus	mes	-lui	l'a-
-8cc	-llis	ma-	pa-	que	-per-
+8b	cueil-	fus	mes	-lui	l'a-
+8cc	-lis	ma-	pa-	que	-per-
 4.b	deux,	-lad[e]	-rents	j'ai-	-çois
 8a	j'en	au	ve-	-me	ve-
 !!LO:PB:g=original
@@ -53,8 +53,8 @@
 *>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain
 *	*refrain	*	*	*	*
 *	*italic	*	*	*	*
-*	*pline:R1	*	*	*	*
-=!|:7	=!|:7	=!|:7	=!|:7	=!|:7	=!|:7
+*	*rline:R1	*	*	*	*
+==|:7	==|:7	==|:7	==|:7	==|:7	==|:7
 4a	Fen-	.	.	.	.
 8g	-dez	.	.	.	.
 8f#	le	.	.	.	.
@@ -64,7 +64,7 @@
 8e	-fez	.	.	.	.
 8e	le	.	.	.	.
 2g	four,	.	.	.	.
-*	*pline:R2	*	*	*	*
+*	*rline:R2	*	*	*	*
 !!LO:PB:g=original
 =9	=9	=9	=9	=9	=9
 4b	Dor-	.	.	.	.
@@ -83,5 +83,5 @@
 *-	*-	*-	*-	*-	*-
 !!!RWG: Time sig marked simply as '2' in original
 !!!RNB: "Reprise…" score direction located visually after the final repeat sign in original
-!!!EED-1: Samuel Boone
-!!!EEV-1: 2026/03/23
+!!!EED1: Samuel Boone
+!!!EEV1: 2026/05/29
