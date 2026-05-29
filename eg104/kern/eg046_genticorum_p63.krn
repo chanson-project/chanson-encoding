@@ -52,6 +52,7 @@
 8cc	pi-
 8a	-gnons,
 *>Refrain	*>Refrain
+*	*refrain
 *	*italic
 *	*rline:R1
 16a	Sur
@@ -142,4 +143,4 @@
 !!!RDF**kern: N = cue size
 !!!RNB: Refrain line labelling should be addressed, but might be fine for now (was reviewed during 26/05/11 meeting)
 !!!EED1: Samuel Boone
-!!!EEV1: 2026/05/05
+!!!EEV1: 2026/05/29
