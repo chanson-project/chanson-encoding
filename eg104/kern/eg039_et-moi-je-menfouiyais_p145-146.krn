@@ -45,7 +45,7 @@
 =6	=6	=6	=6	=6
 8g	-chait,	-chaient,	-taient,	-taient,
 16r	.	.	.	.
-*	*pline:3Ha	*pline:7Ha	*pline:11Ha	*pline:15Ha
+*	*pline:3h1	*pline:3h1v	*pline:3h1v	*pline:3h1v
 16g	Et	Et	Et	Et
 8g	dans	dans	dans	dans
 8b-/	son	leur	leur	leur
@@ -57,7 +57,7 @@
 8b-	di-	di-	di-	di-
 =8	=8	=8	=8	=8
 8a	-sait:	-saient:	-saient:	-saient:
-*	*pline:3Hb	*pline:7Hb	*pline:11Hb	*pline:15Hb
+*	*pline:3h2	*pline:7h2	*pline:11h2	*pline:15h2
 8dd	Ke-	Ah!	Al-	Cou-
 16cc	-ti-	l'beau	-le-	-cou-
 16dd	-ke-	.	.	.
@@ -73,17 +73,17 @@
 !!LO:PB:g=original
 =10	=10	=10	=10	=10
 8a	-tac;	-cheur!	-ia!	-cou;
-*	*pline:4Ha	*pline:8Ha	*pline:12Ha	*pline:16Ha
+*	*pline:4h1	*pline:4h1v	*pline:4h1v	*pline:4h1v
 8a	Moi	Moi	Moi	Moi
 8a	je	je	je	je
-8a	croy-	croy-	croy-	croy-
+8a	cro-	cro-	cro-	cro-
 =11	=11	=11	=11	=11
-4d	-ais	-ais	-ais	-ais
+4d	-yais	-yais	-yais	-yais
 8g	qu'il	qu'ils	qu'ils	qu'ell's
 8g	di-	di-	di-	di-
 =12	=12	=12	=12	=12
 8a	-sait:	-saient:	-saient:	-saient:
-*	*pline:4Hb	*pline:8Hb	*pline:12Hb	*pline:16Hb
+*	*pline:4h2	*pline:8h2	*pline:12h2	*pline:16h2
 8dd	At-	Ah!	Ah!	Cou-
 16cc	-trapp[e],	v'là	le	-pons-
 16dd	at-	.	.	.
@@ -102,7 +102,7 @@
 *>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain
 *	*refrain	*	*	*
 *	*italic	*	*	*
-*	*pline:R1Ha	*	*	*
+*	*rline:R1h1	*	*	*
 8a	Et	.	.	.
 8a	moi	.	.	.
 8a	je	.	.	.
@@ -112,7 +112,7 @@
 !!LO:PB:g=original
 =16	=16	=16	=16	=16
 8a	foui...	.	.	.
-*	*pline:R1Hb	*	*	*
+*	*rline:R1h2	*	*	*
 8a	Et	.	.	.
 8g	moi	.	.	.
 8b-/	je	.	.	.
@@ -124,9 +124,8 @@
 *	*Xitalic	*	*	*
 *	*Xrefrain	*	*	*
 ==	==	==	==	==
-8r	.	.	.	.
-==	==	==	==	==
 *-	*-	*-	*-	*-
-!!!RWG: Third note of m.4 unclear, presumed 'a'
-!!!EED-1: Samuel Boone
-!!!EEV-1: 2026/03/15
+!!!RNB: Final redundant empty partial measure omitted, as per policy
+!!!RNB: Third note of m.4 unclear, presumed 'a'
+!!!EED1: Samuel Boone
+!!!EEV1: 2026/05/29
