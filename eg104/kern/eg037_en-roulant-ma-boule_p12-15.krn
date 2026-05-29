@@ -16,6 +16,7 @@
 *M6/8	*
 *	*v:1
 *>Refrain	*>Refrain
+*	*refrain
 *	*italic
 *	*rline:R1
 !LO:TX:a:i:t=Voix seule, puis la reprise en chœur.	!
@@ -30,7 +31,7 @@
 8g	-le
 8a	rou-
 4.g	-lant,
-*	*rline:R2
+*	*rline:R1r
 =3	=3
 4ee	En
 8dd	rou-
@@ -54,7 +55,7 @@
 4cc	-rièr'
 8dd	chez
 4cc	nous
-8g	ya-
+8g	y a-
 =6	=6
 4a	t-un
 8a	é-
@@ -87,9 +88,10 @@
 4ee	vont
 8cc	bai-
 4dd	-gnant,
+*>Refrain	*>Refrain
 *	*refrain
 *	*italic
-*	*rline:R3
+*	*rline:R2
 8cc	Rou-
 =11	=11
 4ee	-li
@@ -104,6 +106,7 @@
 *	*Xitalic
 *	*Xrefrain
 ==	==
+*-	*-
 !!!RNB: Segno changed to repeat signs
 !!!EED1: Samuel Boone
-!!!EEV1: 2026/05/13
+!!!EEV1: 2026/05/29
