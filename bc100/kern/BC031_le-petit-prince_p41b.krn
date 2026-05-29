@@ -7,114 +7,118 @@
 !!!YEM: On ne peut reproduire, enregistrer ou diffuser en tout ou en partie le présent ouvrage, sous quelque procédé que ce soit, électronique, mécanique, photographique, sonore, magnétique ou autre, sans avoir obtenu au préalable l'autorisation écrite de l'éditrice.
 !!!PDT: 2011
 !!!SMA: 2012 Bibliothèque nationale du Québec; Biblothèque nationale du Canada
-!!!AGN-Laforte: Chanson énumérative, 6:4(11*), *line 1=12
-!!!AGN-type: Chanson d'enfant
-!!!AGN-rime: suivies (aabb), except last line ([y])
 **kern	**text	**text	**text	**text	**text	**text
 *clefG2	*	*	*	*	*	*
 *k[]	*	*	*	*	*	*
 *C:	*	*	*	*	*	*
 *M2/4	*	*	*	*	*	*
-*	*v:1	*v:2	*v:3	*v:4	*v:5	*v:6
-*	*pline:1	*pline:5	*pline:7	*pline:9	*pline:11	*pline:13
+*>A	*>A	*>A	*>A	*>A	*>A	*>A
+*	*v:1	*vv:2	*vv:3	*vv:4	*vv:5	*vv:6
+*	*pline:1h1	*pline:4c7r	*pline:6r	*pline:7r	*pline:8r	*pline:9r
 =1	=1	=1	=1	=1	=1	=1
-!!alternative pitch duration needed
-!!v:6, Sam'di = Samedi
-{4cc	Lun-	Mar-	Mer-cre-	Jeu-	Ven-dre-	Sam'-
+*^	*	*	*	*	*	*
+{4cc\	8cc/	Lun-	Mar-	Mer-	Jeu-	Ven-	Sam'-
+.	8cc/	.	.	-cre-	.	-dre-	.
+*v	*v	*	*	*	*	*	*
 8b	-di	-di	-di	-di	-di	-di
-*	*	*pline:1b3	*pline:1b3	*	*	*
-8a	ma-	ma-	ma-	ma-	ma-	ma-
+*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain
+*	*refrain	*	*	*	*	*
+*	*italic	*	*	*	*	*
+8a	ma-	.	.	.	.	.
 =2	=2	=2	=2	=2	=2	=2
-4.g	-tin,	-tin,	-tin,	-tin,	-tin,	-tin,
-!!lemp'reur = empereur
-8a	l'emp'-	l'emp'-	l'emp'-	l'emp'-	l'emp'-	l'emp'-
+4.g	-tin,	.	.	.	.	.
+*	*rline:1h2	*	*	*	*	*
+8a	l'emp'-	.	.	.	.	.
 =3	=3	=3	=3	=3	=3	=3
-4.g	-reur,	-reur,	-reur,	-reur,	-reur,	-reur,
-8a	sa	sa	sa	sa	sa	sa
+4.g	-reur,	.	.	.	.	.
+8a	sa	.	.	.	.	.
 =4	=4	=4	=4	=4	=4	=4
-8g	femm[e]	femm[e]	femm[e]	femm[e]	femm[e]	femm[e]
-8f	et	et	et	et	et	et
-8e	son	son	son	son	son	son
-!!p'tit = petit
-8d	p'tit	p'tit	p'tit	p'tit	p'tit	p'tit
+8g	femm[e]	.	.	.	.	.
+8f	et	.	.	.	.	.
+8e	son	.	.	.	.	.
+8d	p'tit	.	.	.	.	.
 !!LO:PB:g=original
 =5	=5	=5	=5	=5	=5	=5
-4e	prin-	prin-	prin-	prin-	prin-	prin-
-4c}	-ce	-ce	-ce	-ce	-ce	-ce
-*	*rp:ẽ	*rp:ẽ	*rp:ẽ	*rp:ẽ	*rp:ẽ	*rp:ẽ
-*	*rf:ẽs,ə	*rf:ẽs,ə	*rf:ẽs,ə	*rf:ẽs,ə	*rf:ẽs,ə	*rf:ẽs,ə
-*	*rs:a	*rs:a	*rs:a	*rs:a	*rs:a	*rs:a
+4e	prin-	.	.	.	.	.
+4c}	-ce	.	.	.	.	.
+*	*rp:ẽ	*	*	*	*	*
+*	*rf:ẽs,ə	*	*	*	*	*
+*	*rs:a	*	*	*	*	*
 =6	=6	=6	=6	=6	=6	=6
-*	*pline:2	*pline:2r	*pline:2r	*pline:2r	*pline:2r	*pline:2r
-{8.cc	Sont	Sont	Sont	Sont	Sont	Sont
-16cc	ve-	ve-	ve-	ve-	ve-	ve-
-8b	-nus	-nus	-nus	-nus	-nus	-nus
-8a	chez	chez	chez	chez	chez	chez
+*	*rline:2	*	*	*	*	*
+{8.cc	Sont	.	.	.	.	.
+16cc	ve-	.	.	.	.	.
+8b	-nus	.	.	.	.	.
+8a	chez	.	.	.	.	.
 =7	=7	=7	=7	=7	=7	=7
-4.g	moi	moi	moi	moi	moi	moi
-8a	pour	pour	pour	pour	pour	pour
+4.g	moi	.	.	.	.	.
+8a	pour	.	.	.	.	.
 =8	=8	=8	=8	=8	=8	=8
-8g	me	me	me	me	me	me
-8f	ser-	ser-	ser-	ser-	ser-	ser-
-8e	-rer	-rer	-rer	-rer	-rer	-rer
-8d	la	la	la	la	la	la
+8g	me	.	.	.	.	.
+8f	ser-	.	.	.	.	.
+8e	-rer	.	.	.	.	.
+8d	la	.	.	.	.	.
 !!LO:PB:g=original
 =9	=9	=9	=9	=9	=9	=9
-4e	pin-	pin-	pin-	pin-	pin-	pin-
-8c}	-ce;	-ce;	-ce;	-ce	-ce	-ce
-*	*rp:ẽ	*rp:ẽ	*rp:ẽ	*rp:ẽ	*rp:ẽ	*rp:ẽ
-*	*rf:ẽs,ə	*rf:ẽs,ə	*rf:ẽs,ə	*rf:ẽs,ə	*rf:ẽs,ə	*rf:ẽs,ə
-*	*rs:a	*rs:a	*rs:a	*rs:a	*rs:a	*rs:a
-*	*pline:3	*pline:3r	*pline:3r	*pline:3r	*pline:3r	*pline:3r
-{{8e	Mais	Mais	Mais	Mais	Mais	Mais
+4e	pin-	.	.	.	.	.
+8c}	-ce;	.	.	.	.	.
+*	*rp:ẽ	*	*	*	*	*
+*	*rf:ẽs,ə	*	*	*	*	*
+*	*rs:a	*	*	*	*	*
+*	*rline:3	*	*	*	*	*
+{8e	Mais	.	.	.	.	.
 =10	=10	=10	=10	=10	=10	=10
-!!comm' = comme
-8c	comm'	comm'	comm'	comm'	comm'	comm'
-!!j' = je
-8e	j'n'é-	j'n'é-	j'n'é-	j'n'é-	j'n'é-	j'n'é-
-8c	-tait	-tait	-tait	-tait	-tait	-tait
-8e	pas	pas	pas	pas	pas	pas
+8c	comm'	.	.	.	.	.
+8e	j'n'é-	.	.	.	.	.
+8c	-tait	.	.	.	.	.
+8e	pas	.	.	.	.	.
 =11	=11	=11	=11	=11	=11	=11
-4g	là,	là,	là,	là,	là,	là,
-8r}	.	.	.	.	.	.
-{8e	le	le	le	le	le	le
+4g	là,	.	.	.	.	.
+8r	.	.	.	.	.	.
+8e	le	.	.	.	.	.
 =12	=12	=12	=12	=12	=12	=12
-8c	pe-	pe-	pe-	pe-	pe-	pe-
-8e	-tit	-tit	-tit	-tit	-tit	-tit
-8c	princ[e]	princ[e]	princ[e]	princ[e]	princ[e]	princ[e]
-8e	a	a	a	a	a	a
+8c	pe-	.	.	.	.	.
+8e	-tit	.	.	.	.	.
+8c	princ[e]	.	.	.	.	.
+8e	a	.	.	.	.	.
 !!LO:PB:g=original
 =13	=13	=13	=13	=13	=13	=13
-4g}	dit:	dit:	dit:	dit:	dit:	dit:
-*	*rp:i	*rp:i	*rp:i	*rp:i	*rp:i	*rp:i
-*	*rf:di	*rf:di	*rf:di	*rf:di	*rf:di	*rf:di
-*	*rs:b	*rs:b	*rs:b	*rs:b	*rs:b	*rs:b
+4g}	dit:	.	.	.	.	.
+*	*rp:i	*	*	*	*	*
+*	*rf:di	*	*	*	*	*
+*	*rs:b	*	*	*	*	*
 {4r	.	.	.	.	.	.
 =14	=14	=14	=14	=14	=14	=14
-*	*pline:4	*pline:6=4a9	*pline:8=4a9	*pline:10=4a9	*pline:12=4a9	*pline:14=4a6
-8.cc	Puis-	Puis-	Puis-	Puis-	Puis-	Puis-
-16cc	-que	-que	-que	-que	-que	-que
-\8b	c'est	c'est	c'est	c'est	c'est	c'est
-!	!elided "e"	!	!	!	!	!
-8a	comm'	comm'	comm'	comm'	comm'	comm'
+*	*rline:4	*	*	*	*	*
+8.cc	Puis-	.	.	.	.	.
+16cc	-que	.	.	.	.	.
+\8b	c'est	.	.	.	.	.
+8a	comm'	.	.	.	.	.
 =15	=15	=15	=15	=15	=15	=15
-8g	ça,	ça,	ça,	ça,	ça,	ça,
-8e	nous	nous	nous	nous	nous	nous
-8c	re-	re-	re-	re-	re-	ne
-8f	-vien-	-vien-	-vien-	-vien-	-vien-	re-
+8g	ça,	.	.	.	.	.
+*	*	*	*	*	*	*
+*	*	*	*	*	*	*
+*	*	*	*	*	*	*pline:10
+8e	nous	.	.	.	.	nous
+8c	re-	.	.	.	.	ne
+8f	-vien-	.	.	.	.	re-
 =16	=16	=16	=16	=16	=16	=16
-4e	-drons	-drons	-drons	-drons	-drons	-vien-
-!!alternative pitch duration needed
-!!v6: sam'di = samedi
-4d	mar-	mer-cre-	jeu-	ven-dre-	sam'-	-drons
+4e	-drons	.	.	.	.	-vien-
+*	*Xitalic	*	*	*	*	*
+*	*Xrefrain	*	*	*	*	*
+*>B	*>B	*>B	*>B	*>B	*>B	*>B
+*	*	*pline:6	*pline:7	*pline:8	*pline:9	*
+*^	*	*	*	*	*	*
+4d\	8d/	mar-	mer-	jeu-	ven-dre-	sam'-	-drons
+.	8d/	.	-cre-	.	-dre-	.	.
+*v	*v	*	*	*	*	*	*
 =17	=17	=17	=17	=17	=17	=17
-4c	-di.	-di.	-di.	di.	-di	plus!
+4c	-di.	-di.	-di.	di.	-di.	plus!
 *	*rp:i	*rp:i	*rp:i	*rp:i	*rp:i	*rp:y
 *	*rf:di	*rf:di	*rf:di	*rf:di	*rf:di	*rf:x
 *	*rs:b	*rs:b	*rs:b	*rs:b	*rs:b	*rs:x
-4r}}	.	.	.	.	.	.
-==	==	==	==	==	==	==
+4r}	.	.	.	.	.	.
+=:||	=:||	=:||	=:||	=:||	=:||	=:||
 *-	*-	*-	*-	*-	*-	*-
 !!!EEV: Ève Poudrier
-!!!EED: 2025/June/20
-!!!EEV-notes: Original only include the last verse's alternative words "Sam'di matin, etc." and last line "Pour finir: Puis-que c'est comm' ça, nous ne re-vien-drons plus!"
+!!!EED: 2026/05/28
