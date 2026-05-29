@@ -15,9 +15,10 @@
 *G:	*
 *M3/8	*
 *	*v:1
-*	*pline:R1h1
+*>Refrain	*>Refrain
 *	*refrain
 *	*italic
+*	*rline:R1h1
 !LO:TX:a:i:t=Voix seule, puis la reprise en chœur.	!
 8r	.
 =1	=1
@@ -33,7 +34,7 @@
 =4	=4
 4a	-viè-
 8g	-re,
-*	*pline:R1h2
+*	*rline:R1h2
 !!LO:PB:g=original
 =5	=5
 4b/	Frin-
@@ -51,7 +52,7 @@
 *	*Xrefrain
 !LO:TX:a:B:t=FIN.	!
 *	*pline:1
-=:|!|:	=:|!|:
+==:|!|:	==:|!|:
 *^	*
 8r	8g	Mon
 *v	*v	*
@@ -71,7 +72,7 @@
 8r	.
 *	*refrain
 *	*italic
-*	*pline:R1h2r
+*	*rline:R1h2r
 =13	=13
 4b	Frin-
 8dd	-gue,
@@ -103,17 +104,18 @@
 =20	=20
 4b	-gnons,
 *>Refrain	*>Refrain
+*	*refrain
 *	*italic
-*	*pline:R2
+*	*rline:R2
 8dd	Tor-
 !!LO:PB:g=original
 =21	=21
-8dd	-til-
-8dd	-le
+8dd	-ti-
+8dd	-lle
 8dd	mor-
 =22	=22
 8dd	-fil,
-*	*pline:R3
+*	*rline:R3
 8dd	Ar-
 8dd	-ran-
 =23	=23
@@ -121,9 +123,9 @@
 8dd	de
 8dd	fau-
 =24	=24
-8dd	-cil-
-8dd	-les,
-*	*pline:R4h1
+8dd	-ci-
+8dd	-lles,
+*	*rline:R4h1
 8dd	Tri-
 =25	=25
 8dd	-bou-
@@ -132,7 +134,7 @@
 !!LO:PB:g=original
 =26	=26
 4dd	-teau,
-*	*pline:R4h2
+*	*rline:R4h2
 8dd	Bon-
 =27	=27
 4dd	-soir
@@ -145,6 +147,6 @@
 ==	==
 *-	*-
 !!!RWG: pline labelling might need a second look
-!!!RNB: D.C. substituted for segno symbols (at beginning and end of original)
-!!!EED-1: Samuel Boone
-!!!EEV-1: 2026/05/07
+!!!RNB: Segno symbols substituted by "D.C." (at beginning and end in original)
+!!!EED1: Samuel Boone
+!!!EEV1: 2026/05/29
