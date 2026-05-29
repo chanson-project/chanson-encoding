@@ -29,7 +29,7 @@
 8b-)	.
 *	*refrain
 *	*italic
-*	*pline:R1
+*	*rline:R1h1
 4a	Ah!
 8b-/	ah!
 =3	=3
@@ -57,8 +57,9 @@
 =7	=7
 4a	-gnons,
 *>Refrain	*>Refrain
+*	*refrain
 *	*italic
-*	*pline:R2
+*	*rline:R1h2
 8f	Fri-
 8a	-tai-
 8a	-ne,
@@ -72,7 +73,7 @@
 =9	=9
 4g	-lon,
 8r	.
-*	*pline:R1r
+*	*rline:R1h1r
 4f	Ah!
 8a	ah!
 =10	=10
@@ -82,7 +83,8 @@
 =11	=11
 4dd	l'hui-
 8cc	-le,
-4a	frit
+*	*rline:R2h2
+4a	Frit
 8a	au
 !!LO:PB:g=original
 =12	=12
@@ -99,5 +101,6 @@
 1r	.
 ==	==
 *-	*-
-!!!EED-1: Samuel Boone
-!!!EEV-1: 2026/05/05
+!!!RNB: Final empty measure omitted as per policy
+!!!EED1: Samuel Boone
+!!!EEV1: 2026/05/29
