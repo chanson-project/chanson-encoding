@@ -52,13 +52,13 @@
 =7	=7	=7	=7	=7	=7	=7	=7
 8a	bel-	-sel-	pè-	-è-	sel-	-gè-	crè-
 8g	-le,	-le,	-re,	-res,	-le,	-re,	-ve,
-*	*refrain	*	*	*	*	*	*
-*	*italic	*	*	*	*	*	*
+*	*refrain	*refrain	*refrain	*refrain	*refrain	*refrain	*refrain
+*	*italic	*italic	*italic	*italic	*italic	*italic	*italic
 8a	Lon	.	.	.	.	.	.
 =8	=8	=8	=8	=8	=8	=8	=8
 4b/	la,	.	.	.	.	.	.
-*	*Xitalic	*	*	*	*	*	*
-*	*Xrefrain	*	*	*	*	*	*
+*	*Xitalic	*Xitalic	*Xitalic	*Xitalic	*Xitalic	*Xitalic	*Xitalic
+*	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain
 *	*pline:2r	*pline:4r	*pline:6r	*pline:8r	*pline:10r	*pline:12r	*pline:14r
 8a	J'ai	Com-	Du	Va-	Et	Ce	Ou
 !!LO:PB:g=original
@@ -73,10 +73,9 @@
 =12	=12	=12	=12	=12	=12	=12	=12
 8g)	-le.	-le.	-re.	-res.	-le.	-re.	-ve.
 8r	.	.	.	.	.	.	.
-==||	==||	==||	==||	==||	==||	==||	==||
-8r	.	.	.	.	.	.	.
 ==	==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-	*-
 !!!RNB: A variant included underneath but on the same page & in 6/8 time (ignored for now)
-!!!EED-1: Samuel Boone
-!!!EEV-1: 2026/04/14
+!!!RNB: Final redundant empty partial measure omitted, as per policy
+!!!EED1: Samuel Boone
+!!!EEV1: 2026/05/29
