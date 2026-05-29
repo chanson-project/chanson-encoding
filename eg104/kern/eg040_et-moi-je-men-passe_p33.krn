@@ -57,6 +57,7 @@
 8cc	m'en-
 4cc	-voie,
 *>Refrain	*>Refrain
+*	*refrain
 *	*italic
 *	*rline:R1
 !!LO:PB:g=original
@@ -96,13 +97,10 @@
 =14	=14
 8d]	.
 4r	.
-!!LO:PB:g=original
 *	*Xitalic
 *	*Xrefrain
-==	==
-8r	.
 ==	==
 *-	*-
 !!!RNB: Slur in m.9 under notes in original
 !!!EED1: Samuel Boone
-!!!EEV1: 2026/05/11
+!!!EEV1: 2026/05/29
