@@ -51,7 +51,7 @@
 16fJ	.
 *	*refrain
 *	*italic
-*	*pline:R2
+*	*pline:R1v
 12g	di-
 12f	-gue
 12g	din-
@@ -85,5 +85,5 @@
 *-	*-
 !!!RNB: Unbeamed triplets are preserved
 !!!RNB: Final eighth rest omitted, as measure is empty and redundant
-!!!EED-1: Samuel Boone
-!!!EEV-1: 2026/05/07
+!!!EED1: Samuel Boone
+!!!EEV1: 2026/05/29
