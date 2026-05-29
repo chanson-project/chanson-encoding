@@ -14,23 +14,23 @@
 *k[b-e-]	*	*	*	*	*	*	*	*	*	*
 *M2/4	*	*	*	*	*	*	*	*	*	*
 *B-:	*	*	*	*	*	*	*	*	*	*
-*	*vv:1	*vv:2	*vv:3	*vv:4	*vv:5	*vv:6	*vv:7	*vv:8	*vv:9	*vv:10
+*	*v:1	*v:2	*v:3	*v:4	*v:5	*v:6	*v:7	*v:8	*v:9	*v:10
 *	*pline:1	*pline:11	*pline:21	*pline:31	*pline:41	*pline:51	*pline:61	*pline:71	*pline:81	*pline:91
 !!Editorial deletion, [en], to accommodate text setting in line:91, m.0, beat 1.
 *^	*	*	*	*	*	*	*	*	*	*
 8f	8r	.	.	.	.	.	.	.	.	La	Qu'[en] a
 *v	*v	*	*	*	*	*	*	*	*	*	*
-8b-	Dans	Jeun[']s	É-	S'il	Le	Vous,	Mais	Mais	se-	com-
+8b-	Dans	Jeun[es]	É-	S'il	Le	Vous,	Mais	Mais	se-	com-
 8cc	tous	fill's,	-tant	est	soir	à	com-	si	-main[e],	-po-
 =1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
 4dd	les	é-	ma-	com-	ar-	la	-me	les	au	-sé
 !!Editorial deletion, [la] to accommodate text setting in line:91, m.1, beat 1.
-4dd	can-	-cou-	-ri-	-plai-	-ri-	mai-	ce-	ma-	lo-	[la]chan-
+4dd	can-	-cou-	-ri-	-plai-	-ri-	mai-	ce-	ma-	lo-	[la] chan-
 =2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
-4dd	-tons	-tez,	-ée,	-sant,	-vé,	-son,	-la	-ris	-gis,	-son,
+4dd	-tons	-tez,	-é[e],	-sant,	-vé,	-son,	-la	-ris	-gis,	-son,
 *	*pline:2	*pline:12	*pline:22	*pline:32	*pline:42	*pline:52	*pline:62	*pline:72	*pline:82	*pline:92
 !!Editorial contraction, [es], to accommodate text setting in line:92, m.2, beat 1.
-8ee-	Y a	Qui	Il	Vous	Ils	Ni	Tous	Ne	Ell's	C'[es]t [un]
+8ee-	Y a	Qui	Il	Vous	Ils	Ni	Tous	Ne	Ell's	C'[es]t un
 8dd	des	vou-	faut	au-	re-	pain,	les	sont	ont	vieil-
 =3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
 8cc	fill's	-lez	tout	-rez	-vienn'nt	ni	hom-	pas	l'air	-lard
@@ -40,9 +40,9 @@
 =4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
 8cc	-çons	-er:	-ner,	-ment,	-gis	-son,	pas:	-tis,	-dies;	-ton
 *	*pline:3	*pline:13	*pline:23	*pline:33	*pline:43	*pline:53	*pline:63	*pline:73	*pline:83	*pline:93
-!!Editorial addition, [8r], lines 3,83, and 93, m.4, beat 1.
+!!Editorial addition, '8r', lines 3,83, and 93, m.4, beat 1.
 *^	*	*	*	*	*	*	*	*	*	*
-8f	[8r]	Qui	.	.	.	.	.	.	.	Mal	Qui
+8f	8r	Qui	.	.	.	.	.	.	.	Mal	Qui
 *v	*v	*	*	*	*	*	*	*	*	*	*
 8b-	veul'nt	Votr[e]	Tous	Mais	Tout	N'a-	Car	C'est	pei-	n'a
 8cc	se	en-	les	s'il	en	-yant	tous	qu'il	-gné's,	pas
@@ -63,39 +63,39 @@
 4b-	-té.	-ment.	gens.	-coup.	-lon;	tout...	trop!	-fauts...	-gées.	-é.
 *	*pline:5	*pline:15	*pline:25	*pline:35	*pline:45	*pline:55	*pline:65	*pline:75	*pline:85	*pline:95
 8r	.	.	.	.	.	.	.	.	.	.
-!!Editorial contraction, d['], pline:75, m.8, beat 2
-8f	Les	Vous	Faut	Com-	Di-	Et	Y en	D[']ces	Le	Il
+!!Editorial contraction, [e], pline:75, m.8, beat 2
+8f	Les	Vous	Faut	Com-	Di-	Et	Y en	D[e] ces	Le	Il
 =8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8
 8b-	gar-	pre-	res-	-bien	-sant	vos	a,	hu-	di-	a
 8dd	-çons	-nez	-ter	y	d'un	pe-	as-	-meur's	-manch[e]	pris
 8ff	vont	un	au	en	air	-tits	-su-	ma-	ar-	un
-8ff	les	é-	lo-	a	fâ-	en-	-ré-	-ra	-ri-	gi-
+8ff	les	é-	lo-	a-	fâ-	en-	-ré-	-ra	-ri-	gi-
 =9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9
-4ff	voir,	-tat	-gis	--t-il	-ché:	-fants	-ment,	-bouts,	-vé,	-bier
+4ff	voir,	-tat	-gis	t-il	-ché:	-fants	-ment,	-bouts,	-vé,	-bier
 *	*pline:6	*pline:16	*pline:26	*pline:36	*pline:46	*pline:56	*pline:66	*pline:76	*pline:86	*pline:96
 8r	.	.	.	.	.	.	.	.	.	.
 8ff	le	De	Pour	De	"Don-	Qui	Qui	Que	Vous	Qu'il
 =10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10
-8gg	plus	pein's	plair[e]	ces	-ne	vous	sont	rien	les	a
-8ff	sou-	et	à	mé-	--moi	di-	plus	n'est	vo-	su
+8gg	plus	pein's	plair[e]	ces	-ne-	vous	sont	rien	les	a
+8ff	sou-	et	à	mé-	moi	di-	plus	n'est	vo-	su
 8ee-	-vent	d'em-	son	-chants	à	-ront:	com-	à	-yez	con-
 8dd	le	-bar-	ma-	ma-	sou-	"Ma-	-plai-	leur	fri-	-ser-
 =11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11
 4ee-	soir;	-ras;	-ri;	-ris,	-per!	-man,	-sants:	goût;	-sées,	-ver;
 *	*pline:7	*pline:17	*pline:27	*pline:37	*pline:47	*pline:57	*pline:67	*pline:77	*pline:87	*pline:97
 8r	.	.	.	.	.	.	.	.	.	.
-8ee-	Les	Bien	Vous	Que	Prom-	Don-	Ils	Quand	Que	Ell[e]
+8ee-	Les	Bien	Vous	Que	Promp-	Don-	Ils	Quand	Que	Ell[e]
 =12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12
-8ff	fill's	sou-	ê-	tout	-pte-	-nez	aim'nt	on	tout's	a
-8dd	se	-vent	-tes	leur	-ment	--nous	leurs	veut	leurs	des
+8ff	fill's	sou-	ê-	tout	-te-	-nez-	aim'nt	on	tout's	a
+8dd	se	-vent	-tes	leur	-ment	nous	leurs	veut	leurs	des
 8b-	ré-	du	ma-	in-	fais	donc	com-	leur	qua-	qua-
 8dd	-jou-	cha-	-ri-	-té-	mon	du	-pa-	par-	-li-	-li-
 =13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13
 4cc	-iss'nt	-grin,	-ée	-rêt	lit,	pain,	-gnées	-ler	-tés	-tés
 *	*pline:8	*pline:18	*pline:28	*pline:38	*pline:48	*pline:58	*pline:68	*pline:78	*pline:88	*pline:98
-!!Editorial addition, [8dd], line:68, m.13, beat 2.
+!!Editorial addition, '8dd', line:68, m.13, beat 2.
 *^	*	*	*	*	*	*	*	*	*	*
-8r	[8dd]	.	.	.	C'est	.	.	Puis-	.	.	.
+8r	8dd	.	.	.	C'est	.	.	Puis-	.	.	.
 *v	*v	*	*	*	*	*	*	*	*	*	*
 8dd	Quand	Sans	Par	d'al-	Car	Car	-qu'ils	Dans	N'est	Qu'il
 =14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14
@@ -113,11 +113,11 @@
 8b-	se	vous	a-	y	-ment	-las,	veul'nt	-ment	n'ont	cha-
 8cc	dis'nt	f'ra	-vez	pas-	pou-	quel	les	n'pas	au-	-cun
 =17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17
-!!Editorial contraction, line:29, m.17, beat 2
-4dd	en	re-	pris[un]	-ser	-voir	crè-	sou-	fair'	-cun	fass'
-4dd	sou-	-gret-	ma-	leur	ché-	-ve	-la-	cour-	sou-	comm'
+!!Editorial contraction, [un], line:29, m.17, beat 2
+4dd	en	re-	pris [un]	-ser	-voir	crè-	sou-	fair'	-cun	fass'
+4dd	sou-	-gret-	ma-	leur	ché-	-ve-	-la-	cour-	sou-	comm'
 =18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18
-8dd	-riant:	-ter	-ri,	temps,	-rir	--coeur	-ger:	-roux	-ci	moi,
+8dd	-riant:	-ter	-ri,	temps,	-rir	cœur	-ger:	-roux	-ci	moi,
 *	*pline:10	*pline:20	*pline:30	*pline:40	*pline:50	*pline:60	*pline:70	*pline:80	*pline:90	*pline:100
 8cc	Le	La	C'est	A	Un	Vous	C'est	A-	Pour	Qu'il
 8b-	voi-	mai-	pour	boir'	si	f'ra	pour	-vec	l'af-	chan-
@@ -132,7 +132,10 @@
 ==	==	==	==	==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
 !!!RDF**kern: > = parentheses
-!!!EED-1: Isaac Howie
-!!!EEV-1: 2026/01/18
-!!!EED-2: Ève Poudrier
-!!!EEV-2: 2026/03/22
+!!!RWG: Some extra syllables in [square brackets], but not sure if that's the current policy or why those in particular were selected; probably could do with a second look
+!!!EED1: Isaac Howie
+!!!EEV1: 2026/01/18
+!!!EED2: Ève Poudrier
+!!!EEV2: 2026/03/22
+!!!EED3: Samuel Boone
+!!!EEV3: 2026/05/29
