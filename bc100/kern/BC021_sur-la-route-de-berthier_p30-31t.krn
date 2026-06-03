@@ -211,6 +211,7 @@
 =33	=33	=33	=33	=33
 8.cc#	bel-	.	.	.
 16cc#	-le,	.	.	.
+*	*rline:bisr	*	*	*
 8cc#	bel-	.	.	.
 8cc#	-le	.	.	.
 =34	=34	=34	=34	=34
@@ -228,5 +229,5 @@
 *-	*-	*-	*-	*-
 !!!RDF**kern: > = above
 !!!RDF**kern: < = below
-!!!EED1: Ève Poudrier
-!!!EEV1: 2026/06/03
+!!!EED: Ève Poudrier
+!!!EEV: 2025/05/30
