@@ -13,19 +13,21 @@
 *k[b-]	*
 *F:	*
 *M2/4	*
-*	*v:1
 *	*pline:1
-*>A	*>A
 !!LO:TX:a:B:t=A
 {8c	De-
 =1	=1
 8f	-bout,
 8a	les
 8f	gars,
+*	*refrain
+*	*italic
 8a	en
 =2	=2
 4f	rou-
 8f,}	-te!
+*	*Xitalic
+*	*Xrefrain
 *	*rp:u
 *	*rf:ut,ə
 *	*rs:a
@@ -71,9 +73,9 @@
 *	*rf:e
 *	*rs:b
 8r}	.
-*	*v:2
-*	*pline:5
-*>B	*>B
+*	*rline:R1
+*	*refrain
+*	*italic
 !!LO:TX:a:B:t=B
 {8cc	En
 =9	=9
@@ -85,11 +87,12 @@
 4ff	rou-
 8cc}	-te!
 *	*Xbis
+*	*Xitalic
+*	*Xrefrain
 *	*rp:u
 *	*rf:ut,ə
 *	*rs:a
 *	*pline:2r
-*	*bis
 {8cc	Le
 =11	=11
 8b-	so-
@@ -97,12 +100,14 @@
 8b-	est
 8cc	le-
 =12	=12
-4.a,}	vé,
+4.a,}	-vé,
 *	*rp:e
 *	*rf:e
 *	*rs:b
 !breath mark here (bold comma)	!
-*	*pline:5r
+*	*rline:R1r
+*	*refrain
+*	*italic
 {8cc	En
 !!LO:PB:g=original
 =13	=13
@@ -114,6 +119,8 @@
 4ff	rou-
 8cc}	-te!
 *	*Xbis
+*	*Xitalic
+*	*Xrefrain
 *	*rp:u
 *	*rf:ut,ə
 *	*rs:a
@@ -129,11 +136,8 @@
 *	*rp:e
 *	*rf:e
 *	*rs:b
-*	*Xbis
 8r}	.
-*	*v:3
-*	*pline:6
-*>C	*>C
+*	*pline:5
 !!LO:TX:a:B:t=C
 {8cc	Au
 =17	=17
@@ -148,28 +152,34 @@
 *	*Xbis
 8r	.
 8r	.
+*	*refrain
+*	*italic
 8cc	en
 =19	=19
 2cc	rou-
 =20	=20
 4cc	-te,
+*	*Xitalic
+*	*Xrefrain
 *	*rp:u
 *	*rf:ut,ə
 *	*rs:a
 8r}	.
-*	*pline:6r
+*	*pline:5r
 {8cc	Au
 =21	=21
 8a	pas,
+8r	.
+8r	.
 *	*bis
-8r	.
-8r	.
 8cc	au
 =22	=22
 8a	pas,
 *	*Xbis
 8r	.
 8r	.
+*	*refrain
+*	*italic
 8cc	en
 =23	=23
 2cc	rou-
@@ -177,6 +187,8 @@
 *^	*
 *	*cue	*
 4cc\	4ff/	-te!
+*	*	*Xitalic
+*	*	*Xrefrain
 *	*	*rp:u
 *	*	*rf:ut,ə
 *	*	*rs:a
@@ -186,4 +198,4 @@
 ==	==
 *-	*-
 !!!EED: Ève Poudrier
-!!!EEV: 2026/05/26
+!!!EEV: 2026/06/04
