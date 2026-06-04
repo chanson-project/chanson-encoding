@@ -14,7 +14,7 @@
 *M6/8	*
 *	*pline:1h1
 !!LO:TX:a:B:t=A
-4g	Dans
+{4g	Dans
 8f#	la
 =1	=1
 4g	gar-
@@ -23,12 +23,12 @@
 8cc	-tio-
 =2	=2
 4b	-na-
-8a	-le,
+8a}	-le,
 *	*rp:a
 *	*rf:al,ə
 *	*rs:a
 *	*pline:1h2
-4g	C'est
+{4g	C'est
 8f#^>	pa-
 !!LO:PB:g=original
 =3	=3
@@ -38,14 +38,14 @@
 8d	cym-
 =4	=4
 [4g	-ba-
-8g]	-le;
+8g]}	-le;
 *	*rp:a
 *	*rf:al,ə
 *	*rs:a
 =||	=||
 *	*pline:1h1r
 !!LO:TX:a:B:t=B
-4b/	Dans
+{4b/	Dans
 8a	la
 =5	=5
 4b	gar-
@@ -55,12 +55,12 @@
 !!LO:PB:g=original
 =6	=6
 4dd	-na-
-8cc	-le,
+8cc}	-le,
 *	*rp:a
 *	*rf:al,ə
 *	*rs:a
 *	*pline:1h2r
-4b	C'est
+{4b	C'est
 8a^>	pa-
 =7	=7
 4b^>/	-pa
@@ -69,14 +69,14 @@
 8a	cym-
 =8	=8
 [4b/	-ba-
-8b/]	-le;
+8b/]}	-le;
 *	*rp:a
 *	*rf:al,ə
 *	*rs:a
 =||	=||
 *	*pline:2h1
 !!LO:TX:a:B:t=C
-4dd	Comm'
+{4dd	Comm'
 8dd^>	pa-
 !!LO:PB:g=original
 =9	=9
@@ -85,12 +85,12 @@
 4d	veux
 8d	un
 =10	=10
-4.dd	jour
+4.dd}	jour
 *	*rp:u
 *	*rf:uʁ
 *	*rs:b
 *	*pline:2h2
-4dd	me
+{4dd	me
 8dd	te-
 =11	=11
 4dd	-nir
@@ -98,7 +98,7 @@
 4dd	du
 8dd	tam-
 =12	=12
-4.g	-bour.
+4.g}	-bour.
 *	*rp:u
 *	*rf:uʁ
 *	*rs:b
