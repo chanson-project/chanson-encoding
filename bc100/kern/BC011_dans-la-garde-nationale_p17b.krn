@@ -7,15 +7,12 @@
 !!!YEM: On ne peut reproduire, enregistrer ou diffuser en tout ou en partie le présent ouvrage, sous quelque procédé que ce soit, électronique, mécanique, photographique, sonore, magnétique ou autre, sans avoir obtenu au préalable l'autorisation écrite de l'éditrice.
 !!!PDT: 2011
 !!!SMA:2012 Bibliothèque nationale du Québec; Biblothèque nationale du Canada
-!!!AGN-Laforte: Chanson d'enfants, 3:2(7)
-!!!AGN-type: Canon à trois parties
-!!!AGN-rime: suivies (aa,aa,bb)
 **kern	**text
 *clefG2	*
 *k[f#]	*
 *G:	*
 *M6/8	*
-*	*pline:1
+*	*pline:1h1
 !!LO:TX:a:B:t=A
 4g	Dans
 8f#	la
@@ -30,7 +27,7 @@
 *	*rp:a
 *	*rf:al,ə
 *	*rs:a
-*	*pline:2
+*	*pline:1h2
 4g	C'est
 8f#^>	pa-
 !!LO:PB:g=original
@@ -40,13 +37,13 @@
 4B	joue
 8d	cym-
 =4	=4
-[4g	ba-
-8g]	le;
+[4g	-ba-
+8g]	-le;
 *	*rp:a
 *	*rf:al,ə
 *	*rs:a
 =||	=||
-*	*pline:1r
+*	*pline:1h1r
 !!LO:TX:a:B:t=B
 4b/	Dans
 8a	la
@@ -59,7 +56,10 @@
 =6	=6
 4dd	-na-
 8cc	-le,
-*	*pline:2r
+*	*rp:a
+*	*rf:al,ə
+*	*rs:a
+*	*pline:1h2r
 4b	C'est
 8a^>	pa-
 =7	=7
@@ -70,8 +70,11 @@
 =8	=8
 [4b/	-ba-
 8b/]	-le;
+*	*rp:a
+*	*rf:al,ə
+*	*rs:a
 =||	=||
-*	*pline:3
+*	*pline:2h1
 !!LO:TX:a:B:t=C
 4dd	Comm'
 8dd^>	pa-
@@ -86,7 +89,7 @@
 *	*rp:u
 *	*rf:uʁ
 *	*rs:b
-*	*pline:4
+*	*pline:2h2
 4dd	me
 8dd	te-
 =11	=11
@@ -102,5 +105,5 @@
 ==	==
 *-	*-
 !!!RDF**kern: > = above
-!!!EED: Ève Poudrier
-!!!EEV: 2025/May/13
+!!!EED1: Ève Poudrier
+!!!EEV1: 2026/06/04
