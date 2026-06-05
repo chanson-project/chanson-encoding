@@ -83,6 +83,7 @@
 =17	=17
 8dd	-din,
 *>Refrain	*>Refrain
+*	*refrain
 *	*italic
 *	*rline:R2
 8b-	Sur
@@ -108,8 +109,7 @@
 =22	=22
 4g)	.
 ==	==
-8r	.
-==	==
 *-	*-
+!!!RNB: Final empty partial measure omitted as per policy
 !!!EED1: Samuel Boone
-!!!EEV1: 2026/05/11
+!!!EEV1: 2026/06/05
