@@ -8,10 +8,6 @@
 !!!PDT: 2011
 !!!YEM: On ne peut reproduire, enregistrer ou diffuser en tout ou en partie le présent ouvrage, sous quelque procédé que ce soit, électronique, mécanique, photographique, sonore, magnétique ou autre, sans avoir obtenu au préalable l'autorisation écrite de l'éditrice.
 !!!SMA: 2012 Bibliothèque nationale du Québec; Biblothèque nationale du Canada
-!!!AGN-type: Chanson
-!!!AGN-Laforte: 1:9(5+4/8/5)
-!!!AGN-rhyme: irregular (xa1xb1,a2-b1a1x)
-!!!RNB: Full rest measures have not been encoded and measure numbering has been adjusted.
 **kern	**dynam	**text
 *clefG2	*	*
 *k[b-e-]	*	*
@@ -19,7 +15,7 @@
 !!LO:TX:a:t=Très lent 
 *M4/4	*	*
 *met(c)	*	*v:1
-*	*	*pline:1Ha
+*	*	*rline:1h1
 =1	=1	=1
 {{4b-.	<	A-
 16a	(	-ve
@@ -29,7 +25,7 @@
 =2	=2	=2
 4b-	.	-a!
 4r}	.	.
-*	*	*pline:1Hb
+*	*	*pline:1h2
 {(>4cc	.	Rei-
 q16ddL	.	.
 q16ccJ)	.	.
@@ -59,7 +55,7 @@ q16ccJ)	.	.
 8cc.#)}	)	-re,
 *	*	*rp:ɛː
 *	*	*rf:ɛːʁ,ə
-*	*	*rs:a1
+*	*	*rs:a
 *	*	*pline:3
 {16a	]	En-
 8.cc	.	-tends
@@ -75,7 +71,7 @@ q16ccJ)	.	.
 =5	=5	=5
 [4b-	.	-fant;
 *	*	*rp:ɑ̃
-*	*	*rf:x
+*	*	*rf:fɑ̃
 *	*	*rs:x
 8b-]}}	.	.
 *	*	*pline:4
@@ -94,12 +90,12 @@ q16ccJ)	.	.
 ([4cc	>	-cours:
 *	*	*rp:u
 *	*	*rf:uʁ
-*	*	*rs:b1
+*	*	*rs:b
 (24cc]	)	.
 *	*	*pline:5
 24g	]	Don-
-24a)	.	-ne-
-((<(24b-XL	.	-moi
+24a)	.	-ne--
+((<(24b-XL	.	moi
 q16ccL	.	.
 q16b-J	.	.
 24aJ)	.	.
@@ -107,8 +103,8 @@ q16b-J	.	.
 !the tuplet should be next to the beam	!	!
 4f	.	paix!
 *	*	*rp:ɛ
-*	*	*rf:pɛ
-*	*	*rs:a2-
+*	*	*rf:ɛ
+*	*	*rs:a'
 8r]}}	.	.
 *	*	*pline:6
 {{8f	.	Mon
@@ -125,7 +121,7 @@ q16b-J	.	.
 8b-	.	-re
 *	*	*rp:ɛː
 *	*	*rf:ɛːʁ,ə
-*	*	*rs:a1
+*	*	*rs:a
 8r}	.	.
 *	*	*pline:7
 {8b-	.	N'a
@@ -142,7 +138,7 @@ q16b-J	.	.
 4b-	]	-mour.
 *	*	*rp:u
 *	*	*rf:uʁ
-*	*	*rs:b1
+*	*	*rs:b
 8r}}	.	.
 *	*	*pline:8
 {{8b-	.	Pi-
@@ -153,7 +149,7 @@ q16b-J	.	.
 16cc	(	Pi-
 16.dd	(	-tié!
 *	*	*Xbis
-32dd	(	O
+32dd	(	Ô
 ((24ddmL	[	bon-
 24ccJ)	.	.
 24dd)	.	-ne
@@ -162,7 +158,7 @@ q16b-J	.	.
 8ee-	]	-re
 *	*	*rp:ɛː
 *	*	*rf:ɛːʁ,ə
-*	*	*rs:a1
+*	*	*rs:a
 8.r}	.	.
 *	*	*pline:9
 {16g	.	Con-
@@ -178,13 +174,13 @@ q16b-J	.	.
 24b-)	)	Jé-
 [4cc	]	-sus.
 *	*	*rp:y
-*	*	*rf:x
+*	*	*rf:zy
 *	*	*rs:x
 8cc]	.	.
 8r}}	.	.
 !!LO:PB:g=original
 =11	=11	=11
-*	*	*pline:1Har
+*	*	*pline:1h1r
 {4.b-	<	A-
 16a	[	-ve
 16b-	.	Ma-
@@ -198,7 +194,7 @@ q16b-J	.	.
 *-	*-	*-
 !!!RDF**kern: > = below
 !!!RDF**kern: < = above
-!!!EED:Jason Lau
-!!!EEV:2025/07/22
-!!!EED: Ève Poudrier
-!!!EEV: 2025/07/29
+!!!EED1:Jason Lau
+!!!EEV1:2025/07/22
+!!!EED2: Ève Poudrier
+!!!EEV2: 2026/06/05
