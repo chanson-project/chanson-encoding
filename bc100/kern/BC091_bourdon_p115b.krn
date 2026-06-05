@@ -14,10 +14,9 @@
 *C:	*
 *M4/4	*
 *met(c)	*
-*>A	*>A
 *	*pline:1
 !!LO:TX:a:B:t=A
-4g	Le
+{4g	Le
 4e	bour-
 =1	=1
 2g	-don
@@ -27,15 +26,14 @@
 8a	clo-
 =2	=2
 4g	-chet-
-4f	-te:
+4f}	-te:
 *	*rp:ɛ
 *	*rf:ɛt,ə
 *	*rs:a
 =::	=::
-*>B	*>B
 *	*pline:2
 !!LO:TX:a:B:t=B
-4e	"Tais--
+{4e	"Tais--
 4c	toi
 !!LO:PB:g=original
 =3	=3
@@ -46,44 +44,42 @@
 8f	son-
 =4	=4
 4e	-net-
-4d	-te,
+4d}	-te,
 *	*rp:ɛ
 *	*rf:ɛt,ə
 *	*rs:a
 =::	=::
-*>C	*>C
 *	*refrain
 *	*italic
 *	*pline:3
 !!LO:TX:a:B:t=C
 *	*italic
-2c	dong!
+{2c	dong!
 =5	=5
 *	*bis
 2c	dong!
 2c	dong!
 =6	=6
-4c	dong!"
+4c}	dong!"
 *	*Xbis
 *	*Xitalic
 *	*rp:ɔ̃
 *	*rf:dɔ̃
 *	*rs:b
-*>D	*>D
 !!LO:PB:g=original
 =::c	=::c
 *	*pline:4
 !!LO:TX:a:B:t=D
-8cc`	La
+{8cc`	La
 8cc	clo-
 8cc`	-chet-
 8cc	-te
 8cc`	lui
 8cc	ré-
 =7	=7
-8cc`	-pond:
+8cc`}	-pond:
 *	*italic
-8cc	"Ding--
+{8cc	"Ding--
 8cc`	don!
 *	*bis
 8cc	ding--
@@ -92,7 +88,7 @@
 8cc`	don!
 8cc	ding--
 =8	=8
-2cc	-don!"
+2cc}	-don!"
 *	*Xbis
 *	*Xitalic
 *	*rp:ɔ̃
@@ -100,5 +96,5 @@
 *	*rs:b
 ==	==
 *-	*-
-!!!EED: Ève Poudrier
-!!!EEV: 2026/05/25
+!!!EED1: Ève Poudrier
+!!!EEV1: 2026/06/04
