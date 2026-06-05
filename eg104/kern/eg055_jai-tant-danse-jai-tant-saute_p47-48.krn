@@ -26,10 +26,10 @@
 =2	=2
 8cc	tant
 8ee	sau-
-4dd	té,
+4dd	-té,
 *	*refrain
 *	*italic
-*	*pline:R1
+*	*rline:R1
 =3	=3
 8ee	Dan-
 8cc	-sons
@@ -58,7 +58,6 @@
 8a	-lier,
 *	*refrain
 *	*italic
-*	*pline:R2
 8dd	à
 !!LO:PB:g=original
 =8	=8
@@ -66,7 +65,12 @@
 8bJ)	.
 8g	-bre,
 8r	.
-*	*pline:R3
+*	*Xitalic
+*	*Xrefrain
+*>Refrain	*>Refrain
+*	*refrain
+*	*italic
+*	*rline:R1v
 =9	=9
 =!|:	=!|:
 !LO:TX:a:i:t=Voix seule, puis la reprise en chœur.	!
@@ -80,8 +84,8 @@
 16cc	-li-
 8dd	-ment,
 16r	.
-*	*pline:R4
-16ee	que
+*	*rline:R2
+16ee	Que
 !!LO:PB:g=original
 =11	=11
 8ff	le
@@ -97,5 +101,5 @@
 ==:|!	==:|!
 *-	*-
 !!!RNB: Refrain sections otherwise similar but contain different inserted exclamations at end of line (e.g., "oh! gai", "joliment"); currently classified as separate lines
-!!!EED-1: Samuel Boone
-!!!EEV-1: 2026/05/07
+!!!EED1: Samuel Boone
+!!!EEV1: 2026/06/05
