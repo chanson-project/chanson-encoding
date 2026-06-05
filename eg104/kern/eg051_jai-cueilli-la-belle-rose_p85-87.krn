@@ -15,7 +15,7 @@
 *C:	*	*	*	*	*	*	*	*	*	*	*
 *M2/4	*	*	*	*	*	*	*	*	*	*	*
 *	*v:1	*v:2	*v:3	*v:4	*v:5	*v:6	*v:7	*v:8	*v:9	*v:10	*v:11
-*	*pline:1	*pline:3	*pline:5	*pline:7	*pline:8	*pline:9	*pline:11	*pline:13	*pline:15	*pline:17	*pline:19
+*	*pline:1	*pline:3	*pline:5	*pline:7	*pline:9	*pline:11	*pline:13	*pline:15	*pline:17	*pline:19	*pline:21
 =1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
 4cc	J'ai	Je	Je	Je	Qui	Com-	Ni	Je	Com-	Je	Ve-
 4b	cueil-	l'ai	l'ai	n'ai	me	-ment	mon	m'en	-bien	ga-	-nez
@@ -68,7 +68,7 @@
 4r	.	.	.	.	.	.	.	.	.	.	.
 *	*refrain	*	*	*	*	*	*	*	*	*	*
 *	*italic	*	*	*	*	*	*	*	*	*	*
-*	*pline:R1	*	*	*	*	*	*	*	*	*	*
+*	*rline:R1	*	*	*	*	*	*	*	*	*	*
 =17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17
 4ee	La	.	.	.	.	.	.	.	.	.	.
 8cc	bel-	.	.	.	.	.	.	.	.	.	.
@@ -94,8 +94,9 @@
 =23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23
 4dd	blanc,	blanc,	-en,	-tant,	temps,	-tent,	-rents,	an,	an?	blanc,	cents,
 *>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain
+*	*refrain	*	*	*	*	*	*	*	*	*	*
 *	*italic	*	*	*	*	*	*	*	*	*	*
-*	*pline:R1r	*	*	*	*	*	*	*	*	*	*
+*	*rline:R1v	*	*	*	*	*	*	*	*	*	*
 4r	.	.	.	.	.	.	.	.	.	.	.
 =24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24
 4ee	La	.	.	.	.	.	.	.	.	.	.
@@ -115,8 +116,9 @@
 4cc]	.	.	.	.	.	.	.	.	.	.	.
 4r	.	.	.	.	.	.	.	.	.	.	.
 *	*Xitalic	*	*	*	*	*	*	*	*	*	*
+*	*Xrefrain	*	*	*	*	*	*	*	*	*	*
 ==	==	==	==	==	==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
 !!!RWG: Eight rest in m.12 in original should be quarter rest instead of eighth rest (encoded as such)
-!!!EED-1: Samuel Boone
-!!!EEV-1: 2026/04/16
+!!!EED1: Samuel Boone
+!!!EEV1: 2026/06/05
