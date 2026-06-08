@@ -15,22 +15,24 @@
 *G:	*	*	*	*	*	*	*	*
 *M3/8	*	*	*	*	*	*	*	*
 *	*v:1	*v:2	*v:3	*v:4	*v:5	*v:6	*v:7	*v:8
-*	*pline:1Ha	*pline:5Ha	*pline:9Ha	*pline:13Ha	*pline:17Ha	*pline:21Ha	*pline:25Ha	*pline:29Ha
+*	*pline:1h1	*pline:5h1	*pline:9h1	*pline:13h1	*pline:17h1	*pline:21h1	*pline:25h1	*pline:29h1
 8d	Qui	Par	J'y	Ah!	Re-	J'n'at-	Va	On
 =1	=1	=1	=1	=1	=1	=1	=1	=1
 4g	veut	un	al-	oui,	-ve-	-tends	t'en	dit
 8a	sa-	di-	-lu-	vrai-	-nons	pas	fai-	que
 =2	=2	=2	=2	=2	=2	=2	=2	=2
 4b	-voir	-manche	-mai	-ment,	au	qu'on	-re	je
-8cc	la	au	ma	dit-	bon-	me	tes	suis
+8cc	la	au	ma	dit--	bon-	me	tes	suis
 =3	=3	=3	=3	=3	=3	=3	=3	=3
 *^	*	*	*	*	*	*	*	*
-4dd\	8ddL/	lis-	soir	pi-	el-	-hom-	l'di-	plain-	fier,
-.	8ccJ/	.	.	.	.	.	.	.	.
+*cue	*	*	*	*	*	*	*	*	*
+8ddLN	4dd	lis-	soir	pi-	el-	-hom-	l'di-	plain-	fier,
+8ccJN	.	.	.	.	.	.	.	.	.
+*Xcue	*	*	*	*	*	*	*	*	*
 *v	*v	*	*	*	*	*	*	*	*
 8b	-te	.	-pe	-le,	-me	-se	-tes	.
 =4	=4	=4	=4	=4	=4	=4	=4	=4
-*	*pline:1Hb	*pline:5Hb	*pline:9Hb	*pline:13Hb	*pline:17Hb	*pline:21Hb	*pline:25Hb	*pline:29Hb
+*	*pline:1h2	*pline:5h2	*pline:9h2	*pline:13h2	*pline:17h2	*pline:21h2	*pline:25h2	*pline:29h2
 4.dd	Des	M'en	Comm'	A-	Qu'est	Pour	À	I-
 =5	=5	=5	=5	=5	=5	=5	=5	=5
 4ee	i-	al-	c'é-	-vec	dans	la	mon-	-vrogn[e]
@@ -44,7 +46,7 @@
 =8	=8	=8	=8	=8	=8	=8	=8	=8
 8dd]	.	.	.	.	.	.	.	.
 8r	.	.	.	.	.	.	.	.
-*	*pline:2Ha	*pline:6Ha	*pline:10Ha	*pline:14Ha	*pline:18Ha	*pline:22Ha	*pline:26Ha	*pline:30Ha
+*	*pline:2h1	*pline:6h1	*pline:10h1	*pline:14h1	*pline:18h1	*pline:22h1	*pline:26h1	*pline:30h1
 8b	C'est	Et	Di-	Tu	Cri-	Et	Dis-	Du
 =9	=9	=9	=9	=9	=9	=9	=9	=9
 4g	dans	moi	-sant	es	-ant	je	lui	vin
@@ -54,28 +56,30 @@
 8cc	bois	Fran-	pa-	ce	-te	Fran-	pa-	bou-
 =11	=11	=11	=11	=11	=11	=11	=11	=11
 *^	*	*	*	*	*	*	*	*
-4dd\	8ddL/	d'Ail-	-çois,	-ro-	soir	voix:	-çois:	-ro-	-tei-
-.	8ccJ/	.	.	.	.	.	.	.	.
+*cue	*	*	*	*	*	*	*	*	*
+8ddLN	4dd	d'Ail-	-çois,	-ro-	soir	voix:	-çois:	-ro-	-tei-
+8ccJN	.	.	.	.	.	.	.	.	.
+*Xcue	*	*	*	*	*	*	*	*	*
 *v	*v	*	*	*	*	*	*	*	*
 8b	-le	.	-les	.	.	.	-iss[e]	-lle
-*	*pline:2Hb	*pline:6Hb	*pline:10Hb	*pline:14Hb	*pline:18Hb	*pline:22Hb	*pline:26Hb	*pline:30Hb
+*	*pline:2h2	*pline:6h2	*pline:10h2	*pline:14h2	*pline:18h2	*pline:22h2	*pline:26h2	*pline:30h2
 !!LO:PB:g=original
 =12	=12	=12	=12	=12	=12	=12	=12	=12
 4.dd	Yen	Tous	Aux	C'est	"Li-	T'en	Est	J'en
 =13	=13	=13	=13	=13	=13	=13	=13	=13
-4ee	a-	deux	gens	seul'-	-ma,	viens-	tout	ai
+4ee	a--	deux	gens	seul'-	-ma,	viens-	tout	ai
 8cc	t-un	de	de	-ment	va	tu	bou-	ben
 =14	=14	=14	=14	=14	=14	=14	=14	=14
 4b	ré-	com-	la	pour	te	quand	-le-	quand
 8cc	-gi-	-pa-	mai-	en	cou-	et	-ver-	je
 =15	=15	=15	=15	=15	=15	=15	=15	=15
-[4.dd	-ment;	-gnée,	-son.	rire;	-cher!	moi	sée;	veux;
+[4.dd	-ment;	-gnée,	-son.	rire;	-cher!	moi	-sée;	veux;
 =16	=16	=16	=16	=16	=16	=16	=16	=16
 8dd]	.	.	.	.	.	(avec moi)?	.	.
 8r	.	.	.	.	.	.	.	.
-*	*pline:3Ha	*pline:7Ha	*pline:11Ha	*pline:15Ha	*pline:19Ha	*pline:23Ha	*pline:27Ha	*pline:31Ha
+*	*pline:3h1	*pline:7h1	*pline:11h1	*pline:15h1	*pline:19h1	*pline:23h1	*pline:27h1	*pline:31h1
 ==17	==17	==17	==17	==17	==17	==17	==17	==17
-4.dd	Et	Chez	Je	Tu	Les	Bon-	Dis-	On
+4.dd	Et	Chez	Je	Tu	Les	Bon-	Dis--	On
 =18	=18	=18	=18	=18	=18	=18	=18	=18
 4b	moi	le	dis	es	gens	-soir	lui	ne
 8dd	le	bon-	à	trop	de	ma	que	voit
@@ -86,7 +90,7 @@
 =20	=20	=20	=20	=20	=20	=20	=20	=20
 4cc	-tai-	-thier	-ma:	-dè'-	-pa-	-ma,	-ro-	grais-
 8a	-ne,	.	.	-e	-gne.	.	-iss[e]	-se
-*	*pline:3Hb	*pline:7Hb	*pline:11Hb	*pline:15Hb	*pline:19Hb	*pline:23Hb	*pline:27Hb	*pline:31Hb
+*	*pline:3h2	*pline:7h2	*pline:11h2	*pline:15h2	*pline:19h2	*pline:23h2	*pline:27h2	*pline:31h2
 =21	=21	=21	=21	=21	=21	=21	=21	=21
 4.cc	Fran-	Nous	Me	Pour	Des	Je	Est	Fi-
 =22	=22	=22	=22	=22	=22	=22	=22	=22
@@ -94,37 +98,39 @@
 8b	Je-	-vons	-met-	par-	et	-le	des-	sur
 =23	=23	=23	=23	=23	=23	=23	=23	=23
 *^	*	*	*	*	*	*	*	*
-4b\	8bL/	-neau,	'té	-tri-	-ler	des	mon	-sus	mon
-.	8aJ/	.	.	.	.	.	.	.	.
+*cue	*	*	*	*	*	*	*	*	*
+8bLN	4b	-neau,	'té	-tri-	-ler	des	mon	-sus	mon
+8aJN	.	.	.	.	.	.	.	.	.
+*Xcue	*	*	*	*	*	*	*	*	*
 *v	*v	*	*	*	*	*	*	*	*
-8g	mar-	vei-	-ez-	d'a-	fau-	che-	des-	ca-
+8g	mar-	vei-	-ez--	d'a-	fau-	che-	des-	ca-
 =24	=24	=24	=24	=24	=24	=24	=24	=24
-4a	-chand;	-ller;	vous	-mour;	-bourgs,	-min!	-sous,	=pot;
+4a	-chand;	-ller;	vous	-mour;	-bourgs,	-min!	-sous,	-pot;
 8r	.	.	.	.	.	.	.	.
-*	*pline:4Ha	*pline:8Ha	*pline:12Ha	*pline:16Ha	*pline:20Ha	*pline:24Ha	*pline:28Ha	*pline:32Ha
+*	*pline:4h1	*pline:8h1	*pline:12h1	*pline:16h1	*pline:20h1	*pline:24h1	*pline:28h1	*pline:32h1
 =25	=25	=25	=25	=25	=25	=25	=25	=25
 4.dd	E-	Je	De	T'as	Re-	Je	Que	Il
 !!LO:PB:g=original
 =26	=26	=26	=26	=26	=26	=26	=26	=26
 4b	-douard	vais	m'é-	ta	-ti-	m'en	dans	est
-8cc	y	vous	-loi-	p'tit'	-rez-	al-	le	tou-
+8cc	y	vous	-loi-	p'tit'	-rez--	al-	le	tou-
 =27	=27	=27	=27	=27	=27	=27	=27	=27
 [4.dd	porte	ra-	-gner	Jé-	vous	-lais	P'tit	-jours
 =28	=28	=28	=28	=28	=28	=28	=28	=28
 4dd]	.	.	.	.	.	.	.	.
-8dd	en-	-con-	des	-ré-	d'i-	nu-	bois	ben
+8dd	en-	-con-	des	-ré-	d'i-	nu--	bois	ben
 =29	=29	=29	=29	=29	=29	=29	=29	=29
-4.b	-sei-	-ter	aut-	-mi-	-ci	tê-	d'Ail-	net-
+4.b	-sei-	-ter	aut-	-mi-	-ci	tê-	d'Ai-	net-
 =30	=30	=30	=30	=30	=30	=30	=30	=30
-4g	-gne,	.	-res	-e	.	-te,	-le	te
-*	*pline:4Hb	*pline:8Hb	*pline:12Hb	*pline:16Hb	*pline:20Hb	*pline:24Hb	*pline:28Hb	*pline:32Hb
+4g	-gne,	.	-res	-e	.	-te,	-lle	te
+*	*pline:4h2	*pline:8h2	*pline:12h2	*pline:16h2	*pline:20h2	*pline:24h2	*pline:28h2	*pline:32h2
 8a	Au	Le	Pour	Que	Car	Mon	On	Quoi-
 =31	=31	=31	=31	=31	=31	=31	=31	=31
 4b	bout	tour	m'ap-	tu	il	cha-	n'y	-qu'il
 8cc	du	qui	-pro-	ai-	fait	-peau	voit	ne
 =32	=32	=32	=32	=32	=32	=32	=32	=32
 4a	ré-	m'est ar-	-cher	-mes	bien-	à	qu'des	soit
-8b/	-gi-	-ri	de	tou-	-tôt	la	gens	pas
+8b/	-gi-	-ri-	de	tou-	-tôt	la	gens	pas
 !!LO:PB:g=original
 =33	=33	=33	=33	=33	=33	=33	=33	=33
 [4.g	-ment.	-vé.	vous?	-jours.	jour!"	main.	soûls.	beau.
@@ -132,12 +138,11 @@
 8g]	.	.	.	.	.	.	.	.
 8r	.	.	.	.	.	.	.	.
 ==	==	==	==	==	==	==	==	==
-8r	.	.	.	.	.	.	.	.
-==	==	==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-	*-	*-
-!!!RWG: Upper voice beamed eighth notes should be grace notes, but using "qq" didn't seem to work (unless lower voice was turned to grace note as well)
-!!!RWG: Quarter note in m.24 presumed 'a' but somewhat unclear
+!!!RDF**kern: N = cue size
+!!!RNB: Final empty partial measure omitted as per policy
+!!!RNB: Quarter note in m.24 presumed 'a' but somewhat unclear
 !!!RWG: Too many syllables to fit # of notes (last line of V2)
 !!!RWG: "Echo" after "et moi" – "(avec moi)" – at the end of V6, line 4, but unsure of how to write this, so for now included on subsequent tied note
-!!!EED-1: Samuel Boone
-!!!EEV-1: 2026/03/15
+!!!EED1: Samuel Boone
+!!!EEV1: 2026/06/08
