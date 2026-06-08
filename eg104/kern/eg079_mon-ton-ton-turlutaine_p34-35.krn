@@ -23,8 +23,8 @@
 8f	n'a-
 4.g	-vait
 =2	=2
-4.b-/	fil-
-4a	-le
+4.b-/	fi-
+4a	-lle
 8a	que
 =3	=3
 *M3/8	*
@@ -39,8 +39,8 @@
 8f	n'a-
 4.g	-vait
 =5	=5
-4.b-/	fil-
-4a	-le
+4.b-/	fi-
+4a	-lle
 8a	que
 =6	=6
 [4.g	moi;
@@ -60,6 +60,7 @@
 8b-	m'en-
 4.a	-voie.
 *>Refrain	*>Refrain
+*	*refrain
 *	*italic
 *	*rline:R1
 =9	=9
@@ -73,7 +74,7 @@
 8a	oh!
 (4g	gai,
 8f)	.
-*	*rline:R1r
+*	*rline:R1v
 !!LO:PB:g=original
 =11	=11
 4g	Mon
@@ -84,12 +85,11 @@
 =12	=12
 (4g	-tai-
 8f	.
-4g)	ne.
+4g)	-ne.
 *	*Xitalic
 *	*Xrefrain
 ==	==
-8r	.
-==	==
 *-	*-
+!!!RNB: Final empty partial measure omitted as per policy
 !!!EED1: Samuel Boone
-!!!EEV1: 2026/05/11
+!!!EEV1: 2026/06/08
