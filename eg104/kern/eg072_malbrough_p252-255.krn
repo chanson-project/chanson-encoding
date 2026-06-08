@@ -21,13 +21,15 @@
 4b/	-brough
 8b/	s'en
 =2	=2
-4b/	va-
+4b/	va--
 8b/	t-en
 =3	=3
 4.cc	guer-
 =4	=4
 8b	-re,
-*	*pline:2
+*	*refrain
+*	*italic
+*	*rline:R1
 8cc	Mi-
 8b	-ron-
 !!LO:PB:g=original
@@ -44,6 +46,8 @@
 =8	=8
 8g	-ne,
 8r	.
+*	*Xitalic
+*	*Xrefrain
 *	*pline:1r
 8g	Mal-
 !!LO:PB:g=original
@@ -51,14 +55,14 @@
 4b/	-brough
 8b/	s'en
 =10	=10
-4b/	va
+4b/	va--
 8b/	t-en
 =11	=11
 4.cc	guer-
 =12	=12
 8b	-re,
 8r	.
-*	*pline:3
+*	*pline:2
 8dd	Ne
 =13	=13
 4dd	sait
@@ -71,7 +75,7 @@
 4.g	-dra.
 =16	=16
 4r	.
-*	*pline:3r
+*	*pline:2r
 *^	*
 8r	8dd	Ne
 *v	*v	*
@@ -84,7 +88,7 @@
 8ee	-vien-
 =19	=19
 4.dd	-dra,
-*	*pline:3r
+*	*pline:2r
 !!LO:PB:g=original
 =20	=20
 4r	.
@@ -104,4 +108,4 @@
 *-	*-
 !!!RNB: Eighth rest in m.16 not flipped when it should be worth an entire quarter rest's length, encoded as quarter rest
 !!!EED1: Samuel Boone
-!!!EEV1: 2026/05/16
+!!!EEV1: 2026/06/08
