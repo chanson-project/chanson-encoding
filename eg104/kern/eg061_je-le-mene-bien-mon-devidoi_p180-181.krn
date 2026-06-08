@@ -5,10 +5,7 @@
 !!!PTL@@FR: Chansons Populaires du Canada
 !!!OTL@@FR: Je le mène bien mon dévidoi'!
 !!!PUB: G. E. Desbarats
-!!!YEM:
 !!!PDT: 1865
-!!!SMA:
-!!!OMD:
 !!!AGN-Laforte:
 !!!AGN-type:
 !!!AGN-rime:
@@ -18,57 +15,65 @@
 *a:	*	*	*	*	*	*	*	*	*
 *M2/4	*	*	*	*	*	*	*	*	*
 *	*v:1	*v:2	*v:3	*v:4	*v:5	*v:6	*v:7	*v:8	*v:9
-*	*pline:1	*pline:3r	*pline:5r	*pline:6r	*pline:7r	*pline:8r	*pline:9r	*pline:10r	*pline:11r
+*	*pline:1	*pline:2r	*pline:3r	*pline:4r	*pline:5r	*pline:6r	*pline:7r	*pline:8r	*pline:9r
 !LO:TX:a:i:t=Voix seule, reprise en chœur.	!	!	!	!	!	!	!	!	!
-8e	Mon	En-	Le	Il	Ma	Nen-	Car	Fil-	'Vou-
-8a	pèr'	-cor	ma-	de-	mi-	-ni,	si	-le	-lez-
-8b/	n'a-	sur	-ri-	-vint	gnon-	Mon-	mon	bat-	vous
+8e	Mon	En-	Le	Il	Ma	Nen-	Car	Fi-	'Vou-
+8a	pèr'	-cor	ma-	de-	mi-	-ni,	si	-lle	-lez--
+8b/	n'a-	sur	-ri-	-vint	-gnon-	Mon-	mon	bat-	vous
 =1	=1	=1	=1	=1	=1	=1	=1	=1	=1
 8cc	-vait	la	-nier	a-	-nette	-sieur,	pa-	-tue	bell'
-8a	fil-	mer	qui	-mou-	em-	je	-pa	ce	qui
-8b/	-le	il	m'y	-reux	-bras-	n'o-	le	se-	lui
-8a	que	m'en-	me-	de	-sez-	-se-	sa-	-rait	di-
+8a	fi-	mer	qui	-mou-	em-	je	-pa	ce	qui
+8b/	-lle	il	m'y	-reux	-bras-	n'o-	le	se-	lui
+8a	que	m'en-	me-	de	-sez--	-se-	sa-	-rait	di-
 =2	=2	=2	=2	=2	=2	=2	=2	=2	=2
 8aL	moi,	-voie.	-nait	moi.	moi.	-rais.	-vait,	moi.	-rait?
 8gJ	.	.	.	.	.	.	.	.	.
-*	*pline:2	*pline:2r	*pline:2r	*pline:2r	*pline:2r	*pline:2r	*pline:2r	*pline:2r	*pline:2r
-16e	Je	Je	Je	Je	Je	Je	Je	Je	Je
-16a	le	le	le	le	le	le	le	le	le
-16a	mè-	mè-	mè-	mè-	mè-	mè-	mè-	mè-	mè-
-16a	-ne	-ne	-ne	-ne	-ne	-ne	-ne	-ne	-ne
+*	*refrain	*	*	*	*	*	*	*	*
+*	*italic	*	*	*	*	*	*	*	*
+*	*rline:R1	*	*	*	*	*	*	*	*
+16e	Je	.	.	.	.	.	.	.	.
+16a	le	.	.	.	.	.	.	.	.
+16a	mè-	.	.	.	.	.	.	.	.
+16a	-ne	.	.	.	.	.	.	.	.
 !!LO:PB:g=original
 =3	=3	=3	=3	=3	=3	=3	=3	=3	=3
-8cc	bien	bien	bien	bien	bien	bien	bien	bien	bien
-8a	mon	mon	mon	mon	mon	mon	mon	mon	mon
-8b/	dé-	dé-	dé-	dé-	dé-	dé-	dé-	dé-	dé-
-8cc	-vi-	-vi-	-vi-	-vi-	-vi-	-vi-	-vi-	-vi-	-vi-
+8cc	bien	.	.	.	.	.	.	.	.
+8a	mon	.	.	.	.	.	.	.	.
+8b/	dé-	.	.	.	.	.	.	.	.
+8cc	-vi-	.	.	.	.	.	.	.	.
 =4	=4	=4	=4	=4	=4	=4	=4	=4	=4
-8a	-doi'!	-doi'!	-doi'!	-doi'!	-doi'!	-doi'!	-doi'!	-doi'!	-doi'!
+8a	-doi'!	.	.	.	.	.	.	.	.
 =:|!;	=:|!;	=:|!;	=:|!;	=:|!;	=:|!;	=:|!;	=:|!;	=:|!;	=:|!;
-*	*pline:3	*pline:5	*pline:6	*pline:7	*pline:8	*pline:9	*pline:10	*pline:11	*pline:12
+*	*Xitalic	*	*	*	*	*	*	*	*
+*	*Xrefrain	*	*	*	*	*	*	*	*
+*	*pline:2	*pline:3	*pline:4	*pline:5	*pline:6	*pline:7	*pline:8	*pline:9	*pline:10
 !LO:TX:a:i:t=Voix seule.	!	!	!	!	!	!	!	!	!
-8e	En-	Le	Il	Ma	Nen-	Car	Fil-	'Vou-	Ce
-8a	-cor	ma-	de-	mi-	-ni,	si	-le	-lez-	se-
+8e	En-	Le	Il	Ma	Nen-	Car	Fi-	'Vou-	Ce
+8a	-cor	ma-	de-	mi-	-ni,	si	-lle	-lez--	se-
 8b/	sur	-ri-	-vint	-gnon-	Mon-	mon	bat-	vous	-rait
 =5	=5	=5	=5	=5	=5	=5	=5	=5	=5
 8cc	la	-nier	a-	-nette	-sieur,	pa-	-tue	bell'	les
 8cc	mer	qui	-mou-	em-	je	-pa	ce	qui	oi-
 8ee	il	m'y	-reux	-bras-	n'o-	le	se-	lui	-seaux
-8cc	m'en	me-	de	-sez-	-se-	sa-	-rait	di-	des
+8cc	m'en	me-	de	-sez--	-se-	sa-	-rait	di-	des
 !!LO:PB:g=original
 =6	=6	=6	=6	=6	=6	=6	=6	=6	=6
 4b	voi',	-nait	moi.	moi.	-rais.	-vait,	moi.	-rait?	bois.
-*	*pline:4	*pline:4r	*pline:4r	*pline:4r	*pline:4r	*pline:4r	*pline:4r	*pline:4r	*pline:4r
-8cc	Moi-	Moi-	Moi-	Moi-	Moi-	Moi-	Moi-	Moi-	Moi-
-8a	z-et	z-et	z-et	z-et	z-et	z-et	z-et	z-et	z-et
+*	*refrain	*	*	*	*	*	*	*	*
+*	*italic	*	*	*	*	*	*	*	*
+*	*rline:R2	*	*	*	*	*	*	*	*
+8cc	Moi--	.	.	.	.	.	.	.	.
+8a	z-et	.	.	.	.	.	.	.	.
 =7	=7	=7	=7	=7	=7	=7	=7	=7	=7
-8aL	moi!	moi!	moi!	moi!	moi!	moi!	moi!	moi!	moi!
+8aL	moi!	.	.	.	.	.	.	.	.
 8gJ	.	.	.	.	.	.	.	.	.
+*	*Xitalic	*	*	*	*	*	*	*	*
+*	*Xrefrain	*	*	*	*	*	*	*	*
 =!|:	=!|:	=!|:	=!|:	=!|:	=!|:	=!|:	=!|:	=!|:	=!|:
 *>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain
 *	*refrain	*	*	*	*	*	*	*	*
 *	*italic	*	*	*	*	*	*	*	*
-*	*pline:R1Ha	*	*	*	*	*	*	*	*
+*	*pline:R3h1	*	*	*	*	*	*	*	*
 !LO:TX:a:i:t=Voix seule, reprise en chœur.	!	!	!	!	!	!	!	!	!
 16e	Je	.	.	.	.	.	.	.	.
 16a	le	.	.	.	.	.	.	.	.
@@ -76,36 +81,35 @@
 16a	-ne	.	.	.	.	.	.	.	.
 =8	=8	=8	=8	=8	=8	=8	=8	=8	=8
 8cc	bien;	.	.	.	.	.	.	.	.
-*	*pline:R1Hb	*	*	*	*	*	*	*	*
+*	*pline:R3h2	*	*	*	*	*	*	*	*
 16a	Je	.	.	.	.	.	.	.	.
 16a	le	.	.	.	.	.	.	.	.
 8b/	mè-	.	.	.	.	.	.	.	.
-8a\	-ne	.	.	.	.	.	.	.	.
+*^	*	*	*	*	*	*	*	*	*
+8cc	8a	-ne	.	.	.	.	.	.	.	.
+*v	*v	*	*	*	*	*	*	*	*	*
 !!LO:PB:g=original
 =9	=9	=9	=9	=9	=9	=9	=9	=9	=9
 8aL	droit!	.	.	.	.	.	.	.	.
 8gJ	.	.	.	.	.	.	.	.	.
-*	*pline:R2Ha	*	*	*	*	*	*	*	*
+*	*pline:R4h1	*	*	*	*	*	*	*	*
 16e	Je	.	.	.	.	.	.	.	.
 16a	le	.	.	.	.	.	.	.	.
 16a	mè-	.	.	.	.	.	.	.	.
 16a	-ne	.	.	.	.	.	.	.	.
 =10	=10	=10	=10	=10	=10	=10	=10	=10	=10
 8cc	bien	.	.	.	.	.	.	.	.
-*	*pline:R2Hb	*	*	*	*	*	*	*	*
+*	*pline:R4h2	*	*	*	*	*	*	*	*
 8a	Mon	.	.	.	.	.	.	.	.
 8b	dé-	.	.	.	.	.	.	.	.
 8cc	-vi-	.	.	.	.	.	.	.	.
 =11	=11	=11	=11	=11	=11	=11	=11	=11	=11
 8a	-doi'!	.	.	.	.	.	.	.	.
 8r	.	.	.	.	.	.	.	.	.
-=:|!	=:|!	=:|!	=:|!	=:|!	=:|!	=:|!	=:|!	=:|!	=:|!
-8r	.	.	.	.	.	.	.	.	.
 *	*Xitalic	*	*	*	*	*	*	*	*
 *	*Xrefrain	*	*	*	*	*	*	*	*
-==	==	==	==	==	==	==	==	==	==
+==:|!	==:|!	==:|!	==:|!	==:|!	==:|!	==:|!	==:|!	==:|!	==:|!
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-
-!!!RWG: Upper voice eighth note on 'cc' on last beat of m.8
-!!!RNB: Final eighth rest flipped backward in original
-!!!EED-1: Samuel Boone
-!!!EEV-1: 2026/02/09
+!!!RNB: Final partial empty measure omitted as per policy
+!!!EED1: Samuel Boone
+!!!EEV1: 2026/06/08
