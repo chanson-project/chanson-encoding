@@ -14,9 +14,11 @@
 *G:	*
 !!LO:TX:a:t=Vif
 *M6/8	*
+=||:	=||:
 *>A1	*>A1
 *	*pline:1
-=||:	=||:
+*	*refrain
+*	*italic
 4d	Y en
 8d	a
 =1	=1
@@ -30,6 +32,8 @@
 4b^	pas
 8g	comm'
 8g	vous,
+*	*Xitalic
+*	*Xrefrain
 *	*pline:2h1
 8g	Si
 8g	y en
@@ -46,6 +50,8 @@
 4.b	guè-
 8g	-re,
 *	*pline:1r
+*	*refrain
+*	*italic
 8d	Y en
 8d	a
 =5	=5
@@ -60,6 +66,8 @@
 4b^	pas
 8g	comm'
 8g	vous,
+*	*Xitalic
+*	*Xrefrain
 *	*pline:2h1r
 8g	Si
 8g	y en
@@ -77,8 +85,12 @@
 4.g	-coup.
 8r	.
 *	*pline:1a3r
+*	*refrain
+*	*italic
 8g	Y en
 8g	a
+*	*Xitalic
+*	*Xrefrain
 *>B2	*>B2
 =||	=||
 !!LO:TX:a:t=2.
@@ -89,6 +101,8 @@
 !!LO:PB:g=original
 *>A2	*>A2
 ==9	==9
+*	*refrain
+*	*italic
 [4.cc	pas,
 8cc]	.
 *	*pline:1a3r
@@ -97,6 +111,8 @@
 =10	=10
 [4.b	pas,
 8b]	.
+*	*Xitalic
+*	*Xrefrain
 *	*pline:2h1r
 8b	Si
 8b	y en
@@ -112,6 +128,8 @@
 4.b	guè-
 8g	-re,
 *	*pline:1a3r
+*	*refrain
+*	*italic
 8g	Y en
 8g	a
 !!LO:PB:g=original
@@ -124,6 +142,8 @@
 =14	=14
 [4.b	pas,
 8b]	.
+*	*Xitalic
+*	*Xrefrain
 *	*pline:2h2r
 8b	Si
 8b	y en
