@@ -15,34 +15,34 @@
 *G:	*	*	*	*	*	*
 *M3/8	*	*	*	*	*	*
 *	*v:1	*v:2	*v:3	*v:4	*v:5	*v:6
-*	*pline:1	*pline:6	*pline:11	*pline:16	*pline:21	*pline:26
+*	*pline:1	*pline:5	*pline:8	*pline:11	*pline:14	*pline:17
 8d	Ma-	Le	Pen-	Ma-	Son	C'est
 =1	=1	=1	=1	=1	=1	=1
 4g	-ri-	meu-	-dant	-ri-	pè-	au-
-8g	-ann'	-nier,	que	-ann'	-re	-jourd'-
+8g	-ann'	-nier,	que	-ann'	-re	-jourd'--
 =2	=2	=2	=2	=2	=2	=2
 4g	s'en	qui	le	se	qui	-hui
-8a	va-	la	mou-	mit	la	la
+8a	va--	la	mou-	mit	la	la
 =3	=3	=3	=3	=3	=3	=3
 4b/	t-au	voit	-lin	à	voit	Saint
 8b/	mou-	ve-	mar-	pleu-	ve-	Mi-
 =4	=4	=4	=4	=4	=4	=4
 4g	-lin,	-nir,	-chait,	-rer.	-nir	-chel,
-*	*pline:1r	*pline:6r	*pline:11r	*pline:16r	*pline:21r	*pline:26r
+*	*pline:1r	*pline:5r	*pline:8r	*pline:11r	*pline:14r	*pline:17r
 8b/	Ma-	Le	Pen-	Ma-	Son	C'est
 !!LO:PB:g=original
 =5	=5	=5	=5	=5	=5	=5
 4dd	-ri-	meu-	-dant	-ri-	pè-	au-
-8dd	-ann'	-nier,	que	-ann'	-re	-jourd'-
+8dd	-ann'	-nier,	que	-ann'	-re	-jourd'--
 =6	=6	=6	=6	=6	=6	=6
 4cc	s'en	qui	le	se	qui	-hui
-8cc	va-	la	mou-	mit	la	la
+8cc	va--	la	mou-	mit	la	la
 =7	=7	=7	=7	=7	=7	=7
 4dd	t-au	voit	-lin	à	voit	Saint
 8cc	mou-	ve-	mar-	pleu-	ve-	Mi-
 =8	=8	=8	=8	=8	=8	=8
 4b	-lin,	-nir,	-chait,	-rer.	-nir	-chel,
-*	*pline:2	*pline:7	*pline:12	*pline:17	*pline:22	*pline:27
+*	*pline:2	*pline:6	*pline:9	*pline:12	*pline:15	*pline:18
 8d	C'est	S'em-	Le	Cent	Ne	Que
 =9	=9	=9	=9	=9	=9	=9
 4g	pour	-press[e]	loup	é-	put	tous
@@ -56,7 +56,7 @@
 8b/	son	lui	rô-	don-	lui	de
 =12	=12	=12	=12	=12	=12	=12
 4g	grain,	dire:	-dait.	-né	dire:	poil.
-*	*pline:2r	*pline:7r	*pline:12r	*pline:17r	*pline:22r	*pline:27r
+*	*pline:2r	*pline:6r	*pline:9r	*pline:12r	*pline:15r	*pline:18r
 8b/	C'est	S'em-	Le	Cent	Ne	Que
 =13	=13	=13	=13	=13	=13	=13
 4dd	pour	-press[e]	loup	é-	put	tous
@@ -73,11 +73,11 @@
 =17	=17	=17	=17	=17	=17	=17
 8b]	.	.	.	.	.	.
 8r	.	.	.	.	.	.
-*	*pline:3	*pline:8	*pline:13	*pline:18	*pline:23	*pline:28
+*	*pline:3	*pline:7	*pline:10	*pline:13	*pline:16	*pline:19
 8b	À	At-	Le	Pour	Qu'a-	J'vous
 =18	=18	=18	=18	=18	=18	=18
-4b	che-	-ta-	loup	a-	-vez-	ra-
-8b	-val	-chez-	a	-che-	vous	-mèn'
+4b	che-	-ta-	loup	a-	-vez--	ra-
+8b	-val	-chez--	a	-che-	vous	-mèn'
 =19	=19	=19	=19	=19	=19	=19
 4b	sur	donc	man-	-ter	fait	la
 8b	son	votr[e]	-gé	en	d'votr[e]	mêm[e]
@@ -88,7 +88,7 @@
 *>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain
 *	*refrain	*	*	*	*	*
 *	*italic	*	*	*	*	*
-*	*pline:R1	*	*	*	*	*
+*	*rline:R1	*	*	*	*	*
 8b/	Ma	.	.	.	.	.
 =22	=22	=22	=22	=22	=22	=22
 4a	p'tit'	.	.	.	.	.
@@ -103,22 +103,26 @@
 4b	-ne,	.	.	.	.	.
 *	*Xitalic	*	*	*	*	*
 *	*Xrefrain	*	*	*	*	*
-*	*pline:4	*pline:9	*pline:14	*pline:19	*pline:24	*pline:29
+*	*pline:3r	*pline:7r	*pline:10r	*pline:13r	*pline:16r	*pline:19r
 8a	À	At-	Le	Pour	Qu'a-	J'vous
 =26	=26	=26	=26	=26	=26	=26
-4g	che-	-ta-	loup	a-	-vez-	ra-
-8g	-val	-chez-	a	-che-	vous	-mèn'
+4g	che-	-ta-	loup	a-	-vez--	ra-
+8g	-val	-chez--	a	-che-	vous	-mèn'
 =27	=27	=27	=27	=27	=27	=27
 4d	sur	donc	man-	-ter	fait	le
 8g	son	votr[e]	-gé	un	d'votr[e]	mêm[e]
 =28	=28	=28	=28	=28	=28	=28
 8b/	â-	â-	l'â-	â-	â-	â-
 8b/	-ne	-ne	-ne	-ne,	-ne	-ne,
+*	*refrain	*refrain	*refrain	*refrain	*refrain	*refrain
+*	*italic	*italic	*italic	*italic	*italic	*italic
 8b/	Ca-	Ca-	Ca-	Ca-	Ca-	Ca-
 !!LO:PB:g=original
 =29	=29	=29	=29	=29	=29	=29
 4.g	-tin,	-tin,	-tin,	-tin,	-tin,	-tin,
-*	*pline:5	*pline:10	*pline:15	*pline:20	*pline:25	*pline:30
+*	*Xitalic	*Xitalic	*Xitalic	*Xitalic	*Xitalic	*Xitalic
+*	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain
+*	*pline:4	*pline:4v	*pline:4v	*pline:4v	*pline:4v	*pline:4v
 =30	=30	=30	=30	=30	=30	=30
 4.dd	S'en	Par	Par	En	En	Qui
 =31	=31	=31	=31	=31	=31	=31
@@ -126,8 +130,10 @@
 8b/	-lant	-rièr'	-rièr'	-nant	-lant	-ta
 =32	=32	=32	=32	=32	=32	=32
 *^	*	*	*	*	*	*
-4a	8aL	au	le	le	du	au	au
-.	8gJ	.	.	.	.	.	.
+*cue	*	*	*	*	*	*	*
+8aLN\	4a/	au	le	le	du	au	au
+8gJN\	.	.	.	.	.	.	.
+*Xcue	*	*	*	*	*	*	*
 *v	*v	*	*	*	*	*	*
 8f#	mou-	mou-	mou-	mou-	mou-	mou-
 =33	=33	=33	=33	=33	=33	=33
@@ -136,10 +142,9 @@
 =34	=34	=34	=34	=34	=34	=34
 4r	.	.	.	.	.	.
 ==	==	==	==	==	==	==
-8r	.	.	.	.	.	.
-==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-
-!!!RNB: First beat of m.32 lower voice are grace notes in original
-!!!RWG: Second line of verse 2 not labelled as "(bis)" in original (even though it should be)
-!!!EED-1: Samuel Boone
-!!!EEV-1: 2026/03/23
+!!!RDF**kern: N = cue size
+!!!RNB: Final empty partial measure omitted as per policy
+!!!RNB: Second line of verse 2 not labelled as "(bis)" in original manuscript (even though it should be, since it doesn't make sense for that line to not be repeated)
+!!!EED1: Samuel Boone
+!!!EEV1: 2026/06/08
