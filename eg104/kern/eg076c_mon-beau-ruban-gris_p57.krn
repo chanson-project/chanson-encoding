@@ -53,15 +53,16 @@
 =6	=6
 4b	-gis,
 *>Refrain	*>Refrain
+*	*refrain
 *	*italic
-*	*pline:R1
+*	*rline:R1
 8b	Mon
 8cc	beau
 8b/	ru-
 8a	-ban
 =7	=7
 4.b	gris.
-*	*pline:R2
+*	*rline:R2
 4ee	Ah!
 8ee	mon
 =8	=8
@@ -70,7 +71,7 @@
 8b	-ban
 8a	jau-
 8g	-ne,
-*	*pline:R3
+*	*rline:R2v
 8a	Mon
 !!LO:PB:g=original
 =9	=9
@@ -82,7 +83,7 @@
 8ee	mon
 =10	=10
 4a	gris,
-*	*pline:R4
+*	*rline:R1v
 8a	Mon
 8b	beau
 8cc	ru-
@@ -97,5 +98,5 @@
 *	*Xrefrain
 ==	==
 *-	*-
-!!!EED-1: Samuel Boone
-!!!EEV-1: 2026/05/07
+!!!EED1: Samuel Boone
+!!!EEV1: 2026/06/08
