@@ -29,7 +29,7 @@
 16e	-que,
 8a	ta-
 8a	-que,
-*	*pline:2
+*	*pline:1v
 !!LO:PB:g=original
 =3	=3
 8cc	J'en-
@@ -42,6 +42,7 @@
 8a	-que.
 8r	.
 *>Refrain	*>Refrain
+*	*refrain
 *	*italic
 *	*rline:R1
 !LO:TX:a:t=FIN.	!
@@ -78,4 +79,4 @@
 *-	*-
 !!!RNB: Not sure if lyrics of "Mon père à fait bâtir maison" should be added, for now just encoded the first & only given verse
 !!!EED1: Samuel Boone
-!!!EEV1: 2026/05/17
+!!!EEV1: 2026/06/08
