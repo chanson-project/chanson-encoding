@@ -102,7 +102,7 @@
 4.dd	-tes!
 *	*refrain
 *	*italic
-*	*rline:R1r
+*	*rline:R1v
 =15	=15
 8b	Ma
 8cc	lu-
@@ -118,4 +118,4 @@
 ==	==
 *-	*-
 !!!EED1: Samuel Boone
-!!!EEV1: 2026/05/16
+!!!EEV1: 2026/06/08
