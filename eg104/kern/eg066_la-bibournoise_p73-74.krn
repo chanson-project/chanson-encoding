@@ -26,7 +26,7 @@
 [4.b/	pè-
 8b/]	-re,
 8r	.
-*	*
+*	*pline:2
 8a#	Pe-
 =3	=3
 4b	-ti-
@@ -37,7 +37,10 @@
 =4	=4
 *M3/8	*
 4b	-ton,
-8cc#	la
+*	*refrain
+*	*italic
+*	*rline:R1
+8cc#	La
 =5	=5
 *M6/8	*
 4.dd	glin,
@@ -46,17 +49,19 @@
 [4.b	glon,
 8b]	.
 8r	.
-*	*
+*	*Xitalic
+*	*Xrefrain
+*	*pline:3
 8b	M'en-
 =7	=7
-4yncc	-voi'-
+4yncc	-voi'--
 8b/	t-à
 4a	la
 8g	fon-
 =8	=8
 4.g	-tai-
 4f#	-ne
-*	*
+*	*pline:4
 8g	Pour
 !!LO:PB:g=original
 =9	=9
@@ -67,15 +72,22 @@
 =10	=10
 4f#	-chon,
 8r	.
-*	*
+*	*refrain
+*	*italic
+*	*rline:R2
 8b/	La
 8b/	Bi-
 8b/	-bour-
 =11	=11
 4g	-noi-
 8e	-se,
-*	*
-4b/	Sont-
+*	*Xitalic
+*	*Xrefrain
+*>Refrain	*>Refrain
+*	*refrain
+*	*italic
+*	*rline:R3
+4b/	Sont--
 8b/	c'des
 !!LO:PB:g=original
 =12	=12
@@ -92,8 +104,8 @@
 =14	=14
 4f#	-gnon?
 8r	.
-*	*
-4a	N'ya-
+*	*rline:R4
+4a	N'y a--
 8a	t-i
 !!LO:PB:g=original
 =15	=15
@@ -105,7 +117,7 @@
 =16	=16
 4f#	glon?
 8r	.
-*	*
+*	*rline:R5
 4g	Bon,
 8g	bon,
 =17	=17
@@ -117,7 +129,7 @@
 =18	=18
 4f#	bon,
 8r	.
-*	*
+*	*rline:R6
 8e	Da-
 8e	-ril-
 8e	-lon,
@@ -131,7 +143,7 @@
 =20	=20
 4B	-lon,
 8r	.
-*	*
+*	*rline:R7
 4.g	Oh!
 !!LO:PB:g=original
 =21	=21
@@ -141,16 +153,18 @@
 8g	-ran-
 =22	=22
 8g	-çon
-8g	bi-
+*	*rline:R2v
+8g	Bi-
 8g	-bour-
 4a	-noi-
 8d	-se,
 =23	=23
 4.a	bon,
 4.a	bon,
+*	*rline:R8
 !!LO:PB:g=original
 =24	=24
-8a	fai-
+8a	Fai-
 8a	-sons
 8a	le
 8a	saut
@@ -161,15 +175,18 @@
 8b	-ga-
 8cc	-ran-
 8b	-çon
-8cc	bi-
+*	*rline:R2v
+8cc	Bi-
 8a	-bour-
 =26	=26
 (4g	-noi-
 8f#)	.
 4e	-se.
+*	*Xitalic
+*	*Xrefrain
 !!LO:PB:g=original
-==||	==||
+==	==
 *-	*-
-!!!RWG: Slightly confused at what counts as verse vs. refrain, and where line breaks are (score unclear)
-!!!EED-1: Samuel Boone
-!!!EEV-1: 2026/05/05
+!!!RWG: Slightly confused at what counts as verse vs. refrain, and where line breaks are (score very unclear, needs another look)
+!!!EED1: Samuel Boone
+!!!EEV1: 2026/06/08
