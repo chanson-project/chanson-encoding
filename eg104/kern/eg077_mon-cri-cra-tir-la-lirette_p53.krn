@@ -33,7 +33,7 @@
 =4	=4
 8dd	-ger
 8ee	lui
-4dd	ya
+4dd	y a
 *	*pline:2h1
 !!LO:PB:g=original
 =5	=5
@@ -56,8 +56,9 @@
 8aL	-pra,
 8gJ	.
 *>Refrain	*>Refrain
+*	*refrain
 *	*italic
-*	*pline:R1
+*	*rline:R1
 !!LO:PB:g=original
 =9	=9
 8g	Mon
@@ -69,7 +70,7 @@
 16ff	li-
 8ee	-ret-
 8dd	-re,
-*	*pline:R2
+*	*rline:R2
 =11	=11
 8cc	Mon
 8ee	cri
@@ -84,5 +85,5 @@
 *	*Xrefrain
 ==	==
 *-	*-
-!!!EED-1: Samuel Boone
-!!!EEV-1: 2026/05/07
+!!!EED1: Samuel Boone
+!!!EEV1: 2026/06/08
