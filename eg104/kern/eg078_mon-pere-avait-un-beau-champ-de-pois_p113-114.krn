@@ -29,15 +29,14 @@
 8d	champ	man-	lit	-naient	ne
 8e	de	-geai	trois	m'y	vient
 4g	pois,	trois.	mois;	voir;	pas....
-*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain
 *	*refrain	*	*	*	*
 *	*italic	*	*	*	*
-*	*pline:R1	*	*	*	*
+*	*rline:R1	*	*	*	*
 !!LO:PB:g=original
 =3	=3	=3	=3	=3	=3
 16b/	Doux,	.	.	.	.
 16cc/	ve-	.	.	.	.
-16b/	-nez	.	.	.	.
+16b/	-nez--	.	.	.	.
 16a	vous	.	.	.	.
 8g	promm'-	.	.	.	.
 8e	-ner	.	.	.	.
@@ -57,43 +56,43 @@
 !!LO:PB:g=original
 =6	=6	=6	=6	=6	=6
 8dd	man-	lit,	-naient	ne	-nir
-8b	-gis	trois	m'y	vient	là-
+8b	-gis	trois	m'y	vient	là--
 8aqq	.	.	.	.	.
 4g	trois.	mois.	voir.	pas.	bas.
 *>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain
 *	*refrain	*	*	*	*
 *	*italic	*	*	*	*
-*	*pline:R2Ha	*	*	*	*
+*	*rline:R2	*	*	*	*
 =7	=7	=7	=7	=7	=7
 16b	D'où	.	.	.	.
 16cc	ve-	.	.	.	.
-16b	-nez-	.	.	.	.
+16b	-nez--	.	.	.	.
 16a	vous,	.	.	.	.
 8g	bel-	.	.	.	.
 8a	-le?	.	.	.	.
-*	*pline:R2Hb	*	*	*	*
+*	*rline:R1v	*	*	*	*
 !!LO:PB:g=original
 =8	=8	=8	=8	=8	=8
 16b	Doux,	.	.	.	.
 16cc	ve-	.	.	.	.
-16b	-nez	.	.	.	.
+16b	-nez--	.	.	.	.
 16a	vous	.	.	.	.
 8g	promm'-	.	.	.	.
-*	*pline:R2Ha	*	*	*	*
-8e	D'où	.	.	.	.
+8e	-ner;	.	.	.	.
+*	*rline:R2r	*	*	*	*
 =9	=9	=9	=9	=9	=9
-16e	-ner;	.	.	.	.
+16e	D'où	.	.	.	.
 16f#	ve-	.	.	.	.
-16e	-nez-	.	.	.	.
-16d	vous	.	.	.	.
+16e	-nez--	.	.	.	.
+16d	vous,	.	.	.	.
 8g	bel-	.	.	.	.
 8a	-le?	.	.	.	.
-*	*pline:R1r	*	*	*	*
+*	*rline:R1r	*	*	*	*
 !!LO:PB:g=original
 =10	=10	=10	=10	=10	=10
 16b	Doux,	.	.	.	.
 16cc	ve-	.	.	.	.
-16b	-nez	.	.	.	.
+16b	-nez--	.	.	.	.
 16a	vous	.	.	.	.
 8g	promm'-	.	.	.	.
 8e	-ner	.	.	.	.
@@ -105,5 +104,5 @@
 *	*Xrefrain	*	*	*	*
 ==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-
-!!!EED-1: Samuel Boone
-!!!EEV-1: 2026/03/23
+!!!EED1: Samuel Boone
+!!!EEV1: 2026/06/08
