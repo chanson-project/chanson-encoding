@@ -16,6 +16,7 @@
 *M6/8	*
 *	*v:1
 *>Refrain	*>Refrain
+*	*refrain
 *	*italic
 *	*rline:R1
 !LO:TX:a:i:t=Voix seule, puis la reprise en chœur.	!
@@ -53,7 +54,7 @@
 8b	chez
 =6	=6
 4cc	nous,
-8a	ya-
+8a	y a--
 4b	t-un
 8cc	é-
 !!LO:PB:g=original
@@ -90,7 +91,7 @@
 4g	-gnant,
 *	*refrain
 *	*italic
-*	*rline:R2r
+*	*rline:R2v
 8b	Lé-
 4dd	-gè-
 8b	-re-
@@ -100,5 +101,6 @@
 *	*Xrefrain
 !LO:TX:a:i:t=D.C. al fine.	!
 ==	==
+*-	*-
 !!!EED1: Samuel Boone
-!!!EEV1: 2026/05/12
+!!!EEV1: 2026/06/08
