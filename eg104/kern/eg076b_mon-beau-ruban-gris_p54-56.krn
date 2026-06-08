@@ -64,8 +64,9 @@
 =14	=14
 4dd	-gis,
 *>Refrain	*>Refrain
+*	*refrain
 *	*italic
-*	*pline:R1
+*	*rline:R1
 8dd	Mon
 =15	=15
 8cc	beau
@@ -73,7 +74,7 @@
 8ee	-ban
 =16	=16
 4dd	gris,
-*	*pline:R1r
+*	*rline:R1r
 8dd	Mon
 =17	=17
 8cc	beau
@@ -83,7 +84,7 @@
 =18	=18
 8g	gris.
 8r	.
-*	*pline:R2
+*	*rline:R1v
 8g	Mon
 =19	=19
 8cc	beau
@@ -91,15 +92,15 @@
 8cc	-ban
 =20	=20
 4cc	jaun',
-*	*pline:R3
+*	*rline:R2
 8cc	Mon
 =21	=21
 8cc	jo-
 8cc	-li
-8cc	gris-
+8cc	gris--
 =22	=22
 4cc	jaun',
-*	*pline:R4
+*	*rline:R2v
 8cc	Mon
 !!LO:PB:g=original
 =23	=23
@@ -107,7 +108,7 @@
 8dd	jo-
 =24	=24
 4gg	-li,
-*	*pline:R5
+*	*rline:R1r
 8gg	Mon
 =25	=25
 8ff	beau
@@ -119,6 +120,6 @@
 *	*Xrefrain
 ==	==
 *-	*-
-!!!RNB: Final quarter rest omitted as extra, redundant measure
-!!!EED-1: Samuel Boone
-!!!EEV-1: 2026/05/07
+!!!RNB: Final quarter rest omitted as redundant partial measure
+!!!EED1: Samuel Boone
+!!!EEV1: 2026/06/08
