@@ -69,7 +69,7 @@
 16ee	la
 16ff	li-
 8ee	-ret-
-8dd	-re,
+8dd	-te,
 *	*rline:R2
 =11	=11
 8cc	Mon
