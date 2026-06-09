@@ -15,7 +15,7 @@
 *G:	*	*	*	*
 *M3/8	*	*	*	*
 *	*v:1	*v:2	*v:3	*v:4
-*	*pline:1Ha	*pline:3Ha	*pline:5Ha	*pline:7Ha
+*	*pline:1h1	*pline:3h1	*pline:5h1	*pline:7h1
 8g	C'é-	A-	Ton	C'est
 =1	=1	=1	=1	=1
 4a	-tait	-vec	ca-	qua-
@@ -27,7 +27,7 @@
 4.g	-va-	-ver-	mo-	-va-
 =4	=4	=4	=4	=4
 4g	-ge	-te	-re,	-ges
-*	*pline:1Hb	*pline:3Hb	*pline:5Hb	*pline:7Hb
+*	*pline:1h2	*pline:3h2	*pline:5h2	*pline:7h2
 8g	Tout	Et	Est	Qui
 =5	=5	=5	=5	=5
 4a	noir,	son	mort	port'nt
@@ -38,17 +38,15 @@
 8f#	-boui-	ta-	-ter-	du
 =7	=7	=7	=7	=7
 4g	-lla,	-bac	-ra.	drap,
-*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain
-*	*refrain	*	*	*
-*	*italic	*	*	*
-*	*pline:R1	*	*	*
-8g	Ouich'-	.	.	.
+*	*refrain	*refrain	*refrain	*refrain
+*	*italic	*italic	*italic	*italic
+8g	Ouich'-	Ouich'-	Ouich'-	Ouich'-
 =8	=8	=8	=8	=8
-8g	-ka!	.	.	.
+8g	-ka!	-ka!	-ka!	-ka!
 8r	.	.	.	.
-*	*Xitalic	*	*	*
-*	*Xrefrain	*	*	*
-*	*pline:2Ha	*pline:4Ha	*pline:6Ha	*pline:8Ha
+*	*Xitalic	*Xitalic	*Xitalic	*Xitalic
+*	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain
+*	*pline:2h1	*pline:4h1	*pline:6h1	*pline:8h1
 8dd	A-	Ton	C'est	Et
 =9	=9	=9	=9	=9
 4dd	-vec	ca-	qua-	deux
@@ -60,8 +58,8 @@
 4.ee	-ver-	mo-	-va-	-ges-
 !!LO:PB:g=original
 =12	=12	=12	=12	=12
-4cc	-te	-re,	ges	-ses
-*	*pline:2Hb	*pline:4Hb	*pline:6Hb	*pline:8Hb
+4cc	-te	-re,	-ges	-ses
+*	*pline:2h2	*pline:4h2	*pline:6h2	*pline:8h2
 8dd	Et	Est	Qui	Qui
 =13	=13	=13	=13	=13
 4ee	son	mort	port'nt	chant'nt
@@ -73,15 +71,18 @@
 =15	=15	=15	=15	=15
 4a	-bac.	-ra.	drap.	-ra.
 *	*	*	*	*Xitalic
+*	*refrain	*refrain	*refrain	*refrain
+*	*italic	*italic	*italic	*italic
+8a	Ouich'-	Ouich'-	Ouich'-	Ouich'-
+=16	=16	=16	=16	=16
+4a	-ka!	-ka!	-ka!	-ka!
+*	*Xitalic	*Xitalic	*Xitalic	*Xitalic
+*	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain
+8r	.	.	.	.
 *>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain
 *	*refrain	*	*	*
 *	*italic	*	*	*
-*	*pline:R1r	*	*	*
-8a	Ouich'-	.	.	.
-=16	=16	=16	=16	=16
-4a	-ka!	.	.	.
-8r	.	.	.	.
-*	*pline:R2	*	*	*
+*	*rline:R1	*	*	*
 =17	=17	=17	=17	=17
 4.dd	Ah!	.	.	.
 =18	=18	=18	=18	=18
@@ -95,7 +96,7 @@
 8a	-na-	.	.	.
 =20	=20	=20	=20	=20
 8g	-ga,	.	.	.
-*	*pline:R3	*	*	*
+*	*rline:R2	*	*	*
 8cc	Te-	.	.	.
 8b	-na-	.	.	.
 =21	=21	=21	=21	=21
@@ -104,18 +105,15 @@
 8a	-na-	.	.	.
 =22	=22	=22	=22	=22
 4g	-ga,	.	.	.
-8f#	ouich'	.	.	.
+8f#	ouich'-	.	.	.
 !!LO:PB:g=original
 =23	=23	=23	=23	=23
 8g	-ka!	.	.	.
 *	*Xitalic	*	*	*
 *	*Xrefrain	*	*	*
 4r	.	.	.	.
-=24	=24	=24	=24	=24
-4r	.	.	.	.
-==	==	==	==	==
-8r	.	.	.	.
 ==	==	==	==	==
 *-	*-	*-	*-	*-
-!!!EED-1: Samuel Boone
-!!!EEV-1: 2026/03/19
+!!!RNB: Final empty measures omitted as per policy
+!!!EED1: Samuel Boone
+!!!EEV1: 2026/06/08
