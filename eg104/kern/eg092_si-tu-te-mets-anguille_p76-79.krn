@@ -15,21 +15,21 @@
 *G:	*	*	*	*	*	*	*
 *M3/8	*	*	*	*	*	*	*
 *	*v:1	*v:2	*v:3	*v:4	*v:5	*v:6	*v:7
-*	*pline:1Ha	*pline:3Ha	*pline:5Ha	*pline:7Ha	*pline:9Ha	*pline:11Ha	*pline:13Ha
+*	*pline:1h1	*pline:3h1	*pline:5h1	*pline:7h1	*pline:9h1	*pline:11h1	*pline:13h1
 =1	=1	=1	=1	=1	=1	=1	=1
 8g	Par	Si	Si	Si	Si	Si	Si
 8g	der-	tu	tu	tu	tu	tu	tu
 8g	-rièr'	te	te	te	te	te	te
 =2	=2	=2	=2	=2	=2	=2	=2
 4d	chez	mets	mets	mets	mets	mets	mets
-8g	ma	an-	pê-	al-	chas-	non-	prê-
+8g	ma	an-	pê-	Al-	chas-	non-	prê-
 =3	=3	=3	=3	=3	=3	=3	=3
-4.b	tante	-guille	-cheur	-louett[e]	-seur	-nette	-cheur
-*	*pline:1Hb	*pline:3Hb	*pline:5Hb	*pline:7Hb	*pline:9Hb	*pline:11Hb	*pline:13Hb
+4.b	tante	-guill[e]	-cheur	-louett[e]	-seur	-nette	-cheur
+*	*pline:1h2	*pline:3h2	*pline:5h2	*pline:7h2	*pline:9h2	*pline:11h2	*pline:13h2
 =4	=4	=4	=4	=4	=4	=4	=4
 8b/	Il	An-	Pour	Al-	Pour	Non-	Pour
 8a	lui	-gui-	m'a-	-louet-	m'a-	-nett'	m'a-
-8b/	ya-	-lle	-voir	-te	-voir	dans	-voir
+8b/	y a--	-lle	-voir	-te	-voir	dans	-voir
 =5	=5	=5	=5	=5	=5	=5	=5
 4cc	t-un	dans	en	dans	en	un	en
 8b	é-	l'é-	pê-	les	chas-	cou-	prê-
@@ -37,7 +37,7 @@
 =6	=6	=6	=6	=6	=6	=6	=6
 4a	-tang,	-tang,	-chant,	champs,	-sant,	-vent,	-chant,
 8r	.	.	.	.	.	.	.
-*	*pline:1Har	*pline:3Har	*pline:5Har	*pline:7Har	*pline:9Har	*pline:11Har	*pline:13Har
+*	*pline:1h1r	*pline:3h1r	*pline:5h1r	*pline:7h1r	*pline:9h1r	*pline:11h1r	*pline:13h1r
 =7	=7	=7	=7	=7	=7	=7	=7
 8g	Par	Si	Si	Si	Si	Si	Si
 8g	der-	tu	tu	tu	tu	tu	tu
@@ -46,19 +46,19 @@
 4d	chez	mets	mets	mets	mets	mets	mets
 8g	ma	an-	pê-	Al-	chas-	non-	prê-
 =9	=9	=9	=9	=9	=9	=9	=9
-4.b	tante	-guille	-cheur	-louett[e]	-seur	-nette	-cheur
-*	*pline:1Hbr	*pline:3Hbr	*pline:5Hbr	*pline:7Hbr	*pline:9Hbr	*pline:11Hbr	*pline:13Hbr
+4.b	tante	-guill[e]	-cheur	-louett[e]	-seur	-nette	-cheur
+*	*pline:1h2r	*pline:3h2r	*pline:5h2r	*pline:7h2r	*pline:9h2r	*pline:11h2r	*pline:13h2r
 =10	=10	=10	=10	=10	=10	=10	=10
 8b/	Il	An-	Pour	Al-	Pour	Non-	Pour
 8a	lui	-gui-	m'a-	-louet-	m'a-	-nett'	m'a-
-8b/	ya-	-lle	-voir	-te	-voir	dans	-voir
+8b/	y a--	-lle	-voir	-te	-voir	dans	-voir
 =11	=11	=11	=11	=11	=11	=11	=11
 4cc	t-un	dans	en	dans	en	un	en
 8b	é-	l'é-	pê-	les	chas-	cou-	prê-
 !!LO:PB:g=original
 =12	=12	=12	=12	=12	=12	=12	=12
 4.a	-tang....	-tang,	-chant,	champs,	-sant,	-vent,	-chant,
-*	*pline:2Ha	*pline:4Ha	*pline:6Ha	*pline:8Ha	*pline:10Ha	*pline:12Ha	*pline:14Ha
+*	*pline:2h1	*pline:4h1	*pline:6h1	*pline:8h1	*pline:10h1	*pline:12h1	*pline:14h1
 =13	=13	=13	=13	=13	=13	=13	=13
 8a	Je	Je	Je	Je	Je	Je	Je
 8a	me	me	me	me	me	me	me
@@ -68,11 +68,11 @@
 8cc	an-	pê-	al-	chas-	non-	prê-	à
 =15	=15	=15	=15	=15	=15	=15	=15
 4.dd	-guill[e],	-cheurs	-louett[e]	-seur:	-nette	-cheur:	toi
-*	*pline:2Hb	*pline:4Hb	*pline:6Hb	*pline:8Hb	*pline:10Hb	*pline:12Hb	*pline:14Hb
+*	*pline:2h2	*pline:4h2	*pline:6h2	*pline:8h2	*pline:10h2	*pline:12h2	*pline:14h2
 =16	=16	=16	=16	=16	=16	=16	=16
 8cc	An-	Je	Al-	Je	Non-	Je	Puis-
-8cc	-guil-	t'au-	-louet-	t'au-	-ett'	t'au-	-que
-8cc	-le	-rai	-te	-rai	dans	-rai	tu
+8cc	-gui-	t'au-	-louet-	t'au-	-ett'	t'au-	-que
+8cc	-lle	-rai	-te	-rai	dans	-rai	tu
 =17	=17	=17	=17	=17	=17	=17	=17
 4b/	dans	en	dans	en	un	en	m'ai-
 8a	l'é-	pê-	les	chas-	cou-	prê-	-mes
@@ -80,7 +80,7 @@
 =18	=18	=18	=18	=18	=18	=18	=18
 4g	-tang,	-chant,	champs	-sant.	-vent.	-chant.	tant!
 8r	.	.	.	.	.	.	.
-*	*pline:2Har	*pline:4Har	*pline:6Har	*pline:8Har	*pline:10Har	*pline:12Har	*pline:14Har
+*	*pline:2h1r	*pline:4h1r	*pline:6h1r	*pline:8h1r	*pline:10h1r	*pline:12h1r	*pline:14h1r
 =19	=19	=19	=19	=19	=19	=19	=19
 8g	Je	Je	Je	Je	Je	Je	Je
 8g	me	me	me	me	me	me	me
@@ -90,11 +90,11 @@
 8dd	an-	pê-	al-	chas-	non-	prê-	à
 =21	=21	=21	=21	=21	=21	=21	=21
 4.dd	-guill[e],	-cheurs	-louett[e]	-seur:	-nette	-cheur:	toi
-*	*pline:2Hbr	*pline:4Hbr	*pline:6Hbr	*pline:8Hbr	*pline:10Hbr	*pline:12Hbr	*pline:14Hbr
+*	*pline:2h2r	*pline:4h2r	*pline:6h2r	*pline:8h2r	*pline:10h2r	*pline:12h2r	*pline:14h2r
 =22	=22	=22	=22	=22	=22	=22	=22
 8cc	An-	Je	Al-	Je	Non-	Je	Puis-
-8cc	-guil-	t'au-	-louet-	t'au-	-nett'	t'au-	-que
-8cc	-le	-rai	-te	-rai	dans	-rai	tu
+8cc	-gui-	t'au-	-louet-	t'au-	-nett'	t'au-	-que
+8cc	-lle	-rai	-te	-rai	dans	-rai	tu
 =23	=23	=23	=23	=23	=23	=23	=23
 4b/	dans	en	dans	en	un	en	m'ai-
 8a	l'é-	pê-	les	chas-	cou-	prê-	-mes
@@ -104,5 +104,5 @@
 4r	.	.	.	.	.	.	.
 ==	==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-	*-
-!!!EED-1: Samuel Boone
-!!!EEV-1: 2026/04/16
+!!!EED1: Samuel Boone
+!!!EEV1: 2026/06/08
