@@ -25,13 +25,13 @@
 8cc	mon
 =3	=3
 *^	*
-8ddNL	4dd	pè-
-8ccNJ	.	.
+4dd\	8ddNL/	pè-
+.	8ccNJ/	.
 *v	*v	*
 8b	-re,
 *	*refrain
 *	*italic
-*	*pline:R1
+*	*rline:R1
 =4	=4
 4.dd	Gai,
 =5	=5
@@ -54,13 +54,13 @@
 8cc	mon
 =9	=9
 *^	*
-8ddNL	4dd	pè-
-8ccNJ	.	.
+4dd\	8ddNL/	pè-
+.	8ccNJ/	.
 *v	*v	*
 8b	-re,
 *	*refrain
 *	*italic
-*	*pline:R1r
+*	*rline:R1r
 =10	=10
 4.dd	Gai
 =11	=11
@@ -88,10 +88,10 @@
 4.cc	-ton,
 *	*refrain
 *	*italic
-*	*pline:R2
+*	*rline:R2
 =17	=17
 8a	Vi-
-8b/	-ve-
+8b/	-ve
 8cc	le
 !!LO:PB:g=original
 =18	=18
@@ -117,8 +117,9 @@
 =23	=23
 4.cc	-ton,
 *>Refrain	*>Refrain
+*	*refrain
 *	*italic
-*	*pline:R3
+*	*rline:R3
 !!LO:PB:g=original
 =24	=24
 8a	Vi-
@@ -137,7 +138,7 @@
 ==	==
 *-	*-
 !!!RDF**kern: N = cue size
-!!!RWG: Upper voice grace eighth notes in m.3 and m.9 incorrectly spelled as sixteenth notes in original
-!!!RWG: m.23 contains a solitary quarter note instead of the more appropriate dotted quarter in original (likely a print error; fixed here)
-!!!EED-1: Samuel Boone
-!!!EEV-1: 2026/05/05
+!!!RNB: Upper voice grace eighth notes in m.3 and m.9 incorrectly spelled as sixteenth notes in original
+!!!RNB: m.23 contains a solitary quarter note instead of the more appropriate dotted quarter in original (likely a print error; fixed here)
+!!!EED1: Samuel Boone
+!!!EEV1: 2026/06/08
