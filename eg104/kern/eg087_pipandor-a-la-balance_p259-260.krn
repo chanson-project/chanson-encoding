@@ -28,11 +28,11 @@
 4cc	-ce,
 *	*pline:2
 =3	=3
-4f	N'ya-
+4f	N'y a--
 4g	t-il
 !!LO:PB:g=original
 =4	=4
-8a	qu'toi-
+8a	qu'toi--
 8a	z-et
 8a	moi-
 8g	z-en
@@ -44,7 +44,7 @@
 =6	=6
 8cc	-quoi
 8bn	y
-8cc	es-
+8cc	es--
 8dd	tu
 =7	=7
 2cc	mis?
@@ -57,10 +57,11 @@
 8cc	-ger
 8bn	de
 8cc	la
-8dd	bouil-
+8dd	boui-
 =10	=10
-2cc	-li'!
+2cc	-lli'!
 *>Refrain	*>Refrain
+*	*refrain
 *	*italic
 *	*rline:R1h1
 =11	=11
@@ -98,4 +99,4 @@
 !!!RWG: Unsure about which lines are refrain, since there was only one verse (might warrant a second look)
 !!!RNB: Final empty measure removed as per policy
 !!!EED1: Samuel Boone
-!!!EEV1: 2026/05/16
+!!!EEV1: 2026/06/08
