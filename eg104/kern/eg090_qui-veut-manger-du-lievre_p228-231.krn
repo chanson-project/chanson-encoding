@@ -1,4 +1,4 @@
-!!!id: EG090
+!!!id: EG090b
 !!!page: 228-231
 !!!COM: Anonymous
 !!!LYR: Anonymous
@@ -46,7 +46,7 @@
 8a	ton
 =9	=9
 4g	lièvr',
-8b/	Là-
+8b/	Là--
 =10	=10
 4a	-bas,
 8g	dans
@@ -58,6 +58,7 @@
 4d	-rêts.
 8r	.
 *>Refrain	*>Refrain
+*	*refrain
 *	*italic
 *	*rline:R1
 !LO:TX:a:t=REFRAIN.	!
@@ -73,7 +74,7 @@
 *	*rline:R2
 =16	=16
 4a	Per-
-8b/	-drai-
+8b/	-drai--
 !!LO:PB:g=original
 =17	=17
 4cc	je
@@ -91,10 +92,10 @@
 8f#	-me
 =21	=21
 4.g	tant,
-*	*rline:R4
+*	*rline:R2r
 =22	=22
 4a	Per-
-8b/	-drai-
+8b/	-drai--
 !!LO:PB:g=original
 =23	=23
 4cc	je
@@ -105,7 +106,6 @@
 *	*Xrefrain
 ==	==
 *-	*-
-!!!RNB: Final partial empty measure omitted as per policy
-!!!RNB: Song contains a number of alternate refrains, with both different music & different text
+!!!RNB: Final empty partial measure omitted as per policy
 !!!EED1: Samuel Boone
-!!!EEV1: 2026/05/17
+!!!EEV1: 2026/06/08
