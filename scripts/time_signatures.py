@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Extract time signatures from kern files across all sources and output a CSV."""
+"""Extract time signatures and key signatures from kern files across all sources and output a CSV."""
 
 import csv
 import re
@@ -12,6 +12,24 @@ def get_field(lines: list[str], tag: str) -> str:
         if line.startswith(tag):
             return line[len(tag):].strip()
     return ""
+
+
+def format_key(kern_key: str) -> str:
+    """Convert a kern key token like *F: or *b-: to 'F' / 'b' / 'Bb' etc."""
+    k = kern_key.lstrip("*").rstrip(":")
+    return k.replace("-", "b")
+
+
+def get_key_signatures(lines: list[str]) -> list[str]:
+    seen = []
+    for line in lines:
+        token = line.split("\t")[0]
+        m = re.match(r"^\*([A-Ga-g][#-]*):$", token)
+        if m:
+            key = format_key(token)
+            if key not in seen:
+                seen.append(key)
+    return seen
 
 
 def get_time_signatures(lines: list[str]) -> list[str]:
@@ -51,17 +69,19 @@ def main():
                 or ""
             )
             time_sigs = get_time_signatures(lines)
+            keys = get_key_signatures(lines)
 
             rows.append({
                 "source": source,
                 "id": song_id,
                 "title": title,
                 "time_signatures": "; ".join(time_sigs) if time_sigs else "",
+                "key_signatures": "; ".join(keys) if keys else "",
             })
 
     writer = csv.DictWriter(
         sys.stdout,
-        fieldnames=["source", "id", "title", "time_signatures"],
+        fieldnames=["source", "id", "title", "time_signatures", "key_signatures"],
         lineterminator="\n",
     )
     writer.writeheader()
