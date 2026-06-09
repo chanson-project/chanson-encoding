@@ -16,6 +16,7 @@
 *M2/2	*
 *	*v:1
 *>Refrain	*>Refrain
+*	*refrain
 *	*italic
 *	*rline:R1
 =1	=1
@@ -29,8 +30,8 @@
 4r	.
 *	*rline:R2
 =3	=3
-4.a	Veil-
-8b	-lez
+4.a	Vei-
+8b	-llez
 4cc	ma
 4b	pe-
 !!LO:PB:g=original
@@ -43,7 +44,7 @@
 *	*pline:1
 =5	=5
 4a	En-
-4b/	-dor
+4b/	-dor-
 4g	-mez
 4g	ma
 =6	=6
