@@ -1,0 +1,109 @@
+!!!id: EG090d
+!!!page: 228-231
+!!!COM: Anonymous
+!!!LYR: Anonymous
+!!!PTL@@FR: Chansons Populaires du Canada
+!!!OTL@@FR: Qui veut manger du lièvre
+!!!PUB: G. E. Desbarats
+!!!PDT: 1865
+!!!AGN-Laforte:
+!!!AGN-type:
+!!!AGN-rime:
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+*	*v:1
+*	*pline:1h1
+8g	Qui
+=1	=1
+4b/	veut
+8b/	man-
+=2	=2
+4dd	-ger
+8dd	du
+=3	=3
+4a	lièvr'
+*	*pline:1h2
+8a	N'a
+=4	=4
+4b/	qu'à
+8b/	cou-
+!!LO:PB:g=original
+=5	=5
+4dd	-rir
+8dd	a-
+=6	=6
+4a	-près.
+8r	.
+*	*pline:2h1
+=7	=7
+4dd	Cour[e]
+8cc	a-
+=8	=8
+4b/	-près
+8a	ton
+=9	=9
+4g	lièvr',
+8b/	Là--
+=10	=10
+4a	-bas,
+8g	dans
+!!LO:PB:g=original
+=11	=11
+4f#	ces
+8e	fo-
+=12	=12
+4d	-rêts.
+8r	.
+*>Refrain	*>Refrain
+*	*refrain
+*	*italic
+*	*rline:R1
+!LO:TX:a:t=REFRAIN.	!
+==13	==13
+*M2/4	*
+4d	À--
+4e	t-on
+=14	=14
+4f#	ja-
+4g	-mais
+=15	=15
+2a	vu
+*	*rline:R2
+=16	=16
+4b/	Cou-
+4a	-rir,
+=17	=17
+4g	tant
+4f#	cou-
+=18	=18
+4e	-ri-
+4d	-re?
+!!LO:PB:g=original
+*	*rline:R1r
+=19	=19
+4d	À--
+4e	t-on
+=20	=20
+4f#	ja-
+4g	-mais
+=21	=21
+2a	vu
+*	*rline:R2v
+=22	=22
+4b/	Cou-
+4a	-rir
+=23	=23
+4g	si
+4f#	me-
+=24	=24
+2g	-nu?
+*	*Xitalic
+*	*Xrefrain
+==	==
+*-	*-
+!!!RNB: Final empty partial measure omitted as per policy
+!!!EED1: Samuel Boone
+!!!EEV1: 2026/06/08
