@@ -21,7 +21,7 @@
 8g	chez
 =1	=1
 8a	nous
-8g	ya-
+8g	y a--
 8a	t-un
 8b/	é-
 =2	=2
@@ -35,7 +35,7 @@
 !!LO:PB:g=original
 =3	=3
 4dd	vent,
-8cc	gaî-
+8cc	gaî--
 8b	gaî-
 =4	=4
 8a	-ment,
@@ -55,6 +55,7 @@
 =6	=6
 4g	-gnant,
 *>Refrain	*>Refrain
+*	*refrain
 *	*italic
 *	*rline:R2
 8.b/	Tout
@@ -86,7 +87,7 @@
 16b/	le
 =11	=11
 4cc	vent,
-8dd	gaî-
+8dd	gaî--
 8b	gaî-
 !!LO:PB:g=original
 =12	=12
@@ -94,9 +95,7 @@
 *	*Xitalic
 *	*Xrefrain
 ==	==
-16r	.
-4r	.
-==	==
 *-	*-
+!!!RNB: Final empty measure removed as per policy
 !!!EED1: Samuel Boone
-!!!EEV1: 2026/05/11
+!!!EEV1: 2026/06/08
