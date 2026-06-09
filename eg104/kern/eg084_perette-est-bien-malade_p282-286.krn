@@ -100,7 +100,7 @@
 4g	-re,
 *	*refrain
 *	*italic
-*	*rline:R1r
+*	*rline:R1v
 8g	Tra
 =14	=14
 4a	la
@@ -133,7 +133,7 @@
 8e	Te
 =22	=22
 4f	lai'-
-8f	-ra-
+8f	-ra--
 =23	=23
 8dL	tu
 8eJ	.
@@ -142,7 +142,7 @@
 8e	-rir?
 *	*refrain
 *	*italic
-*	*rline:R2h1
+*	*rline:R2
 8e	Be-
 8e	-zin-
 !!LO:PB:g=original
@@ -152,9 +152,9 @@
 8f	-zin-
 =26	=26
 8e	-zon
-*	*rline:R2h2
+*	*rline:R2v
 8e	Be-
-8e	-zin
+8e	-zin-
 =27	=27
 8d	-zon
 8e	be-
@@ -168,7 +168,7 @@
 8e	Te
 =29	=29
 4a	lai'-
-8cc	-ra-
+8cc	-ra--
 !!LO:PB:g=original
 =30	=30
 4b/	tu
@@ -179,7 +179,7 @@
 8e	Te
 =32	=32
 4a	lai'-
-8cc	-ra-
+8cc	-ra--
 =33	=33
 4b/	tu
 8g	mou-
@@ -191,4 +191,4 @@
 ==	==
 *-	*-
 !!!EED1: Samuel Boone
-!!!EEV1: 2026/05/14
+!!!EEV1: 2026/06/08
