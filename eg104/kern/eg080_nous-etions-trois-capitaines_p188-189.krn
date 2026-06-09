@@ -15,7 +15,7 @@
 *a:	*	*	*	*	*	*
 *M2/4	*	*	*	*	*	*
 *	*v:1	*v:2	*v:3	*v:4	*v:5	*v:6
-*	*pline:1	*pline:5	*pline:9	*pline:13	*pline:17	*pline:21
+*	*pline:1	*pline:3	*pline:5	*pline:7	*pline:9	*pline:11
 =1	=1	=1	=1	=1	=1	=1
 !LO:TX:a:i:t=Les reprises en chœur.	!	!	!	!	!	!
 4a	Nous	Nous	"Oui,	"Hô-	Quand	"Grand
@@ -24,7 +24,7 @@
 (4b/	-tions	-trâm's	-ment,"	-tess',	cho-	-ci!"
 4a)	.	.	.	.	.	.
 =3	=3	=3	=3	=3	=3	=3
-2cc	trois	dans	nous	tire-	-pi-	nous
+2cc	trois	dans	nous	tire--	-pi-	nous
 =4	=4	=4	=4	=4	=4	=4
 4b	ca-	une	dit	nous	-ne	dit
 4cc	-pi-	au-	l'hô-	cho-	fut	l'hô-
@@ -32,9 +32,9 @@
 2dd	-tai-	-ber-	-tes-	-pi-	bu-	-tes-
 =6	=6	=6	=6	=6	=6	=6
 4b	-nes,	-ge,	-se,	-ne,	-e,	-se,
-8r	.	.	.	.	.	.
+4r	.	.	.	.	.	.
 !!LO:PB:g=original
-*	*pline:2	*pline:6	*pline:10	*pline:14	*pline:18	*pline:22
+*	*pline:1r	*pline:3r	*pline:5r	*pline:7r	*pline:9r	*pline:11r
 =7	=7	=7	=7	=7	=7	=7
 4a	Nous	Nous	"Oui,	Hô-	Quand	"Grand
 4cc	é-	en-	vrai-	.	la	mer-
@@ -42,7 +42,7 @@
 8bqq	.	.	.	.	.	.
 2a	-tions	-trâm's	-ment,"	-tess',	cho-	-ci!"
 =9	=9	=9	=9	=9	=9	=9
-2c	trois	dans	nous	tire-	-pi-	nous
+2c	trois	dans	nous	tire--	-pi-	nous
 =10	=10	=10	=10	=10	=10	=10
 4b	ca-	une	dit	nous	-ne	dit
 4cc	-pi-	au-	l'hô-	cho-	fut	l'hô-
@@ -50,52 +50,60 @@
 2dd	-tai-	-ber-	-tes-	-pi-	bu-	-tes-
 =12	=12	=12	=12	=12	=12	=12
 4b/	-nes	-ge:	-se;	-ne,	-e,	-se,
-8r	.	.	.	.	.	.
-*	*pline:3Ha	*pline:7Ha	*pline:11Ha	*pline:15Ha	*pline:19Ha	*pline:23Ha
+4r	.	.	.	.	.	.
+*	*pline:2	*pline:4	*pline:6	*pline:8	*pline:10	*pline:12
 =13:|!	=13:|!	=13:|!	=13:|!	=13:|!	=13:|!	=13:|!
 4a	De	"Hô-	"J'en	Cho-	Nous	"Re-
-4a	la	-tesse,	ai	-pi-	ti-	-ve-
+4a	la	-tess[e],	ai	-pi-	ti-	-ve-
 !!LO:PB:g=original
 =14	=14	=14	=14	=14	=14	=14
-4b/	guer-	as-	du	-net-	-râm's	-nez-
+4b/	guer-	as--	du	-net-	-râm's	-nez--
 4b/	-re	tu	rouge	-te	trois	y
 =15	=15	=15	=15	=15	=15	=15
 4cc	re-	du	et	de	é-	donc
 4a	-ve-	vin	du	vin	-cus	sou-
 =16	=16	=16	=16	=16	=16	=16
 2b/	-nant,	blanc?	blanc,	blanc,	blancs,	-vent,
-*	*pline:3Hb	*pline:7Hb	*pline:11Hb	*pline:15Hb	*pline:19Hb	*pline:23Hb
+*	*refrain	*	*	*	*	*
+*	*italic	*	*	*	*	*
+*	*rline:R1	*	*	*	*	*
 =17	=17	=17	=17	=17	=17	=17
-4cc	Bra-	Bra-	Bra-	Bra-	Bra-	Bra-
-4b/	-ve,	-ve,	-ve,	-ve,	-ve,	-ve,
+4cc	Bra-	.	.	.	.	.
+4b/	-ve,	.	.	.	.	.
 =18	=18	=18	=18	=18	=18	=18
-2a	bra-	bra-	bra-	bra-	bra-	bra-
+2a	bra-	.	.	.	.	.
 =19	=19	=19	=19	=19	=19	=19
-2g	-ve,	-ve,	-ve,	-ve,	-ve,	-ve,
-*	*pline:4Ha	*pline:8Ha	*pline:12Ha	*pline:16Ha	*pline:20Ha	*pline:24Ha
+2g	-ve,	.	.	.	.	.
+*	*Xitalic	*	*	*	*	*
+*	*Xrefrain	*	*	*	*	*
+*	*pline:2r	*pline:4r	*pline:6r	*pline:8r	*pline:10r	*pline:12r
 =20	=20	=20	=20	=20	=20	=20
 4a	De	Hô-	J'en	Cho-	Nous	Re-
-4a	la	-tesse,	ai	-pi-	ti-	-ve-
+4a	la	-tess[e],	ai	-pi-	ti-	-ve-
 !!LO:PB:g=original
 =21	=21	=21	=21	=21	=21	=21
-4b/	guer-	as-	du	-net-	-râm's	-nez-
+4b/	guer-	as--	du	-net-	-râm's	-nez--
 4b/	-re	tu	rouge	-te	trois	y
 =22	=22	=22	=22	=22	=22	=22
 4cc	re-	du	et	de	é-	donc
 4a	-ve-	vin	du	vin	-cus	sou-
 =23	=23	=23	=23	=23	=23	=23
-2b/	-nant	blanc?	blanc,	blanc,	blancs,	vant,
-*	*pline:4Hb	*pline:8Hb	*pline:12Hb	*pline:16Hb	*pline:20Hb	*pline:24Hb
+2b/	-nant	blanc?	blanc,	blanc,	blancs,	-vent,
+*	*refrain	*	*	*	*	*
+*	*italic	*	*	*	*	*
+*	*rline:R2	*	*	*	*	*
 =24	=24	=24	=24	=24	=24	=24
-4cc	Bra-	Bra-	Bra-	Bra-	Bra-	Bra-
-4b	-ve-	-ve-	-ve-	-ve-	-ve-	-ve-
+4cc	Bra-	.	.	.	.	.
+4b	-ve-	.	.	.	.	.
 =25	=25	=25	=25	=25	=25	=25
-[2a	-ment.	-ment."	-ment."	-ment."	-ment.	-ment."
+[2a	-ment.	.	.	.	.	.
 =26	=26	=26	=26	=26	=26	=26
 4a]	.	.	.	.	.	.
-8r	.	.	.	.	.	.
+*	*Xitalic	*	*	*	*	*
+*	*Xrefrain	*	*	*	*	*
+4r	.	.	.	.	.	.
 ==:|!	==:|!	==:|!	==:|!	==:|!	==:|!	==:|!
 *-	*-	*-	*-	*-	*-	*-
-!!!RNB: All eighth rests flipped backward in original
-!!!EED-1: Samuel Boone
-!!!EEV-1: 2026/02/08
+!!!RWG: "Bravement" at the end of each verse sometimes has an end quote and sometimes doesn't – don't know if we want this represented or not
+!!!EED1: Samuel Boone
+!!!EEV1: 2026/06/08
