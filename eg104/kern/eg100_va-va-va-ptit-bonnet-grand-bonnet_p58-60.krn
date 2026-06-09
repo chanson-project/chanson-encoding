@@ -15,9 +15,9 @@
 *C:	*
 *M2/4	*
 *	*v:1
-*	*pline:R1h1
 *	*refrain
 *	*italic
+*	*rline:R1h1
 !LO:TX:a:i:t=Voix seule, puis la reprise en chœur.	!
 8r	.
 =1	=1
@@ -32,7 +32,7 @@
 16g	bon-
 8cc	-net,
 8r	.
-*	*pline:R1h2
+*	*rline:R1h2
 !!LO:PB:g=original
 =3	=3
 8cc	Va,
@@ -65,7 +65,7 @@
 8r	.
 *	*refrain
 *	*italic
-*	*pline:R1h2r
+*	*rline:R1h2r
 =7	=7
 8cc	Va,
 8dd	va,
@@ -93,8 +93,9 @@
 8ee	pi-
 8dd	-gnons,
 *>Refrain	*>Refrain
+*	*refrain
 *	*italic
-*	*pline:R1h1r
+*	*rline:R1h1v
 16ee	P'tit
 16dd	bon-
 =11	=11
@@ -102,7 +103,7 @@
 16dd	grand
 16ee	bon-
 8dd	-net,
-*	*pline:R1h2r
+*	*rline:R1h2v
 16ee	P'tit
 16dd	bon-
 !!LO:PB:g=original
@@ -115,5 +116,5 @@
 !LO:TX:b:B:t=D.C.	!
 ==	==
 *-	*-
-!!!EED-1: Samuel Boone
-!!!EEV-1: 2026/05/07
+!!!EED1: Samuel Boone
+!!!EEV1: 2026/06/08
