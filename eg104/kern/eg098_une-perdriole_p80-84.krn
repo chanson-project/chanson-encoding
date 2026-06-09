@@ -28,7 +28,7 @@
 4b/	mai
 8a	que
 =4	=4
-4b	barrai-
+4b	barrai--
 8ee	je
 =5	=5
 4dd	à
@@ -48,7 +48,7 @@
 4b/	mai
 8a	que
 =10	=10
-4b	barrai-
+4b	barrai--
 8ee	je
 =11	=11
 4dd	à
@@ -59,6 +59,7 @@
 8r	.
 !LO:TX:a:t=(segno)	!
 *>Refrain	*>Refrain
+*	*refrain
 *	*italic
 *	*rline:R1
 ==13	==13
@@ -118,4 +119,4 @@
 !!!RWG: Confusing score directions for verses after 1st, code may need a revisit
 !!!RWG: "Segno" text left in where segno symbol was in original manuscript (slightly confused as to how it works here)
 !!!EED1: Samuel Boone
-!!!EEV1: 2026/05/13
+!!!EEV1: 2026/06/08
