@@ -1,0 +1,107 @@
+!!!id: MB001
+!!!page: 13-18
+!!!COM: Lue April, N.-D.-du-Portage
+!!!LYR: Anonymous
+!!!PTL@@FR: Le Rossignol y Chante
+!!!OTL@@FR: Je me suis habillé en plumes
+!!!PUB: Walter Dinsdale
+!!!PDT: 1962
+!!!AGN-Laforte:
+!!!AGN-type:
+!!!AGN-rime:
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M2/4	*
+*	*v:1
+*	*pline:1
+=1	=1
+4r	.
+8dd	Je
+16dd	me
+16ee	suis
+=2	=2
+8dd	ha-
+8a	-bil-
+8g	-lé
+8a	en
+=3	=3
+8f	plu-
+!LO:TX:a:t=1a	!
+4.d	-mes
+*	*pline:2
+=4	=4
+8f	Pour
+16e	ga-
+16d	-gner
+16f	ma
+16e	vie
+16f	à
+16g	chan-
+=5	=5
+4.a	-ter.
+*	*pline:3
+16g	Mon
+16g	ha-
+!!LO:PB:g=original
+=6	=6
+8a	-bit
+8a	m'a
+8g	fait
+16a	es-
+16a	-pé-
+=7	=7
+(16ddL	-rer
+[8.ccJ)	.
+8cc]	.
+*	*pline:4
+8cc	Qu'un
+=8	=8
+8dd	jour
+8ee	j'en
+16ff	fe-
+16ee	-rais
+16dd	ma
+16cc	for-
+=9	=9
+8ddL	-tu
+32cc	.
+32b	.
+32a	.
+32bJ	.
+[4a	-ne.
+*	*pline:5
+!!LO:PB:g=original
+=10	=10
+4a]	.
+8ff	Je
+8ee	me
+8dd	ré-
+=11	=11
+8cc	-jou-
+8a	-is
+8g	dans
+8g	mon
+=12	=12
+8f	cœur
+*	*pline:6
+16g	D'un
+16a	ha-
+8b	-bit
+8cc	de
+=13	=13
+(16ccL	si
+16aJ)	.
+8f	bel-
+8e	-le
+8e	cou-
+=14	=14
+4.d	-leur.
+8r	.
+==	==
+*-	*-
+!!!RWG: Rhyme scheme ABBACC for each verse, encoded without hémistiches but not 100% sure
+!!!RNB: Added an extra eighth rest to complete last measure
+!!!EED1: Samuel Boone
+!!!EEV1: 2026/06/09
