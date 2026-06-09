@@ -55,15 +55,15 @@
 4f	pont	-ez
 8f	qu'i'	qui
 =11	=11	=11
-4g	ya	vous
-8g	là-	plai-
+4g	y a	vous
+8g	là--	plai-
 !!LO:PB:g=original
 =12	=12	=12
 4f	bas,	-ra,
 8r	.	.
 *	*refrain	*
 *	*italic	*
-*	*rline:R2	*
+*	*rline:R1v	*
 =13	=13	=13
 4.d	Ma-	.
 16e-	-ri-	.
@@ -82,6 +82,6 @@
 *	*Xrefrain	*
 ==	==	==
 *-	*-	*-
-!!!RNB: Verse & refrain labelling might need a closer second look, not 100% confident
+!!!RWG: Beginning of verse 2 has too many syllables for line
 !!!EED1: Samuel Boone
-!!!EEV1: 2026/05/17
+!!!EEV1: 2026/06/08
