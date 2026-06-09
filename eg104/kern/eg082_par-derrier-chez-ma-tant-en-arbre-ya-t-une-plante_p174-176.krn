@@ -15,54 +15,48 @@
 *d:	*	*	*	*	*	*	*	*	*	*
 *M3/8	*	*	*	*	*	*	*	*	*	*
 *	*v:1	*v:2	*v:3	*v:4	*v:5	*v:6	*v:7	*v:8	*v:9	*v:10
-*	*pline:1Ha	*pline:2Har	*pline:3Har	*pline:4Har	*pline:5Har	*pline:6Har	*pline:7Har	*pline:8Har	*pline:9Har	*pline:10Har
+*	*pline:1h1	*pline:2h1r	*pline:3h1r	*pline:4h1r	*pline:5h1r	*pline:6h1r	*pline:7h1r	*pline:8h1r	*pline:9h1r	*pline:10h1r
 =1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
-8d	Par	Dans	Ce	Un'	L'au-	Le	Où	Nous	Le	A
-8f	der-	la	sont	leur	-tre	roi,	vont-	ne	roi	cha-
+8d	Par	Dans	Ce	Un'	L'au-	Le	Où	Nous	Le	À
+8f	der-	la	sont	leur	-tre	roi,	vont--	ne	roi	cha-
 8a	-rièr'	plus	trois	porte	leur	par	ell's,	somm's	prit	-que
 =2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
 8aq	.	.	.	.	.	.	.	.	.	.
 4f	chez	hau-	de-	du	porte	la	ces	point	la	tour
 8d	ma	-te	-moi-	sei-	à	fe-	trois	des	plus	de
 =3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
-4e	tant'	branche	-selles	-gle,	boire	-nêtre,	dames?	dames,	jeune,	danse
-*	*pline:1Hb	*pline:2Hbr	*pline:3Hbr	*pline:4Hbr	*pline:5Hbr	*pline:6Hbr	*pline:7Hbr	*pline:8Hbr	*pline:9Hbr	*pline:10Hbr
-8f	Ya-	Trois	Qui	L'au-	Dans	Les	Où	Somm's	Dans	Il
+4e	tant'	branche	-selles	-gle,	boire	-nêtre,	dames?	dames,	jeune,	dans[e]
+*	*pline:1h2	*pline:2h2r	*pline:3h2r	*pline:4h2r	*pline:5h2r	*pline:6h2r	*pline:7h2r	*pline:8h2r	*pline:9h2r	*pline:10h2r
+8f	Y a--	Trois	Qui	L'au-	Dans	Les	Où	Somm's	Dans	Il
 =4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
-4g	t-un	pi-	leur	-tre,	un	re-	vont-	fill's	la	vou-
-!LO:TX:a:t=2	!	!	!	!	!	!	!	!	!	!
-.	.	.	.	.	.	.	.	.	.	.
-4a	ar-	-geons	port'nt	du	bas-	-gar-	ell's	à	dans'	-lait
+8%3g	t-un	pi-	leur	-tre,	un	re-	vont--	fill's	la	vou-
+8%3a	ar-	-geons	port'nt	du	bas-	-gar-	ell's	à	dans'	-lait
 !!LO:PB:g=original
 =5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5
 8aq	.	.	.	.	.	.	.	.	.	.
 4f	-bre	sont	à	bled	-sin	-dait	s'pro-	ma-	l'a	l'em-
 8d	plan-	bran-	man-	pi-	do-	pas-	-me-	-ri-	me-	-bras-
 =6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6
-4e	-té;	-chés;	-ger;	-lé;	-ré.	-ser:	-ner?	-er.	-née;	-ser:
+4e	-té;	-chés;	-ger;	-lé;	-ré.	-ser:	-ner?	-er.	-né[e];	-ser:
 16r	.	.	.	.	.	.	.	.	.	.
-*	*pline:2Ha	*pline:3Ha	*pline:4Ha	*pline:5Ha	*pline:6Ha	*pline:7Ha	*pline:8Ha	*pline:9Ha	*pline:10Ha	*pline:10Ha
-16e	Dans	Ce	Un'	L'au-	Le	Où	Nous	Le	A	Al-
+*	*pline:2h1	*pline:3h1	*pline:4h1	*pline:5h1	*pline:6h1	*pline:7h1	*pline:8h1	*pline:9h1	*pline:10h1	*pline:11h1
+16e	Dans	Ce	Un'	L'au-	Le	Où	Nous	Le	À	Al-
 =7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7
-4e	la	sont	leur	-tre	roi,	vont-	ne	roi	cha-	-lez,
-!LO:TX:a:t=2	!	!	!	!	!	!	!	!	!	!
-.	.	.	.	.	.	.	.	.	.	.
-4a	plus	trois	porte	leur	par	ell's,	somm's	prit	-que	al-
+8%3e	la	sont	leur	-tre	roi,	vont--	ne	roi	cha-	-lez,
+8%3a	plus	trois	porte	leur	par	ell's,	somm's	prit	-que	al-
 =8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8
 8aq	.	.	.	.	.	.	.	.	.	.
-4g	hau-	de-	du	porte	la	ces	point	la	tour	-lez,
+4g	hau-	de-	du	port[e]	la	ces	point	la	tour	-lez,
 8e	-te	-moi-	sei-	à	fe-	trois	des	plus	de	beau
 =9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9
-[4c	branch'	-selles	gle,	boire	-nêtre,	dames?	dames,	jeune,	danse	prince.
+[4c	branch'	-selles	-gle,	boire	-nêtre,	dames?	dames,	jeune,	dans[e]	princ[e].
 16c]	.	.	.	.	.	.	.	.	.	.
-*	*pline:2Hb	*pline:3Hb	*pline:4Hb	*pline:5Hb	*pline:6Hb	*pline:7Hb	*pline:8Hb	*pline:9Hb	*pline:10Hb	*pline:10Hb
+*	*pline:2h2	*pline:3h2	*pline:4h2	*pline:5h2	*pline:6h2	*pline:7h2	*pline:8h2	*pline:9h2	*pline:10h2	*pline:11h2
 16d	Trois	Qui	L'au-	Dans	Les	Où	Somm's	Dans	Il	Al-
 !!LO:PB:g=original
 =10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10
-4e	pi-	leur	-tre,	un	re-	vont-	fill's	la	vou-	-lez
-!LO:TX:a:t=2	!	!	!	!	!	!	!	!	!	!
-.	.	.	.	.	.	.	.	.	.	.
-4g	-geons	port'nt	du	bas-	-gar-	ell's	à	dans'	-lait	plus
+8%3e	pi-	leur	-tre,	un	re-	vont--	fill's	la	vou-	-lez
+8%3g	-geons	port'nt	du	bas-	-gar-	ell's	à	dans'	-lait	plus
 =11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11
 8gq	.	.	.	.	.	.	.	.	.	.
 4e	sont	à	bled	-sin	-dait	s'pro-	ma-	l'a	l'em-	loin
@@ -73,7 +67,7 @@
 *>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain
 *	*refrain	*	*	*	*	*	*	*	*	*
 *	*italic	*	*	*	*	*	*	*	*	*
-*	*pline:R1Ha	*	*	*	*	*	*	*	*	*
+*	*rline:R1	*	*	*	*	*	*	*	*	*
 =13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13
 4d	Vi-	.	.	.	.	.	.	.	.	.
 8f	-ve	.	.	.	.	.	.	.	.	.
@@ -84,8 +78,8 @@
 =15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15
 8bq	.	.	.	.	.	.	.	.	.	.
 4a	-sier	.	.	.	.	.	.	.	.	.
+*	*rline:R2	*	*	*	*	*	*	*	*	*
 !!LO:PB:g=original
-*	*pline:R1Hb	*	*	*	*	*	*	*	*	*
 =16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16
 8g	Du	.	.	.	.	.	.	.	.	.
 8a	jo-	.	.	.	.	.	.	.	.	.
@@ -101,7 +95,6 @@
 8r	.	.	.	.	.	.	.	.	.	.
 ==	==	==	==	==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
-!!!RNB: Two-note tuplets encoded a little strangely, temporary solution
 !!!RNB: m.15 is incomplete in original, preserved here
-!!!EED-1: Samuel Boone
-!!!EEV-1: 2026/03/11
+!!!EED1: Samuel Boone
+!!!EEV1: 2026/06/08
