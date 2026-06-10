@@ -19,7 +19,7 @@
 8a	ma-	-rons	sa-	re-
 =1	=1	=1	=1	=1
 4cc	-ri'-	pour	-lu-	-ti-
-4dd ff	-rons-	é-	-ez	-rez
+4dd ff	-rons--	é-	-ez	-rez
 =2	=2	=2	=2	=2
 8cc	nous?	-poux?	vous!	vous!
 *	*pline:1r	*pline:3r	*pline:5r	*pline:7r
@@ -28,7 +28,7 @@
 8b-	ma-	-rons	sa-	re-
 =3	=3	=3	=3	=3
 4a	-ri'-	-pour	-lu-	-ti-
-4g	-rons-	é-	-ez	-rez
+4g	-rons--	é-	-ez	-rez
 !!LO:PB:g=original
 =4	=4	=4	=4	=4
 4f	nous?	-poux?	vous!	vous!
@@ -43,20 +43,20 @@
 8b-/	-ra	-ra	six	chez
 =6	=6	=6	=6	=6
 8a	vous,	vous,	coups,	vous,
-*	*refrain	*refrain	*refrain	*refrain
-*	*italic	*italic	*italic	*italic
-*	*rline:R1	*rline:R1r	*rline:R1r	*rline:R1r
-8b-	Par	Par	Par	Par
-8cc	l'as-	l'as-	l'as-	l'as-
-8a	-sem-	-sem-	-sem-	-sem-
+*	*refrain	*	*	*
+*	*italic	*	*	*
+*	*rline:R1	*	*	*
+8b-	Par	.	.	.
+8cc	l'as-	.	.	.
+8a	-sem-	.	.	.
 !!LO:PB:g=original
 =7	=7	=7	=7	=7
-4f	-blé'	-blé'	-blé'	-blé'
-4g	d'a-	d'a-	d'a-	d'a-
+4f	-blé'	.	.	.
+4g	d'a-	.	.	.
 =8	=8	=8	=8	=8
-4c	-mour.	-mour.	-mour.	-mour.
-*	*Xitalic	*Xitalic	*Xitalic	*Xitalic
-*	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain
+4c	-mour.	.	.	.
+*	*Xitalic	*	*	*
+*	*Xrefrain	*	*	*
 *>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain
 *	*refrain	*	*	*
 *	*italic	*	*	*
@@ -73,7 +73,7 @@
 =10	=10	=10	=10	=10
 8a	m'ai-	.	.	.
 8f	-me....	.	.	.
-*	*rline:R3	*	*	*
+*	*rline:R2v	*	*	*
 8cc	Oui	.	.	.
 16dd	j'ai-	.	.	.
 16ee	-me-	.	.	.
@@ -90,6 +90,6 @@
 ==	==	==	==	==
 *-	*-	*-	*-	*-
 !!!EED1: Samuel Boone
-!!!EEV1: 2026/05/19
+!!!EEV1: 2026/06/09
 !!!EED2: Isaac Howie
 !!!EEV2: 2026/03/10
