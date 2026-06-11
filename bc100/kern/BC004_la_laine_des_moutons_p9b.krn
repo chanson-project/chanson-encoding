@@ -28,7 +28,7 @@
 *	*rp:õ	*	*	*	*	*
 *	*rf:õ	*	*	*	*	*
 *	*rs:a	*	*	*	*	*
-*	*rline:R2	*	*	*	*	*
+*	*pline:1h1	*	*	*	*	*
 {8cc	C'est	.	.	.	.	.
 =3	=3	=3	=3	=3	=3	=3
 16b	nous	.	.	.	.	.
@@ -37,9 +37,8 @@
 *	*Xitalic	*	*	*	*	*
 *	*Xrefrain	*	*	*	*	*
 *>Verse	*>Verse	*>Verse	*>Verse	*>Verse	*>Verse	*>Verse
-*	*pline:1h1	*pline:2h1	*pline:3h1	*pline:4h1	*pline:5h1	*pline:6h1
+*	*pline:1h2v	*pline:1h3v	*pline:1h4v	*pline:1h5v	*pline:1h6v	*pline:1h7v
 8b	ton-	la-	car-	fi-	ven-	chan-
-!!LO:PB:g=original
 =4	=4	=4	=4	=4	=4	=4
 8cc	-dai-	-vai-	-dai-	-lai-	-dai-	-tai-
 8a}	-nes,	-nes,	-nes,	-nes,	-nes,	-nes,
@@ -51,6 +50,7 @@
 *	*refrain	*	*	*	*	*
 *	*italic	*	*	*	*	*
 {8e	La	.	.	.	.	.
+!!LO:PB:g=enumerative
 =5	=5	=5	=5	=5	=5	=5
 16a	lai-	.	.	.	.	.
 16g	-ne	.	.	.	.	.
@@ -62,7 +62,7 @@
 *	*rp:õ	*	*	*	*	*
 *	*rf:õ	*	*	*	*	*
 *	*rs:a	*	*	*	*	*
-*	*rline:R2r	*	*	*	*	*
+*	*pline:1h1r	*	*	*	*	*
 {8ee	C'est	.	.	.	.	.
 =7	=7	=7	=7	=7	=7	=7
 16ee	nous	.	.	.	.	.
@@ -71,16 +71,16 @@
 *	*Xitalic	*	*	*	*	*
 *	*Xrefrain	*	*	*	*	*
 *>Verse	*>Verse	*>Verse	*>Verse	*>Verse	*>Verse	*>Verse
-*	*pline:1h2	*pline:2h2	*pline:3h2	*pline:4h2	*pline:5h2	*pline:6h2
+*	*pline:1h2	*pline:1h3	*pline:1h4	*pline:1h5	*pline:1h6	*pline:1h7
 8b	ton-	la-	car-	fi-	ven-	chan-
-!!LO:PB:g=original
 =8	=8	=8	=8	=8	=8	=8
 4a}	-dons,	-vons,	-dons,	-lons,	-dons,	-tons,
 *	*rp:õ	*rp:õ	*rp:õ	*rp:õ	*rp:õ	*rp:õ
 *	*rf:õ	*rf:õ	*rf:õ	*rf:õ	*rf:õ	*rf:õ
 *	*rs:a	*rs:a	*rs:a	*rs:a	*rs:a	*rs:a
-*	*pline:1h2r	*pline:2h2r	*pline:3h2r	*pline:4h2r	*pline:5h2r	*pline:6h2r
+*	*pline:1h2r	*pline:1h3r	*pline:1h4r	*pline:1h5r	*pline:1h6r	*pline:1h7r
 {8ee	Ton-	La-	Car-	Fi-	Ven-	Chan-
+!!LO:PB:g=enumerative
 =9	=9	=9	=9	=9	=9	=9
 4b	-dons,	-vons,	-dons,	-lons,	-dons,	-tons,
 *	*bis	*bis	*bis	*bis	*bis	*bis
@@ -102,7 +102,6 @@
 8cc	des	.	.	.	.	.
 *	*rline:R1h2v	*	*	*	*	*
 8b	mou-	.	.	.	.	.
-!!LO:PB:g=original
 =12	=12	=12	=12	=12	=12	=12
 8cc	-tai-	.	.	.	.	.
 8a}	-nes,	.	.	.	.	.
@@ -112,8 +111,9 @@
 *	*rf:ɛn,ə	*	*	*	*	*
 *	*rs:b	*	*	*	*	*
 *>Verse	*>Verse	*>Verse	*>Verse	*>Verse	*>Verse	*>Verse
-*	*pline:1h2r	*pline:2h2r	*pline:3h2r	*pline:4h2r	*pline:5h2r	*pline:6h2r
+*	*pline:1h2r	*pline:1h3r	*pline:1h4r	*pline:1h5r	*pline:1h6r	*pline:1h7r
 {8ee	Ton-	La-	Car-	Fi-	Ven-	Chan-
+!!LO:PB:g=enumerative
 =13	=13	=13	=13	=13	=13	=13
 4b	-dons,	-vons,	-dons,	-lons,	-dons,	-tons,
 *	*bis	*bis	*bis	*bis	*bis	*bis
@@ -144,5 +144,5 @@
 *	*rs:a	*	*	*	*	*
 ==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-
-!!!EED: Ève Poudrier
-!!!EEV: 2026/06/10
+!!!EED: Ève Poudrie
+!!!EEV: 2026/06/11
