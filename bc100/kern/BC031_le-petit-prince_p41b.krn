@@ -12,22 +12,21 @@
 *k[]	*	*	*	*	*	*
 *C:	*	*	*	*	*	*
 *M2/4	*	*	*	*	*	*
-*>A	*>A	*>A	*>A	*>A	*>A	*>A
-*	*v:1	*vv:2	*vv:3	*vv:4	*vv:5	*vv:6
-*	*pline:1h1	*pline:4c7r	*pline:6r	*pline:7r	*pline:8r	*pline:9r
+*>Verse	*>Verse	*>Verse	*>Verse	*>Verse	*>Verse	*>Verse
+*	*vv:1	*vv:2	*vv:3	*vv:4	*vv:5	*vv:6
+*	*pline:1h1	*pline:3h1	*pline:4h1	*pline:5h1	*pline:6h1	*pline:7h1
 =1	=1	=1	=1	=1	=1	=1
-*^	*	*	*	*	*	*
-{4cc\	8cc/	Lun-	Mar-	Mer-	Jeu-	Ven-	Sam'-
-.	8cc/	.	.	-cre-	.	-dre-	.
-*v	*v	*	*	*	*	*	*
+!!LO:S:dash
+{(8cc	Lun-	Mar-	Mer-	Jeu-	Ven-	Sam'-
+8cc)	.	.	-cre-	.	-dre-	.
 8b	-di	-di	-di	-di	-di	-di
+8a	ma-	ma-	ma-	ma-	ma-	ma-
+=2	=2	=2	=2	=2	=2	=2
+4.g	-tin,	-tin,	-tin,	-tin,	-tin,	-tin,
 *>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain
+*	*rline:1h2=R1	*	*	*	*	*
 *	*refrain	*	*	*	*	*
 *	*italic	*	*	*	*	*
-8a	ma-	.	.	.	.	.
-=2	=2	=2	=2	=2	=2	=2
-4.g	-tin,	.	.	.	.	.
-*	*rline:1h2	*	*	*	*	*
 8a	l'emp'-	.	.	.	.	.
 =3	=3	=3	=3	=3	=3	=3
 4.g	-reur,	.	.	.	.	.
@@ -45,7 +44,7 @@
 *	*rf:ẽs,ə	*	*	*	*	*
 *	*rs:a	*	*	*	*	*
 =6	=6	=6	=6	=6	=6	=6
-*	*rline:2	*	*	*	*	*
+*	*rline:R2	*	*	*	*	*
 {8.cc	Sont	.	.	.	.	.
 16cc	ve-	.	.	.	.	.
 8b	-nus	.	.	.	.	.
@@ -65,7 +64,7 @@
 *	*rp:ẽ	*	*	*	*	*
 *	*rf:ẽs,ə	*	*	*	*	*
 *	*rs:a	*	*	*	*	*
-*	*rline:3	*	*	*	*	*
+*	*rline:R3	*	*	*	*	*
 {8e	Mais	.	.	.	.	.
 =10	=10	=10	=10	=10	=10	=10
 8c	comm'	.	.	.	.	.
@@ -83,42 +82,38 @@
 8e	a	.	.	.	.	.
 !!LO:PB:g=original
 =13	=13	=13	=13	=13	=13	=13
-4g}	dit:	.	.	.	.	.
+4g	dit:	.	.	.	.	.
 *	*rp:i	*	*	*	*	*
 *	*rf:di	*	*	*	*	*
 *	*rs:b	*	*	*	*	*
-{4r	.	.	.	.	.	.
+4r}	.	.	.	.	.	.
 =14	=14	=14	=14	=14	=14	=14
-*	*rline:4	*	*	*	*	*
+*	*rline:R4=2h1	*	*	*	*	*
 8.cc	Puis-	.	.	.	.	.
 16cc	-que	.	.	.	.	.
 \8b	c'est	.	.	.	.	.
 8a	comm'	.	.	.	.	.
 =15	=15	=15	=15	=15	=15	=15
 8g	ça,	.	.	.	.	.
-*	*	*	*	*	*	*
-*	*	*	*	*	*	*
-*	*	*	*	*	*	*pline:10
-8e	nous	.	.	.	.	nous
-8c	re-	.	.	.	.	ne
-8f	-vien-	.	.	.	.	re-
-=16	=16	=16	=16	=16	=16	=16
-4e	-drons	.	.	.	.	-vien-
 *	*Xitalic	*	*	*	*	*
 *	*Xrefrain	*	*	*	*	*
-*>B	*>B	*>B	*>B	*>B	*>B	*>B
-*	*	*pline:6	*pline:7	*pline:8	*pline:9	*
-*^	*	*	*	*	*	*
-4d\	8d/	mar-	mer-	jeu-	ven-dre-	sam'-	-drons
-.	8d/	.	-cre-	.	-dre-	.	.
-*v	*v	*	*	*	*	*	*
+*>Verse	*>Verse	*>Verse	*>Verse	*>Verse	*>Verse	*>Verse
+*	*pline:2h2	*pline:3h2	*pline:4h2	*pline:5h2	*pline:6h2	*pline:7h2
+8e	nous	nous	nous	nous	nous	nous
+8c	re-	re-	re-	re-	re-	ne
+8f	-vien-	-vien-	-vien-	-vien-	-vien-	re-
+=16	=16	=16	=16	=16	=16	=16
+4e	-drons	-drons	-drons	-drons	-drons	-vien-
+!!LO:S:dash
+(8d	mar-	mer-	jeu-	ven-	sam'-	-drons
+8d)	.	-cre-	.	-dre-	.	.
 =17	=17	=17	=17	=17	=17	=17
 4c	-di.	-di.	-di.	di.	-di.	plus!
 *	*rp:i	*rp:i	*rp:i	*rp:i	*rp:i	*rp:y
-*	*rf:di	*rf:di	*rf:di	*rf:di	*rf:di	*rf:x
+*	*rf:di	*rf:di	*rf:di	*rf:di	*rf:di	*rf:ply
 *	*rs:b	*rs:b	*rs:b	*rs:b	*rs:b	*rs:x
 4r}	.	.	.	.	.	.
 =:||	=:||	=:||	=:||	=:||	=:||	=:||
 *-	*-	*-	*-	*-	*-	*-
-!!!EEV: Ève Poudrier
-!!!EED: 2026/05/28
+!!!EEV1: Ève Poudrier
+!!!EED1: 2026/06/10
