@@ -23,8 +23,12 @@
 =2	=2
 8.dd	-çoi-
 16dd	-se,
+*	*refrain
+*	*italic
 8dd	lon
 4cc	gai,
+*	*Xitalic
+*	*Xrefrain
 *	*pline:1h1r
 8cc	C'est
 =3	=3
@@ -45,11 +49,15 @@
 8ee	-ri-
 =6	=6
 4.cc	-er,
+*	*refrain
+*	*italic
 4a	ma
 8cc	don-
 =7	=7
 4.dd	-dai-
 4cc	-ne,
+*	*Xitalic
+*	*Xrefrain
 *	*pline:1h2r
 8cc	Qui
 !!LO:PB:g=original
@@ -60,13 +68,17 @@
 8ee	-ri-
 =9	=9
 4.cc	-er,
+*	*refrain
+*	*italic
 4a	me
 8b	don-
 =10	=10
 4cc	-dé.
+*	*Xitalic
+*	*Xrefrain
 8r	.
 4r	.
 ==	==
 *-	*-
 !!!EED1: Samuel Boone
-!!!EEV1: 2026/05/13
+!!!EEV1: 2026/06/15
