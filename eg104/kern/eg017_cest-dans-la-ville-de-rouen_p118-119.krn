@@ -76,7 +76,7 @@
 8g	-tour,	.	.	.
 8g	tour-	.	.	.
 4g	-lour,	.	.	.
-*	*rline:R3	*	*	*
+*	*rline:R2r	*	*	*
 !!LO:PB:g=original
 =13	=13	=13	=13	=13
 8g	Dan-	.	.	.
@@ -91,10 +91,8 @@
 8r	.	.	.	.
 =15	=15	=15	=15	=15
 8r	.	.	.	.
-=:|!	=:|!	=:|!	=:|!	=:|!
-8r	.	.	.	.
-4r	.	.	.	.
-==	==	==	==	==
+==:|!	==:|!	==:|!	==:|!	==:|!
 *-	*-	*-	*-	*-
+!!!RNB: Final empty partial measure removed as per policy
 !!!EED1: Samuel Boone
-!!!EEV1: 2026/05/20
+!!!EEV1: 2026/06/15
