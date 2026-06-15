@@ -86,7 +86,7 @@
 *	*pline:4h2
 8b-	ca-
 8a	-ril-
-4a	-lon-
+4g	-lon-
 8a	-ne
 8g	plus
 =8	=8
