@@ -29,7 +29,7 @@
 *	*pline:1h2	*pline:5h2	*pline:9h2	*pline:13h2	*pline:17h2	*pline:21h2	*pline:25h2	*pline:29h2	*pline:33h2	*pline:37h2
 =4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
 2b/	Ah!	I-	Mot	Jus-	Qui	Beaux	Que	Ai-	Vous	Sur
-4a	je	-ci	très-	-qu'à	cher-	jours	ta	-mez-	fe-	le
+4a	je	-ci	très--	-qu'à	cher-	jours	ta	-mez--	fe-	le
 !!LO:PB:g=original
 =5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5
 (4cc	me	du	a-	vos	-chez	et	chè-	vous	-rez	ma-
@@ -42,8 +42,8 @@
 4r	.	.	.	.	.	.	.	.	.	.
 *	*pline:2h1	*pline:6h1	*pline:10h1	*pline:14h1	*pline:18h1	*pline:22h1	*pline:26h1	*pline:30h1	*pline:34h1	*pline:38h1
 =8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8
-2g	Puis-	Ni	Mais	Je	Veil-	Vous	Que	Vous	De	Dai-
-4a	-que	de	il	puis	-lez	d'vez	Dieu	se-	Dieu	-gnez
+2g	Puis-	Ni	Mais	Je	Vei-	Vous	Que	Vous	De	Dai-
+4a	-que	de	il	puis	-llez	d'vez	Dieu	se-	Dieu	-gnez
 =9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9
 (4a	vous	ce	est	bien	sa-	ré-	t'a	-rez	sup-	me
 4g)	.	.	.	.	.	.	.	.	.	.
@@ -55,7 +55,7 @@
 *	*pline:2h2	*pline:6h2	*pline:10h2	*pline:14h2	*pline:18h2	*pline:22h2	*pline:26h2	*pline:30h2	*pline:34h2	*pline:38h2
 =11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11
 2b/	Tous	Mais	Sou-	De	So-	Sou-	Pour	De	La	De
-4a	i-	du	-vent	tous	-yez-	-vent	fi-	re-	bon-	ce
+4a	i-	du	-vent	tous	-yez--	-vent	fi-	re-	bon-	ce
 =12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12
 (4cc	-ci	ma-	re-	ceux	leur	ces	-dèl'	-voir	-té	doux
 4b)	.	.	.	.	.	.	.	.	.	.
@@ -69,9 +69,9 @@
 !!LO:PB:g=original
 =15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15
 2a	Vous	Je	Et	Qui	Car	Dieu	Tu	Ré-	Qu'il	Que
-4b/	chan-	ne	jus-	se	vous	veuil-	dois	-gner	vous	je
+4b/	chan-	ne	jus-	se	vous	veui-	dois	-gner	vous	je
 =16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16
-(4cc	-ter	par-	-que	pren-	pour-	-le	tou-	dans	bé-	boiv[e]
+(4cc	-ter	par-	-que	pren-	pour-	-lle	tou-	dans	bé-	boiv[e]
 4b)	.	.	.	.	.	.	.	.	.	.
 4a	u-	-le	dans	-nent	-riez	que	-jours	vo-	-nis-	à
 =17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17
@@ -99,4 +99,4 @@
 ==	==	==	==	==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
 !!!EED1: Samuel Boone
-!!!EEV1: 2026/05/19
+!!!EEV1: 2026/06/15
