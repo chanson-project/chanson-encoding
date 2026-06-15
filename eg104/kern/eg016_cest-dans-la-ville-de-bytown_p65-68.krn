@@ -55,8 +55,8 @@
 !!LO:PB:g=original
 =10	=10
 *M3/4	*
-8.dd	fil-
-16b-	-les,
+8.dd	fi-
+16b-	-lles,
 *	*pline:4
 [4dd^	Qui
 8.dd]	.
@@ -73,7 +73,7 @@
 16g	Mais
 6gL	y en
 6fJ	.
-6g	a-
+6g	a--
 !!LO:PB:g=original
 =13	=13
 2a	t-an'
@@ -102,7 +102,7 @@
 16g	Mais
 6gL	y en
 6fJ	.
-6g	a-
+6g	a--
 =19	=19
 2a	t-an'
 =20	=20
@@ -129,4 +129,4 @@
 ==	==
 *-	*-
 !!!EED1: Samuel Boone
-!!!EEV1: 2026/05/20
+!!!EEV1: 2026/06/15
