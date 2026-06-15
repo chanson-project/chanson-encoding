@@ -19,7 +19,7 @@
 4cc	n'est	par
 8ee-	point	i-
 =2	=2	=2
-4dd	du	-ci-
+4dd	du	-ci--
 8cc	rai-	t-et
 =3	=3	=3
 4cc	-sin	moi
@@ -41,7 +41,7 @@
 =8	=8	=8
 4cc	-se!	-rettes?
 8r	.	.
-*	*pline:1h2r	*pline:2h2r
+*	*pline:1h2v	*pline:2h2v
 ==9	==9	==9
 8g	C'est	Ce n'est
 8g	le	point
@@ -77,4 +77,4 @@
 !!!RWG: Second verse has more syllables than first, unsure if encoded properly & needs a second look
 !!!RNB: Final empty partial measure omitted as per policy
 !!!EED1: Samuel Boone
-!!!EEV1: 2026/05/20
+!!!EEV1: 2026/06/15
