@@ -22,12 +22,16 @@
 4a	Jac-
 4f}	-ques,
 =3	=3
-*	*pline:1r
+*	*bis
 {4f	Frè-
 4g	-re
 =4	=4
 4a	Jac-
 4f}	-ques,
+*	*Xbis
+*	*rp:a
+*	*rf:ak,ə
+*	*rs:x
 =5||	=5||
 !!LO:TX:a:B:t=B
 *	*pline:2
@@ -37,11 +41,15 @@
 =6	=6
 2cc}	vous?
 =7	=7
-*	*pline:2r
+*	*bis
 {4a	Dor-
 4b-	-mez--
 =8	=8
 2cc}	vous?
+*	*Xbis
+*	*rp:u
+*	*rf:vu
+*	*rs:x
 =9||	=9||
 *	*pline:3
 !!LO:TX:a:B:t=C
@@ -54,7 +62,7 @@
 4f}	-nes,
 !!LO:PB:g=original
 =11	=11
-*	*pline:3r
+*	*bis
 {8cc	Son-
 8dd	-nez
 8cc	les
@@ -62,6 +70,10 @@
 =12	=12
 4a	-ti-
 4f}	-nes:
+*	*Xbis
+*	*rp:i
+*	*rf:tin,ə
+*	*rs:x
 =13||	=13||
 *	*pline:4
 !!LO:TX:a:B:t=D
@@ -70,12 +82,16 @@
 =14	=14
 2f}	don!
 =15	=15
-*	*pline:4r
+*	*bis
 {4f	Ding,
 4c	din,
 =16	=16
 2f}	don!
+*	*Xbis
+*	*rp:ɔ̃
+*	*rf:dɔ̃
+*	*rs:x
 =	=
 *-	*-
 !!!EED1: Ève Poudrier
-!!!EEV1: 2026/06/04
+!!!EEV1: 2026/06/15
