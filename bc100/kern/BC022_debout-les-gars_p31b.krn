@@ -76,12 +76,12 @@
 *	*rline:R1
 *	*refrain
 *	*italic
+*	*bis
 !!LO:TX:a:B:t=B
 {8cc	En
 =9	=9
 4cc	rou-
 8a	-te!
-*	*bis
 8ff	En
 =10	=10
 4ff	rou-
@@ -108,12 +108,12 @@
 *	*rline:R1r
 *	*refrain
 *	*italic
+*	*bis
 {8cc	En
 !!LO:PB:g=original
 =13	=13
 4cc	rou-
 8a	-te!
-*	*bis
 8ff	En
 =14	=14
 4ff	rou-
@@ -149,7 +149,6 @@
 !!LO:PB:g=original
 =18	=18
 8a	pas,
-*	*Xbis
 8r	.
 8r	.
 *	*refrain
@@ -159,6 +158,7 @@
 2cc	rou-
 =20	=20
 4cc	-te,
+*	*Xbis
 *	*Xitalic
 *	*Xrefrain
 *	*rp:u
@@ -166,16 +166,15 @@
 *	*rs:a
 8r}	.
 *	*pline:5r
+*	*bis
 {8cc	Au
 =21	=21
 8a	pas,
 8r	.
 8r	.
-*	*bis
 8cc	au
 =22	=22
 8a	pas,
-*	*Xbis
 8r	.
 8r	.
 *	*refrain
@@ -187,6 +186,7 @@
 *^	*
 *	*cue	*
 4cc\	4ff/	-te!
+*	*	*Xbis
 *	*	*Xitalic
 *	*	*Xrefrain
 *	*	*rp:u
@@ -197,5 +197,5 @@
 4r}	.
 ==	==
 *-	*-
-!!!EED: Ève Poudrier
-!!!EEV: 2026/06/04
+!!!EED1: Ève Poudrier
+!!!EEV1: 2026/06/15
