@@ -16,18 +16,18 @@
 *	*pline:1h1	*pline:2h1r	*pline:3h1r	*pline:4h1r	*pline:5h1r	*pline:6h1r	*pline:7h1r	*pline:8h1r
 =1	=1	=1	=1	=1	=1	=1	=1	=1
 8.g	Ah!	Ce	Quand	Oh!	J'en-	Quand	Bell'	Je
-16f	qui	se-	nous	qu'a'-	-tends	ils	qu'a-	ris
-8g	me	-ra	fûm's	vous	ve-	eur'nt	-vez-	de
+16f	qui	se-	nous	qu'a'--	-tends	ils	qu'a-	ris
+8g	me	-ra	fûm's	vous	ve-	eur'nt	-vez--	de
 4a	pas-	mon-	au	donc,	-nir	tra-	vous,	toi,
 8a	-se-	-sieur	mi-	mon	des	-ver-	bell'	je
 =2	=2	=2	=2	=2	=2	=2	=2	=2
 4b-/	-ra	que	-lieu	bon	loups,	-sé	qu'a-	ris
-8b-/	le	voi-	du	mon-	là-	le	-vez-	de
+8b-/	le	voi-	du	mon-	là--	le	-vez--	de
 4.a	bois,	-là:	bois,	-sieur,	bas,	bois	vous,	moi,
 *	*pline:1h2	*pline:2h2r	*pline:3h2r	*pline:4h2r	*pline:5h2r	*pline:6h2r	*pline:7h2r	*pline:8h2r
 =3	=3	=3	=3	=3	=3	=3	=3	=3
-8.a	Moi	N'a-	Il	Qu'a'-	Qui	La	Qu'a-	De
-16f	qui	t-il	se	vous	nous	bell'	-vez-	ta
+8.a	Moi	N'a--	Il	Qu'a'--	Qui	La	Qu'a-	De
+16f	qui	t-il	se	vous	nous	bell'	-vez--	ta
 8g	suis	pas	mit	à	suiv'	se	vous	pol-
 16%3a	si	bon-	à	tant	à	mit	à	-tron-
 16%3a	pe-	-ne	cou-	cou-	la	à	tant	-ner-
@@ -39,17 +39,17 @@
 *	*pline:2h1	*pline:3h1	*pline:4h1	*pline:5h1	*pline:6h1	*pline:7h1	*pline:8h1	*pline:9h1
 =5	=5	=5	=5	=5	=5	=5	=5	=5
 8g	Ce	Quand	Oh!	J'en-	Quand	Bell'	Je	D'a-
-8a	se-	nous	qu'a'-	-tends	ils	qu'a-	ris	-voir
-8b-/	-ra	fûm's-	vous	ve-	eur'nt	-vez-	de	pris
+8a	se-	nous	qu'a'--	-tends	ils	qu'a-	ris	-voir
+8b-/	-ra	fûm's	vous	ve-	eur'nt	-vez--	de	pris
 4a	mon-	au	donc,	-nir	tra-	vous,	toi,	les
 8a	-sieur	mi-	mon	des	-ver-	bell'	je	per-
 =6	=6	=6	=6	=6	=6	=6	=6	=6
 8gL	que	-lieu	bon	loups,	-sé	qu'a-	ris	-drix
 8fJ	.	.	.	.	.	.	.	.
-8e	voi-	du	mon-	là-	le	-vez-	de	du
+8e	voi-	du	mon-	là--	le	-vez--	de	du
 4f	-là:	bois?	-sieur,	bas,	bois	vous,	moi,	bois
 *	*pline:2h2	*pline:3h2	*pline:4h2	*pline:5h2	*pline:6h2	*pline:7h2	*pline:8h2	*pline:9h2
-8g	N'a-	Il	Qu'a'-	Qui	La	Qu'a-	De	Pour
+8g	N'a--	Il	Qu'a'--	Qui	La	Qu'a-	De	Pour
 =7	=7	=7	=7	=7	=7	=7	=7	=7
 4a	t-il	se	vous	nous	bell'	-vez-	la	des
 8f	pas	mit	à	suiv'	se	vous	pol-	loups
@@ -70,7 +70,7 @@
 *	*italic	*	*	*	*	*	*	*
 *	*rline:R1	*	*	*	*	*	*	*
 =9	=9	=9	=9	=9	=9	=9	=9	=9
-4d	Somm's-	.	.	.	.	.	.	.
+4d	Somm's--	.	.	.	.	.	.	.
 8f	nous	.	.	.	.	.	.	.
 4.a	au	.	.	.	.	.	.	.
 =10	=10	=10	=10	=10	=10	=10	=10	=10
@@ -81,7 +81,7 @@
 *	*rline:R2	*	*	*	*	*	*	*
 !!LO:PB:g=original
 =11	=11	=11	=11	=11	=11	=11	=11	=11
-4d	Somm's-	.	.	.	.	.	.	.
+4d	Somm's--	.	.	.	.	.	.	.
 8d	nous	.	.	.	.	.	.	.
 16%3f	à	.	.	.	.	.	.	.
 .	.	.	.	.	.	.	.	.
@@ -97,4 +97,4 @@
 ==	==	==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-	*-	*-
 !!!EED1: Samuel Boone
-!!!EEV1: 2026/05/19
+!!!EEV1: 2026/06/15
