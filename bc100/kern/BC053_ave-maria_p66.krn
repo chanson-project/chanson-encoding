@@ -17,7 +17,7 @@
 *met(c)	*	*v:1
 *	*	*rline:1h1
 =1	=1	=1
-{{4b-.	<	A-
+{4b-.	<	A-
 16a	(	-ve
 16b-	[	Ma-
 (4dd..	>	-ri-
@@ -36,12 +36,12 @@ q16ccJ)	.	.
 !!LO:PB:g=original
 =3	=3	=3
 4b-	.	cieux,
-8r}}	.	.
+8r}	.	.
 *	*	*rp:œ
 *	*	*rf:x
 *	*	*rs:x
 *	*	*pline:2
-{{8dd	.	Vers
+{8dd	.	Vers
 8dd.	.	Toi
 (32ccL	.	s'é-
 32b-J)	<	.
@@ -73,9 +73,9 @@ q16ccJ)	.	.
 *	*	*rp:ɑ̃
 *	*	*rf:fɑ̃
 *	*	*rs:x
-8b-]}}	.	.
+8b-]}	.	.
 *	*	*pline:4
-{{16dd	.	Con-
+{16dd	.	Con-
 16cc	.	-fi-
 8.cc	.	-ant,
 16a	<	j'im-
@@ -105,9 +105,9 @@ q16b-J	.	.
 *	*	*rp:ɛ
 *	*	*rf:ɛ
 *	*	*rs:a'
-8r]}}	.	.
+8r]}	.	.
 *	*	*pline:6
-{{8f	.	Mon
+{8f	.	Mon
 !!LO:PB:g=original
 =7	=7	=7
 8cc.	.	cœur
@@ -139,9 +139,9 @@ q16b-J	.	.
 *	*	*rp:u
 *	*	*rf:uʁ
 *	*	*rs:b
-8r}}	.	.
+8r}	.	.
 *	*	*pline:8
-{{8b-	.	Pi-
+{8b-	.	Pi-
 !!LO:PB:g=original
 =9	=9	=9
 8.cc	<	-tié!
@@ -177,10 +177,10 @@ q16b-J	.	.
 *	*	*rf:zy
 *	*	*rs:x
 8cc]	.	.
-8r}}	.	.
+8r}	.	.
 !!LO:PB:g=original
 =11	=11	=11
-*	*	*pline:1h1r
+*	*	*rline:1h1r
 {4.b-	<	A-
 16a	[	-ve
 16b-	.	Ma-
@@ -197,4 +197,4 @@ q16b-J	.	.
 !!!EED1:Jason Lau
 !!!EEV1:2025/07/22
 !!!EED2: Ève Poudrier
-!!!EEV2: 2026/06/05
+!!!EEV2: 2026/06/15
