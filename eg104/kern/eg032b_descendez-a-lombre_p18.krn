@@ -16,7 +16,7 @@
 *>Refrain	*>Refrain
 *	*refrain
 *	*italic
-*	*rline:R1
+*	*rline:R1h1
 =1	=1
 8g	Des-
 8b-/	-cen-
@@ -34,7 +34,7 @@
 =5	=5
 8.g	blon-
 16f	-de,
-*	*rline:R2
+*	*rline:Rh2
 =6	=6
 8g	Des-
 8b-/	-cen-
