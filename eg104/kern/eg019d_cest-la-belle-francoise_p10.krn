@@ -31,8 +31,8 @@
 !!LO:PB:g=original
 =5	=5
 8ee	blanc
-8dd	loup-
-8cc#	-ma-
+8dd	loup--
+8cc#	ma-
 =6	=6
 4b	-rin,
 *	*Xitalic
@@ -48,7 +48,7 @@
 =9	=9
 4ee	-çoi-
 8ddq	.
-8cc#	-se
+8cc#	-se,
 *	*refrain
 *	*italic
 !!LO:PB:g=original
@@ -56,8 +56,8 @@
 4.ee	blanc,
 =11	=11
 8ee	blanc
-8dd	loup-
-8cc#	-ma-
+8dd	loup--
+8cc#	ma-
 =12	=12
 4b	-rin,
 *	*Xitalic
@@ -77,8 +77,8 @@
 !!LO:PB:g=original
 =16	=16
 8f#	blanc
-8g#	loup-
-8a	-ma-
+8g#	loup--
+8a	ma-
 =17	=17
 8b/	-rin,
 8a	ma
@@ -102,8 +102,8 @@
 *	*italic
 =22	=22
 8f#	blanc
-8g#	loup-
-8a	-ma-
+8g#	loup--
+8a	ma-
 =23	=23
 8%3b	-rin
 8%3cc#	chan-
@@ -118,4 +118,4 @@
 !!!EED1: Ève Poudrier
 !!!EEV1: 2026/04/12
 !!!EED2: Samuel Boone
-!!!EEV2: 2026/05/20
+!!!EEV2: 2026/06/15
