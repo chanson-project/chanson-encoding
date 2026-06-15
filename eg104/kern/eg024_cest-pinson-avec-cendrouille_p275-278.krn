@@ -22,8 +22,8 @@
 8b/	-vec
 8a	Cen-
 =2	=2
-8b/	-drouil-
-8b/	-le
+8b/	-droui-
+8b/	-lle
 *	*pline:1h2
 8b/	Qui
 8b/	vou-
@@ -74,7 +74,7 @@
 16cc/	li-
 =10	=10
 8b/	-ret-
-8g	-re,
+8g	-te,
 *	*rline:R2h1
 8a	Des
 8a	trom-
@@ -82,7 +82,7 @@
 8b/	-pett's,
 *	*rline:R2h2
 8g	Il
-8.g	yen
+8.g	y en
 16f	au-
 !!LO:PB:g=original
 =12	=12
@@ -94,4 +94,4 @@
 !!!RNB: Rhyme scheme hemistiche labelling in second half of refrain might need another look (overall refrain structure seems like is ABBA, don't know if that needs to be represented in rline labelling)
 !!!RNB: Final partial measure omitted as per rest policy
 !!!EED1: Samuel Boone
-!!!EEV1: 2026/05/14
+!!!EEV1: 2026/06/15
