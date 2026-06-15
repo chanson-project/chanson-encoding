@@ -17,11 +17,11 @@
 8c	M'en	Je	Je	Ah!	Je	M'en	Ah!	"Ah!
 =1	=1	=1	=1	=1	=1	=1	=1	=1
 8f	al-	me	me	j'ai	m'en	al-	sa-	qu'il
-8g	-lant	suis	suis	pris	fis	-lant	-vez-	est
+8g	-lant	suis	suis	pris	fis	-lant	-vez--	est
 8a	pro-	en-	ré-	mon	un	en	vous,	doux
-8b-/	-me-	-dor-	-veil-	cou-	flû-	chan-	mes-	d'ai-
+8b-/	-me-	-dor-	-vei-	cou-	flû-	chan-	mes-	d'ai-
 =2	=2	=2	=2	=2	=2	=2	=2	=2
-16cc	-ner	-mi	-lé	-teau	-tiau	-tant	-sieurs,	-mer
+16cc	-ner	-mi	-llé	-teau	-tiau	-tant	-sieurs,	-mer
 16dd	(re-	(re-	(re-	(re-	(re-	(re-	(re-	(re-
 16cc	-lé	-li	-lé	-lo	-lo	-lan	-leu	-lé
 16b-	re-	re-	re-	re-	re-	re-	re-	re-
@@ -55,15 +55,15 @@
 8f	Je	Je	Ah!	Je	M'en	Ah!	"Ah!	Quand
 =7	=7	=7	=7	=7	=7	=7	=7	=7
 8g	me	me	j'ai	m'en	al-	sa-	qu'il	on
-8b-/	suis	suis	pris	fis	-lant	-vez-	est	l'a
+8b-/	suis	suis	pris	fis	-lant	-vez--	est	l'a
 8a	en-	ré-	mon	un	en	vous,	doux	va'
-8cc	-dor-	-veil-	cou-	flû-	chan-	mes-	d'ai-	le
+8cc	-dor-	-vei-	cou-	flû-	chan-	mes-	d'ai-	le
 =8	=8	=8	=8	=8	=8	=8	=8	=8
-16f	-mi'	-le	-teau	-tiau	-tant	-sieurs,	-mer	soi-
+16f	-mi'	-llé	-teau	-tiau	-tant	-sieurs,	-mer	soi-
 16g	(re-	(re-	(re-	(re-	(re-	(re-	(re-	-(re-
 16f	-li	-lé	-lo	-lo	-lan	-leu	-lé	-la
 16e	re-	re-	re-	re-	re-	re-	re-	re-
-8f	-li)	-lé),	-lo),	-lo),	-lan)	-leu)	-lé)	-la)r
+8f	-li)	-lé),	-lo),	-lo),	-lan)	-leu)	-lé)	-la)-r
 *	*pline:2h2	*pline:3h2	*pline:4h2	*pline:5h2	*pline:6h2	*pline:7h2	*pline:8h2	*pline:9h2
 8a	À	Le	La	Un	Le	Ce	La	On
 !!LO:PB:g=original
@@ -79,7 +79,7 @@
 16g	(re-	(re-	(re-	(re-	(re-	-(re-	(re-	(re-
 16f	-lou	-lait	-lé	-let	-lan	-lu	-lon	-le
 16e	re-	re-	re-	re-	re-	re-	re-	re-
-8f	-lou)-	-lait)	-lé)	-let)	-lan)	-lu)-	-lon)	-le)
+8f	-lou)--	-lait)	-lé)	-let)	-lan)	-lu)-	-lon)	-le)
 8g	z-un	fleu-	cou-	aus-	che-	-t[e] a	voi-	ma-
 !!LO:PB:g=original
 =11	=11	=11	=11	=11	=11	=11	=11	=11
@@ -120,9 +120,8 @@
 *	*Xrefrain	*	*	*	*	*	*	*
 8f]	.	.	.	.	.	.	.	.
 8r	.	.	.	.	.	.	.	.
-=16	=16	=16	=16	=16	=16	=16	=16	=16
-1r	.	.	.	.	.	.	.	.
 ==	==	==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!RNB: Final empty measure removed as per policy
 !!!EED1: Samuel Boone
-!!!EEV1: 2026/05/19
+!!!EEV1: 2026/06/15
