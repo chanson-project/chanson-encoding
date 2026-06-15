@@ -86,7 +86,7 @@
 *	*pline:4h2
 8b-	ca-
 8a	-ril-
-4a	-on-
+4a	-lon-
 8a	-ne
 8g	plus
 =8	=8
@@ -122,4 +122,4 @@
 !!!EED1: Isaac Howie
 !!!EEV1: 2025/05/20
 !!!EED2: Ève Poudrier
-!!!EEV2: 2026/06/04
+!!!EEV2: 2026/06/15
