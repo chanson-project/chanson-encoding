@@ -72,6 +72,7 @@
 8r}	.
 =||	=||
 *	*pline:3
+*	*bis
 !!LO:TX:a:B:t=C
 {8cc	Cou-
 !!LO:PB:g=original
@@ -79,7 +80,6 @@
 8cc	-cou,
 8r	.
 8r	.
-*	*pline:bisr
 8cc	cou-
 =10	=10
 4f	-cou!
@@ -93,10 +93,10 @@
 8cc	-cou,
 8r	.
 8r	.
-*	*pline:bisr
 8cc	Cou-
 =12	=12
 4ff	-cou!
+*	*Xbis
 *	*rp:u
 *	*rf:u
 *	*rs:b
@@ -104,4 +104,4 @@
 ==	==
 *-	*-
 !!!EED1: Ève Poudrier
-!!!EEV1: 2026/06/04
+!!!EEV1: 2026/06/15
