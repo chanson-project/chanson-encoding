@@ -44,7 +44,7 @@
 *	*rline:R1
 16dd	Lui
 =5	=5
-8dd	y a-
+8dd	y a--
 8b	t-un
 4cc	pri-
 =6	=6
@@ -60,9 +60,9 @@
 =8	=8
 8b	-ne,
 16r	.
-*	*rline:R2
+*	*rline:R1v
 16dd	Lui
-8dd	y a-
+8dd	y a--
 8b	t-un
 =9	=9
 4cc	pri-
@@ -78,8 +78,7 @@
 *	*Xitalic
 *	*Xrefrain
 ==	==
-8r	.
-==	==
 *-	*-
+!!!RNB: Final empty partial measure removed as per policy
 !!!EED1: Samuel Boone
-!!!EEV1: 2026/05/20
+!!!EEV1: 2026/06/15
