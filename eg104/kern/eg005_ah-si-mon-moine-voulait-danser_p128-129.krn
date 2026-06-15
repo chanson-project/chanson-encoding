@@ -43,7 +43,7 @@
 =8	=8	=8	=8	=8	=8	=8
 8g	-ser!	-ser!	-ser!	-ser!	-ser!	-té!
 16r	.	.	.	.	.	.
-*	*pline:2	*pline:3	*pline:4	*pline:5	*pline:6	*pline:8
+*	*pline:2	*pline:2v	*pline:2v	*pline:2v	*pline:2v	*pline:2v
 16d	Un	Un	Un	Un	Un	Bien
 =9	=9	=9	=9	=9	=9	=9
 8g	ca-	cein-	cha-	froc	beau	d'au-
@@ -60,7 +60,7 @@
 *	*	*	*	*	*	*
 8.b/	-rais,|-ré,	-rais!|-ré!	-rais.|-ré.	-rais.|-ré.	-rais.|-ré.	-rais.|-ré.
 *	*	*	*	*	*	*
-*	*pline:2r	*pline:3r	*pline:4r	*pline:5r	*pline:6r	*pline:8r
+*	*pline:2r	*pline:2vr	*pline:2vr	*pline:2vr	*pline:2vr	*pline:2vr
 16a	Un	Un	Un	Un	Un	Bien
 =13	=13	=13	=13	=13	=13	=13
 8g	ca-	cein-	cha-	froc	beau	d'au-
@@ -134,13 +134,12 @@
 8b/	mar-	.	.	.	.	.
 =33	=33	=33	=33	=33	=33	=33
 8g	-cher.	.	.	.	.	.
-==	==	==	==	==	==	==
-8r	.	.	.	.	.	.
 *	*Xitalic	*	*	*	*	*
 *	*Xrefrain	*	*	*	*	*
 ==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-
-!!!RWG: Some notes unclear in original, but assumed to be what they are because of similar passages
-!!!RWG: Alternate lyric "donneré" should exist under "donnerais" in every verse but could not figure out a way to make that work
+!!!RWG: Varied plines are repeated, but not sure how to label that so that particular repetition is conveyed (2vr each time for now)
+!!!RNB: Final empty partial measure removed as per policy
+!!!RNB: Some notes unclear in original, but assumed to be what they are because of similar passages
 !!!EED1: Samuel Boone
-!!!EEV1: 2026/05/19
+!!!EEV1: 2026/06/15
