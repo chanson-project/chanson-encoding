@@ -19,9 +19,9 @@
 *	*pline:1h1	*pline:2h1r	*pline:3h1r	*pline:4h1r	*pline:5h1r	*pline:6h1r	*pline:7h1r	*pline:8h1r	*pline:9h1r
 4f	À	J'ai	Sous	Sur	Chan-	Tu	J'ai	Pour	Je
 8f	la	trou-	les	la	-te,	as	per-	un	vou-
-8a	clai-	-vé	feuil-	plus	ros-	le	-du	bou-	-drais
+8a	clai-	-vé	feui-	plus	ros-	le	-du	bou-	-drais
 =2	=2	=2	=2	=2	=2	=2	=2	=2	=2
-8a	-re	l'eau	-les	hau-	-si-	cœur	ma	-quet	que
+8a	-re	l'eau	-lles	hau-	-si-	cœur	ma	-quet	que
 8g	fon-	si	d'un	-te	-gnol,	à	maî-	de	la
 8a	-tai-	bel-	chê-	bran-	chan-	ri-	-tres-	ro-	ro-
 8g	-ne	-le	-ne	-che	-te,	-re,	-se	-ses	-se
@@ -29,7 +29,7 @@
 *	*pline:1h2	*pline:2h2r	*pline:3h2r	*pline:4h2r	*pline:5h2r	*pline:6h2r	*pline:7h2r	*pline:8h2r	*pline:9h2r
 4f	M'en	Que	Je	Le	Toi	Moi	Sans	Que	Fût
 8f	al-	je	me	ros-	qui	je	l'a-	je	en-
-8a	-lant	m'y	suis	-si-	as	l'ai-	-voir	lui	-cor[e]
+8a	-lant	m'y	suis	-si-	as	l'ai--	-voir	lui	-cor[e]
 =4	=4	=4	=4	=4	=4	=4	=4	=4	=4
 8a	pro-	suis	fait	-gnol	le	t-à	mé-	re-	au
 8g	-me-	bai-	sé-	chan-	cœur	pleu-	-ri-	-fu-	ro-
@@ -40,9 +40,9 @@
 *	*pline:2h1	*pline:3h1	*pline:4h1	*pline:5h1	*pline:6h1	*pline:7h1	*pline:8h1	*pline:9h1	*pline:10h1
 4a	J'ai	Sous	Sur	Chan-	Tu	J'ai	Pour	Je	Et
 8a	trou-	les	la	-te,	as	per-	un	vou-	moi
-8g	-vé	feuil-	plus	ros-	le	-du	bou-	-drais	et
+8g	-vé	feui-	plus	ros-	le	-du	bou-	-drais	et
 =6	=6	=6	=6	=6	=6	=6	=6	=6	=6
-8f	l'eau	-les	hau-	-si-	cœur	ma	-quet	que	ma
+8f	l'eau	-lles	hau-	-si-	cœur	ma	-quet	que	ma
 8a	si	d'un	-te	-gnol,	à	maî-	de	la	maî-
 8cc	bel-	chê-	bran-	chan-	ri-	-tres-	ro-	ro-	-tres-
 8a	-le	-ne	-che	-te,	-re,	-se	-ses	-se	-se
@@ -50,7 +50,7 @@
 *	*pline:2h2	*pline:3h2	*pline:4h2	*pline:5h2	*pline:6h2	*pline:7h2	*pline:8h2	*pline:9h2	*pline:10h2
 4cc	Que	Je	Le	Toi	Moi	Sans	Que	Fût	Dans
 8cc	je	me	ros-	qui	je	l'a-	je	en-	les
-8a	m'y	suis	-si-	as	l'ai-	-voir	lui	-cor[e]	mêm's
+8a	m'y	suis	-si-	as	l'ai--	-voir	lui	-cor[e]	mêm's
 =8	=8	=8	=8	=8	=8	=8	=8	=8	=8
 8f	suis	fait	-gnol	le	t-à	mé-	re-	au	a-
 8a	bai-	sé-	chan-	cœur	pleu-	-ri-	-fu-	ro-	-mi-
@@ -91,4 +91,4 @@
 !!!EED2: Isaac Howie
 !!!EEV2: 2026/03/10
 !!!EED3: Sam Boone
-!!!EEV3: 2026/05/19
+!!!EEV3: 2026/06/15
