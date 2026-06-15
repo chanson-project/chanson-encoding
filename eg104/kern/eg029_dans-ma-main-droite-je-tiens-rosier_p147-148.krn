@@ -13,7 +13,7 @@
 *G:	*	*
 *M2/8	*	*
 *	*v:1	*v:2
-*	*pline:1	*pline:4
+*	*pline:1	*pline:3
 8b/	Dans	En-
 =1	=1	=1
 8g	ma	-trez
@@ -28,7 +28,7 @@
 8b	ro-	ro-
 =5	=5	=5
 8a	-sier,	-sier!
-*	*pline:1r	*pline:4r
+*	*pline:1r	*pline:3r
 8b/	Dans	En-
 !!LO:PB:g=original
 =6	=6	=6
@@ -46,7 +46,7 @@
 4a	-sier,	-sier!
 =11	=11	=11
 8r	.	.
-*	*pline:2	*pline:5
+*	*pline:2	*pline:4
 8b/	Qui	Et
 =12	=12	=12
 *	*	*^
@@ -63,7 +63,7 @@
 8e	lon	lon
 =16	=16	=16
 8.g	la,	la,
-*	*pline:3	*pline:6
+*	*pline:2v	*pline:4v
 16g	Qui	Et
 =17	=17	=17
 *	*	*^
@@ -85,6 +85,6 @@
 ==	==	==
 *-	*-	*-
 !!!EED1: Samuel Boone
-!!!EEV1: 2026/03/09
+!!!EEV1: 2026/06/15
 !!!EED2: Isaac Howie
 !!!EEV2: 2026/03/10
