@@ -29,7 +29,7 @@
 8g	-le
 8a	rou-
 4.g	-lant,
-*	*rline:R1r
+*	*rline:R1v
 =3	=3
 4ee	En
 8dd	rou-
@@ -53,14 +53,14 @@
 4cc	-rièr'
 8dd	chez
 4cc	nous
-8g	y a-
+8g	y a--
 =6	=6
 4a	t-un
 8a	é-
 4.g	-tang,
 *	*refrain
 *	*italic
-*	*rline:R1r
+*	*rline:R1v
 !!LO:PB:g=original
 =7	=7
 4cc	En
@@ -107,4 +107,4 @@
 *-	*-
 !!!RNB: Segno changed to repeat signs
 !!!EED1: Samuel Boone
-!!!EEV1: 2026/05/29
+!!!EEV1: 2026/06/15
