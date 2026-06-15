@@ -26,7 +26,7 @@
 *	*pline:1h2
 8b-	Lui
 =4	=4
-4b-	y a-
+4b-	y a--
 8f	t-un
 !!LO:PB:g=original
 =5	=5
@@ -64,7 +64,7 @@
 *	*rline:R1
 =14	=14
 4d	Au-
-8e-	-rai-
+8e-	-rai--
 =15	=15
 8fL	je
 8gJ	.
@@ -79,10 +79,10 @@
 =18	=18
 4d	non.
 8r	.
-*	*rline:R2
+*	*rline:R1v
 =19	=19
 4B-	Au-
-8c	-rai-
+8c	-rai--
 =20	=20
 4d	je
 8e-	Na-
@@ -105,4 +105,4 @@
 *-	*-
 !!!RNB: Final partial measure with solitary eighth rest omitted
 !!!EED1: Samuel Boone
-!!!EEV1: 2026/05/19
+!!!EEV1: 2026/06/15
