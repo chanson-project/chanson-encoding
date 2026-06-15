@@ -16,18 +16,22 @@
 *	*v:1	*v:2	*v:3	*v:4	*v:5
 *	*pline:1	*pline:4	*pline:7	*pline:10	*pline:13
 =1	=1	=1	=1	=1	=1
-4cc	—D'où	—Qu'as-	—Rien	—Rien	—Rien
-4ee	viens-	tu	de	de	de
+4cc	—D'où	—Qu'as--	—Rien	—Rien	—Rien
+4ee	viens--	tu	de	de	de
 =2	=2	=2	=2	=2	=2
 8dd	tu,	vu,	plus,	plus,	plus,
+*	*refrain	*refrain	*refrain	*refrain	*refrain
+*	*italic	*italic	*italic	*italic	*italic
 8b	ber-	ber-	ber-	ber-	ber-
 8cc	-gè-	-gè-	-gè-	-gè-	-gè-
 8g	-re,	-re,	-re,	-re,	-re,
+*	*Xitalic	*Xitalic	*Xitalic	*Xitalic	*Xitalic
+*	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain
 *	*pline:1r	*pline:4r	*pline:7r	*pline:10r	*pline:13r
 =3	=3	=3	=3	=3	=3
 *	*bis	*bis	*bis	*bis	*bis
-4cc	D'où	Qu'as-	Rien	Rien	Rien
-4ee	viens-	tu	de	de	de
+4cc	D'où	Qu'as--	Rien	Rien	Rien
+4ee	viens--	tu	de	de	de
 =4	=4	=4	=4	=4	=4
 4dd	tu?	vu?	plus?	plus?	plus?
 *	*Xbis	*Xbis	*Xbis	*Xbis	*Xbis
@@ -35,7 +39,7 @@
 !!LO:PB:g=original
 =5	=5	=5	=5	=5	=5
 *	*pline:2h1	*pline:5h1	*pline:8h1	*pline:11h1	*pline:14h1
-8g	—Je	—J'ai	—Saint'	—Ya	—Ya
+8g	—Je	—J'ai	—Saint'	—Y a	—Y a
 8g	viens	vu	Ma-	le	trois
 8a	de	dans	-rie,	bœuf	pe-
 8b	l'é-	le	sa	et	-tit
@@ -55,8 +59,8 @@
 *	*pline:3h1	*pline:6h1	*pline:9h1	*pline:12h1	*pline:15h1
 8g	J'ai	Sur	Saint	A-	Chan-
 8g	vu	la	Jo-	-vec	-tant
-8a	un	pail-	-seph,	leur	les
-8b	mi-	-le	son	ha-	lou-
+8a	un	pai-	-seph,	leur	les
+8b	mi-	-lle	son	ha-	lou-
 =10	=10	=10	=10	=10	=10
 4cc	-ra-	fraî-	pè-	-lei-	-an-
 4g	-cle	-che	-re,	-ne	-ges
@@ -74,4 +78,4 @@
 !!!EED1: Isaac Howie
 !!!EEV1: 2026/01/18
 !!!EED2: Samuel Boone
-!!!EEV2: 2026/05/29
+!!!EEV2: 2026/06/15
