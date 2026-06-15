@@ -26,7 +26,7 @@
 *	*pline:1h2
 =3	=3
 8ee-	Que
-8dd	sais-
+8dd	sais--
 8cc	tu
 8dd	donc
 !!LO:PB:g=original
@@ -37,7 +37,7 @@
 8r	.
 *	*pline:2h1
 =5	=5
-8g	Sais-
+8g	Sais--
 8a	tu
 8b-	bien
 8cc	jou-
@@ -108,4 +108,4 @@
 ==	==
 *-	*-
 !!!EED1: Samuel Boone
-!!!EEV1: 2026/05/19
+!!!EEV1: 2026/06/15
