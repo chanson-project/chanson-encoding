@@ -19,7 +19,7 @@
 8.g	-er,	-le	le	ap-	que	-sieur,	-gèr[e]
 16a	sur	chan-	fils	-pe-	l'on	où	ou
 8b	le	-tait	du	-la	bri-	vou-	non
-8b	pont	d'un	roi	ses	-de	-lez-	je
+8b	pont	d'un	roi	ses	-de	-lez--	je
 =2	=2	=2	=2	=2	=2	=2	=2
 8a	d'A-	ton	l'en-	ser-	mon	vous	veux
 8dd	-vi-	si	-ten-	-vi-	che-	al-	la
@@ -31,7 +31,7 @@
 8.g	-er,	-le	le	ap-	que	-sieur,	-gèr[e]
 16a	sur	chan-	fils	-pe-	l'on	où	ou
 8b	le	-tait	du	-la	bri-	vou-	non
-8b	pont	d'un	roi	ses	-de	-lez-	je
+8b	pont	d'un	roi	ses	-de	-lez--	je
 !!LO:PB:g=original
 =4	=4	=4	=4	=4	=4	=4	=4
 8a	d'A-	ton	l'en-	ser-	mon	vous	veux
@@ -52,9 +52,9 @@
 8g	-le,	-le,	-re,	-res,	-le,	-re,	-ve,
 *	*refrain	*refrain	*refrain	*refrain	*refrain	*refrain	*refrain
 *	*italic	*italic	*italic	*italic	*italic	*italic	*italic
-8a	Lon	.	.	.	.	.	.
+8a	Lon	Lon	Lon	Lon	Lon	Lon	Lon
 =8	=8	=8	=8	=8	=8	=8	=8
-4b/	la,	.	.	.	.	.	.
+4b/	la,	la,	la,	la,	la,	la,	la,
 *	*Xitalic	*Xitalic	*Xitalic	*Xitalic	*Xitalic	*Xitalic	*Xitalic
 *	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain
 *	*pline:2r	*pline:4r	*pline:6r	*pline:8r	*pline:10r	*pline:12r	*pline:14r
@@ -76,4 +76,4 @@
 !!!RNB: A variant included underneath but on the same page & in 6/8 time (ignored for now)
 !!!RNB: Final redundant empty partial measure omitted, as per policy
 !!!EED1: Samuel Boone
-!!!EEV1: 2026/05/29
+!!!EEV1: 2026/06/15
