@@ -14,13 +14,13 @@
 *C:	*	*	*	*	*	*	*	*	*	*	*	*
 *	*v:1	*v:2	*v:3	*v:4	*v:5	*v:6	*v:7	*v:8	*v:9	*v:10	*v:11	*v:12
 *	*pline:1	*pline:2	*pline:4	*pline:6	*pline:8	*pline:10	*pline:12	*pline:14	*pline:16	*pline:18	*pline:20	*pline:22
-8g	Il	Dis-	Dis-	Dis-	Dis-	Dis-	Dis-	Dis-	Dis-	Dis-	Dis-	Dis-
+8g	Il	Dis--	Dis--	Dis--	Dis--	Dis--	Dis--	Dis--	Dis--	Dis--	Dis--	Dis--
 8g	n'y a	moi	moi	moi	moi	moi	moi	moi	moi	moi	moi	moi
 =1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
 4cc	qu'un	pour-	pour-	pour-	pour-	pour-	pour-	pour-	pour-	pour-	pour-	pour-
 4dd	seul	-quoi	-quoi	-quoi	-quoi	-quoi	-quoi	-quoi	-quoi	-quoi	-quoi	-quoi
 4ee	Dieu,	deux,	trois,	quatre,	cinq,	six,	sept,	huit,	neuf,	dix,	onze,	douze,
-8dd	Il	Dis-	Dis-	Dis-	Dis-	Dis-	Dis-	Dis-	Dis-	Dis-	Dis-	Dis-
+8dd	Il	Dis--	Dis--	Dis--	Dis--	Dis--	Dis--	Dis--	Dis--	Dis--	Dis--	Dis--
 8cc	n'y a	moi	moi	moi	moi	moi	moi	moi	moi	moi	moi	moi
 =2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
 4dd	qu'un	pour-	pour-	pour-	pour-	pour-	pour-	pour-	pour-	pour-	pour-	pour-
@@ -65,4 +65,4 @@
 !!!EED1: Isaac Howie
 !!!EEV1: 2026/01/18
 !!!EED2: Samuel Boone
-!!!EEV2: 2026/05/29
+!!!EEV2: 2026/06/15
