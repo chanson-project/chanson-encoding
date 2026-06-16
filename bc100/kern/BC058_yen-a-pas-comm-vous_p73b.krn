@@ -15,135 +15,148 @@
 !!LO:TX:a:t=Vif
 *M6/8	*
 =||:	=||:
-*>A1	*>A1
-*	*pline:1
-*	*refrain
-*	*italic
+*	*pline:1h1
 4d	Y en
 8d	a
 =1	=1
 4b^	pas
+*	*pline:1h2
 8g	comm'
 8g	vous,
-*	*pline:1r
+*	*rp:u
+*	*rf:vu
+*	*rs:a
+*	*pline:1h1r
+*	*bis
+*	*italic
 8d	y en
 8d	a
 =2	=2
 4b^	pas
+*	*pline:1h2r
 8g	comm'
 8g	vous,
 *	*Xitalic
-*	*Xrefrain
+*	*Xbis
+*	*rp:u
+*	*rf:vu
+*	*rs:a
 *	*pline:2h1
 8g	Si
 8g	y en
 !!LO:PB:g=original
 =3	=3
 8a	a,
-*	*pline:2h2
 8a	y en
 8a	a
 8a	peu,
+*	*pline:2h2
 8g	y en
 8a	a
 =4	=4
 4.b	guè-
 8g	-re,
-*	*pline:1r
-*	*refrain
-*	*italic
+*	*rp:ɛː
+*	*rf:ɛːʁ,ə
+*	*rs:b
+*	*pline:1h1r
+*	*bis
 8d	Y en
 8d	a
 =5	=5
 4b^	pas
+*	*pline:1h2r
 8g	comm'
 8g	vous,
-*	*pline:1r
+*	*rp:u
+*	*rf:vu
+*	*rs:a
+*	*pline:1h1r
+*	*bis
+*	*italic
 8d	Y en
 8d	a
 !!LO:PB:g=original
 =6	=6
 4b^	pas
+*	*pline:1h2r
 8g	comm'
 8g	vous,
 *	*Xitalic
-*	*Xrefrain
+*	*Xbis
+*	*rp:u
+*	*rf:vu
+*	*rs:a
 *	*pline:2h1r
+*	*bis
 8g	Si
 8g	y en
 =7	=7
 8a	a,
+*	*Xbis
 *	*pline:2h3
 8a	n'y
 8a	en
 8a	a
 8b	pas
 8a	beau-
-*>B1	*>B1
 =8	=8
-!!LO:TX:a:t=1.
-4.g	-coup.
-8r	.
-*	*pline:1a3r
-*	*refrain
-*	*italic
+4.gH	-coup.
+*	*rp:u
+*	*rf:ku
+*	*rs:a'
+!!LO:TX:a:i:t=[monter à l'octave pour la reprise]
+!!LO:TX:a:B:t=Fin
+8gg^h	(ou!)
+=||	=||
+*	*pline:1h1r
+*	*bis
 8g	Y en
 8g	a
-*	*Xitalic
-*	*Xrefrain
-*>B2	*>B2
-=||	=||
-!!LO:TX:a:t=2.
-4.gH	-coup.
-8gg^h	(ou!)
-8r	.
-8r	.
-!!LO:PB:g=original
-*>A2	*>A2
-==9	==9
-*	*refrain
-*	*italic
+=9	=9
 [4.cc	pas,
 8cc]	.
-*	*pline:1a3r
+*	*pline:1h1r
+*	*bis
+*	*italic
 8cc	y en
 8cc	a
 =10	=10
 [4.b	pas,
-8b]	.
 *	*Xitalic
-*	*Xrefrain
+8b]	.
 *	*pline:2h1r
 8b	Si
 8b	y en
 =11	=11
 8a	a,
-*	*pline:2h2r
 8a	y en
 8a	a
 8a	peu,
+*	*pline:2h2r
 8g	y en
 8a	a
 =12	=12
 4.b	guè-
 8g	-re,
-*	*pline:1a3r
-*	*refrain
-*	*italic
+*	*rp:ɛː
+*	*rf:ɛːʁ,ə
+*	*rs:b
+*	*pline:1h1r
 8g	Y en
 8g	a
 !!LO:PB:g=original
 =13	=13
 [4.cc	pas,
 8cc]	.
-*	*pline:1a3r
+*	*pline:1h1r
+*	*italic
 8cc	y en
 8cc	a
 =14	=14
 [4.b	pas,
-8b]	.
 *	*Xitalic
-*	*Xrefrain
+8b]	.
 *	*pline:2h2r
 8b	Si
 8b	y en
@@ -158,8 +171,13 @@
 =16	=16
 !!LO:TX:a:i:t=[reprenez du début]
 4.g	-coup.
+*	*Xitalic
+*	*Xbis
+*	*rp:u
+*	*rf:ku
+*	*rs:a'
 8r	.
 =:||	=:||
 *-	*-
 !!!EED1: Ève Poudrier
-!!!EEV1: 2026/06/08
+!!!EEV1: 2026/06/15
