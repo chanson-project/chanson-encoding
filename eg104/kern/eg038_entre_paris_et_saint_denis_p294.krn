@@ -14,7 +14,7 @@
 *F:	*	*	*	*	*	*	*	*	*	*	*
 *	*v:1	*v:2	*v:3	*v:4	*v:5	*v:6	*v:7	*v:8	*v:9	*v:10	*v:11
 *	*pline:1	*pline:3r	*pline:5r	*pline:7r	*pline:9r	*pline:11r	*pline:13r	*pline:15r	*pline:17r	*pline:19r	*pline:21r
-8c	En-	Tou-	Il	Elle	Beau	Les	Que	Est-	Ell'	Ell'	Ell'
+8c	En-	Tou-	Il	Elle	Beau	Les	Que	Est--	Ell'	Ell'	Ell'
 =1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
 4f	-tre	-tes	n'y	voit	mes-	nou-	vous	el-	n'est	fait	fait
 8a	Pa-	les	a	ve-	-sa-	-vell's	fas-	-le	pas	nei-	re-
@@ -22,12 +22,12 @@
 4cc	-ris	da-	que	-nir	-ger,	que	-siez	plus	plus	-ger,	-lui-
 8dd	et	-mes	la	son	beau	j'ai	choix	bel-	bel-	ell'	-re
 =3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
-4cc	Saint-	de	fille	mes-	mes-	ap-	d'un	-le	-le	fait	le
+4cc	Saint--	de	fille	mes-	mes-	ap-	d'un	-le	-le	fait	le
 8b-	De-	la	du	-sa-	-sa-	-por-	a-	que	que	grê-	so-
 =4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
 4a	-nis	ville	roi	-ger,	-ger,	-tées:	-mant,	moi?	toi,	-ler,	-leil
 *	*pline:2	*pline:4r	*pline:6r	*pline:8r	*pline:10r	*pline:12r	*pline:14r	*pline:16r	*pline:18r	*pline:20r	*pline:22r
-8g	Il	Sont	D'un	Son	Quell's	Que	Pour	Est-	Mais	Ell'	À
+8g	Il	Sont	D'un	Son	Quell's	Que	Pour	Est--	Mais	Ell'	À
 =5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5
 4a	s'é-	a-	cô-	mes-	nou-	votr[e]	lui	el-	ell[e]	fait	mi-
 8b-/	-lèv[e]	-len-	-te	-sa-	-vell's	a-	a	-le	est	le	-nuit,
@@ -41,7 +41,7 @@
 4cc	-se;	-sent...	-de.	-tes.	-tes?	-de	-te.	-te?	-te:	-te;	-bre;
 ==	==	==	==	==	==	==	==	==	==	==	==
 *	*pline:3	*pline:5	*pline:7	*pline:9	*pline:11	*pline:13	*pline:15	*pline:17	*pline:19	*pline:21	*pline:23
-8cc	Tou-	Il	Elle	—Beau	—Les	Que	—Est-	—Ell'	Ell'	Ell'	Ell'
+8cc	Tou-	Il	Elle	—Beau	—Les	Que	—Est--	—Ell'	Ell'	Ell'	Ell'
 =9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9
 4cc	-tes	n'y	voit	mes-	nou-	vous	el-	n'est	fait	fait	fait
 8g	les	a	ve-	-sa-	-vell's	fas-	-le	pas	nei-	re-	pous-
@@ -54,7 +54,7 @@
 =12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12
 4f	ville	roi	-ger,	-ger,	-tées:	-mant,	moi?	toi,	-ler,	-leil	-rin
 *	*pline:4	*pline:6	*pline:8	*pline:10	*pline:12	*pline:14	*pline:16	*pline:18	*pline:20	*pline:22	*pline:24
-8c	Sont	D'un	Son	Quell's	Que	Pour	Est-	Mais	Ell'	À	Sur
+8c	Sont	D'un	Son	Quell's	Que	Pour	Est--	Mais	Ell'	À	Sur
 =13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13
 4f	a-	cô-	mes-	nou-	votr[e]	lui	el-	ell[e]	fait	mi-	le
 8a	-len-	-té	-sa-	-vell's	a-	a	-le	est	le	-nuit,	bord
@@ -71,8 +71,8 @@
 8f	Sur	.	.	.	.	.	.	.	.	.	.
 8e	la	.	.	.	.	.	.	.	.	.	.
 =17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17
-4f	feuil-	.	.	.	.	.	.	.	.	.	.
-8g	-le	.	.	.	.	.	.	.	.	.	.
+4f	feui-	.	.	.	.	.	.	.	.	.	.
+8g	-lle	.	.	.	.	.	.	.	.	.	.
 =18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18
 4.a	ron...	.	.	.	.	.	.	.	.	.	.
 =19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19
@@ -90,8 +90,8 @@
 4cc	jo-	.	.	.	.	.	.	.	.	.	.
 8a	-li'	.	.	.	.	.	.	.	.	.	.
 =23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23
-4f	feuil-	.	.	.	.	.	.	.	.	.	.
-8g	-le	.	.	.	.	.	.	.	.	.	.
+4f	feui-	.	.	.	.	.	.	.	.	.	.
+8g	-lle	.	.	.	.	.	.	.	.	.	.
 =24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24
 (4f	ron-	.	.	.	.	.	.	.	.	.	.
 8e)	.	.	.	.	.	.	.	.	.	.	.
@@ -109,4 +109,4 @@
 !!!EED1: Isaac Howie
 !!!EEV1: 2026/01/26
 !!!EED2: Samuel Boone
-!!!EEV2: 2026/05/29
+!!!EEV2: 2026/06/15
