@@ -16,8 +16,8 @@
 *	*pline:1	*pline:2r	*pline:3r	*pline:4r	*pline:5r
 =1	=1	=1	=1	=1	=1
 4b	Der-	J'en	J'en	Tous	Ce-
-8b	-rièr'	cueil-	fus	mes	-lui
-8cc	chez	-lis	ma-	pa-	que
+8b	-rièr'	cuei-	fus	mes	-lui
+8cc	chez	-llis	ma-	pa-	que
 4b	nous,	deux,	-lad[e]	-rents	j'ai-
 4g	y a	j'en	au	ve-	-me
 =2	=2	=2	=2	=2	=2
@@ -28,8 +28,8 @@
 !!LO:PB:g=original
 =3	=3	=3	=3	=3	=3
 4a	Der-	J'en	J'en	Tous	Ce-
-8b	-rièr'	cueil-	fus	mes	-lui
-8cc	chez	-lis	ma-	pa-	que
+8b	-rièr'	cuei-	fus	mes	-lui
+8cc	chez	-llis	ma-	pa-	que
 4b	nous,	deux,	-lad[e]	-rents	j'ai-
 4g	y a	J'en	au	ve-	-me
 =4	=4	=4	=4	=4	=4
@@ -39,14 +39,14 @@
 *	*pline:2	*pline:3	*pline:4	*pline:5	*pline:6
 =5	=5	=5	=5	=5	=5
 4a	J'en	J'en	Tous	Ce-	Je
-8b	cueil-	fus	mes	-lui	l'a-
-8cc	-lis	ma-	pa-	que	-per-
+8b	cuei-	fus	mes	-lui	l'a-
+8cc	-llis	ma-	pa-	que	-per-
 4.b	deux,	-lad[e]	-rents	j'ai-	-çois
 8a	j'en	au	ve-	-me	ve-
 !!LO:PB:g=original
 =6	=6	=6	=6	=6	=6
 4a	man-	lit,	-naient	ne	-nir
-4g	-geai	trois	m'y	vient	là-
+4g	-geai	trois	m'y	vient	là--
 2e	trois.	mois.	voir.	pas.	bas.
 *>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain
 *	*refrain	*	*	*	*
@@ -82,4 +82,4 @@
 !!!RWG: Time sig marked simply as '2' in original
 !!!RNB: "Reprise…" score direction located visually after the final repeat sign in original
 !!!EED1: Samuel Boone
-!!!EEV1: 2026/05/29
+!!!EEV1: 2026/06/15
