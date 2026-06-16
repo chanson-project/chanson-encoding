@@ -16,12 +16,12 @@
 *	*pline:1	*pline:3	*pline:5	*pline:7	*pline:9	*pline:11	*pline:13	*pline:15	*pline:17	*pline:19	*pline:21
 =1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
 4cc	J'ai	Je	Je	Je	Qui	Com-	Ni	Je	Com-	Je	Ve-
-4b	cueil-	l'ai	l'ai	n'ai	me	-ment	mon	m'en	-bien	ga-	-nez
+4b	cuei-	l'ai	l'ai	n'ai	me	-ment	mon	m'en	-bien	ga-	-nez
 =2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
-(4a	-li	cueil-	por-	pas	dit	veux-	pè-	i-	ga-	-gne	a-
-4g)	.	-li'	.	.	.	.	.	.	.	.	.
+(4a	-lli	cuei-	por-	pas	dit	veux--	pè-	i-	ga-	-gne	a-
+4g)	.	-lli'	.	.	.	.	.	.	.	.	.
 =3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
-2cc	la	feui-	-té'	trou-	dans	tu	-re,	-rai	-gnez-	bien	-vec
+2cc	la	feui-	-té'	trou-	dans	tu	-re,	-rai	-gnez--	bien	-vec
 =4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
 4dd	bel-	-lle	chez	-vé	son	que	ni	en	vous,	cinq	nous,
 4dd	-le	à	mon	per-	lan-	j'm'y	ma	ser-	la	cents	la
@@ -35,12 +35,12 @@
 !!LO:PB:g=original
 =7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7
 4ee	J'ai	Je	Je	Je	Qui	Com-	Ni	Je	Com-	Je	Ve-
-4cc	cueil-	l'ai	l'ai	n'ai	me	-ment	mon	m'en	-bien	ga-	-nez
+4cc	cuei-	l'ai	l'ai	n'ai	me	-ment	mon	m'en	-bien	ga-	-nez
 =8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8
-(4a	-li	cueil-	por-	pas	dit	veux-	pè-	i-	ga-	-gne	a-
-4g)	.	-li'	.	.	.	.	.	.	.	.	.
+(4a	-lli	cuei-	por-	pas	dit	veux--	pè-	i-	ga-	-gne	a-
+4g)	.	-lli'	.	.	.	.	.	.	.	.	.
 =9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9
-2cc	la	feui-	-té'	trou-	dans	tu	-re,	-rai	-gnez-	bien	-vec
+2cc	la	feui-	-té'	trou-	dans	tu	-re,	-rai	-gnez--	bien	-vec
 =10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10
 4dd	bel-	-lle	chez	-vé	son	que	ni	en	vous,	cinq	nous,
 4dd	-le	à	mon	per-	lan-	j'm'y	ma	ser-	la	cents	la
@@ -53,11 +53,11 @@
 *	*pline:2	*pline:4	*pline:6	*pline:8	*pline:10	*pline:12	*pline:14	*pline:16	*pline:18	*pline:20	*pline:22
 =13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13
 4cc	Qui	Mis	En-	Que	Ma-	Mon	Ni	En	Com-	Cinq	Nous
-4dd	pen-	dans	-tre	le	-ri'-	pèr[e]	au-	ser-	-bien	cents	vous
+4dd	pen-	dans	-tre	le	-ri'--	pèr[e]	au-	ser-	-bien	cents	vous
 !!LO:PB:g=original
 =14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14
 4dd	-dait	mon	Pa-	ros-	toi,	en	-cun	-vi-	ga-	livr's	en
-4ee	au	ta-	-ris	-si-	car	est	de	-ce	-gnez-	en	donn'-
+4ee	au	ta-	-ris	-si-	car	est	de	-ce	-gnez--	en	donn'-
 =15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15
 4cc	ro-	-bli-	et	-gnol	il	pas	mes	pour	vous	ar-	-rons
 4ee	-sier	-er	Rou-	chan-	est	con-	pa-	un	par	-gent	six
@@ -82,10 +82,10 @@
 !!LO:PB:g=original
 =20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20
 4cc	Qui	Mis	En-	Que	Ma-	Mon	Ni	En	Com-	Cinq	Nous
-4dd	pen-	dans	-tre	le	-ri'-	pèr[e]	au-	ser-	-bien	cents	vous
+4dd	pen-	dans	-tre	le	-ri'--	pèr[e]	au-	ser-	-bien	cents	vous
 =21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21
 4dd	-dait	mon	Pa-	ros-	toi,	en	-cun	-vi-	ga-	livr's	en
-4ee	au	ta-	-ris	-si-	car	est	de	-ce	-gnez-	en	donn'-
+4ee	au	ta-	-ris	-si-	car	est	de	-ce	-gnez--	en	donn'-
 =22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22
 4cc	ro-	-bli-	et	-gnol	il	pas	mes	pour	vous	ar-	-rons
 4ee	-sier	-er	Rou-	chan-	est	con-	pa-	un	par	-gent	six
@@ -119,4 +119,4 @@
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
 !!!RWG: Eight rest in m.12 in original should be quarter rest instead of eighth rest (encoded as such)
 !!!EED1: Samuel Boone
-!!!EEV1: 2026/06/05
+!!!EEV1: 2026/06/15
