@@ -41,7 +41,7 @@
 4dd	-lin	-cheurs	-tres	-les
 4d	mar-	fau-	chan-	chan-
 =6	=6	=6	=6	=6
-8g	-chait,	-chaient,	-taient,	-taient,
+8g	-chait,	-chai[e]nt,	-tai[e]nt,	-tai[e[nt,
 16r	.	.	.	.
 *	*pline:3h1	*pline:3h1v	*pline:3h1v	*pline:3h1v
 16g	Et	Et	Et	Et
@@ -54,7 +54,7 @@
 8cc	chant	chant	chant	chant
 8b-	di-	di-	di-	di-
 =8	=8	=8	=8	=8
-8a	-sait:	-saient:	-saient:	-saient:
+8a	-sait:	-sai[e]nt:	-sai[e]nt:	-sai[e]nt:
 *	*pline:3h2	*pline:7h2	*pline:11h2	*pline:15h2
 8dd	Ke-	Ah!	Al-	Cou-
 16cc	-ti-	l'beau	-le-	-cou-
@@ -80,10 +80,10 @@
 8g	qu'il	qu'ils	qu'ils	qu'ell's
 8g	di-	di-	di-	di-
 =12	=12	=12	=12	=12
-8a	-sait:	-saient:	-saient:	-saient:
+8a	-sait:	-sai[e]nt:	-sai[e]nt:	-sai[e]nt:
 *	*pline:4h2	*pline:8h2	*pline:12h2	*pline:16h2
 8dd	At-	Ah!	Ah!	Cou-
-16cc	-trapp[e],	v'là	le	-pons-
+16cc	-trapp[e],	v'là	le	-pons--
 16dd	at-	.	.	.
 16cc	-trapp[e],	.	.	.
 16b-	at-	l'vo-	voi-	y
@@ -91,7 +91,7 @@
 =13	=13	=13	=13	=13
 8a	-trapp[e]!	-leur!	-là!	l'cou!
 8dd	at-	ah!	ah!	cou-
-16cc	-trapp[e],	v'là	le	-pons-
+16cc	-trapp[e],	v'là	le	-pons--
 16dd	at-	.	.	.
 16cc	-trapp[e],	.	.	.
 16b-	at-	l'vo-	voi-	y
@@ -106,10 +106,10 @@
 8a	je	.	.	.
 =15	=15	=15	=15	=15
 4d	m'en-	.	.	.
-4g	-foui-	.	.	.
+4g	-foui	.	.	.
 !!LO:PB:g=original
 =16	=16	=16	=16	=16
-8a	foui...	.	.	.
+8a	--foui...	.	.	.
 *	*rline:R1h2	*	*	*
 8a	Et	.	.	.
 8g	moi	.	.	.
@@ -126,4 +126,4 @@
 !!!RNB: Final redundant empty partial measure omitted, as per policy
 !!!RNB: Third note of m.4 unclear, presumed 'a'
 !!!EED1: Samuel Boone
-!!!EEV1: 2026/05/29
+!!!EEV1: 2026/06/15
