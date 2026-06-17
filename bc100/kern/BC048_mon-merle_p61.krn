@@ -14,8 +14,7 @@
 *M2/4	*	*	*	*	*	*	*	*	*
 *>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain
 *	*v:1	*v:2	*v:3	*v:4	*v:5	*v:6	*v:7	*v:8	*v:9
-*	*rline:R1h1	*	*	*	*	*	*	*	*
-*	*refrain	*	*	*	*	*	*	*	*
+*	*pline:1h0	*	*	*	*	*	*	*	*
 *	*italic	*	*	*	*	*	*	*	*
 =||:	=||:	=||:	=||:	=||:	=||:	=||:	=||:	=||:	=||:
 {8d	Mon	.	.	.	.	.	.	.	.
@@ -25,16 +24,15 @@
 16g	per-	.	.	.	.	.	.	.	.
 8g	-du	.	.	.	.	.	.	.	.
 *	*Xitalic	*	*	*	*	*	*	*	*
-*	*Xrefrain	*	*	*	*	*	*	*	*
 *>Verse	*>Verse	*>Verse	*>Verse	*>Verse	*>Verse	*>Verse	*>Verse	*>Verse	*>Verse
-*	*pline:R1h2=1	*pline:2	*pline:3	*pline:4	*pline:5	*pline:6	*pline:7	*pline:8	*pline:9
+*	*pline:1h1	*pline:1h2	*pline:1h3	*pline:1h4	*pline:1h5	*pline:1h6	*pline:1h7	*pline:1h8	*pline:1h9
 8a	son	son	sa	son	son	son	son	ses	sa
 =2	=2	=2	=2	=2	=2	=2	=2	=2	=2
 4b-	bec,	oeil,	têt',	cou,	dos,	ail',	ventr',	patt's,	queue,
 8r}	.	.	.	.	.	.	.	.	.
 *>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain
-*	*rline:R1h1r	*	*	*	*	*	*	*	*
-*	*refrain	*	*	*	*	*	*	*	*
+*	*pline:1h0r	*	*	*	*	*	*	*	*
+*	*bis	*	*	*	*	*	*	*	*
 *	*italic	*	*	*	*	*	*	*	*
 {8b-	Mon	.	.	.	.	.	.	.	.
 !!LO:PB:g=original
@@ -44,15 +42,16 @@
 16a	per-	.	.	.	.	.	.	.	.
 8a	-du	.	.	.	.	.	.	.	.
 *	*Xitalic	*	*	*	*	*	*	*	*
-*	*Xrefrain	*	*	*	*	*	*	*	*
 *>Verse	*>Verse	*>Verse	*>Verse	*>Verse	*>Verse	*>Verse	*>Verse	*>Verse	*>Verse
-*	*pline:R1h2=1r	*pline:2r	*pline:3r	*pline:4r	*pline:5r	*pline:6r	*pline:7r	*pline:8r	*pline:9r
+*	*pline:1h1r	*pline:1h2r	*pline:1h3r	*pline:1h4r	*pline:1h5r	*pline:1h6r	*pline:1h7r	*pline:1h8r	*pline:1h9r
+*	*	*bis	*bis	*bis	*bis	*bis	*bis	*bis	*bis
 8f#	son	son	sa	son	son	son	son	ses	sa
 =4	=4	=4	=4	=4	=4	=4	=4	=4	=4
 4d	bec.	oeil.	têt'.	cou.	dos.	ail'.	ventr'.	patt's.	queue.
+*	*Xbis	*Xbis	*Xbis	*Xbis	*Xbis	*Xbis	*Xbis	*Xbis	*Xbis
 8r}	.	.	.	.	.	.	.	.	.
 =|:	=|:	=|:	=|:	=|:	=|:	=|:	=|:	=|:	=|:
-*	*pline:1v	*pline:2v	*pline:3v	*pline:4v	*pline:5v	*pline:6v	*pline:7v	*pline:8v	*pline:9v
+*	*pline:1h1v	*pline:1h2v	*pline:1h3v	*pline:1h4v	*pline:1h5v	*pline:1h6v	*pline:1h7v	*pline:1h8v	*pline:1h9v
 !!LO:TX:a:t=[à reprendre au besoin]
 {8dd	Un	Un	Un'	Un	Un	Un'	Un	Un'	Un'
 =5||	=5||	=5||	=5||	=5||	=5||	=5||	=5||	=5||	=5||
@@ -64,14 +63,14 @@
 8dd	becs,	yeux,	têt's,	cous,	dos,	ail's,	ventr's,	patt's,	queues,
 =:|	=:|	=:|	=:|	=:|	=:|	=:|	=:|	=:|	=:|
 *>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain
-*	*refrain	*	*	*	*	*	*	*	*
-*	*italic	*	*	*	*	*	*	*	*
+!!exclamation
 8cc	ah!	.	.	.	.	.	.	.	.
 !!LO:PB:g=original
 =6	=6	=6	=6	=6	=6	=6	=6	=6	=6
 2cc}	oh!	.	.	.	.	.	.	.	.
 =||	=||	=||	=||	=||	=||	=||	=||	=||	=||
-*	*rline:R2a6r	*	*	*	*	*	*	*	*
+*	*rline:R1vr	*	*	*	*	*	*	*	*
+*	*bis	*	*	*	*	*	*	*	*
 !!LO:TX:a:B:t=Refrain
 {8b-	Com-	.	.	.	.	.	.	.	.
 16b-	-ment	.	.	.	.	.	.	.	.
@@ -81,21 +80,22 @@
 8a	tu,	.	.	.	.	.	.	.	.
 8a	mon	.	.	.	.	.	.	.	.
 8d	merl',	.	.	.	.	.	.	.	.
-*	*bis	*	*	*	*	*	*	*	*
 8d	mon	.	.	.	.	.	.	.	.
 !!LO:PB:g=original
 =8	=8	=8	=8	=8	=8	=8	=8	=8	=8
 (8gL	mer-	.	.	.	.	.	.	.	.
 8gJ)}	-le,	.	.	.	.	.	.	.	.
 *	*Xbis	*	*	*	*	*	*	*	*
-*	*rline:R2	*	*	*	*	*	*	*	*
+*	*rline:R1	*	*	*	*	*	*	*	*
 {8b-	Com-	.	.	.	.	.	.	.	.
 16b-	-ment	.	.	.	.	.	.	.	.
 16b-	veux--	.	.	.	.	.	.	.	.
 =9	=9	=9	=9	=9	=9	=9	=9	=9	=9
 8a	tu,	.	.	.	.	.	.	.	.
+*	*bis	*	*	*	*	*	*	*	*
 8a	mon	.	.	.	.	.	.	.	.
 8d	merl',	.	.	.	.	.	.	.	.
+*	*Xbis	*	*	*	*	*	*	*	*
 8d	chan-	.	.	.	.	.	.	.	.
 =10	=10	=10	=10	=10	=10	=10	=10	=10	=10
 4g	-ter?	.	.	.	.	.	.	.	.
@@ -108,4 +108,4 @@
 !!!EED1: Isaac Howie
 !!!EEV1: 2025/07/01
 !!!EED2: Ève Poudrier
-!!!EEV2: 2026/06/10
+!!!EEV2: 2026/06/17
