@@ -28,6 +28,7 @@
 *	*rline:R1h2	*	*	*	*	*	*	*
 16a	gen-	.	.	.	.	.	.	.
 16g	-till[e]	.	.	.	.	.	.	.
+*	*bis	*	*	*	*	*	*	*
 16a	a-	.	.	.	.	.	.	.
 16b	-lou-	.	.	.	.	.	.	.
 =2	=2	=2	=2	=2	=2	=2	=2	=2
@@ -40,6 +41,7 @@
 =3	=3	=3	=3	=3	=3	=3	=3	=3
 8b	-et-	.	.	.	.	.	.	.
 8b	-te,	.	.	.	.	.	.	.
+*	*Xbis	*	*	*	*	*	*	*
 *	*rline:R2h1	*	*	*	*	*	*	*
 16a	je	.	.	.	.	.	.	.
 16g	t'y	.	.	.	.	.	.	.
@@ -49,6 +51,7 @@
 8g	-rai.	.	.	.	.	.	.	.
 8r}	.	.	.	.	.	.	.	.
 *	*rline:R1h1r	*	*	*	*	*	*	*
+*	*bis	*	*	*	*	*	*	*
 !!LO:TX:a:B:t=Choeur
 {8.g	A-	.	.	.	.	.	.	.
 16a	-lou-	.	.	.	.	.	.	.
@@ -79,25 +82,29 @@
 =8	=8	=8	=8	=8	=8	=8	=8	=8
 !!LO:TX:a:B:t=Fin
 8.g}	-rai.	.	.	.	.	.	.	.
+*	*Xbis	*	*	*	*	*	*	*
+*	*Xrefrain	*	*	*	*	*	*	*
 ==	==	==	==	==	==	==	==	==
-*	*rline:R2h1r	*	*	*	*	*	*	*
+*	*pline:R2h1r=1h0	*	*	*	*	*	*	*
 !!LO:TX:a:B:t=Solo
+*	*bis	*	*	*	*	*	*	*
 {16g	Je	.	.	.	.	.	.	.
 16g	t'y	.	.	.	.	.	.	.
 16g	plu-	.	.	.	.	.	.	.
 16g	-me-	.	.	.	.	.	.	.
 16g	-rai	.	.	.	.	.	.	.
+*	*Xbis	*	*	*	*	*	*	*
 *	*Xitalic	*	*	*	*	*	*	*
-*	*Xrefrain	*	*	*	*	*	*	*
 *>Verse	*>Verse	*>Verse	*>Verse	*>Verse	*>Verse	*>Verse	*>Verse	*>Verse
-*	*pline:1	*pline:2	*pline:3	*pline:4	*pline:5	*pline:6	*pline:7	*pline:8
+*	*pline:1h1	*pline:1h2	*pline:1h3	*pline:1h4	*pline:1h5	*pline:1h6	*pline:1h7	*pline:1h8
 16b	la	les	le	le	les	les	le	la
+*	*Xitalic	*	*	*	*	*	*	*
 !!LO:PB:g=original
 =9	=9	=9	=9	=9	=9	=9	=9	=9
-8dd	têt',	yeux,	bec,	cou,	ail's,	patt's,	dos,	queue,
+8dd}	têt',	yeux,	bec,	cou,	ail's,	patt's,	dos,	queue,
 *>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain
-*	*rline:R2h1r	*	*	*	*	*	*	*
-*	*refrain	*	*	*	*	*	*	*
+*	*pline:1h0r	*	*	*	*	*	*	*
+*	*bis	*	*	*	*	*	*	*
 *	*italic	*	*	*	*	*	*	*
 {16dd	Je	.	.	.	.	.	.	.
 16ee	t'y	.	.	.	.	.	.	.
@@ -105,15 +112,14 @@
 16cc	-me-	.	.	.	.	.	.	.
 16b	-rai	.	.	.	.	.	.	.
 *	*Xitalic	*	*	*	*	*	*	*
-*	*Xrefrain	*	*	*	*	*	*	*
-*>Verse	*>Verse	*>Verse	*>Verse	*>Verse	*>Verse	*>Verse	*>Verse	*>Verse
-*	*pline:1r	*pline:2r	*pline:3r	*pline:4r	*pline:5r	*pline:6r	*pline:7r	*pline:8r
+*>Verse	*>Verse	*>Verse	*>Verse	*>Verse	*>Verse	*>Verse1h6r	*pline:1h7r	*pline:1h8r
+*	*pline:1h1r	*pline:1h2r	*pline:1h3r	*pline:1h4r	*pline:1h5r	*pline:1h6r	*pline:1h7r	*pline:1h8r
+*	*	*bis	*bis	*bis	*bis	*bis	*bis	*bis
 16a	la	les	le	le	les	les	le	la
 =10	=10	=10	=10	=10	=10	=10	=10	=10
 8g}	têt',	yeux,	bec,	cou,	ail's,	patt's,	dos,	queue,
 *>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain
-*	*rline:R2h1r	*	*	*	*	*	*	*
-*	*refrain	*	*	*	*	*	*	*
+*	*pline:1h0r	*	*	*	*	*	*	*
 *	*italic	*	*	*	*	*	*	*
 !!LO:TX:a:B:t=Choeur
 {16g	Je	.	.	.	.	.	.	.
@@ -122,32 +128,29 @@
 16g	-me-	.	.	.	.	.	.	.
 16g	-rai	.	.	.	.	.	.	.
 *	*Xitalic	*	*	*	*	*	*	*
-*	*Xrefrain	*	*	*	*	*	*	*
 *>Verse	*>Verse	*>Verse	*>Verse	*>Verse	*>Verse	*>Verse	*>Verse	*>Verse
-*	*pline:1r	*pline:2r	*pline:3r	*pline:4r	*pline:5r	*pline:6r	*pline:7r	*pline:8r
+*	*pline:1h1r	*pline:1h2r	*pline:1h3r	*pline:1h4r	*pline:1h5r	*pline:1h6r	*pline:1h7r	*pline:1h8r
 16b	la	les	le	le	les	les	le	la
 !!LO:PB:g=original
 =11	=11	=11	=11	=11	=11	=11	=11	=11
-8dd	têt',	yeux,	bec,	cou,	ail's,	patt's,	dos,	queue,
+8dd}	têt',	yeux,	bec,	cou,	ail's,	patt's,	dos,	queue,
 *>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain
-*	*rline:R2h1r	*	*	*	*	*	*	*
-*	*refrain	*	*	*	*	*	*	*
+*	*pline:1h0r	*	*	*	*	*	*	*
 *	*italic	*	*	*	*	*	*	*
-16dd	Je	.	.	.	.	.	.	.
+{16dd	Je	.	.	.	.	.	.	.
 16ee	t'y	.	.	.	.	.	.	.
 16dd	plu-	.	.	.	.	.	.	.
 16cc	-me-	.	.	.	.	.	.	.
 16b	-rai	.	.	.	.	.	.	.
 *	*Xitalic	*	*	*	*	*	*	*
-*	*Xrefrain	*	*	*	*	*	*	*
 *>Verse	*>Verse	*>Verse	*>Verse	*>Verse	*>Verse	*>Verse	*>Verse	*>Verse
-*	*pline:1r	*pline:2r	*pline:3r	*pline:4r	*pline:5r	*pline:6r	*pline:7r	*pline:8r
+*	*pline:1h1r	*pline:1h2r	*pline:1h3r	*pline:1h4r	*pline:1h5r	*pline:1h6r	*pline:1h7r	*pline:1h8r
 16a	la	les	le	le	les	les	le	la
 =12	=12	=12	=12	=12	=12	=12	=12	=12
 8g}	têt',	yeux,	bec,	cou,	ail's,	patt's,	dos,	queue,
 =|:	=|:	=|:	=|:	=|:	=|:	=|:	=|:	=|:
-*	*bis	*bis	*bis	*bis	*bis	*bis	*bis	*bis
-*	*pline:1v	*pline:2v	*pline:3v	*pline:4v	*pline:5v	*pline:6v	*pline:7v	*pline:8v
+*	*Xbis	*Xbis	*Xbis	*Xbis	*Xbis	*Xbis	*Xbis	*Xbis
+*	*pline:1h1v	*pline:1h2v	*pline:1h3v	*pline:1h4v	*pline:1h5v	*pline:1h6v	*pline:1h7v	*pline:1h8v
 !!LO:TX:a:B:t=Solo
 !!LO:TX:a:i:t=[à reprendre au besoin]
 {16dd	Et	Et	Et	Et	Et	Et	Et	Et
@@ -166,6 +169,7 @@
 *	*rline:R1h1r	*	*	*	*	*	*	*
 *	*refrain	*	*	*	*	*	*	*
 *	*italic	*	*	*	*	*	*	*
+*	*bis	*	*	*	*	*	*	*
 !!LO:TX:a:B:t=Solo
 {16dd	A-	.	.	.	.	.	.	.
 16dd	-lou-	.	.	.	.	.	.	.
@@ -175,12 +179,13 @@
 16dd	A-	.	.	.	.	.	.	.
 16dd	-lou-	.	.	.	.	.	.	.
 =14	=14	=14	=14	=14	=14	=14	=14	=14
-8dd	-ett',	.	.	.	.	.	.	.
+8dd}	-ett',	.	.	.	.	.	.	.
 *	*Xbis	*	*	*	*	*	*	*
 *	*Xitalic	*	*	*	*	*	*	*
 *	*Xrefrain	*	*	*	*	*	*	*
 8r	.	.	.	.	.	.	.	.
-[4dd^	Ah!	.	.	.	.	.	.	.
+*	*exclamation	*	*	*	*	*	*	*
+{[4dd^	Ah!	.	.	.	.	.	.	.
 =15	=15	=15	=15	=15	=15	=15	=15	=15
 4dd];}	.	.	.	.	.	.	.	.
 !!LO:TX:i:t=[reprendre du début]
@@ -189,4 +194,4 @@
 !!!EED1: Isaac Howie
 !!!EEV1: 2025/05/13
 !!!EED2: Ève Poudrier
-!!!EEV2: 2026/06/10
+!!!EEV2: 2026/06/17
