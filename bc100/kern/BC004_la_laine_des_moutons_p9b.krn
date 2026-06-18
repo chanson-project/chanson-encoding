@@ -14,7 +14,6 @@
 *	*v:1	*v:2	*v:3	*v:4	*v:5	*v:6
 *>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain
 *	*rline:R1h1	*	*	*	*	*
-*	*refrain	*	*	*	*	*
 *	*italic	*	*	*	*	*
 {8e	La	.	.	.	.	.
 =1	=1	=1	=1	=1	=1	=1
@@ -28,7 +27,7 @@
 *	*rp:õ	*	*	*	*	*
 *	*rf:õ	*	*	*	*	*
 *	*rs:a	*	*	*	*	*
-*	*pline:1h1	*	*	*	*	*
+*	*pline:1h0	*	*	*	*	*
 {8cc	C'est	.	.	.	.	.
 =3	=3	=3	=3	=3	=3	=3
 16b	nous	.	.	.	.	.
@@ -37,7 +36,7 @@
 *	*Xitalic	*	*	*	*	*
 *	*Xrefrain	*	*	*	*	*
 *>Verse	*>Verse	*>Verse	*>Verse	*>Verse	*>Verse	*>Verse
-*	*pline:1h2v	*pline:1h3v	*pline:1h4v	*pline:1h5v	*pline:1h6v	*pline:1h7v
+*	*pline:1h1v	*pline:1h2v	*pline:1h3v	*pline:1h4v	*pline:1h5v	*pline:1h6v
 8b	ton-	la-	car-	fi-	ven-	chan-
 =4	=4	=4	=4	=4	=4	=4
 8cc	-dai-	-vai-	-dai-	-lai-	-dai-	-tai-
@@ -49,6 +48,7 @@
 *	*rline:R1h1r	*	*	*	*	*
 *	*refrain	*	*	*	*	*
 *	*italic	*	*	*	*	*
+*	*bis	*	*	*	*	*
 {8e	La	.	.	.	.	.
 !!LO:PB:g=enumerative
 =5	=5	=5	=5	=5	=5	=5
@@ -62,45 +62,48 @@
 *	*rp:õ	*	*	*	*	*
 *	*rf:õ	*	*	*	*	*
 *	*rs:a	*	*	*	*	*
-*	*pline:1h1r	*	*	*	*	*
+*	*pline:1h0r	*	*	*	*	*
 {8ee	C'est	.	.	.	.	.
 =7	=7	=7	=7	=7	=7	=7
 16ee	nous	.	.	.	.	.
 16dd	qui	.	.	.	.	.
 8cc	la	.	.	.	.	.
+*	*Xbis	*	*	*	*	*
 *	*Xitalic	*	*	*	*	*
-*	*Xrefrain	*	*	*	*	*
 *>Verse	*>Verse	*>Verse	*>Verse	*>Verse	*>Verse	*>Verse
-*	*pline:1h2	*pline:1h3	*pline:1h4	*pline:1h5	*pline:1h6	*pline:1h7
+*	*pline:1h1	*pline:1h2	*pline:1h3	*pline:1h4	*pline:1h5	*pline:1h6
 8b	ton-	la-	car-	fi-	ven-	chan-
 =8	=8	=8	=8	=8	=8	=8
 4a}	-dons,	-vons,	-dons,	-lons,	-dons,	-tons,
 *	*rp:õ	*rp:õ	*rp:õ	*rp:õ	*rp:õ	*rp:õ
 *	*rf:õ	*rf:õ	*rf:õ	*rf:õ	*rf:õ	*rf:õ
 *	*rs:a	*rs:a	*rs:a	*rs:a	*rs:a	*rs:a
-*	*pline:1h2r	*pline:1h3r	*pline:1h4r	*pline:1h5r	*pline:1h6r	*pline:1h7r
+*	*pline:1h1r	*pline:1h2r	*pline:1h3r	*pline:1h4r	*pline:1h5r	*pline:1h6r
+*	*bis	*bis	*bis	*bis	*bis	*bis
 {8ee	Ton-	La-	Car-	Fi-	Ven-	Chan-
 !!LO:PB:g=enumerative
 =9	=9	=9	=9	=9	=9	=9
 4b	-dons,	-vons,	-dons,	-lons,	-dons,	-tons,
-*	*bis	*bis	*bis	*bis	*bis	*bis
 8ee	ton-	la-	car-	fi-	ven-	chan-
 =10	=10	=10	=10	=10	=10	=10
 4cc}	-dons,	-vons,	-dons,	-lons,	-dons,	-tons,
-*	*Xbis	*Xbis	*Xbis	*Xbis	*Xbis	*Xbis
 *	*rp:õ	*rp:õ	*rp:õ	*rp:õ	*rp:õ	*rp:õ
 *	*rf:õ	*rf:õ	*rf:õ	*rf:õ	*rf:õ	*rf:õ
 *	*rs:a	*rs:a	*rs:a	*rs:a	*rs:a	*rs:a
+*	*Xbis	*Xbis	*Xbis	*Xbis	*Xbis	*Xbis
 *>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain
 *	*refrain	*	*	*	*	*
 *	*italic	*	*	*	*	*
 *	*rline:R1h1r	*	*	*	*	*
+*	*bis	*	*	*	*	*
 {8ee	La	.	.	.	.	.
 =11	=11	=11	=11	=11	=11	=11
 16ee	lai-	.	.	.	.	.
 16dd	-ne	.	.	.	.	.
 8cc	des	.	.	.	.	.
+*	*Xbis	*	*	*	*	*
 *	*rline:R1h2v	*	*	*	*	*
+*	*Xbis	*	*	*	*	*
 8b	mou-	.	.	.	.	.
 =12	=12	=12	=12	=12	=12	=12
 8cc	-tai-	.	.	.	.	.
@@ -111,7 +114,8 @@
 *	*rf:ɛn,ə	*	*	*	*	*
 *	*rs:b	*	*	*	*	*
 *>Verse	*>Verse	*>Verse	*>Verse	*>Verse	*>Verse	*>Verse
-*	*pline:1h2r	*pline:1h3r	*pline:1h4r	*pline:1h5r	*pline:1h6r	*pline:1h7r
+*	*pline:1h1r	*pline:1h2r	*pline:1h3r	*pline:1h4r	*pline:1h5r	*pline:1h6r
+*	*bis	*bis	*bis	*bis	*bis	*bis
 {8ee	Ton-	La-	Car-	Fi-	Ven-	Chan-
 !!LO:PB:g=enumerative
 =13	=13	=13	=13	=13	=13	=13
@@ -128,6 +132,7 @@
 *	*rline:R1h1r	*	*	*	*	*
 *	*refrain	*	*	*	*	*
 *	*italic	*	*	*	*	*
+*	*bis	*	*	*	*	*
 {8ee	La	.	.	.	.	.
 =15	=15	=15	=15	=15	=15	=15
 16ee	lai-	.	.	.	.	.
@@ -137,6 +142,7 @@
 8b	mou-	.	.	.	.	.
 =16	=16	=16	=16	=16	=16	=16
 4a}	-tons.	.	.	.	.	.
+*	*Xbis	*	*	*	*	*
 *	*Xitalic	*	*	*	*	*
 *	*Xrefrain	*	*	*	*	*
 *	*rp:õ	*	*	*	*	*
@@ -145,4 +151,4 @@
 ==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-
 !!!EED: Ève Poudrie
-!!!EEV: 2026/06/11
+!!!EEV: 2026/06/17
