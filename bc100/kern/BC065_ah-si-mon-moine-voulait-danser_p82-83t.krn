@@ -17,6 +17,7 @@
 *	*rline:R1	*	*	*	*	*
 *	*refrain	*	*	*	*	*
 *	*italic	*	*	*	*	*
+!!LO:TX:a:B:t=[Solo]
 {16d	Ah!	.	.	.	.	.
 8g	si	.	.	.	.	.
 8b	mon	.	.	.	.	.
@@ -34,6 +35,7 @@
 16r}	.	.	.	.	.	.
 *	*rline:R1r	*	*	*	*	*
 *	*bis	*	*	*	*	*
+!!LO:TX:a:B:t=[Choeur]
 {16a	Ah!	.	.	.	.	.
 8g	si	.	.	.	.	.
 8b	mon	.	.	.	.	.
@@ -55,6 +57,7 @@
 *	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain
 *>Verse	*>Verse	*>Verse	*>Verse	*>Verse	*>Verse	*>Verse
 *	*pline:1h1	*pline:2h1	*pline:3h1	*pline:4h1	*pline:5h1	*pline:6
+!!LO:TX:a:B:t=[Solo]
 {16d	Un	Un	Un	Un	Un	S'il
 8g	ca-	cein-	cha-	froc	beau	n'a-
 8b	-pu-	-tu-	-pe-	de	psau-	-vait
@@ -80,6 +83,7 @@
 *>Verse	*>Verse	*>Verse	*>Verse	*>Verse	*>Verse	*>Verse
 *	*pline:1h1r	*pline:2h1r	*pline:3h1r	*pline:4h1r	*pline:5h1r	*pline:7
 *	*bis	*bis	*bis	*bis	*bis	*
+!!LO:TX:a:B:t=[Choeur]
 {16a	Un	Un	Un	Un	Un	Bien
 8g	ca-	cein-	cha-	froc	beau	d'au-
 8b	-pu-	-tu-	-pe-	de	psau-	-tres
