@@ -33,6 +33,7 @@
 *	*rs:a	*	*	*	*	*
 16r}	.	.	.	.	.	.
 *	*rline:R1r	*	*	*	*	*
+*	*bis	*	*	*	*	*
 {16a	Ah!	.	.	.	.	.
 8g	si	.	.	.	.	.
 8b	mon	.	.	.	.	.
@@ -49,6 +50,7 @@
 *	*rf:e	*	*	*	*	*
 *	*rs:a	*	*	*	*	*
 16r}	.	.	.	.	.	.
+*	*Xbis	*	*	*	*	*
 *	*Xitalic	*Xitalic	*Xitalic	*Xitalic	*Xitalic	*Xitalic
 *	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain	*Xrefrain
 *>Verse	*>Verse	*>Verse	*>Verse	*>Verse	*>Verse	*>Verse
@@ -77,6 +79,7 @@
 16r}	.	.	.	.	.	.
 *>Verse	*>Verse	*>Verse	*>Verse	*>Verse	*>Verse	*>Verse
 *	*pline:1h1r	*pline:2h1r	*pline:3h1r	*pline:4h1r	*pline:5h1r	*pline:7
+*	*bis	*bis	*bis	*bis	*bis	*
 {16a	Un	Un	Un	Un	Un	Bien
 8g	ca-	cein-	cha-	froc	beau	d'au-
 8b	-pu-	-tu-	-pe-	de	psau-	-tres
@@ -84,7 +87,6 @@
 8b	-chon	-ron	-let	bur'	-tier	chos[es]
 *>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*
 *	*pline:1h2r	*	*	*	*	*
-*	*refrain	*	*	*	*	*
 *	*italic	*	*	*	*	*
 16a	je	.	.	.	.	.
 16g	lui	.	.	.	.	.
@@ -97,9 +99,12 @@
 *	*rf:ʁɛ	*	*	*	*	*
 *	*rs:b	*	*	*	*	*
 8r}	.	.	.	.	.	.
+*	*Xbis	*	*	*	*	*
 =||	=||	=||	=||	=||	=||	=||
 *>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain
 *	*rline:R2	*	*	*	*	*
+*	*refrain	*	*	*	*`	*
+*	*italic	*	*	*	*	*
 !!LO:TX:a:B:t=Refrain
 {8.dd^	Dan-	.	.	.	.	.
 16cc	-se,	.	.	.	.	.
@@ -125,15 +130,18 @@
 8b	-se,	.	.	.	.	.
 16r}	.	.	.	.	.	.
 *	*rline:R3h1r	*	*	*	*	*
+*	*bis	*	*	*	*	*
 {16a	Tu	.	.	.	.	.
 8g	n'en-	.	.	.	.	.
 8b	-tends	.	.	.	.	.
 =13	=13	=13	=13	=13	=13	=13
 8b	pas	.	.	.	.	.
-*	*rline:R3h2vr	*	*	*	*	*
+*	*Xbis	*	*	*	*	*
+*	*rline:R3h3	*	*	*	*	*
 16a	mon	.	.	.	.	.
 16g	mou-	.	.	.	.	.
 8a	-lin,	.	.	.	.	.
+*	*rline:R3h4	*	*	*	*	*
 *	*turlute	*	*	*	*	*
 8a	lon	.	.	.	.	.
 !!LO:PB:g=original
@@ -142,16 +150,18 @@
 *	*Xturlute	*	*	*	*	*
 16r}	.	.	.	.	.	.
 *	*rline:R3h1r	*	*	*	*	*
+*	*bis	*	*	*	*	*
 {16a	Tu	.	.	.	.	.
 8g	n'en-	.	.	.	.	.
 8b	-tends	.	.	.	.	.
 =15	=15	=15	=15	=15	=15	=15
 8b	pas	.	.	.	.	.
-*	*rline:R3h2	*	*	*	*	*
+*	*rline:R3h3r	*	*	*	*	*
 16a	mon	.	.	.	.	.
 16g	mou-	.	.	.	.	.
 8a	-lin	.	.	.	.	.
 *	*Xbis	*	*	*	*	*
+*	*rline:R3h5	*	*	*	*	*
 8a	mar-	.	.	.	.	.
 =16	=16	=16	=16	=16	=16	=16
 8.g}	-cher!	.	.	.	.	.
@@ -163,4 +173,4 @@
 ==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-
 !!!EED1: Ève Poudrier
-!!!EEV1: 2026/06/11
+!!!EEV1: 2026/06/17
