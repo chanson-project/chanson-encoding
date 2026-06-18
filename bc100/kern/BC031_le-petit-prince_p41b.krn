@@ -20,13 +20,15 @@
 {(8cc	Lun-	Mar-	Mer-	Jeu-	Ven-	Sam'-
 8cc)	.	.	-cre-	.	-dre-	.
 8b	-di	-di	-di	-di	-di	-di
+*	*	*bis	*bis	*bis	*bis	*bis
 8a	ma-	ma-	ma-	ma-	ma-	ma-
 =2	=2	=2	=2	=2	=2	=2
-4.g	-tin,	-tin,	-tin,	-tin,	-tin,	-tin,
+4.g}	-tin,	-tin,	-tin,	-tin,	-tin,	-tin,
+*	*	*Xbis	*Xbis	*Xbis	*Xbis	*Xbis
 *>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain
 *	*rline:R1	*	*	*	*	*
 *	*italic	*	*	*	*	*
-8a	l'emp'-	.	.	.	.	.
+{8a	l'emp'-	.	.	.	.	.
 =3	=3	=3	=3	=3	=3	=3
 4.g	-reur,	.	.	.	.	.
 8a	sa	.	.	.	.	.
@@ -49,8 +51,8 @@
 8b	-nus	.	.	.	.	.
 8a	chez	.	.	.	.	.
 =7	=7	=7	=7	=7	=7	=7
-4.g	moi	.	.	.	.	.
-8a	pour	.	.	.	.	.
+4.g}	moi	.	.	.	.	.
+{8a	pour	.	.	.	.	.
 =8	=8	=8	=8	=8	=8	=8
 8g	me	.	.	.	.	.
 8f	ser-	.	.	.	.	.
@@ -72,8 +74,8 @@
 8e	pas	.	.	.	.	.
 =11	=11	=11	=11	=11	=11	=11
 4g	là,	.	.	.	.	.
-8r	.	.	.	.	.	.
-8e	le	.	.	.	.	.
+8r}	.	.	.	.	.	.
+{8e	le	.	.	.	.	.
 =12	=12	=12	=12	=12	=12	=12
 8c	pe-	.	.	.	.	.
 8e	-tit	.	.	.	.	.
@@ -88,9 +90,9 @@
 4r}	.	.	.	.	.	.
 =14	=14	=14	=14	=14	=14	=14
 *	*rline:R4	*	*	*	*	*
-8.cc	Puis-	.	.	.	.	.
+{8.cc	Puis-	.	.	.	.	.
 16cc	-que	.	.	.	.	.
-\8b	c'est	.	.	.	.	.
+8b	c'est	.	.	.	.	.
 8a	comm'	.	.	.	.	.
 =15	=15	=15	=15	=15	=15	=15
 8g	ça,	.	.	.	.	.
@@ -98,11 +100,13 @@
 *	*Xrefrain	*	*	*	*	*
 *>Verse	*>Verse	*>Verse	*>Verse	*>Verse	*>Verse	*>Verse
 *	*pline:1h2	*pline:2h2	*pline:3h2	*pline:4h2	*pline:5h2	*pline:6h2
+*	*	*bis	*bis	*bis	*bis	*
 8e	nous	nous	nous	nous	nous	nous
 8c	re-	re-	re-	re-	re-	ne
 8f	-vien-	-vien-	-vien-	-vien-	-vien-	re-
 =16	=16	=16	=16	=16	=16	=16
 4e	-drons	-drons	-drons	-drons	-drons	-vien-
+*	*	*Xbis	*Xbis	*Xbis	*Xbis	*
 !!LO:S:dash
 (8d	mar-	mer-	jeu-	ven-	sam'-	-drons
 8d)	.	-cre-	.	-dre-	.	.
