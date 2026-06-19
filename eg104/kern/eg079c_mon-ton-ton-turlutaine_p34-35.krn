@@ -1,0 +1,88 @@
+!!!id: EG079c
+!!!page: 34-35
+!!!COM: Anonymous
+!!!LYR: Anonymous
+!!!OCL: Ernest Gagnon
+!!!PTL@@FR: Chansons Populaires du Canada
+!!!OTL@@FR: Mon, ton, ton, turlutaine
+!!!PPR: G. E. Desbarats
+!!!PDT: 1865
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*g:	*
+*M6/8	*
+*	*v:1
+*	*pline:1
+8g	Mon
+=1	=1
+8.dL	pèr'
+16eJ	.
+8f	n'a-
+4.g	-vait
+=2	=2
+4.a	fil-
+4b-/	-le
+8g	que
+=3	=3
+4a	moi,
+*	*pline:1r
+8a	Mon
+8.dL	pèr'
+16eJ	.
+8f	n'a-
+=4	=4
+4.g	-vait
+4.a	fil-
+!!LO:PB:g=original
+=5	=5
+8gq	.
+4f	-le
+8a	que
+8g	moi,
+8r	.
+*	*pline:2
+8d	En-
+=6	=6
+4g	-cor
+8g	sur
+4b-	la
+8b-	mer
+=7	=7
+4dd	il
+8b-	m'en-
+4.a	-voi
+*>Refrain	*>Refrain
+*	*refrain
+*	*italic
+*	*rline:1
+=8	=8
+4f	Mon
+8a	ton
+(8aL	ton
+8b-J)	.
+8g	tri-
+!!LO:PB:g=original
+=9	=9
+4a	-tain[e]
+8f	ô
+!LO:TX:b:t=3*	!
+4.d	gai
+*	*rline:1v
+=10	=10
+4d	Mon
+8g	ton
+8aL	ton
+8b-J	.
+8g	tri-
+=11	=11
+(4g	-tai-
+8f)	.
+4g	-ne.
+*	*Xitalic
+*	*Xrefrain
+==	==
+*-	*-
+!!!RNB: Random "3*" under last line, left in for now
+!!!EED1: Samuel Boone
+!!!EEV1: 2026/06/18
