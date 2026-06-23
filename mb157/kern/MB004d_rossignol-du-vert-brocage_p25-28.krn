@@ -1,0 +1,105 @@
+!!!id: MB004d
+!!!page: 25-28
+!!!COM: Anonymous
+!!!LYR: Anonymous
+!!!OCL: Marius Barbeau
+!!!PTL@@FR: Le Rossignol y Chante
+!!!OTL@@FR: Rossignol du vert bocage
+!!!PPR: Ministère du Nord Canadien et des Resources Nationales, Musée National du Canada
+!!!PDT: 1962
+**kern	**text
+*clefG2	*
+*k[f#,c#]	*
+*e:	*
+*M2/4	*
+*	*v:1
+*	*pline:1
+!LO:TX:a:i:t=Voix seule, puis la reprise en chœur.	!
+=1	=1
+8.e	–Ros-
+16e	-si-
+8g#	-gnol
+8b/	du
+=2	=2
+4.ee	vert
+16ff#L	bo-
+16eeJ	.
+=3	=3
+16bL	-ca-
+16a	.
+8bJ	.
+16aL	-ge,
+16bJ	.
+4a	.
+=4	=4
+4.b	ros-
+16cc#	-si-
+4.dd	-gnol
+16dd	des
+!!LO:PB:g=original
+=5	=5
+4ee	a-
+16ddL	-mou-
+16cc#	.
+8dd	.
+16dd	.
+16cc#J	.
+=6	=6
+4b	-reux,
+*	*pline:2
+8dd	Veux--
+16bL	.
+16gJ	tu
+=7	=7
+4.g	por-
+16b/	-ter
+8.dd	cet-
+16b	-te
+=8	=8
+32aL	let-
+32b	.
+32a	.
+32g	.
+8aJ	.
+4g	-tre
+*	*pline:3
+=9	=9
+8.b/	À
+16b/	ma
+32gL	char-
+32f#	.
+8.g	.
+32f#J	.
+!!LO:PB:g=original
+=10	=10
+4a	-man-
+8.g	-te
+16f#	maî-
+=11	=11
+32gL	-tres-
+32f#	.
+8.e	.
+32dJ	.
+4e	-se,
+*	*pline:4
+=12	=12
+8.f#	Sur
+16g	son
+8aL	lit
+8bJ	.
+4cc#/	cou-
+=13	=13
+4.b/	-vert
+8g	de
+=14	=14
+24%1f#L	fleurs.
+24%1g	.
+24%1f#	.
+[8eJ	.
+4e]	.
+==	==
+*-	*-
+!!!RNB: 32nd notes in m.8 were listed as a quadruplet (with '4' & brackets) of 16th notes (but should just be 32nd notes)
+!!!RNB: mm.9 & 11 durations incorrect (one too many 32nd notes for a 2/4 measure, my guess is that the dot is supposed to mean a 32nd note, not a 16th)
+!!!EED1: Samuel Boone
+!!!EEV1: 2026/06/22
