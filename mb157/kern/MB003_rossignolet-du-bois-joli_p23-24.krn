@@ -14,29 +14,26 @@
 *M6/8	*
 *	*v:1
 *	*pline:1
-=1	=1
-4r	.
-8r	.
 8f	Ros-
 8f	-si-
 8f	-gno-
-=2	=2
+=1	=1
 4cc	-let
 8b-	du
 4ee-	bois
 8dd	jo-
-=3	=3
+=2	=2
 8ccL	-li,
 16b-	.
 16a	.
 [16b-J/	.
 4.b-]/	.
 *	*pline:2
-=4	=4
+=3	=3
 4.ee-	Toi
 4ff	qui
 8ee-	chant's
-=5	=5
+=4	=4
 16ee-L	.
 [16dd	le
 8ddJ]	.
@@ -46,22 +43,22 @@
 8aJ/	.
 8b-/	la
 !!LO:PB:g=original
-=6	=6
+=5	=5
 2.cc	nuit,
 *	*pline:3
-=7	=7
+=6	=6
 4cc	Toi
 8dd	qui
 4cc	dis
 16b-L	dans
 16aJ	.
-=8	=8
+=7	=7
 4g	ton
 16b-L	jo-
 16aJ	.
 4f	.
 8a	-li
-=9	=9
+=8	=8
 16ccL	chant:
 16a	.
 [8cc	.
@@ -72,17 +69,17 @@
 16cc	-ci
 16a-\	le
 !!LO:PB:g=original
-=10	=10
+=9	=9
 *M3/8	*
 4.f	doux
 8a-	prin-
-=11	=11
+=10	=10
 *M6/8	*
 [4.cc	-temps,
 4cc]	.
 *	*pline:5
 8b-	Où
-=12	=12
+=11	=11
 8.cc	tout'
 16dd	les
 16ee-L	jeun's
@@ -91,19 +88,21 @@
 16aL	vont
 16gJ	.
 8b-/	.
-=13	=13
+=12	=12
 16aL	chan-
 16gJ	-ger
 [4a	.
 4a]	.
 8g	J'a-
-=14	=14
+=13	=13
 [4.f	-mant.
 4f]	.
-!editorial eighth rest added	!
+8r	.
+=14	=14
+4r	.
 8r	.
 ==	==
 *-	*-
-!!!RNB: Added editorial eighth rest to complete the final measure
+!!!RNB: Made first measure into pickup and added rests to correct ending durations
 !!!EED1: Samuel Boone
 !!!EEV1: 2026/06/22
