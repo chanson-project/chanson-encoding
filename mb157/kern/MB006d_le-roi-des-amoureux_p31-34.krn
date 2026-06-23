@@ -26,7 +26,7 @@
 16gL	.
 16aJ	.
 4.f	-ge,
-
+*	*pline:1h2
 =3	=3
 8g	Le
 8e	roi
@@ -37,13 +37,13 @@
 8g	-mou-
 =4	=4
 2.cc	-reux,
-
+*	*pline:2h1
 =5	=5
 8ee	Vou-
 8cc	-drais--
 8a\	tu
 4.g	bien
-
+*	*pline:2h2
 !!LO:PB:g=original
 =6	=6
 8g	Me
@@ -56,14 +56,16 @@
 =7	=7
 8ee	let-
 4dd	-tre
+*	*pline:3h1
 16eeL	À
 16ddJ	I-
 8cc	.
 8a\	-sa-
 =8	=8
 2.g	-beau,
+*	*pline:3h2
 =9	=9
-8g	cel-
+8g	Cel-
 8b/	-le
 8dd/	que
 !unknown accidental-like upsilon marking in front of following note
