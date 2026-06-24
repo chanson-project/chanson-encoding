@@ -39,7 +39,7 @@
 4b-/	-va-
 8a	.
 4.g	-ge,
-*	*pline:2h2
+*	*pline:2h1
 !!LO:PB:g=original
 =5	=5
 *M3/8	*
@@ -53,7 +53,7 @@
 16ddJ	.
 8cc~	-ga-
 8b-	-ge,
-
+*	*pline:2h2
 8cc	Ap-
 =7	=7
 4dd	-prends--
@@ -64,7 +64,7 @@
 8b-	par-
 =8	=8
 4a	-ler,
-
+*	*pline:3h1
 8b-/	Ap-
 4.g	-prends--
 !!LO:PB:g=original
@@ -74,7 +74,8 @@
 8ff	ma-
 8gg	-niè-
 8ff	-re
-8dd	qu'il
+*	*pline:3h2
+8dd	Qu'il
 =10	=10
 16ddL	faut
 16ccJ	.
@@ -86,7 +87,8 @@
 *M3/8	*
 8gL	-mer,
 8aJ	.
-8b-/	qu'il
+*	*pline:3h2r
+8b-/	Qu'il
 =12	=12
 *M6/8	*
 4.cc	faut
