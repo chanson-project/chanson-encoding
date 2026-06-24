@@ -1,0 +1,104 @@
+!!!id: MB008c
+!!!page: 37-38
+!!!COM: Anonymous
+!!!LYR: Anonymous
+!!!OCL: Marius Barbeau
+!!!PTL@@FR: Le Rossignol y Chante
+!!!OTL@@FR: Rossignolet des bois
+!!!PPR: Ministère du Nord Canadien et des Resources Nationales, Musée National du Canada
+!!!PDT: 1962
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*g:	*
+*M6/8	*
+*	*v:1
+*	*pline:1h1
+=1	=1
+8g	Ros-
+8g	-si-
+8dd	-gno-
+4b-/	-let
+8cc	du
+=2	=2
+*M3/8	*
+4.dd	bois,
+*	*pline:1h2
+=3	=3
+!Missing 6/8 time signature added here	!
+*M6/8	*
+16ddL	ros-
+16eeJ	.
+8ff	-si-
+8dd	-gno-
+16ddL	-let
+16cc	.
+8b-J	.
+8a	sau-
+=4	=4
+4b-/	-va-
+8a	.
+4.g	-ge,
+*	*pline:2h2
+!!LO:PB:g=original
+=5	=5
+*M3/8	*
+8g	Ap-
+8a	-prends--
+8b-/	moi
+=6	=6
+*M6/8	*
+4cc	ton
+16ccL	lan-
+16ddJ	.
+8cc~	-ga-
+8b-	-ge,
+
+8cc	Ap-
+=7	=7
+4dd	-prends--
+8ee	moi
+16ddL	à
+16cc	.
+8ddJ	.
+8b-	par-
+=8	=8
+4a	-ler,
+
+8b-/	Ap-
+4.g	-prends--
+!!LO:PB:g=original
+=9	=9
+8dd	moi
+8ee	la
+8ff	ma-
+8gg	-niè-
+8ff	-re
+8dd	qu'il
+=10	=10
+16ddL	faut
+16ccJ	.
+4b-	.
+8dd	fair'
+8b-	pour
+8a\	ai-
+=11	=11
+*M3/8	*
+8gL	-mer,
+8aJ	.
+8b-/	qu'il
+=12	=12
+*M6/8	*
+4.cc	faut
+8dd	fair'
+16b-L	pour
+16a	.
+8b-J	.
+8a	ai-
+=13	=13
+4.g	-mer.
+==	==
+*-	*-
+!!!RNB: Missing 6/8 time signature in m.3 added here
+!!!EED1: Samuel Boone
+!!!EEV1: 2026/06/23
