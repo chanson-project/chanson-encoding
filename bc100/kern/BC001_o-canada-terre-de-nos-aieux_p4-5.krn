@@ -16,7 +16,7 @@
 *M4/4	*	*	*	*
 *	*v:1	*v:2	*v:3	*v:4
 *	*pline:1	*pline:9	*pline:17	*pline:25
-{{2a	Ô	Sous	De	A-
+{2a	Ô	Sous	De	A-
 4.cc	Ca-	l'oeil	son	-mour
 8cc	-na-	de	pa-	sa-
 =2	=2	=2	=2	=2
@@ -32,11 +32,11 @@
 *	*rp:ø	*rp:ã	*rp:ø	*rp:ɛ
 *	*rf:jø	*rf:ã	*rf:ø	*rf:tɛl
 *	*rs:a	*rs:d	*rs:g	*rs:j
-2r}}	.	.	.	.
+2r}	.	.	.	.
 !!LO:PB:g=original
 =5	=5	=5	=5	=5
 *	*pline:2	*pline:10	*pline:18	*pline:26
-{{2a	Ton	Le	Il	Rem-
+{2a	Ton	Le	Il	Rem-
 4.b	front	Ca-	port[e]	-plis
 8b	est	-na-	au	nos
 =6	=6	=6	=6	=6
@@ -52,9 +52,9 @@
 *	*rp:ø	*rp:ã	*rp:ø	*rp:ɛ
 *	*rf:jø	*rf:ã	*rf:ø	*rf:tɛl
 *	*rs:a	*rs:d	*rs:g	*rs:j
-4r}}	.	.	.	.
+4r}	.	.	.	.
 *	*pline:3	*pline:11	*pline:19	*pline:27
-{{8.g	Car	Il	En-	Par-
+{8.g	Car	Il	En-	Par-
 16a	ton	est	-ne-	.
 !!LO:PB:g=original
 =9	=9	=9	=9	=9
@@ -79,12 +79,12 @@
 4a	la	ber-	-au-	la
 !!LO:PB:g=original
 =12	=12	=12	=12	=12
-2g}}	croix!	-ceau;	-té,	loi;
+2g}	croix!	-ceau;	-té,	loi;
 *	*rp:a	*rp:o	*rp:e	*rp:a
 *	*rf:wa	*rf:o	*rf:te	*rf:wa
 *	*rs:c	*rs:f	*rs:i	*rs:c
 *	*pline:5	*pline:13	*pline:21	*pline:29
-{{8.g	Ton	Le	Il	Sa-
+{8.g	Ton	Le	Il	Sa-
 16a	his-	ciel	veut	-chons
 =13	=13	=13	=13	=13
 4.b-	-toir[e]	a	gar-	êtr[e]
@@ -114,10 +114,10 @@
 *	*rp:a	*rp:o	*rp:e	*rp:a
 *	*rf:wa	*rf:o	*rf:te	*rf:wa
 *	*rs:c	*rs:f	*rs:i	*rs:c
-2r}}	.	.	.	.
+2r}	.	.	.	.
 =17	=17	=17	=17	=17
 *	*pline:7	*pline:15	*pline:23	*pline:31
-{{2a	Et	Tou-	Et	Et
+{2a	Et	Tou-	Et	Et
 4.cc	ta	-jours	par	ré-
 8cc	va-	gui-	l'ef-	-pé-
 !!LO:PB:g=original
@@ -135,10 +135,10 @@
 *	*rp:e	*rp:ɛ	*rp:i	*rp:ɛ
 *	*rf:pe,ə	*rf:jɛr,ə	*rf:ni,ə	*rf:ɛʁ,ə
 *	*rs:b	*rs:e	*rs:h	*rs:k
-4r}}	.	.	.	.
+4r}	.	.	.	.
 =21	=21	=21	=21	=21
 *	*pline:8	*pline:16	*pline:24	*pline:32
-{{2cc	Pro-	Il	Sur	Le
+{2cc	Pro-	Il	Sur	Le
 4.cc#	-té-	gar-	no-	cri
 8cc#	-ge-	-de-	-tre	vain-
 !!LO:PB:g=original
@@ -159,6 +159,7 @@
 !!LO:PB:g=original
 =25	=25	=25	=25	=25
 *	*pline:8r	*pline:16r	*pline:24r	*pline:32r
+*	*bis	*bis	*bis	*bis
 {2cc	Pro-	Il	Sur	Le
 4.ff	-té-	gar-	no-	cri
 8ff	-ge-	-de-	-tre	vain-
@@ -172,11 +173,12 @@
 2e	nos	dra-	-ri-	le
 =28	=28	=28	=28	=28
 2.f	droits!	-peau.	-té.	Roi!"
+*	*Xbis	*Xbis	*Xbis	*Xbis
 *	*rp:a	*rp:o	*rp:e	*rp:a
 *	*rf:wa	*rf:o	*rf:te	*rf:wa
 *	*rs:c	*rs:f	*rs:i	*rs:c
-4r}}	.	.	.	.
+4r}	.	.	.	.
 ==	==	==	==	==
 *-	*-	*-	*-	*-
 !!!EED: Ève Poudrier
-!!!EEV: 2026/05/20
+!!!EEV: 2026/06/27
