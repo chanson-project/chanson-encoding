@@ -7,9 +7,6 @@
 !!!YEM: On ne peut reproduire, enregistrer ou diffuser en tout ou en partie le présent ouvrage, sous quelque procédé que ce soit, électronique, mécanique, photographique, sonore, magnétique ou autre, sans avoir obtenu au préalable l'autorisation écrite de l'éditrice.
 !!!PDT: 2011
 !!!SMA:2012 Bibliothèque nationale du Québec; Biblothèque nationale du Canada
-!!!AGN-Laforte: Chanson strophique (avec refrain), 3:4(6)
-!!!AGN-type: Chanson pastorale
-!!!AGN-rime: croisée (abab); refrain, croisée (RaRbRaRb); turlute
 **kern	**dynam	**text	**text	**text
 *clefG2	*	*	*	*
 *k[f#]	*	*	*	*
@@ -209,6 +206,7 @@
 8dd	8b	>	la	.	.
 =26	=26	=26	=26	=26	=26
 [4.g	[4.g	]	la.	.	.
+*	*	*	*Xbis	*	*
 *	*	*	*Xturlute	*	*
 *	*	*	*Xitalic	*	*
 *	*	*	*Xrefrain	*	*
@@ -219,4 +217,4 @@
 !!!EED-1: Isaac Howie
 !!!EEV-1: 2025/05/06
 !!!EED-2: Ève Poudrier
-!!!EEV-2: 2026/05/07
+!!!EEV-2: 2026/06/27
