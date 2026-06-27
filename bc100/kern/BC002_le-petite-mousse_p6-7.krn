@@ -9,12 +9,7 @@
 !!!PUB: La Bonne Chanson, inc.
 !!!PDT: 2011
 !!!YEM: On ne peut reproduire, enregistrer ou diffuser en tout ou en partie le présent ouvrage, sous quelque procédé que ce soit, électronique, mécanique, photographique, sonore, magnétique ou autre, sans avoir obtenu au préalable l'autorisation écrite de l'éditrice.
-!!!SMA: 2012 Bibliothèque nationale du Québec; Biblothèque nationale du Canada
-!!!AGN-Chamberland: [maman,chez-soi natal,marin]
-!!!AGN-Laforte: strophique
-!!!AGN-refrain: final
-!!!AGN-metre: 4:6(8); R:2r(8)
-!!!AGN-rhyme: mixtes (v:1-4:{abab}; v:5-6:{cd} across)
+!!!SMA: 2012 Bibliothèque nationale du Québec; Biblothèque nationale du Canada!!!AGN-Laforte: strophique
 **kern	**text	**text	**text	**text
 *clefG2	*	*	*	*
 *k[b-]	*	*	*	*
@@ -23,7 +18,7 @@
 *M9/8	*	*	*	*
 *	*v:1	*v:2	*v:3	*v:4
 *	*pline:1	*pline:7	*pline:13	*pline:19
-{{8c	Sur	Quand	J'é-	Ain-
+{8c	Sur	Quand	J'é-	Ain-
 4c	le	je	-tais	-si
 8f	grand	par-	heu-	chan-
 =1	=1	=1	=1	=1
@@ -34,12 +29,12 @@
 8a	cor-	-ne	-te	-tit
 =2	=2	=2	=2	=2
 4.c	-vet-	mè-	mè-	mous-
-4c	-te,	-re	-re,	-se,
+4c}	-te,	-re	-re,	-se,
 *	*rp:ɛ	*rp:ɛː	*rp:ɛː	*rp:u
 *	*rf:ɛt,ə	*rf:ɛːʁ,ə	*rf:ɛːʁ,ə	*rf:us,ə
 *	*rs:a	*rs:e	*rs:e	*rs:h
 *	*pline:2	*pline:8	*pline:14	*pline:20
-8f	Un	Me	Quand	Sur
+{8f	Un	Me	Quand	Sur
 4f	pe-	dit:	je	le
 8e	-tit	"Tu	vi-	grand
 !!LO:PB:g=original
@@ -54,9 +49,9 @@
 *	*rp:ɛ	*rp:ø	*rp:a	*rp:o
 *	*rf:tɛ	*rf:jø	*rf:twa	*rf:lo
 *	*rs:b	*rs:f	*rs:g	*rs:i
-4f]	.	.	.	.
+4f]}	.	.	.	.
 *	*pline:3	*pline:9	*pline:15	*pline:21
-8c	Il	Ton	Pour-	Et
+{8c	Il	Ton	Pour-	Et
 4c	re-	cher	-quoi	dans
 8f	-di-	vil-	faut--	la
 =5	=5	=5	=5	=5
@@ -68,12 +63,12 @@
 !!LO:PB:g=original
 =6	=6	=6	=6	=6
 4.c	-è-	-miè-	-sè-	dou-
-4c	-te,	-re	-re	-ce
+4c}	-te,	-re	-re	-ce
 *	*rp:ɛː	*rp:ɛː	*rp:ɛː	*rp:u
 *	*rf:ɛːt,ə	*rf:ɛːʁ,ə	*rf:ɛːʁ,ə	*rf:us,ə
 *	*rs:a'	*rs:e	*rs:e	*rs:h
 *	*pline:4	*pline:10	*pline:16	*pline:22
-8f	Ces	Se-	M'ait	Sem-
+{8f	Ces	Se-	M'ait	Sem-
 4f	mots	-ront	é-	-blait
 8e	qu'au	bien-	-loi-	mon-
 =7	=7	=7	=7	=7
@@ -87,9 +82,9 @@
 *	*rp:ɛ	*rp:ø	*rp:a	*rp:o
 *	*rf:tɛ	*rf:jø	*rf:twa	*rf:lo
 *	*rs:b	*rs:f	*rs:g	*rs:i
-4f]	.	.	.	.
+4f]}	.	.	.	.
 *	*pline:5	*pline:11	*pline:17	*pline:23
-8a	Qui	Quand	Bien-	Sou-
+{8a	Qui	Quand	Bien-	Sou-
 4a	me	tu	-tôt,	-dain,
 8a	ren-	se-	j'es-	on
 !!LO:PB:g=original
@@ -101,12 +96,12 @@
 8e	sou-	na-	jour	dé-
 =10	=10	=10	=10	=10
 4.e	-ri-	-vi-	va	-li-
-4d	-re,	-re,	luir[e],	-re:
+4d}	-re,	-re,	luir[e],	-re:
 *	*rp:i	*rp:i	*rp:i	*rp:i
 *	*rf:iʁ,ə	*rf:iʁ,ə	*rf:iʁ,ə	*rf:iʁ,ə
 *	*rs:c	*rs:c	*rs:c	*rs:c
 *	*pline:6	*pline:12	*pline:18	*pline:24
-8g	Heu-	Tu	Où	"Voi-
+{8g	Heu-	Tu	Où	"Voi-
 4g	-reu-	m'é-	ton	-ci
 8a	-se	-cri-	en-	le
 =11	=11	=11	=11	=11
@@ -121,7 +116,7 @@
 *	*rp:a	*rp:a	*rp:a	*rp:a
 *	*rf:a	*rf:a	*rf:a	*rf:a
 *	*rs:d	*rs:d	*rs:d	*rs:d
-4c]	.	.	.	.
+4c]}	.	.	.	.
 *>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain
 *	*refrain	*	*	*
 *	*italic	*	*	*
@@ -129,7 +124,7 @@
 !!LO:TX:a:B:t=Refrain
 ==13	==13	=13	==13	==13
 *^	*	*	*	*
-8a	8f	Fi-	.	.	.
+{8a	8f	Fi-	.	.	.
 4a	4f	-lez,	.	.	.
 *	*	*bis	*	*	*
 8b-	8g	fi-	.	.	.
@@ -142,12 +137,12 @@
 8cc	8a	na-	.	.	.
 =15	=15	=15	=15	=15	=15
 4.dd	4.b-	-vi-	.	.	.
-4dd	4b-	-re,	.	.	.
+4dd}	4b-	-re,	.	.	.
 *	*	*rp:i	*	*	*
 *	*	*rf:iʁ,ə	*	*	*
 *	*	*rs:c	*	*	*
 *	*	*rline:R2	*	*	*
-8dd	8b-	Car	.	.	.
+{8dd	8b-	Car	.	.	.
 4dd	4b-	le	.	.	.
 8dd	8b-	bon-	.	.	.
 !!LO:PB:g=original
@@ -162,15 +157,14 @@
 *	*	*rp:a	*	*	*
 *	*	*rf:a	*	*	*
 *	*	*rs:d	*	*	*
-4a]	4f]	.	.	.	.
+4a]}	4f]	.	.	.	.
 *	*	*rline:R1r	*	*	*
-8a	8f	Fi-	.	.	.
-4a	4f	-lez,	.	.	.
 *	*	*bis	*	*	*
+{8a	8f	Fi-	.	.	.
+4a	4f	-lez,	.	.	.
 8b-	8g	fi-	.	.	.
 =18	=18	=18	=18	=18	=18
 [4cc.	[4a.	-lez	.	.	.
-*	*	*Xbis	*	*	*
 4cc]	4a]	.	.	.	.
 8a	8f	ô	.	.	.
 4b-	4g	mon	.	.	.
@@ -178,12 +172,12 @@
 !!LO:PB:g=original
 =19	=19	=19	=19	=19	=19
 4dd.	4b-.	-vi-	.	.	.
-4dd	4b-	-re,	.	.	.
+4dd}	4b-	-re,	.	.	.
 *	*	*rp:i	*	*	*
 *	*	*rf:iʁ,ə	*	*	*
 *	*	*rs:c	*	*	*
 *	*	*rline:R2r	*	*	*
-8dd	8b-	Car	.	.	.
+{8dd	8b-	Car	.	.	.
 4ff	4dd	le	.	.	.
 8dd	8b-	bon-	.	.	.
 =20	=20	=20	=20	=20	=20
@@ -194,15 +188,16 @@
 8g	8B-	là--	.	.	.
 =21	=21	=21	=21	=21	=21
 [4f.	[4A.	bas!	.	.	.
+*	*	*Xbis	*	*	*
 *	*	*rp:a	*	*	*
 *	*	*rf:a	*	*	*
 *	*	*rs:d	*	*	*
-4f]	4A]	.	.	.	.
+4f]}	4A]	.	.	.	.
 *v	*v	*	*	*	*
 *	*Xitalic	*	*	*
 *	*Xrefrain	*	*	*
 ==	==	==	==	==
 *-	*-	*-	*-	*-
-!!!EED: Ève Poudrier
-!!!EEV: 2026/05/14
+!!!EED1: Ève Poudrier
+!!!EEV1: 2026/06/27
 !!!RNB-original: Nouvelle avec paroles plus conformes aux exigences du rythme, arrangées par La Bonne Chanson. La reproduction de ce texte est donc interdite.
