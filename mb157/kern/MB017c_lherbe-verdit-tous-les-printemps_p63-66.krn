@@ -1,0 +1,158 @@
+!!!id: MB017c
+!!!page: 63-66
+!!!COM: Anonymous
+!!!LYR: Anonymous
+!!!OCL: Marius Barbeau
+!!!PTL@@FR: Le Rossignol y Chante
+!!!OTL@@FR: L'herbe verdit tous les printemps
+!!!PPR: Ministère du Nord Canadien et des Resources Nationales, Musée National du Canada
+!!!PDT: 1962
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M2/4	*
+*	*v:1
+*	*pline:1
+=1	=1
+4g	Par
+8cc	un
+8dd	ma-
+=2	=2
+8ccL	-tin
+24%1dd	.
+24%1cc	.
+[24%1bJ	.
+8b]	.
+8cc	au
+=3	=3
+4dd	point
+12%1eeL	du
+12%1ddJ	.
+(12%1cc	jour,
+=4	=4
+2dd)	.
+*	*pline:1r
+=5	=5
+*M3/4	*
+(16ddL	Par
+16ggJ)	.
+[4gg	.
+16gg]	.
+16gg	un
+8ffL	ma-
+8ddJ	.
+=6	=6
+*M2/4	*
+16ddL	-tin
+16cc	.
+[8bJ	.
+8b]	.
+8cc	au
+!!LO:PB:g=original
+=7	=7
+4dd	point
+16eeL	du
+8cc	.
+16bJ	.
+=8	=8
+2cc	jour,
+*	*pline:2
+=9	=9
+8.ccL	J'ai
+16ddJ	.
+!plus sign before following note, encoded as sharp	!
+8ee#	en-
+8ff#	-ten-
+=10	=10
+32aaL	-du
+[32gg	.
+[8.ggJ]	.
+8gg]	.
+8ee	chan-
+=11	=11
+16eeL	-ter
+16dd	.
+8ccJ	.
+8eeL	l'a-
+8ddJ	.
+=12	=12
+2g	-mour
+*	*pline:3
+=13	=13
+8dd	Par
+8ee	un'
+8ff	tant
+8dd	jo-
+!!LO:PB:g=original
+=14	=14
+(12%1ddL	-li'
+12%1cc	.
+12%1bJ)	.
+8cc	pas-
+8dd	-se-
+=15	=15
+8.eeL	-rol-
+16ddJ	.
+8ccL	.
+!plus sign before following note, encoded as sharp	!
+8ee#J	.
+=16	=16
+2dd	-le,
+*	*pline:4
+=17	=17
+(8gL	Que
+8ccJ)	.
+!plus sign before following note, encoded as sharp	!
+8ee#	tous
+8ff#	les
+=18	=18
+*M3/4	*
+(32ggL	ber-
+32ee	.
+[8.ggJ)	.
+[4gg]	.
+8gg]	.
+8ee	-gers
+!!LO:PB:g=original
+=19	=19
+*M2/4	*
+16eeL	d'a-
+16dd	.
+8ccJ	.
+8eeL	-len-
+8ddJ	.
+=20	=20
+2g	-tour
+*	*pline:5
+=21	=21
+8dd	Se
+8ee	sont
+8ff	ra-
+8dd	-mas-
+=22	=22
+!added missing 3/4 time signature below	!
+*M3/4	*
+(24%1eeL	-sés
+24%1dd	.
+24%1cc)	.
+8bJ	.
+8cc	au-
+8dd	-tour
+=23	=23
+8eeL	d'el-
+8ddJ	.
+!quadruplet should just be 32nd notes, encoded as such	!
+(32eeL	.
+32dd	.
+32ee	.
+32dd)	.
+[8ccJ	-le.
+4cc]	.
+==	==
+*-	*-
+!!!RWG: Plus sign before certain notes, encoded as sharp for now but editorial note made
+!!!RNB: Added missing 3/4 time signature to m.22
+!!!RNB: 16th note quadruplet in m.16 should just be 32nd notes & are encoded as such
+!!!EED1: Samuel Boone
+!!!EEV1: 2026/07/05
