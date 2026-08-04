@@ -1,0 +1,155 @@
+!!!id: MB038c
+!!!page: 129-132
+!!!COM: Anonymous
+!!!LYR: Anonymous
+!!!OCL: Marius Barbeau
+!!!PTL@@FR: Le Rossignol y Chante
+!!!OTL@@FR: Le beau Renaud
+!!!PPR: Ministère du Nord Canadien et des Resources Nationales, Musée National du Canada
+!!!PDT: 1962
+**kern	**text
+*clefG2	*
+*k[b-,e-,a-,d-,g-]	*
+*e-:	*
+*M6/8	*
+*	*v:1
+*	*pline:1
+8e-	La
+8e-	mèr[e]
+8e-	é-
+=1	=1
+4.b-	-tant
+8ee-	dans
+8dd-	les
+!plus sign before following note, encoded as natural	!
+8an	cré-
+=2	=2
+4a-	-neaux
+*	*pline:2
+[8b-/	À
+8b-]/	.
+8b-	vu
+16ccL	ve-
+16dd-J	.
+=3	=3
+16ee-L	-nir
+16ffJ	.
+8ee-	son
+[8dd-	fils
+4dd-]	.
+(16ccL	Re-
+16b-J)	.
+!!LO:PB:g=original
+=4	=4
+4.b-/	-naud:
+*	*pline:3
+8g-	–Mon
+8a-	fils
+8b-/	Re-
+=5	=5
+(16ccL	-naud,
+16b-J)/	.
+!plus sign before following note, encoded as natural	!
+4an	.
+8b-/	mon
+8g-	fils
+8e-	ché-
+=6	=6
+!plus sign before following note, encoded as natural	!
+4.dn	-ri,
+*	*pline:4
+8g-	Ta
+8a-	femm[e]
+(16b-L	est
+16ccJ	.
+=7	=7
+32b-L)	.
+32a-	.
+4.g-J	ac-
+[8b-/	-cou-
+8b-/]	.
+8g-	-ché'
+8f	d'un
+!!LO:PB:g=original
+=8	=8
+8.fL	fils.
+32g-	.
+32f	.
+[8e-J	.
+[4.e-]	.
+=9||	=9||
+8e-]	.
+4r	.
+*	*v:2
+*	*pline:5
+!plus sign before following note, encoded as natural	!
+8dn	–Ni
+8e-	de
+8e-	ma
+=10	=10
+4.b-	femm';
+8ee-	ni
+8dd-	de
+!plus sign before following note, encoded as natural	!
+8an\	mon
+=11	=11
+!plus sign before following note, encoded as natural	!
+4an	fils,
+*	*pline:6
+[8b-/	Je
+4b-]	.
+(16ccL	n'ai
+16dd-J	.
+=12	=12
+16ee-L	le
+16g-J)	.
+4ee-	cœur
+8ee-	ré-
+(16dd-L	.
+16ccJ)	.
+(16b-L	-jou-
+16ccJ)	.
+!!LO:PB:g=original
+=13	=13
+4.b-/,	-i.
+*	*pline:7
+8g-	Je
+8a-	tiens
+8b-/	mes
+=14	=14
+16ccL	.
+16b-J/	.
+!plus sign before following note, encoded as natural	!
+4an	trip'
+8b-/	et
+8g-	mes
+8e-	boy-
+=15	=15
+!plus sign before following note, encoded as natural	!
+4.dn	-aux
+*	*pline:8
+8g-	Par
+8a-	de-
+8b-/	-vant
+=16	=16
+16a-L	.
+[16g-J	moi,
+8g-]	.
+[8b-/	dans
+8b-/]	.
+8g-	mon
+8f	man-
+=17	=17
+8.g-L	-teau.
+!removed triplet here, as the durations didn't add up (changed to regular 16th notes)	!
+16f	.
+16g-	.
+16fJ	.
+4.e-	.
+==	==
+*-	*-
+!!!RNB: Second verse encoded in same spine as first
+!!!RNB: Tempo marking of dotted-quarter = 60 given
+!!!RWG: Plus sign before some notes, encoded those notes as sharp
+!!!EED1: Samuel Boone
+!!!EEV1: 2026/08/04
