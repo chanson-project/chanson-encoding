@@ -1,0 +1,77 @@
+!!!id: MB039c
+!!!page: 133-140
+!!!COM: Anonymous
+!!!LYR: Anonymous
+!!!OCL: Marius Barbeau
+!!!PTL@@FR: Le Rossignol y Chante
+!!!OTL@@FR: Marianson
+!!!PPR: Ministère du Nord Canadien et des Resources Nationales, Musée National du Canada
+!!!PDT: 1962
+**kern	**text
+*clefG2	*
+*k[b-,e-]	*
+*B-:	*
+*M6/8	*
+*	*v:1
+*	*pline:1
+!scoop before following note	!
+8b-	–Ma-
+8b-	-ri-
+8b-	-an-
+=1	=1
+(4b/-	-son,
+8a)	.
+!scoop before following note	!
+8.cc	da-
+16b-	-me
+8b-	jo-
+=2	=2
+(8a	-li',
+4g)	.
+*	*pline:2
+8b-	Où
+8b-	est
+8b-	al-
+=3	=3
+(4b-/	-lé
+8a)	.
+8g	vo-
+8f	-tre
+8g	ma-
+!!LO:PB:g=original
+=4	=4
+(8g	-ri?
+4f)	.
+*	*pline:1r
+!!LO:TX:a:i:t=Accel.
+8e-	Ma-
+8d	-ri-
+8f	-an-
+=5	=5
+4.g	-son,
+8f	da-
+8g	-me
+8a	jo-
+=6	=6
+4.b-;,	-li',
+*	*pline:2r
+!!LO:TX:a:i:t=Rall.
+8g	Où
+8a	est
+8b-/	al-
+=7	=7
+4.cc	-lé
+!scoop before following note	!
+8dd	vo-
+8b-	-tre
+(8cc	ma-
+=8	=8
+!changed half-note to tied dotted-quarter + eighth to better represent 6/8	!
+4b-)	-ri?
+8r	.
+==	==
+*-	*-
+!!!RNB: Tempo marking of dotted-quarter = 102 given
+!!!RNB: Added final eighth rest to complete pickup (and removed initial redundant rest)
+!!!EED1: Samuel Boone
+!!!EEV1: 2026/08/04
