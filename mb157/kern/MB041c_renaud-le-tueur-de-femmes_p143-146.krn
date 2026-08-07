@@ -1,0 +1,133 @@
+!!!id: MB041c
+!!!page: 143-146
+!!!COM: Anonymous
+!!!LYR: Anonymous
+!!!OCL: Marius Barbeau
+!!!PTL@@FR: Le Rossignol y Chante
+!!!OTL@@FR: Renaud, le tueur des femmes
+!!!PPR: Ministère du Nord Canadien et des Resources Nationales, Musée National du Canada
+!!!PDT: 1962
+**kern	**text
+*clefG2	*
+*k[f#,c#]	*
+*D:	*
+*M2/4	*
+*	*v:1
+*	*pline:1
+=1	=1
+!upward scoop symbol before following note, also in "II" (measure removed at the end)	!
+4f#	–Al-
+!upward scoop symbol after following note, not in "II" (measure removed from end)	!
+8.f#	-lons--
+16e	y,
+=2	=2
+8d	bell',
+8e	se
+!upward scoop symbol before following note	!
+8g	pro-
+8g	-me-
+=3	=3
+(4g	-ner
+4f#)	.
+*	*pline:2
+=4	=4
+(12%1f#L	Le
+12%1eJ	.
+12%1d)	long
+8c#	de
+8e	la
+=5	=5
+!	!
+(4.g	mer
+8e)	cou.
+!!LO:PB:g=original
+=6	=6
+!upward scoop symbol before following note	!
+!upward scoop symbol after following note	!
+4f#	lan-
+4d;,	-té.
+*	*pline:1r
+=||7	=||7
+(8Bq	.
+4d)	Al-
+8d	-lons--
+8f#	y,
+=8	=8
+8aL	bell',
+16b	.
+16cc#J/	.
+8dd	.
+8b	se
+=9	=9
+4a	pro-
+(8f#L	-me-
+8dJ)	.
+=10	=10
+2e	-ner,
+*	*pline:3
+=11	=11
+!upward scoop symbol before following note	!
+(8gL	En
+8bJ)	.
+8a	at-
+8g	-ten-
+!!LO:PB:g=original
+=12	=12
+8.f#L	-dant
+16dJ	.
+!upward scoop symbol before following note	!
+8g	.
+8f#	le
+=13	=13
+8.f#	dé-
+16eJ	.
+8.d	.
+16c#	-jeu-
+=14	=14
+2d,	-ner.
+*	*pline:1r
+=15	=15
+4d	Al-
+8d	-lons--
+8f#	y,
+=16	=16
+8aL	bell',
+16b	.
+16cc#J/	.
+8dd	.
+8b	s'y
+=17	=17
+4a^	pro-
+8f#L	-me-
+8dJ	.
+!!LO:PB:g=original
+=18	=18
+2e	-ner,
+*	*pline:3r
+=19	=19
+8gL	En
+8bJ	.
+8a	at-
+8g	-ten-
+=20	=20
+8.f#L	-dant
+16dJ	.
+8.g	.
+16f#	le
+=21	=21
+8.f#L	dé-
+16e	.
+8.dJ	.
+16c#	-jeu-
+=22	=22
+!	!quote mark after following syllable, but left out because there was no other opening quote mark earlier in the song
+2d	-ner.
+!!LO:TX:a:i:t=II
+==	==
+*-	*-
+!!!RWG: Removed final measure preceded by a "II", unsure if it indicates a second verse, but is effectively the same as the very first measure
+!!!RNB: Kind of hard to tell what's a scoop vs a slur in some cases
+!!!RNB: Tempo marking of eighth = 104 given
+!!!RWG: Not sure if second verse begins midway through at double bar line or after ending, will need to be double checked
+!!!EED1: Samuel Boone
+!!!EEV1: 2026/08/06
