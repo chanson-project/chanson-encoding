@@ -1,0 +1,113 @@
+!!!id: MB043
+!!!page: 151-152
+!!!COM: Anonymous
+!!!LYR: Anonymous
+!!!OCL: Marius Barbeau
+!!!PTL@@FR: Le Rossignol y Chante
+!!!OTL@@FR: Malheureuse qu'elle était
+!!!PPR: Ministère du Nord Canadien et des Resources Nationales, Musée National du Canada
+!!!PDT: 1962
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M6/8	*
+*	*v:1
+*	*pline:1
+4cc	C'est
+8dd	un'
+=1	=1
+[4.ee	fill'
+4ee]	.
+8ee	heu-
+=2	=2
+8eeL	-reu-
+8ddJ	.
+8cc	-se
+8dd	qu'ell[e]
+8ee	é-
+[8ee	-tait.
+=3	=3
+*M9/8	*
+8eeL]	.
+8dd	.
+8eeJ	.
+4dd	.
+*	*pline:2
+8ee	Ell'
+8ee	se
+16ddL	ma-
+16cc	-ri'
+[8ddJ	.
+!!LO:PB:g=original
+=4	=4
+*M12/8	*
+[2.dd]	.
+4dd]	.
+8dd	mal-
+8cc	-heu-
+8a\	-reus'
+[8dd	qu'elle
+=5	=5
+*M7/8	*
+[4.dd]	.
+4dd]	.
+8eeL	é-
+8ddJ	.
+=6	=6
+*M11/8	*
+16ddL	-tait.
+[16ccJ	.
+[2cc]	.
+!below 2 sets of duplets in original collection automatically turned into one quadruplet in Verovio	!
+(16%3cc]	.
+*	*pline:3
+16%3g)	La
+(16%3cc	nuit,
+16%3dd)	le
+=7	=7
+*M15/8	*
+[2.ee	jour,
+[4ee]	.
+8ee]	.
+8ee	son
+16eeL	ma-
+16ddJ	.
+8cc	-ri
+8dd	la
+8ee	bat-
+(8ee	-tait,
+*	*pline:4
+!!LO:PB:g=original
+=8	=8
+*M6/8	*
+4dd)	.
+8ee	La
+8ee	nuit,
+16ddL	le
+16ccJ	.
+[8dd	jour,
+=9	=9
+4.dd]	.
+8dd	le
+16ccL	sang
+16aJ	.
+[8dd	il
+=10	=10
+*M13/8	*
+[2.dd]	.
+[4dd]	.
+8dd]	.
+8cc	.
+4ee	lui
+8dd	ô-
+=11	=11
+8dd	-tait.
+[2cc	.
+8cc]	.
+==	==
+*-	*-
+!!!RNB: Tempo marking of dotted-quarter = 84 given
+!!!RNB: Time signature listed merely as /8, I have given time signatures at every metric change
+!!!EED1: Samuel Boone
+!!!EEV1: 2026/08/06
