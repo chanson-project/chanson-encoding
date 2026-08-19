@@ -1,0 +1,162 @@
+!!!id: MB045c
+!!!page: 157-160
+!!!COM: Anonymous
+!!!LYR: Anonymous
+!!!OCL: Marius Barbeau
+!!!PTL@@FR: Le Rossignol y Chante
+!!!OTL@@FR: La parricide
+!!!PPR: Ministère du Nord Canadien et des Resources Nationales, Musée National du Canada
+!!!PDT: 1962
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M6/8	*
+*	*v:1
+*	*pline:1
+8c	C'est
+=1	=1
+4.g	la
+8.g	fil-
+16a	-le
+16g	d'un
+=2	=2
+8e	prin-
+8.d	-ce,
+*	*refrain
+*	*italic
+*	*rline:R1
+16e	Ma-
+!removed unnecessary quadruplet markings	!
+(8c	-lon-
+8d	-lon-
+16e	-de-
+16f)	-lon
+=3	=3
+!accent above note below	!
+(8a^	-la.
+[4g)	.
+4g],	.
+*	*Xitalic
+*	*Xrefrain
+*	*pline:1r
+8c	C'est
+!!LO:PB:g=original
+=4	=4
+4.g	la
+8.g	fil-
+16a	-le
+8g	d'un
+=5	=5
+*M3/8	*
+8.e	prin-
+16c	-ce,
+*	*pline:2
+8e	Grand
+=6	=6
+*M6/8	*
+4.f	ma-
+8d	-tin
+8.c	s'est
+16B	le-
+=7	=7
+*M3/8	*
+4c;,	-vé',
+*	*pline:2r
+8e	Grand
+!!LO:PB:g=original
+=8	=8
+*M6/8	*
+4.g	ma-
+!removed unnecessary quadruplet marking	!
+(8a.L	-tin
+16gJ	.
+16f	s'est
+16a)	le-
+=9	=9
+[4.g	-vé',
+4g],	.
+*	*pline:2r
+8f	Grand
+!unknown symbol here	!
+=10	=10
+4.g	ma-
+(8a.L	-tin
+16gJ	.
+16f	s'est
+16a)	le-
+=11	=11
+[4.g	-vé'.
+4g],	.
+*	*pline:3
+8c	À
+!!LO:PB:g=original
+=12	=12
+4.g	la
+8.g	chambr'
+16a	de
+16g	son
+=13	=13
+8.e	pè-
+16d	-re,
+*	*refrain
+*	*italic
+*	*rline:R1
+8e	Ma-
+(8c	-lon-
+8d	-lon-
+16e	-de-
+16f)	-lon-
+=14	=14
+!accent above note below	!
+(8a^	-la,
+[4g)	.
+4g]	.
+*	*Xitalic
+*	*Xrefrain
+*	*pline:3r
+8c	À
+=15	=15
+4.g	la
+8.g	chambr'
+16a	de
+8g	son
+!!LO:PB:g=original
+=16	=16
+*M3/8	*
+8.e	pè-
+16c	-re,
+*	*pline:4
+8e	Son
+=17	=17
+*M6/8	*
+4.f	pèr[e]
+!unknown symbol here	!
+8d	ell[e]
+8.c	a
+16B	tu-
+=18	=18
+*M3/8	*
+8c,	-é,
+*	*pline:4r
+!plus sign next to following note	!
+8f	Son
+=19	=19
+*M6/8	*
+4.g	pèr[e]
+(8a.L	el-
+16gJ	-le
+16f	a
+16a)	tu-
+=20	=20
+4.g	-é.
+4r	.
+==	==
+*-	*-
+!!!RNB: Tempo marking of dotted-quarter = 125 given
+!!!RNB: Added quarter rest at the end to balance pickup
+!!!RWG: Unsure if verse 2 begins halfway through, since the lyrics are the same as verse 2 in variant b
+!!!RWG: Plus sign before certain notes, encoded as sharp for now but editorial note made
+!!!RWG: Scoop symbol before certain notes, assumed to be a slide but only editorial note made for now
+!!!EED1: Samuel Boone
+!!!EEV1: 2026/08/19
