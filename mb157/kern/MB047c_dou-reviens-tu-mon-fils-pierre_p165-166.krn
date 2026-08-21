@@ -1,0 +1,104 @@
+!!!id: MB047c
+!!!page: 165-166
+!!!COM: Anonymous
+!!!LYR: Anonymous
+!!!OCL: Marius Barbeau
+!!!PTL@@FR: Le Rossignol y Chante
+!!!OTL@@FR: D'où reviens-tu, mon fils Pierre?
+!!!PPR: Ministère du Nord Canadien et des Resources Nationales, Musée National du Canada
+!!!PDT: 1962
+**kern	**text
+*clefG2	*
+*k[f#,c#,g#]	*
+*A:	*
+*M2/4	*
+*	*v:1
+*	*pline:1h1
+8.a	–D'où
+16b/	re-
+=1	=1
+4cc#	-viens--
+4cc#	tu,
+=2	=2
+4a	A-
+4cc#	-lex-
+=3	=3
+4b	-an-
+[4b/	-dre?
+=4	=4
+4b/]	.
+*	*pline:1h2
+8a	–Je
+8b/	re-
+=5	=5
+4cc#	-viens
+4cc#	de
+=6	=6
+4a	mon
+4cc#	é-
+!!LO:PB:g=original
+=7	=7
+4b	-co-
+[4b	-le.
+=8	=8
+4b]	.
+*	*pline:2h1
+8b/	Tu
+8b/	as
+=9	=9
+4cc#	men-
+4cc#	-ti,
+=10	=10
+4b/	A-
+4b/	-lex-
+=11	=11
+4f#	-an-
+[4f#	-dre.
+=12	=12
+4f#]	.
+*	*pline:2h2
+8g#	Tu
+8a	re-
+=13	=13
+4.b/	-viens
+8cc#	de
+!!LO:PB:g=original
+=14	=14
+4.b/	voir
+8a	t'a-
+=15	=15
+4e;	-mie.
+*	*refrain
+*	*italic
+*	*rline:R1
+4e	Sen
+=16	=16
+8.a	bar-
+16b/	-be-
+8.cc#;	-li
+16dd	la-
+=17	=17
+4cc#	-ri
+4a	don-
+=18	=18
+8.cc#	-dai-
+16b	-ne
+8a	la
+8g#	ri-
+=19	=19
+4f#	-ré,
+*	*rline:R2
+4b/	Ah
+=20	=20
+4a	je
+4g#	m'en
+=21	=21
+4f#	vé!
+*	*Xitalic
+*	*Xrefrain
+==	==
+*-	*-
+!!!RWG: Unsure about where rline:R2 starts
+!!!RNB: Removed redundant rest at the beginning
+!!!EED1: Samuel Boone
+!!!EEV1: 2026/08/20
