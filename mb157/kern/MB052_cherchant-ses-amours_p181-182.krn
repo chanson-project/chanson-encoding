@@ -1,0 +1,94 @@
+!!!id: MB052
+!!!page: 181-182
+!!!COM: Anonymous
+!!!LYR: Anonymous
+!!!OCL: Marius Barbeau
+!!!PTL@@FR: Le Rossignol y Chante
+!!!OTL@@FR: Cherchant ses amours
+!!!PPR: Ministère du Nord Canadien et des Resources Nationales, Musée National du Canada
+!!!PDT: 1962
+**kern	**dynam	**text
+*clefG2	*	*
+*k[b-,e-,a-,d-]	*	*
+*A-:	*	*
+*M2/4	*	*
+*	*	*v:1
+*	*	*pline:1h1
+4e-	.	Un
+=1	=1	=1
+8.a-	.	ca-
+16g	.	-pi-
+8a-	.	-tain'
+8b-/	.	de
+=2	=2	=2
+(4cc	.	guer-
+8a-q	.	.
+4a-)	.	-re,
+*	*	*pline:1h2
+=3	=3	=3
+4.cc	.	Re-
+16ee-	.	-ve-
+8dd-	.	-nant
+8cc	.	de
+!!LO:PB:g=original
+=4	=4	=4
+!slur below is squiggly, and grace note seems to be same as following note	!	!
+(4b-/	.	guer-
+8fq	.	.
+8f)	.	-re,
+*	*	*pline:2h1
+8g	.	En
+=5	=5	=5
+*M3/4	*	*
+(4e-	.	cher-
+.	<	.
+4dd-)	>	-chant
+8b-/	.	ses
+8g	.	a-
+=6	=6	=6
+2a-,	.	-mours,
+*	*	*pline:2h2
+8a-	.	Il
+8b-/	.	les
+=7	=7	=7
+*M2/4	*	*
+!slur below is squiggly	!	!
+(4cc	<	a
+4f)	>	cher-
+!!LO:PB:g=original
+=8	=8	=8
+*M3/4	*	*
+(4g	.	ché's.
+4f),	.	.
+*	*	*pline:3h1
+8g	.	Il
+8a-	.	les
+=9	=9	=9
+*M2/4	*	*
+!slur below is squiggly	!	!
+(4b-/	.	a
+4e-)	.	trou-
+=10	=10	=10
+(4f	.	-vé's
+8e-q	.	.
+4e-)	.	.
+*	*	*pline:3h2
+=11	=11	=11
+!upward scoop before following note	!	!
+(4dd-	<	Dans
+.	>	.
+8b-q	.	.
+8.b-/)	.	u-
+16g	.	-ne
+=12	=12	=12
+!upward scoop before following note	!	!
+2a-	.	tour.
+=13	=13	=13
+4r	.	.
+==	==	==
+*-	*-	*-
+!!!RWG: 'cresc.' and 'decresc.' should be hairpins, need to be corrected
+!!!RNB: Added final partial measure with rest to balance pickup
+!!!RNB: Tempo marking of quarter = 118 given
+!!!EED1: Samuel Boone
+!!!EEV1: 2026/08/21
