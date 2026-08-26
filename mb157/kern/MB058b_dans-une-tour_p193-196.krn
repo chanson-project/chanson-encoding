@@ -1,0 +1,104 @@
+!!!id: MB058b
+!!!page: 193-196
+!!!COM: Anonymous
+!!!LYR: Anonymous
+!!!OCL: Marius Barbeau
+!!!PTL@@FR: Le Rossignol y Chante
+!!!OTL@@FR: Dans une tour
+!!!PPR: Ministère du Nord Canadien et des Resources Nationales, Musée National du Canada
+!!!PDT: 1962
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M6/8	*
+*	*v:1
+*	*pline:1h1
+8a	Ap-
+=1	=1
+4cc	-pro-
+8cc	-chez--
+4.cc	vous,
+16a	pour
+16b-/	é-
+16g	-cou-
+=2	=2
+16%3f,	-ter,
+*	*pline:1h2
+16%3a	Jeu-
+8.cc	-nes
+16g	gar-
+16cc	-çons
+16b-	et
+!!LO:PB:g=original
+=3	=3
+(24%1b-L	fil-
+24%1a	.
+24%1gJ)	.
+[4f	-les!
+4f],	.
+*	*pline:2h1
+8A	C'est
+=4	=4
+(16%3.f	u-
+32%3g)	-ne
+8a~	fi-
+8g	-lle
+8a	qu'a-
+=5	=5
+(16%3b-/	-vait
+32%3cc)	deux
+16b-	a-
+4a	-mants,
+*	*pline:2h2
+8cc	Ell'
+=6	=6
+4cc	ne
+8f	soit
+!removed unnecessary triplet marking	!
+(8b-L	le-
+8aJ	-quel
+8g)	.
+!!LO:PB:g=original
+=7	=7
+[4.f	prendr'.
+!following fermata is upside-down	!
+8f];	.
+8r	.
+*	*pline:3h1
+8c	Ell[e]
+=8	=8
+*M9/8	*
+!upward scoop before following note	!
+8f	a
+16f	un
+!downward scoop before following note	!
+8a	pauvr[e]
+16g	un
+16a	ai-
+8b-	-ma-
+16cc	-ble
+16b-	gar-
+=9	=9
+8a;	-çon.
+*	*pline:3h2
+!upward scoop before following note	!
+8cc	Ell[e]
+8.cc	a
+!removed unnecessary triplet marking	!
+(16dd	aus-
+8ccL	-si
+8b-J)	.
+8a	un
+8g	rich[e]
+16a	o-
+16g	-pu-
+=10	=10
+4f	-lent.
+8r	.
+4r	.
+==	==
+*-	*-
+!!!RNB: Removed initial redundant rest and added some at the end to complete partial measure
+!!!EED1: Samuel Boone
+!!!EEV1: 2026/08/25
