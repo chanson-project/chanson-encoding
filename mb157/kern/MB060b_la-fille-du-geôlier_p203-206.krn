@@ -1,0 +1,124 @@
+!!!id: MB060b
+!!!page: 203-206
+!!!COM: Anonymous
+!!!LYR: Anonymous
+!!!OCL: Marius Barbeau
+!!!PTL@@FR: Le Rossignol y Chante
+!!!OTL@@FR: La fille du geôlier
+!!!PPR: Ministère du Nord Canadien et des Resources Nationales, Musée National du Canada
+!!!PDT: 1962
+**kern	**text
+*clefG2	*
+*k[f#,c#]	*
+*A:	*
+*M6/8	*
+*	*v:1
+*	*pline:1h1
+!upward scoop before following note	!
+8a	C'é-
+8f#	-tait
+8a	la
+=1	=1
+(8bL	fill'
+8aJ)	.
+16bL	d'un
+16cc#J/	.
+!	!corrected erroneous accents on following words
+8.dd^L	ge-
+16cc#J	.
+8b	-ô-
+=2	=2
+*M3/8	*
+8aL	-lier,
+8f#J,	.
+*	*pline:1h2
+8a	Vrai
+=3	=3
+*M6/8	*
+!upward scoop before following note	!
+8bL	Dieu
+8aJ	.
+16bL	qu'el-
+16cc#J/	.
+8ddL	-le
+24%1ee-	est
+24%1dd	.
+24%1cc#J	.
+8b	jo-
+=4	=4
+*M3/8	*
+4a	-li-
+!changed following erroneous quadruplet into 32nd notes	!
+(32bL	.
+32a	.
+32g#	.
+32b-J)	.
+!!LO:PB:g=original
+=5	=5
+*M6/8	*
+4.a,	-ye!
+*	*pline:2
+8d	Ell[e]
+8f#	est
+8a	jo-
+=6	=6
+16b-L	-li[e]
+16aJ	.
+8g	.
+8a	et
+8aL	faits
+8.bnJ	.
+16g	au
+=7	=7
+4.g,	tour.
+*	*pline:3
+8e	Un
+8g	pri-
+8b/	-son-
+=8	=8
+!upward scoop from above before following note	!
+4a	-nier
+8f#	lui
+4d	fait
+24%1f#L	l'a-
+24%1d	.
+24%1f#~J	.
+!!LO:PB:g=original
+=9	=9
+4.a,	-mour.
+*	*pline:2r
+24%1aL	Ell[e]
+24%1g	.
+24%1aJ~	.
+8f#	est
+8a	jo-
+=10	=10
+16bL	-li-
+16aJ	.
+8g	-e
+8a	ell[e]
+8aL	est
+8b.J	faits
+16g	au
+=11	=11
+4.g,	tour,
+*	*pline:3r
+8e	Un
+8g	pri-
+8b/	-son-
+=12	=12
+4a;	-nier
+8f#	lui
+4d	fait
+32f#L	l'a-
+32d	.
+8.f#J	.
+=13	=13
+4a	-mour.
+8r	.
+==	==
+*-	*-
+!!!RNB: Tempo marking of eighth = 142 given
+!!!RNB: Added eighth rest at end to complete pickup
+!!!EED1: Samuel Boone
+!!!EEV1: 2026/08/25
