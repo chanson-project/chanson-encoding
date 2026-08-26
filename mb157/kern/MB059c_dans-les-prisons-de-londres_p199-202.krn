@@ -1,0 +1,112 @@
+!!!id: MB059c
+!!!page: 199-200
+!!!COM: Anonymous
+!!!LYR: Anonymous
+!!!OCL: Marius Barbeau
+!!!PTL@@FR: Le Rossignol y Chante
+!!!OTL@@FR: Dans les prisons de Londres
+!!!PPR: Ministère du Nord Canadien et des Resources Nationales, Musée National du Canada
+!!!PDT: 1962
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M2/4	*
+*	*v:1
+*	*pline:1h1
+8c	Dans
+=1	=1
+8f.	la
+16f	pri-
+8f	-son
+8g	de
+=2	=2
+8gL	Lon-
+16f	.
+16eJ	.
+8g	-dres,
+*	*pline:1h1r
+8a	Dans
+=3	=3
+8aq	.
+16gL	la
+16fJ	.
+8e	pri-
+8f	-son
+8g	de
+=4	=4
+(16g^L	Lon-
+16f	.
+16e	.
+16fJ)	.
+[4g	.
+!!LO:PB:g=original
+=5	=5
+8g],	-dres,
+*	*pline:1h2
+!	!unsure if following word is spelled correctly
+8a	Luy
+8b-/	a-t--
+8cc/	un
+=6	=6
+8g	pri-
+8f	-son-
+(8qg	.
+(16fL)	-nier,
+8.eJ)	.
+*	*refrain
+*	*italic
+*	*rline:R1
+=7	=7
+8c	Bon
+16d	fa-
+16e	-lu-
+8f	-ron
+16f	fa-
+16f	-lu-
+=8	=8
+8gL	-ret-
+(24%1f	.
+24%1e	.
+24%1fJ)	.
+[4g	-te,
+!!LO:PB:g=original
+=9	=9
+4g],	.
+*	*Xitalic
+*	*Xrefrain
+*	*pline:1h2r
+!	!same as above, unsure if following word is spelled correctly
+8a	Luy
+8b-	a-t--
+8cc	un
+=10	=10
+8g	pri-
+8g	-son-
+(8qg	.
+(16fL)	-nier,
+8.eJ)	.
+*	*refrain
+*	*italic
+*	*rline:R2
+=11	=11
+8c	Bon
+16d	fa-
+16e	-lu-
+8f	-ron
+!	!erroneous hyphen removed
+8g	don-
+=12	=12
+(8a	-dé.
+4.f)	.
+=13	=13
+4r	.
+8r	.
+*	*Xitalic
+*	*Xrefrain
+==	==
+*-	*-
+!!!RNB: Tempo marking of quarter = 94 given
+!!!RNB: Removed initial rest and added final partial measure of rests to complete pickup
+!!!EED1: Samuel Boone
+!!!EEV1: 2026/08/25
