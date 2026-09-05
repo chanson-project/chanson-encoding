@@ -151,12 +151,14 @@ NOTE: Tese should alsop be entered in the corresponding columns in the master ne
    | filter option | meaning |
    |------------| --------  |
    | -a | show text above score |
-   | -y | show hyphenation |
+   | -y | show hyphenation  with syllable count |
+   | -C | show hyphenation without syllable count |
    | --no-repeats | hide repeated lines |
    | --refrains| show only lines labeled `*rline:` |
    | --verse | show only lines labeled `*pline:` | 
    ```
-
+Text tool options with examples can be found at
+https://github.com/chanson-project/chanson-encoding/discussions/79
    
 </details>
 
