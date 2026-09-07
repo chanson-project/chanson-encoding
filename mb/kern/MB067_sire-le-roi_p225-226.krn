@@ -1,0 +1,91 @@
+!!!id: MB067
+!!!page: 225-226
+!!!COM: Anonymous
+!!!LYR: Anonymous
+!!!OCL: Marius Barbeau
+!!!PTL@@FR: Le Rossignol y Chante
+!!!OTL@@FR: Sire le roi!
+!!!PPR: Ministère du Nord Canadien et des Resources Nationales, Musée National du Canada
+!!!PDT: 1962
+**kern	**text
+*clefG2	*
+*k[b-,e-,a-]	*
+*E-:	*
+*M3/4	*
+*	*v:1
+*	*pline:1h1
+8e-	–Si-
+8g	-re
+8a-	le
+=1	=1
+8.b-/	roi,
+*	*pline:1h2
+16b-/	Don-
+8b-/	-nez--
+8ee-	moi
+8ee-	vo-
+8b-	-tre
+=2	=2
+4cc-	fi-
+8b-/,	-lle,
+*	*pline:1h1r
+8a-	Sir[e]
+8g	.
+8a-	le
+=3	=3
+8.b-/	roi,
+*	*pline:1h2r
+16b-/	Don-
+8b-/	-nez--
+8ee-	moi
+8ee-	vo-
+8b-	-tre
+!!LO:PB:g=original
+=4	=4
+4cc-	fi-
+8b-,	-lle.
+*	*pline:2h1
+8b-	Bra-
+8b-	-ve
+8b-	sol-
+=5	=5
+4e-	-dat,
+*	*refrain
+*	*italic
+*	*rline:1
+8f	Tra-
+8a-	-la-
+8g	-la-
+16f	-la-
+16g	-la-
+=6	=6
+*M2/4	*
+8e-,	-la!
+*	*Xitalic
+*	*Xrefrain
+*	*pline:2h1r
+8b-/	Bra-
+8b-/	-ve
+8b-/	sol-
+!!LO:PB:g=original
+=7	=7
+*M3/4	*
+8.e-	-dat,
+*	*pline:2h2
+16f	Tu
+8g	n'es
+8a-	pas
+8b-	as-
+8cc	-sez
+=8	=8
+(8a-L	ri-
+8gJ)	.
+[2a-	-che.
+=9	=9
+4a-]	.
+8r	.
+==	==
+*-	*-
+!!!RNB: Fixed rests at beginning and fixed ending to correct the pickup & entry into v2
+!!!EED1: Samuel Boone
+!!!EEV1: 2026/09/04

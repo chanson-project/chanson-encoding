@@ -1,0 +1,202 @@
+!!!id: MB066
+!!!page: 223-224
+!!!COM: Anonymous
+!!!LYR: Anonymous
+!!!OCL: Marius Barbeau
+!!!PTL@@FR: Le Rossignol y Chante
+!!!OTL@@FR: Sire mon roi!
+!!!PPR: Ministère du Nord Canadien et des Resources Nationales, Musée National du Canada
+!!!PDT: 1962
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M6/8	*
+*	*v:1
+*	*pline:1h1
+=1	=1
+!upward scoop before following note	!
+4.g	–Si-
+4g	-re
+8g	mon
+=2	=2
+24%1aL	roi,
+24%1b	.
+24%1aJ	.
+[4g	.
+4g],	.
+*	*pline:1h2
+8d	Don-
+=3	=3
+4g	-nez--
+8a	moi
+16bL	vo-
+16aJ	.
+8.b/	.
+16cc/	-tre
+=4	=4
+*M3/8	*
+8.bL	fi-
+16aJ	.
+8a	-lle!
+*	*pline:1h1r
+=5	=5
+*M6/8	*
+4.a	Si-
+8bq	.
+8a	-re
+(24%1bL	mon
+24%1a	.
+24%1g#J)	.
+[8a	roi,
+!!LO:PB:g=original
+=6	=6
+[4.a]	.
+4a],	.
+*	*pline:1h2r
+8c	Don-
+=7	=7
+4a	-nez--
+8b/	moi
+4cc	vo-
+8dd	-tre
+=8	=8
+*M3/8	*
+8.ccL	fi-
+16bJ	.
+8a\	-lle!
+*	*refrain
+*	*italic
+*	*rline:R1
+=9	=9
+*M6/8	*
+4g	Ra--
+8a-	a-
+8gL	-ra-
+8.f#J	.
+16e	-dri-
+=10	=10
+[4.d	-da!
+4d],	.
+*	*Xitalic
+*	*Xrefrain
+*	*pline:1h2r
+!unnecessary natural before following note removed	!
+(8c	Don-
+!!LO:PB:g=original
+=11	=11
+4g)	-nez--
+8a	-moi
+!upward scoop before following note	!
+4b/	.
+8cc	votre
+=12	=12
+!upward scoop before following note	!
+8bL	fi-
+8.a	.
+16gJ	.
+[4.g	-lle!
+!	!verse 2 seems to start here in the score but the first word begins later on, left diplomatic for now
+*	*v:2
+=||13	=||13
+[4.g]	.
+8g]	.
+8r	.
+*	*pline:2h1
+8d	–Je
+=14	=14
+4B	don-
+8d	-ne
+!upward scoop before following note	!
+4g	pas
+8g	ma
+=15	=15
+8bL	fill'
+8a	.
+[8gJ	.
+4g],	.
+*	*pline:2h2
+16d	À
+16d	un
+!!LO:PB:g=original
+=16	=16
+4g	fou-
+8a	-tu
+!upward scoop before following note	!
+4b/	cou-
+8b/	-tu-
+=17	=17
+8ccq	.
+4b/	-rier,
+16ccL	.
+16bJ/	.
+4a	.
+*	*pline:2h1r
+8a	Je
+=18	=18
+!upward scoop before following note	!
+4a	don-
+8a	-ne
+32bL	pas
+32a	.
+8.gJ	.
+8a	ma
+=19	=19
+[4.a	fill[e]
+4a],	.
+*	*pline:2h2v
+16c	À
+16c	un
+!!LO:PB:g=original
+=20	=20
+4a	fou-
+8b/	-tu
+!upward scoop before following note	!
+4cc	cou-
+8dd	-tu-
+=21	=21
+*M3/8	*
+8cc	-ri-
+!	!unsure if following end of word spelled correctly
+24%1ddL	-er--
+24%1cc	.
+24%1bJ	.
+8a\	a,
+*	*refrain
+*	*italic
+*	*rline:R1r
+=22	=22
+*M6/8	*
+4g	Ra--
+8a	a-
+8gL	-ra-
+8.f#J	.
+16e	-dri-
+=23	=23
+[4.d	-da,
+4d]	.
+*	*Xitalic
+*	*Xrefrain
+*	*pline:2h2vr
+16c	À
+16c	un
+=24	=24
+!upward scoop before following note	!
+4g	fou-
+8a	-tu
+32bL	cou-
+32a	.
+8.bJ	.
+8b/	-tu-
+=25	=25
+4b/	-ri-
+16aL	-er--
+16aJ	.
+8f#q	a.
+4.g	.
+==	==
+*-	*-
+!!!RNB: Tempo marking of eighth = 142 given
+!!!RWG: Unsure exactly where verse 2 should begin, note made in the code
+!!!EED1: Samuel Boone
+!!!EEV1: 2026/09/04

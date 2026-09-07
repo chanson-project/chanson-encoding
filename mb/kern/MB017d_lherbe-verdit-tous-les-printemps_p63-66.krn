@@ -1,0 +1,141 @@
+!!!id: MB017d
+!!!page: 63-66
+!!!COM: Anonymous
+!!!LYR: Anonymous
+!!!OCL: Marius Barbeau
+!!!PTL@@FR: Le Rossignol y Chante
+!!!OTL@@FR: L'herbe verdit tous les printemps
+!!!PPR: Ministère du Nord Canadien et des Resources Nationales, Musée National du Canada
+!!!PDT: 1962
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M2/4	*
+*	*v:1
+*	*pline:1
+=1	=1
+8dq	.
+4g	Dré
+8g	le
+8g	ma-
+=2	=2
+8g	-tin
+8f#	a-
+8f#	-vant
+8g	l'au-
+=3	=3
+*M3/4	*
+2a	-ror'
+(12%1bL	du
+12%1a	.
+12%1gJ)	.
+=4	=4
+*M2/4	*
+2a	jour,
+*	*pline:1r
+=5	=5
+!missing eighth note in this measure	!
+8dd	Dré
+8cc#	le
+8b	ma-
+=6	=6
+16aL	-tin
+16gJ	.
+8f#	à
+8f#L	l'au-
+8gJ	.
+!!LO:PB:g=original
+=7	=7
+4a	-ror'
+16bL	du
+16a	.
+8gJ	.
+=8	=8
+2g	jour,
+*	*pline:2
+=9	=9
+8.gL	J'ai
+16aJ	.
+8b	en-
+!plus sign before following note, encoded as sharp	!
+8cc#	-ten-
+=10	=10
+*M3/4	*
+2dd	-du
+8cc	.
+8b	chan-
+=11	=11
+!missing 2/4 time signature added	!
+*M2/4	*
+8aL	-ter
+8gJ	.
+4a	l'a-
+=12	=12
+2d	-mour
+*	*pline:3
+=13	=13
+8a	Par
+8b/	u-
+8.cc	-ne
+16a	jo-
+!!LO:PB:g=original
+=14	=14
+8.gL	-li'
+16f#J	.
+8.g	pas-
+16a	-se-
+=15	=15
+4a	-rel-
+32bL	.
+32a	.
+8g	.
+!following note originally 32nd note, encoded as 16th note to complete measure	!
+16bJ	.
+=16	=16
+2a	-le,
+*	*pline:4
+=17	=17
+4g	Que
+16aL	tous
+16bJ	.
+!plus sign before following note, encoded as sharp	!
+8cc#	les
+=18	=18
+!scoop symbol before note	!
+4dd	oi-
+8ccL	-seaux
+8bJ	.
+=19	=19
+8aL	d'a-
+8gJ	.
+4a	-len-
+=20	=20
+2d	-tour
+*	*pline:5
+=21	=21
+8a.	Vienn'
+8b/	se
+8cc	re-
+16a	-pe-
+!!LO:PB:g=original
+=22	=22
+8gL	-ser
+8f#J	.
+8g	au-
+8a	-près
+=23	=23
+4a	d'el-
+8bL	.
+8aJ	.
+=24	=24
+2g	-le.
+==	==
+*-	*-
+!!!RWG: Unsure what to do about slightly different rhythm & time sig change in beginning of second verse
+!!!RWG: Missing eighth note duration in m.5
+!!!RWG: Plus sign before certain notes, encoded as sharp for now but editorial note made
+!!!RWG: Scoop symbol before certain notes, assumed to be a slide but only editorial note made for now
+!!!RNB: Missing time signature in m.11, m.15 final note should be 16th note and not 32nd
+!!!EED1: Samuel Boone
+!!!EEV1: 2026/07/06

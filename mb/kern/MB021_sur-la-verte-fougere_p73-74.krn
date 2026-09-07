@@ -1,0 +1,114 @@
+!!!id: MB021
+!!!page: 73-74
+!!!COM: Anonymous
+!!!LYR: Anonymous
+!!!OCL: Marius Barbeau
+!!!PTL@@FR: Le Rossignol y Chante
+!!!OTL@@FR: Sur la verte fougère
+!!!PPR: Ministère du Nord Canadien et des Resources Nationales, Musée National du Canada
+!!!PDT: 1962
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M2/4	*
+*	*v:1
+*	*pline:1h1
+=1	=1
+*^	*
+4cc	8ccL	Bon-
+.	8bJ	.
+8.a	8.a	-jour,
+16b/	16b	jo-
+=2	=2	=2
+4.cc	4.cc	-li'
+8g	8g	ber-
+=3	=3	=3
+8.gL	4.g	-gè-
+16fJ	.	.
+8e	.	-re,
+*	*	*pline:1h2
+8g	8f	Ai-
+=4	=4	=4
+8a	4e	-mabl[e]
+8cc/	.	et
+*v	*v	*
+8a	sans
+8b/	sou-
+=5	=5
+2cc	-ci!
+*	*pline:2h1
+=6	=6
+4cc	Sur
+8aL	la
+8bJ	.
+=7	=7
+4cc	ver-
+8cc	-te
+8g	fou-
+!!LO:PB:g=original
+=8	=8
+8.gL	-gè-
+16fJ	.
+8e	-re,
+*	*pline:2h2
+8g	Que
+=9	=9
+8a	fai-
+8cc	-tes--
+8a	vous
+8b/	i-
+=10	=10
+[2cc	-ci?
+=11	=11
+8cc]	.
+*	*pline:3h1
+8g	Oh!
+8cc	je
+8ee	n'ai
+=12	=12
+!downward scoop symbol before note	!
+4.gg	rien
+8gg	à
+=13	=13
+8ffL	fai-
+8eeJ	.
+8dd	-re
+*	*pline:3h2
+[8cc	Que
+=14	=14
+8ccL]	.
+8eeJ	.
+8dd	pren-
+8b	-dre
+!!LO:PB:g=original
+=15	=15
+8.g	soin
+*	*pline:4h1
+16g	Du
+8cc	trou-
+8ee	-peau
+=16	=16
+!downward scoop symbol before note	!
+4.gg	de
+8gg	mon
+=17	=17
+8.ffL	pè-
+16eeJ	.
+8.dd	-re,
+*	*pline:4h2
+16cc	Qui
+=18	=18
+8bL	n'est
+16cc	.
+16bJ	.
+8.a	.
+16b/	pas
+=19	=19
+2cc	loin.
+==	==
+*-	*-
+!!!RWG: Scoop symbol before certain notes, assumed to be a slide but only editorial note made for now
+!!!RNB: Second verse intro encoded as lower voice, although unsure if correct way to deal with this
+!!!EED1: Samuel Boone
+!!!EEV1: 2026/07/10

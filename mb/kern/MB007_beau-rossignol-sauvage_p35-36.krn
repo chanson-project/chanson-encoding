@@ -1,0 +1,83 @@
+!!!id: MB007
+!!!page: 35-36
+!!!COM: Anonymous
+!!!LYR: Anonymous
+!!!OCL: Marius Barbeau
+!!!PTL@@FR: Le Rossignol y Chante
+!!!OTL@@FR: Beau rossignol sauvage
+!!!PPR: Ministère du Nord Canadien et des Resources Nationales, Musée National du Canada
+!!!PDT: 1962
+**kern	**text
+*clefG2	*
+*k[b-,e-]	*
+*B-:	*
+*M6/8	*
+*	*v:1
+*	*pline:1h1
+8f	.
+=1	=1
+*^	*
+8b-\	4.b-/	–Beau
+8b-\	.	ros-
+8dd\	.	-si-
+4b-\	8dd/	-gnol
+.	8b-/	.
+*v	*v	*
+8dd	sau-
+=2	=2
+4ff	-va-
+8ee-	.
+4dd	-ge,
+*	*pline:1h2
+8b-	Le
+=3	=3
+4a	roi
+8cc	des
+4ee-	a-
+8dd	-mou-
+=4	=4
+[4.b-	-reux,
+4b-]	.
+*	*pline:2h1
+8b-	Va
+!!LO:PB:g=original
+=5	=5
+4ee-	dir[e]
+8dd	à
+4cc	ma
+8b-	maî-
+=6	=6
+4b-/	-tres-
+16aL	.
+16gJ	.
+4.f	-se
+*	*pline:2h2
+=7	=7
+4.ee-	Que
+8cc	je
+8dd	vais
+8ee-	al-
+=8	=8
+4ff	-ler
+8dd	la
+!unknown accidental-like upsilon marking in front of following note	!
+4b-/	voir,
+*	*pline:3
+8cc	Par
+!!LO:PB:g=original
+=9	=9
+4dd	un
+8ee-	di-
+8ccL	-man-
+8.b-J	-che
+16a	au
+=10	=10
+[4.b-	soir.
+4b-]	.
+8r	.
+==	==
+*-	*-
+!!!RWG: Slight variation to opening in subsequent verse; not sure if encoded alternate melody properly (separated into different voices)
+!!!RWG: Unknown marking in front of 'b-' in m.8, editorial note made for now
+!!!EED1: Samuel Boone
+!!!EEV1: 2026/06/23

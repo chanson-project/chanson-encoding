@@ -1,0 +1,120 @@
+!!!id: MB029
+!!!page: 97-98
+!!!COM: Anonymous
+!!!LYR: Anonymous
+!!!OCL: Marius Barbeau
+!!!PTL@@FR: Le Rossignol y Chante
+!!!OTL@@FR: Voilà la récompense!
+!!!PPR: Ministère du Nord Canadien et des Resources Nationales, Musée National du Canada
+!!!PDT: 1962
+**kern	**text	**text
+*clefG2	*	*
+*k[f#]	*	*
+*G:	*	*
+*M6/8	*	*
+*	*v:1	*v:2
+*	*pline:1	*pline:
+8d	Pas-	Je
+=1	=1	=1
+4.g	-sant	m'en
+8a	par	vas
+8b/	la	à
+8cc/	grand	la
+=2	=2	=2
+4b/	ru-	por-
+8a	.	.
+4.g	-e,	-te,
+=3	=3	=3
+8.dd	je	trois
+16cc	vois	pe-
+8b	u-	-tits
+8.aL	-ne	coups
+16bJ	.	.
+8cc/	clar-	frap-
+=4	=4	=4
+*M3/8	*	*
+4dd	-té.	-pai.
+
+(16bL	Pas-	Je
+16gJ)	.	.
+=5	=5	=5
+*M6/8	*	*
+4.g	-sant	m'en
+8a	par	vas
+8b/	la	à
+8cc/	grand	la
+!!LO:PB:g=original
+=6	=6	=6
+4b/	ru-	por-
+8a	.	.
+4.g	-e,	-te,
+=7	=7	=7
+8.dd	je	trois
+16cc	vois	pe-
+8b	u-	-tits
+8.aL	-ne	coups
+16bJ	.	.
+8cc/	clar-	frap-
+=8	=8	=8
+!following note changed from half-note to dotted half-note, to make sense in 6/4 & match other parts of the song	!	!
+2.dd	-té.	-pai.
+
+=9	=9	=9
+!scoop symbol before note	!	!
+4.dd	Ah!	–Rou-
+4b	c'é-	-vrez,
+8dd	-tait	rou-
+=10	=10	=10
+(8ggL	ma	-vrez
+8ff#J	.	.
+8ee)	maî-	la
+4dd	-tresse,	port',
+(16bL	qui	c'est
+16gJ)	.	.
+!!LO:PB:g=original
+=11	=11	=11
+4g	al-	ton
+8a	-lait	fi-
+!scoop symbol before note	!	!
+4cc	se	-dèl[e]
+!scoop symbol after note	!	!
+!following note changed to an eighth note	!	!
+8b	cou-	a-
+!scoop symbol after note	!	!
+=12	=12	=12
+2.a	-cher,	-mant,
+
+=13	=13	=13
+!scoop symbol before note	!	!
+4.dd	Ar-	Qui
+4b	-ri-	re-
+8dd	-vant	-vient
+=14	=14	=14
+8ggL	à	de
+8ff#J	.	.
+8ee	la	la
+8.dd	porte,	guerre,
+16b/	trois	dans
+8g	.	.
+=15	=15	=15
+8.aL	pe-	un
+16bJ	.	.
+8cc/	-tits	beau
+8bL	coups	bâ-
+8ddJ	.	.
+16bL	frap-	-ti-
+16gJ	.	.
+=16	=16	=16
+2.g	-pai.	-ment.
+=17	=17	=17
+4r	.	.
+8r	.	.
+4r	.	.
+==	==	==
+*-	*-	*-
+!!!RNB: Lyrics on the score match the 2nd verse, so encoded first two
+!!!RNB: Removed rest at the beginning & added some at end to correct pickup
+!!!RNB: A couple of note durations changed to match time signature
+!!!RWG: Scoop symbols before and after some notes
+!!!EED1: Samuel Boone
+!!!EEV1: 2026/07/29

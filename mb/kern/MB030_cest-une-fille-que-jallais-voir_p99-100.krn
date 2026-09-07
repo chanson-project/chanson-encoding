@@ -1,0 +1,98 @@
+!!!id: MB030
+!!!page: 99-100
+!!!COM: Anonymous
+!!!LYR: Anonymous
+!!!OCL: Marius Barbeau
+!!!PTL@@FR: Le Rossignol y Chante
+!!!OTL@@FR: C'est une fille que j'allais voir
+!!!PPR: Ministère du Nord Canadien et des Resources Nationales, Musée National du Canada
+!!!PDT: 1962
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M9/8	*
+*	*v:1
+*	*pline:1
+8d	C'est
+4g	u-
+8b/	-ne
+=1	=1
+[4.dd	fill'
+4dd]	.
+8b	que
+4g	j'al-
+8g	-lais
+=2	=2
+*M6/8	*
+4ee	voi-
+8dd	.
+4dd,	-re
+8cc	qui
+=3	=3
+*M9/8	*
+4b	n'a-
+8cc	-vait
+!scoop	!
+4dd	pas
+8cc	en-
+8.aL	-cor
+16gJ	.
+8f#	quinz[e]
+!!LO:PB:g=original
+=4	=4
+*M3/8	*
+4.g	ans.
+
+=5	=5
+*M6/8	*
+4.dd	Ell'
+4gg	n'a-
+8dd	-vait
+=6	=6
+4ee	pas
+8dd	en-
+4ee	-cor
+8cc	quinz[e]
+=7	=7
+4a	ans,
+8b/	j'al-
+4cc	-lais
+8dd	la
+=8	=8
+*M3/8	*
+8ee	voir.
+4dd,	.
+
+=9	=9
+*M6/8	*
+4.dd	Son
+4gg	pèr
+8dd	m'a
+!!LO:PB:g=original
+=10	=10
+4ee	don-
+8dd	-né
+4ee	mon
+8cc	con-
+=11	=11
+*M3/8	*
+4.a	-gé,
+=12	=12
+*M6/8	*
+4cc	quel
+8ee	.
+4dd	dé-
+8b	-ses-
+=13	=13
+[4.g	-poir!
+4g]	.
+8r	.
+=14	=14
+4r	.
+==	==
+*-	*-
+!!!RNB: Removed initial 6/8 time signature, since it was unnecessary, but added final measure
+!!!RWG: Second verse has different rhythms, with different time signatures (not sure how we want to tackle this)
+!!!EED1: Samuel Boone
+!!!EEV1: 2026/07/30

@@ -1,0 +1,158 @@
+!!!id: MB064b
+!!!page: 215-218
+!!!COM: Anonymous
+!!!LYR: Anonymous
+!!!OCL: Marius Barbeau
+!!!PTL@@FR: Le Rossignol y Chante
+!!!OTL@@FR: Ah! je me suis levé
+!!!PPR: Ministère du Nord Canadien et des Resources Nationales, Musée National du Canada
+!!!PDT: 1962
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M6/8	*
+*	*v:1
+*	*pline:1
+8e	Ma-
+=1	=1
+4a	-tin,
+8b/	j'me
+4a	suis
+8g	le-
+=2	=2
+4a	-vé,
+*	*pline:2
+8b/	Plus
+!plus sign before following note	!
+4cc	ma-
+8cc	-tin
+=3	=3
+(8eeL	que
+8ddJ)	.
+!plus sign before following note	!
+16cc	la
+4cc	lu-
+24%1bL	.
+24%1a	.
+24%1ccJ	.
+=4	=4
+[4.b	-ne,
+4b],	.
+*	*pline:3
+8a	Pour
+!!LO:PB:g=original
+=5	=5
+4.b	al-
+(8.ccL	-ler
+16b	.
+8aJ	.
+=6	=6
+[4.b/)	voir
+4b]/,	.
+*	*pline:1
+8a	La
+=7	=7
+!Verovio automatically labels entire measure as one combined quadruplet, instead of two separate duplets as in the original	!
+16%3b	cell'
+!upward scoop before following note	!
+16%3cc	que
+16%3b	j'ai-
+16%3a	-me
+=8	=8
+[4.g	tant
+4g]	.
+*	*pline:5
+8a	De-
+=9	=9
+!upwards scoop before following note	!
+4b/	-puis
+16%3ccL	l'â-
+16%3aJ	.
+!!LO:PB:g=original
+=10	=10
+!same as above with this measure	!
+16%3dd~	-ge
+16%3cc	de
+16%3b~	qua-
+16%3b	-torz[e]
+=11	=11
+[4.a	ans.
+8a]	.
+8r	.
+!moved double bar line down one eighth rest for consistency with beginning	!
+=||	=||
+*	*v:2
+*	*pline:6
+8e	Ar-
+=12	=12
+16%3a	-ri-
+16%3a	-vés
+!following duplet label broken up into two '2's in Verovio (instead of one '2' for all three ensuing notes), but should mean the same thing functionally	!
+32%3bL	à
+32%3aJ	.
+16%3g	la
+=13	=13
+[4.a	port',
+4a],	.
+*	*pline:7
+16aL	Trois
+16bJ	.
+!!LO:PB:g=original
+=14	=14
+!plus sign before following note	!
+4cc	pe-
+8cc	-tits
+!upward scoop before following note	!
+4ee	coups
+8cc	je
+=15	=15
+!plus sign before following note	!
+4.cc	frap-
+8b	-pe:
+8r	.
+*	*pline:8
+8a	Ou-
+=16	=16
+4.b	-vrez
+16ccL	la
+16bJ	.
+4a\	.
+=17	=17
+[4.bL	port',
+8b]	.
+8r	.
+*	*pline:9
+!upward scoop before following note	!
+8ee	m'a-
+!!LO:PB:g=original
+=18	=18
+!same as above with following measure	!
+(16%3dd	-mi',
+16%3cc)	si
+(16%3b	vous
+16%3a)\	vou-
+=19	=19
+[4.g	-lez,
+4g]	.
+*	*pline:10
+8a	Car
+=20	=20
+4.b/	j'ai
+(16%3ccL	grand
+16%3aJ)	.
+=21	=21
+!upward scoop before following note	!
+4dd	hât'
+8cc	de
+4b	vous
+(4b	par-
+=22	=22
+[4.a)	-ler.
+4a]	.
+==	==
+*-	*-
+!!!RNB: Tempo marking of dotted-quarter = 72 given
+!!!RNB: Pushed middle double thin bar lines an eighth rest over, so that the beginning of v2 is notationally consistent with that of v1
+!!!EED1: Samuel Boone
+!!!EEV1: 2026/09/03

@@ -1,0 +1,146 @@
+!!!id: MB022
+!!!page: 75-76
+!!!COM: Anonymous
+!!!LYR: Anonymous
+!!!OCL: Marius Barbeau
+!!!PTL@@FR: Le Rossignol y Chante
+!!!OTL@@FR: Qui n'a pas d'amour
+!!!PPR: Ministère du Nord Canadien et des Resources Nationales, Musée National du Canada
+!!!PDT: 1962
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M6/8	*
+*	*v:1
+*	*pline:1h1
+8g	La
+=1	=1
+4.cc	bel-
+8ee	.
+8dd	-le
+8cc	Li-
+=2	=2
+*M3/8	*
+(8ccL	-set-
+8bJ)	.
+8cc	-te
+*	*pline:1h2
+=3	=3
+*M6/8	*
+4.dd	Chan-
+8ff	-tait
+8dd	l'au-
+8b	-tre
+=4	=4
+[4.cc	jour.
+4cc]	.
+==:|!	==:|!
+*	*pline:1h2r
+8g	Chan-
+!!LO:PB:g=original
+=5	=5
+4cc	-tait
+8dd	.
+8eeL	l'au-
+24%1ff	.
+24%1ee	.
+24%1ddJ	.
+8ee	-tre
+=6	=6
+16ffL	jour.
+[16eeJ	.
+!Removed unnecessary tie	!
+4ee]	.
+*	*pline:2h1
+4ee	Les
+(24%1ffL	é-
+24%1ee	.
+24%1ddJ)	.
+=7	=7
+*M3/8	*
+4ee	-chos
+(16ffL	ré-
+16eeJ)	.
+=8	=8
+4cc	-pè-
+(16ccL	-tent:
+16bJ	.
+4cc)	.
+*	*pline:2h2
+8ee	–Qui
+!!LO:PB:g=original
+=9	=9
+8ccL	n'a
+8bJ	.
+8dd	pas
+8ccL	d'a-
+(24%1dd	.
+24%1cc	.
+24%1bJ)	.
+(8b	-mour,
+=10	=10
+[4.g)	.
+4g]	.
+*	*pline:2h2r
+16eL	Qui
+16gJ	.
+=11	=11
+[4.cc	n'a
+!following note should be eighth, not quarter (corrected)	!
+8cc]	.
+(16ddL	pas
+16eeJ)	.
+(16ddL	d'a-
+16ccJ)	.
+!!LO:PB:g=original
+=12	=12
+8cc	-mour
+*	*pline:3
+16bL	N'a
+16ccJ	.
+16ddL	pas
+16eeJ	.
+16ffL	de
+16ddJ	.
+16ddL	beaux
+16bJ	.
+8cc	jours,
+=13	=13
+[4.cc	.
+!following note should be eighth, not quarter (corrected)	!
+8cc]	.
+8r	.
+*	*pline:2h2r
+16eL	Qui
+16gJ	.
+=14	=14
+[4.cc	n'a
+!following note should be eighth, not quarter (corrected)	!
+8cc]	.
+16ddL	pas
+16eeJ	.
+16ddL	d'a-
+16ccJ	.
+=15	=15
+8cc	-mour
+*	*pline:3
+16bL	N'a
+16ccJ	.
+16ddL	pas
+16eeJ	.
+16ffL	de
+16ddJ	.
+16ddL	beaux
+16bJ	.
+[8cc	jours.
+=16	=16
+4.cc]	.
+4r	.
+==	==
+*-	*-
+!!!RWG: pline structuring may need a second look
+!!!RNB: Corrected some incorrect note values, and removed an unnecessary tie
+!!!RNB: Added quarter rest at end, and removed rest at beginning to complete final & pickup measures
+!!!EED1: Samuel Boone
+!!!EEV1: 2026/07/17

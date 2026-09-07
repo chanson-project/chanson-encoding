@@ -1,0 +1,203 @@
+!!!id: MB062d
+!!!page: 209-212
+!!!COM: Anonymous
+!!!LYR: Anonymous
+!!!OCL: Marius Barbeau
+!!!PTL@@FR: Le Rossignol y Chante
+!!!OTL@@FR: Sur le pont de Londres
+!!!PPR: Ministère du Nord Canadien et des Resources Nationales, Musée National du Canada
+!!!PDT: 1962
+**kern	**text
+*clefG2	*
+*k[f#,c#,g#]	*
+*A:	*
+*M2/4	*
+*	*v:1
+*	*pline:1h1
+!upward scoop before following note	!
+8.f#	–Ma
+16g#	très
+=1	=1
+!upward scoop before following note	!
+4..a	chè-
+16b/	-re
+=2	=2
+(12%1.cc#L	mè-
+24%1b	.
+12%1aJ)	.
+8a,	-re,
+*	*pline:1h2
+8b/	Me
+=3	=3
+4.cc#;	lais-
+!squiggly line from note to ensuing ornament	!
+32ddqqL	.
+32cc#qq	.
+32bqq	.
+32cc#qqJ	.
+8dd	-s'rez--
+=4	=4
+(32cc#qqL	.
+32aqqJ	.
+4cc#)	vous
+(8cc#^L	al-
+8bJ)	.
+!!LO:PB:g=original
+=5	=5
+((48%1cc#^L	-ler?
+48%1b	.
+12%1a)	.
+24%1g#J)\	.
+*	*pline:1h1r
+8.f#	Ma
+16e	très
+=6	=6
+4..a	chè-
+16b	-re
+=7	=7
+!upward scoop before following note	!
+(12%1.cc#L	mè-
+24%1b	.
+12%1aJ)	.
+8.a	-re,
+*	*pline:1h2r
+16b/	Me
+=8	=8
+8cc#L	lais-
+(24%1ee^	.
+24%1cc#	.
+24%1bJ)	.
+8.cc#;	.
+16dd	-s'rez--
+=9	=9
+(8ddq	.
+4cc#)	vous
+8.bL	al-
+32a	.
+32g#J	.
+!!LO:PB:g=original
+=10	=10
+8aL	-ler?
+(16g#	.
+16aJ)	.
+*	*pline:2h1
+!scoop after following note	!
+4b/;	–Ah
+=11	=11
+(8bq	.
+(8a)	non!
+4f#)~,	.
+8a	Hé-
+=12	=12
+(4f#	-lè-
+8eq	.
+8.e)	-ne,
+*	*pline:2h2
+16e	Vous
+=13	=13
+*M3/4	*
+4..e	n'i-
+16g#	-rez
+!can't tell if scoop before following note or not	!
+(8b^L	pas
+8cc#J)	.
+=14	=14
+*M2/4	*
+8.bL	vei-
+16aJ	.
+(32bL	-ller
+32a	.
+8g#)	.
+16aJ	.
+*	*pline:2h1r
+!!LO:PB:g=original
+=15	=15
+!upward scoop before following note	!
+!accent on following note backwards	!
+4b/^	Ah
+32aqqL	.
+32bqqJ	.
+(16aL^	non!
+8f#J);,	.
+16a	Hé-
+=16	=16
+(4f#	-lè-
+8eq	.
+8.e)	-ne,
+*	*pline:2h2r
+16e	Vous
+=17	=17
+4.e	n'i-
+8g#	-rez
+=18	=18
+4b/	pas
+8.aL	vei-
+32g#	.
+32f#J	.
+=19	=19
+!	!end quote marks after following syllable, left out becausee there are no opening quote marks
+4f#;	-ller.
+*	*pline:3h1
+=||	=||
+8c#	Hé-
+8c#	-lèn'
+=20	=20
+4.f#	s'y
+8a	dé-
+!!LO:PB:g=original
+=21	=21
+!upward scoop before following note	!
+(12%1cc#L	-vi-
+24%1b	.
+12%1aJ)	.
+8.a	-re.
+*	*pline:3h2
+16b/	Dans
+=22	=22
+8cc#L	sa
+(24%1dd#	.
+24%1cc#	.
+24%1bJ)	.
+8.cc#	cham-
+16ddn	-bre
+*	*pline:3h1r
+=23	=23
+(12%1cc#L	Hé-
+12%1a~	.
+12%1g#J~)\	.
+8f#	.
+8e	-lèn'
+!!LO:PB:g=original
+=24	=24
+4..a	s'y
+16a	dé-
+=25	=25
+!upward scoop before following note	!
+(12%1cc#L	-vi-
+24%1b	.
+12%1aJ)	.
+8.a	-re.
+*	*pline:3h2r
+16b/	Dans
+=26	=26
+8cc#L	sa
+(24%1dd#	.
+24%1cc#	.
+24%1bJ)	.
+8cc#	cham-
+!unsure if following note should be natural to be consistent with previous line	!
+8dd#^	-bre
+=27	=27
+4cc#	.
+!upward scoop before following note	!
+8cc#L	.
+8bJ	.
+=28	=28
+4a	.
+==	==
+*-	*-
+!!!RWG: Second half of song unfinished
+!!!RNB: Tempo marking of quarter = 70 given
+!!!RNB: Removed redundant rests at beginning
+!!!EED1: Samuel Boone
+!!!EEV1: 2026/08/26

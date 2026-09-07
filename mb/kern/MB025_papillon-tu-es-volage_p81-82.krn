@@ -1,0 +1,87 @@
+!!!id: MB025
+!!!page: 81-82
+!!!COM: Anonymous
+!!!LYR: Anonymous
+!!!OCL: Marius Barbeau
+!!!PTL@@FR: Le Rossignol y Chante
+!!!OTL@@FR: Papillon, tu es volage
+!!!PPR: Ministère du Nord Canadien et des Resources Nationales, Musée National du Canada
+!!!PDT: 1962
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*e:	*
+*M2/4	*
+*	*v:1
+*	*pline:1h1
+16e	Pa-
+16f#	-pil-
+=1	=1
+8g	-lon,
+8g	tu
+8f#	es
+8e	vo-
+=2	=2
+!scoop symbol before note	!
+4b/	-la-
+8b/	-ge.
+*	*pline:1h2
+!plus sign before following note, encoded as sharp	!
+16a	Tu
+16b/	res-
+=3	=3
+8cc#	-sembl'
+8b	à
+!plus sign before following note, encoded as sharp	!
+8a	mon
+8g	a-
+=4	=4
+[4f#	-mant.
+8f#]	.
+*	*pline:2h1
+16f#	L'a-
+16g	-mour
+!!LO:PB:g=original
+=5	=5
+8a	est
+8a	un
+8g	ba-
+8f#	-di-
+=6	=6
+*M3/4	*
+8..gL	-na-
+32f#J	.
+4.f#	-ge,
+*	*pline:2h2
+16f#	L'a-
+16f#	-mour
+=7	=7
+*M2/4	*
+8e	est
+8e	un
+8d#	pas-
+8e	-se-
+=8	=8
+*M3/4	*
+4.f#	-temps.
+*	*pline:3
+16f#	Quand
+16g	j'ai
+8a	mon
+8f#	a-
+=9	=9
+*M2/4	*
+8g	-mant,
+*	*pline:4
+8d	J'ai
+8f#	l'cœur
+8d#	con-
+=10	=10
+4.e	-tent.
+==	==
+*-	*-
+!!!RNB: Initial rest removed to create correct pickup measure
+!!!RWG: Scoop symbol before certain notes, assumed to be a slide but only editorial note made for now
+!!!RWG: Plus sign before certain notes, encoded as sharp for now but editorial note made
+!!!EED1: Samuel Boone
+!!!EEV1: 2026/07/27

@@ -1,0 +1,87 @@
+!!!id: MB039b
+!!!page: 133-140
+!!!COM: Anonymous
+!!!LYR: Anonymous
+!!!OCL: Marius Barbeau
+!!!PTL@@FR: Le Rossignol y Chante
+!!!OTL@@FR: Marianson
+!!!PPR: Ministère du Nord Canadien et des Resources Nationales, Musée National du Canada
+!!!PDT: 1962
+**kern	**text
+*clefG2	*
+*k[b-,e-,a-,d-]	*
+*A-:	*
+*M6/8	*
+*	*v:1
+*	*pline:1
+!scoop before following note	!
+8a-	–Bel
+8a-	or-
+8a-	-fè-
+=1	=1
+(4a-	-vier,
+8b-/)	.
+8cc	bel
+8b-	or-
+8b-	-fè-
+=2	=2
+(8b-q	.
+4.f)	-vier,
+*	*pline:2
+8a-	Fais--
+8a-	moi
+8a-	donc
+=3	=3
+8a-L	trois
+16b-	.
+16a-	.
+8gJ	.
+8f	an-
+8.e-	-neaux
+16f	do-
+!!LO:PB:g=original
+=4	=4
+8fL	-rés!
+16g	.
+16f	.
+8e-J	.
+*	*pline:1r
+8e-	Bel
+8.e-	or-
+16e-	-fè-
+=5	=5
+4.f,	-vier,
+!scoop before following note	!
+8g	bel
+8.f	or-
+16g	-fè-
+=6	=6
+8a-L	-vier,
+16b-	.
+16a-	.
+8gJ	.
+*	*pline:2r
+8f	Fais--
+8g	moi
+8a-	donc
+=7	=7
+(4.b-/	trois
+8a-)	an-
+8.g	-neaux
+16b-/	do-
+=8	=8
+!changed half-note to tied dotted-quarter + eighth to better represent 6/8	!
+[4.a-	-rés.
+8a-]	.
+8r	.
+8r	.
+=9	=9
+4r	.
+8r	.
+==	==
+*-	*-
+!!!RWG: Verse 6 according to the text is the one with the music on the score for some reason, not sure which we want to lead with (only one encoded for now)
+!!!RNB: Tempo marking of quarter = 102 given, although I'm assuming dotted-quarter is meant since 6/8
+!!!RNB: Added final measure to complete pickup
+!!!EED1: Samuel Boone
+!!!EEV1: 2026/08/04

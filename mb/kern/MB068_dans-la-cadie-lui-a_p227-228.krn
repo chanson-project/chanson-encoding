@@ -1,0 +1,175 @@
+!!!id: MB068
+!!!page: 227-228
+!!!COM: Anonymous
+!!!LYR: Anonymous
+!!!OCL: Marius Barbeau
+!!!PTL@@FR: Le Rossignol y Chante
+!!!OTL@@FR: Dans la Cadie lui a
+!!!PPR: Ministère du Nord Canadien et des Resources Nationales, Musée National du Canada
+!!!PDT: 1962
+**kern	**text
+*clefG2	*
+*k[b-,e-,a-]	*
+*F:	*
+*M6/8	*
+*	*v:1
+*	*pline:1h1
+8f	Dans
+=1	=1
+4f	la
+8an	Ca-
+4b-	-di'
+8bn	lui
+=2	=2
+4.cc	a
+*	*pline:1h2
+4.cc	Qua-
+=3	=3
+4cc	-tre--
+!plus sign before following note	!
+8b-	vignt--
+4cc	dix
+8b-X/	Ca-
+=4	=4
+32ccL	-yen-
+[32b-	.
+
+16b-J]	.
+!plus sign before following note	!
+8a-	-nes,
+*	*refrain
+*	*italic
+*	*rline:R1
+8g	Ca-
+4a-	-di
+8g	ca-
+!!LO:PB:g=original
+=5	=5
+8f	-don
+8g	ca-
+8a-	-di-
+8.b-/	-tai-
+16a-	-ne
+*	*rline:R2
+8g	Bon
+=6	=6
+4f	bon
+16gL	bon
+16fJ	.
+!plus sign before following note	!
+4.e-	.
+=7	=7
+[4.f	bon.
+8f]	.
+8r	.
+*	*Xitalic
+*	*Xrefrain
+*	*pline:1h1r
+8c	Dans
+=8	=8
+4f	la
+8g	Ca-
+4an	-di'
+8b-/	lui
+!!LO:PB:g=original
+=9	=9
+4.cc	a
+*	*pline:1h2r
+!upward scoop before following note	!
+4.ff	Qua-
+=10	=10
+4cc	-tre--
+8cc	vignt--
+4dd	dix
+8b-	Ca-
+=11	=11
+24%1ccL	-yen-
+24%1b-	.
+[24%1a-	.
+8a-J]/	.
+4b-/;,	-nes.
+!	!moved beginning of second verse to here, to include pickup
+*	*v:2
+*	*pline:2h1
+8f	Un
+=||12	=||12
+4f	soir,
+8g	se
+!plus sign before following note	!
+16a-L	pro-
+16g	.
+8a-J	.
+8b-/	-me-
+=13	=13
+4.cc	-nant
+*	*pline:2h2
+4.cc	A-
+!!LO:PB:g=original
+=14	=14
+4cc	-vec-
+8bn	-que
+4cc	leur
+8b-	chan-
+=15	=15
+8a-	-del-
+8g	-le,
+*	*refrain
+*	*italic
+*	*rline:R1r
+8a-	Ca-
+8.b-L	-di
+16a-J	.
+8g	ca-
+=16	=16
+8f	-don
+8g	ca-
+8a-	-di-
+8b-/	-tai-
+!plus sign before following note	!
+8a-	-ne
+*	*rline:R2r
+8g	Bon
+=17	=17
+4.f	bon
+(16gL	bon
+16fJ)	.
+4e-	.
+!!LO:PB:g=original
+=18	=18
+[4.f	bon.
+8f]	.
+8r	.
+*	*Xitalic
+*	*Xrefrain
+*	*pline:2h1r
+8c	Un
+=19	=19
+4f	soir,
+8g	se
+16a-L	pro-
+16g	.
+8a-J	.
+8b-/	-me-
+=20	=20
+4.cc	-nant
+*	*pline:2h2r
+4.ff	A-
+=21	=21
+4cc	-vec-
+8cc	-que
+4dd	leur
+8b-	chan-
+=22	=22
+4b-/	-del-
+8an	.
+4.b-/	-le.
+=23	=23
+4r	.
+8r	.
+4r	.
+==	==
+*-	*-
+!!!RNB: Tempo marking of quarter = 96 given
+!!!RNB: Added partial measure of rests at the end to complete pickup
+!!!EED1: Samuel Boone
+!!!EEV1: 2026/09/04

@@ -1,0 +1,149 @@
+!!!id: MB063
+!!!page: 213-214
+!!!COM: Anonymous
+!!!LYR: Anonymous
+!!!OCL: Marius Barbeau
+!!!PTL@@FR: Le Rossignol y Chante
+!!!OTL@@FR: Pour aller voir m'amie
+!!!PPR: Ministère du Nord Canadien et des Resources Nationales, Musée National du Canada
+!!!PDT: 1962
+**kern	**text
+*clefG2	*
+*k[f#,c#,g#,d#]	*
+*E:	*
+*M2/4	*
+*	*v:1
+*	*pline:1h1
+=1	=1
+4f#	Par
+8.g#	un
+16e	di-
+=2	=2
+8g#q	.
+8f#L	-manch[e]
+8eJ	.
+8f#q	.
+8eL	au
+8d#J	.
+=3	=3
+2e	soir,
+*	*pline:1h2
+=4	=4
+!upward scoop before following note	!
+8b	En
+8cc#	m'en
+8ddn	al-
+8ee	-lant
+=5	=5
+(4b	voir
+8a)	.
+8b/	m'a-
+!!LO:PB:g=original
+=6	=6
+(8bq	.
+8.g#L)	-mi-
+16f#J	.
+8e	-e,
+*	*pline:1h1r
+8d#	Par
+=7	=7
+4e	un
+(8g#L	di-
+8f#J)	.
+=8	=8
+4e	-manch[e]
+(8eL	au
+8d#J)	.
+=9	=9
+2e,	soir,
+*	*pline:1h2r
+=10	=10
+!upward scoop before following note	!
+!	!minor variation in repeated text from previous line, despite being referred to as 'bis' in the lyrics
+(4bL	m'en
+8cc#J)	.
+8ddn	al-
+8ee	-lant
+!!LO:PB:g=original
+=11	=11
+4.b/	voir
+8a	m'a-
+=12	=12
+!following pair of grace notes has slash through	!
+16bqL	.
+16aqJ	.
+8g#L	-mi-
+16f#	.
+16eJ	.
+8e,	-e,
+*	*pline:2
+8e	Je
+=13	=13
+4b/	la
+(8bL	trou-
+8cc#J)	.
+=14	=14
+4.b	-vai
+!	!unsure if should include hémistiche here from how text is broken up, feels unnecessary
+8ccn	ma-
+=15	=15
+8.b/	-la-
+16a	-de,
+8gn	dans
+8b/	son
+!!LO:PB:g=original
+=16	=16
+4.a	lit,
+*	*pline:3
+8dn	La
+=17	=17
+4gn	bell[e]
+4b/	en
+=18	=18
+8.a	dan-
+16f#	-ger
+8.dn	de
+16f#	mou-
+=19	=19
+4.e	-rir.
+*	*pline:2r
+8e	Je
+=20	=20
+!upward scoop before following note	!
+4b/	la
+8.bL	trou-
+16cc#XJ	.
+!!LO:PB:g=original
+=21	=21
+4.b/	-vai
+!	!unsure if should include hémistiche here from how text is broken up, feels unnecessary
+8b/	ma-
+=22	=22
+8.b/	-la-
+16a	-de,
+8.g	dans
+16b/	son
+=23	=23
+4.a	lit,
+*	*pline:3r
+8dn	La
+=24	=24
+!unsure if following note is staccato or not	!
+4gn'	bell[e]
+!upward scoop before following note	!
+4b	en
+=25	=25
+8.a	dan-
+16f#	-ger
+8dn	de
+8f#	mou-
+=26	=26
+4e	-rir.
+4r	.
+==	==
+*-	*-
+!!!RWG: Modulates to E Minor halfway through
+!!!RNB: Tempo marking of quarter = 90 given
+!!!RNB: Added quarter rest at end to complete measure
+!!!EED1: Samuel Boone
+!!!EEV1: 2026/08/27
