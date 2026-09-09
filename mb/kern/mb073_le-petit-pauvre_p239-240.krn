@@ -1,0 +1,191 @@
+!!!id: MB073
+!!!page: 239-240
+!!!COM: Anonymous
+!!!LYR: Anonymous
+!!!OCL: Marius Barbeau
+!!!PTL@@FR: Le Rossignol y Chante
+!!!OTL@@FR: Le petit pauvre
+!!!PPR: Ministère du Nord Canadien et des Resources Nationales, Musée National du Canada
+!!!PDT: 1962
+**kern	**text
+*clefG2	*
+*k[b-,e-,a-,d-]	*
+*C:	*
+*M4/4	*
+*	*v:1
+*	*pline:1h1
+8e-	C'é-
+=1	=1
+4a-	-tait
+4a-	un
+8.b-	pau'
+16cc	p'tit
+=2	=2
+*M2/4	*
+8ccL	pau-
+8b-J	.
+8a-	-vre,
+*	*pline:1h2
+8cc	Qui
+=3	=3
+8b-/	de-
+8a-	-mand[e]
+8b-	à
+8cc	vi-
+=4	=4
+(8b-/	-ver.
+4-a),	.
+*	*pline:2h1
+8a-	À
+!!LO:PB:g=original
+=5	=5
+!tempo marking of quarter = 100 given	!
+*M3/4	*
+4b-	la
+!upward scoop before following note	!
+8cc	por-
+16b-	-te
+16a-\	d'un
+8g	ri-
+16f	-che
+*	*pline:2h2
+16b-/	De-
+=6	=6
+*M2/4	*
+8b-/	-mand'
+8e-	la
+8f	cha-
+8g	-ri-
+=7	=7
+(8f	-té,
+4e-),	.
+*	*pline:2h1r
+8e-	À
+!!LO:PB:g=original
+=8	=8
+!tempo marking of quarter = 96 given	!
+*M3/4	*
+4a-	la
+8a-	por-
+16b-/	-te
+16cc/	d'un
+(12%1b-/	ri-
+12%1a-	-che
+*	*pline:2h2r
+12%1cc/)	De-
+=9	=9
+*M2/4	*
+8b-/	-mand'
+8a-	la
+8b-/	cha-
+8cc/	-ri-
+=10	=10
+*M3/4	*
+(8b-/	-té.
+4.a-)	.
+8r	.
+*	*pline:3h1
+8a-	–Don-
+!!LO:PB:g=original
+=11	=11
+*M2/4	*
+4b-/	-ne--
+!upward scoop before following note	!
+(12%1cc	moi
+12%1b-	donc
+12%1a-\)	les
+=12	=12
+!upward scoop from above before following note	!
+8g	miet-
+(24%1f	-tes
+*	*pline:3h2
+24%1b-/	Que
+24%1b-/)	tu
+(12%1e-	donn'
+12%1f	.
+12%1g)	à
+=13	=13
+(8f	ton
+4e-),	chien.
+*	*pline:4h1
+8e-	–Mon
+=14	=14
+*M3/4	*
+8a-	chien
+8a-	me
+8b-	rend
+8cc	ser-
+8b-/	-vi-
+16a-	-ce,
+*	*pline:4h2
+16cc/	Mais
+!!LO:PB:g=original
+=15	=15
+*M2/4	*
+8b-/	toi,
+8a-	tu
+8b-/	m'en
+8cc/	rends
+=16	=16
+!	!no first set of quote marks to go with ones on following syllable
+(8b-/	pas."
+4a-),	.
+!	!uncertain in v2 starts here or not
+*	*pline:5h1
+8a-	Au
+=17	=17
+*M3/4	*
+4b-	bout
+!upward scoop before following note	!
+8cc	d'un
+16b-	jour
+16a-\	à
+!upward scoop from above before following note	!
+8g	l'au-
+16f	-tre,
+*	*pline:5h2
+16b-/	Ce
+=18	=18
+*M2/4	*
+8b-/	pau'
+8e-	p'tit
+8f	pauvr[e]
+8g	est
+!!LO:PB:g=original
+=19	=19
+!upward scoop after following note	!
+8f	mort.
+4e-,	.
+*	*pline:6h1
+8e-	À
+=20	=20
+*M3/4	*
+8a-	la
+8a-	port'
+8b-/	de
+8cc/	Saint
+8b-/	Pier-
+16a-	-re,
+*	*pline:6h2
+16cc/	De-
+=21	=21
+*M2/4	*
+8b-/	-mand'
+8a-	le
+8b-	pa-
+8cc	-ra-
+=22	=22
+(8b-/	-dis.
+4.a-)	.
+=23	=23
+4r	.
+8r	.
+==	==
+*-	*-
+!!!RWG: Unsure if second verse begins in m.16
+!!!RNB: Added final measure of rests to complete pickup
+!!!RNB: Initial tempo marking of quarter = 112 given
+!!!RNB: Second tempo marking of quarter = 100 given in m.5
+!!!RNB: Third tempo marking of quarter = 96 given in m.8
+!!!EED1: Samuel Boone
+!!!EEV1: 2026/09/08
