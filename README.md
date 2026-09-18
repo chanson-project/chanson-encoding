@@ -155,7 +155,8 @@ NOTE: Tese should alsop be entered in the corresponding columns in the master ne
    | -C | show hyphenation without syllable count |
    | --no-repeats | hide repeated lines |
    | --refrains| show only lines labeled `*rline:` |
-   | --verse | show only lines labeled `*pline:` | 
+   | --verse | show only lines labeled `*pline:` |
+   | --raw | show text without any labeling |
    ```
 Text tool options with examples can be found at
 https://github.com/chanson-project/chanson-encoding/discussions/79
