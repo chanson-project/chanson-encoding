@@ -1,0 +1,140 @@
+!!!id: MB078d
+!!!page: 251-256
+!!!COM: Anonymous
+!!!LYR: Anonymous
+!!!OCL: Marius Barbeau
+!!!PTL@@FR: Le Rossignol y Chante
+!!!OTL@@FR: La vieille magicienne
+!!!PPR: Ministère du Nord Canadien et des Resources Nationales, Musée National du Canada
+!!!PDT: 1962
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M2/4	*
+*	*v:1
+*	*pline:1
+8r	.
+8g	Ah,
+=1	=1
+8.f#	c'é-
+16g	-tait
+8.a	u-
+16b/	-ne
+=2	=2
+8.a	viei-
+16g	-lle
+8.a	ma-
+16b/	-gi-
+=3	=3
+*M3/4	*
+16ccL	-cien-
+16b	.
+8aJ/	.
+16bL	-ne.
+[8.aJ	.
+8a],	.
+*	*pline:1r
+8g	Ah,
+=4	=4
+*M2/4	*
+8f#	c'é-
+8g	-tait
+8a	u-
+8b/	-ne
+=5	=5
+8a	viei-
+8g	-lle
+8a	ma-
+8b/	-gi-
+!!LO:PB:g=original
+=6	=6
+*M3/4	*
+8ccL	-cien-
+8bJ	.
+4a	-ne.
+8r	.
+*	*pline:2
+8g	Au
+=7	=7
+*M2/4	*
+8.f#	con-
+16g	-fes-
+8.a	-sion-
+16b/	-nal
+=8	=8
+8.a	ell'
+16g	s'en
+8.f#	est
+16e	al-
+=9	=9
+4d,	-lé'
+*	*pline:3
+8a	Pour
+!apparent glissando between notes	!
+8dd;	ob-
+=10	=10
+!tempo marking of quarter = 88 given here	!
+!upward scoop before following note	!
+8.ee	-te-
+16dd	-nir
+(12%1cc	le
+12%1b	par-
+12%1a\)	.
+=11	=11
+8aq	.
+16gL	-don
+8.f#J	.
+8.e	d'ses
+16f#	pé-
+!!LO:PB:g=original
+=12	=12
+4g	-chés.
+8r	.
+*	*pline:2r
+8g	Au
+=13	=13
+!plus sign before following note	!
+8.f#	con-
+16g	-fes-
+8..a	-sion-
+32b/	-nal
+=14	=14
+8a	ell'
+8g	s'en
+16f#qL	.
+16eqJ	.
+8f#	est
+8f#	é-
+=15	=15
+*M3/4	*
+(24%1eL	-té'
+24%1f#	.
+24%1eJ)	.
+4d	.
+8r	.
+*	*pline:3r
+!upward scoop before following note	!
+4dd	Pour
+=16	=16
+*M5/4	*
+4.ee	ob-
+16dd	-te-
+!plus sign before following note	!
+8cc	-nir
+16b	le
+16a\	par-
+!dot in front of following note assumed to be in front of note after (note values don't make sense otherwise)	!
+(24%1gL	-don
+12%1.f#J	.
+[12%1e)	d'ses
+16e]	.
+16f#	pé-
+[8g	-chés.
+=17	=17
+4g]	.
+==	==
+*-	*-
+!!!RNB: Tempo marking of quarter = 98 given at beginning of score, and quarter = 88 given in m.10
+!!!EED1: Samuel Boone
+!!!EEV1: 2026/09/22
