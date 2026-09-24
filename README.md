@@ -190,6 +190,12 @@ https://github.com/chanson-project/chanson-encoding/discussions/79
      !!LO:TX:a:t=Majestueux et résolu
      ```
      NOTE: If tempo changes, the new tempo must precede the first pitch of the new sectional tempo in order to appear.
+
+     To encode a tempo marking on the score, use a local comment, e.g.:
+     ```
+     !!LO:TX:omd:tempo:a:t=[quarter]=92
+     ```
+     In the above code, the unit of reference (quarter note) is put in square brackets and the bpm added at the end.
      
 5. **Accidentals**:
    - To hide an accidental, add "y" to the pitch encoding.
