@@ -1,0 +1,118 @@
+!!!id: MB080
+!!!page: 265-266
+!!!COM: Anonymous
+!!!LYR: Anonymous
+!!!OCL: Marius Barbeau
+!!!PTL@@FR: Le Rossignol y Chante
+!!!OTL@@FR: Les trois pèlerins de Saint-Jacques
+!!!PPR: Ministère du Nord Canadien et des Resources Nationales, Musée National du Canada
+!!!PDT: 1962
+**kern	**text
+*clefG2	*
+*k[b-,e-]	*
+*B-:	*
+*M2/4	*
+*	*v:1
+*	*pline:1h1
+8dd	Ils
+=1	=1
+16ddL	sont
+16ccJ	.
+4b-	.
+8cc	trois
+=2	=2
+16dd	pè-
+16cc	-le-
+8cc	-rins
+*	*pline:1h2
+8dd	Qu'é-
+=3	=3
+16ddL	-taient
+16ccJ	.
+4b-	.
+8cc	en
+=4	=4
+16dd	pro-
+16cc	-me-
+16cc	-na-
+8b-	-de.
+*	*pline:1h1r
+8f	Ils
+=5	=5
+4.b-	sont
+8cc	trois
+!!LO:PB:g=original
+=6	=6
+16dd	pè-
+16cc	-le-
+4b-	-rins
+*	*pline:1h2r
+8cc	Qu'é-
+=7	=7
+4.dd	-taient
+8dd	en
+=8	=8
+*M3/4	*
+16cc	pro-
+16dd	-me-
+8ee-	-na-
+4.dd,	-de,
+*	*pline:2h1
+8b-q	.
+8dd	Y a
+=9	=9
+*M2/4	*
+16ddL	l'hô-
+16ccJ	.
+4b-	.
+8cc	-tel
+=10	=10
+*M3/4	*
+8ccq	.
+16dd	de
+16cc	Cham-
+4.cc	-bault.
+8r	.
+*	*pline:2h2
+8b-q	.
+8dd	Prend
+!!LO:PB:g=original
+=11	=11
+*M2/4	*
+16ddL	un'
+16ccJ	.
+4b-	.
+8cc	tass'
+=12	=12
+16dd	de
+16dd	breu-
+8cc	-va-
+8b-	-ge,
+*	*pline:2h1r
+8g	Y a
+=13	=13
+4.b-	l'hô-
+8cc	-tel
+=14	=14
+16dd	de
+16cc	Cham-
+4b-	-bault,
+*	*pline:2h2r
+8cc	Prend
+=15	=15
+4.dd	un'
+8dd	tass'
+=16	=16
+16cc	de
+16dd	breu-
+8ee-	-va-
+4dd	-ge.
+=17	=17
+4r	.
+8r	.
+==	==
+*-	*-
+!!!RNB: Tempo marking of quarter = 76 given
+!!!RNB: Added final measure of rests to complete pickup
+!!!EED1: Samuel Boone
+!!!EEV1: 2026/09/22
