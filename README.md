@@ -98,7 +98,7 @@ NOTE: Tese should alsop be entered in the corresponding columns in the master ne
    - Prefix all middle and end syllables with a hyphen (`-`).
    - Words separated by a hyphen (e.g., "voulez-vous") require a double dash at the end of the first word, and no dash preceding the second word (e.g., `vou-` `-lez--` `vous`). (In some rare cases, the double-dash may need to be added before the second word instead of after the first word.)
   
-     NOTE: Syllabification can be reviewed withb the filter option `-y` on VHV.
+     NOTE: Syllabification can be reviewed with the filter option `-y` on VHV.
 
 2. **Line Labeling** (across all verses):
    - Use `*pline:n` (e.g., `*pline:1`)
