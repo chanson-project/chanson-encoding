@@ -4,99 +4,120 @@
 !!!LYR: Anonymous
 !!!OTL@@FR: Le Prince d'Orange
 !!!PTL@@FR: Chansons Populaires du Vieux Québec
+!!!PED: Barbeau, Marius
 !!!PUB: Musée National du Canada
 !!!PDT: 1930
-**kern
-*clefG2
-*k[f#,c#,g#]
-*M6/8
-*A
-=1
-4.r
-4r
-8a
-=2
-4b
-8a
-8.f#
-16g#
-8a
-=3
-4b
-8b
-16bL
-8.aJ
-8a
-=4
-4b
-8a
-8.f#
-16g#
-8a
-=5
-4.b
-8a
-8r
-8a
-=6
-4b
-8a
-8.f#
-16g#
-8a
-=7
-4b
-8b
-16bL
-8.aJ
-8a
-=8
-4b
-8a
-8.f#
-16g#
-8a
-=9
-4.b
-8a
-8r
-16aL
-16bJ
-=10
-4cc#
-16cc#L
-(16bJ
-4a)
-16b
-16cc#
-=11
-(8dd#
-4b)
-8aL
-8f#J
-8g#
-=12
-4.a
-8a
-8r
-8a
-=13
-4cc#
-16cc#L
-(16bJ
-4a)
-16b
-16cc#
-=14
-(8dd#
-4b)
-8aL
-8f#J
-8g#
-=15
-[4.a
-8a
-8r
-8a
-==
-*-
+**kern	**text
+*clefG2	*
+*k[f#,c#,g#]	*
+*M6/8	*
+*A:	*
+*	*v:1
+*	*pline:1h1
+8a	C'é-
+=1	=1
+4b/	-tait
+8a	le
+8.f#	prin-
+16g#	-ce
+8a	d'O-
+=2	=2
+4b/	-ran-
+8b/	-ge,
+*	*italic
+16bL	Là!,
+*	*Xitalic
+8.aJ,	.
+*	*pline:1h1r
+8a	C'é-
+=3	=3
+4b/	-tait
+8a	le
+8.f#	prin-
+16g#	-ce
+8a	d'O-
+!!LO:PB:g=original
+=4	=4
+4.b/	-ran-
+8a	-ge.
+8r	.
+*	*pline:1h1r
+8a	C'é-
+=5	=5
+4b/	-tait
+8a	le
+8.f#	prin-
+16g#	-ce
+8a	d'O-
+=6	=6
+4b	-ran-
+8b	-ge,
+*	*italic
+16bL	Là!,
+*	*Xitalic
+8.aJ,	.
+*	*pline:1h1r
+8a	C'é-
+!!LO:PB:g=original
+=7	=7
+4b/	-tait
+8a	le
+8.f#	prin-
+16g#	-ce
+8a	d'O-
+=8	=8
+4.b/	-ran-
+8a	-ge.
+8r	.
+*	*pline:1h2
+16aL	Grand
+16bJ	.
+=9	=9
+4cc#	ma-
+16cc#L	-tin
+(16bJ	.
+4a)	.
+16b	s'est
+16cc#	le-
+=10	=10
+(8dd#	-vé,
+4b)	.
+*	*refrain
+*	*italic
+8aL	ma-
+8f#J	.
+8g#	-don-
+!!LO:PB:g=original
+=11	=11
+4.a	-dai-
+8a	-ne,
+*	*Xitalic
+*	*Xrefrain
+8r	.
+*	*pline:1h2r
+8a	Grand
+=12	=12
+4cc#	ma-
+16cc#L	-tin
+(16bJ	.
+4a)	.
+16b/	s'est
+16cc#/	le-
+=13	=13
+(8dd#	-vé,
+4b)	.
+*	*refrain
+*	*italic
+8aL	ma-
+8f#J	.
+8g#	-don-
+=14	=14
+[4.a	-dé.
+*	*Xitalic
+*	*refrain
+8a	.
+=:|	=:|
+*-	*-
+!!!EED: Leo Geng
+!!!EEV: 2026/09/25
+!!!RNB: Deleted rests before the pick-up note. Deleted the last note, which was the first of the second verse; added repeats sign at the end of m. 14.
