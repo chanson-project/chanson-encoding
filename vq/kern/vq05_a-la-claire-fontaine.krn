@@ -7,230 +7,109 @@
 !!!PED: Barbeau, Marius
 !!!PUB: Musée National du Canada
 !!!PDT: 1930
-**kern
-*clefG2
-*M6/8
-*C:
-8gL
-8eJ
-8f
-=1
-4g
-8g
-4.ee
-=2
-4cc
-8cc
-8g
-8e
-8f
-=3
-4.g
-4.ee
-=4
-4cc
-8cc
-8b
-8cc
+**kern	**text
+*clefG2	*
+*M6/8	*
+*C:	*
+*	*v:1
+*	*pline:1
+8gL	À
+8eJ	.
+8f	la
+=1	=1
+4g	clai-
+8g	-re
+4.ee	fon-
+=2	=2
+4cc	-tai-
+8cc	-ne
+8g	m'en
+8e	al-
+8f	-lant
+=3	=3
+4.g	pro-
+4.ee	-me-
+=4	=4
+4cc	-ner,
+*	*pline:2
+8cc	J'ai
+8b	trou-
+8cc	-vé
 !!LO:PB:g=original
-=5
-4.dd
-4.ff
-=6
-4ee
-8dd
-8cc
-8b
-8a
-=7
-4.g
-4.f
-=8
-4e
-8r
-8g
-8a
-8g
+=5	=5
+4.dd	l'eau
+4.ff	si
+=6	=6
+4ee	bel-
+8dd	-le
+8cc	que
+8b	je
+8a	m'y
+=7	=7
+4.g	suis
+4.f	bai-
+=8	=8
+4e	-gné.
+8r	.
+*>REFRAIN	*>REFRAIN
+*	*rline:1
+*	*refrain
+*	*italic
+!!LO:TX:a:B:t=Refrain
+8g	De-
+8a	-puis
+8g	l'au-
 !!LO:PB:g=original
-=9
-8g
-8e
-8g
-8a
-8b/
-8a
-=10
-4.g
-8cc
-8cc
-8cc
-=11
-4ee
-8ee
-8a
-8a
-8a
+=9	=9
+8g	-ro-
+8e	-re
+8g	du
+8a	jour
+8b/	je
+8a	l'at-
+=10	=10
+4.g	-tends,
+*	*rline:2
+8cc	Cel-
+8cc	-le
+8cc	que
+=11	=11
+4ee	j'ai-
+8ee	-me,
+8a	que
+8a	mon
+8a	coeur
 !!LO:PB:g=original
-=12
-4dd
-8dd
-8g
-8a
-8g
-=13
-8g
-8e
-8g
-8a
-8b/
-8a
+=12	=12
+4dd	ai-
+8dd	-me,
+*	*rline:1r
+8g	De-
+8a	-puis
+8g	l'au-
+=13	=13
+8g	-ro-
+8e	-re
+8g	du
+8a	jour
+8b/	je
+8a	l'at-
 !!LO:PB:g=original
-=14
-4.g
-8cc
-8cc
-8cc
-=15
-4ee
-8dd
-4a
-8b/
-4.cc
-=:|
-*-
-!!!EED: Leo Geng
-!!!EEV: 2026/10/01
-!!!RNB: finished the encoding of the music. 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-!!!RDF**kern: > = above
-!!!RDF**kern: < = below
+=14	=14
+4.g	-tends,
+*	*rline:2v
+8cc	Cel-
+8cc	-le
+8cc	que
+=15	=15
+4ee	mon
+8dd	coeur
+4a	ai-
+8b/	-me
+4.cc	tant.
+==	==
+*-	*-
+!!!EED1: Leo Geng
+!!!EEV1: 2026/10/01
+!!!EED2: Ève Poudrier
+!!!EEV2: 2026/10/01
