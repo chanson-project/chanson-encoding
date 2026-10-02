@@ -2,14 +2,14 @@
 !!!page: 41-42
 !!!COM: Anonymous
 !!!LYR: Anonymous
-!!!OTL@@FR: À La Claire Fontaine
+!!!OTL@@FR: À La claire fontaine
 !!!PTL@@FR: Chansons Populaires du Vieux Québec
 !!!PED: Barbeau, Marius
 !!!PUB: Musée National du Canada
 !!!PDT: 1930
 **kern	**text
 *clefG2	*
-*M6/8	*
+*M/8	*
 *C:	*
 *	*v:1
 *	*pline:1
@@ -107,6 +107,8 @@
 4a	ai-
 8b/	-me
 4.cc	tant.
+*	*Xitalic
+*	*Xrefrain
 ==	==
 *-	*-
 !!!EED1: Leo Geng
