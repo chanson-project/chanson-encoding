@@ -14,6 +14,7 @@
 *M2/4	*
 *	*v:1
 *	*pline:1h1
+!!LO:TX:omd:tempo:a:t=[quarter]=86
 8d	Dans
 =1	=1
 4.g	les
@@ -128,7 +129,6 @@
 *	*Xrefrain
 ==	==
 *-	*-
-!!!RNB: Tempo marking of quarter = 86 given
 !!!RNB: Removed initial eighth rest and added it to final partial measure
 !!!EED1: Samuel Boone
 !!!EEV1: 2026/08/25
