@@ -14,6 +14,7 @@
 *M3/4	*
 *	*v:1
 *	*pline:1h1
+!!LO:TX:omd:tempo:a:t=[quarter.]=75
 8g	Mad'-
 =1	=1
 4.a	-lein[e]
@@ -108,6 +109,5 @@
 4r	.
 ==	==
 *-	*-
-!!!RNB: Tempo marking of dotted-quarter = 75 given
 !!!EED1: Samuel Boone
 !!!EEV1: 2026/09/24
