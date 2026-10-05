@@ -14,6 +14,7 @@
 *M6/8	*
 *	*v:1
 *	*pline:1h1
+!!LO:TX:omd:tempo:a:t=[quarter.]=52
 8e	–Ah!
 =1	=1
 4.a	toi,
@@ -92,6 +93,5 @@
 ==	==
 *-	*-
 !!!RNB: Added eighth rest at the end to complete partial measure
-!!!RNB: Tempo marking of dotted-quarter = 52 given
 !!!EED1: Samuel Boone
 !!!EEV1: 2026/06/24
