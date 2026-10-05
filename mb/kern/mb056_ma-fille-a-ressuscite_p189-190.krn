@@ -14,6 +14,7 @@
 *M3/4	*
 *	*v:1
 *	*pline:1
+!!LO:TX:omd:tempo:a:t=[quarter]=132
 8f	Il
 8f	a
 8f	pris
@@ -105,6 +106,5 @@
 ==	==
 *-	*-
 !!!RWG: Second verse ends incomplete
-!!!RNB: Tempo marking of quarter note = 132
 !!!EED1: Samuel Boone
 !!!EEV1: 2026/08/25
