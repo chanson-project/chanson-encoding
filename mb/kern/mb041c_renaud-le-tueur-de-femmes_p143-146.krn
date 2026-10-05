@@ -15,6 +15,7 @@
 *	*v:1
 *	*pline:1
 =1	=1
+!!LO:TX:omd:tempo:a:t=[eighth]=104
 !upward scoop symbol before following note, also in "II" (measure removed at the end)	!
 4f#	–Al-
 !upward scoop symbol after following note, not in "II" (measure removed from end)	!
@@ -127,7 +128,6 @@
 *-	*-
 !!!RWG: Removed final measure preceded by a "II", unsure if it indicates a second verse, but is effectively the same as the very first measure
 !!!RNB: Kind of hard to tell what's a scoop vs a slur in some cases
-!!!RNB: Tempo marking of eighth = 104 given
 !!!RWG: Not sure if second verse begins midway through at double bar line or after ending, will need to be double checked
 !!!EED1: Samuel Boone
 !!!EEV1: 2026/08/06
