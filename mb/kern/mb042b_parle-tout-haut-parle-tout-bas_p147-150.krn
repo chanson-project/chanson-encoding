@@ -15,6 +15,7 @@
 *	*v:1
 *	*pline:1h1
 =1	=1
+!!LO:TX:omd:tempo:a:t=[quarter]=104
 *^	*
 8c	4g	La
 8c	.	pre-
@@ -84,7 +85,6 @@
 2c	-té's.
 ==	==
 *-	*-
-!!!RNB: Tempo marking of quarter = 104 given
 !!!RNB: First verse stems pointed up, second verse pointed down
 !!!EED1: Samuel Boone
 !!!EEV1: 2026/08/06
