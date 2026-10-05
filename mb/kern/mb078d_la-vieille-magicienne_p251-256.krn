@@ -14,6 +14,7 @@
 *M2/4	*
 *	*v:1
 *	*pline:1
+!!LO:TX:omd:tempo:a:t=[quarter]=98
 8r	.
 8g	Ah,
 =1	=1
@@ -74,7 +75,7 @@
 !apparent glissando between notes	!
 8dd;	ob-
 =10	=10
-!tempo marking of quarter = 88 given here	!
+!!LO:TX:omd:tempo:a:t=[quarter]=88
 !upward scoop before following note	!
 8.ee	-te-
 16dd	-nir
@@ -135,6 +136,5 @@
 4g]	.
 ==	==
 *-	*-
-!!!RNB: Tempo marking of quarter = 98 given at beginning of score, and quarter = 88 given in m.10
 !!!EED1: Samuel Boone
 !!!EEV1: 2026/09/22
