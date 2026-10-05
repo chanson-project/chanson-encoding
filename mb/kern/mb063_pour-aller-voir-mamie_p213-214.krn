@@ -15,6 +15,7 @@
 *	*v:1
 *	*pline:1h1
 =1	=1
+!!LO:TX:omd:tempo:a:t=[quarter]=90
 4f#	Par
 8.g#	un
 16e	di-
@@ -143,7 +144,6 @@
 ==	==
 *-	*-
 !!!RWG: Modulates to E Minor halfway through
-!!!RNB: Tempo marking of quarter = 90 given
 !!!RNB: Added quarter rest at end to complete measure
 !!!EED1: Samuel Boone
 !!!EEV1: 2026/08/27
