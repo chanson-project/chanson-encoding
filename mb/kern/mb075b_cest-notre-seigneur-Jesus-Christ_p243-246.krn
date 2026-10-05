@@ -15,6 +15,7 @@
 *	*v:1
 *	*pline:1h1
 =1	=1
+!!LO:TX:omd:tempo:a:t=[quarter]=66
 8d	C'est
 8e	notr'
 8f#	Sei-
@@ -108,7 +109,6 @@
 8r	.
 ==	==
 *-	*-
-!!!RNB: Tempo marking of quarter = 66 given
 !!!RNB: Added eighth rest at end to complete measure
 !!!EED1: Samuel Boone
 !!!EEV1: 2026/09/20
