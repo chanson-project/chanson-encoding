@@ -14,6 +14,7 @@
 *M2/4	*	*
 *	*	*v:1
 *	*	*pline:1h1
+!!LO:TX:omd:tempo:a:t=[quarter]=118
 4e-	.	Un
 =1	=1	=1
 8.a-	.	ca-
@@ -89,6 +90,5 @@
 *-	*-	*-
 !!!RWG: 'cresc.' and 'decresc.' should be hairpins, need to be corrected
 !!!RNB: Added final partial measure with rest to balance pickup
-!!!RNB: Tempo marking of quarter = 118 given
 !!!EED1: Samuel Boone
 !!!EEV1: 2026/08/21
