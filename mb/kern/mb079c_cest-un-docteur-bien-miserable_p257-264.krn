@@ -14,6 +14,7 @@
 *M6/8	*
 *	*v:1
 *	*pline:1h1
+!!LO:TX:omd:tempo:a:t=[quarter.]=86
 (8fq	.
 8e-)	C'est
 4a-	un
@@ -81,7 +82,7 @@
 *>B	*>B
 !!LO:PB:g=original
 =||8!|:	=||8!|:
-!tempo marking of quarter = 92 given	!
+!!LO:TX:omd:tempo:a:t=[quarter]=92
 8e-	dé-
 8f	-mon
 8.g-	lui
@@ -146,6 +147,5 @@
 !added repeat sign at end, to finish one at beginning of line	!
 ==:|!	==:|!
 *-	*-
-!!!RNB: Tempo marking of dotted-quarter = 86 given at beginning of score, and quarter = 92 given in m.8
 !!!EED1: Samuel Boone
 !!!EEV1: 2026/09/22
