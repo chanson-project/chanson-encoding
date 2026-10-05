@@ -14,6 +14,7 @@
 *M3/4	*
 *	*v:1
 *	*pline:1h1
+!!LO:TX:omd:tempo:a:t=[quarter]=88
 8f	Quand
 8g	le
 8a	dé-
@@ -106,6 +107,5 @@
 ==	==
 *-	*-
 !!!RNB: Removed redundant rests at beginning and end
-!!!RNB: Tempo marking of quarter = 88 given
 !!!EED1: Samuel Boone
 !!!EEV1: 2026/09/22
