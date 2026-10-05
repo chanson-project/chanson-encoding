@@ -14,6 +14,7 @@
 *M6/8	*
 *	*v:1
 *	*pline:1
+!!LO:TX:omd:tempo:a:t=[quarter.]=72
 8e	Ma-
 =1	=1
 4a	-tin,
@@ -152,7 +153,6 @@
 4a]	.
 ==	==
 *-	*-
-!!!RNB: Tempo marking of dotted-quarter = 72 given
 !!!RNB: Pushed middle double thin bar lines an eighth rest over, so that the beginning of v2 is notationally consistent with that of v1
 !!!EED1: Samuel Boone
 !!!EEV1: 2026/09/03
