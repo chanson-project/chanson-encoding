@@ -14,6 +14,7 @@
 *M9/8	*
 *	*v:1
 *	*pline:1h1
+!!LO:TX:omd:tempo:a:t=[quarter.]=92
 8g	Ap-
 =1	=1
 4b-/	-pro-
@@ -95,7 +96,6 @@
 4.e-	-lent.
 ==	==
 *-	*-
-!!!RNB: Tempo marking of dotted-quarter = 92 given
 !!!RNB: Removed initial redundant rest and added final partial measure of rests at the end to balance pickup
 !!!EED1: Samuel Boone
 !!!EEV1: 2026/08/25
