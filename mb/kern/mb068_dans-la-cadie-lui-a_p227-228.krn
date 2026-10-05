@@ -14,6 +14,7 @@
 *M6/8	*
 *	*v:1
 *	*pline:1h1
+!!LO:TX:omd:tempo:a:t=[quarter]=96
 8f	Dans
 =1	=1
 4f	la
@@ -169,7 +170,6 @@
 4r	.
 ==	==
 *-	*-
-!!!RNB: Tempo marking of quarter = 96 given
 !!!RNB: Added partial measure of rests at the end to complete pickup
 !!!EED1: Samuel Boone
 !!!EEV1: 2026/09/04
