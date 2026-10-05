@@ -14,6 +14,7 @@
 *M3/4	*
 *	*v:1
 *	*pline:1h1
+!!LO:TX:omd:tempo:a:t=[eighth]=142
 8r	.
 8f	C'est
 =1	=1
@@ -71,7 +72,7 @@
 *	*pline:3h1
 8a-	Un
 =9	=9
-!Tempo marking of eighth = 158 given	!
+!!LO:TX:omd:tempo:a:t=[eighth]=158
 8e-	jour
 8f	le
 8g-	diab'
@@ -173,6 +174,5 @@
 2a-	-dans.
 ==	==
 *-	*-
-!!!RNB: Tempo marking of eighth = 142 given at beginning of score, and eighth = 158 given in m.9
 !!!EED1: Samuel Boone
 !!!EEV1: 2026/09/22
