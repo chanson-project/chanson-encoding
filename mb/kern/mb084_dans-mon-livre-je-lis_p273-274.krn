@@ -1,0 +1,87 @@
+!!!id: mb084
+!!!page: 273-274
+!!!COM: Anonymous
+!!!LYR: Anonymous
+!!!OCL: Marius Barbeau
+!!!PTL@@FR: Le Rossignol y Chante
+!!!OTL@@FR: Dans mon livre je lis
+!!!PPR: Ministère du Nord Canadien et des Resources Nationales, Musée National du Canada
+!!!PDT: 1962
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M3/4	*
+*	*v:1
+*	*pline:1h1
+8.a	Dans
+16b-/	mon
+=1	=1
+4cc	livr'
+4cc	je
+8.dd	lis
+16cc	en
+=2	=2
+4cc	sor-
+4a	-te
+*	*pline:1h2
+8.a	Que
+16b-/	tous
+=3	=3
+4cc	il
+4cc	faut
+8.dd	tré-
+16cc	-pas-
+!!LO:PB:g=original
+=4	=4
+4.cc	-ser.
+8r	.
+*	*pline:2h1
+8.cc	Ma
+16b-	pauvr'
+=5	=5
+4a	fem-
+4f	-me
+8.g	ell[e]
+16a	est
+=6	=6
+4b-	mor-
+4g	-te,
+*	*pline:2h2
+8.cc	Ell[e]
+16b-	est
+=7	=7
+4a	mort[e]
+4f	et
+8.b-/	en-
+16a	-ter-
+!!LO:PB:g=original
+=8	=8
+4.g	-ré'.
+8r	.
+*	*pline:2h1r
+8.cc	Ma
+16b-	pauvr'
+=9	=9
+4a	fem-
+4f	-me
+8.g	ell[e]
+16a	est
+=10	=10
+4b-/	mor-
+4g	-te,
+*	*pline:2h2r
+8.cc	Ell[e]
+16b-	est
+=11	=11
+4a	mort[e]
+4f	et
+8.g	en-
+16e	-ter-
+=12	=12
+4.f	-ré'.
+8r	.
+==	==
+*-	*-
+!!!EED1: Samuel Boone
+!!!EEV1: 2026/10/04
