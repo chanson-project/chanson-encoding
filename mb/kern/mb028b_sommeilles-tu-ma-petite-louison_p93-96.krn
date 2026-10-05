@@ -14,6 +14,7 @@
 *M2/4	*
 *	*v:1
 *	*pline:1
+!!LO:TX:omd:tempo:a:t=[quarter]=90
 8f	–Som-
 16f	-meil-
 16f	-les--
@@ -103,7 +104,6 @@
 ==	==
 *-	*-
 !!!RWG: Second verse begins immediately after final eighth rest, hopefully clear from code
-!!!RNB: Tempo marking of quarter = 90 given
 !!!RNB: "Transcrite en do naturel"
 !!!EED1: Samuel Boone
 !!!EEV1: 2026/07/29
