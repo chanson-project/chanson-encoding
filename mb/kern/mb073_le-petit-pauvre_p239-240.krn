@@ -14,6 +14,7 @@
 *M4/4	*
 *	*v:1
 *	*pline:1h1
+!!LO:TX:omd:tempo:a:t=[quarter]=112
 8e-	C'é-
 =1	=1
 4a-	-tait
@@ -39,7 +40,7 @@
 8a-	À
 !!LO:PB:g=original
 =5	=5
-!tempo marking of quarter = 100 given	!
+!!LO:TX:omd:tempo:a:t=[quarter]=100
 *M3/4	*
 4b-	la
 !upward scoop before following note	!
@@ -63,7 +64,7 @@
 8e-	À
 !!LO:PB:g=original
 =8	=8
-!tempo marking of quarter = 96 given	!
+!!LO:TX:omd:tempo:a:t=[quarter]=96
 *M3/4	*
 4a-	la
 8a-	por-
@@ -184,8 +185,5 @@
 *-	*-
 !!!RWG: Unsure if second verse begins in m.16
 !!!RNB: Added final measure of rests to complete pickup
-!!!RNB: Initial tempo marking of quarter = 112 given
-!!!RNB: Second tempo marking of quarter = 100 given in m.5
-!!!RNB: Third tempo marking of quarter = 96 given in m.8
 !!!EED1: Samuel Boone
 !!!EEV1: 2026/09/08
