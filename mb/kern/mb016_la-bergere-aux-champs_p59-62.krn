@@ -14,6 +14,7 @@
 *M2/4	*
 *	*v:1
 *	*pline:1
+!!LO:TX:omd:tempo:a:t=[quarter]=69
 8d	Y a
 8g	rien
 8b-/	de
@@ -151,7 +152,6 @@
 8r	.
 ==	==
 *-	*-
-!!!RNB: Tempo marking of quarter = 69 given
 !!!RNB: Added rests at end and made initial measure a pickup
 !!!EED1: Samuel Boone
 !!!EEV1: 2026/06/25
