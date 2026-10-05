@@ -14,6 +14,7 @@
 *M6/8	*
 *	*v:1
 *	*pline:1
+!!LO:TX:omd:tempo:a:t=[quarter.]=125
 8c	C'est
 =1	=1
 4.g	la
@@ -153,7 +154,6 @@
 4r	.
 ==	==
 *-	*-
-!!!RNB: Tempo marking of dotted-quarter = 125 given
 !!!RNB: Added quarter rest at the end to balance pickup
 !!!RWG: Unsure if verse 2 begins halfway through, since the lyrics are the same as verse 2 in variant b
 !!!RWG: Plus sign before certain notes, encoded as sharp for now but editorial note made
