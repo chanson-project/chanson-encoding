@@ -14,6 +14,7 @@
 *M2/4	*
 *	*v:1
 *	*pline:1h1
+!!LO:TX:omd:tempo:a:t=[quarter]=70
 !upward scoop before following note	!
 8.f#	–Ma
 16g#	très
@@ -197,7 +198,6 @@
 ==	==
 *-	*-
 !!!RWG: Second half of song unfinished
-!!!RNB: Tempo marking of quarter = 70 given
 !!!RNB: Removed redundant rests at beginning
 !!!EED1: Samuel Boone
 !!!EEV1: 2026/08/26
