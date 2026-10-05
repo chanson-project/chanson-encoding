@@ -14,6 +14,7 @@
 *M6/8	*
 *	*v:1
 *	*pline:1
+!!LO:TX:omd:tempo:a:t=[quarter.]=68
 8b/	C'est
 =1	=1
 8bL	u-
@@ -166,7 +167,6 @@
 4r	.
 ==	==
 *-	*-
-!!!RNB: Tempo marking of dotted-quarter = 68 given
 !!!RNB: Balanced rests at beginning and end to fix pickup
 !!!RWG: Plus sign before a note, encoded as sharp for now but editorial note made
 !!!RWG: Unsure about where some syllables should land, needs a second look
