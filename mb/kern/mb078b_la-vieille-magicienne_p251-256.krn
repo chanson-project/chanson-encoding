@@ -14,6 +14,7 @@
 *M2/4	*
 *	*v:1
 *	*pline:1
+!!LO:TX:omd:tempo:a:t=[quarter]=90
 8g	Un
 =1	=1
 8.f#	jour,
@@ -71,6 +72,5 @@
 8r	.
 ==	==
 *-	*-
-!!!RNB: Tempo marking of quarter = 90 given
 !!!EED1: Samuel Boone
 !!!EEV1: 2026/09/22
