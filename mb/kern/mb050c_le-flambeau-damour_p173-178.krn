@@ -14,6 +14,7 @@
 *M2/4	*
 *	*v:1
 *	*pline:1
+!!LO:TX:omd:tempo:a:t=[quarter]=102
 8f	C'é-
 !added repeat signs that should exist but don't	!
 =!|:1	=!|:1
@@ -71,7 +72,7 @@
 4.cc	tour,
 8r	.
 *	*pline:4
-!tempo marking of quarter = 112 given	!
+!!LO:TX:omd:tempo:a:t=[quarter]=112
 =12	=12
 8.f	Car
 16f	c'est
@@ -126,7 +127,6 @@
 4.b-	-mour.
 ==	==
 *-	*-
-!!!RNB: Tempo marking of quarter = 102 given, then = 112 in m.12
 !!!RWG: Unknown marking in m.14, editorial note made for now
 !!!EED1: Samuel Boone
 !!!EEV1: 2026/08/20
