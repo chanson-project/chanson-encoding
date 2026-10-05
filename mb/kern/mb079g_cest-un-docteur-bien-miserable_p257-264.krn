@@ -14,6 +14,7 @@
 *M6/8	*
 *	*v:1
 *	*pline:1h1
+!!LO:TX:omd:tempo:a:t=[quarter]=84
 8d	C'est
 8g	un
 8a	doc-
@@ -174,6 +175,5 @@
 4.g	-gent.
 ==	==
 *-	*-
-!!!RNB: Tempo marking of quarter = 84 given
 !!!EED1: Samuel Boone
 !!!EEV1: 2026/09/22
