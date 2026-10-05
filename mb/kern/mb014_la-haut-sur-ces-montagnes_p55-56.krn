@@ -14,6 +14,7 @@
 *M2/4	*
 *	*v:1
 *	*pline:1h1
+!!LO:TX:omd:tempo:a:t=[quarter]=76
 8d	Là--
 8g	haut
 8b/	sur
@@ -117,7 +118,6 @@
 8r	.
 ==	==
 *-	*-
-!!!RNB: Tempo marking of quarter = 76 given
 !!!RNB: Made initial measure into pickup and added rest at end
 !!!EED1: Samuel Boone
 !!!EEV1: 2026/06/25
