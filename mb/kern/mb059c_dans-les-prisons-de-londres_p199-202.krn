@@ -14,6 +14,7 @@
 *M2/4	*
 *	*v:1
 *	*pline:1h1
+!!LO:TX:omd:tempo:a:t=[quarter]=94
 8c	Dans
 =1	=1
 8f.	la
@@ -106,7 +107,6 @@
 *	*Xrefrain
 ==	==
 *-	*-
-!!!RNB: Tempo marking of quarter = 94 given
 !!!RNB: Removed initial rest and added final partial measure of rests to complete pickup
 !!!EED1: Samuel Boone
 !!!EEV1: 2026/08/25
