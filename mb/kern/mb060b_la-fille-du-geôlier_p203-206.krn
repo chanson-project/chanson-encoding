@@ -14,6 +14,7 @@
 *M6/8	*
 *	*v:1
 *	*pline:1h1
+!!LO:TX:omd:tempo:a:t=[eighth]=142
 !upward scoop before following note	!
 8a	C'é-
 8f#	-tait
@@ -118,7 +119,6 @@
 8r	.
 ==	==
 *-	*-
-!!!RNB: Tempo marking of eighth = 142 given
 !!!RNB: Added eighth rest at end to complete pickup
 !!!EED1: Samuel Boone
 !!!EEV1: 2026/08/25
