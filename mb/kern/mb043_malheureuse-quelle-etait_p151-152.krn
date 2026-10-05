@@ -14,6 +14,7 @@
 *M6/8	*
 *	*v:1
 *	*pline:1
+!!LO:TX:omd:tempo:a:t=[quarter.]=84
 4cc	C'est
 8dd	un'
 =1	=1
@@ -107,7 +108,6 @@
 8cc]	.
 ==	==
 *-	*-
-!!!RNB: Tempo marking of dotted-quarter = 84 given
 !!!RNB: Time signature listed merely as /8, I have given time signatures at every metric change
 !!!EED1: Samuel Boone
 !!!EEV1: 2026/08/06
