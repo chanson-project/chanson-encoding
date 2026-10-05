@@ -14,6 +14,7 @@
 *M6/8	*
 *	*v:1
 *	*pline:1
+!!LO:TX:omd:tempo:a:t=[quarter.]=124
 8dd	C'est
 8dd	dans
 8dd	Pa-
@@ -111,7 +112,6 @@
 4.g	jour.
 ==	==
 *-	*-
-!!!RNB: Tempo marking of dotted-quarter = 124 given
 !!!RWG: Unsure if second verse starts somewhere in the middle of the song
 !!!EED1: Samuel Boone
 !!!EEV1: 2026/08/24
