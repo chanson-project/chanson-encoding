@@ -14,6 +14,7 @@
 *M6/8	*
 *	*v:1
 *	*pline:1h1
+!!LO:TX:omd:tempo:a:t=[quarter.]=72
 =1	=1
 8ee-	–Ros-
 8ee-	-si-
@@ -85,6 +86,5 @@
 4.cc	.
 ==	==
 *-	*-
-!!!RNB: Tempo marking of dotted-quarter = 72 given
 !!!EED1: Samuel Boone
 !!!EEV1: 2026/06/23
