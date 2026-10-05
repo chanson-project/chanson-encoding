@@ -14,6 +14,7 @@
 *M6/8	*
 *	*v:1
 *	*pline:1
+!!LO:TX:omd:tempo:a:t=[quarter.]=60
 8e-	La
 8e-	mèr[e]
 8e-	é-
@@ -152,7 +153,6 @@
 ==	==
 *-	*-
 !!!RNB: Second verse encoded in same spine as first
-!!!RNB: Tempo marking of dotted-quarter = 60 given
 !!!RNB: Added measure at the end to complete pickup
 !!!RWG: Plus sign before some notes, encoded those notes as sharp
 !!!EED1: Samuel Boone
