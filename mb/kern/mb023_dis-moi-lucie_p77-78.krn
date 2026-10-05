@@ -14,6 +14,7 @@
 *M2/4	*
 *	*v:1
 *	*pline:1h1
+!!LO:TX:omd:tempo:a:t=[quarter]=96
 =1	=1
 4a	–Dis--
 8b/	moi,
@@ -118,7 +119,6 @@
 8r	.
 ==	==
 *-	*-
-!!!RNB: Tempo marking of quarter = 96 given
 !!!RNB: Added eighth rest at end to complete measure
 !!!EED1: Samuel Boone
 !!!EEV1: 2026/07/17
