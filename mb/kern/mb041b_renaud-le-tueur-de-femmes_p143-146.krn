@@ -15,6 +15,7 @@
 *	*v:1
 *	*pline:1
 =1	=1
+!!LO:TX:omd:tempo:a:t=[quarter]=122
 8.fL	Mon
 16e-J	.
 8d	beau
@@ -187,7 +188,6 @@
 ==	==
 *-	*-
 !!!RWG: Glissando between notes in m.3
-!!!RNB: Tempo marking of quarter = 122 given
 !!!RNB: Some notes have scoop preceding them
 !!!EED1: Samuel Boone
 !!!EEV1: 2026/08/06
