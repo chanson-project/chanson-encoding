@@ -14,6 +14,7 @@
 *M2/4	*
 *	*v:1
 *	*pline:1h1
+!!LO:TX:omd:tempo:a:t=[quarter]=104
 8g	C'est
 8g	notr'
 =1	=1
@@ -68,6 +69,5 @@
 4f;	-té.
 ==	==
 *-	*-
-!!!RNB: Tempo marking of quarter = 104 given
 !!!EED1: Samuel Boone
 !!!EEV1: 2026/09/08
