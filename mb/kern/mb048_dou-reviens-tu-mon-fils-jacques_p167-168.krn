@@ -14,6 +14,7 @@
 *M6/8	*
 *	*v:1
 *	*pline:1
+!!LO:TX:omd:tempo:a:t=[quarter.]=66
 4a	–D'où
 8b/	re-
 =1	=1
@@ -39,7 +40,7 @@
 4g]	.
 8r	.
 !!LO:PB:g=original
-!tempo marking of quarter = 100 given here	!
+!!LO:TX:omd:tempo:a:t=[quarter]=100
 =5	=5
 *M2/4	*
 8cc	–Je
@@ -88,7 +89,6 @@
 2a	-li.
 ==	==
 *-	*-
-!!!RNB: Tempo marking of dotted-quarter = 66 given in initial measure, then another of quarter = 100 given in m.5 (at the time sig change)
 !!!RNB: Removed some unnecessary rests at the beginning
 !!!EED1: Samuel Boone
 !!!EEV1: 2026/08/20
