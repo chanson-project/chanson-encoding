@@ -14,6 +14,7 @@
 *M6/8	*
 *	*v:1
 *	*pline:1
+!!LO:TX:omd:tempo:a:t=[quarter.]=102
 8b-	–Ma-
 8b-	-ri-
 8b-	-an-
@@ -63,7 +64,6 @@
 4.b-/	-ri?
 ==	==
 *-	*-
-!!!RNB: Tempo marking of dotted-quarter = 102 given
 !!!RNB: Removed initial redundant rests
 !!!EED1: Samuel Boone
 !!!EEV1: 2026/08/04
