@@ -15,6 +15,7 @@
 *	*v:1
 *	*pline:1
 =1	=1
+!!LO:TX:omd:tempo:a:t=[eighth]=120
 (8f#q	.
 4e)	Je
 8a	me
@@ -189,7 +190,6 @@
 4b/	-pe...
 ==	==
 *-	*-
-!!!RNB: Tempo marking of eighth = 120 given
 !!!RWG: V2 ends incomplete
 !!!EED1: Samuel Boone
 !!!EEV1: 2026/09/03
