@@ -14,6 +14,7 @@
 *M6/8	*
 *	*v:1
 *	*pline:1h1
+!!LO:TX:omd:tempo:a:t=[quarter]=92
 8b/	Là--
 =1	=1
 4b/	bas,
@@ -94,7 +95,6 @@
 8r	.
 ==	==
 *-	*-
-!!!RNB: Tempo marking of quarter note = 92 given
 !!!RNB: Missing 6/8 time signature added to m.10
 !!!EED1: Samuel Boone
 !!!EEV1: 2026/07/06
