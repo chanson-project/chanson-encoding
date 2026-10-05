@@ -14,8 +14,8 @@
 *M2/4	*
 *	*v:1
 *	*pline:1
-!!LO:TX:omd:tempo:a:t=[quarter]=104
 =1	=1
+!!LO:TX:omd:tempo:a:t=[quarter]=104
 4f	C'est
 8b-L	un
 8ddJ	.
