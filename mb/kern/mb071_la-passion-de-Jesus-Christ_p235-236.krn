@@ -14,6 +14,7 @@
 *M6/8	*
 *	*v:1
 *	*pline:1h1
+!!LO:TX:omd:tempo:a:t=[quarter.]=78
 8e-	É-
 8e-	-cou-
 8e-	-tez
@@ -153,7 +154,6 @@
 8r	.
 ==	==
 *-	*-
-!!!RNB: Tempo marking of dotted-quarter = 78 given
 !!!RNB: Moved rests from pickup measure to final
 !!!EED1: Samuel Boone
 !!!EEV1: 2026/09/08
