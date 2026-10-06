@@ -1,0 +1,92 @@
+!!!id: mb088
+!!!page: 287-288
+!!!COM: Anonymous
+!!!LYR: Anonymous
+!!!OCL: Marius Barbeau
+!!!PTL@@FR: Le Rossignol y Chante
+!!!OTL@@FR: Le martyre de sainte Catherine
+!!!PPR: Ministère du Nord Canadien et des Resources Nationales, Musée National du Canada
+!!!PDT: 1962
+**kern	**text
+*clefG2	*
+*k[f#,c#,g#]	*
+*D:	*
+*M2/4	*
+*	*v:1
+*	*pline:1h1
+!!LO:TX:omd:tempo:a:t=[quarter]=84
+8dd	Un
+4dd	jour,
+=1	=1
+8cc#L	dans
+8bJ	.
+8aL	ses
+8bJ	.
+=2	=2
+8cc#L	pri-
+8aJ/	.
+4g#	-è-
+=3	=3
+8f#	-res
+*	*pline:1h2
+8ee	Son
+4dd	pè-
+=4	=4
+8cc#L	-re
+8bJ	.
+8.a	la
+16b/	trou-
+!!LO:PB:g=original
+=5	=5
+*k[f#,c#,gn]	*
+=6	=6
+4.a	-va.
+*	*pline:2h1
+8gn	Dit:
+=7	=7
+8a	–Ma
+8g	fill'
+8f#	Ca-
+8a	-the-
+=8	=8
+4b/	-ri-
+8.b/	-ne,
+*	*pline:2h2
+16b/	que
+=9	=9
+4a	fai-
+8.g	-tes--
+16f#	vous
+!!LO:PB:g=original
+=10	=10
+*k[f#,c#]	*
+8.d	là?
+*>REFRAIN	*>REFRAIN
+*	*refrain
+*	*italic
+*	*rline:1
+16e	Jé-
+8f#	-sus,
+8g	eh
+=11	=11
+2a	là!
+*	*rline:2
+=12	=12
+4a	Sanc-
+4dd	-ta
+=13	=13
+8.ddL	Ca-
+16cc#J	.
+8b	-the-
+8cc#	-ri-
+=14	=14
+2a	-na!
+=15	=15
+8r	.
+*	*Xitalic
+*	*Xrefrain
+==	==
+*-	*-
+!!!RNB: Key signature change from m.5 on, not sure what key we want to say this song is in (also doesn't display G-natural, although Verovio seems to apply it to the score functionally)
+!!!EED1: Samuel Boone
+!!!EEV1: 2026/10/06
