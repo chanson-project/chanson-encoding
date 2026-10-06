@@ -1,0 +1,78 @@
+!!!id: mb089b
+!!!page: 289-290
+!!!COM: Anonymous
+!!!LYR: Anonymous
+!!!OCL: Marius Barbeau
+!!!PTL@@FR: Le Rossignol y Chante
+!!!OTL@@FR: La douceur de Jésus-Christ
+!!!PPR: Ministère du Nord Canadien et des Resources Nationales, Musée National du Canada
+!!!PDT: 1962
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M2/4	*
+*	*v:1
+*	*pline:1h1
+8f	C'est
+8.a	u-
+16a	-ne
+=1	=1
+8.f	fi-
+16g	-lle
+8.a	de
+16a	quinz[e]
+=2	=2
+*M3/4	*
+4.g	ans.
+*	*pline:1h2
+8g	Son
+8gq	.
+8a	pèr'
+8a	veut
+=3	=3
+*M2/4	*
+8.f	la
+16g	met-
+8a	-tre
+16b-	en
+16cc	mé-
+!!LO:PB:g=original
+=4	=4
+8.b-L	-na-
+16aJ	.
+4.g	-ge.
+*	*pline:2
+=!|:	=!|:
+8g	Ell'
+=5	=5
+8.f	dis:
+16e	–Je
+8.d	n'ai
+16e	pas
+=6	=6
+(12%1fL	d'au-
+12%1eJ	-tre
+12%1d)	a-
+[4c	-mi
+=7	=7
+4c]	.
+*	*pline:3
+!upward scoop before following note	!
+4g	Que
+=8	=8
+8.a	la
+16g	dou-
+8.f	-ceur
+16g	de
+!upward scoop before following note	!
+8.a	Jé-
+16g	-sus--
+=9	=9
+*M3/4	*
+4.f;	Christ
+==:|!	==:|!
+*-	*-
+!!!RNB: Added missing time signature to beginning, and a 3/4 time signature at end that makes it work with pickup
+!!!EED1: Samuel Boone
+!!!EEV1: 2026/10/06
