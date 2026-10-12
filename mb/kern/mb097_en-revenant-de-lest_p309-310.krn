@@ -1,0 +1,186 @@
+!!!id: mb097
+!!!page: 309-310
+!!!COM: Anonymous
+!!!LYR: Anonymous
+!!!OCL: Marius Barbeau
+!!!PTL@@FR: Le Rossignol y Chante
+!!!OTL@@FR: En revenant de l'Est
+!!!PPR: Ministère du Nord Canadien et des Resources Nationales, Musée National du Canada
+!!!PDT: 1962
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M2/4	*
+*	*v:1
+*	*pline:1h1
+!!LO:TX:omd:tempo:a:t=[quarter]=90
+8d	En
+=1	=1
+4d	re-
+4a	-ve-
+=2	=2
+4a	-nant
+4b/	de
+=3	=3
+4.b/	l'Es-
+8a	.
+=4	=4
+2g,	-se,
+*	*pline:1h2
+=5	=5
+4e	où
+8g	j'ai
+8b/	lais-
+=6	=6
+4a	-sé
+!following note unclear (either 'f#' or 'g')	!
+8f#	mon
+!upward scoop before following note	!
+8b/	jo-
+!!LO:PB:g=original
+=7	=7
+4a	-li
+(8gL	pa-
+8eJ)	.
+=8	=8
+2e,	-ys,
+*	*pline:2h1
+=9	=9
+!LO:TX:a:i:t=Accel.	!
+!!LO:TX:omd:tempo:a:t=[half]=112
+!upward scoop before following note	!
+(4g	Un
+4d)	.
+=10	=10
+8e	jeun[e]
+8f#	a-
+8.g	-mant,
+16g	ve-
+=11	=1
+8g	-nant
+8a	me
+8g	vois,
+*	*pline:2h2
+8d	fait
+=12	=12
+12%1eL	à
+12%1f#J	.
+12%1g	mon
+(8f#L	gré.
+8eJ)	.
+*	*pline:3h1
+!!LO:PB:g=original
+=13	=13
+!upward scoop before following note	!
+4b/	Il
+(12%1bL	m'a
+!LO:TX:a:i:t=Rall.	!
+12%1aJ	.
+12%1g)	pro-
+=14	=14
+!!LO:TX:omd:tempo:a:t=[quarter]=90
+!upward scoop before following note	!
+8.bL	-mis
+16aJ	.
+8.g	qu'il
+16b/	m'é-
+=15	=15
+4.a	-pou-
+8b/	-se-
+=16	=16
+4e,	-rait,
+*	*pline:3h2
+8f#	un'
+8a	chos[e]
+=17	=17
+4g	as-
+4e	-su-
+=18	=18
+(8f#	-ré',
+4d)	.
+=||;	=||;
+*	*v:2
+*	*pline:4h1
+8d	Et
+!!LO:PB:g=original
+=19	=19
+4d	de
+4a	ce
+=20	=20
+4a	ma-
+4b/	-ri-
+=21	=21
+4.b/	-a-
+(8a	-ge
+=22	=22
+2g),	.
+*	*pline:4h2
+=23	=23
+4e	ses
+8g	pa-
+8b/	-rents
+=24	=24
+(8a	ne
+4g)	.
+8b/	sont
+=25	=25
+4a	pas
+(8gL	con-
+8eJ)	.
+!!LO:PB:g=original
+=26	=26
+2e,	-tents.
+*	*pline:5h1
+=27	=27
+!upward scoop before following note	!
+(4g	Ont
+4d)	.
+=28	=28
+8e	fait
+8f#	ac-
+8.g	-coir[e]
+16b/	à
+=29	=29
+8.a	mon
+16g	ma-
+8.g	-ri,
+*	*pline:5h2
+16d	mon
+=30	=30
+(12%1eL	cher
+12%1f#J	.
+12%1g)	a-
+(8f#L	-mi
+8eJ)	.
+*	*pline:6h1
+!!LO:PB:g=original
+=31	=31
+!upward scoop before following note	!
+4b/	Que
+(12%1bL	j'en
+12%1aJ	.
+12%1g)	ai-
+=32	=32
+16bL	-mais
+8.aJ	.
+8g	un
+8b/	au-
+=33	=33
+4.a	-tre
+8b/	que
+=34	=34
+4e,	lui.
+*	*pline:6h2
+8f#	Mais
+8a	ils
+=35	=35
+4g	ont
+4e	men-
+=36	=36
+(4f#	-ti.
+4d)	.
+==	==
+*-	*-
+!!!EED1: Samuel Boone
+!!!EEV1: 2026/10/12
