@@ -1,0 +1,106 @@
+!!!id: mb098b
+!!!page: 311-312
+!!!COM: Anonymous
+!!!LYR: Anonymous
+!!!OCL: Marius Barbeau
+!!!PTL@@FR: Le Rossignol y Chante
+!!!OTL@@FR: Le miracle du nouveau-né
+!!!PPR: Ministère du Nord Canadien et des Resources Nationales, Musée National du Canada
+!!!PDT: 1962
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M6/8	*
+*	*v:1
+*	*pline:1h1
+!!LO:TX:omd:tempo:a:t=[quarter.]=94
+8g	Trois
+8a	jeu-
+8g	-nes
+=1	=1
+4d	fill's
+*	*pline:1h2
+8g	s'en-
+!following trill written as squiggly line in original	!
+4aT	-vont
+8g	aux
+=2	=2
+4.b/	champs.
+*	*pline:2h1
+8g	Trois
+8b/	jeun's
+8g	gar-
+=3	=3
+4d	-çons
+*	*pline:2h2
+8g	s'en
+8aL	re-
+8gJ	.
+8f#	-ve-
+!!LO:PB:g=original
+=4	=4
+4.g,	-nant.
+*	*pline:3h1
+8g	Mais
+8a	la
+8b/	plus
+=5	=5
+8cc	jeune
+*	*pline:3h2
+8cc	a-
+8cc	-vait
+4cc	un
+8b	en-
+=6	=6
+8b/~	-fant.
+*>REFRAIN	*>REFRAIN
+*	*refrain
+*	*italic
+*	*rline:R1h1
+8g	Je
+8g	suis
+8aq	.
+4a	jeu-
+8f#	.
+=7	=7
+4.d,	-ne,
+*	*rline:R1h2
+8g	en
+8g	en-
+8g	-ten-
+!!LO:PB:g=original
+=8	=8
+4b	-dant
+8b	les
+8b	bois
+8dd	re-
+8dd	-ten-
+=9	=9
+8b/	-tir,
+*	*rline:R2
+8a	Je
+8g	suis
+8bq	.
+8a	jeun[e]
+8g	et
+8f#	jo-
+=10	=10
+4.g	-lie.
+*	*Xitalic
+*	*Xrefrain
+*	*v:2
+*	*pline:4h1
+=||	=||
+8g	Mais
+8a	la
+8g	plus
+=11	=11
+8d	jeun[e]
+8g	a-
+8g	-vait
+==	==
+*-	*-
+!!!RWG: Couldn't find verse 2 lyrics  listed in text, and seems to trail off in the score
+!!!EED1: Samuel Boone
+!!!EEV1: 2026/10/12
