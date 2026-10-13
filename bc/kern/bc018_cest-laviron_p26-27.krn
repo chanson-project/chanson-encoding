@@ -15,10 +15,10 @@
 *k[f#c#]	*	*	*	*	*	*	*	*	*	*	*	*
 *D:	*	*	*	*	*	*	*	*	*	*	*	*
 *M2/4	*	*	*	*	*	*	*	*	*	*	*	*
-*	*v:1	*v:2	*v:3	*v:4	*v:5	*v:6	*v:7	*v:8	*v:9	*v:10	*v:11	*v:12
-*	*pline:1	*	*	*	*	*	*	*	*	*	*	*
+*>Verse	*>Verse	*>Verse	*>Verse	*>Verse	*>Verse	*>Verse	*>Verse	*>Verse	*>Verse	*>Verse	*>Verse	*>Verse
+*	*vv:1	*vv:2	*vv:3	*vv:4	*vv:5	*vv:6	*vv:7	*vv:8	*vv:9	*vv:10	*vv:11	*vv:12
+*	*pline:1	*pline:2r	*pline:3r	*pline:4r	*pline:5r	*pline:6r	*pline:7r	*pline:8r	*pline:9r	*pline:10r	*pline:11r	*pline:12r
 =||:1	=||:1	=||:1	=||:1	=||:1	=||:1	=||:1	=||:1	=||:1	=||:1	=||:1	=||:1	=||:1
-*	*	*bis	*bis	*bis	*bis	*bis	*bis	*bis	*bis	*bis	*bis	*bis
 {{4f#	M'en	J'ai	J'ai	J'l'y	J'y	Au	Je	Quand	Je	Quand	À	À
 8f#	re-	ren-	point	fis	fis	bout	l'ai	ell'	l'ai	ell'	la	la
 8e	-ve-	con-	choi-	mon-	cent	d'cent	me-	fut	me-	fut	san-	san-
@@ -38,9 +38,7 @@
 *	*rf:ɛl,ə	*rf:ɛl,ə	*rf:ɛl,ə	*rf:ɛl,ə	*rf:ɛl,ə	*rf:bwaʁ,ə	*rf:tɛn,ə	*rf:bwaʁ,ə	*rf:ɛʁ,ə	*rf:ɛʁ,ə	*rf:ɛʁ,ə	*rf:ɛʁ,ə
 *	*rs:a	*rs:a	*rs:a	*rs:a	*rs:a	*rs:b	*rs:c	*rs:b	*rs:d	*rs:d	*rs:d	*rs:d
 8r}}	.	.	.	.	.	.	.	.	.	.	.	.
-*	*	*Xbis	*Xbis	*Xbis	*Xbis	*Xbis	*Xbis	*Xbis	*Xbis	*Xbis	*Xbis	*Xbis
 =:||9	=:||9	=:||	=:||9	=:||9	=:||9	=:||9	=:||9	=:||9	=:||9	=:||9	=:||9	=:||9
-*	*v:1	*v:2	*v:3	*v:4	*v:5	*v:6	*v:7	*v:8	*v:9	*v:10	*v:11	*v:12
 *	*pline:2	*pline:3	*pline:4	*pline:5	*pline:6	*pline7	*pline:8	*pline:9	*pline:10	*pline: 11	*pline:12	*pline:13
 {{4a	J'ai	J'ai	J'l'y	J'y	Au	Je	Quand	Je	Quand	À	À	À
 8a	ren-	point	fis	fis	bout	l'ai	ell'	l'ai	ell'	la	la	la
@@ -64,6 +62,9 @@
 =||:13	=||:13	=||:13	=||:13	=||:13	=||:13	=||:13	=||:13	=||:13	=||:13	=||:13	=||:13	=||:13
 *>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain
 !!LO:TX:a:B:t=Refrain
+*	*rline:1a7	*	*	*	*	*	*	*	*	*	*	*
+*	*refrain	*	*	*	*	*	*	*	*	*	*	*
+*	*italic	*	*	*	*	*	*	*	*	*	*	*
 {{4d	C'est	.	.	.	.	.	.	.	.	.	.	.
 8d	l'a-	.	.	.	.	.	.	.	.	.	.	.
 8e	-vi-	.	.	.	.	.	.	.	.	.	.	.
@@ -83,6 +84,7 @@
 8e	-ne,	.	.	.	.	.	.	.	.	.	.	.
 8r}	.	.	.	.	.	.	.	.	.	.	.	.
 =17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17
+*	*rline:1	*	*	*	*	*	*	*	*	*	*	*
 {4d	C'est	.	.	.	.	.	.	.	.	.	.	.
 8d	l'a-	.	.	.	.	.	.	.	.	.	.	.
 8e	-vi-	.	.	.	.	.	.	.	.	.	.	.
@@ -91,13 +93,14 @@
 8e	qui	.	.	.	.	.	.	.	.	.	.	.
 8d	nous	.	.	.	.	.	.	.	.	.	.	.
 =19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19
-!	!unmarked elision:mèn'	!	!	!	!	!	!	!	!	!	!	!
-4c#	mène	.	.	.	.	.	.	.	.	.	.	.
+4c#	mèn[e]	.	.	.	.	.	.	.	.	.	.	.
 *	*Xbis	*	*	*	*	*	*	*	*	*	*	*
 4e	en	.	.	.	.	.	.	.	.	.	.	.
 =20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20
 2d}}	haut!	.	.	.	.	.	.	.	.	.	.	.
+*	*Xitalic	*	*	*	*	*	*	*	*	*	*	*
+*	*Xrefrain	*	*	*	*	*	*	*	*	*	*	*
 =:||	=:||	=:||	=:||	=:||	=:||	=:||	=:||	=:||	=:||	=:||	=:||	=:||
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
 !!!EED: Ève Poudrier
-!!!EEV: 2025/May/14
+!!!EEV: 2026/10/06
