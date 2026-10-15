@@ -1,0 +1,76 @@
+!!!id: mb103
+!!!page: 321-322
+!!!COM: Anonymous
+!!!LYR: Anonymous
+!!!OCL: Marius Barbeau
+!!!PTL@@FR: Le Rossignol y Chante
+!!!OTL@@FR: Dans la ville de Bond
+!!!PPR: Ministère du Nord Canadien et des Resources Nationales, Musée National du Canada
+!!!PDT: 1962
+**kern	**text
+*clefG2	*
+*k[b-,e-]	*
+*g:	*
+*M2/4	*
+*	*v:1
+*	*pline:1
+!!LO:TX:omd:tempo:a:t=[note value]=X
+8g	Dans
+=1	=1
+8g	la
+8dd	vi-
+8dd	-lle
+8cc	de
+=2	=2
+8dd	Bond,
+*	*pline:2
+8cc	Y a
+(12%1g	chez
+12%1a	un
+12%1b-/)	viei-
+=3	=3
+8cc	-llard
+8ee-	bour-
+4dd,	-bon
+*	*pline:3
+=4	=4
+8b-/	U-
+8a	-ne
+(12%1gL	jeu-
+12%1aJ	.
+12%1b-/)	-ne
+!!LO:PB:g=original
+=5	=5
+8.cc	fill'
+16dd	fait[e]
+8b-/	au
+8g	cor-
+=6	=6
+8b-/	-sa-
+8a	-ge.
+*	*pline:4
+(12%1d	Un
+12%1g	gen-
+12%1a)	-til
+=7	=7
+8b-	homm[e],
+8dd	en
+8b-/	vé-
+8g	-ri-
+=8	=8
+8.a	-té,
+*	*pline:5
+16d	L'a
+8g	é-
+8a	-pou-
+=9	=9
+8b-	-sé'
+8cc	pour
+8a	sa
+8b-/	beau-
+=10	=10
+4.g	-té.
+==	==
+*-	*-
+!!!EED1: Samuel Boone
+!!!EEV1: 2026/10/14
