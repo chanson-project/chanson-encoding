@@ -12,7 +12,6 @@
 *k[]	*
 *a:	*
 *M2/4	*
-*	*v:1
 *>Refrain	*>Refrain
 *	*refrain
 *	*italic
@@ -39,8 +38,8 @@
 8cc	m'ap-
 8b	-pel-
 8b	-le,
-*	*rline:R1h2
 =5	=5
+*	*rline:R1h2
 8e	V'là
 8a	l'bon
 4a	vent,
@@ -66,26 +65,27 @@
 *	*Xrefrain
 *	*pline:1
 ==9	==9
+*	*v:1
 !!LO:TX:a:i:t=Voix seule
 8e/	Der-
-8a	-rièr'
+8a	-rièr[e]
 8cc	chez
 8b	nous
-8a	ya-
+8a	y'a-
 !!LO:PB:g=original
 =10	=10
-8g	t-un
+8g	--t-un
 8b/	é-
 8a	-tang,
 *	*pline:1r
 8e	Der-
 =11	=11
-8a	-rièr'
+8a	-rièr[e]
 8cc	chez
 8b	nous
-8a	ya-
+8a	y'a-
 =12	=12
-8g	t-un
+8g	--t-un
 8b/	é-
 8a	-tang,
 *	*pline:2
@@ -100,10 +100,9 @@
 8a	vont
 8g	bai-
 4g	-gnant.
-!LO:TX:b:t=D.C.	!
-==	==
+=:|	=:|
 !!!EED1: Samuel Boone
 !!!EEV1: 2026/06/08
 !!!EED2: Ève Poudrier
 !!!EEV2: 2026/10/15
-!!!RNB: Mm. 8-9 have been edited: Eighth rest is included in m. 8 and voices are not divided.
+!!!RNB: Mm. 8-9 have been edited: Eighth rest is included in m. 8 and voices are not divided.D.C. replaced by repeats.
