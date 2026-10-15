@@ -13,7 +13,7 @@
 *e:	*
 *M2/4	*
 *	*v:1
-*	*pline:1
+*	*pline:1h1
 !!LO:TX:omd:tempo:a:t=[quarter]=90
 8e	Un
 8e	jour,
@@ -25,6 +25,7 @@
 8ee	son
 =2	=2
 8b/	pèr[e],
+*	*pline:1h2
 8cc#q	.
 8a	un
 8.g	vieux
@@ -38,6 +39,7 @@
 =4	=4
 *M3/4	*
 4.f#,	ans:
+*	*pline:2h1
 8e	–Je
 8e	vou-
 8e	-drais
@@ -50,6 +52,7 @@
 16ee	la
 =6	=6
 8.b/	terr[e]
+*	*pline:2h2
 16b/	en-
 (12%1a	-for-
 !plus sign before following note	!
@@ -63,6 +66,7 @@
 =8	=8
 !	!following quote mark has no beginning quote mark
 8f#,	-vant!"
+*	*pline:3h1
 8e	Quand
 8f#	le
 8g#	bon-
@@ -74,6 +78,7 @@
 !!LO:PB:g=original
 =10	=10
 8a,	ça,
+*	*pline:3h2
 8f#	il
 8g#	faut
 8a	sur-
@@ -89,6 +94,7 @@
 [4f#	-e.
 =13	=13
 8f#],	.
+*	*pline:4
 8f#	Tout
 8g#	aus-
 8a#	-si-
@@ -109,6 +115,8 @@
 [4e	-e.
 =||16	=||16
 8e],	.
+*	*v:2
+*	*pline:5h1
 8e	Cet-
 8.e	-te
 16e	mé-
@@ -119,6 +127,7 @@
 16ee	-sé-
 =18	=18
 4b/	-rabl[e]
+*	*pline:5h2
 8a	a-t--
 16g	ap-
 16f#	-pe-
@@ -133,6 +142,7 @@
 !!LO:PB:g=original
 =21	=21
 8r	.
+*	*pline:6h1
 8e	–Qu'on
 8f#	me
 8g#	prenn'
@@ -149,6 +159,7 @@
 =24	=24
 !unsure if this measure's 'g's are 'g#' (assumed that they are)	!
 8g#],	.
+*	*pline:6h2
 8f#	qu'on
 8g#	me
 8a#	le
@@ -166,6 +177,7 @@
 4f#	-ble,
 =27	=27
 8r	.
+*	*pline:7h1
 8f#	Cou-
 !plus sign before following note	!
 8g	-cher
@@ -181,9 +193,10 @@
 =29	=29
 !plus sign before following note	!
 8.a	-chons
+*	*pline:7h2
 32bL	des-
 32aJ	.
-8g	-sur
+8g	-sus
 8f#	la
 =30	=30
 8g	pai-
