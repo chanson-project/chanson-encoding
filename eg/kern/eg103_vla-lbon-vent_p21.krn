@@ -18,7 +18,7 @@
 *	*italic
 *	*rline:R1h1
 =1	=1
-!LO:TX:a:i:t=Chœur.	!
+!LO:TX:a:i:t=Chœur	!
 8e	V'là
 8a	l'bon
 4a	vent,
@@ -59,17 +59,15 @@
 =8	=8
 8cc	mie
 8b	m'at-
+!!LO:TX:a:B:t=FIN
 8a	-tend.
+8r	.
 *	*Xitalic
 *	*Xrefrain
 *	*pline:1
-==	==
-!LO:TX:a:t=FIN.	!
-*^	*
-8r	8e/	Der-
-*v	*v	*
-=9	=9
-!LO:TX:a:i:t=Voix seule.	!
+==9	==9
+!!LO:TX:a:i:t=Voix seule
+8e/	Der-
 8a	-rièr'
 8cc	chez
 8b	nous
@@ -106,3 +104,6 @@
 ==	==
 !!!EED1: Samuel Boone
 !!!EEV1: 2026/06/08
+!!!EED2: Ève Poudrier
+!!!EEV2: 2026/10/15
+!!!RNB: Mm. 8-9 have been edited: Eighth rest is included in m. 8 and voices are not divided.
