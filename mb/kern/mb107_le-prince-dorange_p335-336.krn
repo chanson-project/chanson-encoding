@@ -1,0 +1,131 @@
+!!!id: mb107
+!!!page: 335-336
+!!!COM: Anonymous
+!!!LYR: Anonymous
+!!!OCL: Marius Barbeau
+!!!PTL@@FR: Le Rossignol y Chante
+!!!OTL@@FR: Le prince d'Orange
+!!!PPR: Ministère du Nord Canadien et des Resources Nationales, Musée National du Canada
+!!!PDT: 1962
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M6/8	*
+*	*v:1
+*	*pline:1h1
+!!LO:TX:omd:tempo:a:t=[eighth]=102
+*>B	*>B
+8g	C'est
+=1	=1
+16aL	le
+16b	.
+8aJ	.
+8g	prin-
+8.eL	-ce
+16f#'J	.
+8g	d'O-
+=2	=2
+16aL	-ran-
+16b	.
+8aJ	.
+8a	-ge,
+*	*refrain
+*	*italic
+16aL	Là!
+8.gJ	.
+*	*Xitalic
+*	*Xrefrain
+*	*pline:1h1r
+8g	C'est
+=3	=3
+16aL	le
+8.gJ	.
+8fn	prin-
+8eL	-ce
+8f#J	.
+8g	d'O-
+!!LO:PB:g=original
+=4	=4
+*>B1	*>B1
+16aL	-ran-
+16cc	.
+8aJ/	.
+8g	.
+!not sure what kind of articulation is on following note	!
+8g'	-ge.
+8r	.
+*	*pline:1h1r
+8g	C'est
+=:|!	=:|!
+*>B2	*>B2
+16aL	--ran-
+16cc	.
+8aJ/	.
+8g	.
+4g,	-ge.
+*	*pline:1h2
+16gL	Grand
+16aJ	.
+*>BX	*>BX
+=5	=5
+!upward scoop before following note	!
+4.b/	ma-
+16bL	-tin
+16aJ	.
+4g	.
+16a	s'est
+16b/	le-
+!this measure has one extra eighth note duration	!
+!!LO:PB:g=original
+=6	=6
+(8cc#	-vé,
+[4a)	.
+4.a],	.
+=7	=7
+*	*refrain
+*	*italic
+16gL	Ma
+16f#	.
+8eJ	.
+(24f#L	don-
+24e	.
+24f#J)	.
+4g	-dai-
+8g	-ne,
+*	*Xitalic
+*	*Xrefrain
+*	*pline:1h2r
+=8	=8
+!redundant 6/8 time signature here	!
+4b/	Grand
+16bL	ma-
+16aJ	.
+4g	-tin
+16aL	s'est
+16bJ	le-
+=9	=9
+(8ccnX/	-vé,
+[4a)	.
+4.a]	.
+*	*refrain
+*	*italic
+=10	=10
+*M3/8	*
+16gL	Ma
+16f#	.
+8eJ	.
+24f#L	don-
+24e	.
+24f#J	.
+=11	=11
+*M6/8	*
+4g	-dé.
+8r	.
+4r	.
+*	*Xitalic
+*	*Xrefrain
+==	==
+*-	*-
+!!!EED1: Samuel Boone
+!!!EEV1: 2026/10/22
