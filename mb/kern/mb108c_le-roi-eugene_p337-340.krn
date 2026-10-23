@@ -1,0 +1,164 @@
+!!!id: mb108c
+!!!page: 337-340
+!!!COM: Anonymous
+!!!LYR: Anonymous
+!!!OCL: Marius Barbeau
+!!!PTL@@FR: Le Rossignol y Chante
+!!!OTL@@FR: Le roi Eugène
+!!!PPR: Ministère du Nord Canadien et des Resources Nationales, Musée National du Canada
+!!!PDT: 1962
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*e:	*
+*M6/8	*
+*	*v:1
+*	*pline:1h1
+!!LO:TX:omd:tempo:a:t=[eighth]=128
+8e	Un
+=1	=1
+4e	jour,
+8b/	le
+8bL	roi
+!plus sign before following note	!
+8ccJ	.
+8dd	Eu-
+=2	=2
+!plus sign before following note	!
+(8.ccL	-gè-
+16aJ)/	.
+8a	-ne
+*	*pline:1h2
+4.dd	é-
+=3	=3
+!upward scoop before following note	!
+4ee	-tant
+8dd	de-
+!following turn supposed to be between next two notes, is also red for some reason	!
+8bLS	-dans
+16a	.
+16bJ	.
+8cc/	Pa-
+=4	=4
+(16dd#L	-ris,
+[8.bJ)	.
+[8b]	.
+4b],	.
+*	*pline:2h1
+8ddn	S'en
+!!LO:PB:g=original
+=5	=5
+!upward scoop before following note	!
+4dd	fut
+8cc	con-
+4b	-duir'
+8a\	trois
+=6	=6
+*M3/8	*
+16bL	da-
+16a	.
+8gJ	.
+8a	-mes.
+*	*refrain
+*	*italic
+=7	=7
+*M6/8	*
+4.b/	Vi-
+8aL	-ve
+8bJ	.
+8g	le
+=8	=8
+[4.f#	jour!
+4f#],	.
+*	*Xitalic
+*	*Xrefrain
+*	*pline:2h2r
+8ee	Tout
+=9	=9
+[4.dd	droit
+4dd]	.
+8b	à
+!!LO:PB:g=original
+=10	=10
+8aqL	.
+8bqJ	.
+8aL	leur
+8g~J	.
+8f#	lo-
+4g	-gis.
+*	*refrain
+*	*italic
+8a	Vi-
+=11	=11
+4.b/	-ve
+8e	la
+8.g	fleur
+16f#	de
+=12	=12
+4.e	lis!
+=||	=||
+4r	.
+*	*Xitalic
+*	*Xrefrain
+*	*v:2
+*	*pline:2h1r
+8e	S'en
+=13	=13
+4e	fut
+8b/	con-
+8bL	-duir'
+!plus sign before following note	!
+8ccJ	.
+!plus sign before following note	!
+8dd	trois
+=14	=14
+8cc~L	da-
+8aJ/	.
+8a	-mes
+*	*pline:2h2r
+4.dd	tout
+!!LO:PB:g=original
+=15	=15
+8ddq	.
+4ee	droit
+8dd	à
+8b^L	leur
+32cc	.
+32b	.
+32a	.
+32bJ/	.
+8cc/	lo-
+=16	=16
+(8dd#	-gis.
+[4b)	.
+4b]	.
+!	!following line unfinished, but presumed first half of hémistiche
+*	*pline:3h1
+!upward scoop before following note	!
+8ddn	Quand
+=17	=17
+[4.dd	il
+4dd]	.
+8b	fut
+=18	=18
+(8aL	sur
+8gJ)	.
+8f#	ces
+4g	cô-
+8a	-tes,
+*	*refrain
+*	*italic
+=19	=19
+4.b/	Vi-
+8aL	-ve
+8bJ	.
+8g	le
+=20	=20
+[4.f#	jour!
+4f#]	.
+*	*Xitalic
+*	*Xrefrain
+==	==
+*-	*-
+!!!EED1: Samuel Boone
+!!!EEV1: 2026/10/22
