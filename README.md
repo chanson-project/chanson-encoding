@@ -102,20 +102,19 @@ NOTE: Tese should alsop be entered in the corresponding columns in the master ne
 
 2. **Line Labeling** (across all verses):
    - Use `*pline:n` (e.g., `*pline:1`)
-   - Stand-alone refrain lines are labeled `*rline:R1`, `*rline:R2`, etc.
-   - Integrated refrains are labeled using `*pline:` format
+   - Refrain lines (stand-alone and integrated) are labeled `*rline:R1`, `*rline:R2`, etc. The prefix "R" allows for differentiating the type of line in the text tool (poetic vs. refrain lines)
   
      NOTE: Refrains can be reviewed using the filter option `-refrains` on VHV. If the refrain does not appear, the line encoding may need to be edited (i.e., changing *pline: for *rline:).
 
 3. **Refrain Formatting** (italics):
    - All refrain types (stand-alone and integrated) are encoded with the interpretations *refrain and *italic before the first refrain syllable and the interpretations *Xitalic and *Xrefrain after the last refrain syllable.
    - Refrain lines may be initial, medial, and final based on their position within the song.
-   - Text of initial and final refrains that are repeated in alternation with verses are encoded only once and further identified with `*>Refrain` markings.
+   - Text of initial and final refrains that are repeated in alternation with verses are encoded only once and further identified with `*>Refrain` marking.
 
      NOTE: Implementation of automatic italics with *refrain to be added.
 
 4. **Elisions**:
-   - Final "e" (/ə/) that are elided and not replaced by an apostrophe in the original should be put in square brackets. For example: If the word group "danse avec moi" is set to three notes, with "danse" set to a single note, the final "e" is elided and th word should be encoded as "dans[e]".
+   - Final "e" (/ə/) that are elided and not replaced by an apostrophe in the original should be put in square brackets. For example: If the word group "danse avec moi" is set to three notes, with "danse" set to a single note, the final "e" is elided and the word should be encoded as "dans[e]".
    - Use the same procedures for plural endings, such as "es" and "ent" that are sounded as /ə/.
 
 5. **Repetitions**:
@@ -126,7 +125,9 @@ NOTE: Tese should alsop be entered in the corresponding columns in the master ne
      *pline:1c    ← middle (add first and last repeated syllables numbers)
      *pline:1b    ← end (add first repeated syllable number)
      ```
-   - Repetitions that are not accommodated by the above rules (e.g., single word repetitions or adjacent repetitions within the same line) should be preceded by *bis and followed by *Xbis interpretations.
+NOTE: In these songs, it is common for incomplete refrain lines to be introduced before the full refrain line. Line labeling follows the same procedure regardless of order of presentation.
+
+   - Direct repetition of single word (i.e., adjacent repetition within the same line) should be preceded by *bis and followed by *Xbis interpretations.
   
      ```
      tour-
@@ -144,7 +145,7 @@ NOTE: Tese should alsop be entered in the corresponding columns in the master ne
      -re,
      *Xbis
      ```
-6. **Text Filter Options**:
+7. **Text Filter Options**:
    There are several ways to view the song lyrics; these are very helpful for review and editing as well as to create a .txt file with the raw text:
 
     ```
@@ -160,6 +161,8 @@ NOTE: Tese should alsop be entered in the corresponding columns in the master ne
    ```
 Text tool options with examples can be found at
 https://github.com/chanson-project/chanson-encoding/discussions/79
+
+NOTE: There is a bug in the text display and the label "REFRAIN" appears at the top regarless of ehwther the first lines are poetic or refrain lines.
    
 </details>
 
@@ -171,7 +174,7 @@ https://github.com/chanson-project/chanson-encoding/discussions/79
    - Second: `{{...}}`
    - Third: `{{{...}}}`
   
-     NOTE: We are only using first level segmentation in tbhis round of encoding. If you see multip[le levels, delete the higher levels.
+     NOTE: We are currently using only one segmentation level, at the level of the poetic line. If you see multiple levels, delete the lower and/or higher levels.
      
 2. **Segmentation Rules**:
    Segmentation is based on the following criteria:
@@ -199,6 +202,7 @@ https://github.com/chanson-project/chanson-encoding/discussions/79
      
 5. **Accidentals**:
    - To hide an accidental, add "y" to the pitch encoding.
+   - To hide a rest, add "yy" to the rest encoding.
 </details>
 
 <details>
@@ -229,6 +233,7 @@ https://github.com/chanson-project/chanson-encoding/discussions/79
 | vent | *rp:ɑ̃ | *rf:vɑ̃ | *rs:a1 |
 | gens | *rp:ɑ̃ | *rf:ʒɑ̃ | *rs:a2 |
 ```
+NOTE: The numbering of consonant+vowel combinations for monorhymes has been suspended until further notice.
 
    - Mute "e" are added to the full rhyme and set apart from full rhyme by a comma. These are not counted in the metre.
 
