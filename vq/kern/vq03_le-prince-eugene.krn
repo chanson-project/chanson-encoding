@@ -11,7 +11,6 @@
 *clefG2	*
 *k[f#, c#]	*
 *M6/8	*
-*M3/8	*
 *D:	*
 *	*v:1
 *	*pline:1h1
@@ -24,7 +23,7 @@
 8dd	Eu-
 =2	=2
 (8.cc#L/	-gè-
-16aJ/)	--
+16aJ/)	.
 8a	-ne,
 *	*pline:1h2
 4.dd	é-
@@ -35,29 +34,32 @@
 8cc#	Pa-
 !!LO:PB:g=original
 =4	=4
-(8dd	-ris-
-[4b)	--
-8b]	,
+(8dd	-ris.
+[4b)	.
+8b]	.
 8r	.
 *	*pline:2h1
 8dd	S'en
 =5	=5
 4dd	fut
-8cc	.conduir'
+8cc	conduir'
 4b	.
 8a	trois
 =6	=6
-4g	.da-
+*M3/8	*
+4g	da-
 8a	-mes,
 =7	=7
+*M6/8	*
 *	*refrain
 *	*italic
-4.b/	Vi
-(8aL	ve-
+*	*rline:R1
+4.b/	Vi-
+(8aL	-ve
 8bJ)	.
-8g	-l'a-
+8g	l'a-
 =8	=8
-[4.f#	mour!
+[4.f#	-mour!
 8f#]	.
 8r	.
 *	*Xitalic
@@ -73,11 +75,14 @@
 16gJ	.
 8f#	lo-
 =10	=10
+*M3/8	*
 4g	-gis,
 *	*refrain
 *	*italic
+*	*rline:R2
 8a	Vi-
 =11	=11
+*M6/8	*
 4.b/	-ve
 8e	la
 8.g	fleur
@@ -86,12 +91,13 @@
 [4.e	lis!
 *	*Xrefrain
 *	*Xitalics
-8e	.
+8e]	.
 8r	.
 =:|	=:|
 *-	*-
-!!!EED: Leo Geng
-!!!EEV: 2026/10/01
 !!!EED1: Leo Geng
 !!!EEV1: 2026/11/02
+!!!EED2: Ève Poudrier
+!!!EEV2: 2026/11/02
+!!!RWG: 3/8 is noted after 6/8 in the original due to alternating number of beats. Changin time signatures have been used to denoite changes.
 !!!RNB: finished the encoding of the music and text
