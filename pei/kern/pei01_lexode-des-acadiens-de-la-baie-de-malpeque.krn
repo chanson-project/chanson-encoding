@@ -25,7 +25,7 @@
 *	*v:1
 *	*pline:1
 =|:	=|:
-8.d	Dieu
+{8.d	Dieu
 16B	qui
 8d	ne
 =1	=1
@@ -38,7 +38,10 @@
 =2	=2
 *M8/8	*
 4.g	mal,
-4r	.
+*	*rp:a
+*	*rf:al
+*	*rs:a
+4r}	.
 *	*pline:2
 !	!original:c'est
 8b	C'est
@@ -56,6 +59,9 @@
 =4	=4
 *M7/8	*
 8d	-val.
+*	*rp:a
+*	*rf:al
+*	*rs:a
 4r	.
 *	*pline:3
 8g	Dans
@@ -74,6 +80,9 @@
 !!LO:PB:g=original
 =7	=7
 4b	-crit,
+*	*rp:i
+*	*rf:i
+*	*rs:b
 *	*pline:4
 !	!original:chose
 8b	Cho-
@@ -91,6 +100,9 @@
 8a	la
 =10	=10
 8g	vie.
+*	*rp:i
+*	*rf:i
+*	*rs:b
 4r	.
 !!LO:PB:g=original
 =:|	=:|
@@ -114,6 +126,9 @@
 8f	chan-
 =2	=2
 4g	-son
+*	*rp:ɔ̃
+*	*rf:sɔ̃
+*	*rs:c
 16r	.
 *	*pline:46
 16f	C'est
@@ -130,6 +145,9 @@
 16B	le-
 =4	=4
 8c	-çon,
+*	*rp:ɔ̃
+*	*rf:sɔ̃
+*	*rs:c
 8r	.
 *	*pline:47
 8.g	C'est
@@ -144,6 +162,9 @@
 *M3/4	*
 8e	blê-
 8d	-me,
+*	*rp:ɛː
+*	*rf:ɛːm,ə
+*	*rs:d
 4r	.
 *	*pline:48
 8g	C'est
@@ -157,6 +178,9 @@
 =8	=8
 8e	mê-
 8d	-me,
+*	*rp:ɛː
+*	*rf:ɛːm,ə
+*	*rs:d
 *	*pline:49
 16c	N'en
 16c	di-
@@ -174,6 +198,9 @@
 16f	a
 =10	=10
 4g	l'est,
+*	*rp:e
+*	*rf:e
+*	*rs:e
 *	*pline:50
 16f	Ell'
 16a	a
@@ -188,7 +215,11 @@
 !!LO:PB:g=original
 =12	=12
 4c	-nées.
+*	*rp:e
+*	*rf:e
+*	*rs:e
 =:|	=:|
 *-	*-
 !!!EED: Ève Poudrier
-!!!EEV: 2026/10/30
+!!!EEV: 2026/11/03
+!!!AGN-phoneme: The ending "est" is likely to have been sounded as /e/ rather than /ɛ/ as it is in modern pronunciation.
