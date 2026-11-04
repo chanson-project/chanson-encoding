@@ -20,7 +20,7 @@
 *M2/4	*	*	*	*	*	*	*
 *	*v:1	*v:2	*v:3	*v:4	*v:4v	*v:5	*v:6
 *	*pline:1h1	*pline:2h1r	*pline:3h1r	*pline:4h1r	*pline:4h1r	*pline:5h1vr	*pline:6h1r
-16cc	Ah!	Je	Ah!	En	En	Ah!	Je
+{16cc	Ah!	Je	Ah!	En	En	Ah!	Je
 8cc	je	me	j'en	vous	vous	re-	le
 8g	m'en	re-	vois	fai-	fai-	-gar-	vois
 =1	=1	=1	=1	=1	=1	=1	=1
@@ -31,9 +31,9 @@
 =2	=2	=2	=2	=2	=2	=2	=2
 !!LO:T:dash
 [8.cc	dan-	-vi-	mi-	-ren-	-ren-	-sieur!	mi-
-16cc]	-se:	-re;	-ne:	-ce:	-ce:	.	-ne:
+16cc]}	-se:	-re;	-ne:	-ce:	-ce:	.	-ne:
 *	*pline:1h2	*pline:2h2r	*pline:3h2r	*pline:4h2r	*pline:4h2r	*pline:5h2vr	*pline:6h2r
-8cc	C'est	J'en	Je	Ça	Ça	Il	Ce
+{8cc	C'est	J'en	Je	Ça	Ça	Il	Ce
 8g	pour	ai	vais	vous	vous	n'a	n'est
 !!LO:PB:g=original
 =3	=3	=3	=3	=3	=3	=3	=3
@@ -48,9 +48,9 @@
 *	*rp:e	*rp:e	*rp:e	*rp:e	*rp:e	*rp:e	*rp:e
 *	*rf:ʃe	*rf:gʁe	*rf:de	*rf:me	*rf:me	*rf:lye	*rf:me
 *	*rs:a1	*rs:a2	*rs:a3	*rs:a4	*rs:a4	*rs:a5	*rs:a4
-16r	.	.	.	.	.	.	.
+16r}	.	.	.	.	.	.	.
 *	*pline:2h1	*pline:3h1	*pline:4h1	*pline:5h1	*pline:5h1v	*pline:6h1	*pline:7h1
-16cc	Je	Ah!	–En	Ah!	Ah!	Je	Ah!
+{16cc	Je	Ah!	–En	Ah!	Ah!	Je	Ah!
 8cc	me	j'en	vous	je	re-	le	re-
 8cc	re-	vois	fai-	vois	-gar-	vois	-tour-
 =5	=5	=5	=5	=5	=5	=5	=5
@@ -75,12 +75,12 @@
 *	*rp:e	*rp:e	*rp:e	*rp:e	*rp:e	*rp:e	*rp:e
 *	*rf:gʁe	*rf:de	*rf:me	*rf:me	*rf:lye	*rf:me	*rf:ʃe
 *	*rs:a2	*rs:a3	*rs:a4	*rs:a4	*rs:a5	*rs:a4	*rs:a1
-16r	.	.	.	.	.	.	.
+16r}	.	.	.	.	.	.	.
 *>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain
 *	*refrain	*	*	*	*	*	*
 *	*italic	*	*	*	*	*	*
 *	*rline:R1	*	*	*	*	*	*
-16cc	Ah!	.	.	.	.	.	.
+{16cc	Ah!	.	.	.	.	.	.
 8cc	je	.	.	.	.	.	.
 8cc	ne	.	.	.	.	.	.
 =9	=9	=9	=9	=9	=9	=9	=9
@@ -94,10 +94,10 @@
 !!LO:PB:g=original
 =10	=10	=10	=10	=10	=10	=10	=10
 *	*bis	*	*	*	*	*	*
-8.a	gai,	.	.	.	.	.	.
+8.a}	gai,	.	.	.	.	.	.
 *	*Xbis	*	*	*	*	*	*
 *	*rline:R2	*	*	*	*	*	*
-16cc	Ah!	.	.	.	.	.	.
+{16cc	Ah!	.	.	.	.	.	.
 8cc	je	.	.	.	.	.	.
 8cc	ne	.	.	.	.	.	.
 =11	=11	=11	=11	=11	=11	=11	=11
@@ -110,13 +110,14 @@
 *	*rp:e	*	*	*	*	*	*
 *	*rf:le	*	*	*	*	*	*
 *	*rs:Ra2	*	*	*	*	*	*
-16r;	.	.	.	.	.	.	.
+16r;}	.	.	.	.	.	.	.
 *	*Xitalic	*	*	*	*	*	*
 *	*Xrefrain	*	*	*	*	*	*
 ==	==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-	*-
-!!!RNB: Gagnon identifies two versions depending on whether a man or a woman are at the center of the dance; the version ended here is the woman's version. Each version also has two variants based on whether or not the potential danse partner accepts or not the invitation of the speaker (see: "Ou bien, si la danseuse n'est pas agréée:"). Both these variants are encoded. Variant 1 comprises v:1-4 and variant 2 adds an alternate v:4 and adds v:5-6.
 !!!EED1: Ève Poudrier
-!!!EEV1: 2026/04/22
+!!!EEV1: 2026/11/04
 !!!EED2: Samuel Boone
 !!!EEV2: 2026/06/09
+!!!RNB-original: Gagnon identifies two versions depending on whether a man or a woman are at the center of the dance; the version ended here is the woman's version. Each version also has two variants based on whether or not the potential danse partner accepts or not the invitation of the speaker (see: "Ou bien, si la danseuse n'est pas agréée:"). Both these variants are encoded. Variant 1 comprises v:1-4 and variant 2 adds an alternate v:4 and adds v:5-6.
+!!!RNB: Segmentation added based on longer duration, rests, and repetition. Review still needed.
