@@ -1,0 +1,85 @@
+!!!id:pei08
+!!!page:189
+!!!COM:Anonymous
+!!!LYR:Anonymous
+!!!OTL@@FR:Pierre Arsenault
+!!!PTL@@FR:Complaints acadiennes de L'Ile-du-Prince-Edouard
+**kern	**text
+*clefG2	*
+*k[f#,c#]	*
+*G	*
+*M	*
+!!LO:TX:a:t=([doted quarter]=96)
+*>PartA	*>PartA
+*	*v:1
+*	*pline:1
+=1:	=1:
+(8.d	Par
+(8d)	*
+8e)	*
+(8f#L	un
+8gJ)	*
+8a	beau
+(2a	jour
+8.a)	*
+8.a	qu'il
+8.g	e-
+(16f#L	tait
+16gJ	*
+16a)	*
+8.a	a
+8g	la
+(2f#	pe-
+8e)	*
+(4.d	che
+4d)	*
+r4	*
+=2	=2
+8d	Le
+4e	temps
+(8f#	a-
+4.a)	vait
+4a	au-
+8g	cun'
+(16fL	min'
+16gJ	*
+16a)	*
+4a	de
+8g	tem-
+(4.f	pe-
+8e)	*
+4.d	tre
+4r	*
+=3	=3
+8f#	A
+4f#	pres
+8f#	a-
+(8f#	voir
+4.e)	*
+8e	Ter-
+8f#	mi-
+8e	ne
+(8dL	sa
+8c#J)	*
+8d	jour-
+4.e	nee
+4r	*
+=4	=4
+8d	En
+4f#	s'en
+8g	al-
+2a	lant
+4f#	sa
+8e	cha-
+(16dL	loup'
+16eJ	*
+8f#)	*
+4e	a
+8f#	som-
+4.d	bre
+=5	=5
+
+
+
+
+
