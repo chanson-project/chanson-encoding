@@ -11,6 +11,7 @@
 *clefG2	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
 *k[f#]	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
 *G:	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+*M3/8	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
 *	*v:1	*v:2	*v:3	*v:4	*v:5	*v:6	*v:7	*v:8	*v:9	*v:10	*v:11	*v:12	*v:13	*v:14	*v:15	*v:16	*v:17	*v:18	*v:19	*v:20	*v:21	*v:22	*v:23
 *	*pline:1	*pline:5	*pline:9	*pline:13	*pline:17	*pline:21	*pline:25	*pline:29	*pline:33	*pline:37	*pline:41	*pline:45	*pline:49	*pline:53	*pline:57	*pline:61	*pline:65	*pline:69	*pline:73	*pline:77	*pline:81	*pline:85	*pline:89
 =1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
@@ -80,12 +81,10 @@
 4g	-mour.	-ment.	-té.	-pos.	-noux.	-pis.	-pas.	-rir.	bien.	-ta.	-din.	-duit.	-gea.	-quoi!	-son?	-té.	moi!	-ra."	-leurs."	Dieu."	mort!	-mour.	-mis.
 8r}	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
 ==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==
-*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
-!!!RNB: Time signature (clearly 3/8) absent in original, absence preserved
-!!!EED1: Samuel Boone
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-!!!EED1: Samuel Boone
 !!!EEV1: 2026/06/09
 !!!EED2: Isaac Howie
 !!!EEV2: 2026/03/10
 !!!EED3: Ève Poudrier
 !!!EEV3: 2026/11/04
-!!!RNB: Added segmentation based on criteria of longer duration and rest. Review of encoding needed.
+!!!RNB: Time signature added by encoder. Segmentation added based on criteria of longer duration and rest. Review of encoding needed.
