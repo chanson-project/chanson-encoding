@@ -62,7 +62,7 @@
 =8	=8
 (8a	ans
 *>REFRAIN	*>REFRAIN
-*	*rline:R1
+*	*rline:R1h1
 *	*refrain
 *	*italic
 !!LO:TX:a:B:t=Refrain
@@ -79,6 +79,7 @@
 =10	=10
 4a	-gè-
 8g	-res,
+*	*rline:R1h2
 4e	Dan-
 8f#	-sons
 =11	=11
