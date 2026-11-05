@@ -13,7 +13,7 @@
 *M3/4	*
 *C:	*
 *	*v:1
-*	*pline:1
+*	*pline:1h1
 8b	Ah
 =1	=1
 8.cc	c'é-
@@ -24,6 +24,7 @@
 =2	=2
 4a	ri-
 8g	-ce,
+*	*pline:1h2
 16aL	la
 16bJ	.
 =3	=3
@@ -34,7 +35,7 @@
 16cc	du
 =4	=4
 4.b/;	roi,
-*	*pline:2
+*	*pline:2h1
 8e	Un
 !!LO:PB:g=original
 =5	=5
@@ -44,6 +45,7 @@
 8a	-dor
 =6	=6
 4.b/	-mie,
+*	*pline:2h2
 8b/	l'en-
 =7	=7
 8a	-fant
@@ -56,8 +58,8 @@
 [4f#	.
 =9	=9
 8f#]	-,
-*>REFRAIN	*REFRAIN
-*	*rline:1
+*>REFRAIN	*>REFRAIN
+*	*rline:R1
 *	*refrain
 *	*italic
 8g	Dieu,
@@ -66,7 +68,7 @@
 !!LO:PB:g=original
 =10	=10
 4b/	-moi!
-*	*rline:2
+*	*rline:R2
 8b	Dou-
 8b	-ce
 =11	=11
@@ -79,13 +81,15 @@
 [4a	e,
 =13	=13
 8a]	.
-*	*rline:3
+*	*rline:R3
 8b/	Saint
 8a	Ni-
 8g	-co-
 =14	=14
 8bq	.
 4.a	-las!
+*	*Xitalic
+*	*Xrefrain
 ==	==
 *-	*-
 !!!EED: Leo Geng
