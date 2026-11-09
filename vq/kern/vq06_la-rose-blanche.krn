@@ -7,191 +7,68 @@
 !!!PED: Barbeau, Marius
 !!!PUB: Musée National du Canada
 !!!PDT: 1930
-**kern
-*clefG2
-*M1/4
-*M2/4
-*C:
-=1
-8ee
-16dd
-16cc
-=2
-8dd
-16cc
-16b
-8a
-8dd
-=3
-4dd
-8ee
-16dd
-16cc
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/4	*
+*	*v:1
+*	*pline:1
+8ee	Par
+16dd	un
+16cc	ma-
+=1	=1
+8dd	-tin,
+16cc	je
+16b	me
+8a	suis
+8dd	le-
+=2	=2
+4dd	-vé,
+*	*pline:1r
+8ee	par
+16dd	un
+16cc	ma-
 !!LO:PB:g=original
-=4
-8dd
-16cc
-16b
-8a
-8dd
-=5
-8.cc
-16cc
-=6
-8.cc
-16b
-8a
-8dd
+=3	=3
+8dd	-tin,
+16cc	je
+16b	me
+8a	suis
+8dd	le-
+=4	=4
+8.cc	-vé,
+*	*pline:2
+16cc	Plus
+=5	=5
+8.cc	ma-
+16b	-tin
+8a	que
+8dd	ma
 !!LO:PB:g=original
-=7
-8b/
-8g
-8.a
-16b/
-=8
-8.cc
-16dd
-8ee
-16ccL
-16eeJ
-=9
-4dd
-4cc
-==
-*-
-!!!EED: Leo Geng
-!!!EEV: 2026/10/01
-!!!RNB: finished the encoding of the music. 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+=6	=6
+8b/	tant[e],
+*	*italic
+8g	Eh
+8.a	là!
+*	*Xitalic
+*	*pline:2r
+16b/	Plus
+=7	=7
+8.cc	ma-
+16dd	-tin
+8ee	que
+16ccL	ma
+16eeJ	.
+=8	=8
+4dd	tan-
+4cc	-te.
+==	==
+*-	*-
+!!!EED1: Leo Geng
+!!!EEV1: 2026/10/01
+!!!EED2: Ève Poudrier
+!!!EEV2: 2026/11/09
+!!!RNB: Re-numbered measures to account for anacrustic beginning. Time signature changes are added as they are needed.
 !!!RDF**kern: > = above
 !!!RDF**kern: < = below
