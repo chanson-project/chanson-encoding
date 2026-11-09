@@ -7,141 +7,161 @@
 !!!PED: Barbeau, Marius
 !!!PUB: Musée National du Canada
 !!!PDT: 1930
-**kern
-*clefG2
-*k[]
-*M6/8
-*M9/8
-*C:
-8g
-=1
-4.cc
-8ee
-8dd
-8cc
-8ccL
-8bJ
-8cc
-=2
-4.dd
-8ff
-8dd
-8b
-=3
-[4.cc
-8cc]
-8r
-8g
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M9/8	*
+*	*v:1
+*	*pline:1
+8g	La
+=1	=1
+(4.cc	bel-
+8ee)	.
+8dd	-le
+8cc	Li-
+=.	=.
+8ccL	-set-
+8bJ	.
+8cc	-te
+=2	=2
+*M6/8	*
+*	*pline:2
+4.dd	Chan-
+8ff	-tait
+8dd	l'au-
+8b	-tre
+=3	=3
+[4.cc	jour,
+8cc]	.
+8r	.
+*	*pline:1r
+8g	La
 !!LO:PB:g=original
-=4
-4.cc
-8ee
-8dd
-8cc
-8ccL
-8bJ
-8cc
-=5
-4.dd
-8ff
-8dd
-8b
-=6
-[4.cc
-8cc]
-8r
-8g
-=7
-4cc
-8dd
-8eeL
-16ff
-16ee
-16ddJ
-8ee
+=4	=4
+*M9/8	*
+(4.cc	bel-
+8ee)	.
+8dd	-le
+8cc	Li-
+=.	=.
+8ccL	-set-
+8bJ	.
+8cc	-te
+=5	=5
+*M6/8	*
+*	*pline:2r
+4.dd	Chan-
+8ff	-tait
+8dd	l'au-
+8b	-tre
+=6	=6
+[4.cc	jour,
+8cc]	.
+8r	.
+*	*pline:2r
+8g	Chan-
+=7	=7
+(4cc	-tait
+8dd)	.
+8eeL	l'au-
+!triplet missig in original	!
+24ff	.
+24ee	.
+24ddJ	.
+8ee	-tre
 !!LO:PB:g=original
-=8
-16ffL
-[16eeJ
-4ee]
-4ee
-(24ffL
-24ee
-24ddJ)
-4ee
-16ffL
-16eeJ
-=9
-4cc
-16ccL
-16bJ
-4cc
-8ee
-=10
-8ccL
-8bJ
-8dd
-8ccL
-(24dd
-24cc
-24bJ)
-(8b/
-=11
-[4.g)
-4g]
-16eL
-16gJ
+=8	=8
+*M9/8	*
+16ffL	jour,
+[16eeJ	.
+4ee]	.
+*	*pline:3
+4ee	Les
+(24ffL	é-
+24ee	.
+24ddJ)	.
+4ee	-chos
+16ffL	ré-
+16eeJ	.
+=9	=9
+*M6/8	*
+4cc	-pè-
+16ccL	-tent:
+16bJ	.
+*	*pline:4
+(4cc	"Qui
+8ee)	.
+=10	=10
+8ccL	n'a
+8bJ	.
+8dd	pas
+8ccL	d'a-
+(24dd	.
+24cc	.
+24bJ)	.
+(8b/	-mour,
+=11	=11
+[4.g)	.
+4g]	.
+*	*pline:4r
+16eL	Qui
+16gJ	.
 !!LO:PB:g=original
-=12
-[4.cc
-8cc]
-16ddL
-16eeJ
-16ddL
-16ccJ
-=13
-8cc
-16bL
-16ccJ
-16ddL
-16eeJ
-16ffL
-16ddJ
-16ddL
-16bJ
-[8cc
-=14
-[4.cc]
-8cc]
-8r
-16eL
-16gJ
+=12	=12
+[4.cc	n'a
+8cc]	.
+16ddL	pas
+16eeJ	.
+16ddL	d'a-
+16ccJ	.
+=13	=13
+8cc	-mour,
+*	*pline:5
+16bL	N'a
+16ccJ	.
+16ddL	pas
+16eeJ	.
+16ffL	de
+16ddJ	.
+16ddL	beaux
+16bJ	.
+[8cc	jours.
+=14	=14
+[4.cc]	.
+8cc]	.
+8r	.
+*	*pline:4r
+16eL	Qui
+16gJ	.
 !!LO:PB:g=original
-=15
-[4.cc
-8cc]
-16ddL
-16eeJ
-16ddL
-16ccJ
-=16
-8cc
-16bL
-16ccJ
-16ddL
-16eeJ
-16ffL
-16ddJ
-16ddL
-16bJ
-[8cc
-=17
-[4.cc]
-8cc
-==
-*-
-!!!EED: Leo Geng
-!!!EEV: 2026/10/07
-
-!!!RDF**kern: > = above
-!!!RDF**kern: < = below
+=15	=15
+[4.cc	n'a
+8cc]	.
+16ddL	pas
+16eeJ	.
+16ddL	d'a-
+16ccJ	.
+=16	=16
+8cc	-mour,
+*	*pline:5r
+16bL	N'a
+16ccJ	.
+16ddL	pas
+16eeJ	.
+16ffL	de
+16ddJ	.
+16ddL	beaux
+16bJ	.
+[8cc	jours.
+=17	=17
+[4.cc]	.
+8cc]	.
+8r	.
+==	==
+*-	*-
+!!!EED1: Leo Geng
+!!!EEV1: 2026/10/07
+!!!EED2: Ève Poudrier
+!!!EEV2: 2026/11/09
+!!!RNB: Preserved dotted barlines; added time signature changes based on full barlines; deleted the last rest (8r) to complete the anacrustic measure; added missing triplet (missing from original).
