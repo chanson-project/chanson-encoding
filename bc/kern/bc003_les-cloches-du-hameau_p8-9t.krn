@@ -7,212 +7,212 @@
 !!!YEM: On ne peut reproduire, enregistrer ou diffuser en tout ou en partie le présent ouvrage, sous quelque procédé que ce soit, électronique, mécanique, photographique, sonore, magnétique ou autre, sans avoir obtenu au préalable l'autorisation écrite de l'éditrice.
 !!!PDT: 2011
 !!!SMA:2012 Bibliothèque nationale du Québec; Biblothèque nationale du Canada
-**kern	**dynam	**text	**text	**text
-*clefG2	*	*	*	*
-*k[f#]	*	*	*	*
-*G:	*	*	*	*
-*M6/8	*	*	*	*
+**kern	**text	**text	**text
+*clefG2	*	*	*
+*k[f#]	*	*	*
+*G:	*	*	*
+*M6/8	*	*	*
+*^	*	*	*
+*join	*join	*	*	*
 *	*	*v:1	*v:2	*v:3
 *	*	*pline:1	*pline:5	*pline:9
-*^	*	*	*	*
-*join	*join	*	*	*	*
-{8d	8d	.	Les	C'est	Lors-
-=1	=1	=1	=1	=1	=1
-4b	4g	.	clo-	l'heu-	-que
-8b	8g	.	-ches	-re	dans
-(8bL	(8gL	.	du	du	le
-8aJ)	8f#J)	.	.	.	.
-8b	8g	.	ha-	re-	ro-
-=2	=2	=2	=2	=2	=2
-*Xjoin	*Xjoin	*	*	*	*
-[4.g	[4.g	.	-meau	-tour,	-cher
-*	*	*	*rp:o	*rp:u	*rp:e
-*	*	*	*rf:mo	*rf:uʁ	*rf:e
-*	*	*	*rs:a	*rs:c	*rs:e
-4g]}	4g]	.	.	.	.
-*	*	*	*pline:2	*pline:6	*pline:10
-*join	*join	*	*	*	*
-{8d	8d	.	Chan-	Et	La
-=3	=3	=3	=3	=3	=3
-4b	4g	.	-tent	la	tem-
-8b	8g	.	dans	jeu-	-pê-
-(8bL	(8gL	.	la	-ne	-te
-8aJ)	8f#J)	.	.	.	.
-8b	8g	.	cam-	ber-	tour-
+{8d	8d	Les	C'est	Lors-
+=1	=1	=1	=1	=1
+4b	4g	clo-	l'heu-	-que
+8b	8g	-ches	-re	dans
+(8bL	(8gL	du	du	le
+8aJ)	8f#J)	.	.	.
+8b	8g	ha-	re-	ro-
+=2	=2	=2	=2	=2
+*Xjoin	*Xjoin	*	*	*
+[4.g	[4.g	-meau	-tour,	-cher
+*	*	*rp:o	*rp:u	*rp:e
+*	*	*rf:mo	*rf:uʁ	*rf:e
+*	*	*rs:a	*rs:c	*rs:e
+4g]}	4g]	.	.	.
+*	*	*pline:2	*pline:6	*pline:10
+*join	*join	*	*	*
+{8d	8d	Chan-	Et	La
+=3	=3	=3	=3	=3
+4b	4g	-tent	la	tem-
+8b	8g	dans	jeu-	-pê-
+(8bL	(8gL	la	-ne	-te
+8aJ)	8f#J)	.	.	.
+8b	8g	cam-	ber-	tour-
 !!LO:PB:g=original
-=4	=4	=4	=4	=4	=4
-4.dd	4.b	>	-pa-	-gè-	-men-
-4cc\}	4a\	]	-gne	-re	-te
-*	*	*	*rp:a	*rp:ɛ	*rp:ɑ̃
-*	*	*	*rf:aɲ,ə	*rf:ɛʁ,ə	*rf:ɑ̃t,ə
-*	*	*	*rs:b	*rs:d	*rs:f
-*	*	*	*pline:3	*pline:7	*pline:11
-{8d	8d	.	Le	Voy-	Au-
-=5	=5	=5	=5	=5	=5
-4cc	4a	.	son	-ant	-tour
-8cc	8a	.	du	la	du
-(8ccL	(8aL	.	cha-	fin	vieux
-8bJ)	8gJ)	.	.	.	.
-8cc	8a	.	-lu-	du	fo-
-=6	=6	=6	=6	=6	=6
-[4.a	[4.f#	.	-meau	jour,	-yer,
-*	*	*	*rp:o	*rp:u	*rp:e
-*	*	*	*rf:mo	*rf:uʁ	*rf:e
-*	*	*	*rs:a	*rs:c	*rs:e
-4a]}	4f#]	.	.	.	.
-*	*	*	*pline:4	*pline:8	*pline:12
-{8dd	8b	.	É-	Re-	Joy-
-=7	=7	=7	=7	=7	=7
-4dd	4b	.	-gay-	-ga-	-eu-
-8cc#\	8a#	.	-e	-gne	-se-
-4ee	4cc	.	la	sa	-ment
-8dd	8b	.	mon-	chau-	l'on
+=4	=4	=4	=4	=4
+4.dd	4.b	-pa-	-gè-	-men-
+4cc\}	4a\	-gne	-re	-te
+*	*	*rp:a	*rp:ɛ	*rp:ɑ̃
+*	*	*rf:aɲ,ə	*rf:ɛʁ,ə	*rf:ɑ̃t,ə
+*	*	*rs:b	*rs:d	*rs:f
+*	*	*pline:3	*pline:7	*pline:11
+{8d	8d	Le	Voy-	Au-
+=5	=5	=5	=5	=5
+4cc	4a	son	-ant	-tour
+8cc	8a	du	la	du
+(8ccL	(8aL	cha-	fin	vieux
+8bJ)	8gJ)	.	.	.
+8cc	8a	-lu-	du	fo-
+=6	=6	=6	=6	=6
+[4.a	[4.f#	-meau	jour,	-yer,
+*	*	*rp:o	*rp:u	*rp:e
+*	*	*rf:mo	*rf:uʁ	*rf:e
+*	*	*rs:a	*rs:c	*rs:e
+4a]}	4f#]	.	.	.
+*	*	*pline:4	*pline:8	*pline:12
+{8dd	8b	É-	Re-	Joy-
+=7	=7	=7	=7	=7
+4dd	4b	-gay-	-ga-	-eu-
+8cc#\	8a#	-e	-gne	-se-
+4ee	4cc	la	sa	-ment
+8dd	8b	mon-	chau-	l'on
 !!LO:PB:g=original
-=8	=8	=8	=8	=8	=8
-4b	4g	.	-ta-	-miè-	chan-
-8b}	8g	.	-gne.	-re.	-te.
-*	*	*	*rp:a	*rp:ɛ	*rp:ɑ̃
-*	*	*	*rf:aɲ,ə	*rf:ɛʁ,ə	*rf:ɑ̃t,ə
-*	*	*	*rs:b	*rs:d	*rs:f
-*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain
+=8	=8	=8	=8	=8
+4b	4g	-ta-	-miè-	chan-
+8b}	8g	-gne.	-re.	-te.
+*	*	*rp:a	*rp:ɛ	*rp:ɑ̃
+*	*	*rf:aɲ,ə	*rf:ɛʁ,ə	*rf:ɑ̃t,ə
+*	*	*rs:b	*rs:d	*rs:f
+*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain
 !!LO:TX:a:B:t=Refrain
-*	*	*	*refrain	*	*
-*	*	*	*italic	*	*
-*	*	*	*rline:R1	*	*
-{4b	4r	.	On	.	.
-8cc	8r	.	en-	.	.
-=9	=9	=9	=9	=9	=9
-4.dd	4.r	.	-tend,	.	.
-*	*	*	*bis	*	*
-4r	(8bL	.	On	.	.
-.	8a)J	.	.	.	.
-8r	8g	.	en-	.	.
-=10	=10	=10	=10	=10	=10
-4.r}	4.d/	.	-tend,	.	.
-*	*	*	*Xbis	*	*
-{4b	4r	.	les	.	.
-8cc	8r	.	ber-	.	.
-=11	=11	=11	=11	=11	=11
-4.dd	4.r	.	-gers,	.	.
-*	*	*	*bis	*	*
-4r	(>8ccL\	.	les	.	.
-.	8bJ)	.	.	.	.
-8r	8cc	.	ber-	.	.
+*	*	*refrain	*	*
+*	*	*italic	*	*
+*	*	*rline:R1	*	*
+{4b	4r	On	.	.
+8cc	8r	en-	.	.
+=9	=9	=9	=9	=9
+4.dd	4.r	-tend,	.	.
+*	*	*bis	*	*
+4r	(8bL	On	.	.
+.	8a)J	.	.	.
+8r	8g	en-	.	.
+=10	=10	=10	=10	=10
+4.r}	4.d/	-tend,	.	.
+*	*	*Xbis	*	*
+{4b	4r	les	.	.
+8cc	8r	ber-	.	.
+=11	=11	=11	=11	=11
+4.dd	4.r	-gers,	.	.
+*	*	*bis	*	*
+4r	(>8ccL\	les	.	.
+.	8bJ)	.	.	.
+8r	8cc	ber-	.	.
 !!LO:PB:g=original
-=12	=12	=12	=12	=12	=12
-[4.a	[4.r	.	-gers	.	.
-*	*	*	*Xbis	*	*
-*	*	*	*rp:e	*	*
-*	*	*	*rf:ʒe	*	*
-*	*	*	*rs:Ra	*	*
-4a]}	4r]	.	.	.	.
-*	*	*	*rline:R2	*	*
-{8d	8d	.	Chan-	.	.
-=13	=13	=13	=13	=13	=13
-4b	4g	.	-ter	.	.
-8b	8g	.	dans	.	.
-(8bL	(8gL	.	les	.	.
-8aJ)	8f#J)	.	.	.	.
-8b	8g	.	prai-	.	.
-=14	=14	=14	=14	=14	=14
-4.dd	4.b	.	-ri-	.	.
-4cc\}	4a\	.	-es	.	.
-*	*	*	*rp:i	*	*
-*	*	*	*rf:i,ə	*	*
-*	*	*	*rs:Rb	*	*
-*	*	*	*rline:R3	*	*
-{8d	8d	.	Ces	.	.
-=15	=15	=15	=15	=15	=15
-4cc	4a	.	re-	.	.
-8cc	8a	.	-frains	.	.
-(8ccL	(8aL	.	si	.	.
-8bJ)	8gJ)	.	.	.	.
-8cc	8a	.	lé-	.	.
+=12	=12	=12	=12	=12
+[4.a	[4.r	-gers	.	.
+*	*	*Xbis	*	*
+*	*	*rp:e	*	*
+*	*	*rf:ʒe	*	*
+*	*	*rs:Ra	*	*
+4a]}	4r]	.	.	.
+*	*	*rline:R2	*	*
+{8d	8d	Chan-	.	.
+=13	=13	=13	=13	=13
+4b	4g	-ter	.	.
+8b	8g	dans	.	.
+(8bL	(8gL	les	.	.
+8aJ)	8f#J)	.	.	.
+8b	8g	prai-	.	.
+=14	=14	=14	=14	=14
+4.dd	4.b	-ri-	.	.
+4cc\}	4a\	-es	.	.
+*	*	*rp:i	*	*
+*	*	*rf:i,ə	*	*
+*	*	*rs:Rb	*	*
+*	*	*rline:R3	*	*
+{8d	8d	Ces	.	.
+=15	=15	=15	=15	=15
+4cc	4a	re-	.	.
+8cc	8a	-frains	.	.
+(8ccL	(8aL	si	.	.
+8bJ)	8gJ)	.	.	.
+8cc	8a	lé-	.	.
 !!LO:PB:g=original
-=16	=16	=16	=16	=16	=16
-[4.a	[4.f#	.	-gers	.	.
-*	*	*	*rp:e	*	*
-*	*	*	*rf:ʒe	*	*
-*	*	*	*rs:Ra	*	*
-4a]}	4f#]	.	.	.	.
-*	*	*	*rline:R4	*	*
-{8dd	8b	.	Qui	.	.
-=17	=17	=17	=17	=17	=17
-4dd	4b	.	char-	.	.
-8cc#\	8a#	.	-ment	.	.
-4ee	4cc	.	leurs	.	.
-8dd	8b	.	a-	.	.
-=18	=18	=18	=18	=18	=18
-[4.b	[4.g	.	-mi[e]s:	.	.
-*	*	*	*rp:i	*	*
-*	*	*	*rf:i,[ə]	*	*
-*	*	*	*rs:Rb	*	*
-4b]}	4g]	.	.	.	.
-*	*	*	*rline:R5	*	*
-*	*	*	*turlute	*	*
-{16dd	16b	.	Tra	.	.
-16dd	16b	.	la	.	.
+=16	=16	=16	=16	=16
+[4.a	[4.f#	-gers	.	.
+*	*	*rp:e	*	*
+*	*	*rf:ʒe	*	*
+*	*	*rs:Ra	*	*
+4a]}	4f#]	.	.	.
+*	*	*rline:R4	*	*
+{8dd	8b	Qui	.	.
+=17	=17	=17	=17	=17
+4dd	4b	char-	.	.
+8cc#\	8a#	-ment	.	.
+4ee	4cc	leurs	.	.
+8dd	8b	a-	.	.
+=18	=18	=18	=18	=18
+[4.b	[4.g	-mi[e]s:	.	.
+*	*	*rp:i	*	*
+*	*	*rf:i,[ə]	*	*
+*	*	*rs:Rb	*	*
+4b]}	4g]	.	.	.
+*	*	*rline:R5	*	*
+*	*	*turlute	*	*
+{16dd	16b	Tra	.	.
+16dd	16b	la	.	.
 !!LO:PB:g=original
-=19	=19	=19	=19	=19	=19
-4dd}	4b	.	la,	.	.
-*	*	*	*bis	*	*
-{16dd	16b	.	tra	.	.
-16dd	16b	.	la	.	.
-8dd	8b	.	la	.	.
-8cc#\	8a#\	.	la	.	.
-8dd	8b	.	la	.	.
-=20	=20	=20	=20	=20	=20
-4b}	4g	.	la,	.	.
-*	*	*	*rline:R6	*	*
-{16b	16g	.	Tra	.	.
-16b	16g	.	la	.	.
-8b	8g	.	la	.	.
-8a	8f#	.	la	.	.
-8b	8g	.	la	.	.
+=19	=19	=19	=19	=19
+4dd}	4b	la,	.	.
+*	*	*bis	*	*
+{16dd	16b	tra	.	.
+16dd	16b	la	.	.
+8dd	8b	la	.	.
+8cc#\	8a#\	la	.	.
+8dd	8b	la	.	.
+=20	=20	=20	=20	=20
+4b}	4g	la,	.	.
+*	*	*rline:R6	*	*
+{16b	16g	Tra	.	.
+16b	16g	la	.	.
+8b	8g	la	.	.
+8a	8f#	la	.	.
+8b	8g	la	.	.
 !!LO:PB:g=original
-=21	=21	=21	=21	=21	=21
-8cc\	8a\	.	la	.	.
-8b	8g	.	la	.	.
-8cc\	8a\	.	la	.	.
-4ee	4cc	.	la	.	.
-8dd	8b	.	la	.	.
-=22	=22	=22	=22	=22	=22
-[4.b	[4.g	.	la,	.	.
-4b]}	4g]	.	.	.	.
-*	*	*	*rline:R5r	*	*
-{16dd	16b	.	Tra	.	.
-16dd	16b	.	la	.	.
-=23	=23	=23	=23	=23	=23
-4dd	4b}	.	la,	.	.
-{16dd	16b	.	tra	.	.
-16dd	16b	.	la	.	.
-8dd	8b	.	la	.	.
-8cc#\	8a#\	.	la	.	.
-8dd	8b	.	la	.	.
+=21	=21	=21	=21	=21
+8cc\	8a\	la	.	.
+8b	8g	la	.	.
+8cc\	8a\	la	.	.
+4ee	4cc	la	.	.
+8dd	8b	la	.	.
+=22	=22	=22	=22	=22
+[4.b	[4.g	la,	.	.
+4b]}	4g]	.	.	.
+*	*	*rline:R5r	*	*
+{16dd	16b	Tra	.	.
+16dd	16b	la	.	.
+=23	=23	=23	=23	=23
+4dd	4b}	la,	.	.
+{16dd	16b	tra	.	.
+16dd	16b	la	.	.
+8dd	8b	la	.	.
+8cc#\	8a#\	la	.	.
+8dd	8b	la	.	.
 !!LO:PB:g=original
-=24	=24	=24	=24	=24	=24
-4b}	4g	.	la,	.	.
-*	*	*	*rline:R6r	*	*
-{16b	16g	.	Tra	.	.
-16b	16g	.	la	.	.
-8b	8g	.	la	.	.
-8a	8f#	.	la	.	.
-8b	8g	.	la	.	.
-=25	=25	=25	=25	=25	=25
-8cc	8a	.	la	.	.
-8b	8g	.	la	.	.
-8cc	8a	.	la	.	.
-4ee	4cc	.	la	.	.
-8dd	8b	>	la	.	.
-=26	=26	=26	=26	=26	=26
-[4.g	[4.g	]	la.	.	.
-*	*	*	*Xbis	*	*
-*	*	*	*Xturlute	*	*
-*	*	*	*Xitalic	*	*
-*	*	*	*Xrefrain	*	*
-4g]}	4g]	.		.	.	.
-==	==	==	==	==	==
-*-	*-	*-	*-	*-	*-
+=24	=24	=24	=24	=24
+4b}	4g	la,	.	.
+*	*	*rline:R6r	*	*
+{16b	16g	Tra	.	.
+16b	16g	la	.	.
+8b	8g	la	.	.
+8a	8f#	la	.	.
+8b	8g	la	.	.
+=25	=25	=25	=25	=25
+8cc	8a	la	.	.
+8b	8g	la	.	.
+8cc	8a	la	.	.
+4ee	4cc	la	.	.
+8dd	8b	la	.	.
+=26	=26	=26	=26	=26
+[4.g	[4.g	la.	.	.
+*	*	*Xbis	*	*
+*	*	*Xturlute	*	*
+*	*	*Xitalic	*	*
+*	*	*Xrefrain	*	*
+4g]}	4g]	.	.	.
+==	==	==	==	==
+*-	*-	*-	*-	*-
 !!!RDF**kern: > = above
 !!!EED-1: Isaac Howie
 !!!EEV-1: 2025/05/06
