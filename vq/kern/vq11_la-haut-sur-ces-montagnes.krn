@@ -2,112 +2,124 @@
 !!!page: 50
 !!!COM: Anonymous
 !!!LYR: Anonymous
-!!!OTL@@FR: Là-haut Sur Ces Montagnes
+!!!OTL@@FR: Là-haut sur ces montagnes
 !!!PTL@@FR: Chansons Populaires du Vieux Québec
 !!!PED: Barbeau, Marius
 !!!PUB: Musée National du Canada
 !!!PDT: 1930
-**kern
-*clefG2
-*k[f#]
-*M2/4
-*G:
-=1
-8r
-8d
-8g
-8b/
-=2
-4.dd
-16ddL
-16ccJ
-=3
-(16bL
-16gJ)
-4.g
-=4
-8dd
-16cc
-16b
-8cc
-16ddL
-16eeJ
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*M2/4	*
+*G:	*
+*	*v:1
+*	*pline:1h1
+8d	Là--
+8g	haut
+8b/	sur
+=1	=1
+4.dd	ces
+16ddL	mon-
+16ccJ	.
+=2	=2
+(16bL	-ta-
+16gJ)	.
+4.g	-gnes,
+=3	=3
+*	*pline:1h2
+8dd	J'ai
+16cc	en-
+16b	-ten-
+8cc	-du
+16ddL	pleu-
+16eeJ	.
 !!LO:PB:g=original
-=5
-2dd
-=6
-8ccL
-(24dd
-24cc
-24bJ)
-16ccL
-16bJ
-16ddL
-16bJ
-=7
-(16gL
-[16bJ)
-8b]
-16gL
-16aJ
-16b/
-16a
-=8
-8g
-4.d
+=4	=4
+2dd	-rer.
+=5	=5
+*	*pline:2h1
+*	*italic
+(8ccL	Oh!
+*	*Xitalic
+24dd	.
+24cc	.
+24bJ)	.
+16ccL	c'est
+16bJ	.
+16ddL	la
+16bJ	.
+=6	=6
+(16gL	voix
+[16bJ)	.
+8b]	.
+16gL	de
+16aJ	.
+16b/	ma
+16a	maî-
+=7	=7
+8g	-tres-
+4.d	-se.
 !!LO:PB:g=original
-=9
-[4dd
-16ddL]
-16ggJ
-16ff#
-16dd
-=10
-8b/
-16aL
-16gJ
-8b/
-(24aL
-24b
-24aJ)
-=11
-16gL
-16a
-[8bJ
-8b/
-16dd
-16cc
-=12
-(16bL
-8ddJ)
-16b/
-8g
-16bL
-16aJ
+=8	=8
+*	*pline:2h2
+[4dd	Il
+16ddL]	.
+16ggJ	.
+16ff#	faut
+16dd	al-
+=9	=9
+8b/	-ler
+16aL	la
+16gJ	.
+8b/	con-
+(24aL	-so-
+24b	.
+24aJ)	.
+=10	=10
+16gL	-ler
+16a	.
+[8bJ	.
+8b/]	.
+*	*pline:2h1r
+16dd	C'est
+16cc	la
+=11	=11
+(16bL	voix
+8ddJ)	.
+16b/	de
+8g	ma
+16bL	maî-
+16aJ	.
 !!LO:PB:g=original
-=13
-8g
-(24aL
-24b
-24eJ)
-4d
-=14
-[4dd
-16ddL]
-16ggJ
-16ff#
-16dd
-=15
-8b/
-16aL
-16gJ
-8b/
-(24aL
-24b
-24aJ)
-=16
-2g
-==
-*-
-!!!EED: Leo Geng
-!!!EEV: 2026/10/07
+=12	=12
+(8g	-tres-
+24aL	.
+24b	.
+24eJ)	.
+4d	-se
+=13	=13
+*	*pline:2h2r
+[4dd	Il
+16ddL]	.
+16ggJ	.
+16ff#	faut
+16dd	al-
+=14	=14
+8b/	-ler
+16aL	la
+16gJ	.
+8b/	con-
+(24aL	-so-
+24b	.
+24aJ)	.
+=15	=15
+2g	-ler.
+=16	=16
+8r	.
+==	==
+*-	*-
+!!!EED1: Leo Geng
+!!!EEV1: 2026/10/07
+!!!EED2: Ève Poudrier
+!!!EEV2: 2026/11/10
+!!!RNB: The initial rest was deleted and added at the end following modern practice.
