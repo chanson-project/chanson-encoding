@@ -1,0 +1,95 @@
+!!!id: vq12d
+!!!page: 51b
+!!!COM: Anonymous
+!!!LYR: Anonymous
+!!!OTL@@FR: Dame Lombarde
+!!!PTL@@FR: Chansons Populaires du Vieux Québec
+!!!PED: Barbeau, Marius
+!!!PUB: Musée National du Canada
+!!!PDT: 1930
+**kern	**text
+*clefG2	*
+*k[]	*
+*M2/4	*
+*C:	*
+=1	=1
+*	*v:1
+*	*pline:1h1
+4cc	Ros-
+8cc	-si-
+8cc	-gno-
+=2	=2
+4cc	-let
+4dd	du
+=3	=3
+4.ee	bois
+8dd	jo-
+=4	=4
+8cc	-li,
+*	*pline:1h2
+*	*italic
+8b	ah!
+*	*Xitalic
+8cc	dis--
+8ee	moi,
+=5	=5
+4.gg	je
+8ee	t'en
+=6	=6
+8ee	prie,
+*	*pline:1h2r
+*	*italic
+8dd	ah!
+*	*Xitalic
+8gg	dis--
+8ee	moi,
+!!LO:PB:g=original
+=7	=7
+4dd	je
+8ddL	t'en
+8cc#J	.
+=8	=8
+8.ddL	prie,
+(16eeJ	.
+4dd)	.
+=9	=9
+*	*pline:2h1
+4dd	mon
+8.cc	ma-
+16cc	-ri
+=10	=10
+4dd	est
+4ee	ja-
+=11	=11
+4.ee	-loux
+8dd	de
+!!LO:PB:g=original
+=12	=12
+8aL	moi,
+8bJ	.
+*	*pline:2h2
+8cc	qu'est-c'
+8dd	que
+=13	=13
+4.dd	j'en
+8cc	fe-
+=14	=14
+8aL	-rai,
+8bJ	.
+*	*pline:2h2r
+8cc	qu'est-c'
+8dd	que
+=15	=15
+16ddL	j'en
+[16ccJ	.
+4cc]	.
+8b	fe-
+=16	=16
+4.cc	-rai.
+8r	.
+==	==
+*-	*-
+!!!EED1: Leo Geng
+!!!EEV1: 2026/10/07
+!!!EED2: Ève Poudrier
+!!!EEV2: 2026/11/10
