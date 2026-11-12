@@ -1,84 +1,112 @@
-!!!id:PEI08
-!!!page:192
-!!!OTL@@FR:L'hirondelle, messagere des amours
+!!!id: pei08
+!!!page: 192
+!!!ARE:
+!!!PTL@@FR:
 !!!COM: Anonymous
+!!!GAW-timbre: L'hirondelle, messagère des amours
+!!!LYR:
+!!!MLC:
+!!!MPN:
+!!!MRD:
+!!!OCL:
+!!!OTL@@FR: Agape Richard (Version B)
+!!!PDT:
+!!!PED:
+!!!PPP:
+!!!PTL:
+!!!RLC:
+!!!YEM:
 **kern	**text
 *clefG2	*
 *k[f#]	*
 *G	*
-*M4/4	*
-!!LO:TX:a:t=([]eighth.]=144)
-*>part A	*>partA
 *	*v:1
 *	*pline:1
 =1:	=1:
+!!LO:TX:a:t=([eighth]=144) Rubato
 8a	A-
-8.a	gap'
-16b	s'e-
-4.cc	crie:
-r16	*
-4dd	Mes
+8.a	-gap'
+16b/	s'é-
+4.cc	-crie:
+16r	.
+4dd	"Mes
 4.b	ca-
-16a	ma
-16aL	ra
-16gJ	des
-r16	*
-4b	Te-
-8.g	nons
-16f	nous
-8.e	bien
-r4	*
-r8	*
+16a	-ma-
+(16aL	-ra-
+16gJ)	.
+4.g	-des
+8r	.
+4b/	te-
+8.g	-nons--
+16f#	nous
+8.e	bien,
+4r	.
+16r	.
+!!LO:PB:g=original
 =2:	=2: 
-16e	Te
-8a	nons
-8b	nous
-8cc	a
-r8	*
+*	*pline:2
+16e	Te-
+8a	-nons--
+8b/	nous
+4cc	à
+r8	.
 8dd	quel-
-8b	ques
-16r	*
-16a	cor
-4g	dag's
-r8	*
-8r	*
+8b	-ques
+16r	.
+16a	cor-
+4g	-dag's
+8r	.
 8e	pour
-8.f	no-
-16g#	tre
-4.a	bien.
-8r	*
+8.f#	no-
+16g#	-tre
+4.a	bien."
+8.r	.
+!!LO:PB:g=original
 =3:	=3:
+*	*pline:3
 16a	A-
 8.cc	gap'
-16dd	s'e-
-4.e	crie:
+16dd	s'é-
+4.ee,	-crie:
 8ff	"A-
-8.e	dieu
+8.ee	-dieu
 16dd	ma
 8dd	fem-
-4cc	me,
-r8	*
-4e	mes
+4cc,	-me,
+8r	.
+4ee	mes
 8.dd	chers
 8cc	en-
-4.b	fants,"
-r8	*
+(8ccq	.
+4.b/)	-fants,"
+8r	.
+!!LO:PB:g=original
 =4:	=4:
+*	*pline:4
 16a	Et
 8a	le
-8b	vais-
-8.cc	seau
-r8	*
+8b/	vais-
+8.cc	-seau
+8r	.
 8dd	plong'
-8.b	dans
+8.b/	dans
 16a	la
 4g	lam'
-r16	*
+r16	.
 8e	et
-8.f	cal'
+8.f#	cal'
 16g#	au
 4a	fond.
-=5:	=5:
+=||	=||
+*-	*-
+!!!EED1: Christie Watts
+!!!EEV1: 2026/10/20
+!!!EED2: Ève Poudrier
+!!!EEV2: 2026/11/11
+!!!RST: Several reference records need to be filled.
+!!!RNB: Semi-diplomatic transcription; ornaments other than appogiaturas are not encoded. Encoding of second breath mark is moved back for technical reasons. Closing qutations marks added at the end of pline:2
+!!!RWG: "ton original" is not encoded; showed in bass clef, with key signature of four flats and starting with 8F,8.F,16G,4.A-
+
 
 
 
