@@ -1,10 +1,12 @@
-!!!OTL: Joachim Arsenault
+!!!id: pei13
+!!!page: 215
+!!!OTL: Joachim Arsenault (Version A)
 !!!OPR: Complaintes acadiennes de l'Île-du-Prince-Édouard
 !!!COM: Anonymous
 !!!OCL: Arsenault, George
 !!!MPN: Arsenault, Madame Arcade S.
 !!!MLC: Prince, Mont-Carmel, Île-du-Prince-Édouard
-!!!PUB: published
+!!!PDT: 1980
 !!!PPR: Les Éditions Leméac, Inc.
 !!!verovio: header encoded
 !!!header-center:@{OTL}
@@ -13,16 +15,18 @@
 *k[]	*
 *G:	*
 *M6/8	*
-!!LO:TX:a:t= [quarter.] = 116
-8c	La
+*	*v:1
+*	*pline:1
+!!LO:TX:a:t=([quarter.] = 116)
+{8c	La
 =1	=1
 4c	nou-
 8d	-vell'
 4e	est
 8e	por-
 =2	=2
-4e	-teé
-8e	à
+4e	-tée
+8g	à
 4.e	son
 =3	=3
 4e	pèr'
@@ -30,19 +34,22 @@
 4c	à
 8e	sa
 =4	=4
-4.d	mèr
-8r	.
-8e	A
+4.d	mèr'
+4r}	.
+*	*pline:2
+{8e	À
 =5	=5
 4c	ses
 4d	soeurs
 8e	à
 8e	ses
+!!LO:PB:g=original
 =6	=6
 4.e	frèr's
 4g	qui
 8e	é-
 =7	=7
+!	!sic original
 4e	-tait
 8e	dans
 (8cL	les
@@ -50,8 +57,9 @@
 8e	É-
 =8	=8
 4.d	-tats
-4r	.
-8d	"Joa-
+4r}	.
+*	*pline:3
+{8d	"Joa-
 =9	=9
 4e	-chim,
 (8f	il
@@ -66,10 +74,12 @@
 8g	l'a
 4g	pas
 8f	trou-
+!!LO:PB:g=original
 =12	=12
 4.e	-vé,
-4r	.
-8e	C'est
+4r}	.
+*	*pline:4
+{8e	C'est
 =13	=13
 4g	d'vou-
 8f	-loir
@@ -88,9 +98,11 @@
 =16	=16
 *M9/8	*
 4.d	-rer
-4r	.
-4c	Car
+4.r}	.
+*	*pline:5
+{4c	Car
 8d	on
+!!LO:PB:g=original
 =17	=17
 *M6/8	*
 4e	a
@@ -110,9 +122,12 @@
 8e	-trou-
 =20	=20
 (8qd/	.
-4.c)	-ver
+4.c)	-ver.
+4r}	.
 ==	==
 *-	*-
-!!!EED4: Mads Eddis
-!!!EEV4: 2026/11/03
-!!!RNB-Original: the transcriber shows the bass clef as the original register
+!!!EED1: Mads Eddis
+!!!EEV1: 2026/11/03
+!!!EED2: Ève Poudrier
+!!!EEV2: 2026/11/14
+!!!RNB-Original: The transcriber shows the bass clef as the original register, with Bb key signature [b-e-] and the following pitches: 8b- 4b- 8c 4d 8d. Added quarter rest in final bar to complete measure.
