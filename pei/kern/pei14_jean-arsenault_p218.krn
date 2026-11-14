@@ -1,11 +1,16 @@
-!!!OTL: Jean Arsenault
+!!!id: pei14
+!!!page: 218
+!!!OTL@@FR: Jean Arsenault 
+!!!OTL-version: A
 !!!OPR: Complaintes acadiennes de l'Île-du-Prince-Édouard
 !!!COM: Anonymous
-!!!OCL: Arsenault, George
-!!!MPN: Arsenault, Madame Arcade S.
+!!!OCL: Arsenault, George; Ornstein, Lisa
+!!!MDT: 1974/08/22
+!!!MPN: Arcade S. Arsenault (née Gallant), Hélène
 !!!MLC: Prince, Mont-Carmel, Île-du-Prince-Édouard
-!!!PUB: published
+!!!PDT: 1980
 !!!PPR: Les Éditions Leméac, Inc.
+!!!RT#: 658
 !!!verovio: header encoded
 !!!header-center:@{OTL}
 **kern	**text
@@ -13,7 +18,9 @@
 *k[f#, c#]	*
 *G:	*
 *M4/4	*
-!!LO:TX:a:t= Rubato [eighth.] = 138
+*	*v:3
+*	*pline:1
+!!LO:TX:a:t= ([eighth.] = 138) Rubato 
 8f#	Mais
 =1	=1
 4a	bien-
@@ -21,7 +28,7 @@
 8a	cette
 8f#	pau-
 8a	-vre
-8b	fam-
+8b	fa-
 =2	=2
 *M3/4	*
 (8a	-mil-
@@ -35,9 +42,11 @@
 8.g	-tess'
 16f#	fut
 8g	re-
-8a	plon-
+8a	-plon-
+!!LO:PB:g=original
 =4	=4
-4.f#	-geé
+4.f#	-gée
+*	*pline:2
 8f#	Leur
 =5	=5
 *M3/4	*
@@ -53,18 +62,22 @@
 8f#	-re
 8a	dans
 8g	la
-8f#	-per
+8f#	per-
 =7	=7
 *M2/4	*
 8g	-sonn'
 8f#	d'leur
 8g	fill'
 8a	aî-
+!!LO:PB:g=original
 =8	=8
 *M3/4	*
-8.f#	-née
+4.f#	-née
 4r	.
-(8d	El-
+*	*pline:3
+*a:	*
+!!LO:S:b
+(8d<	El-
 =9	=9
 *M4/4	*
 4b)	-le
@@ -78,15 +91,18 @@
 8r	.
 8d	la
 =11	=11
-4b	-met-
+4b	met-
 4b	-tant
 8b	en
 8b	un
 8a	grand
 8g#	dan-
+!!LO:PB:g=original
 =12	=12
 4a	-ger
 8r	.
+*	*pline:4
+*D:	*
 8f#	Ils
 =13	=13
 *M3/4	*
@@ -95,7 +111,7 @@
 8a	tous
 8f#	la
 8a	Sain-
-8b	-te
+8b/	-te
 =14	=14
 (2a	Vier-
 8f#)	-ge
@@ -108,17 +124,19 @@
 8f#	-vrir
 8g	la
 8a	san-
+!!LO:PB:g=original
 =16	=16
 *M3/4	*
 4.f#	-té
 4r	.
+*	*pline:4r
 8d	Ils
 =17	=17
 *M4/4	*
 4b	pri-
 4b	-aient
 8b	tous
-8a	la
+8a\	la
 8b	Sain-
 8cc#	-te
 =18	=18
@@ -134,14 +152,16 @@
 8.a	-vrir
 8f#	la
 8e	san-
+!!LO:PB:g=original
 =20	=20
 *M4/4	*
-4d	-té
-
+4d	-té.
 2.r	.
 .	.
 ==	==
 *-	*-
 !!!EED1: Mads Eddis
 !!!EEV1: 2026/11/03
-!!!RNB-Original: the transcriber shows the bass clef as the original register
+!!!EED2: Ève Poudrier
+!!!EEV2: 2026/11/14
+!!!RNB: The transcriber shows the bass clef as the "ton original" register, with E: key signature [f#,c#,g#,d#], with pitches: 8f# 4a 4a 8a 8f#.
