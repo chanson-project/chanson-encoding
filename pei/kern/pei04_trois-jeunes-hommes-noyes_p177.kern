@@ -3,9 +3,9 @@
 !!!COM: Anonymous
 !!!LYR: Anonymous
 !!!OTL@@FR: Trois Jeunes Hommes Noyés
+!!!OTL-version: B
 !!!PTL@@FR: Complaintes acadiennes de l'Île-du-Prince-Édouard
-!!!OCL: Arsenault, George
-!!!OCL-trans: Ornstein, Lisa
+!!!OCL: Arsenault, George; Ornstein, Lisa
 !!!MPN: Gallant, Félix
 !!!RLC: Prince, Mont-Carmel, Cap-Egmont
 !!!RDT: 1975/06/16
@@ -13,6 +13,7 @@
 !!!PPR: Les Éditions Leméac, Inc.
 !!!PPP: Montréal, Québec
 !!!PDT: 1980
+!!!RT#: 876
 !!!YEN: Canada
 !!!YEM: Tous droits de traduction et d'adaptation, en totalité ou en partie, réservés pour tous les pays. La reproduction d'un extrait quelconque de ce livre, par quelque procédé que ce soit, tant électronique que mécanique, en particulier par photocopie et par microfilm, est interdite sans l'autorisation de l'auteur et l'éditeur.
 **kern	**text
@@ -22,16 +23,17 @@
 !!LO:TX:a:t=([dottedquarter]=69)
 *	*v:1
 *	*pline:1
-f4	trois
+!	!sic: "trois"
+f4	Trois
 g8	jeun's
 =1	=1
 *M5/8	*
 a4.	homm's
 a8	par-
-(a8	-tis
+[a8	-tis
 =2	=2
 *M6/8	*
-a4.)	.
+a4.]	.
 *	*pline:2
 a4	de
 b-8/	Saint--
@@ -137,5 +139,5 @@ f4.	-nus.
 !!!EED1:Shannon Rowan
 !!!EEV1:2026/10/13
 !!!EED2: Ève Poudrier
-!!!EEV2: 2026/10/28
-!!!RNB-Original: transcriber shows bass clef as original register
+!!!EEV2: 2026/11/14
+!!!RNB: The transcriber shows bass clef as original register, with same key signature, and pitches 4F 8G 4.A.
