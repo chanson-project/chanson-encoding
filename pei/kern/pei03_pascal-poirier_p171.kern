@@ -2,12 +2,12 @@
 !!!page: 171
 !!!COM: Anonymous
 !!!LYR: Anonymous
-!!!OTL: Pascal Poirier
+!!!OTL@@FR: Pascal Poirier
+!!!OTL-version: B
 !!!PTL@@FR: Complaintes acadiennes de l'Île-du-Prince-Édouard
-!!!OCL: Arsenault, George
-!!!OCL-trans: Ornstein, Lisa
-!!!MPN: Chiasson, Marianne
-!!!RLC: Palmer Road, Saint-Édouard, Prince County
+!!!OCL: Arsenault, George; Ornstein, Lisa
+!!!MPN: Joseph B. Gallant (née Chiasson), Marianne
+!!!RLC: Prince, Palmer Road, Saint-Édouard, Prince County
 !!!RDT: 1976/11/10
 !!!PED: Arsenault, George
 !!!PPR: Les Éditions Leméac, Inc.
@@ -17,139 +17,158 @@
 !!!YEM: Tous droits de traduction et d'adaptation, en totalité ou en partie, réservés pour tous les pays. La reproduction d'un extrait quelconque de ce livre, par quelque procédé que ce soit, tant électronique que mécanique, en particulier par photocopie et par microfilm, est interdite sans l'autorisation de l'auteur et l'éditeur.
 **kern	**text
 *clefG2	*
+*k[]	*
+*a:	*
 *M6/8	*
-!!LO:TX:a:t=([dottedquarter]=80)
-*	*v:1
-*	*pline:1
-e4	Ah!
-e8	cet
-(8qe	.
-(d8L)	ai-
-c8J)	.
-(8cq	.
-B4)	-ma-
+*	*v:4
+*	*pline:1h1
 =1	=1
+!!LO:TX:a:t=([quarter.]=80)
+4e	Ah!
+8e	cet
+(8qe	.
+(8Ld)	ai-
+8cJ)	.
+(8cq	.
+8B)	-ma-
+=2	=2
 [c4.	-ble
 c4]	.
 (8cq	.
 B8)	Pas-
-=2	=2
-(c4	-ca-
-B8)	.
-A4.	-le
 =3	=3
-*	*pline:2
+(c4	-cal-
+B8)	.
+A4.	-(e)
+=4	=4
+*	*pline:1h2
 e4	vo-
 e8	-yant
 (8eq	.
 (d8L)	son
 c8J)	.
 B8	é-
-=4	=4
+=5	=5
 [c4.	-pous'
 c4]	.
 (B8	à
 8qA)	.
-=5	=5
-[A4.	l'eau.
-A8]	.
-r4	.
 =6	=6
-*	*pline:3
-e4	Il
+[A4.	l'eau.
+*	*rp:o
+*	*rf:lo
+*	*rs:a
+A8]	.
+4r	.
+!!LO:PB:g=original
+=7	=7
+*	*pline:2h1
+4e	Il
 e8	s'é-
 (8qe	.
 (d8L)	-crie
 c8J)	.
 B8	il
-=7	=7
+=8	=8
+!	!possible transcriptor error: "vers[e]"
 [c4.	vors'
 c4]	.
 B8	des
-=8	=8
+=9	=9
 (c4	lar-
 B8)	.
 A4.	-mes
-=9	=9
-*	*pline:4
+=10	=10
+*	*pline:2h2
 e4	et
 e8	ça
 g4	fut
 B8	que
-=10	=10
+=11	=11
 [c4.	des
 c4]	.
 (B8	san-
 8qA)	.
-=11	=11
+=12	=12
 [A4.	-glots.
+*	*rp:o
+*	*rf:lo
+*	*rs:a
 A4]	.
 r8	.
-=12	=12
-*	*pline:5
+!!LO:PB:g=original
+=13	=13
+*	*pline:3h1
 A4	Mais
 B8	mal-
 c4	-gré
 d8	sa
-=13	=13
+=14	=14
 (8qd	.
 [e4.)	grand
 e4]	.
 e8	mi-
-=14	=14
+=15	=15
 (e4	-sè-
 d8)	.
 d4.	-re
-=15	=15
+=16	=16
 (8qd	.
-*	*pline: 6
+*	*pline:3h2
 [e4.)	il
 e4]	.
 e8	la
-=16	=16
+=17	=17
 (8qe	.
 c4)	te-
 d8	-nait
 e4	par
 e8	un
-=17	=17
-(8qd	.
-c2.)	pied
 =18	=18
 (8qd	.
-*	*pline:7
+c2.)	pied
+*	*rp:e
+*	*rf:je
+*	*rs:b
+!!LO:PB:g=original
+=19	=19
+(8qd	.
+*	*pline:4h1
 e4)	Mal-
 e8	-heu-
 (8qd	.
 c4)	-reux
 d8	sa
-=19	=19
+=20	=20
 [e4.	des-
 e4]	.
 (8qe	.
 d8)	-ti-
-=20	=20
+=21	=21
 (c4	-né-
 B8)	.
 A4.	-e
-=21	=21
-*	*pline:8
+=22	=22
+*	*pline:4h2
 e4	ell'
 e8	se
 g4	sauv'
 B8	lui
-=22	=22
+=23	=23
 [c4.	s'a
 c4]	.
 (B8	né-
 8qA)	.
-=23	=23
+=24	=24
 A4.	-yé.
+*	*rp:e
+*	*rf:je
+*	*rs:b
 r4	.
 ==	==
 *-	*-
 !!!EED1: Shannon Rowan
 !!!EEV1: 2026/10/20
-!!!RWG: Unable to encode pitch scoops into the downbeats of mm. 1,2,4,7,8,10,24
 !!!EED2: Ève Poudrier
-!!!EEV2: 2026/10/28
+!!!EEV2: 2026/11/14
+!!!RNB: Ornaments other than appoggiaturas were not encode, i.e., pitch scoops into the downbeats of mm. 1,2,4,7,8,10,and 24.
