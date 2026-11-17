@@ -1,0 +1,112 @@
+!!!id: mb111
+!!!page: 347-348
+!!!COM: Anonymous
+!!!LYR: Anonymous
+!!!OCL: Marius Barbeau
+!!!PTL@@FR: Le Rossignol y Chante
+!!!OTL@@FR: Quand Buron est entré
+!!!PPR: Ministère du Nord Canadien et des Resources Nationales, Musée National du Canada
+!!!PDT: 1962
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M3/4	*
+*	*v:1
+*	*pline:1h1
+!!LO:TX:omd:tempo:a:t=[quarter]=110
+!included the beginning of v2 here as a second voice (below), since not much was different	!
+*^	*
+8c	8c	Quand
+8f	8.f	Bu-
+8g	.	-ron
+.	16g	.
+=1	=1	=1
+!upward scoop before following note	!upward scoop before following note	!
+4..a	4..a	en-
+16b-/	16b-/	-trit
+8.a	8.a	dans
+16g	16g	la
+=2	=2	=2
+4..g	[4g	cour,
+.	8g]	.
+*	*	*
+*	*	*pline:1h1
+.	8a	.
+16a	.	c'é-
+*v	*v	*
+32aL	-tait
+32gJ	.
+8f	pour
+16g	jou-
+=3	=3
+32aL	.
+32fJ	.
+[8.a	.
+8.a]	.
+16b-/	-ir
+8.g	de
+16a	la
+!!LO:PB:g=original
+=4	=4
+8gL	rei-
+24g	.
+24f	.
+24gJ	.
+[2f	-ne.
+=5	=5
+4f]	.
+8r	.
+*	*pline:2
+!upward scoop before following note	!
+8f	Il
+!upward scoop before following note	!
+8.a	n'en
+!squiggly slur between following two notes	!
+(16a	eut
+=6	=6
+(4dd);	pas
+8.cc)	.
+16cc	jou-
+(32b-L	-i
+!following dotted eighth note corrected to eighth note tied to 32nd note, so rhythms make sense in 3/4	!
+[8cc)	.
+32ccJ]	.
+16a\	trois
+=7	=7
+!downward scoop before following note	!
+16aL	tours,
+[8.gJ	.
+8g],	.
+*	*pline:3
+8g	Bu-
+!upward scoop before follwing note	!
+8.cc/	-ron
+16b-/	a
+!!LO:PB:g=original
+=8	=8
+(12ccL	sor-
+12.a	.
+24gJ)	.
+8.f	.
+!unsure if there is a slur between the following notes, or a scoop before the note after (chosen the latter option for now)	!
+16g	-ti
+!upward scoop before following note	!
+8.a	de
+16a	la
+=9	=9
+!uncertain if following symbol is double-sharp sign or something else	!
+16g##L	cour.
+32a	.
+32b-	.
+!unsure that following dotted sixteenth note is the correct rhythm, so changed to eighth note to make more sense	!
+8aJ	.
+4f	.
+4r	.
+=10	=10
+4r	.
+8r	.
+==	==
+*-	*-
+!!!EED1: Samuel Boone
+!!!EEV1: 2026/11/17
