@@ -1,0 +1,111 @@
+!!!id: mb110b
+!!!page: 343-346
+!!!COM: Anonymous
+!!!LYR: Anonymous
+!!!OCL: Marius Barbeau
+!!!PTL@@FR: Le Rossignol y Chante
+!!!OTL@@FR: Les trois roses empoissonées
+!!!PPR: Ministère du Nord Canadien et des Resources Nationales, Musée National du Canada
+!!!PDT: 1962
+**kern	**text
+*clefG2	*
+*k[b-,e-,a-,d-]	*
+*E-:	*
+*M2/4	*
+*	*v:1
+*	*pline:1h1
+=1	=1
+!!LO:TX:omd:tempo:a:t=[quarter]=68
+8e-	Quand
+8f	le
+8g	roi
+16fL	en-
+16e-J	.
+=2	=2
+2a-	-trit
+=3	=3
+(8g	dans
+4f)	.
+16b-L~	Pa-
+16a-J	.
+=4	=4
+4.a-	-ris,
+8r	.
+*	*pline:1h1r
+=5	=5
+8e-	Quand
+8f	le
+8g	roi
+(16fL	en-
+16e-J)	.
+=6	=6
+!following fermata after note & later in the bar, as well as upside-down	!
+2a-;	-trit
+!!LO:PB:g=original
+=7	=7
+(8g	dans
+4f)	.
+16b-L	Pa-
+16a-J	.
+=8	=8
+4.a-	-ris,
+*	*pline:1h2
+8a-	sa-
+=9	=9
+16a-L	-lu-
+16gJ	.
+8a-	-a
+8b-	tout'
+16b-L	ces
+16ccJ	.
+=10	=10
+4.b-/	da-
+16a-L	.
+16gJ	.
+!unknown curved symbol after following note	!
+=11	=11
+*M3/4	*
+4.f	-mes.
+*	*pline:2h1
+!upward scoop before following note	!
+8a-	La
+8a-	pre-
+[8a-	-mièr'
+!!LO:PB:g=original
+=12	=12
+8a-]	.
+16gL	qu'il
+16fJ	.
+[4e-	a
+=13	=13
+8e-]	.
+16fL	.
+16e-J	.
+(12e-L	sa-
+12d-J	.
+8e-)	-lu-
+=14	=14
+4.f	-é,
+*	*pline:2h2
+!upward scoop before following note	!
+[8b-/	ell'
+=15	=15
+8b-/]	.
+16a-L	lui
+16gJ	.
+8f	ra-
+[8a-	-vit
+=16	=16
+2a-]	.
+=17	=17
+16.gL	l'â-
+32fJ	.
+16e-L	.
+16fJ	.
+[4e-	-me.
+=18	=18
+4e-]	.
+==	==
+*-	*-
+!!!EED1: Samuel Boone
+!!!EEV1: 2026/11/17
