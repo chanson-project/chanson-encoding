@@ -11,95 +11,95 @@
 !!!PTL: Journal of American Folklore
 !!!verovio: header encoded
 !!!header-center:@{OTL@@FR}
-**kern	**text	**text
-*clefG2	*	*
-*k	*	*
-*G:	*	*
-*M2/4	*	*
-*	*v:1	*
-*	*pline:1	*
-*^	*	*
-{4r	8r	.	.
-*	*	*	*v:2
-*	*	*	*pline:2r
-.	8g	.	Un
-*v	*v	*	*
-8g	Mon	bon
-8g	père,	vieil-
-=1	=1	=1
-8a	il	-lard
-8g	m'a	il
-8a	ma-	m'a
-8b	-ri-	don-
-=2	=2	=2
-4cc}	-é'.	-né,
-*	*rp:e	*rp:e
-*	*rf:e	*rf:e
-*	*rs:a	*rs:a
-*	*rline:R1	*rline:R1
-*	*refrain	*refrain
-*	*italic	*italic
-{4ee	Oh!	Oh!
-=3	=3	=3
-8dd	qu'il	etc.
-8cc	est	.
-8a	mal	.
-8b	ai-	.
-=4	=4	=4
-8cc}	-sé,	.
-*	*Xitalic	*Xitalic
-*	*Xrefrain	*Xrefrain
-*	*pline:2	*
-{8cc	Un	.
-8cc	bon	.
-8dd	vieil-	.
-=5	=5	=5
-8ee	-lard	.
-8ee	il	.
-8dd	m'a	.
-8cc	don-	.
-=6	=6	=6
-*M1/4	*	*
-8.a}	-né.	.
-*	*rline:R2	*
-*	*refrain	*refrain
-*	*italic	*italic
-{16a	Tu	.
-=7	=7	=7
-*M2/4	*	*
-8a	n'en-	.
-8cc	-tends	.
-8dd	pas	.
-8cc	l'u-	.
-=8	=8	=8
-4b	-sa-	.
-4g}	-ge,	.
-*	*rline:R1r	*
-=9	=9	=9
-{4cc	Oh!	.
-8g	qu'il	.
-8a	est	.
-=10	=10	=10
-8g	mal-	.
-8f	-ai-	.
-8e}	-sé	.
-*	*rline:3	*
-{8f	D'être	.
-=11	=11	=11
-8a	a-	.
-8cc	-mou-	.
-8b	-reuse	.
-8cc	et	.
-=12	=12	=12
-4g	sa-	.
-4cc}	-ge!	.
-*	*Xitalic	*Xitalic
-*	*Xrefrain	*Xrefrain
-==	==	==
-*-	*-	*-
+**kern		**text	**text	**text
+*clefG2		*	*	*
+*k		*	*	*
+*G:		*	*	*
+*M2/4		*	*	*
+*		*v:1	*	*
+*		*pline:1	*	*
+*^		*	*	*
+{4r	8r	.	.	.
+*	*	*	*v:2	*v:3
+*	*	*	*pline:2r	*pline:
+.	8g	.	Un	.
+*v	*v	*	*	*
+8g		Mon	bon	.
+8g		père,	vieil-	.
+=1		=1	=1	=1
+8a		il	-lard	.
+8g		m'a	il	.
+8a		ma-	m'a	.
+8b		-ri-	don-	.
+=2		=2	=2	=2
+4cc}		-é'.	-né,	.
+*		*rp:e	*rp:e	*
+*		*rf:e	*rf:e	*
+*		*rs:a	*rs:a	*
+*		*rline:R1	*rline:R1	*
+*		*refrain	*refrain	*
+*		*italic	*italic	*
+{4ee		Oh!	Oh!	.
+=3		=3	=3	=3
+8dd		qu'il	etc.	.
+8cc		est	.	.
+8a		mal	.	.
+8b		ai-	.	.
+=4		=4	=4	=4
+8cc}		-sé,	.	.
+*		*Xitalic	*Xitalic	*
+*		*Xrefrain	*Xrefrain	*
+*		*pline:2	*	*
+{8cc		Un	.	.
+8cc		bon	.	.
+8dd		vieil-	.	.
+=5		=5	=5	=5
+8ee		-lard	.	.
+8ee		il	.	.
+8dd		m'a	.	.
+8cc		don-	.	.
+=6		=6	=6	=6
+*M1/4		*	*	*
+8.a}		-né.	.	.
+*		*rline:R2	*	*
+*		*refrain	*refrain	*
+*		*italic	*italic	*
+{16a		Tu	.	.
+=7		=7	=7	=7
+*M2/4		*	*	*
+8a		n'en-	.	.
+8cc		-tends	.	.
+8dd		pas	.	.
+8cc		l'u-	.	.
+=8		=8	=8	=8
+4b		-sa-	.	.
+4g}		-ge,	.	.
+*		*rline:R1r	*	*
+=9		=9	=9	=9
+{4cc		Oh!	.	.
+8g		qu'il	.	.
+8a		est	.	.
+=10		=10	=10	=10
+8g		mal-	.	.
+8f		-ai-	.	.
+8e}		-sé	.	.
+*		*rline:R3	*	*
+{8f		D'être	.	.
+=11		=11	=11	=11
+8a		a-	.	.
+8cc		-mou-	.	.
+8b		-reuse	.	.
+8cc		et	.	.
+=12		=12	=12	=12
+4g		sa-	.	.
+4cc}		-ge!	.	.
+*		*Xitalic	*Xitalic	*
+*		*Xrefrain	*Xrefrain	*
+==		==	==	==
+*-		*-	*-	*-
 !!!EEED1: Mads Eddis
 !!!EEEV1: 2026/11/16
 !!!EED2: Ève Poudrier
-!!!EEV2: 2026/11/18
+!!!EEV2: 2026/11/19
 !!!RNB: The algternate beginning with additional syllable was encoded as a split spine at the beginning and the tied not deleted.
 !!!RWG: There is a bug that causes the verse number to be repeated. I created an issue on GutHub to get help from Craig.
