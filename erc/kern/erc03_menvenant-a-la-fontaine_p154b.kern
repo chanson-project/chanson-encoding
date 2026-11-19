@@ -1,0 +1,74 @@
+!!!OTL: M’envoient à la fontaine
+!!!OTA: La fille au cresson
+!!!COM: Anonymous (traditional)
+!!!OCL: Edward Ermatinger
+!!!verovio: breaks encoded
+!!!verovio: minLastJustification 0
+**kern	**text
+*clefG2	*
+*M2/4	*
+*	*v:1
+*	*pline:1
+r4	.
+cc4	Quand
+=1	.
+a8	j'e-
+cc8	-tais
+ee8	chez
+dd16L	mon
+cc16J	.
+=2	.
+b8	.pè-
+dd8	-re,
+cc4	pe-
+=3	.
+a8	-ti-
+cc8	-te
+ee8	Jean-
+dd16L	-ne-
+cc16J	.
+!!LO:LB:g=z
+=4	.
+b4	ton,
+*	*pline:2
+dd4	m'en-
+=5	.
+dd8	-voie
+cc8	à
+ee8	la
+cc8	fon-
+=6	.
+a8	-tai-
+dd8	-ne,
+cc8	pour
+a8	pê-
+=7	.
+e8	-cher
+a8	du
+b8L	pois-
+cc8J	.
+!!LO:LB:g=z
+=9	.
+a4	-son.
+*	*pline:3
+cc8	La
+cc16	vi-
+b16	-o-
+=10	.
+a8	-let-
+cc8	-te
+dd4	don-
+=11	.
+ee4	-dén',
+ee8	la
+dd16	vi-
+cc16	-o-
+=12	.
+b8	-let-
+dd8	-te
+cc4	don-
+=13	.
+a4	-dé.
+==	==
+!!!EED1:Shannon Rowan
+!!!EEV1:2026/11/17
