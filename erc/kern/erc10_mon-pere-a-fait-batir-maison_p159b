@@ -1,0 +1,125 @@
+!!!id: erc10
+!!!page: 159b
+!!!OTL@@FR: Mon père a fait bâtir maison
+!!!COM: Anonymous
+!!!LYR: Anonymous
+!!!OCL: Edward Ermatinger; Marius Barbeau
+!!!PDT: 1954
+!!!OPR: The Ermatinger Collection of Voyageur Songs (ca. 1830)
+!!!ONB: The song was transcribed by Edward Ermatinger in the 1820s. The original collection contains eleven French-Canadian voyageur songs.
+!!!verovio: header encoded
+!!!header-center: Mon père a fait bâtir maison
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M6/8	*
+*	*v:1
+*	*pline:1
+=1	=1
+{8g	Mon
+4b	pèr[e]
+8g	a
+=2	=2
+4a	fait
+8g	bâ-
+8bL	-tir
+8ddJ	mai-
+8b	.
+=3	=3
+8bL	-son.
+16a	.
+16gJ}	.
+*	*rline:R1
+*	*refrain
+*	*italic
+{4b	Frin-
+8g	-gue,
+=4	=4
+4a	frin-
+8g	-gue
+8b	sur
+8dd	l’a-
+8b	-vi-
+=5	=5
+4g}	-ron.
+*	*Xitalic
+*	*Xrefrain
+*	*pline:2
+{8g	Sont
+4g	trois
+8b	char-
+=6	=6
+4dd	-pen-
+8ee	-tiers
+8ddL	qui
+8bJ	.
+8dd	la
+=7	=7
+4b}	font.
+*	*rline:R2
+*	*refrain
+*	*italic
+{8dd	Tour-
+8ddL	-ti et
+8eeJ	.
+8dd	mour-
+=8	=8
+4b-}	-ti
+*	*rline:R3
+{8dd	Ron-
+8dd	-geur
+8ee	de
+8dd	fu-
+=9	=9
+4b}	-sil
+*	*rline:R4
+{8dd	Tré-
+8dd	-bouill[e]
+8ee	et
+8dd	mar-
+=10	=10
+!	!sic: period in text underlay by not in text below.
+8bL	-teau.
+8ddJ	.
+*	*rline:R5
+8dd	Bon-
+4b	-jour,
+8a	lu-
+=11	=11
+(4a	-tin!
+8g)}	.
+*	*rline:R1v
+4b	Frin-
+8g	-gue,
+=12	=12
+4a	frin-
+8g	-gue
+8b	sur
+8dd	la
+8b	ri-
+=13	=13
+!	!sic: text below "ridène"
+8bL	-viè-
+8aJ	.
+8g	-re,
+*	*rline:R1r
+4b	Frin-
+8g	-gue,
+=14	=14
+4a	frin-
+8g	-gue
+8b	sur
+8dd	l’a-
+8b	-vi-
+=15	=15
+4.g;	-ron!
+*	*Xitalic
+*	*Xrefrain
+==	==
+*-	*-
+!!!EED1: Hanjia Zhang
+!!!EEV1: 2026/11/16
+!!!EED2: Ève Poudrier
+!!!EEV2: 2026/11/18
+!!!RND: Leading rests were deleted per editorial policy; the last duration was modified to complete the measure. The italics are in the source text.
