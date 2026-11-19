@@ -1,12 +1,11 @@
-!!!RT#: erc6
-!!!page: 156
+!!!RT#: erc06
+!!!page: 156b-157t
 !!!OTL: C'est l'oiseau et l'alouette
-!!!OPR: The Ermatinger Collection of Voyageur Songs
-!!!COM: anonymous
+!!!OPR: The Ermatinger Collection of Voyageur Songs (c. 1840)
+!!!COM: Anonymous
 !!!OCL: Edward Ermatinger; Marius Barbeau
 !!!PDT: 1954
 !!!MDT: c. 1818-1828
-!!!MLC: Prince, Mont-Carmel, Île-du-Prince-Édouard
 !!!PPR: University of Illinois Press
 !!!PUB: Marius Barbeau
 !!!verovio: header encoded
@@ -17,19 +16,20 @@
 *C:	*
 *M2/4	*
 =1	=1
-*	*
-*	*
-4r	.
-8f	1.C'est
+*	*v:1
+*	*pline:1
+{4r	.
+8f	C'est
 8g	l'oi-
 =2	=2
 8a	-seau
 8g	et
 8a	l'a-
-8b	lou-
+8b	-lou-
 =3	=3
-4cc	-ett'
-8cc	Qui
+4cc}	-ett'
+*	*pline:2
+{8cc	Qui
 8ee	vou-
 =4	=4
 8dd	-loient
@@ -37,7 +37,8 @@
 8cc	ma-
 8a	-ri-
 =5	=5
-4g	-er,
+4g}	-er,
+*	*pline:2r
 8g	Qui
 8cc	vou-
 =6	=6
@@ -47,6 +48,7 @@
 8e	-ri-
 =7	=7
 4e	-er
+*	*pline:3
 8f	Mais
 8a	ils
 8a	n'ont
@@ -55,7 +57,9 @@
 8d	man-
 =8	=8
 4d	-ger
-8.e	A-
+*	*pline:4
+*	*italic
+{8.e	A-
 16f	-lou-
 =9	=9
 8g	-et-
@@ -64,15 +68,20 @@
 16f	-li-
 =10	=10
 8g	-et-
-8g	-te,
-8a	Bel
+8g}	-te,
+*	*pline:5
+{8a	Bel
 8b	oi-
 =11	=11
 4cc	-seau
 8dd	tout
 8ee	lui
 =12	=12
-4cc	faut.
+4cc}	faut.
+*	*Xitalic
 ==	==
 !!!EED1: Serena Miles
 !!!EEV1: 2026/11/16
+!!!EED2: Ève Poudrier
+!!!EEV2: 2026/11/18
+!!!RNB: Square brackets and italics are from the original source.
