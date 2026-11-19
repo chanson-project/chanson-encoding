@@ -14,29 +14,31 @@
 *clefG2	*
 *M2/4	*
 *	*v:1
-*	*pline:1
-r4	.
+*	*pline:1h1
 cc4	Quand
 =1	.
-a8	j'e-
+a8	j'é-
+!	!sic:extra apostrophe in original
 cc8	-tais
 ee8	chez
 dd16L	mon
 cc16J	.
 =2	.
-b8	.pè-
+b8	pè-
 dd8	-re,
+*	*pline:1h2
 cc4	pe-
 =3	.
-a8	-ti-
-cc8	-te
-ee8	Jean-
-dd16L	-ne-
+a8	-tit[e]
+!	!sic: Barbeau omitted this word in Ermatinger transcription
+cc8	et
+ee8	Jea-
+dd16L	-net-
 cc16J	.
 !!LO:LB:g=z
 =4	.
-b4	ton,
-*	*pline:2
+b4	-ton,
+*	*pline:2h1
 dd4	m'en-
 =5	.
 dd8	-voie
@@ -46,6 +48,7 @@ cc8	fon-
 =6	.
 a8	-tai-
 dd8	-ne,
+*	*pline:2h1
 cc8	pour
 a8	pê-
 =7	.
@@ -56,7 +59,7 @@ cc8J	.
 !!LO:LB:g=z
 =9	.
 a4	-son.
-*	*pline:3
+*	*rline:R3
 cc8	La
 cc16	vi-
 b16	-o-
@@ -66,6 +69,7 @@ cc8	-te
 dd4	don-
 =11	.
 ee4	-dén',
+*	*rline:R3v
 ee8	la
 dd16	vi-
 cc16	-o-
@@ -78,3 +82,6 @@ a4	-dé.
 ==	==
 !!!EED1:Shannon Rowan
 !!!EEV1:2026/11/17
+!!!EED2: Ève Poudrier
+!!!EEV2: 2026/11/19
+!!!RNB: Text underlay adapted to match Ermatinger's original, m. 3. Initial rest deleted to complete the final measure.
