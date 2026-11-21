@@ -1,0 +1,91 @@
+!!!RT#: erc11
+!!!page: 160t
+!!!OTL: Le rossignol y chante
+!!!OPR: The Ermatinger Collection of Voyageur Songs (c. 1830)
+!!!COM: Anonymous
+!!!OCL: Edward Ermatinger; Marius Barbeau
+!!!PDT: 1954
+!!!MDT: c. 1818-1828
+!!!PPR: University of Illinois Press
+!!!PUB: Marius Barbeau
+!!!verovio: header encoded
+!!!header-center: Le rossignol y chante
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M2/4	*
+=1	=1
+*	*v:1
+*	*pline:1
+{4r	.
+8g	Par
+8b	der-
+=2	=2
+4a	-rièr'
+8a	cher
+16gL	ma
+16f#J	*
+=3	=3
+8e	tante,
+8f#	il
+8g	yat
+8a	un
+=4	=4
+8a	ro-
+8bL	-sier
+16a	*
+16gJ	*
+!!LO:PB:g=original
+=5	=5
+8.g}	blanc.
+*	*pline:2
+{16a	Le
+8a	ros-
+8cc	-si-
+=6	=6
+8a	-gnol
+8b	y
+8a	chante,
+8b	à
+=7	=7
+8cc	chaqu'
+8a	pe-
+8g	-tit
+8a	mo-
+=8	=8
+4a}	-ment.
+*	*pline:3
+*	*italic
+{8g	Beau
+16a	fa-
+16b	-lu-
+!!LO:PB:g=original
+=9	=9
+4a	-ron
+8g	ma
+16aL	don-
+16bJ	*
+=10	=10
+8a}	daine,
+*	*pline:4
+{16gL	O
+16f#J	*
+8e}	gai!
+*	*pline:5
+{16a	Fa-
+16a	-lu-
+=11	=11
+4a	-ron
+8b	ma
+16aL	don-
+16gJ	*
+=12	=12
+4g	-dé.
+4r;}	*
+*	*Xitalic
+==	==
+!!!EED1: Serena Miles
+!!!EEV1: 2026/11/21
+!!!RNB: italics are from the original source.
+!!!RNB: quarter rest in measure 12 was added by me in order to place the fermata.
