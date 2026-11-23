@@ -1,0 +1,130 @@
+!!!id: mb116c
+!!!page: 359-362
+!!!COM: Anonymous
+!!!LYR: Anonymous
+!!!OCL: Marius Barbeau
+!!!PTL@@FR: Le Rossignol y Chante
+!!!OTL@@FR: Un jour, il me prit envie
+!!!PPR: Ministère du Nord Canadien et des Resources Nationales, Musée National du Canada
+!!!PDT: 1962
+**kern	**text
+*clefG2	*
+*k[f#,c#,g#]	*
+*F#:	*
+*M2/4	*
+*	*v:1
+*	*pline:1
+=1	=1
+!!LO:TX:omd:tempo:a:t=[quarter]=78
+!upward scoop before following note	!
+4a	Un
+(8.b/	jour,
+16a)	.
+=2	=2
+8.aL	il
+[16g#J	.
+8.g#]	.
+16a	me
+=3	=3
+4b	prit
+!upward scoop before following note	!
+4cc#	en-
+=4	=4
+(12aL	-vi-
+16g#qL	.
+16aqJ	.
+12g#J	.
+12f#)	.
+4f#	-e
+*	*pline:2
+=5	=5
+!upward scoop before following note	!
+4a	C'est
+16bqL	.
+16aqJ	.
+8.b/	d'al-
+16a	-ler
+=6	=6
+8.aL	fair'
+!plus sign before following note	!
+[16g#J	.
+8.g#]	.
+16f#	mou-
+!!LO:PB:g=original
+=7	=7
+16g#L	-rir
+16f#qL	.
+16g#qJ	.
+8.f#J	.
+8f#q	.
+4e	m'a-
+=8	=8
+4.f#,	-mi',
+*	*pline:3
+8B	D'al-
+=9	=9
+4..f#	-ler
+16g#	la
+=10	=10
+(8bq	.
+8.g#)	fair'
+16g#	mou-
+16aqL	.
+16g#qJ	.
+8.a	rir
+16f#	si
+=11	=11
+!upward scoop before following note	!
+2b,	loin,
+*	*pline:4
+=12	=12
+!downward scoop before following note	!
+4a	Sans
+8.b	que
+16dd	per-
+=13	=13
+16cc#qL	.
+16bqJ	.
+4cc#	-sonn'
+4f#	n'en
+=14	=14
+16g#qL	.
+16eqJ	.
+4g#	sa-
+8.a	.
+[16f#	-ve
+!!LO:PB:g=original
+=15	=15
+4.f#]	rien,
+*	*pline:3r
+16e	D'al-
+8.f#	-ler
+16g#	la
+=16	=16
+16aqL	.
+16g#qJ	.
+8.a	fair'
+16g#	mou-
+8.a	-rir
+16f#	si
+=17	=17
+2b,	loin,
+*	*pline:4r
+=18	=18
+4a	Sans
+8.b	que
+16dd	per-
+=19	=19
+4cc#	-sonn'
+4f#	n'en
+=20	=20
+4g#	sa-
+16eL	-ve
+16d	.
+8eJ	.
+=21	=21
+2f#	rien.
+==	==
+*-	*-
+!!!EED1: Samuel Boone
+!!!EEV1: 2026/11/22
