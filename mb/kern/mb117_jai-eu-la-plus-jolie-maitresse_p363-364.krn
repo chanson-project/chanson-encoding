@@ -1,0 +1,131 @@
+!!!id: mb117
+!!!page: 363-364
+!!!COM: Anonymous
+!!!LYR: Anonymous
+!!!OCL: Marius Barbeau
+!!!PTL@@FR: Le Rossignol y Chante
+!!!OTL@@FR: J'ai eu la plus jolie maîtresse
+!!!PPR: Ministère du Nord Canadien et des Resources Nationales, Musée National du Canada
+!!!PDT: 1962
+**kern	**text
+*clefG2	*
+*k[b-,e-]	*
+*c:	*
+*M7/8	*
+!!editorial time signature change for pickup, to work with final partial measure (see below)
+*	*v:1
+*	*pline:1h1
+!!LO:TX:omd:tempo:a:t=[quarter]=90
+8g	J'ai
+8g	eu
+8a	la
+=|:1	=|:1
+!moved 3/4 time signature down here to accommodate final partial measure (see below)	!
+*M3/4	*
+2g	plus
+8gL	jo-
+(24fJ	.
+!unsure why above 'J' seems to apply to following two notes, they are unbeamed in the original manuscript	!
+24e-	-li'
+24d)	maî-
+=2	=2
+8.e-L	-tres-
+!unknown symbol before following note	!
+16dJ	.
+8c	-se
+*	*pline:1h2
+8d	qui
+8e-	s'soit
+8f	pas
+=3	=3
+8fL	vu'
+16g	.
+16fJ	.
+8e-	.
+8f	des-
+8g	-sous
+8a	les
+!!LO:PB:g=original
+=4	=4
+4.g	cieux.
+*	*pline:1h1r
+8g	J'ai
+8g	eu
+8a	la
+=:|5	=:|5
+4g	cieux.
+8r	.
+*	*pline:2h1
+8g	Ell'
+8g	m'est
+8g	a-
+=6	=6
+*M2/4	*
+4cc	-mie
+[4b-	.
+=7	=7
+8b-]	.
+8e-	quand
+8g	je
+8f	l'em-
+=8	=8
+8e-L	-bras-
+8dJ	.
+4c	-se.
+!!LO:PB:g=original
+=9	=9
+8.r	.
+*	*pline:2h2
+16d	Que
+8e-	mon
+8f	cœur
+=10	=10
+!	!unsure about division of syllables in following measure
+8.f	vol[e]
+16e-	et
+8g	mon-
+8e-	-te
+=11	=11
+8d	aux
+4.c	cieux!
+*	*pline:2h1r
+=12	=12
+8gL	Ell'
+8fJ	.
+8g	m'est
+8g	a-
+=13	=13
+4cc	-mie
+[4b-	.
+=14	=14
+8b-]/	.
+8e-	quand
+8g	je
+8f	l'em-
+!!LO:PB:g=original
+=15	=15
+8e-L	-bras-
+8dJ	.
+4c	-se.
+=16	=16
+8r	.
+*	*pline:2h2r
+8d	Que
+8e-	mon
+8f	cœur
+=17	=17
+8.f	vol[e]
+16e-	et
+8g	mont[e]
+8e-	aux
+=18	=18
+*M7/8	*
+!editorial time signature change, since following partial measure has an eighth rest after it, after which the pickup to v2 begins immediately (leading to a combined measure of 7 eighth notes)	!
+8d	cieux!
+4c	.
+8r	.
+==	==
+*-	*-
+!!!RWG: Omitted final partial measure, as it seemed like the beginning of the second verse but with the notes no different than those of the first verse's pickup; changed time signature, however, as eighth rest needed to be inserted between final partial measure and pickup
+!!!EED1: Samuel Boone
+!!!EEV1: 2026/11/22
