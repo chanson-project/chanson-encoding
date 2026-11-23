@@ -1,0 +1,122 @@
+!!!id: mb121b
+!!!page: 373-376
+!!!COM: Anonymous
+!!!LYR: Anonymous
+!!!OCL: Marius Barbeau
+!!!PTL@@FR: Le Rossignol y Chante
+!!!OTL@@FR: Une jeune fille du Nord
+!!!PPR: Ministère du Nord Canadien et des Resources Nationales, Musée National du Canada
+!!!PDT: 1962
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*g:	*
+*M2/4	*
+*	*v:1
+*	*pline:1h1
+!!LO:TX:omd:tempo:a:t=[quarter]=82
+8.d	C'est
+16d	un'
+=1	=1
+*M3/4	*
+!upward scoop before following note	!
+8.g	jeu-
+16a	-ne
+!upward scoop facing down after following note, unsure if slur	!
+4.a	fi-
+8g	-lle
+=2	=2
+(8aL	du
+16b-	.
+16gJ)	.
+4f,	nord
+*	*pline:1h2
+8.g	qui
+16a	de-
+=3	=3
+*M2/4	*
+!upward scoop before following note	!
+8b-/	-meu-
+8a	-rait
+8.g	près
+!plus sign before following note	!
+16f	de
+!!LO:PB:g=original
+=4	=4
+2g,	nous.
+*	*pline:2h1
+=5	=5
+4.a	Ell[e]
+8bn/	a-
+=6	=6
+4cc	-vait
+!upward scoop before, and scoop after following note	!
+4dd	beau-
+=7	=7
+8gq	-coup
+!plus sign before following note	!
+(4g	.
+8a)	.
+!plus sign before following note	!
+8b-/	d'ar-
+=8	=8
+2a,	-gent
+*	*pline:2h2
+=9	=9
+(8fq	.
+8.a)	pour
+16a	al-
+!upward scoop and plus sign before following note	!
+8b-/	-ler
+8a	en
+=10	=10
+(4g	A-
+8b-/)	.
+8a	-mé-
+!!LO:PB:g=original
+=11	=11
+(8aL	-ri-
+8gJ)	.
+4f,	-que,
+*	*pline:3h1
+=12	=12
+!upward scoop before following note	!
+4.a	Ell[e]
+!plus sign before following note	!
+8b-/	a-
+=13	=13
+4cc	-vait
+!upward scoop before, and scoop after following note	!
+4dd	beau-
+=14	=14
+8aq	.
+8aL	-coup
+!plus sign before following note	!
+16gJ	.
+8aL	d'ar-
+!plus sign before following note	!
+8b-J	.
+=15	=15
+8aL	-gent
+8gJ	.
+*	*pline:3h2
+[4f	pour
+=16	=16
+4.f]	.
+8g	y
+=17	=17
+8a	fair'
+!plus sign before following note	!
+8b-/	bien
+!upward scoop before following note	!
+8.g	des
+16f	paie-
+=18	=18
+4.g;	-ments.
+8r	.
+=19	=19
+4r	.
+==	==
+*-	*-
+!!!EED1: Samuel Boone
+!!!EEV1: 2026/11/23
