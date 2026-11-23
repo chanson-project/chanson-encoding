@@ -1,0 +1,285 @@
+!!!id: mb118
+!!!page: 365-368
+!!!COM: Anonymous
+!!!LYR: Anonymous
+!!!OCL: Marius Barbeau
+!!!PTL@@FR: Le Rossignol y Chante
+!!!OTL@@FR: La marâtre et la fille honnête
+!!!PPR: Ministère du Nord Canadien et des Resources Nationales, Musée National du Canada
+!!!PDT: 1962
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M2/4	*
+*	*v:1
+*	*pline:1h1
+!!LO:TX:omd:tempo:a:t=[quarter]=80
+8f~	C'est
+8f	un
+=1	=1
+4g	jeu-
+(8gL	-ne
+8fJ)	.
+=2	=2
+8.fLS	ca-
+!turn between these notes	!
+16eJ	.
+(8gq	.
+4f)	-va-
+=3	=3
+16gL	-lier
+8.fJ	.
+*	*pline:1h2
+8.g	qui
+16a	de-
+=4	=4
+4b-	-mand[e]
+!upward scoop before following note	!
+4cc	à
+=5	=5
+(8aL	s'y
+8fJ)	.
+!unknown symbol before following note	!
+4g	lo-
+=6	=6
+8eq	.
+4f,	-ger.
+8fq	.
+*	*pline:2h1
+8.e	C'est
+16f	la
+!!LO:PB:g=original
+=7	=7
+4..g	jeun[e]
+!	!unsure if accent aigu on following E
+16f	E-
+=8	=8
+(24aL	-li-
+24g	.
+12f	.
+12eJ)	.
+!upward scoop before following note	!
+4f	-sa-
+=9	=9
+!upward scoop slanted downwards after following note, or slur (unclear)	!
+8gL	-beau.
+8fJ	.
+*	*pline:2h2
+!	!unsure what following letter is, assumed that word is "y a" with a variant in spelling
+8.gL	Y a
+16aJ	.
+=10	=10
+!upward scoop before following note	!
+4b-/	vou-
+4a	-lu
+=11	=11
+!turn before following note	!
+(8gLS	l'em-
+8fJ	.
+8gL	-bras-
+8eJ)	.
+=12	=12
+[2f	-ser.
+=13	=13
+8f]	.
+8r	.
+*	*pline:3h1
+4f	–J'ai
+=14	=14
+4g^	cent
+8aq	.
+8gL	é-
+8fJ	.
+!!LO:PB:g=original
+=15	=15
+16g^L	-cus
+16f	.
+8eJ	.
+!upward scoop before following note	!
+4f	en
+=16	=16
+16gL	or.
+8.fJ	.
+*	*pline:3h2
+8.g	Bell'
+16a	je
+=17	=17
+4b-/	vous
+!following slur is squiggly	!
+(16aL	les
+8.ccJ)	.
+=18	=18
+4a^	don-
+!slur before grace note, but not connected to previous note	!
+8fq	.
+4g^	-ne-
+=19	=19
+4f,	-rai,
+8fq	.
+*	*pline:4h1
+8e	U-
+8f	-ne
+=20	=20
+4.g	bon-
+8f	-ne
+=21	=21
+8gqL	.
+8.fLS	ba-
+!turn between these notes	!
+16eJ	.
+4f	-gue
+!!LO:PB:g=original
+=22	=22
+8gL	d'or,
+8fJ	.
+!	!unsure if following pline should be "3h2v" or "4h2"
+*	*pline:3h2v
+8.g	bell'
+16a	je
+=23	=23
+4.b-/	vous
+8a	la
+=24	=24
+(8gLS	don-
+!turn between these notes	!
+8fJ)	.
+8gL	-ne-
+8fJ	.
+=25	=25
+!	!no opening quote marks for following end quote marks, other than em-dash in m.13
+2f	-rai."
+=||26	=||26
+*	*v:2
+*	*pline:5h1
+4r	.
+!upward scoop before following note	!
+4f	La
+=27	=27
+[4gS	fill'
+!turn between these notes	!
+8..gL]	.
+32fJ	qu'est
+=28	=28
+8.fLS	fort
+!turn between these notes	!
+16eJ	hon-
+4f	.
+=29	=29
+8fq	.
+8gLS	-nê-
+!turn between these notes	!
+8fJ,	.
+8g	-te,
+*	*pline:5h2
+8a	qui
+!!LO:PB:g=original
+=30	=30
+4b-	bou-
+!following slur is squiggly	!
+(16aL	-che
+8.ccJ)	.
+=31	=31
+(8a~L	ces
+8fJ)	.
+8gL	gar-
+8fJ	.
+=32	=32
+4f,	-çons,
+*	*pline:5h1r
+8eL	La
+8fJ	.
+=33	=33
+4.g;	fill'
+8f	qu'est
+=34	=34
+(8.f^L	fort
+!unclear if following note is 'e' or 'd'	!
+16eJ)	.
+4f^	hon-
+=35	=35
+8fq	.
+8gL	-nêt',
+8fJ	.
+*	*pline:5h2r
+(8g	qui
+8a)	.
+=36	=36
+4-b/T	bou-
+!above trill written as symbol (not "tr") leading to following note	!
+4a	-che
+!!LO:PB:g=original
+=37	=37
+(8gLS	ces
+!turn before following note	!
+8fJ)	.
+(8gL	gar-
+8fJ)	.
+=38	=38
+!upward scoop before following note	!
+4.e	-çons:
+8r	.
+*	*pline:6h1
+=39	=39
+4f^S	–Beau
+!turn before following note	!
+8.f	ca-
+16a	-va-
+=40	=40
+[2cc	-lier
+=41	=41
+4cc];	.
+!following sllur is squiggly	!
+(8.a	ba-
+16f)	.
+=42	=42
+4g,	-ron,
+*	*pline:6h2
+(8b-L	gar-
+8ddJ)	.
+=43	=43
+(4cc;	-dez
+8g)	.
+8a	tout
+!!LO:PB:g=original
+=44	=44
+4b-/^	votr[e]
+4a^	ar-
+=45	=45
+4f^,	-gent.
+(8fq	.
+*	*pline:7h1
+8e)	Pour
+8f	moi,
+=46	=46
+4gS	je
+!turn or previously established unknown symbol before following note	!
+8gL	gard'
+8fJ	.
+=47	=47
+8.fL	mon
+!accent on following note in reverse direction	!
+16eJ^	.
+4f	hon-
+=48	=48
+8gL	-neur
+8fJ	.
+*	*pline:7h2
+(8gL	pour
+8aJ)	.
+=49	=49
+!accent on following note in reverse direction	!
+4b-^	mon
+(16b-L	fi-
+!accent on following note in reverse direction	!
+8.cc^J)	.
+=50	=50
+(4aS	-dèl[e]
+!turn between these notes	!
+4g)	a-
+=51	=51
+4f	-mant.
+==	==
+*-	*-
+!!!EED1: Samuel Boone
+!!!EEV1: 2026/11/22
