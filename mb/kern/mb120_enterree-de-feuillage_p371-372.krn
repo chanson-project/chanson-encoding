@@ -1,0 +1,207 @@
+!!!id: mb120
+!!!page: 371-372
+!!!COM: Anonymous
+!!!LYR: Anonymous
+!!!OCL: Marius Barbeau
+!!!PTL@@FR: Le Rossignol y Chante
+!!!OTL@@FR: Enterrée de feuillage
+!!!PPR: Ministère du Nord Canadien et des Resources Nationales, Musée National du Canada
+!!!PDT: 1962
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M3/4	*
+*	*v:1
+*	*pline:1
+!!LO:TX:omd:tempo:a:t=[quarter]=92
+8f	Nous
+=1	=1
+8f	é-
+8f	-tions
+8.f	trois
+16b-/	jeu-
+8b-/	-nes
+8b-/	gar-
+=2	=2
+*M2/4	*
+(8cc	-çons,
+4b-)	.
+*	*pline:1r
+8g	Nous
+=3	=3
+*M3/4	*
+8a	é-
+8g	-tions
+8cc	trois
+8dd	jeu-
+8.cc	-nes
+16b-	gar-
+!!LO:PB:g=original
+=4	=4
+[2cc	-çons
+8cc]	.
+*	*pline:2
+8cc	Qui
+=5	=5
+*M4/4	*
+16ddL	long-
+16ccJ	.
+16ccL	-temps
+16b-J	.
+(24b-L	cher-
+24cc	.
+24b-)	.
+8aJ	.
+(24b-L	-chaient
+24a	.
+24g)	.
+8fJ	.
+(12gL	u-
+12aJ	.
+12b-/)	-ne
+=6	=6
+*M3/4	*
+(12ccL	blon-
+12b-	.
+12gJ)	.
+8a	.
+4.g	-de,
+*	*pline:3
+8g	Qui
+!!LO:PB:g=original
+=7	=7
+8a	ra-
+8b-/	-vis-
+8cc	-saient
+8dd	tou-
+8.cc	-te
+16b-	le
+=8	=8
+16b-L	mon-
+8.aJ	.
+!triplet number "3" missing from following triplet	!
+!unsure if following note is 'g' or 'a'	!
+24gL	-de.
+24f	.
+24g	.
+!moved fermata to here, where it makes more sense	!
+8fJ;	.
+8r	.
+*	*pline:2r
+8cc	Qui
+=9	=9
+*M4/4	*
+8dd	long-
+8cc	-temps
+16b-L	cher-
+16a	.
+8gJ	.
+4f	-chaient
+(12gL	u-
+12aJ	.
+12b-/)	-ne
+!!LO:PB:g=original
+=10	=10
+*M3/4	*
+(12ccL	blon-
+24b-	.
+24a	.
+12gJ)	.
+(8aq	.
+4.g)	-de,
+*	*pline:3r
+8g	Qui
+=11	=11
+8a	ra-
+8b-/	-vis-
+8ccL	-saient
+8ddJ	.
+8cc	tou-
+16b-	-te
+16b-	le
+=12	=12
+16aqL	.
+16b-qJ	mon-
+4.a	.
+8g	.
+[4f	-de.
+=13||	=13||
+!unclear if following section is v2 or a refrain	!
+*	*v:2
+*	*pline:4
+*M2/4	*
+8f]	.
+8f	Le
+8f	plus
+8f	jeun[e]
+!!LO:PB:g=original
+=14	=14
+!removed redundant 2/4 time signature	!
+8f	a
+8b-/	dit
+8b-	au
+8b-	plus
+=15	=15
+*M3/4	*
+2b-	vieux,
+!upside-down fermata over following rest	!
+8r;	.
+*	*pline:4r
+8aq	.
+8g	Le
+=16	=16
+8a	plus
+8b-	jeun[e]
+8cc~	a
+8dd	dit
+8cc	au
+8b-	plus
+=17	=17
+[2cc	vieux:
+8cc],	.
+*	*pline:5
+8cc	–Toi
+!!LO:PB:g=original
+=18	=18
+8dd	qu'est
+8cc	si
+16b-L	a-
+16aJ	.
+16gL	-mou-
+16fJ	.
+16gL	-reux
+16aJ	.
+8b-/	des
+=19	=19
+!upward scoop before following note	!
+8ccL	fi-
+8b-J	.
+(24aL	-lles,
+24g	.
+24a)	.
+8.gJ	.
+*	*pline:6
+!changed following note to sixteenth, instead of eighth which does not fit the time signature	!
+16g	Lui
+=20	=20
+8a	en
+8b-	a-t--
+8.cc	un'
+16dd	qu'est
+8.cc	si
+16b-	jo-
+=21	=21
+8ccq	.
+(12b-L	-li-
+12a	.
+24g	.
+24fJ)	.
+16gL	-ye.
+8.fJ	.
+8r	.
+==	==
+*-	*-
+!!!RWG: Unsure if latter section after the thin double bar lines is v2 or a refrain
+!!!EED1: Samuel Boone
+!!!EEV1: 2026/11/23
