@@ -1,0 +1,145 @@
+!!!id: mb133
+!!!page: 405-406
+!!!COM: Anonymous
+!!!LYR: Anonymous
+!!!OCL: Marius Barbeau
+!!!PTL@@FR: Le Rossignol y Chante
+!!!OTL@@FR: Ils s'aimaient si tendrement
+!!!PPR: Ministère du Nord Canadien et des Resources Nationales, Musée National du Canada
+!!!PDT: 1962
+**kern	**text
+*clefG2	*
+*k[f#,c#,g#]	*
+*f#:	*
+*M2/4	*
+*	*v:1
+*	*pline:1
+!!LO:TX:omd:tempo:a:t=[quarter]=104
+8f#	C'est
+=1	=1
+4.a	un
+8g#	gar-
+=2	=2
+*M3/4	*
+8a	-çon
+8b/	et
+8g#	u-
+8a	-ne
+8f#	fi-
+8e	-lle
+*	*pline:2
+=3	=3
+8.a	Qui
+16g#	s'ai-
+8a	-maient
+8b/	de-
+8g#	-puis
+8g#	long-
+=4	=4
+*M2/4	*
+(16aL	-temps.
+[16f#J)	.
+4f#]	.
+*	*pline:3
+8f#	Mais
+!!LO:PB:g=original
+=5	=5
+(8g#	quand
+4e)	.
+8f#	ils
+=6	=6
+(8g#	s'ai-
+!unsure if following note is 'e' or 'd'	!
+4e	-me',
+!	!corrected following capitalization to match pline structure
+8g#	ils
+=7	=7
+4f#	s'ai-
+8e	-ment,
+*	*pline:4
+8a	Ils
+=8	=8
+*M3/4	*
+8f#	s'ai-
+4f#	-ment
+8a	si
+8g#	ten-
+8a	-dre-
+=9	=9
+*M2/4	*
+16aL	-ment.
+[16f#J	.
+[4.f#]	.
+!!LO:PB:g=original
+=||10	=||10
+4f#]	.
+8r	.
+*	*v:2
+*	*pline:5
+8f#	Un
+=11	=11
+4.a	jour,
+(32bL	il
+16.g#J)	.
+=12	=12
+8a	dit
+8b/	à
+8g#	sa
+8a	ber-
+=13	=13
+*M3/4	*
+4f#	-gè-
+4e	-re:
+*	*pline:6
+8f#L	–Ber-
+8g#J	.
+=14	=14
+4.a	-gèr,
+8g#	je
+!!LO:PB:g=original
+=15	=15
+8a	crains
+8b/	que
+8a	vos
+8g#	pa-
+=16	=16
+(16g#L	-rents,
+16aJ	.
+4f#)	.
+*	*pline:7
+8f#	Je
+=17	=17
+(8g#	crois
+4e)	.
+8f#	que
+=18	=18
+4f#	vos
+8g#	pa-
+8g#	-rents
+!!LO:PB:g=original
+=19	=19
+8f#	vise',
+*	*pline:8
+8g#	Ont
+8f#	en-
+8c#	-tre-
+=20	=20
+4.e	-pri-
+8e	-se
+=21	=21
+8f#	de
+8a	me
+!unsure if following note is 'a' or 'g#'	!
+8g#	fair'
+8g#	mou-
+=22	=22
+16aL	-rir.
+[16f#J	.
+4.f#]	.
+=23	=23
+4r	.
+8r	.
+==	==
+*-	*-
+!!!EED1: Samuel Boone
+!!!EEV1: 2026/11/23
