@@ -1,0 +1,100 @@
+!!!id: mb123
+!!!page: 381-382
+!!!COM: Anonymous
+!!!LYR: Anonymous
+!!!OCL: Marius Barbeau
+!!!PTL@@FR: Le Rossignol y Chante
+!!!OTL@@FR: Un couteau j'ai volé
+!!!PPR: Ministère du Nord Canadien et des Resources Nationales, Musée National du Canada
+!!!PDT: 1962
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M6/8	*
+*	*v:1
+!	!following pline order based on lyrics in text
+*	*pline:3h1
+!!LO:TX:omd:tempo:a:t=[quarter]=80
+4g	Quand
+8a	j'é-
+=1	=1
+8b	-tais
+8b	sur
+8b	mon
+!upward scoop before following note	!
+8cc^L	pè-
+8bJ	.
+8a\	-re,
+*	*pline:3h2
+=2	=2
+8.g	un
+16cc	cou-
+8dd	-teau
+8ddL	j'ai
+8ccJ	.
+8b	vo-
+=3	=3
+4.b	-lé.
+8r	.
+*	*pline:4h1
+16g	Fal-
+16g	-lait
+!!LO:PB:g=original
+=4	=4
+8b~	prendr[e]
+8dd	u-
+8cc	-ne
+4b^	ver-
+8a	-ge,
+*	*pline:4h2
+=5	=5
+8g	me
+8cc	l'en-
+8a	-voy-
+4g	-er
+8f#	por-
+=6	=6
+2.g	-ter.
+*	*pline:1
+=||7	=||7
+8.gL	Chers
+16aJ	.
+16b/	pè-
+16b/	-re
+8b/~	et
+8bL	mè-
+8aJ	-re
+!!LO:PB:g=original
+=8	=8
+8g	femm[e]
+8b/	et
+8dd	pe-
+(8ddL	-tits
+16.ccJ)	.
+16b	en-
+=9	=9
+[4.b/	-fants,
+8b/]	.
+8r	.
+*	*pline:2
+8a	Pre-
+=10	=10
+8b	-nez
+8dd	tous
+8cc	ex-
+16bL	-em-
+16aJ	.
+4a,	-ple
+=11	=11
+8g	sur
+8cc/	ce
+8a	mé-
+4g	-chant
+8f#	en-
+=12	=12
+4.g	-fant!
+==	==
+*-	*-
+!!!EED1: Samuel Boone
+!!!EEV1: 2026/11/23
