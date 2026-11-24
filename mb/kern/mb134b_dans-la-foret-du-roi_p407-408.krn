@@ -1,0 +1,172 @@
+!!!id: mb134b
+!!!page: 407-408
+!!!COM: Anonymous
+!!!LYR: Anonymous
+!!!OCL: Marius Barbeau
+!!!PTL@@FR: Le Rossignol y Chante
+!!!OTL@@FR: Dans la forêt du roi
+!!!PPR: Ministère du Nord Canadien et des Resources Nationales, Musée National du Canada
+!!!PDT: 1962
+**kern	**text
+*clefG2	*
+*k[b-,e-]	*
+*B-:	*
+!!pickup time signature changed to 5/8 to match final partial measure (see below)
+*M5/8	*
+*	*v:1
+*	*pline:1h1
+!upward scoop before following note	!
+4.b-	Dans
+=1	=1
+!added correct 6/8 time signature here	!
+*M6/8	*
+4cc	la
+8b-	fo-
+8gL	-rêt
+8b-J	.
+8b-/	du
+=2	=2
+2.cc	roi,
+*	*pline:1h2
+=3	=3
+4b-	nous
+8cc	.
+!upward scoop before following note	!
+(16%3dd	somm's
+!unsure if following duplet notes encoded properly	!
+32%3ddL	trent'--
+32%3ccJ)	.
+=4	=4
+[4.cc	trois
+4cc]	.
+8b-	vo-
+=5	=5
+16b-L	-leurs.
+[16gJ	.
+4g]	.
+[4.f	.
+!!LO:PB:g=original
+=6	=6
+4f]	.
+8r	.
+*	*pline:2h1
+=:|!	=:|!
+!upward scoop before following note	!
+4cc	Moi
+8cc	qui
+=7	=7
+4cc	es
+8b-	le
+!upward scoop before following note	!
+4ee-	ca-
+8dd	-pi-
+=8	=8
+16ddL	-tai-
+[16ccJ	.
+4cc]	.
+4b-	-ne
+*	*pline:2h2
+8b-	de
+=9	=9
+4cc	ces
+8a	trent'--
+4f	trois
+8a	vo-
+=10	=10
+[4.cc	-leurs,
+4cc],	.
+*	*pline:3h1
+8c	Je
+!!LO:PB:g=original
+=11	=11
+4f	mar-
+8g	-che-
+8a	-rai
+8b-/	la
+=12	=12
+*M3/8	*
+4cc	têt'
+*	*pline:3h2
+8dd	comm[e]
+=13	=13
+*M6/8	*
+4ee-	un
+8dd	vrai
+[4cc	gou-
+16ccL]	.
+16b-J	-ver-
+=14	=14
+(16%3ccL	-neur.
+16%3ddJ)	.
+[4.b-	.
+=15	=15
+*M3/8	*
+8b-/]	.
+8r	.
+*	*pline:2h1r
+=16	=16
+*M6/8	*
+!upward scoop before following note	!
+4b-/	Moi
+8a	qui
+8gL	es
+8aJ	.
+8b-/	le
+!!LO:PB:g=original
+=17	=17
+[4.cc	ca-
+4cc]	.
+8b-	-pi-
+=18	=18
+8g-L	-tai-
+8f	.
+8e-J	.
+!minus sign before following note	!
+4e-	-ne
+*	*pline:2h2r
+8g-	de
+=19	=19
+!upward scoop before following note	!
+8b-L	ces
+8aJ	.
+8g	trent'--
+[4f	trois
+16f]	.
+16e-	vo-
+=20	=20
+[4.f	-leurs,
+4f]	.
+8r	.
+*	*pline:3h1r
+8c	Je
+=21	=21
+4.f	mar-
+8g	-che-
+8a	-rai
+8b-/	la
+!!LO:PB:g=original
+=22	=22
+*M3/8	*
+4cc	têt'
+*	*pline:3h2r
+8dd	comm[e]
+=23	=23
+*M6/8	*
+!upward scoop before following note	!
+4ee-	un
+8dd	vrai
+4cc	gou-
+8b-	-ver-
+=24	=24
+8ccL	-neur.
+8dd	.
+[8b-J	.
+[4.b-]	.
+=25	=25
+!following measure changed to 5/8 to fit where v2 comes in	!
+*M5/8	*
+4b-]	.
+==	==
+*-	*-
+!!!EED1: Samuel Boone
+!!!EEV1: 2026/11/23
