@@ -1,0 +1,178 @@
+!!!id: mb129
+!!!page: 395-396
+!!!COM: Anonymous
+!!!LYR: Anonymous
+!!!OCL: Marius Barbeau
+!!!PTL@@FR: Le Rossignol y Chante
+!!!OTL@@FR: Dans mon chemin rencontre
+!!!PPR: Ministère du Nord Canadien et des Resources Nationales, Musée National du Canada
+!!!PDT: 1962
+**kern	**text
+*clefG2	*
+*k[b-,e-,a-]	*
+*g:	*
+*M6/8	*
+*	*v:1
+*	*pline:1h1
+!!LO:TX:omd:tempo:a:t=[quarter]=62
+!upward scoop before following note	!
+4.g	Au
+=1	=1
+!plus sign before following note	!
+8fL	beau
+8gJ	.
+8a-	clair
+4g	de
+8f	la
+=2	=2
+(24fL	lun',
+24g	.
+24fJ)	.
+4e-	.
+*	*pline:1h2
+4.f	m'en
+=3	=3
+16fL	al-
+16d	.
+8gJ	.
+8f	-lant
+4e-	pro-
+8d	-me-
+=4	=4
+4.c;,	-ner.
+*	*pline:1h1r
+!upward scoop before following note	!
+4.g	Au
+!!LO:PB:g=original
+=5	=5
+(32%3gL	beau
+32%3a-	.
+32%3g	.
+32%3fJ)	.
+8g	.
+8a-	clair
+!upward scoop before following note	!
+4b-	de
+8cc	la
+=6	=6
+8.gL	lun',
+16a-	.
+16g	.
+16fJ	.
+*	*pline:1h2r
+8.gL	m'en
+16a-	al-
+16g	.
+16fJ	.
+=7	=7
+4g	-lant
+8an	.
+4b-/	pro-
+8a	-me-
+=8	=8
+4.g,	-ner,
+*	*pline:2h1
+4.g	Dans
+=9	=9
+16gL	mon
+16f	.
+8gJ	.
+8an	che-
+4g	-min
+8f	ren-
+!!LO:PB:g=original
+=10	=10
+16gL	-con-
+16f	.
+8enJ	.
+8f	-tre,
+*	*refrain
+*	*italic
+*	*rline:R1
+4.f	Mon
+=11	=11
+16fL	jo-
+16d	.
+8gJ	.
+8en	-li
+4c	cœur
+8d	de
+=12	=12
+16e-L	ro-
+16d	.
+8e-J	.
+8f	-se,
+*	*Xitalic
+*	*Xrefrain
+*	*pline:2h2
+4.g	un'
+=13	=13
+16gL	fill[e]
+16f	.
+8gJ	.
+!plus sign before following note	!
+8a-	a-
+16gL	-ban-
+16f	.
+8gJ	.
+8f	-don-
+=14	=14
+16gL	-née,
+16f	.
+[8e-J	.
+8e-]	.
+*	*refrain
+*	*italic
+*	*rline:R1v
+4.f	Jo-
+!!LO:PB:g=original
+=15	=15
+!upward scoop before following note	!
+4g	-li
+8f	cœur
+(8fq	.
+4e-)	de
+8d	ro-
+=16	=16
+4.c	-sier,
+*	*Xitalic
+*	*Xrefrain
+*	*pline:2h2r
+!upward scoop before following note	!
+8.gL	un'
+16a-	.
+16g	.
+16fJ	.
+=17	=17
+4g	fill[e]
+8a-	a-
+4b-	-ban-
+8cc	-don-
+=18	=18
+8.gL	-née,
+16a-	.
+16g	.
+[16fJ	.
+4.f]	.
+*	*refrain
+*	*italic
+*	*rline:R1vr
+=19	=19
+4.g	Jo-
+4b-/	.
+16gL	.
+16fJ	.
+=20	=20
+4g	-li
+!plus sign before following note	!
+8a-	cœur
+4b-/	de
+8a-	ro-
+=21	=21
+4.g	-sier.
+*	*Xitalic
+*	*Xrefrain
+==	==
+*-	*-
+!!!EED1: Samuel Boone
+!!!EEV1: 2026/11/23
