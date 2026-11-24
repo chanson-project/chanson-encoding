@@ -1,0 +1,148 @@
+!!!id: mb127
+!!!page: 391-392
+!!!COM: Anonymous
+!!!LYR: Anonymous
+!!!OCL: Marius Barbeau
+!!!PTL@@FR: Le Rossignol y Chante
+!!!OTL@@FR: C'est la belle Madeleine
+!!!PPR: Ministère du Nord Canadien et des Resources Nationales, Musée National du Canada
+!!!PDT: 1962
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*b:	*
+*M2/4	*
+*	*v:1
+*	*pline:1h1
+!!LO:TX:omd:tempo:a:t=[quarter]=70
+16bL	C'est
+32a	.
+32bJ	.
+=1	=1
+8a	la
+16g	.
+16f#	bell'
+8g	Ma-
+16a	-de-
+16gL	-lei-
+16f#J	.
+=2	=2
+*M3/4	*
+8e	-ne,
+*	*pline:1h2
+[8a	un
+8a]	.
+16b/	jour
+16cc#/	s'y
+8.a	pro-
+16g	-me-
+=3	=3
+*M2/4	*
+4.a;,	-nant,
+*	*pline:1h2r
+8e	un
+!!LO:PB:g=original
+=4	=4
+*M6/8	*
+!upward scoop before following note	!
+4a	jour,
+8b/	s'y
+!plus sign before following note	!
+8.cc	pro-
+16dd	-me-
+(8cc	-nant,
+=5	=5
+*M9/8	*
+8b)	.
+*	*pline:1h2r
+!following courtesy natural sign in parentheses	!
+16ccnXL	un
+16bJ	.
+[8a\	jour,
+4a\]	.
+8b	s'y
+8cc	pro-
+16ddL	-me-
+16ccJ	.
+[8b	-nant,
+=6	=6
+*M6/8	*
+[4.b]	.
+4b],	.
+*	*pline:2h1
+8b	Ell[e]
+!!LO:PB:g=original
+=7	=7
+4a	a-
+8b/	-per-
+8cc	-çoit
+16dd	ve-
+(16cc	-nir-
+[8b)	.
+=8	=8
+*M9/8	*
+8b]	.
+16ccL	.
+16bJ	.
+16aL	.
+[16gJ\	-e,
+[4.g]	.
+4g],	.
+*	*pline:2h1r
+!upward scoop before following note	!
+8b/	Ell[e]
+=9	=9
+*M6/8	*
+8.aL	a-
+16gJ	.
+8f#	-per-
+8g	-çoit
+16aL	ve-
+16gJ	.
+8f#	-ni-
+=10	=10
+4.e	-re
+*	*pline:2h2
+[4.a	trois
+!!LO:PB:g=original
+=11	=11
+8a]	.
+8.b/	ma-
+16cc/	-ri-
+4a	-niers
+8g	chan-
+=12	=12
+[4.a	-tant,
+4a],	.
+*	*pline:2h2r
+8e	trois
+=13	=13
+4a	ma-
+8b/	-ri-
+!plus sign before following note	!
+8cc	-niers
+16ddL	chan-
+16ccJ	.
+16ccL	-tant,
+[16bJ	.
+=14	=14
+*M6/8	*
+4b]	.
+*	*pline:2h2r
+16ccL	trois
+16bJ	.
+4a	ma-
+8b/	-ri-
+=15	=15
+8cc	-niers
+16ddL	chan-
+16ccJ	.
+16ccL	-tant.
+[16bJ	.
+=16	=16
+4.b]	.
+4r	.
+==	==
+*-	*-
+!!!EED1: Samuel Boone
+!!!EEV1: 2026/11/23
