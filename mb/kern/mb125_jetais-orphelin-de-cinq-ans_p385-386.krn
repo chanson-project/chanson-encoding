@@ -1,0 +1,112 @@
+!!!id: mb125
+!!!page: 385-386
+!!!COM: Anonymous
+!!!LYR: Anonymous
+!!!OCL: Marius Barbeau
+!!!PTL@@FR: Le Rossignol y Chante
+!!!OTL@@FR: J'étais orphelin de cinq ans
+!!!PPR: Ministère du Nord Canadien et des Resources Nationales, Musée National du Canada
+!!!PDT: 1962
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*e?:	*
+*M2/4	*
+*	*v:1
+*	*pline:1
+!!LO:TX:omd:tempo:a:t=[quarter]=120
+8d	J'é-
+=1	=1
+8a	-tais
+8b/	or-
+!upward scoop before following note	!
+8cc	-phe-
+8b	-lin
+=2	=2
+*M3/4	*
+2a	de
+8gL	quin-
+8f#J	-ze
+=3	=3
+*M2/4	*
+4.e	ans,
+*	*pline:2
+8e	De
+=4	=4
+8a	pèr',
+8b/	de
+!plus sign before following note	!
+8cc	mèr[e]
+8b	et
+=5	=5
+*M3/4	*
+2a	de
+8gL	pa-
+8f#J	.
+=6	=6
+*M2/4	*
+4.e,	-rents.
+*	*pline:3
+8f#	J'é-
+!!LO:PB:g=original
+=7	=7
+*M3/4	*
+8.g	-tais
+16g	ré-
+(12gL	-duit
+12f#J	.
+12e)	de
+8d	cet-
+8e	-te
+=8	=8
+4f#	sor-
+[4e	-te
+8e],	.
+*	*pline:4
+8f#	D'man-
+=9	=9
+8.g	-dant
+16g	.
+8g	mon
+(12f#L	pain
+12eJ	.
+[12d)	de
+!added tie to 16th note to fix duration	!
+16d]	.
+16e	port[e]
+=10	=10
+4f#	en
+4.e,	port[e].
+*	*pline:5
+8e	Un
+!!LO:PB:g=original
+=11	=11
+*M2/4	*
+8a	bon
+8b/	mar-
+!upward scoop before following note	!
+8.cc	-chant
+16b	par
+=12	=12
+*M3/4	*
+2a	cha-
+8gL	-ri-
+8f#J	.
+=13	=13
+8e	-té
+*	*pline:6
+8f#	D'ma
+8g	pau-
+8a	-vre-
+8b/	-té
+8g	a
+=14	=14
+*M2/4	*
+4f#	eu
+4e	pi-
+=15	=15
+4.d	-tié.
+==	==
+*-	*-
+!!!EED1: Samuel Boone
+!!!EEV1: 2026/11/23
