@@ -1,0 +1,104 @@
+!!!id: mb137b
+!!!page: 413-416
+!!!COM: Anonymous
+!!!LYR: Anonymous
+!!!OCL: Marius Barbeau
+!!!PTL@@FR: Le Rossignol y Chante
+!!!OTL@@FR: C'est un garçon vive-la-joie
+!!!PPR: Ministère du Nord Canadien et des Resources Nationales, Musée National du Canada
+!!!PDT: 1962
+**kern
+*clefG2
+*k[f#,c#]
+*D:
+*M6/8
+*
+*
+!!LO:TX:omd:tempo:a:t=[quarter.]=62
+8d
+8f#
+8e
+=1
+4.d
+8f#
+8d/
+8f#
+*>B
+=!|:2
+!upward scoop before following note
+[4.a
+4a]
+8f#
+=3
+!upward scoop before following note
+4b/
+8a
+8a;L
+16g
+16f#J
+8g
+!!LO:PB:g=original
+=4
+!changed following time signature from 9/8 to 6/8, so that I could encode 1st & 2nd endings properly
+!upward scoop before following note
+4a
+!unknown symbol before following note
+8g
+4f#
+8r
+*>B1
+!added 3/8 measure to make 1st & 2nd endings work properly
+=5
+*M3/8
+8e
+8f#
+8e
+=6
+*M6/8
+4.d
+8e
+8d
+8f#
+*>B2
+=:|:5
+!changed following measure to 3/8 for simplicity
+*M3/8
+!upward scoop before following note
+8g
+8f#
+8a
+*>BX
+=6
+*M6/8
+(8b^/
+4a)
+!upward scoop before following note
+8dd
+8a
+[8f#
+!!LO:PB:g=original
+=7
+*M9/8
+4f#]
+16eL
+16dJ
+4.f#
+8a
+8f#
+8d
+=8
+*M6/8
+4e
+16f#
+16g
+4f#
+16eL
+16dJ
+=9
+4d
+8r
+==
+*-
+!!!RWG: Issue with time signatures and encoding the 1st & 2nd endings, had to change some of them, and the 6/8 in (the first) m.6 does not display for some reason
+!!!EED1: Samuel Boone
+!!!EEV1: 2026/11/24
