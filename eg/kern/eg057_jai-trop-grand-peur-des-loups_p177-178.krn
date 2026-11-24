@@ -24,6 +24,9 @@
 8a	la	ren-	bien	l'autre	de-	soir	vous	bon	vous
 8cc#	Ven-	-con-	mon-	à	-man-	cou-	vou-	sou-	cou-
 8b/	-dée,	-tré,	-tés,	pied;	-dé:	-cher?"	-lez;"	-per,"	-cher."
+*	*rp:e	*rp:e	*rp:e	*rp:e	*rp:e	*rp:e	*rp:e	*rp:e	*rp:e
+*	*rf:e	*rf:e	*rf:e	*rf:e	*rf:e	*rf:e	*rf:e	*rf:e	*rf:e
+*	*rs:a	*rs:a	*rs:a	*rs:a	*rs:a	*rs:a	*rs:a	*rs:a	*rs:a
 8r	.	.	.	.	.	.	.	.	.
 !!LO:PB:g=original
 *	*pline:1r	*pline:2r	*pline:3r	*pline:4r	*pline:5r	*pline:6r	*pline:7r	*pline:8r	*pline:9r
@@ -37,6 +40,9 @@
 8a	la	ren-	bien	l'autre	de-	soir	vous	bon	vous
 8cc#	Ven-	-con-	mon-	à	-man-	cou-	vou-	sou-	cou-
 8b	-dée,	-tré,	-tés,	pied;	-dé:	-cher?"	-lez;"	-per,"	-chez."
+*	*rp:e	*rp:e	*rp:e	*rp:e	*rp:e	*rp:e	*rp:e	*rp:e	*rp:e
+*	*rf:e	*rf:e	*rf:e	*rf:e	*rf:e	*rf:e	*rf:e	*rf:e	*rf:e
+*	*rs:a	*rs:a	*rs:a	*rs:a	*rs:a	*rs:a	*rs:a	*rs:a	*rs:a
 8r	.	.	.	.	.	.	.	.	.
 *	*pline:2	*pline:3	*pline:4	*pline:5	*pline:6	*pline:7	*pline:8	*pline:9	*pline:10
 =5	=5	=5	=5	=5	=5	=5	=5	=5	=5
@@ -50,6 +56,9 @@
 8a	ren-	bien	l'autre	de-	soir	vous	bon	vous	ac-
 8g#	-con-	mon-	à	-man-	cou-	vou-	sou-	cou-	-cep-
 8.f#	-tré....	-tés.	pied.	-dé....	-cher?"	-lez."	-per."	-cher."	-té.
+*	*rp:e	*rp:e	*rp:e	*rp:e	*rp:e	*rp:e	*rp:e	*rp:e	*rp:e
+*	*rf:e	*rf:e	*rf:e	*rf:e	*rf:e	*rf:e	*rf:e	*rf:e	*rf:e
+*	*rs:a	*rs:a	*rs:a	*rs:a	*rs:a	*rs:a	*rs:a	*rs:a	*rs:a
 *>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain	*>Refrain
 *	*refrain	*	*	*	*	*	*	*	*
 *	*italic	*	*	*	*	*	*	*	*
@@ -62,6 +71,9 @@
 =8	=8	=8	=8	=8	=8	=8	=8	=8	=8
 4cc#	tou-	.	.	.	.	.	.	.	.
 4b	-jours;	.	.	.	.	.	.	.	.
+*	*rp:u	*	*	*	*	*	*	*	*
+*	*rf:uʁ	*	*	*	*	*	*	*	*
+*	*rs:b'	*	*	*	*	*	*	*	*
 !!LO:PB:g=original
 *	*rline:R2	*	*	*	*	*	*	*	*
 =9	=9	=9	=9	=9	=9	=9	=9	=9	=9
@@ -74,6 +86,9 @@
 8a	-rai	.	.	.	.	.	.	.	.
 8g#	chez	.	.	.	.	.	.	.	.
 8.f#	nous:	.	.	.	.	.	.	.	.
+*	*rp:u	*	*	*	*	*	*	*	*
+*	*rf:u	*	*	*	*	*	*	*	*
+*	*rs:b	*	*	*	*	*	*	*	*
 *	*rline:R3	*	*	*	*	*	*	*	*
 16f#	J'ai	.	.	.	.	.	.	.	.
 =11	=11	=11	=11	=11	=11	=11	=11	=11	=11
@@ -84,10 +99,16 @@
 =12	=12	=12	=12	=12	=12	=12	=12	=12	=12
 4b/	des	.	.	.	.	.	.	.	.
 8a	loups.	.	.	.	.	.	.	.	.
+*	*rp:u	*	*	*	*	*	*	*	*
+*	*rf:u	*	*	*	*	*	*	*	*
+*	*rs:b	*	*	*	*	*	*	*	*
 *	*Xitalic	*	*	*	*	*	*	*	*
 *	*Xrefrain	*	*	*	*	*	*	*	*
 8r	.	.	.	.	.	.	.	.	.
 ==	==	==	==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-
 !!!EED1: Samuel Boone
+!!!EEV1:
+!!!EED2: Ève Poudrier
+!!!EEV2: 2026/11/24
 !!!EEV1: 2026/06/15
