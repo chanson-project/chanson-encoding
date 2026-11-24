@@ -1,0 +1,137 @@
+!!!id: mb137d
+!!!page: 413-416
+!!!COM: Anonymous
+!!!LYR: Anonymous
+!!!OCL: Marius Barbeau
+!!!PTL@@FR: Le Rossignol y Chante
+!!!OTL@@FR: C'est un garçon vive-la-joie
+!!!PPR: Ministère du Nord Canadien et des Resources Nationales, Musée National du Canada
+!!!PDT: 1962
+**kern	**text
+*clefG2	*
+*k[b-,e-,a-]	*
+*E-:	*
+*M3/8	*
+*	*v:1
+*	*pline:1h1
+=1	=1
+!!LO:TX:omd:tempo:a:t=[quarter]=112
+8e-	C'est
+8g	un
+8f	gar-
+=2	=2
+!upward scoop before following note	!
+4.e-	-çon
+=3	=3
+16gL	vi-
+16fJ	.
+8e-	-ve--
+16gL	la--
+!following accent in opposite direction, might also be crescendo but unsure	!
+16anJ^	.
+=4	=4
+!upward scoop before following note	!
+4b-/,	joie
+*	*pline:1h2
+8b-/	s'en
+=5	=5
+!upward scoop before following note	!
+4cc	al-
+8b-	-lant
+=6	=6
+8b-L	en
+8a-q	.
+8gJ	.
+!plus sign before following note	!
+8b-/	cam-
+!!LO:PB:g=original
+=7	=7
+8ccq	.
+8b-L	-pa-
+16a-	.
+16g	.
+8a-J	.
+=8	=8
+(16b-qL	.
+16a-qJ	.
+4.g)	-gnes.
+*	*pline:1h1r
+=9	=9
+16e-L	C'est
+16fJ	.
+8g	un
+(16gL	gar-
+16fJ)	.
+=10	=10
+!upward scoop before following note	!
+4.e-	-çon
+=11	=11
+16gL	vi-
+16fJ	.
+8e-	-ve--
+16gL	la--
+16anJ	.
+=12	=12
+!upward scoop before following note	!
+4b-/,	joie,
+*	*pline:1h2r
+8b-/	s'en
+!!LO:PB:g=original
+=13	=13
+(8b-q	.
+4cc)	al-
+8b-	-lant
+=14	=14
+(8b-L	en
+8gJ)	.
+8b-/	cam-
+=15	=15
+(8ccq	.
+4b-/)	-pa-
+!unknown symbol before following note	!
+8a-	-gnes.
+=16	=16
+!following measure short an eighth note	!
+4g,	.
+*	*pline:2
+=17	=17
+!upward scoop before following note	!
+8b-/	Il
+8g	a
+8b-/	bien
+=18	=18
+8ccL	é-
+8ddJ	.
+8ee-	-té
+!!LO:PB:g=original
+=19	=19
+8b-/	qua-
+16.gL	-torz[e]
+32f	.
+16.e-	.
+32fJ	.
+=20	=20
+!unknown symbol before following note	!
+4.g	ans
+*	*pline:3
+=21	=21
+8b-/	Sans
+16gL	a-
+16fJ	.
+8e-	-voir
+=22	=22
+!unknown symbol before following note	!
+4f	nou-
+8g	-vell's
+=23	=23
+8g	de
+16fL	ses
+16gJ	.
+16fL	pa-
+16e-J	.
+=24	=24
+4.e-	-rents.
+==	==
+*-	*-
+!!!EED1: Samuel Boone
+!!!EEV1: 2026/11/24
