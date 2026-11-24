@@ -1,0 +1,104 @@
+!!!id: mb128
+!!!page: 393-394
+!!!COM: Anonymous
+!!!LYR: Anonymous
+!!!OCL: Marius Barbeau
+!!!PTL@@FR: Le Rossignol y Chante
+!!!OTL@@FR: À l'abri d'une olive
+!!!PPR: Ministère du Nord Canadien et des Resources Nationales, Musée National du Canada
+!!!PDT: 1962
+**kern	**text
+*clefG2	*
+*k[f#,c#]	*
+*A:	*
+*M6/8	*
+*	*v:1
+*	*pline:1h1
+!!LO:TX:omd:tempo:a:t=[quarter]=84
+8dd	À
+=1	=1
+8bL	l'a-
+8aJ	.
+8g	-bri
+8aL	d'u-
+8bJ	-ne
+8cc#/	o-
+=2	=2
+4.b	-li-
+4a	-ve,
+*	*pline:1h2
+8dd	y a-t--
+=3	=3
+8bL	un
+8aJ	.
+8g	na-
+8aL	-vir'
+8bJ	.
+8cc#/	d'é-
+=4	=4
+4b	-choué.
+*	*pline:2h1
+8b	Trois
+4e	jo-
+8b/	-li's
+!!LO:PB:g=original
+=5	=5
+4b/	de-
+8b/	-moi-
+8a	-sel-
+8g	-les
+*	*pline:2h2
+8b/	s'en
+=6	=6
+4.a	vont
+8a	s'y
+8g	pro-
+8e	-me-
+=7	=7
+4.g	-ner.
+*>Refrain	*>Refrain
+*	*refrain
+*	*italic
+*	*rline:R1
+8a	Dor-
+8b/	-mez,
+8cc#/	la
+=8	=8
+4.b	bell',
+8a	chan-
+8g	-tez
+8f#	le
+!!LO:PB:g=original
+=9	=9
+4e	jour,
+8d	.
+*	*rline:R2
+8e	Nos
+8f#	jo-
+8g	-li[e]s
+=10	=10
+4a	a-
+8b/	-mou-
+4a	-ret-
+8g	-tes!
+*	*rline:R3h1
+=11	=11
+8a	Chan-
+8b/	-tez
+8cc#/	l'a-
+(8bL	-mour
+8aJ)	.
+*	*rline:R3h2
+8g	tou-
+=12	=12
+!changed time signature to 7/8 here, since there are 7 eighth notes	!
+*M7/8	*
+[4.a	-jours!
+4a]	.
+8r	.
+*	*Xitalic
+*	*Xrefrain
+==	==
+*-	*-
+!!!EED1: Samuel Boone
+!!!EEV1: 2026/11/23
