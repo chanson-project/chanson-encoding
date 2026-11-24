@@ -1,0 +1,118 @@
+!!!id: mb122b
+!!!page: 377-380
+!!!COM: Anonymous
+!!!LYR: Anonymous
+!!!OCL: Marius Barbeau
+!!!PTL@@FR: Le Rossignol y Chante
+!!!OTL@@FR: Le jour de l'Ascension
+!!!PPR: Ministère du Nord Canadien et des Resources Nationales, Musée National du Canada
+!!!PDT: 1962
+**kern	**text
+*clefG2	*
+*k[]	*
+*d:	*
+*M2/4	*
+*	*v:1
+*	*pline:1
+!!LO:TX:omd:tempo:a:t=[quarter]=94
+8a	Le
+=1	=1
+!upward scoop before following note	!
+4.dd	jour
+8dd	de
+=2	=2
+4cc	l'As-
+!downward scoop before following note	!
+4cc	-cen-
+=3	=3
+4.f,	-sion,
+*	*pline:2
+8g	Un
+=4	=4
+8a	mal-
+8g	-heu-
+8.f	-reux
+!grace note after following note	!
+(16e	gar-
+8dq)	.
+=5	=5
+2d,	-çon
+*	*pline:3
+!!LO:PB:g=original
+=6	=6
+!upward scoop before following note	!
+4dd	S'en
+8.dd	va
+16dd	comm[e]
+=7	=7
+*M3/4	*
+8ee	un
+8dd	glou-
+16ddL	-ton
+8ccJ	.
+*	*pline:4
+16b	Se
+8a	saou-
+8b/	-ler
+=8	=8
+*M2/4	*
+4cc	de
+8..ccL	bois-
+32bJ	.
+=9	=9
+4.a	-son.
+*	*pline:3r
+8a	S'en
+!!LO:PB:g=original
+=10	=10
+16aL	va
+16bJ	.
+8cc	comm[e]
+8.dd	un
+16cc	glou-
+=11	=11
+(4a	-ton,
+8g)	.
+*	*pline:5
+8f	Sans
+=12	=12
+8g	en-
+!upward scoop before following note	!
+8cc	-ten-
+8.cc	-dre
+16cc	la
+=13	=13
+*M3/4	*
+!assuming following notes are 'a', 'g', and 'f', but slightly unclear	!
+8..aL	mes-
+32gJ	.
+4.f,	-se.
+*	*pline:3r
+8a	S'en
+!!LO:PB:g=original
+=14	=14
+*M2/4	*
+8dd	va
+8cc	comm[e]
+8b	un
+8a	glou-
+=15	=15
+8a	-ton
+*	*pline:4r
+16gL	Se
+16fJ	.
+8e	saou-
+8g	-ler
+=16	=16
+!upward scoop before following note	!
+4a	de
+!added missing dot to note value below	!
+(8.fL	bois-
+8dq	.
+16eJ)	.
+=17	=17
+4.d	-son.
+==	==
+*-	*-
+!!!EED1: Samuel Boone
+!!!EEV1: 2026/11/23
