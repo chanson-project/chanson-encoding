@@ -1,0 +1,232 @@
+!!!id: mb122c
+!!!page: 377-380
+!!!COM: Anonymous
+!!!LYR: Anonymous
+!!!OCL: Marius Barbeau
+!!!PTL@@FR: Le Rossignol y Chante
+!!!OTL@@FR: Le jour de l'Ascension
+!!!PPR: Ministère du Nord Canadien et des Resources Nationales, Musée National du Canada
+!!!PDT: 1962
+**kern	**text
+*clefG2	*
+*k[f#,c#]	*
+*b:	*
+*M2/4	*
+*	*v:1
+*	*pline:1
+(4f#	Le
+!following bar line has a flag, as though it were an eighth note	!
+=1	=1
+4.b/)	jour
+8b/	de
+=2	=2
+8bq	.
+4a	l'As-
+4a	-cen-
+=3	=3
+4.d	-sion,
+*	*pline:2
+8e	Ce
+=4	=4
+8.f#	mal-
+16e	-heu-
+8.f#	-reux
+16d	gar-
+=5	=5
+8c#	-çon
+!unknown symbol between notes	!
+4.B,	.
+*	*pline:3
+=6	=6
+!upward scoop before following note	!
+4.b	Dré
+8cc#	le
+=7	=7
+(8ddL	ma-
+16bJ)	.
+16b	-tin
+(12bL	par-
+12a	.
+12gJ)	.
+!!LO:PB:g=original
+=8	=8
+*M3/4	*
+(16aL	-tit
+16gJ	.
+4f#)	.
+8g	de
+8.a	la
+16g	mai-
+=9	=9
+*M2/4	*
+(16aL	-son.
+16gJ	.
+4.f#;)	.
+*	*pline:4
+=10	=10
+8f#	S'en
+16f#	va
+16f#	comm[e]
+8.g	un
+16f#	glou-
+=11	=11
+*M3/4	*
+4f#	-ton,
+!unknown symbol between notes	!
+4e	.
+*	*pline:5
+8.e	Sans
+16e	en-
+!!LO:PB:g=original
+=12	=12
+(8eq	.
+2a)	-ten-
+16bL	-dre
+8aJ	.
+16a	la
+=13	=13
+*M2/4	*
+16aL	mes-
+[16f#J	.
+4f#]	.
+8e	.
+=14	=14
+4.d	-se,
+*	*pline:4r
+8e	S'en
+=15	=15
+8.f#	va
+16g#	comm[e]
+8.a	un
+16f#	glou-
+=16	=16
+*M3/4	*
+(16f#L	-ton
+8eJ)	.
+*	*pline:6
+(16d	S'e-
+8.f#)	-ni-
+16e	-vrer
+8.d	de
+16c#	bois-
+!!LO:PB:g=original
+=17	=17
+!missing eighth note duration from measure	!
+8d	-son.
+!unknown symbol between notes	!
+4B	.
+=||	=||
+*	*v:2
+*	*pline:7
+8r	.
+8c#	Et
+=18	=18
+!upward scoop before following note	!
+4.b	quand
+8ccn	il
+(16bL	eut
+8aJ)	.
+16a	bien
+=19	=19
+*M2/4	*
+4.d	bu,
+*	*pline:8
+8e	Bien
+=20	=20
+8.f#	bu,
+16e	bien
+8.f#	e-
+16d	-ni-
+=21	=21
+8c#	-vré,
+!unknown symbol between notes	!
+4.B	.
+*	*pline:9
+!!LO:PB:g=original
+=22	=22
+*M3/4	*
+!upward scoop before following note	!
+4.b	Cas-
+8cc#	-sa
+(12b/	les
+12a	verr's
+12g)	de
+=23	=23
+(16aL	ce
+16gJ	.
+4f#)	.
+8g	mau-
+8.a	-dit
+16g	mé-
+=24	=24
+*M2/4	*
+4a	-tier.
+!unknown symbol between notes	!
+8gL	.
+[8f#J	.
+=25	=25
+4f#]	.
+8r	.
+*	*pline:10
+8f#	A-
+!!LO:PB:g=original
+=26	=26
+16f#L	-lors,
+8eJ	.
+16f#	s'en
+8.g	est
+16f#	al-
+=27	=27
+4f#	-lé
+!unknown symbol between notes	!
+[4e	.
+=28	=28
+4e],	.
+*	*pline:11
+!unknown symbol between notes	!
+8.e	Au
+16f#	lo-
+=29	=29
+!scoop under following note	!
+8.a	-gis
+16a	de
+!upward scoop before following note	!
+8.b/	chez
+16a	son
+=30	=30
+(8a	pè-
+4f#)	.
+!unknown symbol between notes	!
+8e	.
+!!LO:PB:g=original
+=31	=31
+4.d	-re,
+*	*pline:12
+8e	Sans
+=32	=32
+*M3/4	*
+8.f#	tar-
+16g#	-der
+8.a	un
+16f#	ins-
+(16f#L	-tant,
+8eJ)	.
+*	*pline:13
+16d	Pour
+=33	=33
+*M2/4	*
+!upward scoop before following note	!
+4f#	cher-
+(12e	-cher
+12d	de
+12c#)	l'ar-
+=34	=34
+8d	-gent.
+!unknown symbol between notes	!
+4.B	.
+==	==
+*-	*-
+!!!RWG: Unsure if unknown symbol means turn, left as a kern note for now
+!!!RWG: pline labelling probably needs a second look
+!!!EED1: Samuel Boone
+!!!EEV1: 2026/11/23
