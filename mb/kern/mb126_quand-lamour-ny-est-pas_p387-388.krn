@@ -1,0 +1,93 @@
+!!!id: mb126
+!!!page: 387-388
+!!!COM: Anonymous
+!!!LYR: Anonymous
+!!!OCL: Marius Barbeau
+!!!PTL@@FR: Le Rossignol y Chante
+!!!OTL@@FR: Quand l'amour n'y est pas
+!!!PPR: Ministère du Nord Canadien et des Resources Nationales, Musée National du Canada
+!!!PDT: 1962
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*g:	*
+*M2/4	*
+*	*v:1
+*	*pline:1h1
+!!LO:TX:omd:tempo:a:t=[quarter]=66
+8g	Mon
+=1	=1
+8g	pè-
+8b-/	-re
+8dd	m'y
+(16ddL	ma-
+16ccJ)	.
+=2	=2
+(16ddL	-ri-
+16ccJ)	.
+4b-	-e
+*	*pline:1h2
+(16ddL	à
+16ccJ)	.
+=3	=3
+8b-	l'â-
+8cc	-ge
+8b-/	de
+8a	quinz[e]
+=4	=4
+2g	ans.
+*	*pline:2h1
+!!LO:PB:g=original
+=5	=5
+4.a	Il
+16b-/	m'a
+16a	don-
+=6	=6
+(8gL	-né[e]
+8fJ)	.
+8g	à
+(16aL	un
+16gJ)	.
+=7	=7
+4.g	homm[e]
+*	*pline:2h2
+8a	â-
+=8	=8
+8b-/	-gé
+8cc/	de
+(16ddL	soi-
+16eeJ)	.
+(16ddL	-xan-
+16ccJ)	-te
+=9	=9
+2b-	ans.
+*	*pline:3h1
+!!LO:PB:g=original
+=10	=10
+4.dd	Et
+(16ffL	moi,
+16ddJ)	.
+=11	=11
+(8ddL	jeu-
+8ccJ)	.
+(16aL	-ne
+16b-J)	.
+8cc/	fil-
+=12	=12
+(16b-L	-let-
+16aJ)	.
+4g	-te,
+*	*pline:3h2
+8a	com-
+=13	=13
+8b-/	-ment
+8cc/	pas-
+8dd	-ser
+(16b-L	mon
+16aJ)	.
+=14	=14
+4.g	temps?
+==	==
+*-	*-
+!!!EED1: Samuel Boone
+!!!EEV1: 2026/11/23
