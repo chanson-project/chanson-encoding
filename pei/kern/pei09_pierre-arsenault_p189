@@ -7,79 +7,87 @@
 **kern	**text
 *clefG2	*
 *k[f#,c#]	*
-*G	*
-*M	*
-!!LO:TX:a:t=([doted quarter]=96)
-*>PartA	*>PartA
+*D:	*
 *	*v:1
 *	*pline:1
-=1:	=1:
-(8.d	Par
-(8d)	*
-8e)	*
+!!LO:TX:a:t=([quarter.]=96) Rubato
+(4.d	Par
+(4d)	.
+8e)	.
 (8f#L	un
-8gJ)	*
+8gJ)	.
 8a	beau
 (2a	jour
-8.a)	*
+8.a)	.
 8.a	qu'il
-8.g	e-
-(16f#L	tait
-16gJ	*
-16a)	*
-8.a	a
+8.g	é-
+(16f#L	-tait
+16g	.
+16aJ)	.
+8.a	à
 8g	la
-(2f#	pe-
-8e)	*
-(4.d	che
-4d)	*
-r4	*
-=2	=2
+(2f#	pê-
+8e)	.
+(4.d	-che
+4d)	.
+4r	.
+!!LO:PB:g=original
+=.	=.
+*	*pline:2
 8d	Le
 4e	temps
 (8f#	a-
-4.a)	vait
+4.a)	-vait
 4a	au-
-8g	cun'
-(16fL	min'
-16gJ	*
-16a)	*
+8g	-cun'
+(16f#L	min'
+16g	.
+16aJ)	.
 4a	de
 8g	tem-
-(4.f	pe-
-8e)	*
-4.d	tre
-4r	*
-=3	=3
-8f#	A
-4f#	pres
+(4.f#	-pê-
+8e)	.
+!	!sic: original has "tre".
+4.d	-te
+4r	.
+!!LO:PB:g=original
+=.	=.
+*	*pline:3
+8f#	A-
+4f#	-près
 8f#	a-
-(8f#	voir
-4.e)	*
-8e	Ter-
-8f#	mi-
-8e	ne
+(8f#	-voir
+4.e)	.
+8e	ter-
+8f#	-mi-
+8e	-né
 (8dL	sa
-8c#J)	*
+8c#J)	.
 8d	jour-
-4.e	nee
-4r	*
-=4	=4
+4.e,	-née
+4r	.
+!!LO:PB:g=original
+=.	=.
+*	*pline:4
 8d	En
 4f#	s'en
 8g	al-
-2a	lant
+2a	-lant
 4f#	sa
 8e	cha-
-(16dL	loup'
-16eJ	*
-8f#)	*
-4e	a
+(16dL	-loup'
+16e	.
+8f#J)	.
+(8f#q	.
+4e)	a
 8f#	som-
-4.d	bre
-=5	=5
-
-
-
-
-
+(8eq	.
+4.d)	-bré.
+==	==
+*-	*-
+!!!EED1: Christy Watts
+!!!EEV1: 2026/11/04
+!!!EED2: Ève Poudrier
+!!!EEV2: 2026/11/23
+!!!RNB: Ornements other than appoggiaturas have not been encoded.
+!!!RWG: The original has a spelling error in "tempête"; this has been corrected.
