@@ -1,0 +1,199 @@
+!!!id: mb141b
+!!!page: 425-428
+!!!COM: Anonymous
+!!!LYR: Anonymous
+!!!OCL: Marius Barbeau
+!!!PTL@@FR: Le Rossignol y Chante
+!!!OTL@@FR: Je vas vous raconter
+!!!PPR: Ministère du Nord Canadien et des Resources Nationales, Musée National du Canada
+!!!PDT: 1962
+**kern	**text
+*clefG2	*
+*k[f#,c#]	*
+*D:	*
+*M2/4	*
+*	*v:1
+*	*pline:1
+!!LO:TX:omd:tempo:a:t=[quarter]=98
+8aL	Je
+8gJ	.
+=1	=1
+8f#	vas
+8a	vous
+!upward scoop before following note	!
+8dd	ra-
+8b	-con-
+=2	=2
+24bL	-ter,
+24cc#	.
+24bJ	.
+4a	.
+8g	c'sont
+*	*pline:2
+=3	=3
+8f#	Des
+8a	an-
+8dd	-né's,
+8b	pas-
+=4	=4
+24bL	-sé's,
+24cc#	.
+24bJ	.
+8a\	.
+*	*pline:3
+8gL	Que
+8f#J	.
+=5	=5
+8a	dans
+8g	un[e]
+8d	en-
+8f#	-tre-
+!!LO:PB:g=original
+=6	=6
+8aL	-fai-
+24b	.
+24a	.
+24gJ	.
+8f#	-te
+*	*pline:4
+8a	Sans
+=7	=7
+8b/	des
+8a	tam-
+16gL	-bours
+8eJ	.
+16f#	trom-
+=8	=8
+16gL	-pet-
+16f#	.
+8gJ	.
+8f#	-tes,
+*	*pline:5
+8d	É-
+=9	=9
+8e	-cou-
+8a	-tez
+(24gL	moi
+24f#	.
+24gJ)	.
+8e	par-
+=10	=10
+4.d,	-ler!
+*	*pline:6
+8d	Je
+!!LO:PB:g=original
+=11	=11
+8f#	fus
+8f#	un
+!upward scoop before following note	!
+8a	des
+8a	pre-
+=12	=12
+8a	-miers
+!following fermata upside-down	!
+4d;	.
+*	*pline:7
+8e	À
+=13	=13
+!upward scoop before following note	!
+8.f#	ren-
+16e	-trer
+8.d	en
+16f#	ba-
+=14	=14
+8aL	-tai-
+24g	.
+24f#	.
+24gJ	.
+8f#,	-lle,
+*	*pline:8
+8a	Et
+=15	=15
+8b/	moi,
+8a	je
+8e	coup',
+8f#	j'en-
+=16	=16
+4g	-tai-
+8f#	-lle,
+8d	ils
+!!LO:PB:g=original
+=17	=17
+8e	de-
+8a	-man-
+16gL	-dent
+16f#J	.
+8e	quar-
+=18	=18
+[2d	-tier.
+=!|:19	=!|:19
+4d],	.
+*	*v:2
+*	*pline:9
+!unknown marking before following note	!
+8.gL	Il
+16f#J	.
+=20	=20
+8f#	tom-
+8a	-bas
+!upward scoop before following note	!
+8dd	à
+8b	mes
+=21	=21
+(8cc#	pieds
+4a)	.
+*	*pline:10
+8g	Tant
+=22	=22
+8f#	de
+8a	morts
+8cc#	que
+8b	d'bles-
+!!LO:PB:g=original
+=23	=23
+(24bL	-sés.
+24cc#	.
+24bJ)	.
+4a	.
+*	*pline:11
+8g	Et
+=24	=24
+!following measure just one sextuplet in original	!also not sure about syllable division
+(12f#	les
+12f#	mil-
+12a	-lieurs
+12f#	de
+12d	l'An-
+12f#)	-gle-
+=25	=25
+8.aL	-ter-
+16gJ	.
+8f#,	-re,
+*	*pline:12
+8a	Nous
+=26	=26
+8.b/	les
+16a	je-
+8.e	-tions
+16f#	par-
+=27	=27
+4g	-ter-
+8f#	-re.
+*	*pline:13
+!plus sign before following note	!
+8d	Nous
+=28	=28
+8.e	les
+16a	croy-
+!plus sign before following note	!
+8g	-eons
+8e	tous
+=29	=29
+(8f#	tu-
+4.d)	-és
+=30	=30
+4r	.
+==	==
+*-	*-
+!!!EED1: Samuel Boone
+!!!EEV1: 2026/11/25
