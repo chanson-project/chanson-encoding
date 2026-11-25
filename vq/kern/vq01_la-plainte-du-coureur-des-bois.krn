@@ -140,7 +140,7 @@
 4.f	-ant!
 8r}	.
 *	*pline:8
-8.f	Nuit
+{8.f	Nuit
 16f	et
 !!LO:PB:g=original
 =20	=20
@@ -168,9 +168,9 @@
 =||23	=||23
 *k[b-, e, a]	*
 2f	-temps,
-8r	.
+8r}	.
 *	*pline:10
-8f	Le
+{8f	Le
 =24	=24
 4.g	beau
 8a	et
@@ -181,9 +181,9 @@
 (8a	-temps,
 4ccH/	.
 !slur extended forward	!
-4bh/)	.
+4bh/)}	.
 *	*pline:11
-8cc	Car
+{8cc	Car
 =26	=26
 *M2/4	*
 8.g	c'est
@@ -215,9 +215,9 @@
 (8a	-mants
 4cc/	.
 !slur extended forward	!
-4b/)	.
+4b/)}	.
 *	*pline:13
-8cc	A-
+{8cc	A-
 =31	=31
 *M2/4	*
 8.g	-vec
@@ -232,11 +232,11 @@
 8.aJ)	.
 =33	=33
 *M3/4	*
-4.f	-les.
+4.f}	-les.
 ==	==
 *-	*-
 !!!EED1: Leo Geng
 !!!EEV1: 2026/10/01
 !!!EED2: Ève Poudrier
-!!!EEV2: 2026/11/05
+!!!EEV2: 2026/11/25
 !!!RNB: Original time signature is 3/4 2/4; time signature added in the score as time signature changes. Several slurs extended to include all notes sung on the same syllable.
