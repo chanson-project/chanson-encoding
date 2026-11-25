@@ -1,0 +1,129 @@
+!!!id: mb142
+!!!page: 435-436
+!!!COM: Anonymous
+!!!LYR: Anonymous
+!!!OCL: Marius Barbeau
+!!!PTL@@FR: Le Rossignol y Chante
+!!!OTL@@FR: La courte paille
+!!!PPR: Ministère du Nord Canadien et des Resources Nationales, Musée National du Canada
+!!!PDT: 1962
+**kern	**text
+*clefG2	*
+*k[b-,e-]	*
+*F:	*
+*M9/8	*
+*	*v:1
+*	*pline:1h1
+!!LO:TX:omd:tempo:a:t=[eighth]=102
+8c	Quand
+4f	j'ai
+8a-	par-
+=1	=1
+[4.cc	-ti
+8ccL]	.
+8ddJ	.
+8ee-	de
+32ddL	mon
+32b-	.
+8.ddJ	.
+8b-	pa-
+=2	=2
+(8cc/	-ys,
+[4a)	.
+4a],	.
+*	*pline:1h2
+8c	n'ai
+4f	pas
+8a	par-
+=3	=3
+[4.cc	-ti
+8ccL]	.
+8ddJ	.
+8ee-	mais
+32ddL	sans
+32b-	.
+8.ddJ	.
+8b-	re-
+!!LO:PB:g=original
+=4	=4
+32cc-L	-grets.
+32b-	.
+[8.aJ/	.
+4a],	.
+*	*pline:2h1
+8a	J'a-
+!upward scoop before following note	!
+4cc-	-vons
+8a	bien
+=5	=5
+4.f	'té
+4.c	sept
+!upward scoop before following note	!
+4f	ans
+8a	sur
+=6	=6
+(8a	mer,
+[4g)	.
+4g],	.
+*	*pline:2h2
+8a	Des-
+!upward scoop before following note	!
+4b-/	-sur
+8g	la
+!!LO:PB:g=original
+=7	=7
+!upward scoop before following note	!
+4cc;	mè-
+(8b-	-re
+4a)	.
+(8f	bien
+!upward scoop before following note, or slur	!
+4g)	é-
+8en	-loi-
+=8	=8
+[4.c	-gné'.
+4c]	.
+*>Refrain	*>Refrain
+*	*refrain
+*	*italic
+*	*rline:R1h1
+!upward scoop before following note	!
+8f	Vi-
+4f	-ve-
+8e-	-rons
+!!LO:PB:g=original
+=9	=9
+(24dL	nous
+24e-	.
+(24dJ	.
+4c)	.
+4c	tou-
+8c	-jours
+4f	en
+4g	tris-
+=10	=10
+(8a	-tes-
+4g)	.
+4g,	-se?
+*	*rline:R1h2
+8g	Au-
+4b-~	-rons--
+8dd	nous
+=11	=11
+4.cc	ja-
+(8a\	-mais
+4cc)	li-
+(24ccL	-ber-
+24dd	.
+24cc)	.
+8b-J	.
+(8g	-té?
+=12	=12
+4.f)	.
+4r	.
+*	*Xitalic
+*	*Xrefrain
+==	==
+*-	*-
+!!!EED1: Samuel Boone
+!!!EEV1: 2026/11/25
