@@ -1,0 +1,131 @@
+!!!id: mb140
+!!!page: 423-424
+!!!COM: Anonymous
+!!!LYR: Anonymous
+!!!OCL: Marius Barbeau
+!!!PTL@@FR: Le Rossignol y Chante
+!!!OTL@@FR: Je suis un jeune conscrit
+!!!PPR: Ministère du Nord Canadien et des Resources Nationales, Musée National du Canada
+!!!PDT: 1962
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/4	*
+*	*v:1
+*	*pline:1
+!!LO:TX:omd:tempo:a:t=[quarter]=68
+!upward scoop before following note	!
+*^	*
+8r	8d	.
+8.g	8.g	Je
+16a	16a	suis
+=1	=1	=1
+!scoop after following note	!	!
+4b/	8bL	un
+.	16cc	.
+.	16bJ	.
+8.a	8.a	.
+16b/	16b	jeu-
+!upward scoop before following note	!	!
+8.dd	8.dd	-ne
+16f#	16f#	con-
+=2	=2	=2
+!	!following note in 2nd verse might be quarter note, unsure	!
+2g;,	2g	-scrit
+*v	*v	*
+*	*pline:2
+8.g	De
+8b/	l'an-
+=3	=3
+8.ddL	-née
+32ee	.
+32ddJ	.
+!scoop after following note	!
+4b	.
+(24gg	dix--
+12.ee	huit
+12b)	cent
+!!LO:PB:g=original
+=4	=4
+4.dd	dix.
+8r	.
+*	*pline:3
+48cc^L	Faut
+48b	.
+48a	.
+8bJ/	.
+16cc/	quit-
+=5	=5
+4dd~	-ter
+8.ee	.
+16dd	le
+16ccL	Lan-
+8aJ/	.
+16a	-gue-
+=6	=6
+4cc	-do',
+8.dd	.
+!	!unsure how following pline should be dealt with
+*	*pline:4
+!following fermata upside-down	!
+16cc;	le
+8bL	Lan-
+16gJ	.
+16g	-gue-
+=7	=7
+8bL	-do',
+24cc	.
+24b	.
+24aJ/	.
+8.b	.
+*	*pline:4r
+!following fermata upside-down	!
+16cc;	le
+!upward scoop before following note	!
+8.dd	Lan-
+16b	-gue-
+!!LO:PB:g=original
+=8	=8
+8.aL	-do'.
+(24b	.
+24a	.
+24f#J)	.
+4d,	.
+*	*pline:3r
+24cc^L	Faut
+24b	.
+24a	.
+8bJ/	.
+16cc/	quit-
+=9	=9
+(4dd~	-ter
+8.ee)	.
+16dd	le
+16ccL	Lan-
+8aJ/	.
+16a	-gue-
+=10	=10
+4.cc,	-do',
+*	*pline:5
+!upward scoop before following note	!
+8dd	A-
+8.b/	-vec
+16g	le
+!!LO:PB:g=original
+=11	=11
+4b	sac-
+!removed erroneous triplet	!
+32ccL	.
+32b	.
+32a	.
+32bJ	.
+8cc	-que
+8.dd	sur
+16f#	le
+=12	=12
+4.g	dos.
+==	==
+*-	*-
+!!!EED1: Samuel Boone
+!!!EEV1: 2026/11/25
