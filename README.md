@@ -220,7 +220,7 @@ NOTE: There is a bug in the text display and the label "REFRAIN" appears at the 
    ```
    | interpretation | meaning | examples |
    |------------| --------  | ---------|
-   | rp | phoneme | vowel of rhyme |
+   | rp | phoneme | assonance (vowel) |
    | rf | phoneme group | full rhyme |
    | rs | lowercase letter | structure label |  
    ```
