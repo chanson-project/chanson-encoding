@@ -26,8 +26,8 @@
 8b/	-ge,
 *	*italic
 16bL	là!
-*	*Xitalic
 8.aJ,}	.
+*	*Xitalic
 *	*pline:1h1r
 {8a	C'é-
 =3	=3
@@ -54,8 +54,8 @@
 8b	-ge,
 *	*italic
 16bL	là!
-*	*Xitalic
 8.aJ,}	.
+*	*Xitalic
 *	*pline:1h1r
 {8a	C'é-
 !!LO:PB:g=original
@@ -81,6 +81,9 @@
 16cc#	le-
 =10	=10
 (8dd#	-vé,
+*	*rp:e
+*	*rf:e
+*	*rs:a
 4b)	.
 *	*rline:R1
 *	*italic
@@ -91,8 +94,8 @@
 =11	=11
 4.a	-dai-
 8a	-ne,
-*	*Xitalic
 8r}	.
+*	*Xitalic
 *	*pline:1h2r
 {8a	Grand
 =12	=12
@@ -104,6 +107,9 @@
 16cc#/	le-
 =13	=13
 (8dd#	-vé,
+*	*rp:e
+*	*rf:e
+*	*rs:a
 4b)	.
 *	*rline:R2
 *	*italic
@@ -112,12 +118,15 @@
 8g#	-don-
 =14	=14
 [4.a	-dé.
-*	*Xitalic
+*	*rp:e
+*	*rf:e
+*	*rs:a
 8a]}	.
+*	*Xitalic
 =:|	=:|
 *-	*-
 !!!EED1: Leo Geng
 !!!EEV1: 2026/09/25
 !!!EED2: Ève Poudrier
-!!!EEV2: 2026/11/25
+!!!EEV2: 2026/11/26
 !!!RNB: Deleted rests before the pick-up note. Deleted the last note, which was the first of the second verse; added repeats sign at the end of m. 14. Capitalization follows text underlay rather than printed text, except for punctuation (no comma after "là!").
